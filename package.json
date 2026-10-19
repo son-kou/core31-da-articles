@@ -1,0 +1,33 @@
+{
+  "name": "danish-core-deep-teacher",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Danish CORE · Deep Teacher — static reading, audio and teaching site for the 31 frozen V3 CORE articles",
+  "scripts": {
+    "dev": "vite",
+    "extract:core": "tsx scripts/extract-core.ts",
+    "validate:core": "tsx scripts/validate-core.ts",
+    "validate:teacher": "tsx scripts/validate-teacher.ts",
+    "validate:audio": "tsx scripts/validate-audio.ts",
+    "validate": "npm run validate:core && npm run validate:audio && npm run validate:teacher",
+    "prompts": "tsx scripts/gen-prompts.ts",
+    "ingest": "tsx scripts/ingest.ts",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173 --strictPort"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^20.17.6",
+    "jsdom": "^25.0.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  }
+}

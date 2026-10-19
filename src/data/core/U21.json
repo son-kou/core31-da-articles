@@ -1,0 +1,226 @@
+{
+ "schema": 1,
+ "unit": "U21",
+ "title": "Danmarkshistorien II",
+ "subtitle": "Fra grundlov til velfærdssamfund",
+ "labels": [
+  "1864",
+  "besættelsen",
+  "velfærdsstaten",
+  "EF"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U21",
+  "tier: CORE",
+  "title: Danmarkshistorien II",
+  "subtitle: Fra grundlov til velfærdssamfund",
+  "labels: 1864 · besættelsen · velfærdsstaten · EF",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Et land i krise"
+  },
+  {
+   "title": "Grundloven"
+  },
+  {
+   "title": "Hvad udad tabes"
+  },
+  {
+   "title": "Nye stemmer"
+  },
+  {
+   "title": "Besættelsen"
+  },
+  {
+   "title": "Velfærd og vækst"
+  },
+  {
+   "title": "Hvorfor gik det så godt?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U21-C001",
+   "text": "Omkring år 1800 var Danmark-Norge stadig et stort rige med kolonier i Vestindien, Indien og Afrika og en af Europas største handelsflåder.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U21-C002",
+   "text": "Få årtier senere var det hele ved at falde fra hinanden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U21-C003",
+   "text": "Englænderne bombarderede København i 1807, staten gik bankerot i 1813, og ved freden i Kiel i 1814 måtte kongen afstå Norge.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U21-C004",
+   "text": "Alligevel blev netop disse år en kulturel guldalder.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U21-C005",
+   "text": "I København skrev H.C. Andersen sine eventyr og Søren Kierkegaard sine filosofiske værker.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U21-C006",
+   "text": "På landet var der samtidig sket en stille revolution.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U21-C007",
+   "text": "Fra slutningen af 1700-tallet blev stavnsbåndet ophævet, landsbyernes fælles marker blev delt op, og mange fæstebønder blev selvejere.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U21-C008",
+   "text": "Reformerne skabte en klasse af selvstændige bønder, der senere skulle få stor politisk betydning.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U21-C009",
+   "text": "Den 5. juni 1849 underskrev Frederik 7. Grundloven, og dermed var enevælden slut.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U21-C010",
+   "text": "Men langt fra alle fik lov til at stemme: Kvinder, tjenestefolk og fattige uden egen husstand var holdt ude.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U21-C011",
+   "text": "Femten år senere førte Danmark krig mod Preussen og Østrig og led et knusende nederlag ved Dybbøl i april 1864.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U21-C012",
+   "text": "Ved freden måtte landet afgive Slesvig, Holsten og Lauenborg og mistede dermed en stor del af sit område og sin befolkning.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U21-C013",
+   "text": "Et kendt motto fra tiden lyder: »Hvad udad tabes, skal indad vindes«, og det blev blandt andet forbundet med opdyrkningen af de jyske heder.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U21-C014",
+   "text": "Andelsbevægelsen bredte sig fra mejerierne til slagterier, foderstofforeninger og brugsforeninger, og danske bønder lagde om fra korn til smør, bacon og æg, som blev solgt til England.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U21-C015",
+   "text": "I 1915 fik kvinder og tjenestefolk valgret, og grundloven blev ændret, så næsten alle voksne kunne stemme.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U21-C016",
+   "text": "I 1920 blev den nordlige del af hertugdømmet genforenet med Danmark og kaldes i dag Sønderjylland, mens den sydlige del forblev tysk.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U21-C017",
+   "text": "Den 9. april 1940 blev Danmark besat af Tyskland, og besættelsen varede i fem år.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U21-C018",
+   "text": "Kampene varede kun nogle timer, og regeringen valgte at fortsætte og samarbejde med besættelsesmagten for at forhindre den i at overtage styret helt.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U21-C019",
+   "text": "Da det i oktober 1943 kom frem, at de danske jøder skulle deporteres, hjalp tusindvis af almindelige danskere dem over Øresund til Sverige.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U21-C020",
+   "text": "Da befrielsen blev meddelt i radioen om aftenen den 4. maj 1945, satte folk levende lys i vinduerne, og den skik holder mange fast i den dag i dag.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U21-C021",
+   "text": "Efter krigen gik Danmark med i NATO, og i de næste årtier voksede økonomien hurtigt.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C022",
+   "text": "Velfærdsstaten blev bygget ud med folkepension til alle, gratis uddannelse, sygehuse og daginstitutioner, finansieret af skatter, der steg kraftigt.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C023",
+   "text": "I 1960'erne og 70'erne kom der fremmedarbejdere fra blandt andet Tyrkiet, Jugoslavien og Pakistan for at arbejde på fabrikkerne, og mange af dem blev i landet.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C024",
+   "text": "I 1972 skulle danskerne ved en folkeafstemning tage stilling til, om landet skulle melde sig ind i Det Europæiske Fællesskab.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C025",
+   "text": "Næsten to ud af tre stemte ja, og den 1. januar 1973 blev Danmark medlem.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C026",
+   "text": "Flygtninge og indvandrere gjorde befolkningen mere mangfoldig, og spørgsmålet om integration blev et af de mest omdiskuterede i dansk politik.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U21-C027",
+   "text": "Hvordan blev et lille, besejret land til et af verdens rigeste velfærdssamfund?",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U21-C028",
+   "text": "Historikerne peger på de selvejende bønder og andelsbevægelsen, på uddannelse og tidlig demokratisering og på evnen til at indgå brede kompromiser.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U21-C029",
+   "text": "Heldet har også spillet en rolle: Danmark slap forholdsvis billigt gennem to verdenskrige og fandt olie og gas i Nordsøen.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U21-C030",
+   "text": "Hvis man skal samle op på 150 år, kan man sige, at nederlaget i 1864 tvang landet til at vende blikket indad.",
+   "ch": 6,
+   "p": 7
+  }
+ ]
+}

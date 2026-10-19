@@ -1,0 +1,187 @@
+【Danish CORE · Deep Teacher】U19 Værdier og tro · 整篇
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U19"
+"part": "ALL"
+"source_fingerprint": "U19-ALL-e0f627493f75"
+sentences 数组必须恰好包含 48 个对象，ID 依次为：
+U19-C001, U19-C002, U19-C003, U19-C004, U19-C005, U19-C006, U19-C007, U19-C008, U19-C009, U19-C010, U19-C011, U19-C012, U19-C013, U19-C014, U19-C015, U19-C016, U19-C017, U19-C018, U19-C019, U19-C020, U19-C021, U19-C022, U19-C023, U19-C024, U19-C025, U19-C026, U19-C027, U19-C028, U19-C029, U19-C030, U19-C031, U19-C032, U19-C033, U19-C034, U19-C035, U19-C036, U19-C037, U19-C038, U19-C039, U19-C040, U19-C041, U19-C042, U19-C043, U19-C044, U19-C045, U19-C046, U19-C047, U19-C048
+
+## 六、文章（冻结原文，只读）
+本次讲解整篇文章的全部 48 句（U19-C001 – U19-C048）。
+
+# U19 · Værdier og tro
+副标题：Frihed, lighed, humor og religion
+主题标签：janteloven · humor · folkekirken · ligestilling
+
+## 第 1 章 · Det ku' være værre
+U19-C001 Søren er 82 og har boet hele sit liv på en gård ved Ringkøbing.
+U19-C002 Hans barnebarn har inviteret ham på restaurant i København for at fejre hans fødselsdag, og tjeneren har netop serveret en lille, kunstfærdig ret med hummer.
+
+U19-C003 [对话 · Barnebarnet] Nå, morfar? Hvad synes du?
+U19-C004 [对话 · Søren] Det ku' være værre.
+U19-C005 [对话 · Barnebarnet] Kan du ikke lide det?
+U19-C006 [对话 · Søren] Jo da. Det er det bedste, jeg har fået i år.
+U19-C007 [对话 · Barnebarnet] Hvorfor siger du det så ikke?
+U19-C008 [对话 · Søren] Det gjorde jeg da lige. … Men det var dog en lille portion.
+
+U19-C009 I Vestjylland er »det ku' være værre« ikke en klage, men en af de højeste former for ros.
+U19-C010 Udtrykket er et skoleeksempel på dansk underdrivelse: Man siger mindre, end man mener, og regner med, at den anden forstår resten.
+U19-C011 Men underdrivelsen har en logik: Den, der roser for meget, risikerer at virke falsk, og den, der klager for meget, virker utaknemmelig.
+
+## 第 2 章 · Du skal ikke tro, at du er noget
+U19-C012 Et andet begreb, som ofte bliver brugt til at forklare dansk kultur, er janteloven.
+U19-C013 Den stammer fra Aksel Sandemoses roman »En flygtning krydser sit spor« fra 1933, der foregår i den fiktive by Jante.
+U19-C014 Lovens første bud lyder: »Du skal ikke tro, at du er noget.«
+U19-C015 Men romanen var en satire over et lille provinssamfund, så den kan ikke uden videre bruges som beskrivelse af danskerne i almindelighed.
+
+## 第 3 章 · Drilleri og selvironi
+U19-C016 Dansk humor er ofte tør og indirekte.
+U19-C017 Man gør gerne grin med sig selv, med vejret og med autoriteter, og det er sjældent et godt tegn, hvis ingen driller én på en arbejdsplads.
+U19-C018 Drilleri kan nemlig være en måde at vise, at man hører til, men grænsen kan være svær at se for den, der er ny.
+U19-C019 Er man i tvivl, er det derfor helt i orden at spørge, hvad de mente.
+
+U19-C020 [对话 · Kollegaen] Flot slips. Skal du til begravelse?
+U19-C021 [对话 · Amir] Nej, til et møde med ledelsen. Er det for meget?
+U19-C022 [对话 · Kollegaen] Slet ikke. Jeg driller bare. Det klæder dig faktisk.
+U19-C023 [对话 · Amir] Godt. Jeg var lige ved at tage det af.
+U19-C024 [对话 · Kollegaen] Det må du vist ikke. Så tror chefen, at du har opgivet.
+
+## 第 4 章 · Frisind
+U19-C025 Et andet ord, som danskere ofte bruger om sig selv, er frisind.
+U19-C026 Det betegner en åben og tolerant holdning til, hvordan andre vælger at leve deres liv, så længe de ikke skader nogen.
+U19-C027 Frisindet har dog sine grænser og sine modsætninger: Den samme befolkning, der går ind for personlig frihed, kan være skeptisk over for skikke, der bryder med flertallets normer.
+
+## 第 5 章 · Kirken og troen
+U19-C028 Danmark har en folkekirke, som ifølge grundloven er evangelisk-luthersk og understøttes af staten.
+U19-C029 Flertallet af danskerne er medlem, og medlemmerne betaler kirkeskat sammen med deres øvrige skat, men andelen er faldet støt gennem de seneste årtier.
+U19-C030 Nogle kalder det kulturkristendom: Man tror måske ikke på alt det, præsten siger, men kirken hører med til livets store overgange.
+U19-C031 Islam er i dag landets næststørste religion, og i de større byer er der moskeer, hvor menigheden samles til fredagsbøn.
+U19-C032 Religionsfrihed betyder ikke, at man skal dele andres tro, men at staten ikke må blande sig i, hvad man tror – så længe man overholder landets love.
+
+## 第 6 章 · Hos præsten
+U19-C033 Da Bents far døde, ringede han til sognepræsten, og to dage senere sad de i præstegårdens stue.
+U19-C034 [对话 · Præsten] Fortæl mig lidt om din far. Hvad var han for et menneske?
+U19-C035 [对话 · Bent] Han var smed. Stille, men han kunne lave alt med sine hænder. Han gik aldrig i kirke, undtagen juleaften.
+U19-C036 [对话 · Præsten] Sådan var det for mange af hans generation.
+U19-C037 [对话 · Bent] Han ønskede at blive bisat, ikke begravet. Urnen skal ned ved siden af min mor.
+U19-C038 [对话 · Præsten] Den synger vi. Vil du selv sige nogle ord?
+U19-C039 [对话 · Bent] Jeg ved ikke, om jeg kan holde det ud.
+U19-C040 [对话 · Præsten] Du kan skrive dem ned, så læser jeg dem op, hvis det bliver for svært.
+U19-C041 I dag bliver langt de fleste bisat, det vil sige brændt.
+
+## 第 7 章 · Lige muligheder
+U19-C042 Ligestilling mellem kønnene er en af de værdier, som mange danskere nævner først, når de skal beskrive deres samfund.
+U19-C043 Alligevel er der stadig forskelle: Langt de fleste topledere i erhvervslivet er mænd, og kvinder tager stadig en større del af det ulønnede arbejde i hjemmet.
+U19-C044 Ligestillingen er langt hen ad vejen nået i loven, men ikke altid i praksis.
+U19-C045 Diskussionen handler i dag om, hvorvidt forskellene skyldes frie valg, gamle normer eller begge dele.
+
+## 第 8 章 · Tolerance
+U19-C046 Tolerance er ikke det samme som at være enig.
+U19-C047 Det betyder netop, at man accepterer, at andre har ret til at mene, tro og leve på måder, man ikke selv bryder sig om.
+U19-C048 Det kræver mest, når det gælder de holdninger, man synes dårligst om.
+
+## 七、本批需要讲解的句子（共 48 句）
+U19-C001 ｜ 第 1 章 ｜ Søren er 82 og har boet hele sit liv på en gård ved Ringkøbing.
+U19-C002 ｜ 第 1 章 ｜ Hans barnebarn har inviteret ham på restaurant i København for at fejre hans fødselsdag, og tjeneren har netop serveret en lille, kunstfærdig ret med hummer.
+U19-C003 ｜ 第 1 章 ｜ [Barnebarnet] Nå, morfar? Hvad synes du?
+U19-C004 ｜ 第 1 章 ｜ [Søren] Det ku' være værre.
+U19-C005 ｜ 第 1 章 ｜ [Barnebarnet] Kan du ikke lide det?
+U19-C006 ｜ 第 1 章 ｜ [Søren] Jo da. Det er det bedste, jeg har fået i år.
+U19-C007 ｜ 第 1 章 ｜ [Barnebarnet] Hvorfor siger du det så ikke?
+U19-C008 ｜ 第 1 章 ｜ [Søren] Det gjorde jeg da lige. … Men det var dog en lille portion.
+U19-C009 ｜ 第 1 章 ｜ I Vestjylland er »det ku' være værre« ikke en klage, men en af de højeste former for ros.
+U19-C010 ｜ 第 1 章 ｜ Udtrykket er et skoleeksempel på dansk underdrivelse: Man siger mindre, end man mener, og regner med, at den anden forstår resten.
+U19-C011 ｜ 第 1 章 ｜ Men underdrivelsen har en logik: Den, der roser for meget, risikerer at virke falsk, og den, der klager for meget, virker utaknemmelig.
+U19-C012 ｜ 第 2 章 ｜ Et andet begreb, som ofte bliver brugt til at forklare dansk kultur, er janteloven.
+U19-C013 ｜ 第 2 章 ｜ Den stammer fra Aksel Sandemoses roman »En flygtning krydser sit spor« fra 1933, der foregår i den fiktive by Jante.
+U19-C014 ｜ 第 2 章 ｜ Lovens første bud lyder: »Du skal ikke tro, at du er noget.«
+U19-C015 ｜ 第 2 章 ｜ Men romanen var en satire over et lille provinssamfund, så den kan ikke uden videre bruges som beskrivelse af danskerne i almindelighed.
+U19-C016 ｜ 第 3 章 ｜ Dansk humor er ofte tør og indirekte.
+U19-C017 ｜ 第 3 章 ｜ Man gør gerne grin med sig selv, med vejret og med autoriteter, og det er sjældent et godt tegn, hvis ingen driller én på en arbejdsplads.
+U19-C018 ｜ 第 3 章 ｜ Drilleri kan nemlig være en måde at vise, at man hører til, men grænsen kan være svær at se for den, der er ny.
+U19-C019 ｜ 第 3 章 ｜ Er man i tvivl, er det derfor helt i orden at spørge, hvad de mente.
+U19-C020 ｜ 第 3 章 ｜ [Kollegaen] Flot slips. Skal du til begravelse?
+U19-C021 ｜ 第 3 章 ｜ [Amir] Nej, til et møde med ledelsen. Er det for meget?
+U19-C022 ｜ 第 3 章 ｜ [Kollegaen] Slet ikke. Jeg driller bare. Det klæder dig faktisk.
+U19-C023 ｜ 第 3 章 ｜ [Amir] Godt. Jeg var lige ved at tage det af.
+U19-C024 ｜ 第 3 章 ｜ [Kollegaen] Det må du vist ikke. Så tror chefen, at du har opgivet.
+U19-C025 ｜ 第 4 章 ｜ Et andet ord, som danskere ofte bruger om sig selv, er frisind.
+U19-C026 ｜ 第 4 章 ｜ Det betegner en åben og tolerant holdning til, hvordan andre vælger at leve deres liv, så længe de ikke skader nogen.
+U19-C027 ｜ 第 4 章 ｜ Frisindet har dog sine grænser og sine modsætninger: Den samme befolkning, der går ind for personlig frihed, kan være skeptisk over for skikke, der bryder med flertallets normer.
+U19-C028 ｜ 第 5 章 ｜ Danmark har en folkekirke, som ifølge grundloven er evangelisk-luthersk og understøttes af staten.
+U19-C029 ｜ 第 5 章 ｜ Flertallet af danskerne er medlem, og medlemmerne betaler kirkeskat sammen med deres øvrige skat, men andelen er faldet støt gennem de seneste årtier.
+U19-C030 ｜ 第 5 章 ｜ Nogle kalder det kulturkristendom: Man tror måske ikke på alt det, præsten siger, men kirken hører med til livets store overgange.
+U19-C031 ｜ 第 5 章 ｜ Islam er i dag landets næststørste religion, og i de større byer er der moskeer, hvor menigheden samles til fredagsbøn.
+U19-C032 ｜ 第 5 章 ｜ Religionsfrihed betyder ikke, at man skal dele andres tro, men at staten ikke må blande sig i, hvad man tror – så længe man overholder landets love.
+U19-C033 ｜ 第 6 章 ｜ Da Bents far døde, ringede han til sognepræsten, og to dage senere sad de i præstegårdens stue.
+U19-C034 ｜ 第 6 章 ｜ [Præsten] Fortæl mig lidt om din far. Hvad var han for et menneske?
+U19-C035 ｜ 第 6 章 ｜ [Bent] Han var smed. Stille, men han kunne lave alt med sine hænder. Han gik aldrig i kirke, undtagen juleaften.
+U19-C036 ｜ 第 6 章 ｜ [Præsten] Sådan var det for mange af hans generation.
+U19-C037 ｜ 第 6 章 ｜ [Bent] Han ønskede at blive bisat, ikke begravet. Urnen skal ned ved siden af min mor.
+U19-C038 ｜ 第 6 章 ｜ [Præsten] Den synger vi. Vil du selv sige nogle ord?
+U19-C039 ｜ 第 6 章 ｜ [Bent] Jeg ved ikke, om jeg kan holde det ud.
+U19-C040 ｜ 第 6 章 ｜ [Præsten] Du kan skrive dem ned, så læser jeg dem op, hvis det bliver for svært.
+U19-C041 ｜ 第 6 章 ｜ I dag bliver langt de fleste bisat, det vil sige brændt.
+U19-C042 ｜ 第 7 章 ｜ Ligestilling mellem kønnene er en af de værdier, som mange danskere nævner først, når de skal beskrive deres samfund.
+U19-C043 ｜ 第 7 章 ｜ Alligevel er der stadig forskelle: Langt de fleste topledere i erhvervslivet er mænd, og kvinder tager stadig en større del af det ulønnede arbejde i hjemmet.
+U19-C044 ｜ 第 7 章 ｜ Ligestillingen er langt hen ad vejen nået i loven, men ikke altid i praksis.
+U19-C045 ｜ 第 7 章 ｜ Diskussionen handler i dag om, hvorvidt forskellene skyldes frie valg, gamle normer eller begge dele.
+U19-C046 ｜ 第 8 章 ｜ Tolerance er ikke det samme som at være enig.
+U19-C047 ｜ 第 8 章 ｜ Det betyder netop, at man accepterer, at andre har ret til at mene, tro og leve på måder, man ikke selv bryder sig om.
+U19-C048 ｜ 第 8 章 ｜ Det kræver mest, når det gælder de holdninger, man synes dårligst om.
+
+输出前请自检：JSON 能被解析；sentences 共 48 项，第一个是 U19-C001，最后一个是 U19-C048；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

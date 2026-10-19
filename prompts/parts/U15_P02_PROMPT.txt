@@ -1,0 +1,158 @@
+【Danish CORE · Deep Teacher】U15 Retssamfundet · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U15"
+"part": "P02"
+"source_fingerprint": "U15-P02-37381a5064fd"
+sentences 数组必须恰好包含 14 个对象，ID 依次为：
+U15-C014, U15-C015, U15-C016, U15-C017, U15-C018, U15-C019, U15-C020, U15-C021, U15-C022, U15-C023, U15-C024, U15-C025, U15-C026, U15-C027
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 4 批，讲解 14 句（U15-C014 – U15-C027）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U15 · Retssamfundet
+副标题：Lov, ret og straf
+主题标签：politi · domstole · retssikkerhed · straf
+
+## 第 1 章 · En lørdag nat i Aalborg
+  U15-C001 Klokken er kvart over tre en lørdag nat, og køen ved pølsevognen på Jomfru Ane Gade er lang.
+  U15-C002 Pludselig opstår der et skænderi mellem to grupper unge mænd, og et øjeblik senere ligger en 22-årig på brostenene med blod i ansigtet.
+  U15-C003 En forbipasserende ringer 112, og få minutter efter er både en ambulance og en patruljevogn på stedet.
+  U15-C004 Offeret har brækket næsen og fået en hjernerystelse, men han kan ikke sige, hvem der slog.
+  U15-C005 To dage senere bliver en 24-årig mand, som vi her kalder Kenneth, anholdt i sin lejlighed.
+  U15-C006 Han nægter at have slået nogen.
+
+  U15-C007 Efter en anholdelse har politiet højst et døgn til at bringe den anholdte for en dommer.
+  U15-C008 Det kaldes et grundlovsforhør, fordi kravet står i grundloven, og formålet er at sikre, at ingen bliver holdt indespærret uden en domstols kontrol.
+  U15-C009 Kenneth bliver løsladt, men sigtet for vold.
+  U15-C010 Til sidst beslutter anklagemyndigheden at rejse tiltale.
+
+## 第 2 章 · I retssalen
+  U15-C011 Sagen bliver behandlet i byretten et halvt år senere.
+  U15-C012 Anklageren gennemgår anklageskriftet, og Kenneth nægter sig skyldig.
+  U15-C013 Det vigtigste vidne er en ung kvinde, der stod i køen ved pølsevognen.
+
+▶ U15-C014 [对话 · Anklageren] Kan du fortælle, hvad du så?
+▶ U15-C015 [对话 · Vidnet] Der var nogle, der råbte, og så slog en i en mørk jakke ud efter ham, der faldt.
+▶ U15-C016 [对话 · Anklageren] Kan du se ham her i retssalen?
+▶ U15-C017 [对话 · Vidnet] Jeg tror, det er ham. Men jeg er ikke helt sikker.
+▶ U15-C018 [对话 · Forsvareren] Du havde drukket en del den aften, ikke sandt?
+▶ U15-C019 [对话 · Vidnet] Et par øl.
+▶ U15-C020 [对话 · Forsvareren] Et par?
+▶ U15-C021 [对话 · Vidnet] Fem, måske seks.
+▶ U15-C022 [对话 · Forsvareren] Og kunne du se hans ansigt?
+▶ U15-C023 [对话 · Vidnet] Ikke helt. Han havde hætte på.
+
+▶ U15-C024 Videooptagelserne viser en mand i mørk jakke, men billedet er sløret, og ansigtet er skjult af hætten.
+▶ U15-C025 Kenneth har en mørk jakke, men det har halvdelen af de unge mænd i Aalborg en lørdag nat i februar.
+▶ U15-C026 Retten frifinder ham.
+▶ U15-C027 I dommen står der, at det ikke er bevist ud over enhver rimelig tvivl, at det var Kenneth, der slog.
+
+## 第 3 章 · Uskyldig, indtil det modsatte er bevist
+  U15-C028 For offeret og hans familie er dommen svær at acceptere.
+  U15-C029 Nogen slog ham, og ingen bliver straffet for det.
+  U15-C030 Alligevel er frifindelsen udtryk for et af retssamfundets grundprincipper: uskyldsformodningen.
+  U15-C031 Man er uskyldig, indtil det modsatte er bevist, og det er anklagemyndigheden, der skal bevise skylden – ikke den tiltalte, der skal bevise sin uskyld.
+  U15-C032 Er der rimelig tvivl, skal tvivlen komme den tiltalte til gode.
+  U15-C033 At blive frifundet er derfor ikke det samme som at være bevist uskyldig.
+  U15-C034 Tilsammen udgør disse principper det, man kalder retssikkerhed: borgernes beskyttelse mod vilkårlige og uretfærdige indgreb fra statens side.
+
+## 第 4 章 · Frihed og grænser
+  U15-C035 Grundloven forbyder censur, og man kan ytre sig frit i tale og på skrift – men man kan stilles til ansvar bagefter.
+  U15-C036 Det er for eksempel strafbart at fremsætte alvorlige trusler, krænke en andens ære eller offentligt forhåne eller nedværdige en gruppe på grund af blandt andet hudfarve, religion eller seksuel orientering.
+
+## 第 5 章 · Hverdagens jura
+  U15-C037 Bliver cyklen stjålet, eller er der indbrud i sommerhuset, anmelder man det på politiets hjemmeside.
+  U15-C038 Mange tyverier bliver aldrig opklaret, men anmeldelsen er nødvendig, hvis forsikringen skal dække tabet.
+  U15-C039 De fleste mennesker kommer aldrig i nærheden af en straffesag, men mange bliver på et tidspunkt part i en civil sag.
+  U15-C040 Det kan være en strid om et depositum, en håndværker, der ikke har gjort sit arbejde ordentligt, eller en arv, som søskende ikke kan blive enige om.
+  U15-C041 I civile sager er det ikke staten, der anklager nogen; det er den ene part, der sagsøger den anden og kræver for eksempel penge eller erstatning.
+  U15-C042 Mange domstole tilbyder retsmægling, hvor en neutral mægler hjælper parterne med at finde en løsning, de begge kan leve med.
+  U15-C043 Mange nabostridigheder – om et træ, der skygger, eller en hæk, der er vokset for højt – ender aldrig i retten, fordi parterne når til enighed ved køkkenbordet.
+
+## 第 6 章 · Konfliktrådet
+  U15-C044 Et halvt år efter et indbrud i Odense sidder en 16-årig dreng og en 78-årig kvinde over for hinanden i et konfliktråd: et frivilligt møde med en mægler.
+  U15-C045 [对话 · Mægleren] Inger, vil du begynde med at fortælle, hvordan det har været for dig?
+  U15-C046 [对话 · Inger] Det værste var ikke de ting, der forsvandt. Det var, at jeg ikke kunne sove i mit eget hus bagefter. Jeg lå og lyttede efter lyde hele natten.
+  U15-C047 [对话 · Mægleren] Noah, hvad tænker du, når du hører det?
+  U15-C048 [对话 · Noah] Jeg tænkte slet ikke på, at der boede nogen. Altså, jeg vidste det godt, men jeg tænkte bare på, at der ikke var nogen hjemme.
+  U15-C049 [对话 · Inger] Hvorfor lige mit hus?
+  U15-C050 [对话 · Noah] Vinduet stod på klem. Det var ikke noget personligt.
+  U15-C051 [对话 · Inger] Det føltes meget personligt.
+  U15-C052 [对话 · Noah] Det forstår jeg godt nu. Jeg er virkelig ked af det.
+
+## 第 7 章 · Prisen for tvivlen
+  U15-C053 Kenneth gik fri.
+  U15-C054 Hvem der slog den 22-årige ned den nat i februar, ved vi ikke.
+  U15-C055 Det er prisen for et system, der hellere vil leve med den uvished end med en uskyldig i fængsel.
+
+## 七、本批需要讲解的句子（共 14 句）
+U15-C014 ｜ 第 2 章 ｜ [Anklageren] Kan du fortælle, hvad du så?
+U15-C015 ｜ 第 2 章 ｜ [Vidnet] Der var nogle, der råbte, og så slog en i en mørk jakke ud efter ham, der faldt.
+U15-C016 ｜ 第 2 章 ｜ [Anklageren] Kan du se ham her i retssalen?
+U15-C017 ｜ 第 2 章 ｜ [Vidnet] Jeg tror, det er ham. Men jeg er ikke helt sikker.
+U15-C018 ｜ 第 2 章 ｜ [Forsvareren] Du havde drukket en del den aften, ikke sandt?
+U15-C019 ｜ 第 2 章 ｜ [Vidnet] Et par øl.
+U15-C020 ｜ 第 2 章 ｜ [Forsvareren] Et par?
+U15-C021 ｜ 第 2 章 ｜ [Vidnet] Fem, måske seks.
+U15-C022 ｜ 第 2 章 ｜ [Forsvareren] Og kunne du se hans ansigt?
+U15-C023 ｜ 第 2 章 ｜ [Vidnet] Ikke helt. Han havde hætte på.
+U15-C024 ｜ 第 2 章 ｜ Videooptagelserne viser en mand i mørk jakke, men billedet er sløret, og ansigtet er skjult af hætten.
+U15-C025 ｜ 第 2 章 ｜ Kenneth har en mørk jakke, men det har halvdelen af de unge mænd i Aalborg en lørdag nat i februar.
+U15-C026 ｜ 第 2 章 ｜ Retten frifinder ham.
+U15-C027 ｜ 第 2 章 ｜ I dommen står der, at det ikke er bevist ud over enhver rimelig tvivl, at det var Kenneth, der slog.
+
+输出前请自检：JSON 能被解析；sentences 共 14 项，第一个是 U15-C014，最后一个是 U15-C027；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

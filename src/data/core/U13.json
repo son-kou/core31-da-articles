@@ -1,0 +1,371 @@
+{
+ "schema": 1,
+ "unit": "U13",
+ "title": "Uddannelse og læring",
+ "subtitle": "Fra den sorte skole til livslang læring",
+ "labels": [
+  "skole",
+  "dannelse",
+  "læring",
+  "uddannelsessystemet"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U13",
+  "tier: CORE",
+  "title: Uddannelse og læring",
+  "subtitle: Fra den sorte skole til livslang læring",
+  "labels: skole · dannelse · læring · uddannelsessystemet",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Et ord uden oversættelse"
+  },
+  {
+   "title": "Skolen for livet"
+  },
+  {
+   "title": "Systemet i grove træk"
+  },
+  {
+   "title": "En dag i 7.b"
+  },
+  {
+   "title": "Skole-hjem-samtalen"
+  },
+  {
+   "title": "Klasseværelset"
+  },
+  {
+   "title": "Hvordan lærer vi?"
+  },
+  {
+   "title": "Livslang læring"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U13-C001",
+   "text": "Ordet dannelse har ikke noget præcist modstykke på engelsk.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U13-C002",
+   "text": "Uddannelse er det, man kan skrive på sit cv: eksamener, kurser og grader.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U13-C003",
+   "text": "Dannelse er det, der ikke står på et cv: evnen til at forstå andre mennesker, tage del i et fællesskab og danne sig sin egen mening.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U13-C004",
+   "text": "Præsten og digteren N.F.S. Grundtvig drømte i 1800-tallet om en skole for livet, hvor samtalen og fortællingen var vigtigere end eksamener.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U13-C005",
+   "text": "Tanken lever videre på folkehøjskolerne, hvor voksne bor sammen i nogle måneder og lærer alt fra filosofi til keramik – uden karakterer.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U13-C006",
+   "text": "Samme tradition ligger bag efterskolerne: Mange unge tager et år på efterskole, typisk i 9. eller 10. klasse.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U13-C007",
+   "text": "Her bor de på skolen, bliver mere selvstændige og prøver kræfter med noget andet end det, de kender hjemmefra.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U13-C008",
+   "text": "I Danmark er der ti års undervisningspligt, men ikke skolepligt.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C009",
+   "text": "Forskellen er vigtig: Det er undervisningen, der er obligatorisk, så forældre kan vælge en fri- eller privatskole og i princippet også undervise deres børn hjemme.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C010",
+   "text": "De fleste begynder i den kommunale folkeskole i børnehaveklassen og fortsætter til 9. klasse, hvor skolen slutter med afgangsprøver.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C011",
+   "text": "Efter 9. klasse vælger de unge enten en gymnasial uddannelse eller en erhvervsuddannelse, hvor man skiftevis går i skole og er i praktik i en virksomhed.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C012",
+   "text": "Når de sidste eksamener i gymnasiet er overstået, får de nye studenter en hvid hue på hovedet og kører rundt i en pyntet lastbil fra hjem til hjem.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C013",
+   "text": "Karakterskalaen har syv trin, fra -3 til 12, og 02 er det laveste, man kan bestå med.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C014",
+   "text": "En universitetsuddannelse består typisk af en bachelor på tre år og en kandidat ovenpå, og danske studerende kan få SU, mens de læser.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C015",
+   "text": "I modsætning til i mange andre lande behøver unge derfor sjældent at låne store summer for at studere.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U13-C016",
+   "text": "Ind imellem er der frikvarterer, hvor eleverne spiller fodbold i skolegården eller sidder i små grupper og snakker.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U13-C017",
+   "text": "Ud over dansk, matematik og sprog har eleverne idræt, billedkunst, madkundskab og håndværk og design – fag, hvor de laver mad, syr og saver.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U13-C018",
+   "text": "Klasselæreren holder øje med klassens trivsel og mødes typisk en eller to gange om året med forældrene til en skole-hjem-samtale.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U13-C019",
+   "text": "En aften i november sidder Mads, hans mor og klasselæreren omkring et lille bord i klasselokalet.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U13-C020",
+   "text": "Mads, du er rigtig dygtig til matematik. Du er en af dem, der hurtigst forstår nye ting.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C021",
+   "text": "Tak.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U13-C022",
+   "text": "Men du siger ikke så meget i timerne. Når vi diskuterer i dansk, sidder du tit og kigger ned i bordet.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C023",
+   "text": "Han er nok bare lidt genert. Det har han altid været.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U13-C024",
+   "text": "Det er helt i orden at være genert. Men jeg vil gerne have, at du øver dig i at sige din mening, også når du ikke er helt sikker.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C025",
+   "text": "Hvad nu, hvis det er forkert?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U13-C026",
+   "text": "Så har du lært noget, og det har dine kammerater måske også. Hvad siger du til, at du starter med at sige én ting i hver dansktime?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C027",
+   "text": "Én ting. Det kan jeg godt.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U13-C028",
+   "text": "Og vi kan øve os derhjemme ved middagsbordet.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U13-C029",
+   "text": "Det behøver I altså ikke.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U13-C030",
+   "text": "Samtalen varer et kvarter, og Mads går derfra med en lille, overkommelig opgave i stedet for en lang liste over ting, han skal blive bedre til.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U13-C031",
+   "text": "Mange udenlandske studerende bliver overraskede over, hvor meget danske elever siger.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U13-C032",
+   "text": "Lærerne forventer, at eleverne deltager i diskussionen og siger deres mening, også når de er uenige med læreren, og ingen kalder læreren hr. eller fru.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U13-C033",
+   "text": "Emma i 2.g har fået sin danskopgave tilbage og går op til læreren efter timen.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U13-C034",
+   "text": "Må jeg spørge, hvorfor jeg fik 7 og ikke 10?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U13-C035",
+   "text": "Selvfølgelig. Det er rigtigt, at din analyse er god, men du bruger næsten ingen citater fra teksten.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C036",
+   "text": "Så jeg skulle have vist det mere?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U13-C037",
+   "text": "Ja. Du skal ikke bare påstå noget om digtet – du skal pege på de steder, hvor det står.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C038",
+   "text": "Okay. Kan jeg aflevere en ny version?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U13-C039",
+   "text": "Karakteren kan jeg ikke lave om. Men send den gerne, så kigger jeg på den.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Læreren"
+  },
+  {
+   "id": "U13-C040",
+   "text": "Forskningen i hukommelse viser, at man husker mere på lang sigt, når man prøver at genkalde sig stoffet, end når man blot læser det igen.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U13-C041",
+   "text": "Det gælder også, at gentagelser virker bedre, når de bliver fordelt over tid, end når de bliver samlet på én gang.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U13-C042",
+   "text": "Derfor giver det mere at øve sig lidt hver dag end at læse op til eksamen natten før.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U13-C043",
+   "text": "Motivation spiller også en stor rolle: Den, der er optaget af et emne, holder fast ved det, også når det bliver svært.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U13-C044",
+   "text": "Uddannelse slutter ikke med den sidste eksamen.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U13-C045",
+   "text": "Danmark er et af de lande i Europa, hvor flest voksne deltager i undervisning, fra korte kurser for faglærte til fag på gymnasieniveau på et voksenuddannelsescenter og sprogkurser på aftenskolen.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U13-C046",
+   "text": "For mange tilflyttere er sprogcentret den første danske institution, de lærer at kende indefra.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U13-C047",
+   "text": "Her er der lektier og modultest – og en lærer, der insisterer på, at man siger noget, også selvom det ikke er helt rigtigt.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U13-C048",
+   "text": "Mange arbejdsgivere sætter pris på medarbejdere, der lærer nyt, og på mange arbejdspladser er efteruddannelse en del af overenskomsten.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U13-C049",
+   "text": "På en højskole i Vestjylland sidder en tidligere fisker på 74 år og skriver sit første digt.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U13-C050",
+   "text": "Han får ingen karakter og skal ikke bruge digtet til noget.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U13-C051",
+   "text": "Alligevel har han skrevet det om fire gange.",
+   "ch": 7,
+   "p": 12
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "schema": 1,
+ "unit": "U30",
+ "title": "Viden og argumentation",
+ "subtitle": "Hvordan ved vi det – og hvordan overbeviser vi?",
+ "labels": [
+  "videnskab",
+  "usikkerhed",
+  "tankefejl",
+  "argumentation"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U30",
+  "tier: CORE",
+  "title: Viden og argumentation",
+  "subtitle: Hvordan ved vi det – og hvordan overbeviser vi?",
+  "labels: videnskab · usikkerhed · tankefejl · argumentation",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "En nål, der flyttede sig"
+  },
+  {
+   "title": "Fra observation til viden"
+  },
+  {
+   "title": "Når tal snyder"
+  },
+  {
+   "title": "Hjernens genveje"
+  },
+  {
+   "title": "Et arguments anatomi"
+  },
+  {
+   "title": "At være uenig på en god måde"
+  },
+  {
+   "title": "Redelighed"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U30-C001",
+   "text": "Da H.C. Ørsted i 1820 sluttede en strømkreds under en forelæsning i København, flyttede en kompasnål sig.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U30-C002",
+   "text": "Historien bliver ofte fortalt som et lykketræf.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U30-C003",
+   "text": "Men Ørsted vidste, hvad han ledte efter, og han vidste, at én observation ikke var nok.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U30-C004",
+   "text": "Man observerer noget, formulerer en hypotese, der kan forklare det, og tester hypotesen med forsøg, som i princippet kan vise, at den er forkert.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U30-C005",
+   "text": "Et forsøg, der går som forventet, beviser ikke, at hypotesen er rigtig; det viser kun, at forsøget ikke har afkræftet den.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U30-C006",
+   "text": "Går forsøget derimod imod hypotesen, må man forkaste den eller i det mindste revidere den.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U30-C007",
+   "text": "Usikkerhed er en del af al viden.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U30-C008",
+   "text": "Når en meningsmåling giver et parti 20 procent af stemmerne, er der typisk en statistisk usikkerhed på et par procentpoint i begge retninger.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U30-C009",
+   "text": "Et fald på ét procentpoint fra den ene måling til den næste skal derfor ses i relation til usikkerheden, og ofte er det ren tilfældighed.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U30-C010",
+   "text": "I medicinsk forskning sammenligner man en gruppe, der får en ny behandling, med en kontrolgruppe, der får placebo, en såkaldt narrepille.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U30-C011",
+   "text": "Kontrolgruppen er nødvendig, fordi mange får det lidt bedre alene af at tro, at de bliver behandlet.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U30-C012",
+   "text": "I de mest pålidelige forsøg ved hverken patienterne eller lægerne undervejs, hvem der får hvad.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U30-C013",
+   "text": "I det seneste årti har forskere inden for blandt andet psykologi og medicin forsøgt at gentage kendte undersøgelser, og en overraskende stor del af resultaterne holdt ikke.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U30-C014",
+   "text": "Konklusionen er, at man skal være varsom med at bygge for meget på et enkelt studie, og ikke, at man slet ikke kan stole på forskning.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U30-C015",
+   "text": "Tal virker objektive, men de kan føre os på vildspor, hvis vi ikke spørger, hvor de kommer fra.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C016",
+   "text": "Om sommeren stiger salget af is, og i de samme uger stiger antallet af drukneulykker.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C017",
+   "text": "Ingen tror for alvor, at is får folk til at drukne: Begge dele skyldes varmen, som får flere til både at købe is og at bade.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C018",
+   "text": "En sammenhæng mellem to ting er altså ikke i sig selv et bevis for, at den ene er årsag til den anden.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C019",
+   "text": "Det bliver glemt overraskende tit, når en undersøgelse havner i en overskrift.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C020",
+   "text": "Gennemsnit kan også snyde.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C021",
+   "text": "Hvis ni personer tjener 30.000 kroner om måneden, og den tiende tjener tre millioner, er gennemsnitsindkomsten over 300.000 kroner, selvom ingen af de ni er i nærheden af det beløb.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C022",
+   "text": "Derfor bruger statistikere ofte medianen, altså det midterste tal, når de vil beskrive en typisk indkomst.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U30-C023",
+   "text": "Vi lægger mere mærke til det, der bekræfter det, vi i forvejen tror, end til det, der modsiger det – et fænomen, som psykologer kalder bekræftelsesbias.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C024",
+   "text": "Vi baserer vores vurdering af, hvor almindeligt noget er, på hvor let vi kommer i tanke om eksempler.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C025",
+   "text": "Medierne fokuserer ofte på dramatiske og sjældne ulykker.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C026",
+   "text": "Det er en af grundene til, at mange er mere bange for at flyve end for at køre bil, selvom bilkørsel er langt farligere, når man sammenligner dødsrisikoen pr. passagerkilometer.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C027",
+   "text": "Der er bred enighed om, at ingen er immune over for den slags genveje – heller ikke de kloge.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C028",
+   "text": "Vi kan i et vist omfang lære at opdage dem hos os selv, men det er altid lettere at sætte spørgsmålstegn ved andres overbevisninger end ved sine egne.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U30-C029",
+   "text": "I gymnasiet lærer mange elever at analysere argumenter ved at dele dem op i nogle få dele.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C030",
+   "text": "Påstanden er det, man vil overbevise andre om.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C031",
+   "text": "Belægget er de oplysninger, påstanden er baseret på.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C032",
+   "text": "Hjemlen er den forbindelse mellem belæg og påstand, der gør, at belægget overhovedet støtter påstanden, og i praksis bliver den sjældent sagt højt.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C033",
+   "text": "Et argument kan være logisk i orden og alligevel forkert, hvis belægget ikke holder.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C034",
+   "text": "Tag påstanden: »Kommunen bør plante flere træer i byens gader.«",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C035",
+   "text": "Belægget kan være, at træer giver skygge på varme dage og opsuger regnvand ved skybrud.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C036",
+   "text": "Hjemlen – det, der ikke bliver sagt – er, at kommunen har et ansvar for at beskytte borgerne mod konsekvenserne af et varmere og vådere klima.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C037",
+   "text": "Mange diskussioner kører fast, fordi parterne i virkeligheden er enige om belægget, men uenige om hjemlen – altså om, hvilke værdier der skal veje tungest.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U30-C038",
+   "text": "To elever i 2.g skal diskutere, om skolen bør forbyde mobiltelefoner i timerne.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U30-C039",
+   "text": "Læreren har bedt dem om at finde ud af, hvad de egentlig er uenige om – ikke om at vinde.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U30-C040",
+   "text": "Jeg synes, vi skal forbyde dem. Halvdelen af klassen sidder på sociale medier i stedet for at følge med.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U30-C041",
+   "text": "Det kan godt være, men vi bruger dem også som ordbog og til at tjekke fakta.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Ali"
+  },
+  {
+   "id": "U30-C042",
+   "text": "Det kan man da gøre på computeren.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U30-C043",
+   "text": "Ja, men så er problemet jo ikke telefonen. Så er det, at vi ikke kan styre os.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Ali"
+  },
+  {
+   "id": "U30-C044",
+   "text": "Okay. Hvad skulle der til for at overbevise dig?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U30-C045",
+   "text": "Hvis nogen havde lavet forsøg, der viste, at man rent faktisk lærer mere uden. Ikke bare at lærerne synes, der er mere ro.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Ali"
+  },
+  {
+   "id": "U30-C046",
+   "text": "Der findes nogle undersøgelser, der peger i den retning. Men de er ikke helt entydige, det må jeg indrømme.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U30-C047",
+   "text": "Kunne vi ikke bare prøve det i vores klasse et halvt år og se, hvad der sker?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Ali"
+  },
+  {
+   "id": "U30-C048",
+   "text": "Fint. Og hvis karaktererne ikke bliver bedre, må jeg give dig ret.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U30-C049",
+   "text": "Og hvis de gør, så må jeg give dig ret.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Ali"
+  },
+  {
+   "id": "U30-C050",
+   "text": "Diskussionen endte ikke med, at nogen vandt.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U30-C051",
+   "text": "Den endte med en aftale om, hvad der skulle til for at afgøre sagen, og det er ofte mere værd end en sejr.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U30-C052",
+   "text": "Den, der vil være uenig på en god måde, gengiver først modpartens synspunkt så fair og præcist som muligt, før vedkommende kritiserer det.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U30-C053",
+   "text": "Man skelner mellem det, man ved, og det, man mener, og man spørger hellere »Hvordan ved du det?« end »Hvorfor tror du på det vrøvl?«",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U30-C054",
+   "text": "Og man går ind i diskussionen med en reel mulighed for at skifte mening.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U30-C055",
+   "text": "At være intellektuelt redelig er at sige, hvad man ved, og hvad man ikke ved.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U30-C056",
+   "text": "Det er at lade beviserne afgøre sagen, også når de peger i en retning, man ikke bryder sig om.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U30-C057",
+   "text": "Og det er at kunne sige de tre sværeste ord i enhver diskussion: »Jeg tog fejl.«",
+   "ch": 6,
+   "p": 11
+  }
+ ]
+}

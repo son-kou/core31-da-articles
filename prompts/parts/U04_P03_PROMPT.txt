@@ -1,0 +1,201 @@
+【Danish CORE · Deep Teacher】U04 Følelser og relationer · P03
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U04"
+"part": "P03"
+"source_fingerprint": "U04-P03-1653cd5bc242"
+sentences 数组必须恰好包含 15 个对象，ID 依次为：
+U04-C033, U04-C034, U04-C035, U04-C036, U04-C037, U04-C038, U04-C039, U04-C040, U04-C041, U04-C042, U04-C043, U04-C044, U04-C045, U04-C046, U04-C047
+
+## 六、文章（冻结原文，只读）
+本次是第 3 / 6 批，讲解 15 句（U04-C033 – U04-C047）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U04 · Følelser og relationer
+副标题：Venskab, kærlighed, konflikt og ensomhed
+主题标签：følelser · venskab · konflikt · ensomhed
+
+## 第 1 章 · Tre uger efter
+  U04-C001 [对话 · Kasper] Hej. Har du ventet længe?
+  U04-C002 [对话 · Mathilde] Nej, nej. Jeg er lige kommet.
+  U04-C003 [对话 · Kasper] Skal jeg hente en kaffe til dig?
+  U04-C004 [对话 · Mathilde] Jeg har allerede bestilt.
+  U04-C005 [对话 · Kasper] Nå. … Hvordan går det ellers?
+  U04-C006 [对话 · Mathilde] Fint nok. Travlt.
+  U04-C007 [对话 · Kasper] Du har vist fået ny chef?
+  U04-C008 [对话 · Mathilde] Ja. Og så er jeg blevet teamleder.
+  U04-C009 [对话 · Kasper] Det var da spændende!
+  U04-C010 [对话 · Mathilde] Det er det. Det meste af tiden.
+
+  U04-C011 Efter fem minutter er de ved at løbe tør for småsnak.
+  U04-C012 Det er tre uger siden Mathildes 30-års fødselsdag, hvor Kasper skulle have holdt tale.
+  U04-C013 En time før gæsterne kom, skrev han, at han desværre ikke kunne komme, og siden har ingen af dem rørt ved emnet.
+  U04-C014 De har kendt hinanden siden gymnasiet.
+  U04-C015 Netop derfor gør tavsheden ondt.
+  U04-C016 Kasper havde godt nok sendt en sms, men en sms er ikke en forklaring.
+  U04-C017 Mathilde har sagt til sig selv, at hun ikke er vred.
+  U04-C018 Hun er skuffet – over ham og lidt over sig selv, fordi hun ikke har sagt noget.
+
+## 第 2 章 · Små ord, store forskelle
+  U04-C019 Dansk har mange ord for, hvordan man har det, og forskellene mellem dem er små, men ikke ligegyldige.
+  U04-C020 Sur bliver man over en glemt aftale; vred bliver man over et svigt.
+  U04-C021 Skuffelse forudsætter forventninger, og derfor er det ofte dem, der står os nærmest, der kan skuffe os mest.
+  U04-C022 Den, der er ked af det, er trist over noget bestemt, mens den, der er nedtrykt, har det tungt i længere tid.
+  U04-C023 Flov bliver vi over noget, vi selv har gjort, mens en situation kan være pinlig for alle, der er til stede.
+  U04-C024 Misundelse handler om noget, andre har, og som vi selv gerne ville have; jalousi handler om frygten for at miste noget, vi allerede har.
+  U04-C025 Og man kan sagtens være alene uden at være ensom – eller føle sig ensom midt i en fuld kantine.
+  U04-C026 De positive følelser er lige så præcise, og her betyder præpositionerne meget.
+  U04-C027 Vi er glade for vores cykel, men glade over en god nyhed; vi er stolte af vores børn, taknemmelige for hjælp og nervøse for en eksamen.
+  U04-C028 »Hvordan går det?« er en hilsen, som man kan svare »fint« på uden at lyve ret meget.
+  U04-C029 »Hvordan har du det?« inviterer derimod til et rigtigt svar – især hvis man tilføjer et lille »egentlig«.
+
+  U04-C030 Et udtryk, mange udlændinge lægger mærke til, er »Jeg under dig det«: Man glæder sig på den andens vegne og signalerer, at vedkommende har fortjent det.
+
+  U04-C031 [对话 · Mathilde] Har du hørt det? Jeg har fået jobbet i Aarhus!
+  U04-C032 [对话 · Sofie] Nej! Tillykke! Jeg under dig det virkelig.
+
+## 第 3 章 · Følelser i kroppen
+▶ U04-C033 Dansk har mange faste udtryk for den slags.
+▶ U04-C034 Man kan have sommerfugle i maven før en date, få en klump i halsen ved et bryllup eller koge over af raseri.
+▶ U04-C035 Tårer er heller ikke kun et tegn på sorg: Mange græder af glæde, af lettelse eller af ren og skær træthed.
+
+## 第 4 章 · Venner for livet
+▶ U04-C036 Tilflyttere fortæller tit, at det tager tid at få danske venner.
+▶ U04-C037 Mange danskere har en vennekreds fra barndommen, gymnasiet eller studiet, og når man er omkring de tredive, kan den virke svær at komme ind i.
+▶ U04-C038 Nye bekendtskaber bliver sjældent inviteret hjem efter et første møde, og en hyggelig samtale i toget fører ikke nødvendigvis til mere.
+▶ U04-C039 Derfor går den bedste vej ind tit gennem fællesskaber, hvor man ses regelmæssigt: et kor, et hold eller en frivillig opgave.
+
+## 第 5 章 · Når kærligheden kommer – og går
+▶ U04-C040 At være forelsket i nogen er noget andet end at elske dem.
+▶ U04-C041 Forelskelsen er en undtagelsestilstand: Man vågner op og tænker på den anden, glemmer at spise og stirrer på telefonen i håb om en besked.
+▶ U04-C042 Kærligheden er mere stilfærdig og viser sig i hverdagen – i hvem der henter hvem, når cyklen er punkteret, og hvem der husker, hvordan den anden kan lide sin kaffe.
+▶ U04-C043 Den, der slår op, har som regel tænkt over det i lang tid, mens den anden kan blive taget fuldstændig på sengen.
+▶ U04-C044 Hjertesorg kan føles næsten fysisk, som en klump i maven, der ikke vil gå væk.
+
+## 第 6 章 · Konflikt og reparation
+▶ U04-C045 Konflikter er en del af ethvert nært forhold.
+▶ U04-C046 Mange danskere beskriver sig selv som konfliktsky: De vil hellere lade tingene ligge end tage en ubehagelig samtale.
+▶ U04-C047 Men uudtalte konflikter forsvinder sjældent af sig selv, og stress på arbejdet går ofte ud over dem, man står nærmest.
+
+  U04-C048 [对话 · Mathilde] Han har skrevet. Han vil gerne mødes på fredag.
+  U04-C049 [对话 · Hanne] Det var da godt. Hvad svarede du?
+  U04-C050 [对话 · Mathilde] Ingenting endnu. Jeg ved ikke, om jeg har lyst.
+  U04-C051 [对话 · Hanne] Er du stadig vred på ham?
+  U04-C052 [对话 · Mathilde] Nej. Eller jo, lidt. Mest skuffet, tror jeg.
+  U04-C053 [对话 · Hanne] Du kunne jo høre, hvad han har at sige. Måske er der en forklaring.
+  U04-C054 [对话 · Mathilde] Og hvis der ikke er?
+  U04-C055 [对话 · Hanne] Så ved du det. Det er bedre end at gå og gætte.
+  U04-C056 [对话 · Mathilde] Du har ret. Jeg skriver til ham i aften.
+
+  U04-C057 Forskning i undskyldninger peger på, at det vigtigste element er at tage ansvar: at sige klart, hvad man har gjort, uden at forklare det væk.
+  U04-C058 En god undskyldning viser også, at man forstår, hvad det har betydet for den anden, og at man vil gøre det anderledes næste gang.
+  U04-C059 Og så skal man holde, hvad man lover.
+  U04-C060 Den dårlige undskyldning lyder: »Undskyld, hvis du blev såret.«
+  U04-C061 Den flytter ansvaret over på den anden og gør den andens reaktion til selve problemet.
+  U04-C062 At tilgive betyder ikke, at det, der skete, var i orden – kun at man ikke længere vil lade det styre forholdet.
+
+## 第 7 章 · Når nogen har mistet
+  U04-C063 Sorg er en af de sværeste følelser at være i nærheden af.
+  U04-C064 Mange er bange for at sige noget forkert til en, der har mistet, og ender med ikke at sige noget som helst.
+  U04-C065 Ofte er en enkel sætning nok: »Jeg er så ked af det, der er sket,« eller »Jeg tænker på dig.«
+  U04-C066 At trøste kræver sjældent store ord; det vigtigste er at være der – også efter begravelsen, når de andre er gået hjem.
+  U04-C067 Savnet kommer ofte i bølger, for eksempel ved en bestemt sang i radioen eller ved en tom stol til jul.
+
+## 第 8 章 · Ensomhed
+  U04-C068 Ensomhed er den følelse, der opstår, når de relationer, man har, ikke svarer til dem, man ønsker sig.
+  U04-C069 Derfor kan den ikke måles ved at tælle venner.
+  U04-C070 Langvarig ensomhed hænger sammen med en højere risiko for sygdom og tidlig død.
+
+## 第 9 章 · Fredag eftermiddag
+  U04-C071 [对话 · Mathilde] Kasper, hvordan har du det egentlig?
+  U04-C072 [对话 · Kasper] … Ikke så godt, hvis jeg skal være ærlig.
+  U04-C073 [对话 · Mathilde] Hvad er der sket?
+  U04-C074 [对话 · Kasper] Caroline slog op med mig. Samme dag som din fødselsdag.
+  U04-C075 [对话 · Mathilde] Hvad? Det anede jeg ikke.
+  U04-C076 [对话 · Kasper] Nej. Jeg har ikke sagt det til nogen.
+  U04-C077 [对话 · Mathilde] Men hvis du nu bare havde sagt det, så havde jeg forstået det.
+  U04-C078 [对话 · Kasper] Det ved jeg godt. Jeg var ligesom ikke i stand til at sige det højt. Og så skulle jeg stå og holde tale for hundrede mennesker …
+  U04-C079 [对话 · Mathilde] Åh nej, talen. Det havde jeg slet ikke tænkt på.
+  U04-C080 [对话 · Kasper] Altså, det var ikke, fordi jeg ikke ville komme. Bagefter var jeg bare så flov, at jeg ikke turde ringe. Og jo længere tid der gik, jo sværere blev det.
+  U04-C081 [对话 · Mathilde] Jeg troede, du var ligeglad.
+  U04-C082 [对话 · Kasper] Det er jeg overhovedet ikke.
+  U04-C083 [对话 · Mathilde] Det er rart at vide. For sådan føltes det.
+  U04-C084 [对话 · Kasper] Undskyld, Mathilde. Jeg er ked af, at jeg svigtede dig – og at jeg lod dig vente i tre uger på en forklaring.
+  U04-C085 [对话 · Mathilde] Tak. Det betyder meget, at du siger det.
+  U04-C086 [对话 · Kasper] Bare jeg havde ringet med det samme. Jeg har haft dårlig samvittighed hver eneste dag.
+  U04-C087 [对话 · Mathilde] Jeg kunne også have ringet. Men jeg gad ikke være den, der ringede først.
+  U04-C088 [对话 · Kasper] Er du stadig sur?
+  U04-C089 [对话 · Mathilde] Sur var jeg aldrig. Skuffet. Men det går over. … Og du? Er du ked af det?
+  U04-C090 [对话 · Kasper] Ja. Men det er rart at sidde her. … Talen, den har jeg forresten stadig liggende.
+  U04-C091 [对话 · Mathilde] Så kan du holde den næste år.
+
+## 七、本批需要讲解的句子（共 15 句）
+U04-C033 ｜ 第 3 章 ｜ Dansk har mange faste udtryk for den slags.
+U04-C034 ｜ 第 3 章 ｜ Man kan have sommerfugle i maven før en date, få en klump i halsen ved et bryllup eller koge over af raseri.
+U04-C035 ｜ 第 3 章 ｜ Tårer er heller ikke kun et tegn på sorg: Mange græder af glæde, af lettelse eller af ren og skær træthed.
+U04-C036 ｜ 第 4 章 ｜ Tilflyttere fortæller tit, at det tager tid at få danske venner.
+U04-C037 ｜ 第 4 章 ｜ Mange danskere har en vennekreds fra barndommen, gymnasiet eller studiet, og når man er omkring de tredive, kan den virke svær at komme ind i.
+U04-C038 ｜ 第 4 章 ｜ Nye bekendtskaber bliver sjældent inviteret hjem efter et første møde, og en hyggelig samtale i toget fører ikke nødvendigvis til mere.
+U04-C039 ｜ 第 4 章 ｜ Derfor går den bedste vej ind tit gennem fællesskaber, hvor man ses regelmæssigt: et kor, et hold eller en frivillig opgave.
+U04-C040 ｜ 第 5 章 ｜ At være forelsket i nogen er noget andet end at elske dem.
+U04-C041 ｜ 第 5 章 ｜ Forelskelsen er en undtagelsestilstand: Man vågner op og tænker på den anden, glemmer at spise og stirrer på telefonen i håb om en besked.
+U04-C042 ｜ 第 5 章 ｜ Kærligheden er mere stilfærdig og viser sig i hverdagen – i hvem der henter hvem, når cyklen er punkteret, og hvem der husker, hvordan den anden kan lide sin kaffe.
+U04-C043 ｜ 第 5 章 ｜ Den, der slår op, har som regel tænkt over det i lang tid, mens den anden kan blive taget fuldstændig på sengen.
+U04-C044 ｜ 第 5 章 ｜ Hjertesorg kan føles næsten fysisk, som en klump i maven, der ikke vil gå væk.
+U04-C045 ｜ 第 6 章 ｜ Konflikter er en del af ethvert nært forhold.
+U04-C046 ｜ 第 6 章 ｜ Mange danskere beskriver sig selv som konfliktsky: De vil hellere lade tingene ligge end tage en ubehagelig samtale.
+U04-C047 ｜ 第 6 章 ｜ Men uudtalte konflikter forsvinder sjældent af sig selv, og stress på arbejdet går ofte ud over dem, man står nærmest.
+
+输出前请自检：JSON 能被解析；sentences 共 15 项，第一个是 U04-C033，最后一个是 U04-C047；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

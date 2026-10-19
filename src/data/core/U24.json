@@ -1,0 +1,447 @@
+{
+ "schema": 1,
+ "unit": "U24",
+ "title": "Medier, nyheder og kildekritik",
+ "subtitle": "Fra tip til overskrift – og fra feed til fakta",
+ "labels": [
+  "journalistik",
+  "nyhedskriterier",
+  "algoritmer",
+  "kildekritik"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U24",
+  "tier: CORE",
+  "title: Medier, nyheder og kildekritik",
+  "subtitle: Fra tip til overskrift – og fra feed til fakta",
+  "labels: journalistik · nyhedskriterier · algoritmer · kildekritik",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Et tip"
+  },
+  {
+   "title": "Hvorfor blev det en nyhed?"
+  },
+  {
+   "title": "Frihed og ansvar"
+  },
+  {
+   "title": "Algoritmerne"
+  },
+  {
+   "title": "Fejl, løgn og forfalskning"
+  },
+  {
+   "title": "Tre spørgsmål"
+  },
+  {
+   "title": "Pressemødet"
+  },
+  {
+   "title": "Det står på spil"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U24-C001",
+   "text": "Tirsdag morgen klokken halv ni får journalisten Laura et opkald på redaktionen af en regional avis.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C002",
+   "text": "En forælder fortæller, at kommunen har planer om at lukke en landsbyskole med 140 elever, og at forældrene først skal høre om det på et møde om to uger.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C003",
+   "text": "Laura noterer navnet, takker og går straks i gang.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C004",
+   "text": "Hun ringer til skolens bestyrelsesformand, som bekræfter rygtet, men ikke vil citeres.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C005",
+   "text": "Hun søger om aktindsigt i kommunens dokumenter, og et udkast til budgettet viser, at lukningen allerede står som en besparelse.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C006",
+   "text": "Klokken elleve er der redaktionsmøde.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U24-C007",
+   "text": "Hvad har du?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Redaktøren"
+  },
+  {
+   "id": "U24-C008",
+   "text": "Kommunen vil lukke skolen i Ny Ravnstrup. Det fremgår af et budgetudkast, jeg har fået aktindsigt i.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C009",
+   "text": "Har du talt med kommunen?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Redaktøren"
+  },
+  {
+   "id": "U24-C010",
+   "text": "Jeg har lagt en besked til borgmesteren. Han har ikke ringet tilbage endnu.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C011",
+   "text": "Så venter vi med at trykke, til de har haft mulighed for at kommentere på det.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Redaktøren"
+  },
+  {
+   "id": "U24-C012",
+   "text": "Og hvis de ikke svarer?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C013",
+   "text": "Så skriver vi, at vi har forsøgt. Hvad er vinklen?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Redaktøren"
+  },
+  {
+   "id": "U24-C014",
+   "text": "At forældrene ikke er blevet informeret om noget, der står i et dokument, kommunen har haft i en måned.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C015",
+   "text": "Godt. Find en forælder, der vil stå frem med navn. Og en ekspert i skolestruktur, der kan sætte det i perspektiv.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Redaktøren"
+  },
+  {
+   "id": "U24-C016",
+   "text": "Klokken tre ringer borgmesteren tilbage og siger, at der »endnu ikke er truffet nogen beslutning«.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U24-C017",
+   "text": "Næste morgen ligger historien på forsiden: »Kommunen planlægger at lukke skole – forældrene ved intet«.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U24-C018",
+   "text": "Journalister lærer på studiet en række nyhedskriterier, som bruges til at vurdere, om noget er en historie.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U24-C019",
+   "text": "En nyhed skal være aktuel, og den skal være væsentlig – den skal have betydning for mange mennesker eller for samfundet.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U24-C020",
+   "text": "Skolelukningen opfylder flere kriterier på én gang: Den er aktuel, den vedrører mange familier, og den rummer en konflikt mellem forældrene og kommunen.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U24-C021",
+   "text": "Medierne kan dog ikke skrive, hvad de vil.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U24-C022",
+   "text": "De presseetiske regler siger blandt andet, at journalister skal kontrollere oplysninger, før de bliver offentliggjort, og at den, der bliver kritiseret, skal have mulighed for at svare samtidig.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U24-C023",
+   "text": "Mener man, at et medie har skrevet noget forkert eller krænkende om én, kan man klage til Pressenævnet, som kan pålægge mediet at offentliggøre nævnets afgørelse.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U24-C024",
+   "text": "I dag får mange, især unge, en stor del af deres nyheder gennem sociale medier og videotjenester.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U24-C025",
+   "text": "Her er det ikke en redaktør, men en algoritme, der bestemmer rækkefølgen, og den prioriterer det, der får folk til at reagere og dele.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U24-C026",
+   "text": "Der er en udbredt frygt for, at algoritmerne lukker folk inde i filterbobler, hvor de kun ser det, de i forvejen er enige i.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U24-C027",
+   "text": "Forskningen giver dog ikke ét enkelt svar: Filterbobler ser ud til at være mindre entydige end frygtet, mens algoritmer samtidig kan forstærke politisk polarisering.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U24-C028",
+   "text": "Forskere skelner mellem misinformation og desinformation.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U24-C029",
+   "text": "Misinformation er forkerte oplysninger, der bliver spredt af folk, som selv tror på dem; desinformation er bevidst falsk information, der skal vildlede.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U24-C030",
+   "text": "Desinformation kan komme fra enkeltpersoner, fra virksomheder, der vil sælge noget, eller fra stater, der vil skabe splid i andre lande.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U24-C031",
+   "text": "Med kunstig intelligens er det blevet let at lave såkaldte deepfakes: videoer og lydklip, hvor en person tilsyneladende siger noget, vedkommende aldrig har sagt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U24-C032",
+   "text": "Ingen kan tjekke alt, men tre enkle spørgsmål kan hjælpe de fleste langt.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C033",
+   "text": "Hvem står bag?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C034",
+   "text": "Hvordan ved de det?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C035",
+   "text": "Og hvad siger andre?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C036",
+   "text": "Det første spørgsmål handler om afsenderen og dennes interesser: Er det et medie, en myndighed, en virksomhed eller en anonym profil?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C037",
+   "text": "Det andet handler om dokumentationen: Bygger påstanden på data, dokumenter og navngivne kilder, eller på »man siger« og en enkelt video?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C038",
+   "text": "Det tredje handler om at sammenligne: Har andre, uafhængige kilder bekræftet det samme?",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U24-C039",
+   "text": "Har du set den video med borgmesteren, der råber ad en forælder?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U24-C040",
+   "text": "Ja, den er overalt. Han virker helt vanvittig.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U24-C041",
+   "text": "Hvem har lagt den op?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U24-C042",
+   "text": "Det ved jeg ikke. Den var bare i mit feed.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U24-C043",
+   "text": "Den er klippet. Hvis man ser hele mødet på kommunens hjemmeside, er det faktisk forælderen, der begynder at råbe.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U24-C044",
+   "text": "Seriøst? Det fremgik slet ikke af klippet.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U24-C045",
+   "text": "Nej. Det er derfor, det er klippet.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U24-C046",
+   "text": "Ugen efter artiklen indkalder borgmesteren til pressemøde på rådhuset.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U24-C047",
+   "text": "Tak, fordi I kom. Lad mig starte med at sige, at der ikke er truffet nogen beslutning om skolen i Ny Ravnstrup.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Borgmesteren"
+  },
+  {
+   "id": "U24-C048",
+   "text": "Men lukningen står som en besparelse i budgetudkastet. Hvordan hænger det sammen?",
+   "ch": 6,
+   "p": 9,
+   "speaker": "En tv-journalist"
+  },
+  {
+   "id": "U24-C049",
+   "text": "Forvaltningen har regnet på en lang række scenarier. Det er helt normalt i en budgetproces.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Borgmesteren"
+  },
+  {
+   "id": "U24-C050",
+   "text": "Hvorfor blev forældrene ikke orienteret, da forslaget kom på papiret for en måned siden?",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C051",
+   "text": "Det er et fair spørgsmål. Vi burde have informeret tidligere, og den kritik tager jeg til efterretning.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Borgmesteren"
+  },
+  {
+   "id": "U24-C052",
+   "text": "Kan du garantere, at skolen ikke lukker?",
+   "ch": 6,
+   "p": 9,
+   "speaker": "En radiojournalist"
+  },
+  {
+   "id": "U24-C053",
+   "text": "Jeg vil ikke spekulere i, hvad kommunalbestyrelsen ender med at beslutte. Men jeg kan love, at forældrene bliver hørt.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Borgmesteren"
+  },
+  {
+   "id": "U24-C054",
+   "text": "Bliver de hørt, før eller efter beslutningen er truffet?",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Laura"
+  },
+  {
+   "id": "U24-C055",
+   "text": "Før, naturligvis.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Borgmesteren"
+  },
+  {
+   "id": "U24-C056",
+   "text": "Vi har tid til et sidste spørgsmål.",
+   "ch": 6,
+   "p": 9,
+   "speaker": "Pressemedarbejderen"
+  },
+  {
+   "id": "U24-C057",
+   "text": "Pressemødet varer et kvarter, og om aftenen bliver borgmesterens ord om at tage kritikken til efterretning citeret i flere lokale medier.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U24-C058",
+   "text": "Udtrykket er et klassisk politisk svar: Det signalerer, at man har lyttet, uden at det forpligter én til noget bestemt.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U24-C059",
+   "text": "For et demokrati er det et problem, hvis borgerne ikke længere har et fælles grundlag af fakta at diskutere ud fra.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U24-C060",
+   "text": "Uden medier, der kigger magthaverne efter i sømmene, ville ingen vide, at skolen i Ny Ravnstrup stod på listen over besparelser, før beslutningen var truffet.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U24-C061",
+   "text": "Tre uger efter artiklen udsatte kommunalbestyrelsen beslutningen om skolen til næste år.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U24-C062",
+   "text": "Laura er allerede i gang med den næste historie.",
+   "ch": 7,
+   "p": 10
+  }
+ ]
+}

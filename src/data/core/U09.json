@@ -1,0 +1,407 @@
+{
+ "schema": 1,
+ "unit": "U09",
+ "title": "Job og karriere",
+ "subtitle": "At søge, skifte og miste arbejde",
+ "labels": [
+  "jobsøgning",
+  "ledighed",
+  "stress",
+  "arbejdskraft"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U09",
+  "tier: CORE",
+  "title: Job og karriere",
+  "subtitle: At søge, skifte og miste arbejde",
+  "labels: jobsøgning · ledighed · stress · arbejdskraft",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Seks job"
+  },
+  {
+   "title": "Ufaglært og lærling"
+  },
+  {
+   "title": "Fyret"
+  },
+  {
+   "title": "Ansøgningen og samtalen"
+  },
+  {
+   "title": "Sygemeldt"
+  },
+  {
+   "title": "Et typisk stillingsopslag"
+  },
+  {
+   "title": "At sige til"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U09-C001",
+   "text": "Sanne er 46 år og har haft seks job, været fyret to gange og sygemeldt én gang.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U09-C002",
+   "text": "Hun har aldrig været gladere for sit arbejde end nu.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U09-C003",
+   "text": "Hendes arbejdsliv er ikke typisk, men det rummer næsten alt det, der kan ske på et dansk arbejdsmarked.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U09-C004",
+   "text": "Som 17-årig fyldte Sanne hylder i et supermarked om aftenen, og efter gymnasiet arbejdede hun to år som ufaglært på en fabrik, der lavede vinduer.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C005",
+   "text": "Det var dér, hun fik lyst til at arbejde med træ.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C006",
+   "text": "Hun begyndte på en erhvervsuddannelse som tømrer, og så snart hun havde fundet en læreplads, gik det stærkt.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C007",
+   "text": "I de første uger var hun den eneste kvinde på byggepladsen, og nogle af de ældre svende troede, hun var kommet for at gøre rent i skurvognen.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C008",
+   "text": "»Jeg fik ikke lov til at bære noget tungt den første måned,« fortæller hun.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C009",
+   "text": "»Bagefter fik jeg ikke lov til at lade være.«",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C010",
+   "text": "Erhvervsuddannelserne veksler mellem skoleophold og perioder i en virksomhed, og lærlingen får løn, mens hun lærer.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C011",
+   "text": "Som udlært tømrer var Sanne efterspurgt – indtil finanskrisen ramte byggeriet i 2008, og ordrerne forsvandt næsten fra den ene måned til den anden.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U09-C012",
+   "text": "En fredag i februar 2009 blev hun kaldt ind på kontoret og fik sin fyreseddel sammen med fire kolleger.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C013",
+   "text": "Mister man sit job, er det en fordel at være medlem af en a-kasse, som er en frivillig forsikring mod arbejdsløshed.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C014",
+   "text": "Det havde Sanne heldigvis været, siden hun blev udlært.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C015",
+   "text": "Som ledig skal man stå til rådighed for arbejdsmarkedet, søge job aktivt og møde op til samtaler i både a-kassen og jobcentret.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C016",
+   "text": "Det lyder enkelt, men det kan være opslidende at sende den ene ansøgning efter den anden uden at få svar.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C017",
+   "text": "»Det værste var ikke pengene,« siger Sanne.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C018",
+   "text": "»Det var at vågne op om morgenen uden at nogen ventede på mig.«",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C019",
+   "text": "Efter otte måneder foreslog hendes rådgiver i a-kassen, at hun skulle bruge ledigheden til at uddanne sig videre.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C020",
+   "text": "Hun valgte at læse til bygningskonstruktør, og tre år senere fik hun job på en tegnestue i Aarhus.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U09-C021",
+   "text": "Den stilling havde hun fundet ved at sende en uopfordret ansøgning.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C022",
+   "text": "En del stillinger bliver besat, uden at de nogensinde er blevet slået op.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C023",
+   "text": "Derfor sender mange en uopfordret ansøgning eller bruger deres netværk, for eksempel tidligere kolleger eller en faglig forening.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C024",
+   "text": "En ansøgning skal være kort og målrettet den konkrete arbejdsplads, og den bør forklare, hvad man kan bidrage med – ikke bare gentage cv'et.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C025",
+   "text": "Man behøver hverken at vedlægge et billede eller oplyse alder og civilstand, og loven forbyder arbejdsgivere at forskelsbehandle på grund af blandt andet alder, religion og etnisk oprindelse.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C026",
+   "text": "Ved samtalen spurgte arbejdsgiveren ind til hullet i hendes cv, og til sidst kom det spørgsmål, mange frygter.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U09-C027",
+   "text": "Vi spørger altid om det samme til sidst: Hvad er du ikke så god til?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Lederen"
+  },
+  {
+   "id": "U09-C028",
+   "text": "Jeg har svært ved at sige nej til en opgave, hvis jeg kan se, at den skal løses.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Sanne"
+  },
+  {
+   "id": "U09-C029",
+   "text": "Er det et problem?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Lederen"
+  },
+  {
+   "id": "U09-C030",
+   "text": "Det kan det blive. Jeg har engang arbejdet så meget, at jeg til sidst ikke kunne sove. I dag skriver jeg mine opgaver ned, og når listen bliver for lang, beder jeg min chef om at prioritere.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Sanne"
+  },
+  {
+   "id": "U09-C031",
+   "text": "Og det virker?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Lederen"
+  },
+  {
+   "id": "U09-C032",
+   "text": "Ikke altid første gang. Men jeg siger til nu, og det gjorde jeg ikke før.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Sanne"
+  },
+  {
+   "id": "U09-C033",
+   "text": "Tak. Har du nogen spørgsmål til os?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Lederen"
+  },
+  {
+   "id": "U09-C034",
+   "text": "Ja, to. Hvem kommer jeg til at arbejde tættest sammen med? Og hvornår regner I med at have truffet en beslutning?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Sanne"
+  },
+  {
+   "id": "U09-C035",
+   "text": "Hun undgik det klassiske svar om at være perfektionist, og hun pyntede ikke på noget.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U09-C036",
+   "text": "Svaret viste, at hun kendte sig selv, og at hun havde gjort noget ved problemet – og det er ofte det, en arbejdsgiver leder efter.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U09-C037",
+   "text": "Inden de besluttede sig, ringede tegnestuen til to af hendes tidligere chefer, som hun på forhånd havde spurgt, om de ville være referencer.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U09-C038",
+   "text": "Svagheden, hun havde nævnt ved samtalen, indhentede hende alligevel.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C039",
+   "text": "Efter fem år på tegnestuen havde hun ansvaret for tre byggeprojekter på én gang, og en morgen i marts kunne hun ikke huske koden til sin egen telefon.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C040",
+   "text": "Lægen sygemeldte hende med stress, og de første uger sov hun det meste af dagen.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C041",
+   "text": "Arbejdsgiveren skal holde en samtale med en sygemeldt medarbejder senest fire uger efter første sygedag, og formålet er at finde ud af, hvordan og hvornår man kan vende tilbage.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C042",
+   "text": "For Sanne blev løsningen en delvis raskmelding: først ti timer om ugen, så tyve og efter tre måneder fuld tid.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C043",
+   "text": "Hun fik færre projekter og en chef, der spurgte ind til hendes arbejdsbyrde hver fredag.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C044",
+   "text": "Det kræver tålmodighed fra både medarbejderen og arbejdspladsen, og det kræver, at begge parter tør tale åbent om, hvad der gik galt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U09-C045",
+   "text": "Et stillingsopslag følger ofte et fast mønster, og det kan betale sig at læse det grundigt – også det, der står mellem linjerne.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U09-C046",
+   "text": "Vores produkter er kendt for høj kvalitet og lang levetid, og vi oplever en stigende efterspørgsel i både Danmark og Nordtyskland.",
+   "ch": 5,
+   "p": 7,
+   "doc": true
+  },
+  {
+   "id": "U09-C047",
+   "text": "Dine opgaver vil blandt andet være at pleje eksisterende kunder, finde nye og udarbejde tilbud i tæt samarbejde med vores teknikere.",
+   "ch": 5,
+   "p": 7,
+   "doc": true
+  },
+  {
+   "id": "U09-C048",
+   "text": "Vi forventer, at du har erfaring med salg til erhvervskunder, og at du kan kommunikere professionelt på både dansk og engelsk.",
+   "ch": 5,
+   "p": 7,
+   "doc": true
+  },
+  {
+   "id": "U09-C049",
+   "text": "Kendskab til tysk er en fordel, men ikke et krav.",
+   "ch": 5,
+   "p": 7,
+   "doc": true
+  },
+  {
+   "id": "U09-C050",
+   "text": "Vi tilbyder en selvstændig stilling med løbende sparring, relevante kurser og gode muligheder for udvikling, herunder ansvar for dine egne kunder.",
+   "ch": 5,
+   "p": 7,
+   "doc": true
+  },
+  {
+   "id": "U09-C051",
+   "text": "»Højt til loftet« betyder i et stillingsopslag, at der er plads til forskellige meninger – ikke nødvendigvis, at kontoret har store rum.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U09-C052",
+   "text": "Og når samtalerne bliver afholdt løbende, kan det godt betale sig ikke at vente til sidste øjeblik.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U09-C053",
+   "text": "For funktionærer vokser arbejdsgiverens opsigelsesvarsel med ancienniteten, fra en måned i starten til seks måneder, mens man selv normalt kan sige op med en måneds varsel.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U09-C054",
+   "text": "Sanne sagde selv op med en måneds varsel, da hun fik tilbudt jobbet på skolen.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U09-C055",
+   "text": "I dag underviser Sanne lærlinge på en erhvervsskole.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U09-C056",
+   "text": "Hver morgen klokken syv står hun i værkstedet med tolv lærlinge.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U09-C057",
+   "text": "Når de spørger, hvad det vigtigste i faget er, svarer hun hverken præcision eller sikkerhed.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U09-C058",
+   "text": "»At sige til,« siger hun, »før noget knækker.«",
+   "ch": 6,
+   "p": 8
+  }
+ ]
+}

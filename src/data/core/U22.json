@@ -1,0 +1,306 @@
+{
+ "schema": 1,
+ "unit": "U22",
+ "title": "Danmark i verden",
+ "subtitle": "Norden, EU og rigsfællesskabet",
+ "labels": [
+  "Norden",
+  "EU",
+  "NATO",
+  "Grønland"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U22",
+  "tier: CORE",
+  "title: Danmark i verden",
+  "subtitle: Norden, EU og rigsfællesskabet",
+  "labels: Norden · EU · NATO · Grønland",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Det lille lands dilemma"
+  },
+  {
+   "title": "Naboerne"
+  },
+  {
+   "title": "Europa"
+  },
+  {
+   "title": "Sikkerhed og handel"
+  },
+  {
+   "title": "Når uheldet er ude"
+  },
+  {
+   "title": "Rigsfællesskabet"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U22-C001",
+   "text": "Danmark er et lille land med omkring seks millioner indbyggere, men det ligger ved indgangen til Østersøen, hvor stormagterne altid har haft interesser.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U22-C002",
+   "text": "I dag står et lille land over for et grundlæggende valg.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U22-C003",
+   "text": "Det kan få indflydelse ved at være med i fællesskaber, hvor det selv er med til at bestemme reglerne – eller beholde sin frihed ved at holde sig udenfor.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U22-C004",
+   "text": "Sjældent kan det få begge dele på én gang.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U22-C005",
+   "text": "Siden 1950'erne har nordiske borgere kunnet rejse, bo og arbejde i hinandens lande uden pas og arbejdstilladelse, og Nordisk Råd samler politikere fra alle landene.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U22-C006",
+   "text": "Sprogene er så tæt beslægtede, at mange kan tale sammen hver på sit sprog.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U22-C007",
+   "text": "Nå, hvordan går det i Oslo? Forstår du, hvad de siger?",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U22-C008",
+   "text": "Når de taler langsomt, ja. Til forelæsningerne går det fint.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U22-C009",
+   "text": "Og forstår de dig?",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U22-C010",
+   "text": "Ærlig talt, nej. Jeg er begyndt at tale langsommere og tydeligere, og nogle gange skriver jeg bare ordet ned.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U22-C011",
+   "text": "Det havde jeg ikke regnet med. Det er jo næsten det samme sprog.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U22-C012",
+   "text": "På papiret, ja.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U22-C013",
+   "text": "Så må du tale engelsk med dem.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U22-C014",
+   "text": "Det gør de unge tit. Men jeg vil hellere lære norsk.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U22-C015",
+   "text": "Danmark blev medlem af det daværende EF i 1973, samme år som Storbritannien og Irland.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U22-C016",
+   "text": "Da et flertal af danskerne i 1992 stemte nej til Maastricht-traktaten, fik landet forbehold på fire områder: euroen, forsvaret, retsområdet og unionsborgerskabet.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U22-C017",
+   "text": "Danmark har altså stadig sin egen valuta, men kronen er bundet til euroen gennem Nationalbankens fastkurspolitik.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U22-C018",
+   "text": "For danske virksomheder er EU's indre marked afgørende: Varer, tjenester, kapital og mennesker kan bevæge sig frit på tværs af grænserne.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U22-C019",
+   "text": "Danske studerende kan læse i Spanien eller Polen på samme vilkår som de lokale, og en dansk sygeplejerske kan søge job i Holland uden særlig tilladelse.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U22-C020",
+   "text": "På det sikkerhedspolitiske område har Danmark været medlem af NATO, siden alliancen blev grundlagt i 1949.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U22-C021",
+   "text": "I medlemskabet ligger der et løfte om, at et angreb på ét medlemsland bliver betragtet som et angreb på alle.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U22-C022",
+   "text": "Som et lille land med få råstoffer lever Danmark i høj grad af at handle med omverdenen.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U22-C023",
+   "text": "Medicin, vindmøller, maskiner, svinekød og shipping er blandt de vigtigste eksportvarer, og danske rederier sejler varer verden rundt.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U22-C024",
+   "text": "Turismen går begge veje: Om sommeren er de danske sommerhuse fulde af tyske, norske og svenske turister, mens mange danskere selv rejser sydpå til spanske, italienske og græske badebyer.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U22-C025",
+   "text": "Mister man sit pas på en rejse, kan man ringe til Udenrigsministeriets Borgerservice, som har åbent døgnet rundt.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U22-C026",
+   "text": "Udenrigsministeriets Borgerservice, du taler med Peter.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U22-C027",
+   "text": "Hej. Jeg er i Lissabon, og min taske er blevet stjålet med mit pas og mine kort. Jeg skal flyve hjem i overmorgen.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U22-C028",
+   "text": "Det må være træls. Er du selv i sikkerhed?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U22-C029",
+   "text": "Ja, jeg er på mit hotel.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U22-C030",
+   "text": "Godt. Det første, du skal gøre, er at anmelde tyveriet til det lokale politi og få en kopi af anmeldelsen. Har du spærret dine kort?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U22-C031",
+   "text": "Ja, det gjorde jeg med det samme.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U22-C032",
+   "text": "Fint. Så skal du have et nødpas, og det kan du søge om på ambassaden i Lissabon. Husk et pasbillede og politianmeldelsen.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U22-C033",
+   "text": "Kan jeg nå det inden fredag?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U22-C034",
+   "text": "Det plejer at kunne lade sig gøre på en dag eller to. Jeg sender dig adressen og åbningstiderne på sms.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U22-C035",
+   "text": "Mange tegner også en rejseforsikring, fordi det blå sygesikringskort, der gælder i EU, langtfra dækker alt – og slet ikke uden for Europa.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U22-C036",
+   "text": "Kongeriget er ikke kun Danmark.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U22-C037",
+   "text": "Det omfatter også Færøerne og Grønland, som tilsammen med Danmark udgør rigsfællesskabet.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U22-C038",
+   "text": "I dag bestemmer de to lande selv over de fleste af deres egne anliggender, mens blandt andet forsvar og udenrigspolitik formelt stadig hører under rigsmyndighederne i København.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U22-C039",
+   "text": "Hverken Færøerne eller Grønland er med i EU, og begge har deres egne sprog, flag og parlamenter.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U22-C040",
+   "text": "Over for Grønland og Færøerne er rollen ved at ændre sig fra moderland til partner.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U22-C041",
+   "text": "Hvilken balance der er den rigtige, er ikke et teknisk spørgsmål, men et spørgsmål om, hvad man vægter højest: indflydelse, selvbestemmelse eller sikkerhed.",
+   "ch": 5,
+   "p": 7
+  }
+ ]
+}

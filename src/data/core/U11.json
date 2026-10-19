@@ -1,0 +1,543 @@
+{
+ "schema": 1,
+ "unit": "U11",
+ "title": "Kroppen, sygdom og behandling",
+ "subtitle": "At beskrive sine symptomer og finde rundt i sundhedsvæsenet",
+ "labels": [
+  "kroppen",
+  "symptomer",
+  "lægen",
+  "rettigheder"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U11",
+  "tier: CORE",
+  "title: Kroppen, sygdom og behandling",
+  "subtitle: At beskrive sine symptomer og finde rundt i sundhedsvæsenet",
+  "labels: kroppen · symptomer · lægen · rettigheder",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Tæl selv"
+  },
+  {
+   "title": "En rundtur i kroppen"
+  },
+  {
+   "title": "Hvor sidder det?"
+  },
+  {
+   "title": "At finde ordene"
+  },
+  {
+   "title": "Hverdagens skavanker"
+  },
+  {
+   "title": "Vejen gennem systemet"
+  },
+  {
+   "title": "Hos tandlægen"
+  },
+  {
+   "title": "Når hvert minut tæller"
+  },
+  {
+   "title": "Medicin"
+  },
+  {
+   "title": "Patientens rettigheder"
+  },
+  {
+   "title": "Næste gang"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U11-C001",
+   "text": "Læg to fingre på indersiden af dit håndled, lige under tommelfingeren, og tæl, hvor mange slag du kan mærke på et halvt minut.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U11-C002",
+   "text": "Gang tallet med to, og du har din puls.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U11-C003",
+   "text": "Knoglerne holdes sammen af led og sener, og over 600 muskler gør det muligt at bøje knæet, dreje hovedet og løfte en kop kaffe.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U11-C004",
+   "text": "Maden bliver tygget i munden, sendt ned gennem spiserøret til mavesækken og videre gennem tarmene, hvor næringsstofferne bliver optaget, mens leveren og nyrerne renser blodet for affaldsstoffer.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U11-C005",
+   "text": "Immunforsvaret holder hele tiden øje med bakterier og virus, der trænger ind, og feber er ofte et tegn på, at det er i gang med at bekæmpe en infektion.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U11-C006",
+   "text": "Vi lægger først mærke til kroppen, når den gør ondt.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U11-C007",
+   "text": "Skærer man sig i fingeren, begynder kroppen at reparere skaden i løbet af få sekunder.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U11-C008",
+   "text": "Det er et tegn på, at kroppen arbejder, men breder rødmen sig, eller kommer der pus og feber, kan såret være betændt, og så bør man kontakte lægen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U11-C009",
+   "text": "Mads er 34 og har haft ondt i maven siden i går aftes.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U11-C010",
+   "text": "Han ringer til lægehuset i telefontiden og får en tid samme formiddag.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U11-C011",
+   "text": "Goddag. Hvad kan jeg gøre for dig?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C012",
+   "text": "Jeg har ondt i maven. Jeg har nok bare spist noget forkert.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C013",
+   "text": "Hvor sidder smerten?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C014",
+   "text": "Her nede i højre side. Men det startede faktisk omkring navlen i går aftes.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C015",
+   "text": "Hvordan vil du beskrive den? Er den stikkende, jagende, murrende?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C016",
+   "text": "Den er ligesom konstant, og den bliver værre, når jeg går eller hoster.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C017",
+   "text": "Har du kastet op?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C018",
+   "text": "Én gang i nat. Og jeg har overhovedet ikke lyst til mad.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C019",
+   "text": "Har du målt din temperatur?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C020",
+   "text": "38,2 i morges.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C021",
+   "text": "Må jeg lige mærke på din mave? … Gør det ondt her?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C022",
+   "text": "Av! Ja, dér.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C023",
+   "text": "Det lyder ikke så godt. Det kan være blindtarmen, og det skal undersøges i dag. Jeg ringer til hospitalet.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C024",
+   "text": "I dag? Jeg skulle egentlig på arbejde i eftermiddag.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C025",
+   "text": "Det må vente. Det skal nok gå, men vi skal ikke vente og se.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Lægen"
+  },
+  {
+   "id": "U11-C026",
+   "text": "Havde Mads bare sagt, at han havde lidt ondt i maven, var han måske blevet sendt hjem med besked om at drikke vand og hvile sig.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U11-C027",
+   "text": "Det var detaljerne, der gjorde forskellen: at smerten var flyttet fra navlen ned i højre side, at den blev værre ved bevægelse, og at han havde feber.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U11-C028",
+   "text": "På hospitalet fik han taget blodprøver, og en ultralydsscanning viste en betændt blindtarm.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U11-C029",
+   "text": "Lægen bruger sine spørgsmål til at indsnævre mulighederne, og jo mere præcist patienten svarer, desto lettere bliver det.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U11-C030",
+   "text": "Det hjælper at kunne sige, hvor det gør ondt, hvornår det begyndte, og om smerten er konstant eller kommer og går.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U11-C031",
+   "text": "En dunkende hovedpine er noget andet end en trykkende, og en brændende fornemmelse bag brystbenet kan være halsbrand – eller noget langt mere alvorligt.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U11-C032",
+   "text": "Det er kombinationen og udviklingen over tid, der giver lægen et billede.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U11-C033",
+   "text": "De fleste besøg hos lægen handler ikke om noget dramatisk.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C034",
+   "text": "Om vinteren er det forkølelse, influenza og ondt i halsen, og om foråret høfeber, når birken blomstrer.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C035",
+   "text": "Hele året rundt er det ondt i ryggen, som er en af de hyppigste grunde til, at folk melder sig syge.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C036",
+   "text": "Børn får ofte ørebetændelse, og en maveinfluenza kan gå gennem en hel børnehave på få dage.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C037",
+   "text": "Mange mindre ulykker sker i hjemmet eller i fritiden.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C038",
+   "text": "Man falder på en glat trappe og forstuver anklen, eller man vælter på cyklen, brækker håndleddet og går med gips i seks uger.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C039",
+   "text": "Det meste går over af sig selv, og en del af lægens arbejde består i at berolige folk og forklare, hvornår de skal komme igen.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U11-C040",
+   "text": "Læg dig på ryggen, luk øjnene, og læg mærke til dine fødder: hælene mod underlaget og tæerne, der måske er lidt kolde.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U11-C041",
+   "text": "Flyt opmærksomheden langsomt op gennem anklerne, læggene og knæene til lårene og hofterne.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U11-C042",
+   "text": "Mærk, hvordan maven hæver sig, når du trækker vejret ind, og sænker sig, når du puster ud.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U11-C043",
+   "text": "Lad skuldrene falde ned fra ørerne, og slap af i nakken, i kæben og i den lille muskel mellem øjenbrynene.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U11-C044",
+   "text": "Mange opdager først under sådan en øvelse, hvor spændte de har været hele dagen.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U11-C045",
+   "text": "Langt de fleste i Danmark har deres egen praktiserende læge, som står på det gule sundhedskort.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C046",
+   "text": "Lægen er indgangen til resten af systemet: Vil man til en speciallæge, kræver det som regel en henvisning.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C047",
+   "text": "Til tandlægen, øjenlægen og øre-næse-halslægen kan man dog gå direkte.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C048",
+   "text": "Bliver man akut syg uden for lægens åbningstid, kontakter man lægevagten, og er der fare for livet, ringer man 112.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C049",
+   "text": "Man kan normalt ikke bare møde op på skadestuen, men skal ringe først, så man kan blive visiteret til det rette sted.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C050",
+   "text": "Bliver man indlagt, er både behandling, mad og seng gratis, og skal man behandles på et sygehus, har man som udgangspunkt ret til selv at vælge hvilket.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C051",
+   "text": "Voksne betaler selv en stor del af regningen hos tandlægen, mens børn og unge får gratis tandpleje.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C052",
+   "text": "Ventetiden til ikke-akutte undersøgelser og operationer kan dog være lang, og den er et tilbagevendende emne i den politiske debat.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U11-C053",
+   "text": "Så, læn dig tilbage og luk munden op. Lidt mere … tak. Du har et lille hul i en af kindtænderne nede til venstre. Det laver vi i dag.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Tandlægen"
+  },
+  {
+   "id": "U11-C054",
+   "text": "Gør det ondt?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Patienten"
+  },
+  {
+   "id": "U11-C055",
+   "text": "Du får en bedøvelse, så du kan ikke mærke noget. Du skal bare løfte hånden, hvis det bliver ubehageligt.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Tandlægen"
+  },
+  {
+   "id": "U11-C056",
+   "text": "Hvordan kan det være, at jeg har fået et hul? Jeg børster tænder to gange om dagen.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Patienten"
+  },
+  {
+   "id": "U11-C057",
+   "text": "Det er godt. Men bruger du tandtråd?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Tandlægen"
+  },
+  {
+   "id": "U11-C058",
+   "text": "Engang imellem.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Patienten"
+  },
+  {
+   "id": "U11-C059",
+   "text": "Det er tit mellem tænderne, hullerne opstår. Og dit tandkød bløder lidt, når jeg rører ved det. Det er et tegn på, at der skal gøres bedre rent.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Tandlægen"
+  },
+  {
+   "id": "U11-C060",
+   "text": "Jeg ved det godt. Jeg lover at tage mig sammen.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Patienten"
+  },
+  {
+   "id": "U11-C061",
+   "text": "Det siger alle. Skyl munden, og spyt ud her.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Tandlægen"
+  },
+  {
+   "id": "U11-C062",
+   "text": "Ved et hjertestop er det de første minutter, der afgør, om den ramte overlever.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U11-C063",
+   "text": "Den, der finder en person, som er faldet om og ikke trækker vejret normalt, skal ringe 112, begynde hjertemassage og få fat i den nærmeste hjertestarter.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U11-C064",
+   "text": "Mange lægemidler kan købes i håndkøb på apoteket eller i supermarkedet, mens andre kun udleveres mod recept.",
+   "ch": 8,
+   "p": 12
+  },
+  {
+   "id": "U11-C065",
+   "text": "Medicin på recept er heller ikke gratis, men tilskuddet stiger, jo mere medicin man køber i løbet af et år.",
+   "ch": 8,
+   "p": 12
+  },
+  {
+   "id": "U11-C066",
+   "text": "Antibiotika virker mod bakterier, men ikke mod virus, og derfor hjælper de ikke mod en almindelig forkølelse.",
+   "ch": 8,
+   "p": 12
+  },
+  {
+   "id": "U11-C067",
+   "text": "Al medicin kan have bivirkninger, og de står i indlægssedlen, som de færreste læser til ende.",
+   "ch": 8,
+   "p": 12
+  },
+  {
+   "id": "U11-C068",
+   "text": "Har du fået den medicin før?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Farmaceuten"
+  },
+  {
+   "id": "U11-C069",
+   "text": "Nej, det er første gang.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C070",
+   "text": "Så tager du én tablet morgen og aften, gerne sammen med et måltid. Får du udslæt eller bliver hævet i ansigtet, skal du kontakte en læge med det samme.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Farmaceuten"
+  },
+  {
+   "id": "U11-C071",
+   "text": "Og hvis jeg glemmer en dosis?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mads"
+  },
+  {
+   "id": "U11-C072",
+   "text": "Det afhænger af medicinen. Tjek indlægssedlen, eller ring til os – og tag ikke en dobbeltdosis som erstatning for den glemte dosis.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Farmaceuten"
+  },
+  {
+   "id": "U11-C073",
+   "text": "Lægerne har tavshedspligt, så de må som udgangspunkt ikke fortælle andre om ens helbred uden samtykke.",
+   "ch": 9,
+   "p": 14
+  },
+  {
+   "id": "U11-C074",
+   "text": "Ingen behandling må som udgangspunkt sættes i gang uden patientens informerede samtykke, og patienten har ret til at sige nej – også til en behandling, som lægen anbefaler.",
+   "ch": 9,
+   "p": 14
+  },
+  {
+   "id": "U11-C075",
+   "text": "Næste gang du skal til lægen, så skriv tre ting ned på forhånd: hvor det gør ondt, hvornår det begyndte, og hvad der gør det bedre eller værre.",
+   "ch": 10,
+   "p": 15
+  },
+  {
+   "id": "U11-C076",
+   "text": "Det tager et minut, og det kan spare dig for en dag på skadestuen – eller sende dig derhen i tide.",
+   "ch": 10,
+   "p": 15
+  }
+ ]
+}

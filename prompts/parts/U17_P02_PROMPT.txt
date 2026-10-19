@@ -1,0 +1,149 @@
+【Danish CORE · Deep Teacher】U17 Kunstig intelligens · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U17"
+"part": "P02"
+"source_fingerprint": "U17-P02-1a463c752a38"
+sentences 数组必须恰好包含 17 个对象，ID 依次为：
+U17-C015, U17-C016, U17-C017, U17-C018, U17-C019, U17-C020, U17-C021, U17-C022, U17-C023, U17-C024, U17-C025, U17-C026, U17-C027, U17-C028, U17-C029, U17-C030, U17-C031
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 3 批，讲解 17 句（U17-C015 – U17-C031）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U17 · Kunstig intelligens
+副标题：Muligheder, grænser og ansvar
+主题标签：sprogmodeller · fejl · ansvar · regulering
+
+## 第 1 章 · Den belæste gætter
+  U17-C001 Forestil dig en, der har læst mere, end noget menneske nogensinde ville kunne nå, men som aldrig har sat sine ben uden for biblioteket.
+  U17-C002 Stiller du hende et spørgsmål, svarer hun ved at gætte ord for ord, hvad der mest sandsynligt kommer næste gang, ud fra alt det, hun har læst.
+  U17-C003 Hun gætter så godt, at svarene ofte er præcise, velformulerede og nyttige.
+  U17-C004 Det er i grove træk, hvad en sprogmodel gør.
+
+  U17-C005 Hun ved ikke selv, hvornår hun gætter forkert, og hun lyder lige så sikker, når hun tager fejl, som når hun har ret.
+  U17-C006 Har hun læst en påstand mange gange, er der en tendens til, at hun gentager den – også hvis den ikke er sand.
+  U17-C007 Og spørger man om noget, der er sket, efter at hun holdt op med at læse, må hun enten indrømme, at hun ikke ved det, eller gætte.
+  U17-C008 Mon hun forstår noget af det, hun siger?
+  U17-C009 Det spørgsmål er forskerne ikke enige om, og svaret afhænger i høj grad af, hvad man mener med at forstå.
+
+## 第 2 章 · Hvad den er god til – og hvad den ikke er
+  U17-C010 Når det kommer til at skrive et første udkast, opsummere en lang rapport, oversætte en mail eller forklare et svært begreb med enkle ord, kan en sprogmodel spare mennesker for mange timers arbejde.
+  U17-C011 Den arbejder lynhurtigt, bliver aldrig træt og svarer lige så tålmodigt på det tiende spørgsmål som på det første.
+  U17-C012 Den er ganske vist ikke ufejlbarlig, men det er mennesker heller ikke.
+  U17-C013 Forskellen er, at maskinens fejl kan være svære at opdage, fordi de er pakket ind i et flydende og selvsikkert sprog.
+  U17-C014 Den kan finde på kilder, der ikke findes, eller blande to personer sammen, og man bør derfor være opmærksom på at tjekke fakta, før man bruger dem.
+
+▶ U17-C015 [对话 · Jonas] Hvor mange andelsmejerier var der i Danmark omkring år 1900?
+▶ U17-C016 [对话 · Chatbotten] Omkring år 1900 var der godt 1.000 andelsmejerier i Danmark.
+▶ U17-C017 [对话 · Jonas] Har du en kilde til det?
+▶ U17-C018 [对话 · Chatbotten] Ja, tallet stammer fra en rapport fra et dansk universitet.
+▶ U17-C019 [对话 · Jonas] Hvilken rapport? Kan du give mig titlen?
+▶ U17-C020 [对话 · Chatbotten] Jeg kan desværre ikke angive en præcis titel. Tallet bør kontrolleres i en historisk oversigt.
+
+▶ U17-C021 Jonas gjorde det, man bør gøre: Han spurgte efter kilden og kontrollerede tallet i en håndbog.
+▶ U17-C022 Tallet viste sig at være nogenlunde rigtigt, men kilden fandtes ikke.
+
+## 第 3 章 · Forsøget i forvaltningen
+▶ U17-C023 I en kommune har en afdeling i tre måneder testet et AI-værktøj, der skal hjælpe sagsbehandlerne med at skrive breve til borgerne.
+
+▶ U17-C024 [对话 · Afdelingslederen] Hvad er jeres umiddelbare indtryk efter tre måneder?
+▶ U17-C025 [对话 · Sagsbehandleren] Det er effektivt til første udkast. Det, der før tog en time, tager nu et kvarter.
+▶ U17-C026 [对话 · Afdelingslederen] Og ulemperne?
+▶ U17-C027 [对话 · Sagsbehandleren] Det henviser nogle gange til paragraffer, der ikke findes. Så vi tjekker alt, før det bliver sendt.
+▶ U17-C028 [对话 · Afdelingslederen] Har nogen lagt fortrolige oplysninger ind i det?
+▶ U17-C029 [对话 · Sagsbehandleren] Nej. Vi anvender kun den version, der kører på kommunens egne servere, og vi bruger aldrig cpr-numre.
+▶ U17-C030 [对话 · Afdelingslederen] Godt. Kan det fungere for hele afdelingen?
+▶ U17-C031 [对话 · Sagsbehandleren] Muligvis. Men kun hvis alle får et kursus først. Ellers kommer folk til at stole for meget på det.
+
+  U17-C032 Værktøjerne kan spare tid, men de flytter også ansvaret for at opdage fejl over på dem, der bruger dem.
+
+## 第 4 章 · I skolen
+  U17-C033 I skolen har teknologien skabt et dilemma.
+  U17-C034 En elev kan få en maskine til at skrive en hel opgave på få sekunder, og det er svært at bevise, hvem der har skrevet hvad.
+  U17-C035 Nogle lærere anser det for snyd og har indført flere mundtlige prøver og opgaver, der skrives i timerne.
+  U17-C036 Andre ser det som et redskab, eleverne skal lære at bruge kritisk, ligesom de engang skulle lære at bruge en lommeregner.
+  U17-C037 Begge grupper er enige om, at eleverne stadig skal kunne tænke selv, skrive selv og vurdere, om et svar er troværdigt.
+
+## 第 5 章 · Skævheder og ansvar
+  U17-C038 En model er aldrig bedre end de data, den er trænet på.
+  U17-C039 Indeholder dataene fordomme, kan modellen forstærke dem: Et system, der skal sortere jobansøgninger, kan for eksempel komme til at foretrække ansøgere, der ligner dem, der tidligere er blevet ansat.
+  U17-C040 Hvem har ansvaret, når en maskine tager fejl?
+  U17-C041 En computer kan ikke stilles for en dommer eller sige undskyld og mene det.
+  U17-C042 Ansvaret ligger derfor hos de mennesker og organisationer, der udvikler systemerne, og hos dem, der vælger at bruge dem.
+  U17-C043 Træffer en myndighed en afgørelse med hjælp fra en algoritme, har borgeren stadig krav på en begrundelse, som et menneske kan stå inde for.
+
+  U17-C044 Den belæste gætter er et uhyre nyttigt redskab, men et redskab er ikke en dommer.
+
+## 七、本批需要讲解的句子（共 17 句）
+U17-C015 ｜ 第 2 章 ｜ [Jonas] Hvor mange andelsmejerier var der i Danmark omkring år 1900?
+U17-C016 ｜ 第 2 章 ｜ [Chatbotten] Omkring år 1900 var der godt 1.000 andelsmejerier i Danmark.
+U17-C017 ｜ 第 2 章 ｜ [Jonas] Har du en kilde til det?
+U17-C018 ｜ 第 2 章 ｜ [Chatbotten] Ja, tallet stammer fra en rapport fra et dansk universitet.
+U17-C019 ｜ 第 2 章 ｜ [Jonas] Hvilken rapport? Kan du give mig titlen?
+U17-C020 ｜ 第 2 章 ｜ [Chatbotten] Jeg kan desværre ikke angive en præcis titel. Tallet bør kontrolleres i en historisk oversigt.
+U17-C021 ｜ 第 2 章 ｜ Jonas gjorde det, man bør gøre: Han spurgte efter kilden og kontrollerede tallet i en håndbog.
+U17-C022 ｜ 第 2 章 ｜ Tallet viste sig at være nogenlunde rigtigt, men kilden fandtes ikke.
+U17-C023 ｜ 第 3 章 ｜ I en kommune har en afdeling i tre måneder testet et AI-værktøj, der skal hjælpe sagsbehandlerne med at skrive breve til borgerne.
+U17-C024 ｜ 第 3 章 ｜ [Afdelingslederen] Hvad er jeres umiddelbare indtryk efter tre måneder?
+U17-C025 ｜ 第 3 章 ｜ [Sagsbehandleren] Det er effektivt til første udkast. Det, der før tog en time, tager nu et kvarter.
+U17-C026 ｜ 第 3 章 ｜ [Afdelingslederen] Og ulemperne?
+U17-C027 ｜ 第 3 章 ｜ [Sagsbehandleren] Det henviser nogle gange til paragraffer, der ikke findes. Så vi tjekker alt, før det bliver sendt.
+U17-C028 ｜ 第 3 章 ｜ [Afdelingslederen] Har nogen lagt fortrolige oplysninger ind i det?
+U17-C029 ｜ 第 3 章 ｜ [Sagsbehandleren] Nej. Vi anvender kun den version, der kører på kommunens egne servere, og vi bruger aldrig cpr-numre.
+U17-C030 ｜ 第 3 章 ｜ [Afdelingslederen] Godt. Kan det fungere for hele afdelingen?
+U17-C031 ｜ 第 3 章 ｜ [Sagsbehandleren] Muligvis. Men kun hvis alle får et kursus først. Ellers kommer folk til at stole for meget på det.
+
+输出前请自检：JSON 能被解析；sentences 共 17 项，第一个是 U17-C015，最后一个是 U17-C031；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

@@ -1,0 +1,322 @@
+{
+ "schema": 1,
+ "unit": "U14",
+ "title": "Demokratiet",
+ "subtitle": "Valg, Folketing og nærdemokrati",
+ "labels": [
+  "valg",
+  "Folketinget",
+  "regering",
+  "kommunen"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U14",
+  "tier: CORE",
+  "title: Demokratiet",
+  "subtitle: Valg, Folketing og nærdemokrati",
+  "labels: valg · Folketinget · regering · kommunen",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Stemmesedlen"
+  },
+  {
+   "title": "Grundloven"
+  },
+  {
+   "title": "Folketinget og regeringen"
+  },
+  {
+   "title": "Kommunen"
+  },
+  {
+   "title": "På gågaden"
+  },
+  {
+   "title": "Mellem valgene"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U14-C001",
+   "text": "Malik er 19 og skal stemme for første gang, og han står i stemmeboksen i gymnastiksalen på sin gamle folkeskole med en blyant i hånden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U14-C002",
+   "text": "For nogle uger siden fik han sit valgkort, og siden da har lygtepælene i hele byen været dækket af plakater med smilende kandidater.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U14-C003",
+   "text": "Nu skal han beslutte, om krydset skal stå ved et parti eller ved en bestemt kandidat.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U14-C004",
+   "text": "Han sætter krydset, folder sedlen sammen og putter den i den forseglede urne.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U14-C005",
+   "text": "Det har taget to minutter.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U14-C006",
+   "text": "Nå, hvem stemte du så på?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mormor"
+  },
+  {
+   "id": "U14-C007",
+   "text": "Det er hemmeligt, mormor.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Malik"
+  },
+  {
+   "id": "U14-C008",
+   "text": "Det var det også, da jeg var ung. Jeg har aldrig fortalt din morfar det.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mormor"
+  },
+  {
+   "id": "U14-C009",
+   "text": "Heller ikke efter halvtreds år?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Malik"
+  },
+  {
+   "id": "U14-C010",
+   "text": "Især ikke efter halvtreds år.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mormor"
+  },
+  {
+   "id": "U14-C011",
+   "text": "Men selve valget afgør sjældent, hvem der skal regere.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U14-C012",
+   "text": "Det bliver først afgjort i dagene efter.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U14-C013",
+   "text": "Grundloven fra 1849 bygger på tanken om, at magten skal deles i tre: Folketinget vedtager lovene, regeringen fører dem ud i livet, og domstolene dømmer.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U14-C014",
+   "text": "Grundloven sikrer også en række frihedsrettigheder, blandt andet ytringsfrihed, forsamlingsfrihed og religionsfrihed.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U14-C015",
+   "text": "Kongens rolle er først og fremmest symbolsk: Han repræsenterer landet ved statsbesøg og samler befolkningen ved store begivenheder.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U14-C016",
+   "text": "Folketinget har 179 medlemmer, heraf to fra Grønland og to fra Færøerne, og der skal være valg mindst hvert fjerde år.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C017",
+   "text": "Statsministeren kan dog udskrive valg tidligere, og det sker tit.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C018",
+   "text": "Fordi et parti kun skal have to procent af stemmerne for at komme ind, er der plads til mange partier i Folketinget.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C019",
+   "text": "Da intet parti har haft flertal alene i over hundrede år, bliver de fleste love til gennem aftaler mellem flere partier.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C020",
+   "text": "En dansk regering behøver ikke et flertal bag sig – den skal bare undgå et flertal imod sig.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C021",
+   "text": "Princippet kaldes negativ parlamentarisme, og det forklarer, hvorfor mange danske regeringer har været mindretalsregeringer, der har levet af at finde skiftende flertal fra sag til sag.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C022",
+   "text": "På store områder som forsvar og energi indgår man ofte brede forlig, som partierne forpligter sig til at overholde, også hvis regeringen skifter.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U14-C023",
+   "text": "Hvert fjerde år er der også valg til kommunalbestyrelser og regionsråd, men her er stemmeprocenten typisk lavere.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U14-C024",
+   "text": "Ved de lokale valg er valgretten bredere: Borgere fra andre EU-lande, Island og Norge kan stemme, så snart de bor her, og andre udlændinge, når de har haft fast bopæl i riget i de sidste fire år.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U14-C025",
+   "text": "Kommunalbestyrelsen vælger selv en borgmester blandt sine medlemmer.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U14-C026",
+   "text": "Kommunalpolitik kan virke kedelig, men det er her, der bliver truffet mange af de beslutninger, der mærkes i hverdagen: om skolens åbningstider, om en ny cykelsti og om, hvor der må bygges.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U14-C027",
+   "text": "Før kommunen vedtager en lokalplan for et nyt boligområde, skal planen i offentlig høring, og alle borgere har lov til at sende et høringssvar.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U14-C028",
+   "text": "Tre uger før et folketingsvalg står kandidaten Mette Holm ved en bod på gågaden i Vejle med en bunke foldere.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U14-C029",
+   "text": "Hej! Må jeg give dig en folder?",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Kandidaten"
+  },
+  {
+   "id": "U14-C030",
+   "text": "Nej tak. I er alle sammen ens.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "En mand"
+  },
+  {
+   "id": "U14-C031",
+   "text": "Jeg kan godt forstå, at det kan virke sådan. Hvad er det vigtigste for dig ved det her valg?",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Kandidaten"
+  },
+  {
+   "id": "U14-C032",
+   "text": "Bussen til vores landsby kører nu kun tre gange om dagen. Min søn kan ikke komme hjem fra træning.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Manden"
+  },
+  {
+   "id": "U14-C033",
+   "text": "Det er et reelt problem i mange landdistrikter. Jeg bor selv i en landsby, og vi har præcis det samme problem.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Kandidaten"
+  },
+  {
+   "id": "U14-C034",
+   "text": "Det siger I alle sammen.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Manden"
+  },
+  {
+   "id": "U14-C035",
+   "text": "Ja. Og jeg lover ikke, at det er løst om en måned. Men jeg lover at blive ved med at tage det op.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Kandidaten"
+  },
+  {
+   "id": "U14-C036",
+   "text": "Hm. Hvad var det, du hed?",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Manden"
+  },
+  {
+   "id": "U14-C037",
+   "text": "Mette Holm. Det står på folderen.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Kandidaten"
+  },
+  {
+   "id": "U14-C038",
+   "text": "Så tager jeg alligevel en.",
+   "ch": 4,
+   "p": 6,
+   "speaker": "Manden"
+  },
+  {
+   "id": "U14-C039",
+   "text": "Demokratiet foregår ikke kun på valgdagen.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U14-C040",
+   "text": "Er man utilfreds med en myndigheds behandling af ens sag, kan man klage til Folketingets Ombudsmand, som kontrollerer, at forvaltningen følger loven og god skik.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U14-C041",
+   "text": "Man kan demonstrere, skrive læserbreve, deltage i partiernes møder eller melde sig ind i et parti og være med til at vælge kandidaterne.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U14-C042",
+   "text": "Malik ved endnu ikke, om det parti, han stemte på, kommer med i regeringen.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U14-C043",
+   "text": "Han ved derimod, at det i givet fald bliver nødt til at samarbejde med partier, han aldrig selv ville stemme på.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U14-C044",
+   "text": "Han kan også lade være; der er ingen stemmepligt i Danmark.",
+   "ch": 5,
+   "p": 8
+  }
+ ]
+}

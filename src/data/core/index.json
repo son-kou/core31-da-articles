@@ -1,0 +1,686 @@
+[
+ {
+  "unit": "U00",
+  "title": "Tillid – det usynlige fundament",
+  "subtitle": "Om at stole på mennesker, man aldrig har mødt",
+  "labels": [
+   "tillid",
+   "samfund",
+   "arbejdsliv",
+   "svindel"
+  ],
+  "sentences": 72,
+  "chapters": [
+   "Boden ved vejen",
+   "Hvad tillid er – og hvad den ikke er",
+   "Hønen eller ægget",
+   "Hvad tillid sparer",
+   "Frihed under ansvar",
+   "En skrøbelig ressource",
+   "Kassen ved vejen"
+  ],
+  "dialogue": 12
+ },
+ {
+  "unit": "U01",
+  "title": "Familieliv og hverdagens logistik",
+  "subtitle": "En helt almindelig tirsdag i en dansk børnefamilie",
+  "labels": [
+   "familie",
+   "børnepasning",
+   "orlov",
+   "tidsklemme"
+  ],
+  "sentences": 91,
+  "chapters": [
+   "Tirsdag, kvart i syv",
+   "Familier i mange udgaver",
+   "Institutionerne sætter takten",
+   "Ugerne, der ikke kan overdrages",
+   "Eftermiddag: hente, handle, lave mad",
+   "Tidsklemmen",
+   "Godnat"
+  ],
+  "dialogue": 39
+ },
+ {
+  "unit": "U02",
+  "title": "Mad og måltider",
+  "subtitle": "Fra råvare til tallerken",
+  "labels": [
+   "madkultur",
+   "køkken",
+   "sundhed",
+   "debat"
+  ],
+  "sentences": 83,
+  "chapters": [
+   "Hos bageren",
+   "I supermarkedet",
+   "Et par enkle greb",
+   "Hverdagsmad og festmad",
+   "Frikadeller",
+   "Ved bordet",
+   "Sund mad",
+   "Middag i Odense"
+  ],
+  "dialogue": 46
+ },
+ {
+  "unit": "U03",
+  "title": "Hjemmet",
+  "subtitle": "At bo, indrette og vedligeholde",
+  "labels": [
+   "bolig",
+   "leje og eje",
+   "naboer",
+   "boligpolitik"
+  ],
+  "sentences": 76,
+  "chapters": [
+   "Et sted at bo",
+   "Eje, leje eller andel",
+   "Naboerne",
+   "At holde et hjem ved lige",
+   "Loppemarked",
+   "Et år efter"
+  ],
+  "dialogue": 27
+ },
+ {
+  "unit": "U04",
+  "title": "Følelser og relationer",
+  "subtitle": "Venskab, kærlighed, konflikt og ensomhed",
+  "labels": [
+   "følelser",
+   "venskab",
+   "konflikt",
+   "ensomhed"
+  ],
+  "sentences": 91,
+  "chapters": [
+   "Tre uger efter",
+   "Små ord, store forskelle",
+   "Følelser i kroppen",
+   "Venner for livet",
+   "Når kærligheden kommer – og går",
+   "Konflikt og reparation",
+   "Når nogen har mistet",
+   "Ensomhed",
+   "Fredag eftermiddag"
+  ],
+  "dialogue": 42
+ },
+ {
+  "unit": "U05",
+  "title": "Fritid og fællesskab",
+  "subtitle": "Sport, foreninger og frivillighed",
+  "labels": [
+   "forening",
+   "sport",
+   "frivillighed",
+   "demokrati"
+  ],
+  "sentences": 47,
+  "chapters": [
+   "Tirsdag i hallen",
+   "Kamp på lørdag",
+   "Foreningerne",
+   "Hvorfor bliver man frivillig?"
+  ],
+  "dialogue": 15
+ },
+ {
+  "unit": "U06",
+  "title": "Samarbejde på arbejdspladsen",
+  "subtitle": "Kultur, møder og ledelse",
+  "labels": [
+   "møder",
+   "beslutninger",
+   "ledelse",
+   "arbejdsmiljø"
+  ],
+  "sentences": 60,
+  "chapters": [
+   "Punkt 3",
+   "Enig – eller i stand til at leve med det",
+   "De første uger",
+   "De uskrevne regler",
+   "Ledelse og feedback",
+   "Stress",
+   "Hvad gør en arbejdsplads attraktiv?"
+  ],
+  "dialogue": 15
+ },
+ {
+  "unit": "U07",
+  "title": "Arbejdsmarkedet",
+  "subtitle": "Den danske model, fagforeninger og konflikter",
+  "labels": [
+   "overenskomst",
+   "fredspligt",
+   "flexicurity",
+   "fagbevægelse"
+  ],
+  "sentences": 36,
+  "chapters": [
+   "Aftaler i stedet for love",
+   "Ved forhandlingsbordet",
+   "Fleksibilitet og tryghed",
+   "Modellen under pres"
+  ],
+  "dialogue": 8
+ },
+ {
+  "unit": "U08",
+  "title": "Skriftlig kommunikation",
+  "subtitle": "Mails, beskeder og henvendelser",
+  "labels": [
+   "e-mail",
+   "tone",
+   "klarsprog",
+   "henvendelser"
+  ],
+  "sentences": 74,
+  "chapters": [
+   "Tre beskeder, én afsender",
+   "Klare beskeder",
+   "Når svaret er nej",
+   "Klager og undskyldninger",
+   "Kan du lige kigge på den?",
+   "Før og efter"
+  ],
+  "dialogue": 10
+ },
+ {
+  "unit": "U09",
+  "title": "Job og karriere",
+  "subtitle": "At søge, skifte og miste arbejde",
+  "labels": [
+   "jobsøgning",
+   "ledighed",
+   "stress",
+   "arbejdskraft"
+  ],
+  "sentences": 58,
+  "chapters": [
+   "Seks job",
+   "Ufaglært og lærling",
+   "Fyret",
+   "Ansøgningen og samtalen",
+   "Sygemeldt",
+   "Et typisk stillingsopslag",
+   "At sige til"
+  ],
+  "dialogue": 8
+ },
+ {
+  "unit": "U10",
+  "title": "Velfærdsstaten",
+  "subtitle": "Hvem betaler, og hvem får?",
+  "labels": [
+   "skat",
+   "velfærd",
+   "pension",
+   "ulighed"
+  ],
+  "sentences": 40,
+  "chapters": [
+   "Den første lønseddel",
+   "Princippet",
+   "Skat, moms og afgifter",
+   "Tre niveauer",
+   "En forsikring snarere end en opsparing",
+   "Flere ældre, færre hænder",
+   "Tre veje"
+  ],
+  "dialogue": 10
+ },
+ {
+  "unit": "U11",
+  "title": "Kroppen, sygdom og behandling",
+  "subtitle": "At beskrive sine symptomer og finde rundt i sundhedsvæsenet",
+  "labels": [
+   "kroppen",
+   "symptomer",
+   "lægen",
+   "rettigheder"
+  ],
+  "sentences": 76,
+  "chapters": [
+   "Tæl selv",
+   "En rundtur i kroppen",
+   "Hvor sidder det?",
+   "At finde ordene",
+   "Hverdagens skavanker",
+   "Vejen gennem systemet",
+   "Hos tandlægen",
+   "Når hvert minut tæller",
+   "Medicin",
+   "Patientens rettigheder",
+   "Næste gang"
+  ],
+  "dialogue": 29
+ },
+ {
+  "unit": "U12",
+  "title": "Sundhed, livsstil og risiko",
+  "subtitle": "Hvor meget kan vi selv gøre – og hvordan læser vi tallene?",
+  "labels": [
+   "livsstil",
+   "vaner",
+   "risiko",
+   "forebyggelse"
+  ],
+  "sentences": 43,
+  "chapters": [
+   "»Pølser giver kræft«",
+   "KRAM",
+   "Livsstil og sandsynlighed",
+   "Vanernes magt",
+   "Det psykiske helbred",
+   "Frihed eller formynderi?"
+  ],
+  "dialogue": 5
+ },
+ {
+  "unit": "U13",
+  "title": "Uddannelse og læring",
+  "subtitle": "Fra den sorte skole til livslang læring",
+  "labels": [
+   "skole",
+   "dannelse",
+   "læring",
+   "uddannelsessystemet"
+  ],
+  "sentences": 51,
+  "chapters": [
+   "Et ord uden oversættelse",
+   "Skolen for livet",
+   "Systemet i grove træk",
+   "En dag i 7.b",
+   "Skole-hjem-samtalen",
+   "Klasseværelset",
+   "Hvordan lærer vi?",
+   "Livslang læring"
+  ],
+  "dialogue": 16
+ },
+ {
+  "unit": "U14",
+  "title": "Demokratiet",
+  "subtitle": "Valg, Folketing og nærdemokrati",
+  "labels": [
+   "valg",
+   "Folketinget",
+   "regering",
+   "kommunen"
+  ],
+  "sentences": 44,
+  "chapters": [
+   "Stemmesedlen",
+   "Grundloven",
+   "Folketinget og regeringen",
+   "Kommunen",
+   "På gågaden",
+   "Mellem valgene"
+  ],
+  "dialogue": 15
+ },
+ {
+  "unit": "U15",
+  "title": "Retssamfundet",
+  "subtitle": "Lov, ret og straf",
+  "labels": [
+   "politi",
+   "domstole",
+   "retssikkerhed",
+   "straf"
+  ],
+  "sentences": 55,
+  "chapters": [
+   "En lørdag nat i Aalborg",
+   "I retssalen",
+   "Uskyldig, indtil det modsatte er bevist",
+   "Frihed og grænser",
+   "Hverdagens jura",
+   "Konfliktrådet",
+   "Prisen for tvivlen"
+  ],
+  "dialogue": 18
+ },
+ {
+  "unit": "U16",
+  "title": "Det digitale Danmark",
+  "subtitle": "Data, sikkerhed og selvbetjening",
+  "labels": [
+   "selvbetjening",
+   "data",
+   "svindel",
+   "skærmtid"
+  ],
+  "sentences": 55,
+  "chapters": [
+   "»Du har modtaget ny post«",
+   "Gevinsterne",
+   "Farmor og appen",
+   "Spor efter os",
+   "Haster det?",
+   "Opmærksomhedens marked"
+  ],
+  "dialogue": 15
+ },
+ {
+  "unit": "U17",
+  "title": "Kunstig intelligens",
+  "subtitle": "Muligheder, grænser og ansvar",
+  "labels": [
+   "sprogmodeller",
+   "fejl",
+   "ansvar",
+   "regulering"
+  ],
+  "sentences": 44,
+  "chapters": [
+   "Den belæste gætter",
+   "Hvad den er god til – og hvad den ikke er",
+   "Forsøget i forvaltningen",
+   "I skolen",
+   "Skævheder og ansvar"
+  ],
+  "dialogue": 14
+ },
+ {
+  "unit": "U18",
+  "title": "Traditioner, højtider og hygge",
+  "subtitle": "Et år i danske ritualer",
+  "labels": [
+   "jul",
+   "påske",
+   "sankthans",
+   "hygge"
+  ],
+  "sentences": 48,
+  "chapters": [
+   "December",
+   "Juleaften",
+   "Nytår og fastelavn",
+   "Påske og sankthans",
+   "Livets milepæle",
+   "Hygge",
+   "Traditioner i forandring"
+  ],
+  "dialogue": 16
+ },
+ {
+  "unit": "U19",
+  "title": "Værdier og tro",
+  "subtitle": "Frihed, lighed, humor og religion",
+  "labels": [
+   "janteloven",
+   "humor",
+   "folkekirken",
+   "ligestilling"
+  ],
+  "sentences": 48,
+  "chapters": [
+   "Det ku' være værre",
+   "Du skal ikke tro, at du er noget",
+   "Drilleri og selvironi",
+   "Frisind",
+   "Kirken og troen",
+   "Hos præsten",
+   "Lige muligheder",
+   "Tolerance"
+  ],
+  "dialogue": 18
+ },
+ {
+  "unit": "U20",
+  "title": "Danmarkshistorien I",
+  "subtitle": "Fra vikingetid til enevælde",
+  "labels": [
+   "vikinger",
+   "middelalder",
+   "reformation",
+   "enevælde"
+  ],
+  "sentences": 29,
+  "chapters": [
+   "Et navn på en sten",
+   "Vikingerne",
+   "Kristendom, lov og pest",
+   "Én konge, tre riger",
+   "Reformationen",
+   "Tolden ved Øresund",
+   "Over isen",
+   "Enevælden",
+   "Tordenskjolds soldater",
+   "Hvorfor så lille?"
+  ],
+  "dialogue": 0
+ },
+ {
+  "unit": "U21",
+  "title": "Danmarkshistorien II",
+  "subtitle": "Fra grundlov til velfærdssamfund",
+  "labels": [
+   "1864",
+   "besættelsen",
+   "velfærdsstaten",
+   "EF"
+  ],
+  "sentences": 30,
+  "chapters": [
+   "Et land i krise",
+   "Grundloven",
+   "Hvad udad tabes",
+   "Nye stemmer",
+   "Besættelsen",
+   "Velfærd og vækst",
+   "Hvorfor gik det så godt?"
+  ],
+  "dialogue": 0
+ },
+ {
+  "unit": "U22",
+  "title": "Danmark i verden",
+  "subtitle": "Norden, EU og rigsfællesskabet",
+  "labels": [
+   "Norden",
+   "EU",
+   "NATO",
+   "Grønland"
+  ],
+  "sentences": 41,
+  "chapters": [
+   "Det lille lands dilemma",
+   "Naboerne",
+   "Europa",
+   "Sikkerhed og handel",
+   "Når uheldet er ude",
+   "Rigsfællesskabet"
+  ],
+  "dialogue": 17
+ },
+ {
+  "unit": "U23",
+  "title": "Sprog og identitet",
+  "subtitle": "Dansk, dialekter og flersprogethed",
+  "labels": [
+   "udtale",
+   "dialekter",
+   "indvandring",
+   "flersprogethed"
+  ],
+  "sentences": 50,
+  "chapters": [
+   "»Hva'?«",
+   "Et sprog, der er svært at høre",
+   "Dialekter",
+   "Navne",
+   "Nye ord",
+   "To sprog ved samme bord",
+   "At blive en del af et sprogfællesskab"
+  ],
+  "dialogue": 15
+ },
+ {
+  "unit": "U24",
+  "title": "Medier, nyheder og kildekritik",
+  "subtitle": "Fra tip til overskrift – og fra feed til fakta",
+  "labels": [
+   "journalistik",
+   "nyhedskriterier",
+   "algoritmer",
+   "kildekritik"
+  ],
+  "sentences": 62,
+  "chapters": [
+   "Et tip",
+   "Hvorfor blev det en nyhed?",
+   "Frihed og ansvar",
+   "Algoritmerne",
+   "Fejl, løgn og forfalskning",
+   "Tre spørgsmål",
+   "Pressemødet",
+   "Det står på spil"
+  ],
+  "dialogue": 26
+ },
+ {
+  "unit": "U25",
+  "title": "Kunst og kultur",
+  "subtitle": "Litteratur, billedkunst, musik, film og design",
+  "labels": [
+   "litteratur",
+   "maleri",
+   "film",
+   "design"
+  ],
+  "sentences": 38,
+  "chapters": [
+   "Klassikerne",
+   "Stand-up",
+   "Fernisering",
+   "Skal staten betale?",
+   "Læsekredsen"
+  ],
+  "dialogue": 23
+ },
+ {
+  "unit": "U26",
+  "title": "Natur og landskab",
+  "subtitle": "Vejr, kyst, dyr og planter",
+  "labels": [
+   "vejr",
+   "kyst",
+   "skov",
+   "biodiversitet"
+  ],
+  "sentences": 48,
+  "chapters": [
+   "Vejrudsigten",
+   "Årstiderne",
+   "Aldrig langt til havet",
+   "Skov og mark",
+   "Spor i skoven",
+   "Når naturen kommer i klemme",
+   "Ude i det fri"
+  ],
+  "dialogue": 13
+ },
+ {
+  "unit": "U27",
+  "title": "Klima og energi",
+  "subtitle": "Hvem betaler nu – og hvem får gavn af det senere?",
+  "labels": [
+   "drivhuseffekt",
+   "vindkraft",
+   "omstilling",
+   "retfærdighed"
+  ],
+  "sentences": 45,
+  "chapters": [
+   "Skybruddet",
+   "Hvordan drivhuseffekten virker",
+   "Strøm fra vind",
+   "Når strømmen bliver dyr",
+   "Madspild",
+   "Mål og bekymring",
+   "Ikke i min baghave",
+   "Borgermødet",
+   "Hvem betaler?"
+  ],
+  "dialogue": 18
+ },
+ {
+  "unit": "U28",
+  "title": "Transport, byer og rejser",
+  "subtitle": "Hvordan danskerne kommer frem – og hvordan fremtidens byer skal indrettes",
+  "labels": [
+   "cykel",
+   "tog og bus",
+   "byplanlægning",
+   "rejser"
+  ],
+  "sentences": 69,
+  "chapters": [
+   "Fra sadlen",
+   "Hvorfor cykler danskerne?",
+   "Tog, bus og metro",
+   "Bilen",
+   "Færgen",
+   "Ud at rejse",
+   "I lufthavnen",
+   "Fremtidens trafik"
+  ],
+  "dialogue": 38
+ },
+ {
+  "unit": "U29",
+  "title": "Økonomi",
+  "subtitle": "Fra husholdningsbudget til erhvervsliv",
+  "labels": [
+   "budget",
+   "forbrug",
+   "adfærdsøkonomi",
+   "erhvervsliv"
+  ],
+  "sentences": 64,
+  "chapters": [
+   "Rådighedsbeløbet",
+   "Penge, man ikke har",
+   "Hvorfor vi køber det, vi køber",
+   "Forbrugerens rettigheder",
+   "Selvstændig",
+   "Når priserne stiger",
+   "Den første bolig",
+   "Den første aktie",
+   "Hvad pengene er til"
+  ],
+  "dialogue": 39
+ },
+ {
+  "unit": "U30",
+  "title": "Viden og argumentation",
+  "subtitle": "Hvordan ved vi det – og hvordan overbeviser vi?",
+  "labels": [
+   "videnskab",
+   "usikkerhed",
+   "tankefejl",
+   "argumentation"
+  ],
+  "sentences": 57,
+  "chapters": [
+   "En nål, der flyttede sig",
+   "Fra observation til viden",
+   "Når tal snyder",
+   "Hjernens genveje",
+   "Et arguments anatomi",
+   "At være uenig på en god måde",
+   "Redelighed"
+  ],
+  "dialogue": 10
+ }
+]

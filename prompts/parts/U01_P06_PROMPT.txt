@@ -1,0 +1,200 @@
+【Danish CORE · Deep Teacher】U01 Familieliv og hverdagens logistik · P06
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U01"
+"part": "P06"
+"source_fingerprint": "U01-P06-9a3be7c928de"
+sentences 数组必须恰好包含 14 个对象，ID 依次为：
+U01-C078, U01-C079, U01-C080, U01-C081, U01-C082, U01-C083, U01-C084, U01-C085, U01-C086, U01-C087, U01-C088, U01-C089, U01-C090, U01-C091
+
+## 六、文章（冻结原文，只读）
+本次是第 6 / 6 批，讲解 14 句（U01-C078 – U01-C091）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U01 · Familieliv og hverdagens logistik
+副标题：En helt almindelig tirsdag i en dansk børnefamilie
+主题标签：familie · børnepasning · orlov · tidsklemme
+
+## 第 1 章 · Tirsdag, kvart i syv
+  U01-C001 Vækkeuret ringer kvart i syv, og i samme øjeblik kravler toårige Emil op i dobbeltsengen.
+  U01-C002 Maja når lige at tænke, at hun burde være stået op for en halv time siden.
+  U01-C003 Jonas smører madpakker i køkkenet, mens radioen kører i baggrunden, og syvårige Ida leder efter sin anden sko.
+
+  U01-C004 [对话 · Maja] Ida, har du fundet din sko?
+  U01-C005 [对话 · Ida] Nej!
+  U01-C006 [对话 · Maja] Har du kigget under sofaen?
+  U01-C007 [对话 · Ida] Det har jeg! … Nå nej, der er den.
+  U01-C008 [对话 · Jonas] Husk regntøjet. Det skal regne i eftermiddag.
+  U01-C009 [对话 · Ida] Må jeg ikke nok lade være? Det klør.
+  U01-C010 [对话 · Jonas] Du sagde jo selv i går, at du ville lege ude.
+  U01-C011 [对话 · Ida] Okay da.
+  U01-C012 [对话 · Jonas] Nu skal jeg løbe. Jeg har vagt i morgen tidlig, så det er dig, der afleverer, ikke?
+  U01-C013 [对话 · Maja] Jo, jo. Smut du bare, ellers når du ikke toget.
+
+  U01-C014 Klokken halv otte cykler Maja af sted med Emil i ladcyklen og Ida på sin egen cykel ved siden af.
+  U01-C015 Ved skolen er Ida løbet over til sine veninder, før Maja har nået at sige »hav en god dag«.
+  U01-C016 Afleveringen i vuggestuen tager sjældent mere end fem minutter, men den har sin egen lille ceremoni.
+  U01-C017 Skoene skal af, skiftetøjet skal i kurven, og pædagogen skal have at vide, at Emil har sovet dårligt i nat.
+  U01-C018 Først da kan Maja cykle videre til stationen.
+  U01-C019 Toget bliver forsinket ved Valby, og hun skriver til sin kollega: »Toget holder stille. Start bare mødet uden mig.«
+
+## 第 2 章 · Familier i mange udgaver
+  U01-C020 Maja og Jonas er ikke gift.
+  U01-C021 De har været kærester i ni år og har to børn og et fælles lån i huset, men det er aldrig blevet til et bryllup.
+  U01-C022 Det er der ikke noget usædvanligt i.
+  U01-C023 Omkring halvdelen af alle børn i Danmark har forældre, der ikke er gift med hinanden, når de bliver født.
+  U01-C024 Den klassiske kernefamilie med far, mor og børn under samme tag findes stadig, men den er langt fra den eneste model.
+  U01-C025 Jonas har en søn fra et tidligere forhold, trettenårige Oliver, som bor hos dem hver anden uge.
+  U01-C026 Maja er Olivers bonusmor.
+  U01-C027 For Ida og Emil er Oliver bare deres storebror – at han kun er halvbror, er der ingen, der tænker på.
+  U01-C028 I Idas klasse er der børn med to mødre, børn med en enlig far og børn, der holder jul på skift hos fire sæt bedsteforældre.
+  U01-C029 Det afgørende er ikke længere, hvad der står på papiret, men hvem der er der for hinanden i hverdagen.
+
+## 第 3 章 · Institutionerne sætter takten
+  U01-C030 For børnefamilier er det i høj grad institutionernes åbningstider, der bestemmer dagens rytme.
+  U01-C031 De mindste passes enten i en vuggestue eller hos en dagplejer, der tager sig af en lille flok børn i sit eget hjem.
+  U01-C032 Omkring treårsalderen skifter de til børnehave, og når de begynder i skole, går de i skolefritidsordning – SFO – om eftermiddagen.
+  U01-C033 Overgangene betyder mere, end man skulle tro.
+  U01-C034 Ved hvert skift skal barnet lære nye voksne at kende, og forældrene skal sætte sig ind i en ny kultur med egne regler.
+  U01-C035 Derfor begynder det hele med en indkøring, hvor en af forældrene er med de første dage.
+
+## 第 4 章 · Ugerne, der ikke kan overdrages
+  U01-C036 Da Emil blev født, holdt både Maja og Jonas orlov i flere måneder.
+  U01-C037 De første uger kom sundhedsplejersken på besøg, vejede den nyfødte og svarede på alle de spørgsmål, de nybagte forældre havde samlet sammen siden sidst.
+  U01-C038 Barselsreglerne fordeler ugerne med barselsdagpenge mellem forældrene, og for lønmodtagere er en del af dem øremærket, så de ikke kan overdrages til den anden forælder.
+  U01-C039 Formålet var at få flere fædre til at holde orlov, og det ser ud til at virke.
+  U01-C040 Jonas var i begyndelsen skeptisk.
+  U01-C041 Han var bange for, hvad det ville betyde for karrieren, og han kunne ikke huske, at hans egen far nogensinde havde skiftet en ble.
+  U01-C042 Fire måneder alene hjemme med en baby ændrede hans syn på sagen.
+  U01-C043 »Det var først der, jeg forstod, hvor meget arbejde der ligger i en helt almindelig tirsdag,« siger han i dag.
+
+## 第 5 章 · Eftermiddag: hente, handle, lave mad
+  U01-C044 Inde i vuggestuens garderobe står Maja med Emils våde flyverdragt i den ene hånd og telefonen i den anden.
+  U01-C045 Ida er hjemme hos en veninde efter skole, og Maja ringer for at høre, hvordan det går.
+
+  U01-C046 [对话 · Maja] Hej skat. Du er vel stadig hjemme hos Freja?
+  U01-C047 [对话 · Ida] Ja. Må jeg blive til aftensmad?
+  U01-C048 [对话 · Maja] Ikke i dag. Jeg kommer forbi om et kvarter.
+  U01-C049 [对话 · Ida] Øv. Må Freja så komme hjem til os på torsdag?
+  U01-C050 [对话 · Maja] Hvis det er i orden med hendes forældre, så må hun gerne.
+  U01-C051 [对话 · Ida] Det er det. Hendes mor står lige her og nikker.
+
+  U01-C052 Da de kommer hjem, er Jonas lige kommet ind ad døren.
+  U01-C053 Nu begynder den del af dagen, der fylder mest og huskes mindst: aftensmad, opvask, vasketøj og lektier.
+  U01-C054 Jonas laver mad om tirsdagen, Maja om torsdagen, og resten af ugen skiftes de efter behov.
+  U01-C055 Arbejdet i hjemmet er gennem de sidste årtier blevet mere ligeligt fordelt, men kvinder bruger stadig i gennemsnit mere tid på husarbejde end mænd.
+  U01-C056 Og selv i par, der deler opvasken, kan det usynlige planlægningsarbejde være skævt fordelt: Nogen skal huske tandlægetider, fødselsdagsgaver og den røde sut til vuggestuen.
+
+  U01-C057 [对话 · Jonas] Har du ikke fået noget frugt i dag, Emil?
+  U01-C058 [对话 · Emil] Jo! Banan.
+  U01-C059 [对话 · Maja] Ida, har du husket at læse i din bog?
+  U01-C060 [对话 · Ida] Det har jeg allerede gjort!
+  U01-C061 [对话 · Maja] Det er da dejligt.
+  U01-C062 [对话 · Jonas] Det er mormor, der henter i morgen, ikke?
+  U01-C063 [对话 · Maja] Jo. Onsdag er hendes faste dag.
+  U01-C064 [对话 · Ida] Fedt! Så får vi pandekager.
+
+## 第 6 章 · Tidsklemmen
+  U01-C065 En almindelig fuldtidsstilling i Danmark er på 37 timer om ugen.
+  U01-C066 Når begge arbejder fuld tid, og vuggestuen lukker klokken fem, er der ikke meget luft i kalenderen.
+  U01-C067 I den offentlige debat kaldes det tidsklemmen: følelsen af, at der aldrig er tid nok til arbejde, børn, parforhold og søvn på én gang.
+  U01-C068 Nogle familier løser det ved, at den ene går ned i tid.
+  U01-C069 Andre får hjælp af bedsteforældrene.
+  U01-C070 Majas mor, der er gået på pension, henter hver onsdag, og selv en enkelt eftermiddag om ugen gør en stor forskel.
+  U01-C071 Efterhånden som børnene bliver større, ændrer logistikken karakter: Så er det fodboldtræning, spejder og legeaftaler, der skal passes ind.
+
+## 第 7 章 · Godnat
+  U01-C072 Ida vil have en historie til, selvom hun egentlig er for stor til at blive læst højt for.
+
+  U01-C073 [对话 · Ida] Bare ét kapitel mere?
+  U01-C074 [对话 · Maja] Okay. Men så er det også godnat.
+  U01-C075 [对话 · Ida] Mor? Hvad var det bedste ved i dag?
+  U01-C076 [对话 · Maja] Det her, tror jeg.
+
+  U01-C077 Bagefter sidder Maja og Jonas i sofaen med hver sin computer og hver sin halvdrukne kop te.
+
+▶ U01-C078 [对话 · Jonas] Har du svaret min søster på det med sommerhuset?
+▶ U01-C079 [对话 · Maja] Nej, det haster ikke. Det er først i juli.
+▶ U01-C080 [对话 · Jonas] Jo, lidt. Hun skal vide det senest på fredag.
+▶ U01-C081 [对话 · Maja] Nå. Så skriver jeg til hende i morgen. Det var den første uge i juli, vi sagde, ikke?
+▶ U01-C082 [对话 · Jonas] Jo. Det kommer an på, om jeg kan få fri.
+▶ U01-C083 [对话 · Maja] Det kan du da sagtens. Du har jo masser af feriedage tilbage.
+▶ U01-C084 [对话 · Jonas] Og så er der skolekomedien på torsdag.
+▶ U01-C085 [对话 · Maja] Den tager jeg. Jeg kan godt gå tidligt fra arbejde.
+▶ U01-C086 [对话 · Jonas] Og husk, at vi skal til fødselsdag hos min bror i weekenden.
+▶ U01-C087 [对话 · Maja] Øh, var det ikke næste weekend?
+▶ U01-C088 [对话 · Jonas] Nej, det er på lørdag.
+
+▶ U01-C089 Alligevel er det i de små aftaler, at et familieliv bliver til.
+▶ U01-C090 Børn husker sjældent, om madpakken var økologisk, eller om gulvet var støvsuget.
+▶ U01-C091 De husker, om der var en voksen, der havde tid til at lytte.
+
+## 七、本批需要讲解的句子（共 14 句）
+U01-C078 ｜ 第 7 章 ｜ [Jonas] Har du svaret min søster på det med sommerhuset?
+U01-C079 ｜ 第 7 章 ｜ [Maja] Nej, det haster ikke. Det er først i juli.
+U01-C080 ｜ 第 7 章 ｜ [Jonas] Jo, lidt. Hun skal vide det senest på fredag.
+U01-C081 ｜ 第 7 章 ｜ [Maja] Nå. Så skriver jeg til hende i morgen. Det var den første uge i juli, vi sagde, ikke?
+U01-C082 ｜ 第 7 章 ｜ [Jonas] Jo. Det kommer an på, om jeg kan få fri.
+U01-C083 ｜ 第 7 章 ｜ [Maja] Det kan du da sagtens. Du har jo masser af feriedage tilbage.
+U01-C084 ｜ 第 7 章 ｜ [Jonas] Og så er der skolekomedien på torsdag.
+U01-C085 ｜ 第 7 章 ｜ [Maja] Den tager jeg. Jeg kan godt gå tidligt fra arbejde.
+U01-C086 ｜ 第 7 章 ｜ [Jonas] Og husk, at vi skal til fødselsdag hos min bror i weekenden.
+U01-C087 ｜ 第 7 章 ｜ [Maja] Øh, var det ikke næste weekend?
+U01-C088 ｜ 第 7 章 ｜ [Jonas] Nej, det er på lørdag.
+U01-C089 ｜ 第 7 章 ｜ Alligevel er det i de små aftaler, at et familieliv bliver til.
+U01-C090 ｜ 第 7 章 ｜ Børn husker sjældent, om madpakken var økologisk, eller om gulvet var støvsuget.
+U01-C091 ｜ 第 7 章 ｜ De husker, om der var en voksen, der havde tid til at lytte.
+
+输出前请自检：JSON 能被解析；sentences 共 14 项，第一个是 U01-C078，最后一个是 U01-C091；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

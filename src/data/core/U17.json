@@ -1,0 +1,318 @@
+{
+ "schema": 1,
+ "unit": "U17",
+ "title": "Kunstig intelligens",
+ "subtitle": "Muligheder, grænser og ansvar",
+ "labels": [
+  "sprogmodeller",
+  "fejl",
+  "ansvar",
+  "regulering"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U17",
+  "tier: CORE",
+  "title: Kunstig intelligens",
+  "subtitle: Muligheder, grænser og ansvar",
+  "labels: sprogmodeller · fejl · ansvar · regulering",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Den belæste gætter"
+  },
+  {
+   "title": "Hvad den er god til – og hvad den ikke er"
+  },
+  {
+   "title": "Forsøget i forvaltningen"
+  },
+  {
+   "title": "I skolen"
+  },
+  {
+   "title": "Skævheder og ansvar"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U17-C001",
+   "text": "Forestil dig en, der har læst mere, end noget menneske nogensinde ville kunne nå, men som aldrig har sat sine ben uden for biblioteket.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U17-C002",
+   "text": "Stiller du hende et spørgsmål, svarer hun ved at gætte ord for ord, hvad der mest sandsynligt kommer næste gang, ud fra alt det, hun har læst.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U17-C003",
+   "text": "Hun gætter så godt, at svarene ofte er præcise, velformulerede og nyttige.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U17-C004",
+   "text": "Det er i grove træk, hvad en sprogmodel gør.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U17-C005",
+   "text": "Hun ved ikke selv, hvornår hun gætter forkert, og hun lyder lige så sikker, når hun tager fejl, som når hun har ret.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U17-C006",
+   "text": "Har hun læst en påstand mange gange, er der en tendens til, at hun gentager den – også hvis den ikke er sand.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U17-C007",
+   "text": "Og spørger man om noget, der er sket, efter at hun holdt op med at læse, må hun enten indrømme, at hun ikke ved det, eller gætte.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U17-C008",
+   "text": "Mon hun forstår noget af det, hun siger?",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U17-C009",
+   "text": "Det spørgsmål er forskerne ikke enige om, og svaret afhænger i høj grad af, hvad man mener med at forstå.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U17-C010",
+   "text": "Når det kommer til at skrive et første udkast, opsummere en lang rapport, oversætte en mail eller forklare et svært begreb med enkle ord, kan en sprogmodel spare mennesker for mange timers arbejde.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U17-C011",
+   "text": "Den arbejder lynhurtigt, bliver aldrig træt og svarer lige så tålmodigt på det tiende spørgsmål som på det første.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U17-C012",
+   "text": "Den er ganske vist ikke ufejlbarlig, men det er mennesker heller ikke.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U17-C013",
+   "text": "Forskellen er, at maskinens fejl kan være svære at opdage, fordi de er pakket ind i et flydende og selvsikkert sprog.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U17-C014",
+   "text": "Den kan finde på kilder, der ikke findes, eller blande to personer sammen, og man bør derfor være opmærksom på at tjekke fakta, før man bruger dem.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U17-C015",
+   "text": "Hvor mange andelsmejerier var der i Danmark omkring år 1900?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U17-C016",
+   "text": "Omkring år 1900 var der godt 1.000 andelsmejerier i Danmark.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Chatbotten"
+  },
+  {
+   "id": "U17-C017",
+   "text": "Har du en kilde til det?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U17-C018",
+   "text": "Ja, tallet stammer fra en rapport fra et dansk universitet.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Chatbotten"
+  },
+  {
+   "id": "U17-C019",
+   "text": "Hvilken rapport? Kan du give mig titlen?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U17-C020",
+   "text": "Jeg kan desværre ikke angive en præcis titel. Tallet bør kontrolleres i en historisk oversigt.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Chatbotten"
+  },
+  {
+   "id": "U17-C021",
+   "text": "Jonas gjorde det, man bør gøre: Han spurgte efter kilden og kontrollerede tallet i en håndbog.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U17-C022",
+   "text": "Tallet viste sig at være nogenlunde rigtigt, men kilden fandtes ikke.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U17-C023",
+   "text": "I en kommune har en afdeling i tre måneder testet et AI-værktøj, der skal hjælpe sagsbehandlerne med at skrive breve til borgerne.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U17-C024",
+   "text": "Hvad er jeres umiddelbare indtryk efter tre måneder?",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Afdelingslederen"
+  },
+  {
+   "id": "U17-C025",
+   "text": "Det er effektivt til første udkast. Det, der før tog en time, tager nu et kvarter.",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Sagsbehandleren"
+  },
+  {
+   "id": "U17-C026",
+   "text": "Og ulemperne?",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Afdelingslederen"
+  },
+  {
+   "id": "U17-C027",
+   "text": "Det henviser nogle gange til paragraffer, der ikke findes. Så vi tjekker alt, før det bliver sendt.",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Sagsbehandleren"
+  },
+  {
+   "id": "U17-C028",
+   "text": "Har nogen lagt fortrolige oplysninger ind i det?",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Afdelingslederen"
+  },
+  {
+   "id": "U17-C029",
+   "text": "Nej. Vi anvender kun den version, der kører på kommunens egne servere, og vi bruger aldrig cpr-numre.",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Sagsbehandleren"
+  },
+  {
+   "id": "U17-C030",
+   "text": "Godt. Kan det fungere for hele afdelingen?",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Afdelingslederen"
+  },
+  {
+   "id": "U17-C031",
+   "text": "Muligvis. Men kun hvis alle får et kursus først. Ellers kommer folk til at stole for meget på det.",
+   "ch": 2,
+   "p": 6,
+   "speaker": "Sagsbehandleren"
+  },
+  {
+   "id": "U17-C032",
+   "text": "Værktøjerne kan spare tid, men de flytter også ansvaret for at opdage fejl over på dem, der bruger dem.",
+   "ch": 2,
+   "p": 7
+  },
+  {
+   "id": "U17-C033",
+   "text": "I skolen har teknologien skabt et dilemma.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U17-C034",
+   "text": "En elev kan få en maskine til at skrive en hel opgave på få sekunder, og det er svært at bevise, hvem der har skrevet hvad.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U17-C035",
+   "text": "Nogle lærere anser det for snyd og har indført flere mundtlige prøver og opgaver, der skrives i timerne.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U17-C036",
+   "text": "Andre ser det som et redskab, eleverne skal lære at bruge kritisk, ligesom de engang skulle lære at bruge en lommeregner.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U17-C037",
+   "text": "Begge grupper er enige om, at eleverne stadig skal kunne tænke selv, skrive selv og vurdere, om et svar er troværdigt.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U17-C038",
+   "text": "En model er aldrig bedre end de data, den er trænet på.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C039",
+   "text": "Indeholder dataene fordomme, kan modellen forstærke dem: Et system, der skal sortere jobansøgninger, kan for eksempel komme til at foretrække ansøgere, der ligner dem, der tidligere er blevet ansat.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C040",
+   "text": "Hvem har ansvaret, når en maskine tager fejl?",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C041",
+   "text": "En computer kan ikke stilles for en dommer eller sige undskyld og mene det.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C042",
+   "text": "Ansvaret ligger derfor hos de mennesker og organisationer, der udvikler systemerne, og hos dem, der vælger at bruge dem.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C043",
+   "text": "Træffer en myndighed en afgørelse med hjælp fra en algoritme, har borgeren stadig krav på en begrundelse, som et menneske kan stå inde for.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U17-C044",
+   "text": "Den belæste gætter er et uhyre nyttigt redskab, men et redskab er ikke en dommer.",
+   "ch": 4,
+   "p": 10
+  }
+ ]
+}

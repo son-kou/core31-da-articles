@@ -1,0 +1,640 @@
+{
+ "schema": 1,
+ "unit": "U04",
+ "title": "Følelser og relationer",
+ "subtitle": "Venskab, kærlighed, konflikt og ensomhed",
+ "labels": [
+  "følelser",
+  "venskab",
+  "konflikt",
+  "ensomhed"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U04",
+  "tier: CORE",
+  "title: Følelser og relationer",
+  "subtitle: Venskab, kærlighed, konflikt og ensomhed",
+  "labels: følelser · venskab · konflikt · ensomhed",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Tre uger efter"
+  },
+  {
+   "title": "Små ord, store forskelle"
+  },
+  {
+   "title": "Følelser i kroppen"
+  },
+  {
+   "title": "Venner for livet"
+  },
+  {
+   "title": "Når kærligheden kommer – og går"
+  },
+  {
+   "title": "Konflikt og reparation"
+  },
+  {
+   "title": "Når nogen har mistet"
+  },
+  {
+   "title": "Ensomhed"
+  },
+  {
+   "title": "Fredag eftermiddag"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U04-C001",
+   "text": "Hej. Har du ventet længe?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C002",
+   "text": "Nej, nej. Jeg er lige kommet.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C003",
+   "text": "Skal jeg hente en kaffe til dig?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C004",
+   "text": "Jeg har allerede bestilt.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C005",
+   "text": "Nå. … Hvordan går det ellers?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C006",
+   "text": "Fint nok. Travlt.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C007",
+   "text": "Du har vist fået ny chef?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C008",
+   "text": "Ja. Og så er jeg blevet teamleder.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C009",
+   "text": "Det var da spændende!",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C010",
+   "text": "Det er det. Det meste af tiden.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C011",
+   "text": "Efter fem minutter er de ved at løbe tør for småsnak.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C012",
+   "text": "Det er tre uger siden Mathildes 30-års fødselsdag, hvor Kasper skulle have holdt tale.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C013",
+   "text": "En time før gæsterne kom, skrev han, at han desværre ikke kunne komme, og siden har ingen af dem rørt ved emnet.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C014",
+   "text": "De har kendt hinanden siden gymnasiet.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C015",
+   "text": "Netop derfor gør tavsheden ondt.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C016",
+   "text": "Kasper havde godt nok sendt en sms, men en sms er ikke en forklaring.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C017",
+   "text": "Mathilde har sagt til sig selv, at hun ikke er vred.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C018",
+   "text": "Hun er skuffet – over ham og lidt over sig selv, fordi hun ikke har sagt noget.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U04-C019",
+   "text": "Dansk har mange ord for, hvordan man har det, og forskellene mellem dem er små, men ikke ligegyldige.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C020",
+   "text": "Sur bliver man over en glemt aftale; vred bliver man over et svigt.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C021",
+   "text": "Skuffelse forudsætter forventninger, og derfor er det ofte dem, der står os nærmest, der kan skuffe os mest.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C022",
+   "text": "Den, der er ked af det, er trist over noget bestemt, mens den, der er nedtrykt, har det tungt i længere tid.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C023",
+   "text": "Flov bliver vi over noget, vi selv har gjort, mens en situation kan være pinlig for alle, der er til stede.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C024",
+   "text": "Misundelse handler om noget, andre har, og som vi selv gerne ville have; jalousi handler om frygten for at miste noget, vi allerede har.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C025",
+   "text": "Og man kan sagtens være alene uden at være ensom – eller føle sig ensom midt i en fuld kantine.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C026",
+   "text": "De positive følelser er lige så præcise, og her betyder præpositionerne meget.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C027",
+   "text": "Vi er glade for vores cykel, men glade over en god nyhed; vi er stolte af vores børn, taknemmelige for hjælp og nervøse for en eksamen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C028",
+   "text": "»Hvordan går det?« er en hilsen, som man kan svare »fint« på uden at lyve ret meget.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C029",
+   "text": "»Hvordan har du det?« inviterer derimod til et rigtigt svar – især hvis man tilføjer et lille »egentlig«.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U04-C030",
+   "text": "Et udtryk, mange udlændinge lægger mærke til, er »Jeg under dig det«: Man glæder sig på den andens vegne og signalerer, at vedkommende har fortjent det.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U04-C031",
+   "text": "Har du hørt det? Jeg har fået jobbet i Aarhus!",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C032",
+   "text": "Nej! Tillykke! Jeg under dig det virkelig.",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U04-C033",
+   "text": "Dansk har mange faste udtryk for den slags.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U04-C034",
+   "text": "Man kan have sommerfugle i maven før en date, få en klump i halsen ved et bryllup eller koge over af raseri.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U04-C035",
+   "text": "Tårer er heller ikke kun et tegn på sorg: Mange græder af glæde, af lettelse eller af ren og skær træthed.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U04-C036",
+   "text": "Tilflyttere fortæller tit, at det tager tid at få danske venner.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U04-C037",
+   "text": "Mange danskere har en vennekreds fra barndommen, gymnasiet eller studiet, og når man er omkring de tredive, kan den virke svær at komme ind i.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U04-C038",
+   "text": "Nye bekendtskaber bliver sjældent inviteret hjem efter et første møde, og en hyggelig samtale i toget fører ikke nødvendigvis til mere.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U04-C039",
+   "text": "Derfor går den bedste vej ind tit gennem fællesskaber, hvor man ses regelmæssigt: et kor, et hold eller en frivillig opgave.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U04-C040",
+   "text": "At være forelsket i nogen er noget andet end at elske dem.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U04-C041",
+   "text": "Forelskelsen er en undtagelsestilstand: Man vågner op og tænker på den anden, glemmer at spise og stirrer på telefonen i håb om en besked.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U04-C042",
+   "text": "Kærligheden er mere stilfærdig og viser sig i hverdagen – i hvem der henter hvem, når cyklen er punkteret, og hvem der husker, hvordan den anden kan lide sin kaffe.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U04-C043",
+   "text": "Den, der slår op, har som regel tænkt over det i lang tid, mens den anden kan blive taget fuldstændig på sengen.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U04-C044",
+   "text": "Hjertesorg kan føles næsten fysisk, som en klump i maven, der ikke vil gå væk.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U04-C045",
+   "text": "Konflikter er en del af ethvert nært forhold.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U04-C046",
+   "text": "Mange danskere beskriver sig selv som konfliktsky: De vil hellere lade tingene ligge end tage en ubehagelig samtale.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U04-C047",
+   "text": "Men uudtalte konflikter forsvinder sjældent af sig selv, og stress på arbejdet går ofte ud over dem, man står nærmest.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U04-C048",
+   "text": "Han har skrevet. Han vil gerne mødes på fredag.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C049",
+   "text": "Det var da godt. Hvad svarede du?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U04-C050",
+   "text": "Ingenting endnu. Jeg ved ikke, om jeg har lyst.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C051",
+   "text": "Er du stadig vred på ham?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U04-C052",
+   "text": "Nej. Eller jo, lidt. Mest skuffet, tror jeg.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C053",
+   "text": "Du kunne jo høre, hvad han har at sige. Måske er der en forklaring.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U04-C054",
+   "text": "Og hvis der ikke er?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C055",
+   "text": "Så ved du det. Det er bedre end at gå og gætte.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U04-C056",
+   "text": "Du har ret. Jeg skriver til ham i aften.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C057",
+   "text": "Forskning i undskyldninger peger på, at det vigtigste element er at tage ansvar: at sige klart, hvad man har gjort, uden at forklare det væk.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C058",
+   "text": "En god undskyldning viser også, at man forstår, hvad det har betydet for den anden, og at man vil gøre det anderledes næste gang.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C059",
+   "text": "Og så skal man holde, hvad man lover.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C060",
+   "text": "Den dårlige undskyldning lyder: »Undskyld, hvis du blev såret.«",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C061",
+   "text": "Den flytter ansvaret over på den anden og gør den andens reaktion til selve problemet.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C062",
+   "text": "At tilgive betyder ikke, at det, der skete, var i orden – kun at man ikke længere vil lade det styre forholdet.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U04-C063",
+   "text": "Sorg er en af de sværeste følelser at være i nærheden af.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U04-C064",
+   "text": "Mange er bange for at sige noget forkert til en, der har mistet, og ender med ikke at sige noget som helst.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U04-C065",
+   "text": "Ofte er en enkel sætning nok: »Jeg er så ked af det, der er sket,« eller »Jeg tænker på dig.«",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U04-C066",
+   "text": "At trøste kræver sjældent store ord; det vigtigste er at være der – også efter begravelsen, når de andre er gået hjem.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U04-C067",
+   "text": "Savnet kommer ofte i bølger, for eksempel ved en bestemt sang i radioen eller ved en tom stol til jul.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U04-C068",
+   "text": "Ensomhed er den følelse, der opstår, når de relationer, man har, ikke svarer til dem, man ønsker sig.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U04-C069",
+   "text": "Derfor kan den ikke måles ved at tælle venner.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U04-C070",
+   "text": "Langvarig ensomhed hænger sammen med en højere risiko for sygdom og tidlig død.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U04-C071",
+   "text": "Kasper, hvordan har du det egentlig?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C072",
+   "text": "… Ikke så godt, hvis jeg skal være ærlig.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C073",
+   "text": "Hvad er der sket?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C074",
+   "text": "Caroline slog op med mig. Samme dag som din fødselsdag.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C075",
+   "text": "Hvad? Det anede jeg ikke.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C076",
+   "text": "Nej. Jeg har ikke sagt det til nogen.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C077",
+   "text": "Men hvis du nu bare havde sagt det, så havde jeg forstået det.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C078",
+   "text": "Det ved jeg godt. Jeg var ligesom ikke i stand til at sige det højt. Og så skulle jeg stå og holde tale for hundrede mennesker …",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C079",
+   "text": "Åh nej, talen. Det havde jeg slet ikke tænkt på.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C080",
+   "text": "Altså, det var ikke, fordi jeg ikke ville komme. Bagefter var jeg bare så flov, at jeg ikke turde ringe. Og jo længere tid der gik, jo sværere blev det.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C081",
+   "text": "Jeg troede, du var ligeglad.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C082",
+   "text": "Det er jeg overhovedet ikke.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C083",
+   "text": "Det er rart at vide. For sådan føltes det.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C084",
+   "text": "Undskyld, Mathilde. Jeg er ked af, at jeg svigtede dig – og at jeg lod dig vente i tre uger på en forklaring.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C085",
+   "text": "Tak. Det betyder meget, at du siger det.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C086",
+   "text": "Bare jeg havde ringet med det samme. Jeg har haft dårlig samvittighed hver eneste dag.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C087",
+   "text": "Jeg kunne også have ringet. Men jeg gad ikke være den, der ringede først.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C088",
+   "text": "Er du stadig sur?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C089",
+   "text": "Sur var jeg aldrig. Skuffet. Men det går over. … Og du? Er du ked af det?",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  },
+  {
+   "id": "U04-C090",
+   "text": "Ja. Men det er rart at sidde her. … Talen, den har jeg forresten stadig liggende.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U04-C091",
+   "text": "Så kan du holde den næste år.",
+   "ch": 8,
+   "p": 13,
+   "speaker": "Mathilde"
+  }
+ ]
+}

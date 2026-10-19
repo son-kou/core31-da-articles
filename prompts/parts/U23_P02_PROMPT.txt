@@ -1,0 +1,157 @@
+【Danish CORE · Deep Teacher】U23 Sprog og identitet · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U23"
+"part": "P02"
+"source_fingerprint": "U23-P02-133fcc37c8fd"
+sentences 数组必须恰好包含 16 个对象，ID 依次为：
+U23-C017, U23-C018, U23-C019, U23-C020, U23-C021, U23-C022, U23-C023, U23-C024, U23-C025, U23-C026, U23-C027, U23-C028, U23-C029, U23-C030, U23-C031, U23-C032
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 3 批，讲解 16 句（U23-C017 – U23-C032）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U23 · Sprog og identitet
+副标题：Dansk, dialekter og flersprogethed
+主题标签：udtale · dialekter · indvandring · flersprogethed
+
+## 第 1 章 · »Hva'?«
+  U23-C001 Mei har boet i Aarhus i et halvt år og taler efterhånden et godt dansk.
+  U23-C002 En fredag på kontoret inviterer hun sin kollega Anders med ud at spise.
+
+  U23-C003 [对话 · Mei] Kunne du tænke dig at tage med ud og spise i aften?
+  U23-C004 [对话 · Anders] Hva'?
+  U23-C005 [对话 · Mei] Undskyld … Jeg spurgte bare, om du ville med ud at spise.
+  U23-C006 [对话 · Anders] Nå, jo, gerne! Jeg hørte det bare ikke. Der var en, der larmede med kaffemaskinen.
+  U23-C007 [对话 · Mei] Okay. Jeg troede, at du blev sur.
+  U23-C008 [对话 · Anders] Sur? Fordi jeg sagde »hva'«?
+  U23-C009 [对话 · Mei] Ja. Hvor jeg kommer fra, ville det lyde ret uhøfligt.
+  U23-C010 [对话 · Anders] Her betyder det bare, at jeg ikke hørte efter. Min mor ville sige »hvad siger du«, men det er der ikke mange andre, der gør.
+
+  U23-C011 For mange udlændinge er det korte, flade »hva'?« et af de første chok i mødet med danskerne.
+  U23-C012 I mange sprog ville man sige »undskyld, hvad sagde du?« eller i det mindste skrue lidt op for høfligheden.
+  U23-C013 I uformelle samtaler kan »hva'?« være helt neutralt mellem venner og kolleger.
+  U23-C014 På dansk bruger man relativt få faste høflighedsformler i hverdagen, men det er ikke af den grund uhøfligt – høfligheden ligger i stedet i tonen og ordvalget.
+  U23-C015 Det samme gælder det manglende »vær så venlig«: Hvor engelsk har »please«, nøjes dansk ofte med et »lige« eller et spørgsmål i stedet for en ordre.
+  U23-C016 »Kan du lige række mig saltet?« er en helt høflig sætning.
+
+## 第 2 章 · Et sprog, der er svært at høre
+▶ U23-C017 Mange, der lærer dansk, oplever, at det er sværere at forstå talt dansk end at læse det.
+▶ U23-C018 Det skyldes blandt andet, at dansk har usædvanligt mange vokallyde, og at mange konsonanter bliver svækket eller helt forsvinder i udtalen, som når d'et i »mad« bliver blødt.
+▶ U23-C019 Hertil kommer stødet, et lille knæk i stemmen, som kan være det eneste, der skiller to ord som »hun« og »hund« ad.
+
+## 第 3 章 · Dialekter
+▶ U23-C020 Dansk tales med mange forskellige dialekter, selvom forskellene er blevet mindre i løbet af det 20. århundrede.
+▶ U23-C021 I Sønderjylland hilser man med et »mojn«, både når man mødes, og når man går.
+▶ U23-C022 Radio, fjernsyn, skole og flytninger har dog fået de fleste unge til at tale noget, der minder om københavnsk rigsdansk, og mange traditionelle dialekter er ved at svinde ind.
+▶ U23-C023 Alligevel kan man ofte høre, hvor en person kommer fra, på tonefaldet og på enkelte ord – og mange er stolte af at kunne høres.
+▶ U23-C024 I de større byer er der desuden opstået nye måder at tale på blandt unge med forskellige sproglige baggrunde, hvor ord fra arabisk, tyrkisk og engelsk blandes ind i dansk.
+
+## 第 4 章 · Navne
+▶ U23-C025 Mange danske efternavne ender på -sen: Jensen, Nielsen, Hansen og Pedersen er blandt de mest udbredte.
+▶ U23-C026 Navnene stammer fra en tid, hvor Peders søn hed Pedersen, og hans søn igen kunne hedde Hansen, hvis faren hed Hans.
+▶ U23-C027 I dag ønsker mange et mere særpræget navn, og man kan søge om at få godkendt et helt nyt efternavn, som ikke allerede findes som efternavn i Danmark.
+
+## 第 5 章 · Nye ord
+▶ U23-C028 Mange nye ord kommer i dag fra engelsk, og man kan høre unge danskere sige, at noget er »nice«, eller at de skal »chille« i weekenden.
+▶ U23-C029 Dansk Sprognævn følger udviklingen og fastlægger retskrivningen, men nævnet kan ikke forbyde nogen at bruge et ord.
+▶ U23-C030 Lånene er ikke en trussel i sig selv: De fleste bliver tilpasset dansk udtale og bøjning, så man siger »flere computere« og »jeg chillede«.
+
+## 第 6 章 · To sprog ved samme bord
+▶ U23-C031 I dag har en betydelig del af befolkningen indvandrerbaggrund, og i mange danske hjem tales der et andet sprog end dansk ved middagsbordet.
+▶ U23-C032 Hos familien Haddad i Odense taler forældrene arabisk med hinanden, mens børnene helst svarer på dansk.
+
+  U23-C033 [对话 · Far] Rami, kan du sende mig brødet?
+  U23-C034 [对话 · Rami] Her. Mor, må jeg få noget mere ris?
+  U23-C035 [对话 · Mor] Spørg på arabisk.
+  U23-C036 [对话 · Rami] Mor …
+  U23-C037 [对话 · Mor] Det tager to sekunder. Din farmor forstår ikke dansk, og du skal kunne tale med hende i telefonen.
+  U23-C038 [对话 · Rami] Okay, okay.
+  U23-C039 Rami spørger på arabisk, og hans mor smiler.
+  U23-C040 [对话 · Mor] Se, det kunne du jo godt.
+
+  U23-C041 Forskning i flersprogethed viser, at børn sagtens kan lære to eller flere sprog på samme tid.
+  U23-C042 Det skader heller ikke deres dansk at tale et andet sprog derhjemme.
+  U23-C043 Det kræver dog, at begge sprog bliver brugt nok, og mange forældre oplever, at modersmålet langsomt taber terræn, når børnene begynder i skole.
+
+## 第 7 章 · At blive en del af et sprogfællesskab
+  U23-C044 Den, der lærer dansk som voksen, lærer ikke kun ord og grammatik, men også hvornår man siger »hva'?«, hvornår man siger »undskyld«, og hvornår en underdrivelse er en ros.
+  U23-C045 Mange beskriver, at det sværeste ikke er at gøre sig forstået, men at få danskerne til at blive ved med at tale dansk, når de hører en accent.
+  U23-C046 Det er venligt ment, når en dansker skifter til engelsk, men det kan fratage den, der er ved at lære sproget, den træning, der skal til.
+  U23-C047 Det kan hjælpe at spørge direkte: »Vil du ikke nok blive ved med at tale dansk? Jeg vil gerne øve mig.«
+  U23-C048 Det bedste, en dansker kan gøre, er måske ganske enkelt at blive ved med at tale dansk – lidt langsommere.
+
+  U23-C049 En dag på kontoret, et år efter samtalen om middagen, er det Mei, der ikke hører, hvad Anders siger.
+  U23-C050 Hun svarer uden at tænke over det: »Hva'?«
+
+## 七、本批需要讲解的句子（共 16 句）
+U23-C017 ｜ 第 2 章 ｜ Mange, der lærer dansk, oplever, at det er sværere at forstå talt dansk end at læse det.
+U23-C018 ｜ 第 2 章 ｜ Det skyldes blandt andet, at dansk har usædvanligt mange vokallyde, og at mange konsonanter bliver svækket eller helt forsvinder i udtalen, som når d'et i »mad« bliver blødt.
+U23-C019 ｜ 第 2 章 ｜ Hertil kommer stødet, et lille knæk i stemmen, som kan være det eneste, der skiller to ord som »hun« og »hund« ad.
+U23-C020 ｜ 第 3 章 ｜ Dansk tales med mange forskellige dialekter, selvom forskellene er blevet mindre i løbet af det 20. århundrede.
+U23-C021 ｜ 第 3 章 ｜ I Sønderjylland hilser man med et »mojn«, både når man mødes, og når man går.
+U23-C022 ｜ 第 3 章 ｜ Radio, fjernsyn, skole og flytninger har dog fået de fleste unge til at tale noget, der minder om københavnsk rigsdansk, og mange traditionelle dialekter er ved at svinde ind.
+U23-C023 ｜ 第 3 章 ｜ Alligevel kan man ofte høre, hvor en person kommer fra, på tonefaldet og på enkelte ord – og mange er stolte af at kunne høres.
+U23-C024 ｜ 第 3 章 ｜ I de større byer er der desuden opstået nye måder at tale på blandt unge med forskellige sproglige baggrunde, hvor ord fra arabisk, tyrkisk og engelsk blandes ind i dansk.
+U23-C025 ｜ 第 4 章 ｜ Mange danske efternavne ender på -sen: Jensen, Nielsen, Hansen og Pedersen er blandt de mest udbredte.
+U23-C026 ｜ 第 4 章 ｜ Navnene stammer fra en tid, hvor Peders søn hed Pedersen, og hans søn igen kunne hedde Hansen, hvis faren hed Hans.
+U23-C027 ｜ 第 4 章 ｜ I dag ønsker mange et mere særpræget navn, og man kan søge om at få godkendt et helt nyt efternavn, som ikke allerede findes som efternavn i Danmark.
+U23-C028 ｜ 第 5 章 ｜ Mange nye ord kommer i dag fra engelsk, og man kan høre unge danskere sige, at noget er »nice«, eller at de skal »chille« i weekenden.
+U23-C029 ｜ 第 5 章 ｜ Dansk Sprognævn følger udviklingen og fastlægger retskrivningen, men nævnet kan ikke forbyde nogen at bruge et ord.
+U23-C030 ｜ 第 5 章 ｜ Lånene er ikke en trussel i sig selv: De fleste bliver tilpasset dansk udtale og bøjning, så man siger »flere computere« og »jeg chillede«.
+U23-C031 ｜ 第 6 章 ｜ I dag har en betydelig del af befolkningen indvandrerbaggrund, og i mange danske hjem tales der et andet sprog end dansk ved middagsbordet.
+U23-C032 ｜ 第 6 章 ｜ Hos familien Haddad i Odense taler forældrene arabisk med hinanden, mens børnene helst svarer på dansk.
+
+输出前请自检：JSON 能被解析；sentences 共 16 项，第一个是 U23-C017，最后一个是 U23-C032；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

@@ -1,0 +1,593 @@
+{
+ "schema": 1,
+ "unit": "U02",
+ "title": "Mad og måltider",
+ "subtitle": "Fra råvare til tallerken",
+ "labels": [
+  "madkultur",
+  "køkken",
+  "sundhed",
+  "debat"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U02",
+  "tier: CORE",
+  "title: Mad og måltider",
+  "subtitle: Fra råvare til tallerken",
+  "labels: madkultur · køkken · sundhed · debat",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Hos bageren"
+  },
+  {
+   "title": "I supermarkedet"
+  },
+  {
+   "title": "Et par enkle greb"
+  },
+  {
+   "title": "Hverdagsmad og festmad"
+  },
+  {
+   "title": "Frikadeller"
+  },
+  {
+   "title": "Ved bordet"
+  },
+  {
+   "title": "Sund mad"
+  },
+  {
+   "title": "Middag i Odense"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U02-C001",
+   "text": "Søndag morgen er der ofte kø hos bageren, hvor samtalen følger et mønster, de fleste danskere kan i søvne.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U02-C002",
+   "text": "Hej. Hvad skulle det være?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U02-C003",
+   "text": "Et groft rugbrød og seks rundstykker, tak.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U02-C004",
+   "text": "Skal brødet skæres?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U02-C005",
+   "text": "Ja tak. Og så vil jeg gerne have fire kanelsnegle.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U02-C006",
+   "text": "Ellers andet?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U02-C007",
+   "text": "Nej, det var det hele.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U02-C008",
+   "text": "Vil du have en pose?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U02-C009",
+   "text": "Nej tak, jeg har selv en med.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U02-C010",
+   "text": "Man kan tydeligt mærke årstiderne i de danske butikker.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U02-C011",
+   "text": "Først på sommeren kommer de nye kartofler og de danske jordbær, om efteråret æbler og svampe, og om vinteren er det kål og rodfrugter, der fylder i grøntafdelingen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U02-C012",
+   "text": "Mange planlægger ugens indkøb efter tilbuddene, og mængderabatter kan friste folk til at købe mere, end de kan nå at spise.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U02-C013",
+   "text": "Tomme flasker og dåser hører ikke til i skraldespanden: Der er pant på de fleste af dem.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U02-C014",
+   "text": "I supermarkedet kan de afleveres i en automat, der giver en bon, som trækkes fra ved kassen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U02-C015",
+   "text": "På emballagen står der to slags datoer, og forskellen kan spare både penge og mad.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U02-C016",
+   "text": "»Mindst holdbar til« betyder, at varen er bedst inden datoen, men ofte fint kan spises bagefter, hvis den ser, dufter og smager normalt.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U02-C017",
+   "text": "»Sidste anvendelsesdato« står derimod på letfordærvelige varer som hakket kød og fersk fisk, og den skal man tage alvorligt.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U02-C018",
+   "text": "Meget af forskellen på kedelig og god hverdagsmad ligger i et par enkle greb.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C019",
+   "text": "Kød skal brunes ved høj varme, så overfladen bliver gylden og sprød, før det får lov at simre videre ved svag varme.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C020",
+   "text": "Kylling og hakket kød skal være gennemstegt hele vejen igennem, mens en bøf sagtens kan serveres rød i midten.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C021",
+   "text": "Det vigtigste greb er dog at smage til undervejs.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C022",
+   "text": "Også ordene for smag kræver præcision.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C023",
+   "text": "Stærk mad brænder på tungen, mens krydret mad smager af mange krydderier, og en ret kan sagtens være det ene uden at være det andet.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C024",
+   "text": "For mange danskere er salt lakrids det bedste slik, der findes, mens udlændinge ofte har svært ved at forstå, at nogen frivilligt spiser det.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U02-C025",
+   "text": "Danskerne spiser i en ret forudsigelig rytme.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U02-C026",
+   "text": "Morgenmaden er ofte enkel – havregryn, yoghurt eller en skive brød – og til frokost spiser mange en madpakke eller et par stykker smørrebrød i kantinen.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U02-C027",
+   "text": "Aftensmaden er dagens varme måltid, og den bliver gerne spist tidligt: Klokken seks er helt normalt i mange familier.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U02-C028",
+   "text": "Hverdagsmaden skal kunne laves på en halv time efter arbejde, mens festmaden gerne må tage hele dagen.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U02-C029",
+   "text": "Til hverdag er det frikadeller, gryderetter og pasta med kødsovs, der fylder mest, men til jul, konfirmationer og runde fødselsdage kommer flæskestegen, sildene og lagkagen på bordet.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U02-C030",
+   "text": "Torsdag er det Noahs tur til at lave aftensmad, og hans far har lovet at hjælpe – men kun med gode råd.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U02-C031",
+   "text": "Først hakker du løget så fint, du kan.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C032",
+   "text": "Det svier i øjnene.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U02-C033",
+   "text": "Det gør det altid. Kom det i farsen sammen med æg, mel og lidt mælk, og rør det hele godt sammen.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C034",
+   "text": "Hvor meget salt?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U02-C035",
+   "text": "En teskefuld. Vi smager på det bagefter.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C036",
+   "text": "Skal vi smage på rå fars?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U02-C037",
+   "text": "Nej, vi steger en lille prøve først. Det er ikke ulækkert, det er bare smart.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C038",
+   "text": "Okay. Og så former jeg dem med en ske?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U02-C039",
+   "text": "Med en ske og din håndflade. Fedtet skal være godt varmt, før de kommer på panden.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C040",
+   "text": "De ser lidt mærkelige ud. Men det dufter faktisk lækkert.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U02-C041",
+   "text": "Hjemmelavede frikadeller ser altid lidt mærkelige ud. Det er sådan, man kan se, at de ikke er købt.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U02-C042",
+   "text": "Til silden hører en snaps, og den, der skåler, ser de andre i øjnene, både før og efter at glasset er tømt.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U02-C043",
+   "text": "Ved bordet er der også faste ritualer: I de fleste hjem er det kutyme at sige tak for mad, når man rejser sig, og værten svarer velbekomme.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U02-C044",
+   "text": "Kage har sin egen plads i arbejdslivet.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U02-C045",
+   "text": "Den, der har fødselsdag, har gerne kage eller rundstykker med til kollegerne.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U02-C046",
+   "text": "Går man på restaurant, er servicen inkluderet i prisen, og drikkepenge er derfor ikke forventet – men de bliver sjældent afvist.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U02-C047",
+   "text": "De officielle kostråd kan koges ned til en enkel formel: mere grønt og fuldkorn, mindre kød og mindre af det søde, det salte og det fede.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U02-C048",
+   "text": "Begrundelsen er både sundhed og klima: Kød, især oksekød, belaster klimaet langt mere end de fleste plantebaserede fødevarer.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U02-C049",
+   "text": "Kostråd er heller ikke hugget i sten.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U02-C050",
+   "text": "I supermarkedet kan det grønne nøglehulsmærke gøre det lettere at vælge sundt.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U02-C051",
+   "text": "Hos Sofie i Odense er der gæster til aftensmad.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U02-C052",
+   "text": "Hendes far, Bent, har drevet svinebrug i Vestjylland hele sit liv, og veninden Line er for nylig holdt op med at spise kød.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U02-C053",
+   "text": "Hun hakker løg og hvidløg, river ingefær og lader det hele stege i lidt olie, til løgene er bløde og blanke.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U02-C054",
+   "text": "Så kommer spidskommen og tomater i gryden, og til sidst de røde linser, der skal koge i en halv times tid, til de er møre.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U02-C055",
+   "text": "Hej, alle sammen! Undskyld, jeg kommer for sent.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C056",
+   "text": "Det gør ikke noget. Vi skulle lige til at sætte os.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C057",
+   "text": "Så er der mad! Der er linsegryderet og ris, og der er kylling til dem, der vil have det.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C058",
+   "text": "Linser? Hvad er der sket med flæskestegen?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C059",
+   "text": "Den får du til jul, far.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C060",
+   "text": "Det dufter i hvert fald dejligt. Hvad er der i?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C061",
+   "text": "Løg, hvidløg, tomater, ingefær og en masse spidskommen. Og så en smule citron til sidst.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C062",
+   "text": "Hm. Det smager faktisk godt. Men det er da ikke rigtig mad uden kød.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C063",
+   "text": "Hvad mener du med rigtig mad?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C064",
+   "text": "Noget, man kan arbejde på. Jeg har passet grise i fyrre år.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C065",
+   "text": "Det kan man sagtens på linser. Der er masser af protein i dem.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C066",
+   "text": "Er der det? Det havde jeg ingen anelse om.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C067",
+   "text": "Far, du er altså ikke særlig overbevisende.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C068",
+   "text": "Nej nej. Men jeg har nu svært ved at se mig selv leve af bønner.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C069",
+   "text": "Det er der heller ingen, der beder dig om. Det handler egentlig bare om at skære lidt ned på kødet.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C070",
+   "text": "Og det er jo ikke enten-eller.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C071",
+   "text": "Lige præcis.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C072",
+   "text": "Jeg spiser selv fisk en gang imellem.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C073",
+   "text": "Så du er ikke engang rigtig vegetar?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C074",
+   "text": "Nej, jeg er vel nærmere … fleksitar.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C075",
+   "text": "Fleksi-hvad?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C076",
+   "text": "Én, der mest spiser grønt, far. Skal du have lidt mere?",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C077",
+   "text": "Ja tak, gerne. Bare en lille klat. Og så tager jeg lige et stykke kylling ved siden af.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C078",
+   "text": "Skål for kompromiset!",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Line"
+  },
+  {
+   "id": "U02-C079",
+   "text": "Skål.",
+   "ch": 7,
+   "p": 11,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C080",
+   "text": "Da kaffen er drukket, rejser Bent sig som den første.",
+   "ch": 7,
+   "p": 12
+  },
+  {
+   "id": "U02-C081",
+   "text": "Tak for mad. Det var faktisk ikke så tosset.",
+   "ch": 7,
+   "p": 13,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U02-C082",
+   "text": "Velbekomme. Det tager jeg som et kompliment.",
+   "ch": 7,
+   "p": 13,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U02-C083",
+   "text": "Han tog i øvrigt to portioner mere.",
+   "ch": 7,
+   "p": 14
+  }
+ ]
+}

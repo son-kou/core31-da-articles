@@ -1,0 +1,291 @@
+{
+ "schema": 1,
+ "unit": "U25",
+ "title": "Kunst og kultur",
+ "subtitle": "Litteratur, billedkunst, musik, film og design",
+ "labels": [
+  "litteratur",
+  "maleri",
+  "film",
+  "design"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U25",
+  "tier: CORE",
+  "title: Kunst og kultur",
+  "subtitle: Litteratur, billedkunst, musik, film og design",
+  "labels: litteratur · maleri · film · design",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Klassikerne"
+  },
+  {
+   "title": "Stand-up"
+  },
+  {
+   "title": "Fernisering"
+  },
+  {
+   "title": "Skal staten betale?"
+  },
+  {
+   "title": "Læsekredsen"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U25-C001",
+   "text": "H.C. Andersen er stadig Danmarks mest oversatte forfatter, og hans eventyr kan læses både af børn og af voksne.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U25-C002",
+   "text": "Filosoffen Søren Kierkegaard, der var samtidig med Andersen, skrev om angst, valg og det enkelte menneskes ansvar for sit eget liv.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U25-C003",
+   "text": "Tv-serien »Matador«, der følger en provinsby i 1930'erne og 40'erne, bliver stadig genudsendt, når der er brug for noget, hele familien kan se sammen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U25-C004",
+   "text": "Dansk arkitektur og design er kendt for enkle former, gode materialer og omtanke for den, der skal bruge tingene.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U25-C005",
+   "text": "Fælles for mange af klassikerne er, at de skulle være smukke, men også praktiske og til at betale for almindelige mennesker – i hvert fald da de blev lavet.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U25-C006",
+   "text": "Stand-up er blevet en af de mest populære scenekunstformer i Danmark, og de største komikere turnerer landet rundt og fylder arenaer.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U25-C007",
+   "text": "Efter et show i Aarhus står Kasper og Line i garderobekøen.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U25-C008",
+   "text": "Hvad syntes du?",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Line"
+  },
+  {
+   "id": "U25-C009",
+   "text": "Han var fremragende. Den om hans svigermor og den nye sofa var så morsom.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C010",
+   "text": "Jeg syntes, den var lidt for simpel. Den slags jokes har jeg hørt før.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Line"
+  },
+  {
+   "id": "U25-C011",
+   "text": "Det er da hele pointen. Han tager noget, alle kender, og gør det til noget helt specielt.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C012",
+   "text": "Okay, slutningen var original. Den havde jeg ikke set komme.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Line"
+  },
+  {
+   "id": "U25-C013",
+   "text": "Og han optrådte i halvanden time uden en eneste pause.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C014",
+   "text": "Det er rigtigt. Men næste gang er det mig, der vælger showet.",
+   "ch": 1,
+   "p": 1,
+   "speaker": "Line"
+  },
+  {
+   "id": "U25-C015",
+   "text": "Til en fernisering i et lille galleri står Sofie og Kasper foran et af værkerne.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U25-C016",
+   "text": "Hvad synes du?",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U25-C017",
+   "text": "Ærligt talt? Jeg forstår det ikke. Det er en lyserød sofa, der er savet over på midten.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C018",
+   "text": "Værket hedder »Deleordning«. Læs teksten på væggen.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U25-C019",
+   "text": "»Værket undersøger, hvad der sker med et hjem, når en familie går i stykker.« Okay. Det kunne jeg ikke have gættet.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C020",
+   "text": "Men du står her stadig og kigger på den. Det gør du ikke ved en almindelig sofa.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U25-C021",
+   "text": "Det er rigtigt. Jeg kommer faktisk til at tænke på, hvem der fik sofaen, da mine forældre blev skilt.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Kasper"
+  },
+  {
+   "id": "U25-C022",
+   "text": "Så virker det jo.",
+   "ch": 2,
+   "p": 2,
+   "speaker": "Sofie"
+  },
+  {
+   "id": "U25-C023",
+   "text": "Et vigtigt princip er armslængdeprincippet: Politikerne bestemmer, hvor mange penge der skal bruges, men det er fagfolk, der beslutter, hvem der skal have dem.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U25-C024",
+   "text": "Tilhængerne af støtten mener, at markedet alene ikke vil sikre et alsidigt udbud – for eksempel bøger på dansk for et lille publikum.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U25-C025",
+   "text": "Kritikerne spørger, hvorfor skatteydere skal betale for kultur, som mange aldrig selv benytter, og om støtten i virkeligheden især kommer de veluddannede i de store byer til gode.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U25-C026",
+   "text": "Diskussionen handler om, hvad man mener, kunst er til for: underholdning, oplysning, skønhed eller noget, der netop ikke skal kunne måles.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U25-C027",
+   "text": "Fem kvinder og en enkelt mand mødes en gang om måneden for at tale om en bog, de alle har læst – eller i hvert fald burde have læst.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U25-C028",
+   "text": "Denne gang er det en roman om en ung kvinde, der vender hjem til en lille ø efter sin fars død.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U25-C029",
+   "text": "Nå, hvem vil begynde?",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Mette"
+  },
+  {
+   "id": "U25-C030",
+   "text": "Det kan jeg godt. Jeg var vild med den. Jeg kunne slet ikke lægge den fra mig.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U25-C031",
+   "text": "Virkelig? Jeg syntes, at den første halvdel var frygtelig langsom. Der sker jo ikke noget de første hundrede sider.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U25-C032",
+   "text": "Men det er netop meningen. Man skal mærke, hvor stille der er på sådan en ø om vinteren.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U25-C033",
+   "text": "Jeg kunne godt lide fortælleren. Hun er så ærlig om, at hun ikke rigtig savner sin far.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Mette"
+  },
+  {
+   "id": "U25-C034",
+   "text": "Ja, hovedpersonen er fin nok. Men afslutningen! Hvorfor skal det hele løses i det sidste kapitel?",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U25-C035",
+   "text": "Det bliver da ikke løst. Vi får aldrig at vide, hvad der stod i de dagbøger, hun brændte.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U25-C036",
+   "text": "Der har vi det. Jens elsker åbne slutninger, og Hanne vil have svar.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Mette"
+  },
+  {
+   "id": "U25-C037",
+   "text": "Jeg vil bare gerne have, at forfatteren tager ansvar for sin historie.",
+   "ch": 4,
+   "p": 4,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U25-C038",
+   "text": "For nogle er bogen det vigtigste, for andre er det kaffen, vinen og snakken bagefter, og mange læsekredse holder i årevis, netop fordi medlemmerne sjældent er enige.",
+   "ch": 4,
+   "p": 4
+  }
+ ]
+}

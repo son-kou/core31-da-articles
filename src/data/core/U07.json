@@ -1,0 +1,261 @@
+{
+ "schema": 1,
+ "unit": "U07",
+ "title": "Arbejdsmarkedet",
+ "subtitle": "Den danske model, fagforeninger og konflikter",
+ "labels": [
+  "overenskomst",
+  "fredspligt",
+  "flexicurity",
+  "fagbevægelse"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U07",
+  "tier: CORE",
+  "title: Arbejdsmarkedet",
+  "subtitle: Den danske model, fagforeninger og konflikter",
+  "labels: overenskomst · fredspligt · flexicurity · fagbevægelse",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Aftaler i stedet for love"
+  },
+  {
+   "title": "Ved forhandlingsbordet"
+  },
+  {
+   "title": "Fleksibilitet og tryghed"
+  },
+  {
+   "title": "Modellen under pres"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U07-C001",
+   "text": "I 1899 indgik arbejdsgivere og fagforeninger Septemberforliget, hvor de anerkendte hinandens rettigheder.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C002",
+   "text": "Forliget er blevet kaldt arbejdsmarkedets grundlov, og selvom det er blevet revideret flere gange siden, lever hovedprincipperne videre.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C003",
+   "text": "På det danske arbejdsmarked bliver de fleste uenigheder om løn og arbejdstid løst ved forhandling og ikke ved lov.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C004",
+   "text": "Derfor har Danmark ingen lovbestemt mindsteløn: Lønnen bliver aftalt i overenskomster mellem fagforbund og arbejdsgiverorganisationer, branche for branche.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C005",
+   "text": "En overenskomst fastsætter blandt andet løn, arbejdstid, pension, tillæg for aften- og weekendarbejde og regler for opsigelse.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C006",
+   "text": "Er arbejdspladsen omfattet af en overenskomst, har medarbejderne som regel valgt en tillidsrepræsentant.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C007",
+   "text": "Det er en kollega, som forhandler med ledelsen på medarbejdernes vegne, og som man kan gå til, hvis man er i tvivl om løn, vilkår eller sine rettigheder.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C008",
+   "text": "Tillidsrepræsentanter kan dog blive udsat for pres fra begge sider, og derfor er de særligt beskyttet mod at blive fyret.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C009",
+   "text": "Når en overenskomst først er indgået, har begge parter fredspligt: I aftalens løbetid må hverken fagforeningen strejke eller arbejdsgiveren lockoute for at ændre den.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C010",
+   "text": "Bryder forhandlingerne sammen, kan begge sider varsle konflikt, men inden den bryder ud, får en statslig mægler et forsøg.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C011",
+   "text": "Forligsmanden kan udsætte en varslet konflikt to gange to uger og fremsætte et mæglingsforslag, som medlemmerne derefter stemmer om.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U07-C012",
+   "text": "På et lager i Køge mødes tillidsrepræsentanten Mehmet og lagerchefen Tina en mandag i november for at tale om weekendarbejde i julesæsonen.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U07-C013",
+   "text": "Jeg går ud fra, at I har set planen. Vi har brug for, at alle tager to lørdage i december.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Tina"
+  },
+  {
+   "id": "U07-C014",
+   "text": "Det har vi. Og folk er ikke begejstrede. Mange har små børn, og de har allerede arbejdet over hele november.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mehmet"
+  },
+  {
+   "id": "U07-C015",
+   "text": "Det forstår jeg godt. Men ordrerne skal ud, og det er mig, der står på mål for leveringstiderne over for kunderne.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Tina"
+  },
+  {
+   "id": "U07-C016",
+   "text": "Hvad hvis vi spørger, hvem der gerne vil arbejde? Nogle af de unge er mere interesserede i tillægget end i at have fri.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mehmet"
+  },
+  {
+   "id": "U07-C017",
+   "text": "Og hvis der ikke er nok?",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Tina"
+  },
+  {
+   "id": "U07-C018",
+   "text": "Så fordeler vi resten på skift, så ingen tager mere end én lørdag.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mehmet"
+  },
+  {
+   "id": "U07-C019",
+   "text": "Det kan jeg godt gå med til. Men så skal tillægget være det samme som sidste år.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Tina"
+  },
+  {
+   "id": "U07-C020",
+   "text": "Det er fair. Jeg sender forslaget videre til de andre og vender tilbage i morgen.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Mehmet"
+  },
+  {
+   "id": "U07-C021",
+   "text": "Forhandlingsforskere skelner mellem positioner og interesser: En position er det, man kræver, mens en interesse er grunden til, at man kræver det.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U07-C022",
+   "text": "Tinas position var to lørdage til alle; hendes interesse var, at ordrerne kom ud.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U07-C023",
+   "text": "Mehmets position var et nej; hans interesse var, at ingen blev slidt ned før jul.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U07-C024",
+   "text": "Ingen af dem gav sig på det, der betød mest for dem, og alligevel fandt de en løsning, som ingen af dem havde haft med ind i lokalet.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U07-C025",
+   "text": "Danske virksomheder kan forholdsvis let ansætte og afskedige folk, men den, der mister sit arbejde, har et sikkerhedsnet.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C026",
+   "text": "Kombinationen kaldes flexicurity – en sammentrækning af de engelske ord for fleksibilitet og sikkerhed.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C027",
+   "text": "Dagpengene kommer fra en a-kasse, som man selv skal melde sig ind i.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C028",
+   "text": "Medlemskab af en a-kasse er noget andet end medlemskab af en fagforening, selvom mange er medlem af begge.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C029",
+   "text": "Tanken er, at det er lettere at tage chancer på arbejdsmarkedet, når man ved, at man bliver grebet, hvis man falder.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C030",
+   "text": "Når man bliver ansat, skal arbejdsgiveren give en skriftlig oversigt over de vigtigste vilkår.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C031",
+   "text": "Alligevel tjener kvinder i gennemsnit mindre end mænd, blandt andet fordi de oftere arbejder i fag med lavere løn, som pleje og omsorg.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C032",
+   "text": "Hvorvidt det skyldes uretfærdige lønninger eller frie valg, er et af de spørgsmål, der kan få en ellers rolig debat til at blive ophedet.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U07-C033",
+   "text": "Andelen af lønmodtagere i de traditionelle fagforeninger er faldet, og flere har valgt billigere alternative fagforeninger.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U07-C034",
+   "text": "Madbude, rengøringshjælpere og freelancere, der får deres opgaver gennem en app, er ofte selvstændige på papiret og dermed ikke omfattet af nogen overenskomst.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U07-C035",
+   "text": "Tilhængerne af modellen fremhæver, at den har givet Danmark forholdsvis få arbejdskonflikter, høj beskæftigelse og lønninger, der tager hensyn til virksomhedernes konkurrenceevne.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U07-C036",
+   "text": "Spørgsmålet er, om en aftale fra 1899 kan rumme et arbejdsmarked, hvor chefen er en app.",
+   "ch": 3,
+   "p": 5
+  }
+ ]
+}

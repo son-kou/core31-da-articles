@@ -1,0 +1,520 @@
+{
+ "schema": 1,
+ "unit": "U08",
+ "title": "Skriftlig kommunikation",
+ "subtitle": "Mails, beskeder og henvendelser",
+ "labels": [
+  "e-mail",
+  "tone",
+  "klarsprog",
+  "henvendelser"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U08",
+  "tier: CORE",
+  "title: Skriftlig kommunikation",
+  "subtitle: Mails, beskeder og henvendelser",
+  "labels: e-mail · tone · klarsprog · henvendelser",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Tre beskeder, én afsender"
+  },
+  {
+   "title": "Klare beskeder"
+  },
+  {
+   "title": "Når svaret er nej"
+  },
+  {
+   "title": "Klager og undskyldninger"
+  },
+  {
+   "title": "Kan du lige kigge på den?"
+  },
+  {
+   "title": "Før og efter"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U08-C001",
+   "text": "En tirsdag i marts skriver Amina tre beskeder: én til en veninde, én til en kollega og én til kommunen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U08-C002",
+   "text": "De handler om vidt forskellige ting, og de lyder vidt forskelligt.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U08-C003",
+   "text": "Hej Line! Er du frisk på en gåtur søndag? Jeg kan først efter kl. 14, for jeg skal hjælpe min mor med at flytte. Kram, A",
+   "ch": 0,
+   "p": 0,
+   "doc": true
+  },
+  {
+   "id": "U08-C004",
+   "text": "At være frisk på noget betyder, at man har lyst og overskud til det, og udtrykket hører hjemme i talesproget og i beskeder mellem venner.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U08-C005",
+   "text": "Ingen af dem ville skrive sådan til en sagsbehandler – og netop derfor fungerer det mellem dem.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U08-C006",
+   "text": "Emne: Tal til rapporten – senest onsdag kl. 12",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C007",
+   "text": "Hej Thomas",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C008",
+   "text": "Jeg samler rapporten til torsdagens møde med ledelsen. Kan du sende mig tallene for tredje kvartal senest onsdag kl. 12?",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C009",
+   "text": "Hvis det bliver svært at nå, så sig til, så finder vi en løsning.",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C010",
+   "text": "Venlig hilsen",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C011",
+   "text": "Amina",
+   "ch": 0,
+   "p": 1,
+   "doc": true
+  },
+  {
+   "id": "U08-C012",
+   "text": "Mailen til Thomas er venlig, men den kommer hurtigt til sagen.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U08-C013",
+   "text": "Selv til en modtager, man ikke kender, er det almindeligt at skrive »Hej« efterfulgt af fornavnet, mens »Kære« kan give et mere formelt eller et varmere, mere personligt præg, alt efter sammenhængen.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U08-C014",
+   "text": "I en god arbejdsmail fortæller emnelinjen, hvad sagen drejer sig om, og det, man beder om, står i de første linjer i stedet for i sidste afsnit.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U08-C015",
+   "text": "Har man en frist, er det bedre at skrive en dato end »snarest« eller »hurtigst muligt«, som kan betyde vidt forskellige ting for modtagerne.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U08-C016",
+   "text": "Emne: Ansøgning om beboerlicens – sagsnummer 25-0412",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C017",
+   "text": "Til kommunens parkeringsafdeling",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C018",
+   "text": "Jeg søgte den 3. februar om beboerlicens til min bil, men har endnu ikke fået svar, og sagen ser ud til at være gået i stå.",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C019",
+   "text": "På kommunens hjemmeside står der, at sagsbehandlingstiden er fire uger.",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C020",
+   "text": "Vil I oplyse mig om, hvornår jeg kan forvente en afgørelse?",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C021",
+   "text": "Jeg vedhæfter kvitteringen for min ansøgning.",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C022",
+   "text": "Med venlig hilsen",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C023",
+   "text": "Amina Hassan",
+   "ch": 0,
+   "p": 2,
+   "doc": true
+  },
+  {
+   "id": "U08-C024",
+   "text": "Henvendelsen til kommunen er mere formel, men ikke stiv.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U08-C025",
+   "text": "Myndigheder tiltaler som regel borgerne med du, og mange af dem arbejder bevidst med klarsprog, så vendinger som »Jeg skal hermed meddele …« i dag opfattes som gammeldags.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U08-C026",
+   "text": "Det vigtigste princip er enkelt: Modtageren skal ikke gætte på, hvad man vil.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C027",
+   "text": "Én besked bør helst have ét formål, og skal man både bede om noget og fortælle om noget helt andet, er to korte mails ofte bedre end én lang.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C028",
+   "text": "Skal flere personer gøre noget forskelligt, så nævn dem ved navn, så ingen går ud fra, at det er en anden, der tager sig af det.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C029",
+   "text": "Knappen »Svar alle« bør bruges med omtanke.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C030",
+   "text": "Hvis det kun er afsenderen, der har brug for svaret, er der ingen grund til at fylde tredive andres indbakker.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C031",
+   "text": "En arbejdsmail bliver som regel besvaret inden for en arbejdsdag eller to.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C032",
+   "text": "Kan man ikke nå at svare ordentligt, er det høfligt at sende en kort kvittering: »Tak, jeg vender tilbage i morgen.«",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C033",
+   "text": "Chatten er god til hurtige spørgsmål, men dårlig til beslutninger.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C034",
+   "text": "Vigtige aftaler hører derfor hjemme i en mail, hvor de kan findes igen.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C035",
+   "text": "Ironi er en af de største kilder til misforståelser på skrift.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C036",
+   "text": "En bemærkning, der er sjov ansigt til ansigt, kan i en mail lyde som en fornærmelse, fordi modtageren hverken kan se ansigtet eller høre tonefaldet.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C037",
+   "text": "Uformel betyder dog ikke sjusket: Stavefejl, manglende svar på det, modtageren spurgte om, og en uklar emnelinje bliver stadig bemærket.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U08-C038",
+   "text": "Nogle oplysninger skal man være særligt forsigtig med.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U08-C039",
+   "text": "Cpr-numre og helbredsoplysninger bør ikke sendes i en almindelig mail, men krypteret – for eksempel gennem den offentlige digitale postkasse eller en sikker mailløsning.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U08-C040",
+   "text": "Mange afgørelser fra myndighederne får man tilsendt samme sted, og derfor kan det betale sig at slå notifikationer til, så man ikke overser en frist.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U08-C041",
+   "text": "Får man afslag på en ansøgning, skal myndigheden begrunde afgørelsen og fortælle, hvordan man kan klage.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U08-C042",
+   "text": "Og skriver man flere gange om den samme sag, er det en god vane at gentage sagsnummeret i emnelinjen hver gang.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U08-C043",
+   "text": "En klage virker bedst, når den er saglig.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U08-C044",
+   "text": "Den skal fortælle, hvad der er sket, hvad man forventer, og hvornår man gerne vil have svar.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U08-C045",
+   "text": "Vrede formuleringer med versaler og tre udråbstegn giver sjældent et hurtigere svar – de gør det bare lettere for modtageren at overse det, man faktisk har ret i.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U08-C046",
+   "text": "Det samme gælder den skriftlige undskyldning: Den skal være kort, konkret og uden for mange forklaringer.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U08-C047",
+   "text": "»Undskyld, jeg glemte at sende tallene. Du har dem her,« siger mere end et langt afsnit om, hvor travlt man har haft.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U08-C048",
+   "text": "Jonas skal svare en kunde, der har klaget over en forsinket levering, og før han trykker på »Send«, beder han sin kollega Line om hjælp.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U08-C049",
+   "text": "Kan du lige kigge på den her mail, før jeg sender den?",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U08-C050",
+   "text": "Lad mig se. »Hej hr. Petersen.« Det er lidt mærkeligt at blande »hej« og »hr.«.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Line"
+  },
+  {
+   "id": "U08-C051",
+   "text": "Hvad skal jeg så skrive?",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U08-C052",
+   "text": "Bare »Kære Erik Petersen« eller »Hej Erik«. Der er næsten ingen, der skriver »hr.« længere.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Line"
+  },
+  {
+   "id": "U08-C053",
+   "text": "Okay. Og resten?",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U08-C054",
+   "text": "Første afsnit er fint. Men »Vi kan desværre ikke gøre noget ved det« lyder ret afvisende.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Line"
+  },
+  {
+   "id": "U08-C055",
+   "text": "Men det er jo rigtigt. Vi kan ikke gøre noget.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U08-C056",
+   "text": "Skriv i stedet, hvad du kan gøre. At du har rykket leverandøren, og at han hører fra dig senest på torsdag.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Line"
+  },
+  {
+   "id": "U08-C057",
+   "text": "Og hvordan slutter jeg? »Mvh«?",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U08-C058",
+   "text": "Til en kunde, der er sur? Skriv hellere »Venlig hilsen« og dit fulde navn.",
+   "ch": 4,
+   "p": 8,
+   "speaker": "Line"
+  },
+  {
+   "id": "U08-C059",
+   "text": "Mange skriver lange mails, fordi de vil være høflige.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C060",
+   "text": "Her er et eksempel, som de fleste har modtaget i en eller anden udgave.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C061",
+   "text": "Hej alle sammen",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C062",
+   "text": "Jeg håber, I alle har det godt og er kommet godt i gang med ugen.",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C063",
+   "text": "Jeg skriver bare lige, fordi der har været lidt forvirring omkring mødet, og jeg tænkte, at det måske var en god idé at præcisere et par ting.",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C064",
+   "text": "Som nogle af jer måske allerede ved, er mødet blevet flyttet, og det er derfor ikke længere på torsdag, men i stedet på fredag, hvis det passer jer.",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C065",
+   "text": "Sig endelig til, hvis der er spørgsmål.",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C066",
+   "text": "Mailen er venlig, men modtageren skal læse fire sætninger for at finde den ene oplysning, der betyder noget – og så mangler både tidspunktet og lokalet.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C067",
+   "text": "Sådan kunne den se ud i stedet:",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C068",
+   "text": "Emne: Mødet er flyttet til fredag kl. 10",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C069",
+   "text": "Hej alle sammen",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C070",
+   "text": "Mødet er flyttet fra torsdag til fredag kl. 10 i lokale 2. Giv besked senest i morgen, hvis I ikke kan.",
+   "ch": 5,
+   "p": 9,
+   "doc": true
+  },
+  {
+   "id": "U08-C071",
+   "text": "Den nye version er en fjerdedel så lang, men den siger mere.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C072",
+   "text": "Den ene sætning gør arbejdet for tre: Den fortæller, hvad der er sket, hvornår og hvor.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C073",
+   "text": "En høflig mail behøver ikke være lang.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U08-C074",
+   "text": "Den skal først og fremmest være let at handle på.",
+   "ch": 5,
+   "p": 9
+  }
+ ]
+}

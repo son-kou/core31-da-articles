@@ -1,0 +1,306 @@
+{
+ "schema": 1,
+ "unit": "U12",
+ "title": "Sundhed, livsstil og risiko",
+ "subtitle": "Hvor meget kan vi selv gøre – og hvordan læser vi tallene?",
+ "labels": [
+  "livsstil",
+  "vaner",
+  "risiko",
+  "forebyggelse"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U12",
+  "tier: CORE",
+  "title: Sundhed, livsstil og risiko",
+  "subtitle: Hvor meget kan vi selv gøre – og hvordan læser vi tallene?",
+  "labels: livsstil · vaner · risiko · forebyggelse",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "»Pølser giver kræft«"
+  },
+  {
+   "title": "KRAM"
+  },
+  {
+   "title": "Livsstil og sandsynlighed"
+  },
+  {
+   "title": "Vanernes magt"
+  },
+  {
+   "title": "Det psykiske helbred"
+  },
+  {
+   "title": "Frihed eller formynderi?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U12-C001",
+   "text": "Da WHO's kræftforskningsagentur i 2015 erklærede forarbejdet kød for kræftfremkaldende, var overskrifterne dramatiske.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C002",
+   "text": "Budskabet var, at 50 gram forarbejdet kød om dagen øger risikoen for tarmkræft med 18 procent, hvilket lyder alarmerende.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C003",
+   "text": "Men de 18 procent er en relativ stigning.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C004",
+   "text": "Regnet om til livstidsrisiko svarer det ifølge en australsk beregning til en stigning fra knap 8 til godt 9 ud af 100 mennesker.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C005",
+   "text": "Det er ikke ligegyldigt, men det er noget helt andet end det, mange læste ud af overskriften.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C006",
+   "text": "Relative tal er ikke forkerte, men de siger intet om, hvor stor risikoen var i forvejen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C007",
+   "text": "En halveret risiko kan betyde, at to ud af en million bliver syge i stedet for fire – eller 20 ud af 100 i stedet for 40.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C008",
+   "text": "Den enkleste regel, når en overskrift nævner en øget risiko, er derfor at spørge: fra hvor mange til hvor mange ud af 100?",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C009",
+   "text": "Først når man kender begge tal, kan man vurdere, om der er grund til bekymring.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U12-C010",
+   "text": "Sundhedsmyndighederne samler de vigtigste livsstilsfaktorer i forkortelsen KRAM: kost, rygning, alkohol og motion.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C011",
+   "text": "Rygning er den enkeltfaktor, der koster flest leveår, og der findes ingen nedre grænse, hvor tobak er ufarlig.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C012",
+   "text": "Om motion lyder rådet, at voksne bør være fysisk aktive mindst en halv time om dagen – en rask gåtur eller cykelturen til arbejde tæller også.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C013",
+   "text": "Regelmæssig, moderat motion kan forlænge livet, forbedre søvnen og mindske risikoen for en lang række kroniske sygdomme.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C014",
+   "text": "Siden 2022 har Sundhedsstyrelsen anbefalet, at voksne højst drikker ti genstande om ugen og højst fire ad gangen, og at unge under 18 helst slet ikke drikker.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C015",
+   "text": "En genstand svarer til en almindelig øl, et glas vin eller en lille snaps.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C016",
+   "text": "Alligevel hører alkohol for mange med til de store fester, og presset fra jævnaldrende kan være stort.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U12-C017",
+   "text": "Skal du ikke have en øl?",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U12-C018",
+   "text": "Nej tak, jeg kører.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U12-C019",
+   "text": "Kører? Det er lørdag!",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U12-C020",
+   "text": "Ja, og jeg skal hente min lillesøster klokken et.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U12-C021",
+   "text": "Okay, okay. Så en cola.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U12-C022",
+   "text": "Den, der ikke drikker til en fest, bliver tit spurgt hvorfor – et spørgsmål, man sjældent stiller til den, der drikker.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U12-C023",
+   "text": "Overvægt og fysisk inaktivitet øger risikoen, men arv spiller også en rolle, og mange tynde mennesker får sygdommen, mens mange overvægtige aldrig gør.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U12-C024",
+   "text": "Det samme gælder hjerte-kar-sygdomme og flere former for kræft: Livsstilen flytter sandsynligheden, men den afgør ikke det enkelte tilfælde.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U12-C025",
+   "text": "Derfor er det misvisende at tale om livsstilssygdomme, som om de syge selv var skyld i dem.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U12-C026",
+   "text": "Problemet er sjældent at tabe sig, men at holde vægten bagefter.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U12-C027",
+   "text": "Ernæringseksperter anbefaler derfor ændringer, man kan leve med resten af livet, frem for kure, der holder i seks uger.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U12-C028",
+   "text": "Det meste af det, vi gør i løbet af en dag, gør vi af vane.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C029",
+   "text": "En vane udløses af en bestemt situation: Kaffen kalder på en cigaret, sofaen på chipsposen og telefonen på endnu en video.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C030",
+   "text": "Det er først, når en ny handling er blevet automatisk, at man ikke længere behøver viljestyrke for at gennemføre den.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C031",
+   "text": "I en britisk undersøgelse skulle deltagerne hver dag gøre én bestemt ting, og forskerne målte, hvornår den føltes naturlig.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C032",
+   "text": "Det tog typisk omkring 66 dage, før handlingen føltes automatisk.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C033",
+   "text": "Spredningen var dog stor, fra 18 til anslået 254 dage, og at springe en enkelt dag over ødelagde ikke processen.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C034",
+   "text": "Psykologer peger på, at det ofte er lettere at ændre omgivelserne end at stole på viljestyrken.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C035",
+   "text": "Den, der vil spise mindre slik, gør klogt i ikke at have det i skabet, og den, der vil løbe om morgenen, kan lægge løbeskoene frem aftenen før.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C036",
+   "text": "Små ændringer, der gentages, har langt hen ad vejen større effekt end store forsætter, der holder til den anden uge i januar.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U12-C037",
+   "text": "Sundhed handler ikke kun om kroppen.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U12-C038",
+   "text": "De seneste årtier er flere unge, især unge kvinder, begyndt at svare, at de har det dårligt psykisk eller føler sig stressede.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U12-C039",
+   "text": "Forskerne diskuterer, hvor meget der skyldes reelle forandringer, og hvor meget der skyldes, at det er blevet mere accepteret at tale om psykiske problemer.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U12-C040",
+   "text": "Et dansk program for mental sundhed opsummerer de bedste råd i tre opfordringer: Gør noget aktivt, gør noget sammen, og gør noget meningsfuldt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U12-C041",
+   "text": "Kritikere kalder det formynderi og mener, at voksne selv må bestemme, hvad de putter i munden.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U12-C042",
+   "text": "Hvis det sunde valg også er det nemme og billige valg, behøver man ikke at overbevise folk ét for ét.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U12-C043",
+   "text": "Hvor langt staten kan gå, før folk siger fra, er ikke altid til at forudsige.",
+   "ch": 5,
+   "p": 7
+  }
+ ]
+}

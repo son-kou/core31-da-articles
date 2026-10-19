@@ -1,0 +1,490 @@
+{
+ "schema": 1,
+ "unit": "U00",
+ "title": "Tillid – det usynlige fundament",
+ "subtitle": "Om at stole på mennesker, man aldrig har mødt",
+ "labels": [
+  "tillid",
+  "samfund",
+  "arbejdsliv",
+  "svindel"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U00",
+  "tier: CORE",
+  "title: Tillid – det usynlige fundament",
+  "subtitle: Om at stole på mennesker, man aldrig har mødt",
+  "labels: tillid · samfund · arbejdsliv · svindel",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Boden ved vejen"
+  },
+  {
+   "title": "Hvad tillid er – og hvad den ikke er"
+  },
+  {
+   "title": "Hønen eller ægget"
+  },
+  {
+   "title": "Hvad tillid sparer"
+  },
+  {
+   "title": "Frihed under ansvar"
+  },
+  {
+   "title": "En skrøbelig ressource"
+  },
+  {
+   "title": "Kassen ved vejen"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U00-C001",
+   "text": "En sommerdag på en landevej på Fyn holder en bil ind til siden ved en lille træbod.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U00-C002",
+   "text": "På hylden står bakker med jordbær og nye kartofler, og på et stykke pap er priserne skrevet med tusch.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U00-C003",
+   "text": "Der er ingen ekspedient, intet kamera og ingen lås – kun en gammel blikdåse med en sprække i låget.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U00-C004",
+   "text": "Turisten på passagersædet ryster på hovedet: »Stjæler folk ikke bare det hele?«",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U00-C005",
+   "text": "Ejeren ville sandsynligvis svare, at det sker – men så sjældent, at det ikke kan betale sig at sidde og holde øje med boden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U00-C006",
+   "text": "Spørger man danskerne, om man generelt kan stole på andre mennesker, svarer langt de fleste ja.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C007",
+   "text": "I internationale sammenligninger ligger Danmark år efter år helt i top sammen med de andre nordiske lande.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C008",
+   "text": "Det samme mønster går igen i hverdagen.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C009",
+   "text": "Barnevogne med sovende børn står uden for caféerne, mens forældrene drikker kaffe indenfor, og pakker bliver stillet foran hoveddøren, når ingen er hjemme.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C010",
+   "text": "Alligevel er tilliden ikke noget, de fleste tænker over til daglig.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C011",
+   "text": "Den minder om ilten i et lokale: Ingen lægger mærke til den, før den slipper op.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U00-C012",
+   "text": "Men hvad er tillid egentlig?",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U00-C013",
+   "text": "Forskere skelner mellem to slags tillid.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U00-C014",
+   "text": "Den ene retter sig mod familie, venner og kolleger – mennesker, vi kender og kan vurdere ud fra erfaring.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U00-C015",
+   "text": "Den anden er mere abstrakt: tilliden til fremmede, som vi aldrig har mødt og sandsynligvis aldrig kommer til at møde igen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U00-C016",
+   "text": "Høj tillid betyder altså, at de fleste forventer, at en fremmed vil opføre sig ordentligt – og at de indretter sig efter den forventning.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U00-C017",
+   "text": "Tillid skal dog ikke forveksles med naivitet.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U00-C018",
+   "text": "Den naive lukker øjnene for de tegn, der burde vække mistanke.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U00-C019",
+   "text": "Den tillidsfulde holder øjnene åbne – og vælger alligevel at give andre en chance.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U00-C020",
+   "text": "Den, der aldrig stoler på nogen, bliver sjældent snydt.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U00-C021",
+   "text": "Men vedkommende må kontrollere alt selv og går glip af de samarbejder, der kun opstår, når nogen tør tage det første skridt.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U00-C022",
+   "text": "Hvorfor danskerne har så meget tillid til hinanden, er forskerne ikke enige om.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C023",
+   "text": "En udbredt forklaring peger på institutionerne.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C024",
+   "text": "Når borgerne har tillid til, at myndighederne følger reglerne og behandler sager nogenlunde upartisk, kan det også styrke tilliden til andre mennesker.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C025",
+   "text": "Korruption er sjælden i Danmark, og mange forventer, at reglerne gælder for alle – også for dem med magt og penge.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C026",
+   "text": "Andre fremhæver historien – især andelsbevægelsen, hvor bønderne fra 1880'erne og frem gik sammen om at drive mejerier og slagterier.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C027",
+   "text": "Om tilliden er en årsag til eller en følge af de velfungerende institutioner, er svært at afgøre – sandsynligvis påvirker de hinanden.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C028",
+   "text": "Det er en klassisk diskussion om hønen og ægget, og den bliver næppe afgjort foreløbig.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U00-C029",
+   "text": "Ud over den moralske side har tilliden også en økonomisk værdi.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U00-C030",
+   "text": "Økonomer taler i den forbindelse om social kapital.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U00-C031",
+   "text": "Hvor tilliden er lav, må alt skrives ned, kontrolleres og sikres med garantier, advokater og stempler.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U00-C032",
+   "text": "Hvor den er høj, kan en aftale indgås med et håndtryk, og en tømrer kan gå i gang med taget, før der ligger en underskrevet kontrakt.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U00-C033",
+   "text": "På arbejdspladsen går tilliden ofte under navnet frihed under ansvar.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C034",
+   "text": "Medarbejderne bestemmer selv, hvordan en opgave skal gribes an, og chefen blander sig først, hvis noget er ved at gå galt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C035",
+   "text": "Til gengæld skal de fælles rammer respekteres: budgettet, fristerne og kollegernes tid.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C036",
+   "text": "For nyankomne kan det første indtryk være forvirrende – og ikke altid behageligt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C037",
+   "text": "Da Sara begyndte i en it-afdeling i Aarhus, brugte hun den første uge på at vente på instrukser, der aldrig kom.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C038",
+   "text": "Til sidst tog hun mod til sig og bankede på hos sin kollega Mikkel.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U00-C039",
+   "text": "Undskyld, har du lige to minutter?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C040",
+   "text": "Klart. Hvad sker der?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C041",
+   "text": "Jeg skal bruge et nyt program til projektet. Hvem skal godkende det?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C042",
+   "text": "Hvad koster det?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C043",
+   "text": "Et par hundrede kroner om måneden.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C044",
+   "text": "Så køb det bare. Du ved bedst, hvad du har brug for.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C045",
+   "text": "Uden at spørge nogen?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C046",
+   "text": "Du spørger jo mig nu.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C047",
+   "text": "Haha. Nej, men seriøst.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C048",
+   "text": "Seriøst: Skriv det ind i budgettet, så Lone kan se det. Viser det sig at være spild af penge, finder vi ud af det sammen.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C049",
+   "text": "Hvor jeg kommer fra, skulle jeg have haft tre underskrifter.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U00-C050",
+   "text": "Tre? Så havde vi aldrig nået noget her.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Mikkel"
+  },
+  {
+   "id": "U00-C051",
+   "text": "Samtalen varede mindre end et minut, men den sagde mere om arbejdspladsen end hele personalehåndbogen.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U00-C052",
+   "text": "Den, der får frihed, skal sige til i tide, når et projekt er ved at gå skævt.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U00-C053",
+   "text": "En fejl bliver som regel tilgivet.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U00-C054",
+   "text": "Det gør en skjult fejl sjældent.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U00-C055",
+   "text": "Er man i tvivl, spørger man en kollega – ikke om lov, men om råd.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U00-C056",
+   "text": "Tillid er hurtigere at miste end at genvinde.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C057",
+   "text": "Fordi tillid er gensidig, smitter mistilliden: Tror jeg, at andre snyder, bliver jeg selv mindre tilbøjelig til at spille efter reglerne.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C058",
+   "text": "Den høje tillid har desuden en bagside, som svindlere kender bedre end nogen.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C059",
+   "text": "Svindlerne ved, at mange er vant til at blive behandlet ordentligt af banker og myndigheder.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C060",
+   "text": "Derfor stiller de ikke altid spørgsmål, når en besked ser officiel ud.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C061",
+   "text": "Jævnligt dukker der sms'er op med links til falske pakkeleverandører.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C062",
+   "text": "Andre gange ringer en høflig person og udgiver sig for at være fra Skattestyrelsen – og beder om koder eller kortoplysninger.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C063",
+   "text": "Det er derfor, at banker og myndigheder igen og igen minder folk om, at de aldrig må give deres koder videre.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C064",
+   "text": "Svaret på svindel er dog ikke at holde op med at stole på hinanden.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C065",
+   "text": "Klogere er det at lære, hvor grænserne går.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C066",
+   "text": "Man kan sagtens stole på naboen og samtidig tvivle på en sms fra et ukendt nummer.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U00-C067",
+   "text": "Tilflyttere beskriver ofte det samme forløb.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U00-C068",
+   "text": "Først undrer de sig over, at ingen holder øje med dem.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U00-C069",
+   "text": "Senere opdager de, at der følger en forventning med friheden: at man opfører sig ordentligt, også når ingen ser det.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U00-C070",
+   "text": "Tillid er ikke noget, et samfund har én gang for alle; den bliver skabt hver dag i tusindvis af små handlinger.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U00-C071",
+   "text": "Blikdåsen er ikke et bevis på, at alle er ærlige.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U00-C072",
+   "text": "Den er et bevis på, at tilstrækkeligt mange opfører sig, som om de var det.",
+   "ch": 6,
+   "p": 10
+  }
+ ]
+}

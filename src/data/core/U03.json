@@ -1,0 +1,526 @@
+{
+ "schema": 1,
+ "unit": "U03",
+ "title": "Hjemmet",
+ "subtitle": "At bo, indrette og vedligeholde",
+ "labels": [
+  "bolig",
+  "leje og eje",
+  "naboer",
+  "boligpolitik"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U03",
+  "tier: CORE",
+  "title: Hjemmet",
+  "subtitle: At bo, indrette og vedligeholde",
+  "labels: bolig · leje og eje · naboer · boligpolitik",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Et sted at bo"
+  },
+  {
+   "title": "Eje, leje eller andel"
+  },
+  {
+   "title": "Naboerne"
+  },
+  {
+   "title": "At holde et hjem ved lige"
+  },
+  {
+   "title": "Loppemarked"
+  },
+  {
+   "title": "Et år efter"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U03-C001",
+   "text": "For Nadia, der for et år siden flyttede fra Bukarest til Aarhus for at læse, handlede det i begyndelsen kun om at finde et sted at sove.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C002",
+   "text": "I de store byer er der mangel på billige boliger, og det tog Nadia tre måneder at finde en lejlighed.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C003",
+   "text": "Lejligheden, hun endte med, ligger på tredje sal i en ejendom fra 1930'erne.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C004",
+   "text": "Der er to værelser, et lille køkken, et badeværelse med bruser og en altan, der lige akkurat er stor nok til to stole.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C005",
+   "text": "Kontrakten var på elleve sider, og hun læste den grundigt – med en ordbog ved siden af.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C006",
+   "text": "Inden hun fik nøglerne, skulle hun betale et depositum på tre måneders husleje.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C007",
+   "text": "Det beløb får hun først tilbage, når hun flytter – minus det, der skal sættes i stand.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U03-C008",
+   "text": "Den første dag gik hun rundt sammen med udlejeren og noterede fejl og mangler.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C009",
+   "text": "Der var en revne i vasken, en skuffe, der ikke kunne lukkes, og et vindue, der trak.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C010",
+   "text": "Fejl og mangler ved indflytningen skal meddeles udlejeren senest to uger efter lejeforholdets begyndelse, hvis lejeren vil bevare retten til at gøre dem gældende.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C011",
+   "text": "Nadia tog også billeder af alle rum.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C012",
+   "text": "Det havde en veninde rådet hende til: »Hvis jeg var dig, ville jeg tage billeder af alt – også af gulvet under sengen.«",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C013",
+   "text": "Selve flytningen klarede hun med to venner, en lånt trailer og en kasse øl.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C014",
+   "text": "Bagefter skulle hun melde flytning til kommunen, og det skal ske senest fem dage efter, at man er flyttet ind.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U03-C015",
+   "text": "Skrivebordet kom derimod i en flad pakke med en lille pose værktøj, og det tog en hel søndag at skrue det sammen.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U03-C016",
+   "text": "Kan du lange mig skruetrækkeren?",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C017",
+   "text": "Den lille eller den store?",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U03-C018",
+   "text": "Den med stjerne. … Hov, der er to skruer tilovers.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C019",
+   "text": "Det plejer der at være. Det er sikkert lige meget.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U03-C020",
+   "text": "Det sagde du også om reolen. Den vælter, hvis man kigger på den.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C021",
+   "text": "Okay, det har du ret i. Men den står jo stadig.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U03-C022",
+   "text": "Økonomisk er der stor forskel på at eje, at leje og at bo i andel.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C023",
+   "text": "De fleste, der køber, låner op til 80 procent af prisen i et realkreditinstitut, mens resten skal komme fra opsparing og et banklån.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C024",
+   "text": "En ejerbolig kan man sælge, når man vil, men til gengæld skal man selv betale, når taget skal skiftes.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C025",
+   "text": "Andelsboliger er især udbredt i København.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C026",
+   "text": "I en andelsbolig køber man ikke selve lejligheden, men en andel i en forening, der ejer hele ejendommen, og andelen kan ikke sælges til en helt fri pris.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C027",
+   "text": "Endelig er der de almene boliger, hvor huslejen skal dække udgifterne, men ikke give overskud til en ejer.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C028",
+   "text": "De drives af almennyttige boligforeninger, og omkring hver sjette dansker bor i en almen bolig.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C029",
+   "text": "Som privat lejer er Nadia godt beskyttet: Udlejeren kan ikke bare opsige hende, fordi han hellere vil have en ny lejer.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C030",
+   "text": "Hvem der skal male og slibe gulve, afhænger af kontrakten, men tag, facade og rør er udlejerens ansvar.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C031",
+   "text": "Ved fraflytning holdes der et flyttesyn, og lejeren har ret til at være til stede, når udlejeren gennemgår lejligheden.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U03-C032",
+   "text": "At bo i en lejlighed betyder også, at man deler trappe, gård og ofte vaskekælder med naboerne.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U03-C033",
+   "text": "Det kræver hensyn over for mennesker, man ikke selv har valgt.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U03-C034",
+   "text": "Da Nadia ville holde indflytterfest, hængte hun derfor en seddel op i opgangen en uge i forvejen.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U03-C035",
+   "text": "To dage senere bankede det på døren.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U03-C036",
+   "text": "Det var Erik fra stuen, der har boet i ejendommen i over fyrre år.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U03-C037",
+   "text": "Hej, er det dig, der har hængt sedlen op om festen på lørdag?",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Erik"
+  },
+  {
+   "id": "U03-C038",
+   "text": "Ja. Undskyld, er det et problem?",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C039",
+   "text": "Nej da. Tak, fordi du siger det i god tid. Vi har også været unge engang.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Erik"
+  },
+  {
+   "id": "U03-C040",
+   "text": "Vi skal nok skrue ned for musikken ved midnat.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C041",
+   "text": "Det lyder fornuftigt. Og bliver det for vildt, så banker jeg bare på.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Erik"
+  },
+  {
+   "id": "U03-C042",
+   "text": "Du er også meget velkommen til at kigge forbi.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C043",
+   "text": "Tak, men jeg går i seng klokken ti. Det kan godt være, jeg er gammeldags, men sådan har jeg det.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Erik"
+  },
+  {
+   "id": "U03-C044",
+   "text": "Sedlen i opgangen er en udbredt dansk løsning: Den, der skal holde fest, siger til på forhånd, så naboerne kan indrette sig.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U03-C045",
+   "text": "Vaskekælderen er en klassisk kilde til konflikter: Nogen glemmer deres tøj i maskinen, og andre tager en tid, der ikke er deres.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U03-C046",
+   "text": "Og når noget ikke virker, ringer beboerne til viceværten.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U03-C047",
+   "text": "Hej, det er Nadia fra nummer 14. Afløbet i badeværelset er stoppet.",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C048",
+   "text": "Okay. Har du prøvet med en svupper?",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Viceværten"
+  },
+  {
+   "id": "U03-C049",
+   "text": "Ja, og med kogende vand. Det hjælper slet ikke.",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C050",
+   "text": "Så sidder der nok en hårprop længere nede i røret. Jeg kan komme i løbet af formiddagen.",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Viceværten"
+  },
+  {
+   "id": "U03-C051",
+   "text": "Skal jeg være hjemme?",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C052",
+   "text": "Det behøver du ikke, hvis det er i orden, at jeg låser mig ind.",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Viceværten"
+  },
+  {
+   "id": "U03-C053",
+   "text": "Det er helt i orden. Tak for hjælpen.",
+   "ch": 2,
+   "p": 7,
+   "speaker": "Nadia"
+  },
+  {
+   "id": "U03-C054",
+   "text": "Den første vinter lærte viceværten Nadia at lufte ordentligt ud.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C055",
+   "text": "Vinduerne skal lukkes helt op et par gange om dagen, så fugten fra madlavning, bad og vasketøj kan komme ud.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C056",
+   "text": "Ellers kan der komme skimmelsvamp i hjørnerne, og den er svær at slippe af med igen.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C057",
+   "text": "Hun har også lært, hvor hovedhanen sidder, og hvordan man skifter en pære i en lampe, der hænger for højt.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C058",
+   "text": "Og man borer ikke i en væg uden at vide, hvor ledningerne går.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C059",
+   "text": "På hver radiator sidder der en lille måler, som danner grundlag for et årligt varmeregnskab.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C060",
+   "text": "Har hun brugt mere, end hun har betalt a conto, må hun betale efter.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C061",
+   "text": "Det fandt hun ud af, da regningen kom: Hun havde simpelthen skruet helt op for radiatorerne og ladet vinduerne stå på klem hele vinteren.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U03-C062",
+   "text": "For husejere er listen længere.",
+   "ch": 3,
+   "p": 9
+  },
+  {
+   "id": "U03-C063",
+   "text": "Tagrenderne skal renses, hækken skal klippes, og før eller siden trænger badeværelset til at blive renoveret.",
+   "ch": 3,
+   "p": 9
+  },
+  {
+   "id": "U03-C064",
+   "text": "Når en familie skal flytte, opdager de fleste, hvor meget der har samlet sig på loftet og i kælderen.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U03-C065",
+   "text": "Hos familien Nielsen i Randers går en hel weekend med at bære flyttekasser ned ad stigen fra loftet.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U03-C066",
+   "text": "Så sælger vi det hele på loppemarkedet på søndag. Og det, ingen vil have, kører vi på genbrugspladsen.",
+   "ch": 4,
+   "p": 10,
+   "speaker": "Thomas"
+  },
+  {
+   "id": "U03-C067",
+   "text": "Hvad skal du have for lampen?",
+   "ch": 4,
+   "p": 11,
+   "speaker": "En kvinde"
+  },
+  {
+   "id": "U03-C068",
+   "text": "Hundrede kroner.",
+   "ch": 4,
+   "p": 11,
+   "speaker": "Thomas"
+  },
+  {
+   "id": "U03-C069",
+   "text": "Jeg giver halvtreds.",
+   "ch": 4,
+   "p": 11,
+   "speaker": "Kvinden"
+  },
+  {
+   "id": "U03-C070",
+   "text": "Lad os sige 75.",
+   "ch": 4,
+   "p": 11,
+   "speaker": "Thomas"
+  },
+  {
+   "id": "U03-C071",
+   "text": "Fint. Har du MobilePay?",
+   "ch": 4,
+   "p": 11,
+   "speaker": "Kvinden"
+  },
+  {
+   "id": "U03-C072",
+   "text": "Selvfølgelig.",
+   "ch": 4,
+   "p": 11,
+   "speaker": "Thomas"
+  },
+  {
+   "id": "U03-C073",
+   "text": "Et år efter indflytningen hænger der gardiner for vinduerne, og cyklen står ikke længere i opgangen.",
+   "ch": 5,
+   "p": 12
+  },
+  {
+   "id": "U03-C074",
+   "text": "Nadia kender naboernes navne, og Erik har vist hende, hvordan man får vaskemaskinen i kælderen til at starte, når den driller.",
+   "ch": 5,
+   "p": 12
+  },
+  {
+   "id": "U03-C075",
+   "text": "I vindueskarmen står tre planter, som stadig er i live.",
+   "ch": 5,
+   "p": 12
+  },
+  {
+   "id": "U03-C076",
+   "text": "»Jeg er ved at falde til,« siger hun.",
+   "ch": 5,
+   "p": 12
+  }
+ ]
+}

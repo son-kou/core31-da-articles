@@ -1,0 +1,394 @@
+{
+ "schema": 1,
+ "unit": "U15",
+ "title": "Retssamfundet",
+ "subtitle": "Lov, ret og straf",
+ "labels": [
+  "politi",
+  "domstole",
+  "retssikkerhed",
+  "straf"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U15",
+  "tier: CORE",
+  "title: Retssamfundet",
+  "subtitle: Lov, ret og straf",
+  "labels: politi · domstole · retssikkerhed · straf",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "En lørdag nat i Aalborg"
+  },
+  {
+   "title": "I retssalen"
+  },
+  {
+   "title": "Uskyldig, indtil det modsatte er bevist"
+  },
+  {
+   "title": "Frihed og grænser"
+  },
+  {
+   "title": "Hverdagens jura"
+  },
+  {
+   "title": "Konfliktrådet"
+  },
+  {
+   "title": "Prisen for tvivlen"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U15-C001",
+   "text": "Klokken er kvart over tre en lørdag nat, og køen ved pølsevognen på Jomfru Ane Gade er lang.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C002",
+   "text": "Pludselig opstår der et skænderi mellem to grupper unge mænd, og et øjeblik senere ligger en 22-årig på brostenene med blod i ansigtet.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C003",
+   "text": "En forbipasserende ringer 112, og få minutter efter er både en ambulance og en patruljevogn på stedet.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C004",
+   "text": "Offeret har brækket næsen og fået en hjernerystelse, men han kan ikke sige, hvem der slog.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C005",
+   "text": "To dage senere bliver en 24-årig mand, som vi her kalder Kenneth, anholdt i sin lejlighed.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C006",
+   "text": "Han nægter at have slået nogen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U15-C007",
+   "text": "Efter en anholdelse har politiet højst et døgn til at bringe den anholdte for en dommer.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U15-C008",
+   "text": "Det kaldes et grundlovsforhør, fordi kravet står i grundloven, og formålet er at sikre, at ingen bliver holdt indespærret uden en domstols kontrol.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U15-C009",
+   "text": "Kenneth bliver løsladt, men sigtet for vold.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U15-C010",
+   "text": "Til sidst beslutter anklagemyndigheden at rejse tiltale.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U15-C011",
+   "text": "Sagen bliver behandlet i byretten et halvt år senere.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U15-C012",
+   "text": "Anklageren gennemgår anklageskriftet, og Kenneth nægter sig skyldig.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U15-C013",
+   "text": "Det vigtigste vidne er en ung kvinde, der stod i køen ved pølsevognen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U15-C014",
+   "text": "Kan du fortælle, hvad du så?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Anklageren"
+  },
+  {
+   "id": "U15-C015",
+   "text": "Der var nogle, der råbte, og så slog en i en mørk jakke ud efter ham, der faldt.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Vidnet"
+  },
+  {
+   "id": "U15-C016",
+   "text": "Kan du se ham her i retssalen?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Anklageren"
+  },
+  {
+   "id": "U15-C017",
+   "text": "Jeg tror, det er ham. Men jeg er ikke helt sikker.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Vidnet"
+  },
+  {
+   "id": "U15-C018",
+   "text": "Du havde drukket en del den aften, ikke sandt?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Forsvareren"
+  },
+  {
+   "id": "U15-C019",
+   "text": "Et par øl.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Vidnet"
+  },
+  {
+   "id": "U15-C020",
+   "text": "Et par?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Forsvareren"
+  },
+  {
+   "id": "U15-C021",
+   "text": "Fem, måske seks.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Vidnet"
+  },
+  {
+   "id": "U15-C022",
+   "text": "Og kunne du se hans ansigt?",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Forsvareren"
+  },
+  {
+   "id": "U15-C023",
+   "text": "Ikke helt. Han havde hætte på.",
+   "ch": 1,
+   "p": 3,
+   "speaker": "Vidnet"
+  },
+  {
+   "id": "U15-C024",
+   "text": "Videooptagelserne viser en mand i mørk jakke, men billedet er sløret, og ansigtet er skjult af hætten.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U15-C025",
+   "text": "Kenneth har en mørk jakke, men det har halvdelen af de unge mænd i Aalborg en lørdag nat i februar.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U15-C026",
+   "text": "Retten frifinder ham.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U15-C027",
+   "text": "I dommen står der, at det ikke er bevist ud over enhver rimelig tvivl, at det var Kenneth, der slog.",
+   "ch": 1,
+   "p": 4
+  },
+  {
+   "id": "U15-C028",
+   "text": "For offeret og hans familie er dommen svær at acceptere.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C029",
+   "text": "Nogen slog ham, og ingen bliver straffet for det.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C030",
+   "text": "Alligevel er frifindelsen udtryk for et af retssamfundets grundprincipper: uskyldsformodningen.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C031",
+   "text": "Man er uskyldig, indtil det modsatte er bevist, og det er anklagemyndigheden, der skal bevise skylden – ikke den tiltalte, der skal bevise sin uskyld.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C032",
+   "text": "Er der rimelig tvivl, skal tvivlen komme den tiltalte til gode.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C033",
+   "text": "At blive frifundet er derfor ikke det samme som at være bevist uskyldig.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C034",
+   "text": "Tilsammen udgør disse principper det, man kalder retssikkerhed: borgernes beskyttelse mod vilkårlige og uretfærdige indgreb fra statens side.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U15-C035",
+   "text": "Grundloven forbyder censur, og man kan ytre sig frit i tale og på skrift – men man kan stilles til ansvar bagefter.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U15-C036",
+   "text": "Det er for eksempel strafbart at fremsætte alvorlige trusler, krænke en andens ære eller offentligt forhåne eller nedværdige en gruppe på grund af blandt andet hudfarve, religion eller seksuel orientering.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U15-C037",
+   "text": "Bliver cyklen stjålet, eller er der indbrud i sommerhuset, anmelder man det på politiets hjemmeside.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C038",
+   "text": "Mange tyverier bliver aldrig opklaret, men anmeldelsen er nødvendig, hvis forsikringen skal dække tabet.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C039",
+   "text": "De fleste mennesker kommer aldrig i nærheden af en straffesag, men mange bliver på et tidspunkt part i en civil sag.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C040",
+   "text": "Det kan være en strid om et depositum, en håndværker, der ikke har gjort sit arbejde ordentligt, eller en arv, som søskende ikke kan blive enige om.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C041",
+   "text": "I civile sager er det ikke staten, der anklager nogen; det er den ene part, der sagsøger den anden og kræver for eksempel penge eller erstatning.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C042",
+   "text": "Mange domstole tilbyder retsmægling, hvor en neutral mægler hjælper parterne med at finde en løsning, de begge kan leve med.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C043",
+   "text": "Mange nabostridigheder – om et træ, der skygger, eller en hæk, der er vokset for højt – ender aldrig i retten, fordi parterne når til enighed ved køkkenbordet.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U15-C044",
+   "text": "Et halvt år efter et indbrud i Odense sidder en 16-årig dreng og en 78-årig kvinde over for hinanden i et konfliktråd: et frivilligt møde med en mægler.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U15-C045",
+   "text": "Inger, vil du begynde med at fortælle, hvordan det har været for dig?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Mægleren"
+  },
+  {
+   "id": "U15-C046",
+   "text": "Det værste var ikke de ting, der forsvandt. Det var, at jeg ikke kunne sove i mit eget hus bagefter. Jeg lå og lyttede efter lyde hele natten.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Inger"
+  },
+  {
+   "id": "U15-C047",
+   "text": "Noah, hvad tænker du, når du hører det?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Mægleren"
+  },
+  {
+   "id": "U15-C048",
+   "text": "Jeg tænkte slet ikke på, at der boede nogen. Altså, jeg vidste det godt, men jeg tænkte bare på, at der ikke var nogen hjemme.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U15-C049",
+   "text": "Hvorfor lige mit hus?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Inger"
+  },
+  {
+   "id": "U15-C050",
+   "text": "Vinduet stod på klem. Det var ikke noget personligt.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U15-C051",
+   "text": "Det føltes meget personligt.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Inger"
+  },
+  {
+   "id": "U15-C052",
+   "text": "Det forstår jeg godt nu. Jeg er virkelig ked af det.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Noah"
+  },
+  {
+   "id": "U15-C053",
+   "text": "Kenneth gik fri.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U15-C054",
+   "text": "Hvem der slog den 22-årige ned den nat i februar, ved vi ikke.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U15-C055",
+   "text": "Det er prisen for et system, der hellere vil leve med den uvished end med en uskyldig i fængsel.",
+   "ch": 6,
+   "p": 9
+  }
+ ]
+}

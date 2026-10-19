@@ -1,0 +1,176 @@
+【Danish CORE · Deep Teacher】U00 Tillid – det usynlige fundament · P04
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U00"
+"part": "P04"
+"source_fingerprint": "U00-P04-57157f9cafb7"
+sentences 数组必须恰好包含 14 个对象，ID 依次为：
+U00-C042, U00-C043, U00-C044, U00-C045, U00-C046, U00-C047, U00-C048, U00-C049, U00-C050, U00-C051, U00-C052, U00-C053, U00-C054, U00-C055
+
+## 六、文章（冻结原文，只读）
+本次是第 4 / 5 批，讲解 14 句（U00-C042 – U00-C055）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U00 · Tillid – det usynlige fundament
+副标题：Om at stole på mennesker, man aldrig har mødt
+主题标签：tillid · samfund · arbejdsliv · svindel
+
+## 第 1 章 · Boden ved vejen
+  U00-C001 En sommerdag på en landevej på Fyn holder en bil ind til siden ved en lille træbod.
+  U00-C002 På hylden står bakker med jordbær og nye kartofler, og på et stykke pap er priserne skrevet med tusch.
+  U00-C003 Der er ingen ekspedient, intet kamera og ingen lås – kun en gammel blikdåse med en sprække i låget.
+  U00-C004 Turisten på passagersædet ryster på hovedet: »Stjæler folk ikke bare det hele?«
+  U00-C005 Ejeren ville sandsynligvis svare, at det sker – men så sjældent, at det ikke kan betale sig at sidde og holde øje med boden.
+
+  U00-C006 Spørger man danskerne, om man generelt kan stole på andre mennesker, svarer langt de fleste ja.
+  U00-C007 I internationale sammenligninger ligger Danmark år efter år helt i top sammen med de andre nordiske lande.
+  U00-C008 Det samme mønster går igen i hverdagen.
+  U00-C009 Barnevogne med sovende børn står uden for caféerne, mens forældrene drikker kaffe indenfor, og pakker bliver stillet foran hoveddøren, når ingen er hjemme.
+  U00-C010 Alligevel er tilliden ikke noget, de fleste tænker over til daglig.
+  U00-C011 Den minder om ilten i et lokale: Ingen lægger mærke til den, før den slipper op.
+
+## 第 2 章 · Hvad tillid er – og hvad den ikke er
+  U00-C012 Men hvad er tillid egentlig?
+  U00-C013 Forskere skelner mellem to slags tillid.
+  U00-C014 Den ene retter sig mod familie, venner og kolleger – mennesker, vi kender og kan vurdere ud fra erfaring.
+  U00-C015 Den anden er mere abstrakt: tilliden til fremmede, som vi aldrig har mødt og sandsynligvis aldrig kommer til at møde igen.
+  U00-C016 Høj tillid betyder altså, at de fleste forventer, at en fremmed vil opføre sig ordentligt – og at de indretter sig efter den forventning.
+
+  U00-C017 Tillid skal dog ikke forveksles med naivitet.
+  U00-C018 Den naive lukker øjnene for de tegn, der burde vække mistanke.
+  U00-C019 Den tillidsfulde holder øjnene åbne – og vælger alligevel at give andre en chance.
+  U00-C020 Den, der aldrig stoler på nogen, bliver sjældent snydt.
+  U00-C021 Men vedkommende må kontrollere alt selv og går glip af de samarbejder, der kun opstår, når nogen tør tage det første skridt.
+
+## 第 3 章 · Hønen eller ægget
+  U00-C022 Hvorfor danskerne har så meget tillid til hinanden, er forskerne ikke enige om.
+  U00-C023 En udbredt forklaring peger på institutionerne.
+  U00-C024 Når borgerne har tillid til, at myndighederne følger reglerne og behandler sager nogenlunde upartisk, kan det også styrke tilliden til andre mennesker.
+  U00-C025 Korruption er sjælden i Danmark, og mange forventer, at reglerne gælder for alle – også for dem med magt og penge.
+  U00-C026 Andre fremhæver historien – især andelsbevægelsen, hvor bønderne fra 1880'erne og frem gik sammen om at drive mejerier og slagterier.
+  U00-C027 Om tilliden er en årsag til eller en følge af de velfungerende institutioner, er svært at afgøre – sandsynligvis påvirker de hinanden.
+  U00-C028 Det er en klassisk diskussion om hønen og ægget, og den bliver næppe afgjort foreløbig.
+
+## 第 4 章 · Hvad tillid sparer
+  U00-C029 Ud over den moralske side har tilliden også en økonomisk værdi.
+  U00-C030 Økonomer taler i den forbindelse om social kapital.
+  U00-C031 Hvor tilliden er lav, må alt skrives ned, kontrolleres og sikres med garantier, advokater og stempler.
+  U00-C032 Hvor den er høj, kan en aftale indgås med et håndtryk, og en tømrer kan gå i gang med taget, før der ligger en underskrevet kontrakt.
+
+## 第 5 章 · Frihed under ansvar
+  U00-C033 På arbejdspladsen går tilliden ofte under navnet frihed under ansvar.
+  U00-C034 Medarbejderne bestemmer selv, hvordan en opgave skal gribes an, og chefen blander sig først, hvis noget er ved at gå galt.
+  U00-C035 Til gengæld skal de fælles rammer respekteres: budgettet, fristerne og kollegernes tid.
+  U00-C036 For nyankomne kan det første indtryk være forvirrende – og ikke altid behageligt.
+  U00-C037 Da Sara begyndte i en it-afdeling i Aarhus, brugte hun den første uge på at vente på instrukser, der aldrig kom.
+  U00-C038 Til sidst tog hun mod til sig og bankede på hos sin kollega Mikkel.
+
+  U00-C039 [对话 · Sara] Undskyld, har du lige to minutter?
+  U00-C040 [对话 · Mikkel] Klart. Hvad sker der?
+  U00-C041 [对话 · Sara] Jeg skal bruge et nyt program til projektet. Hvem skal godkende det?
+▶ U00-C042 [对话 · Mikkel] Hvad koster det?
+▶ U00-C043 [对话 · Sara] Et par hundrede kroner om måneden.
+▶ U00-C044 [对话 · Mikkel] Så køb det bare. Du ved bedst, hvad du har brug for.
+▶ U00-C045 [对话 · Sara] Uden at spørge nogen?
+▶ U00-C046 [对话 · Mikkel] Du spørger jo mig nu.
+▶ U00-C047 [对话 · Sara] Haha. Nej, men seriøst.
+▶ U00-C048 [对话 · Mikkel] Seriøst: Skriv det ind i budgettet, så Lone kan se det. Viser det sig at være spild af penge, finder vi ud af det sammen.
+▶ U00-C049 [对话 · Sara] Hvor jeg kommer fra, skulle jeg have haft tre underskrifter.
+▶ U00-C050 [对话 · Mikkel] Tre? Så havde vi aldrig nået noget her.
+
+▶ U00-C051 Samtalen varede mindre end et minut, men den sagde mere om arbejdspladsen end hele personalehåndbogen.
+▶ U00-C052 Den, der får frihed, skal sige til i tide, når et projekt er ved at gå skævt.
+▶ U00-C053 En fejl bliver som regel tilgivet.
+▶ U00-C054 Det gør en skjult fejl sjældent.
+▶ U00-C055 Er man i tvivl, spørger man en kollega – ikke om lov, men om råd.
+
+## 第 6 章 · En skrøbelig ressource
+  U00-C056 Tillid er hurtigere at miste end at genvinde.
+  U00-C057 Fordi tillid er gensidig, smitter mistilliden: Tror jeg, at andre snyder, bliver jeg selv mindre tilbøjelig til at spille efter reglerne.
+  U00-C058 Den høje tillid har desuden en bagside, som svindlere kender bedre end nogen.
+  U00-C059 Svindlerne ved, at mange er vant til at blive behandlet ordentligt af banker og myndigheder.
+  U00-C060 Derfor stiller de ikke altid spørgsmål, når en besked ser officiel ud.
+  U00-C061 Jævnligt dukker der sms'er op med links til falske pakkeleverandører.
+  U00-C062 Andre gange ringer en høflig person og udgiver sig for at være fra Skattestyrelsen – og beder om koder eller kortoplysninger.
+  U00-C063 Det er derfor, at banker og myndigheder igen og igen minder folk om, at de aldrig må give deres koder videre.
+  U00-C064 Svaret på svindel er dog ikke at holde op med at stole på hinanden.
+  U00-C065 Klogere er det at lære, hvor grænserne går.
+  U00-C066 Man kan sagtens stole på naboen og samtidig tvivle på en sms fra et ukendt nummer.
+
+## 第 7 章 · Kassen ved vejen
+  U00-C067 Tilflyttere beskriver ofte det samme forløb.
+  U00-C068 Først undrer de sig over, at ingen holder øje med dem.
+  U00-C069 Senere opdager de, at der følger en forventning med friheden: at man opfører sig ordentligt, også når ingen ser det.
+  U00-C070 Tillid er ikke noget, et samfund har én gang for alle; den bliver skabt hver dag i tusindvis af små handlinger.
+  U00-C071 Blikdåsen er ikke et bevis på, at alle er ærlige.
+  U00-C072 Den er et bevis på, at tilstrækkeligt mange opfører sig, som om de var det.
+
+## 七、本批需要讲解的句子（共 14 句）
+U00-C042 ｜ 第 5 章 ｜ [Mikkel] Hvad koster det?
+U00-C043 ｜ 第 5 章 ｜ [Sara] Et par hundrede kroner om måneden.
+U00-C044 ｜ 第 5 章 ｜ [Mikkel] Så køb det bare. Du ved bedst, hvad du har brug for.
+U00-C045 ｜ 第 5 章 ｜ [Sara] Uden at spørge nogen?
+U00-C046 ｜ 第 5 章 ｜ [Mikkel] Du spørger jo mig nu.
+U00-C047 ｜ 第 5 章 ｜ [Sara] Haha. Nej, men seriøst.
+U00-C048 ｜ 第 5 章 ｜ [Mikkel] Seriøst: Skriv det ind i budgettet, så Lone kan se det. Viser det sig at være spild af penge, finder vi ud af det sammen.
+U00-C049 ｜ 第 5 章 ｜ [Sara] Hvor jeg kommer fra, skulle jeg have haft tre underskrifter.
+U00-C050 ｜ 第 5 章 ｜ [Mikkel] Tre? Så havde vi aldrig nået noget her.
+U00-C051 ｜ 第 5 章 ｜ Samtalen varede mindre end et minut, men den sagde mere om arbejdspladsen end hele personalehåndbogen.
+U00-C052 ｜ 第 5 章 ｜ Den, der får frihed, skal sige til i tide, når et projekt er ved at gå skævt.
+U00-C053 ｜ 第 5 章 ｜ En fejl bliver som regel tilgivet.
+U00-C054 ｜ 第 5 章 ｜ Det gør en skjult fejl sjældent.
+U00-C055 ｜ 第 5 章 ｜ Er man i tvivl, spørger man en kollega – ikke om lov, men om råd.
+
+输出前请自检：JSON 能被解析；sentences 共 14 项，第一个是 U00-C042，最后一个是 U00-C055；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

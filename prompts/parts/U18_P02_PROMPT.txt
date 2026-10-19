@@ -1,0 +1,157 @@
+【Danish CORE · Deep Teacher】U18 Traditioner, højtider og hygge · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U18"
+"part": "P02"
+"source_fingerprint": "U18-P02-ad2585f36f70"
+sentences 数组必须恰好包含 18 个对象，ID 依次为：
+U18-C016, U18-C017, U18-C018, U18-C019, U18-C020, U18-C021, U18-C022, U18-C023, U18-C024, U18-C025, U18-C026, U18-C027, U18-C028, U18-C029, U18-C030, U18-C031, U18-C032, U18-C033
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 3 批，讲解 18 句（U18-C016 – U18-C033）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U18 · Traditioner, højtider og hygge
+副标题：Et år i danske ritualer
+主题标签：jul · påske · sankthans · hygge
+
+## 第 1 章 · December
+  U18-C001 I butikkerne dufter der af gløgg og æbleskiver, og på arbejdspladserne begynder julefrokosterne allerede i november.
+  U18-C002 Julefrokosten er en lang aften med sild, snaps, lune retter og sang, og som man siger: Det, der sker til julefrokosten, bliver til julefrokosten.
+
+  U18-C003 I begyndelsen af december bliver Amir inviteret til julefrokost hos sin kollega Hanne.
+  U18-C004 [对话 · Hanne] Vi holder julefrokost på lørdag. Har du lyst til at komme?
+  U18-C005 [对话 · Amir] Ja, gerne! Skal jeg tage noget med?
+  U18-C006 [对话 · Hanne] Bare en lille gave til omkring halvtreds kroner. Vi laver pakkeleg.
+  U18-C007 [对话 · Amir] Pakkeleg? Det må du forklare mig.
+  U18-C008 [对话 · Hanne] Det er sjovere, hvis du bare kaster dig ud i det.
+
+  U18-C009 Mandagen efter står de ved kaffemaskinen.
+  U18-C010 [对话 · Amir] Tak for sidst! Det var en rigtig hyggelig aften.
+  U18-C011 [对话 · Hanne] Selv tak. Godt, du kunne komme.
+
+## 第 2 章 · Juleaften
+  U18-C012 Danskerne fejrer jul om aftenen den 24. december, juleaften.
+  U18-C013 Hos Maja og Jonas er der dækket op til ti, og mormor har taget sin egen sovs med, fordi hun ikke stoler på andres.
+  U18-C014 I desserten er der gemt en hel mandel, og den, der finder den, får en lille gave.
+  U18-C015 Traditionen tro skal den heldige dog holde mandlen skjult, til alle har spist op.
+
+▶ U18-C016 [对话 · Mormor] Er der nogen, der har fundet mandlen?
+▶ U18-C017 [对话 · Oliver] Ikke mig.
+▶ U18-C018 [对话 · Ida] Heller ikke mig. Jeg har spist tre portioner!
+▶ U18-C019 [对话 · Mormor] Så må vi have en portion mere. Hvad siger du til det, Jonas?
+▶ U18-C020 [对话 · Jonas] Jeg kan ikke. Jeg er ved at revne.
+▶ U18-C021 [对话 · Ida] Mor, du har den, ikke? Du griner!
+▶ U18-C022 [对话 · Maja] Jeg griner skam ikke. … Okay, okay. Her er den.
+▶ U18-C023 [对话 · Ida] Hvor længe har du haft den?
+▶ U18-C024 [对话 · Maja] Siden første skefuld.
+
+▶ U18-C025 Bagefter danser mange familier rundt om juletræet og synger, og gaverne bliver som regel ikke pakket op, før dansen er slut.
+▶ U18-C026 Den 25. og 26. december er helligdage, og så går turen til julefrokost hos den anden side af familien.
+
+## 第 3 章 · Nytår og fastelavn
+▶ U18-C027 Nytårsaften den 31. december er mere støjende.
+▶ U18-C028 Ved midnat står mange på en stol, og når klokkerne på Rådhuset har slået tolv slag, hopper de ned i det nye år under fyrværkeriet.
+▶ U18-C029 Bagefter spiser man kransekage, og man ønsker hinanden godt nytår, også dem man ikke kender, på vej hjem gennem gaderne.
+
+▶ U18-C030 Syv uger før påske fejrer man fastelavn.
+▶ U18-C031 Børnene klæder sig ud som hekse, prinsesser, pirater eller superhelte, og mange voksne gør det samme til fastelavnsfester på arbejdet.
+▶ U18-C032 Børnene slår på skift på en tønde med slik, til den går i stykker – det kaldes at slå katten af tønden.
+▶ U18-C033 Navnet stammer fra en tid, hvor der faktisk var en levende kat i tønden.
+
+## 第 4 章 · Påske og sankthans
+  U18-C034 Påsken giver mange danskere fem fridage, og påskefrokosten med æg, sild, lam og påskeøl er for mange lige så vigtig som de kirkelige ritualer.
+  U18-C035 Om aftenen den 23. juni holder man sankthans, som markerer tiden omkring årets længste dag.
+  U18-C036 Man tænder bål, ofte ved stranden, og brænder en heks af halm, som ifølge traditionen flyver til Bloksbjerg.
+
+## 第 5 章 · Livets milepæle
+  U18-C037 Mange traditioner følger ikke kalenderen, men livet.
+  U18-C038 De fleste danske børn bliver døbt, og omkring 14-årsalderen bliver mange konfirmeret i kirken, efterfulgt af en stor fest med familien, taler, sange og gaver – ofte i form af penge.
+  U18-C039 Til fødselsdage hejser man flaget, og til børnefødselsdage er der lagkage eller en kagemand, som fødselaren skærer hovedet af under skrig og jubel.
+  U18-C040 Til bryllupper er der taler, sange skrevet til lejligheden og en brudevals ved midnat, og når gæsterne slår på glassene, skal brudeparret kysse.
+  U18-C041 Runde fødselsdage fejres med reception eller fest, og ved begravelser samles man efter ceremonien til kaffe og sandwich og deler minder om den afdøde.
+
+## 第 6 章 · Hygge
+  U18-C042 Man kan hygge sig med en kop te og en bog, med en god ven over et spil kort eller med familien foran fjernsynet en fredag aften.
+  U18-C043 Hyggen har dog også en skyggeside.
+  U18-C044 Den forudsætter, at alle kender reglerne, og det kan være svært for en nytilflytter at blive lukket ind i en hygge, der bygger på fælles erindringer og uudtalte koder.
+  U18-C045 Den, der bringer et besværligt emne op ved middagsbordet, kan hurtigt blive mødt med den milde irettesættelse: »Skal vi ikke bare hygge os?«
+
+## 第 7 章 · Traditioner i forandring
+  U18-C046 Traditionerne skifter også indhold: I mange familier står der i dag både and og en nøddesteg på julebordet, og skilsmissebørn holder juleaften hos skiftevis mor og far.
+  U18-C047 Næste år har Ida bedt om at være den, der skjuler mandlen.
+  U18-C048 Hun øver sig allerede på at holde masken.
+
+## 七、本批需要讲解的句子（共 18 句）
+U18-C016 ｜ 第 2 章 ｜ [Mormor] Er der nogen, der har fundet mandlen?
+U18-C017 ｜ 第 2 章 ｜ [Oliver] Ikke mig.
+U18-C018 ｜ 第 2 章 ｜ [Ida] Heller ikke mig. Jeg har spist tre portioner!
+U18-C019 ｜ 第 2 章 ｜ [Mormor] Så må vi have en portion mere. Hvad siger du til det, Jonas?
+U18-C020 ｜ 第 2 章 ｜ [Jonas] Jeg kan ikke. Jeg er ved at revne.
+U18-C021 ｜ 第 2 章 ｜ [Ida] Mor, du har den, ikke? Du griner!
+U18-C022 ｜ 第 2 章 ｜ [Maja] Jeg griner skam ikke. … Okay, okay. Her er den.
+U18-C023 ｜ 第 2 章 ｜ [Ida] Hvor længe har du haft den?
+U18-C024 ｜ 第 2 章 ｜ [Maja] Siden første skefuld.
+U18-C025 ｜ 第 2 章 ｜ Bagefter danser mange familier rundt om juletræet og synger, og gaverne bliver som regel ikke pakket op, før dansen er slut.
+U18-C026 ｜ 第 2 章 ｜ Den 25. og 26. december er helligdage, og så går turen til julefrokost hos den anden side af familien.
+U18-C027 ｜ 第 3 章 ｜ Nytårsaften den 31. december er mere støjende.
+U18-C028 ｜ 第 3 章 ｜ Ved midnat står mange på en stol, og når klokkerne på Rådhuset har slået tolv slag, hopper de ned i det nye år under fyrværkeriet.
+U18-C029 ｜ 第 3 章 ｜ Bagefter spiser man kransekage, og man ønsker hinanden godt nytår, også dem man ikke kender, på vej hjem gennem gaderne.
+U18-C030 ｜ 第 3 章 ｜ Syv uger før påske fejrer man fastelavn.
+U18-C031 ｜ 第 3 章 ｜ Børnene klæder sig ud som hekse, prinsesser, pirater eller superhelte, og mange voksne gør det samme til fastelavnsfester på arbejdet.
+U18-C032 ｜ 第 3 章 ｜ Børnene slår på skift på en tønde med slik, til den går i stykker – det kaldes at slå katten af tønden.
+U18-C033 ｜ 第 3 章 ｜ Navnet stammer fra en tid, hvor der faktisk var en levende kat i tønden.
+
+输出前请自检：JSON 能被解析；sentences 共 18 项，第一个是 U18-C016，最后一个是 U18-C033；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

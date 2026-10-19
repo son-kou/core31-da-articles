@@ -1,0 +1,334 @@
+{
+ "schema": 1,
+ "unit": "U05",
+ "title": "Fritid og fællesskab",
+ "subtitle": "Sport, foreninger og frivillighed",
+ "labels": [
+  "forening",
+  "sport",
+  "frivillighed",
+  "demokrati"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U05",
+  "tier: CORE",
+  "title: Fritid og fællesskab",
+  "subtitle: Sport, foreninger og frivillighed",
+  "labels: forening · sport · frivillighed · demokrati",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Tirsdag i hallen"
+  },
+  {
+   "title": "Kamp på lørdag"
+  },
+  {
+   "title": "Foreningerne"
+  },
+  {
+   "title": "Hvorfor bliver man frivillig?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U05-C001",
+   "text": "»Jeg kom egentlig bare for at se min datter spille håndbold. Nu har jeg siddet i bestyrelsen i elleve år.«",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C002",
+   "text": "Det siger Birgitte, mens hun låser klubhuset op ved hallen i en mindre by på Midtsjælland.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C003",
+   "text": "Bortset fra pedellen, der er ansat af kommunen, får ingen i hallen løn.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C004",
+   "text": "Klubben har omkring 400 medlemmer og drives af frivillige.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C005",
+   "text": "Nogle træner, andre sidder i bestyrelsen, og atter andre står i boden og sælger kaffe og toast, når der er kamp i weekenden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C006",
+   "text": "»Sporten er bare anledningen,« siger Birgitte.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C007",
+   "text": "»Det vigtigste foregår ved siden af banen: Børnene får et sted at høre til, og forældrene lærer hinanden at kende.«",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U05-C008",
+   "text": "Ved sidelinjen står forældrene med kaffe i termokrus og hepper, mens de små søskende leger med en bold bag målet.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U05-C009",
+   "text": "Ved pausen fører hjemmeholdet med to mål, men i anden halvleg tager gæsterne føringen, og først med et minut tilbage udligner Sofie på et straffekast.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U05-C010",
+   "text": "Kampen ender uafgjort, og bagefter stiller begge hold op og klapper af hinanden.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U05-C011",
+   "text": "Undervejs blev stemningen dog lidt for ophedet.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U05-C012",
+   "text": "Dommer! Det var jo skridt!",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Lars"
+  },
+  {
+   "id": "U05-C013",
+   "text": "Lars, hun er fjorten. Og hun dømmer gratis.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C014",
+   "text": "Ja ja. Men det var altså skridt.",
+   "ch": 1,
+   "p": 2,
+   "speaker": "Lars"
+  },
+  {
+   "id": "U05-C015",
+   "text": "Mange klubber har svært ved at skaffe dommere, og tilråb fra forældre gør ikke opgaven mere attraktiv.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U05-C016",
+   "text": "I flere haller hænger der derfor skilte, som minder tilskuerne om, at uden dommere er der ingen kamp.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U05-C017",
+   "text": "Foreninger kan få tilskud og lokaler fra kommunen, hvis de er åbne for alle og har en demokratisk opbygning.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U05-C018",
+   "text": "Det er en af grundene til, at kontingentet i en dansk idrætsforening ofte er lavt sammenlignet med prisen på et fitnesscenter eller en privat danseskole.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U05-C019",
+   "text": "Der er kor, hvor amatører øver sig hver uge frem mod en julekoncert.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U05-C020",
+   "text": "Og der er spejdergrupper, hvor børn lærer at slå et telt op, tænde bål uden tændvæske og finde vej med kort og kompas.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U05-C021",
+   "text": "Og i forsamlingshusene på landet er der stadig fællesspisning, banko og generalforsamlinger – nogle steder i de samme lokaler som for hundrede år siden.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U05-C022",
+   "text": "Foreninger har typisk vedtægter, en bestyrelse og en årlig generalforsamling, hvor medlemmerne godkender regnskabet og vælger bestyrelsen.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U05-C023",
+   "text": "Der kommer sjældent mere end tredive medlemmer, men debatten kan blive livlig, når det handler om kontingentet, eller om hvem der skal have de bedste træningstider.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U05-C024",
+   "text": "Derfor bliver foreningslivet ofte kaldt demokratiets skole: Her lærer man at argumentere, blive stemt ned og alligevel arbejde videre sammen.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U05-C025",
+   "text": "Flere og flere dyrker motion på egen hånd, når det passer ind i kalenderen.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U05-C026",
+   "text": "For foreningerne er udviklingen en udfordring, for et fællesskab kræver, at folk møder op, også når det regner, og også når holdet har tabt fem gange i træk.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U05-C027",
+   "text": "En stor del af danskerne er medlem af en forening, og mange arbejder frivilligt – som træner i den lokale fodboldklub, i en lektiecafé eller i en bestyrelse.",
+   "ch": 3,
+   "p": 7
+  },
+  {
+   "id": "U05-C028",
+   "text": "Når forskere spørger, hvorfor folk gør det, er svarene ret jordnære.",
+   "ch": 3,
+   "p": 7
+  },
+  {
+   "id": "U05-C029",
+   "text": "De fleste nævner fællesskabet, lysten til at gøre noget nyttigt, og at det er sjovt – og en af de vigtigste forklaringer er overraskende enkel: Nogen spurgte dem.",
+   "ch": 3,
+   "p": 7
+  },
+  {
+   "id": "U05-C030",
+   "text": "Sådan gik det også for Rasmus, hvis søn spiller på U9-holdet.",
+   "ch": 3,
+   "p": 7
+  },
+  {
+   "id": "U05-C031",
+   "text": "Hvert år i august har Birgitte travlt med at finde trænere til alle holdene, og for to år siden fangede hun Rasmus ved udgangen efter en træning.",
+   "ch": 3,
+   "p": 7
+  },
+  {
+   "id": "U05-C032",
+   "text": "Rasmus, må jeg lige spørge dig om noget?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C033",
+   "text": "Ja da. Har jeg gjort noget?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C034",
+   "text": "Nej, nej. Vi mangler en hjælpetræner til U9 om torsdagen. Kunne det være noget for dig?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C035",
+   "text": "Det er sødt, at du spørger, men jeg har aldrig trænet nogen i noget.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C036",
+   "text": "Det behøver du heller ikke. I første omgang skal du bare hjælpe Mikkel med øvelserne.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C037",
+   "text": "Så jeg skal bare være der?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C038",
+   "text": "Nemlig.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C039",
+   "text": "Må jeg spørge, hvor lang tid det tager?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C040",
+   "text": "Sådan cirka en time og et kvarter om ugen. Og så en kamp en gang imellem.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C041",
+   "text": "Det lyder overskueligt. Men lad mig lige snakke med min kone først.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C042",
+   "text": "Selvfølgelig. Vidste du forresten, at halvdelen af vores trænere startede som forældre?",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Birgitte"
+  },
+  {
+   "id": "U05-C043",
+   "text": "Nå, så er jeg jo nærmest nødt til at sige ja.",
+   "ch": 3,
+   "p": 8,
+   "speaker": "Rasmus"
+  },
+  {
+   "id": "U05-C044",
+   "text": "Folk læser lektier med børn, samler affald på stranden og er besøgsvenner for ældre, der ikke har nogen at tale med.",
+   "ch": 3,
+   "p": 9
+  },
+  {
+   "id": "U05-C045",
+   "text": "I dag er Rasmus cheftræner for holdet, og han har selv spurgt tre andre forældre.",
+   "ch": 3,
+   "p": 9
+  },
+  {
+   "id": "U05-C046",
+   "text": "»Jeg troede, jeg gav noget af min tid væk,« siger han.",
+   "ch": 3,
+   "p": 9
+  },
+  {
+   "id": "U05-C047",
+   "text": "»Det viste sig, at jeg fik et fællesskab tilbage.«",
+   "ch": 3,
+   "p": 9
+  }
+ ]
+}

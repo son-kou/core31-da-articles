@@ -1,0 +1,159 @@
+【Danish CORE · Deep Teacher】U09 Job og karriere · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U09"
+"part": "P02"
+"source_fingerprint": "U09-P02-349b9f11cb71"
+sentences 数组必须恰好包含 13 个对象，ID 依次为：
+U09-C014, U09-C015, U09-C016, U09-C017, U09-C018, U09-C019, U09-C020, U09-C021, U09-C022, U09-C023, U09-C024, U09-C025, U09-C026
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 4 批，讲解 13 句（U09-C014 – U09-C026）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U09 · Job og karriere
+副标题：At søge, skifte og miste arbejde
+主题标签：jobsøgning · ledighed · stress · arbejdskraft
+
+## 第 1 章 · Seks job
+  U09-C001 Sanne er 46 år og har haft seks job, været fyret to gange og sygemeldt én gang.
+  U09-C002 Hun har aldrig været gladere for sit arbejde end nu.
+  U09-C003 Hendes arbejdsliv er ikke typisk, men det rummer næsten alt det, der kan ske på et dansk arbejdsmarked.
+
+## 第 2 章 · Ufaglært og lærling
+  U09-C004 Som 17-årig fyldte Sanne hylder i et supermarked om aftenen, og efter gymnasiet arbejdede hun to år som ufaglært på en fabrik, der lavede vinduer.
+  U09-C005 Det var dér, hun fik lyst til at arbejde med træ.
+  U09-C006 Hun begyndte på en erhvervsuddannelse som tømrer, og så snart hun havde fundet en læreplads, gik det stærkt.
+  U09-C007 I de første uger var hun den eneste kvinde på byggepladsen, og nogle af de ældre svende troede, hun var kommet for at gøre rent i skurvognen.
+  U09-C008 »Jeg fik ikke lov til at bære noget tungt den første måned,« fortæller hun.
+  U09-C009 »Bagefter fik jeg ikke lov til at lade være.«
+  U09-C010 Erhvervsuddannelserne veksler mellem skoleophold og perioder i en virksomhed, og lærlingen får løn, mens hun lærer.
+  U09-C011 Som udlært tømrer var Sanne efterspurgt – indtil finanskrisen ramte byggeriet i 2008, og ordrerne forsvandt næsten fra den ene måned til den anden.
+
+## 第 3 章 · Fyret
+  U09-C012 En fredag i februar 2009 blev hun kaldt ind på kontoret og fik sin fyreseddel sammen med fire kolleger.
+  U09-C013 Mister man sit job, er det en fordel at være medlem af en a-kasse, som er en frivillig forsikring mod arbejdsløshed.
+▶ U09-C014 Det havde Sanne heldigvis været, siden hun blev udlært.
+▶ U09-C015 Som ledig skal man stå til rådighed for arbejdsmarkedet, søge job aktivt og møde op til samtaler i både a-kassen og jobcentret.
+▶ U09-C016 Det lyder enkelt, men det kan være opslidende at sende den ene ansøgning efter den anden uden at få svar.
+▶ U09-C017 »Det værste var ikke pengene,« siger Sanne.
+▶ U09-C018 »Det var at vågne op om morgenen uden at nogen ventede på mig.«
+▶ U09-C019 Efter otte måneder foreslog hendes rådgiver i a-kassen, at hun skulle bruge ledigheden til at uddanne sig videre.
+▶ U09-C020 Hun valgte at læse til bygningskonstruktør, og tre år senere fik hun job på en tegnestue i Aarhus.
+
+## 第 4 章 · Ansøgningen og samtalen
+▶ U09-C021 Den stilling havde hun fundet ved at sende en uopfordret ansøgning.
+▶ U09-C022 En del stillinger bliver besat, uden at de nogensinde er blevet slået op.
+▶ U09-C023 Derfor sender mange en uopfordret ansøgning eller bruger deres netværk, for eksempel tidligere kolleger eller en faglig forening.
+▶ U09-C024 En ansøgning skal være kort og målrettet den konkrete arbejdsplads, og den bør forklare, hvad man kan bidrage med – ikke bare gentage cv'et.
+▶ U09-C025 Man behøver hverken at vedlægge et billede eller oplyse alder og civilstand, og loven forbyder arbejdsgivere at forskelsbehandle på grund af blandt andet alder, religion og etnisk oprindelse.
+▶ U09-C026 Ved samtalen spurgte arbejdsgiveren ind til hullet i hendes cv, og til sidst kom det spørgsmål, mange frygter.
+
+  U09-C027 [对话 · Lederen] Vi spørger altid om det samme til sidst: Hvad er du ikke så god til?
+  U09-C028 [对话 · Sanne] Jeg har svært ved at sige nej til en opgave, hvis jeg kan se, at den skal løses.
+  U09-C029 [对话 · Lederen] Er det et problem?
+  U09-C030 [对话 · Sanne] Det kan det blive. Jeg har engang arbejdet så meget, at jeg til sidst ikke kunne sove. I dag skriver jeg mine opgaver ned, og når listen bliver for lang, beder jeg min chef om at prioritere.
+  U09-C031 [对话 · Lederen] Og det virker?
+  U09-C032 [对话 · Sanne] Ikke altid første gang. Men jeg siger til nu, og det gjorde jeg ikke før.
+  U09-C033 [对话 · Lederen] Tak. Har du nogen spørgsmål til os?
+  U09-C034 [对话 · Sanne] Ja, to. Hvem kommer jeg til at arbejde tættest sammen med? Og hvornår regner I med at have truffet en beslutning?
+
+  U09-C035 Hun undgik det klassiske svar om at være perfektionist, og hun pyntede ikke på noget.
+  U09-C036 Svaret viste, at hun kendte sig selv, og at hun havde gjort noget ved problemet – og det er ofte det, en arbejdsgiver leder efter.
+  U09-C037 Inden de besluttede sig, ringede tegnestuen til to af hendes tidligere chefer, som hun på forhånd havde spurgt, om de ville være referencer.
+
+## 第 5 章 · Sygemeldt
+  U09-C038 Svagheden, hun havde nævnt ved samtalen, indhentede hende alligevel.
+  U09-C039 Efter fem år på tegnestuen havde hun ansvaret for tre byggeprojekter på én gang, og en morgen i marts kunne hun ikke huske koden til sin egen telefon.
+  U09-C040 Lægen sygemeldte hende med stress, og de første uger sov hun det meste af dagen.
+  U09-C041 Arbejdsgiveren skal holde en samtale med en sygemeldt medarbejder senest fire uger efter første sygedag, og formålet er at finde ud af, hvordan og hvornår man kan vende tilbage.
+  U09-C042 For Sanne blev løsningen en delvis raskmelding: først ti timer om ugen, så tyve og efter tre måneder fuld tid.
+  U09-C043 Hun fik færre projekter og en chef, der spurgte ind til hendes arbejdsbyrde hver fredag.
+  U09-C044 Det kræver tålmodighed fra både medarbejderen og arbejdspladsen, og det kræver, at begge parter tør tale åbent om, hvad der gik galt.
+
+## 第 6 章 · Et typisk stillingsopslag
+  U09-C045 Et stillingsopslag følger ofte et fast mønster, og det kan betale sig at læse det grundigt – også det, der står mellem linjerne.
+  U09-C046 [文中引用的书面文本] Vores produkter er kendt for høj kvalitet og lang levetid, og vi oplever en stigende efterspørgsel i både Danmark og Nordtyskland.
+  U09-C047 [文中引用的书面文本] Dine opgaver vil blandt andet være at pleje eksisterende kunder, finde nye og udarbejde tilbud i tæt samarbejde med vores teknikere.
+  U09-C048 [文中引用的书面文本] Vi forventer, at du har erfaring med salg til erhvervskunder, og at du kan kommunikere professionelt på både dansk og engelsk.
+  U09-C049 [文中引用的书面文本] Kendskab til tysk er en fordel, men ikke et krav.
+  U09-C050 [文中引用的书面文本] Vi tilbyder en selvstændig stilling med løbende sparring, relevante kurser og gode muligheder for udvikling, herunder ansvar for dine egne kunder.
+  U09-C051 »Højt til loftet« betyder i et stillingsopslag, at der er plads til forskellige meninger – ikke nødvendigvis, at kontoret har store rum.
+  U09-C052 Og når samtalerne bliver afholdt løbende, kan det godt betale sig ikke at vente til sidste øjeblik.
+
+## 第 7 章 · At sige til
+  U09-C053 For funktionærer vokser arbejdsgiverens opsigelsesvarsel med ancienniteten, fra en måned i starten til seks måneder, mens man selv normalt kan sige op med en måneds varsel.
+  U09-C054 Sanne sagde selv op med en måneds varsel, da hun fik tilbudt jobbet på skolen.
+  U09-C055 I dag underviser Sanne lærlinge på en erhvervsskole.
+  U09-C056 Hver morgen klokken syv står hun i værkstedet med tolv lærlinge.
+  U09-C057 Når de spørger, hvad det vigtigste i faget er, svarer hun hverken præcision eller sikkerhed.
+  U09-C058 »At sige til,« siger hun, »før noget knækker.«
+
+## 七、本批需要讲解的句子（共 13 句）
+U09-C014 ｜ 第 3 章 ｜ Det havde Sanne heldigvis været, siden hun blev udlært.
+U09-C015 ｜ 第 3 章 ｜ Som ledig skal man stå til rådighed for arbejdsmarkedet, søge job aktivt og møde op til samtaler i både a-kassen og jobcentret.
+U09-C016 ｜ 第 3 章 ｜ Det lyder enkelt, men det kan være opslidende at sende den ene ansøgning efter den anden uden at få svar.
+U09-C017 ｜ 第 3 章 ｜ »Det værste var ikke pengene,« siger Sanne.
+U09-C018 ｜ 第 3 章 ｜ »Det var at vågne op om morgenen uden at nogen ventede på mig.«
+U09-C019 ｜ 第 3 章 ｜ Efter otte måneder foreslog hendes rådgiver i a-kassen, at hun skulle bruge ledigheden til at uddanne sig videre.
+U09-C020 ｜ 第 3 章 ｜ Hun valgte at læse til bygningskonstruktør, og tre år senere fik hun job på en tegnestue i Aarhus.
+U09-C021 ｜ 第 4 章 ｜ Den stilling havde hun fundet ved at sende en uopfordret ansøgning.
+U09-C022 ｜ 第 4 章 ｜ En del stillinger bliver besat, uden at de nogensinde er blevet slået op.
+U09-C023 ｜ 第 4 章 ｜ Derfor sender mange en uopfordret ansøgning eller bruger deres netværk, for eksempel tidligere kolleger eller en faglig forening.
+U09-C024 ｜ 第 4 章 ｜ En ansøgning skal være kort og målrettet den konkrete arbejdsplads, og den bør forklare, hvad man kan bidrage med – ikke bare gentage cv'et.
+U09-C025 ｜ 第 4 章 ｜ Man behøver hverken at vedlægge et billede eller oplyse alder og civilstand, og loven forbyder arbejdsgivere at forskelsbehandle på grund af blandt andet alder, religion og etnisk oprindelse.
+U09-C026 ｜ 第 4 章 ｜ Ved samtalen spurgte arbejdsgiveren ind til hullet i hendes cv, og til sidst kom det spørgsmål, mange frygter.
+
+输出前请自检：JSON 能被解析；sentences 共 13 项，第一个是 U09-C014，最后一个是 U09-C026；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

@@ -1,0 +1,167 @@
+【Danish CORE · Deep Teacher】U10 Velfærdsstaten · 整篇
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U10"
+"part": "ALL"
+"source_fingerprint": "U10-ALL-2aa2aebebab4"
+sentences 数组必须恰好包含 40 个对象，ID 依次为：
+U10-C001, U10-C002, U10-C003, U10-C004, U10-C005, U10-C006, U10-C007, U10-C008, U10-C009, U10-C010, U10-C011, U10-C012, U10-C013, U10-C014, U10-C015, U10-C016, U10-C017, U10-C018, U10-C019, U10-C020, U10-C021, U10-C022, U10-C023, U10-C024, U10-C025, U10-C026, U10-C027, U10-C028, U10-C029, U10-C030, U10-C031, U10-C032, U10-C033, U10-C034, U10-C035, U10-C036, U10-C037, U10-C038, U10-C039, U10-C040
+
+## 六、文章（冻结原文，只读）
+本次讲解整篇文章的全部 40 句（U10-C001 – U10-C040）。
+
+# U10 · Velfærdsstaten
+副标题：Hvem betaler, og hvem får?
+主题标签：skat · velfærd · pension · ulighed
+
+## 第 1 章 · Den første lønseddel
+U10-C001 Hvad får man egentlig for sin skat?
+U10-C002 Spørgsmålet melder sig hos de fleste, første gang de ser deres lønseddel.
+U10-C003 Freja er 19 og har lige fået sin første løn fra et lager, hvor hun arbejder, mens hun venter på at komme ind på sygeplejerskeuddannelsen.
+
+U10-C004 [对话 · Freja] Far, hvorfor er der så meget mindre på min konto, end der står i kontrakten?
+U10-C005 [对话 · Far] Det er skatten. Først trækkes et bidrag til arbejdsmarkedet, og så betaler du skat af resten.
+U10-C006 [对话 · Freja] Men jeg har jo ikke bedt om at betale noget.
+U10-C007 [对话 · Far] Nej, det har ingen. Men du har vel også gået gratis i skole i tretten år?
+U10-C008 [对话 · Freja] Det er da ikke det samme.
+U10-C009 [对话 · Far] Nej, men det hænger sammen.
+U10-C010 [对话 · Freja] Jamen, så betaler jeg jo også for folk, der ikke gider arbejde.
+U10-C011 [对话 · Far] En lille del af skatten går til dem. Det meste går til ting, du selv bruger – eller kommer til at bruge.
+U10-C012 [对话 · Freja] Som hvad?
+U10-C013 [对话 · Far] Lægen, vejene, din uddannelse. Og om fyrre år din pension.
+
+## 第 2 章 · Princippet
+U10-C014 Den danske velfærdsstat bygger på et princip om, at en række ydelser er for alle, uanset indkomst.
+U10-C015 Det koster ikke noget at gå til lægen eller at blive opereret, og danske studerende får endda SU, mens de læser.
+U10-C016 Nogle ydelser er dog behovsbestemte: Kontanthjælp får man kun, hvis man ikke selv kan forsørge sig, og både ens egen formue og en eventuel ægtefælles indkomst bliver taget i betragtning.
+U10-C017 Det samme gælder for eksempel boligstøtte, som lejere med lave indkomster kan søge om.
+
+## 第 3 章 · Skat, moms og afgifter
+U10-C018 Det hele bliver betalt over skatten, og Danmarks samlede skattetryk er blandt de højeste i verden.
+U10-C019 Indkomstskatten er den største post, og den stiger for de højeste indkomster.
+U10-C020 Dertil kommer moms på næsten alt, hvad man køber, og afgifter på blandt andet biler, brændstof, energi, alkohol og tobak.
+U10-C021 Skattetrykket er nok højt, men velfærdsstaten har fortsat bred opbakning.
+U10-C022 Hvert forår får man en årsopgørelse fra skattevæsenet, og har man betalt for lidt i løbet af året, skal man betale restskat.
+U10-C023 Det kan derfor betale sig at rette sin forskudsopgørelse, når man skifter job eller får lønforhøjelse.
+U10-C024 Sort arbejde – arbejde, hvor skattepligtig indkomst ikke bliver oplyst til Skattestyrelsen – er ulovligt og kan få konsekvenser for både den, der udfører det, og den, der køber det.
+
+## 第 4 章 · Tre niveauer
+U10-C025 Kommunerne tager sig af skoler, daginstitutioner, hjemmehjælp og jobcentre, regionerne af sygehusene og staten af blandt andet politi, forsvar og universiteter.
+
+## 第 5 章 · En forsikring snarere end en opsparing
+U10-C026 Man kan se velfærdsstaten som en livslang opsparing.
+U10-C027 Som barn får man gratis skole, som ung SU og som gammel pension og pleje, og i årene midt imellem betaler man ind.
+U10-C028 Billedet viser, at de fleste både giver og får, men det halter på to punkter.
+U10-C029 For det første er der ingen personlig konto: De penge, man betaler i dag, går til dem, der har brug for dem i dag.
+U10-C030 For det andet får man ikke nødvendigvis det samme ud, som man har betalt ind.
+U10-C031 Den, der har en høj indkomst og et godt helbred, betaler typisk mere, end hun nogensinde får tilbage, mens den, der bliver syg eller mister sit arbejde, får mere.
+U10-C032 Velfærdsstaten er altså snarere en forsikring end en opsparing – og en omfordeling fra rige til fattige og fra raske til syge.
+
+## 第 6 章 · Flere ældre, færre hænder
+U10-C033 Hele konstruktionen hviler på, at de fleste voksne arbejder og betaler skat.
+U10-C034 Spørgsmålet er ikke kun, om der er penge nok, men også, om der er hænder nok til at passe de ældre.
+U10-C035 Da danskerne lever længere, har Folketinget knyttet folkepensionsalderen til levetiden.
+U10-C036 Reformen er omdiskuteret, fordi ikke alle kan arbejde lige længe, og siden 2022 har personer med et langt arbejdsliv derfor kunnet søge om tidlig pension.
+
+## 第 7 章 · Tre veje
+U10-C037 Der er grundlæggende tre måder at få regnestykket til at gå op på: flere i arbejde, højere skatter eller færre ydelser.
+U10-C038 Færre ydelser kan spare penge, men de kan også undergrave den brede opbakning, som hele modellen hviler på.
+U10-C039 Velfærdsstaten er på sin vis en aftale mellem generationer, som ingen af dem har skrevet under på.
+U10-C040 Den bliver forhandlet igen ved hvert eneste folketingsvalg.
+
+## 七、本批需要讲解的句子（共 40 句）
+U10-C001 ｜ 第 1 章 ｜ Hvad får man egentlig for sin skat?
+U10-C002 ｜ 第 1 章 ｜ Spørgsmålet melder sig hos de fleste, første gang de ser deres lønseddel.
+U10-C003 ｜ 第 1 章 ｜ Freja er 19 og har lige fået sin første løn fra et lager, hvor hun arbejder, mens hun venter på at komme ind på sygeplejerskeuddannelsen.
+U10-C004 ｜ 第 1 章 ｜ [Freja] Far, hvorfor er der så meget mindre på min konto, end der står i kontrakten?
+U10-C005 ｜ 第 1 章 ｜ [Far] Det er skatten. Først trækkes et bidrag til arbejdsmarkedet, og så betaler du skat af resten.
+U10-C006 ｜ 第 1 章 ｜ [Freja] Men jeg har jo ikke bedt om at betale noget.
+U10-C007 ｜ 第 1 章 ｜ [Far] Nej, det har ingen. Men du har vel også gået gratis i skole i tretten år?
+U10-C008 ｜ 第 1 章 ｜ [Freja] Det er da ikke det samme.
+U10-C009 ｜ 第 1 章 ｜ [Far] Nej, men det hænger sammen.
+U10-C010 ｜ 第 1 章 ｜ [Freja] Jamen, så betaler jeg jo også for folk, der ikke gider arbejde.
+U10-C011 ｜ 第 1 章 ｜ [Far] En lille del af skatten går til dem. Det meste går til ting, du selv bruger – eller kommer til at bruge.
+U10-C012 ｜ 第 1 章 ｜ [Freja] Som hvad?
+U10-C013 ｜ 第 1 章 ｜ [Far] Lægen, vejene, din uddannelse. Og om fyrre år din pension.
+U10-C014 ｜ 第 2 章 ｜ Den danske velfærdsstat bygger på et princip om, at en række ydelser er for alle, uanset indkomst.
+U10-C015 ｜ 第 2 章 ｜ Det koster ikke noget at gå til lægen eller at blive opereret, og danske studerende får endda SU, mens de læser.
+U10-C016 ｜ 第 2 章 ｜ Nogle ydelser er dog behovsbestemte: Kontanthjælp får man kun, hvis man ikke selv kan forsørge sig, og både ens egen formue og en eventuel ægtefælles indkomst bliver taget i betragtning.
+U10-C017 ｜ 第 2 章 ｜ Det samme gælder for eksempel boligstøtte, som lejere med lave indkomster kan søge om.
+U10-C018 ｜ 第 3 章 ｜ Det hele bliver betalt over skatten, og Danmarks samlede skattetryk er blandt de højeste i verden.
+U10-C019 ｜ 第 3 章 ｜ Indkomstskatten er den største post, og den stiger for de højeste indkomster.
+U10-C020 ｜ 第 3 章 ｜ Dertil kommer moms på næsten alt, hvad man køber, og afgifter på blandt andet biler, brændstof, energi, alkohol og tobak.
+U10-C021 ｜ 第 3 章 ｜ Skattetrykket er nok højt, men velfærdsstaten har fortsat bred opbakning.
+U10-C022 ｜ 第 3 章 ｜ Hvert forår får man en årsopgørelse fra skattevæsenet, og har man betalt for lidt i løbet af året, skal man betale restskat.
+U10-C023 ｜ 第 3 章 ｜ Det kan derfor betale sig at rette sin forskudsopgørelse, når man skifter job eller får lønforhøjelse.
+U10-C024 ｜ 第 3 章 ｜ Sort arbejde – arbejde, hvor skattepligtig indkomst ikke bliver oplyst til Skattestyrelsen – er ulovligt og kan få konsekvenser for både den, der udfører det, og den, der køber det.
+U10-C025 ｜ 第 4 章 ｜ Kommunerne tager sig af skoler, daginstitutioner, hjemmehjælp og jobcentre, regionerne af sygehusene og staten af blandt andet politi, forsvar og universiteter.
+U10-C026 ｜ 第 5 章 ｜ Man kan se velfærdsstaten som en livslang opsparing.
+U10-C027 ｜ 第 5 章 ｜ Som barn får man gratis skole, som ung SU og som gammel pension og pleje, og i årene midt imellem betaler man ind.
+U10-C028 ｜ 第 5 章 ｜ Billedet viser, at de fleste både giver og får, men det halter på to punkter.
+U10-C029 ｜ 第 5 章 ｜ For det første er der ingen personlig konto: De penge, man betaler i dag, går til dem, der har brug for dem i dag.
+U10-C030 ｜ 第 5 章 ｜ For det andet får man ikke nødvendigvis det samme ud, som man har betalt ind.
+U10-C031 ｜ 第 5 章 ｜ Den, der har en høj indkomst og et godt helbred, betaler typisk mere, end hun nogensinde får tilbage, mens den, der bliver syg eller mister sit arbejde, får mere.
+U10-C032 ｜ 第 5 章 ｜ Velfærdsstaten er altså snarere en forsikring end en opsparing – og en omfordeling fra rige til fattige og fra raske til syge.
+U10-C033 ｜ 第 6 章 ｜ Hele konstruktionen hviler på, at de fleste voksne arbejder og betaler skat.
+U10-C034 ｜ 第 6 章 ｜ Spørgsmålet er ikke kun, om der er penge nok, men også, om der er hænder nok til at passe de ældre.
+U10-C035 ｜ 第 6 章 ｜ Da danskerne lever længere, har Folketinget knyttet folkepensionsalderen til levetiden.
+U10-C036 ｜ 第 6 章 ｜ Reformen er omdiskuteret, fordi ikke alle kan arbejde lige længe, og siden 2022 har personer med et langt arbejdsliv derfor kunnet søge om tidlig pension.
+U10-C037 ｜ 第 7 章 ｜ Der er grundlæggende tre måder at få regnestykket til at gå op på: flere i arbejde, højere skatter eller færre ydelser.
+U10-C038 ｜ 第 7 章 ｜ Færre ydelser kan spare penge, men de kan også undergrave den brede opbakning, som hele modellen hviler på.
+U10-C039 ｜ 第 7 章 ｜ Velfærdsstaten er på sin vis en aftale mellem generationer, som ingen af dem har skrevet under på.
+U10-C040 ｜ 第 7 章 ｜ Den bliver forhandlet igen ved hvert eneste folketingsvalg.
+
+输出前请自检：JSON 能被解析；sentences 共 40 项，第一个是 U10-C001，最后一个是 U10-C040；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

@@ -1,0 +1,355 @@
+{
+ "schema": 1,
+ "unit": "U19",
+ "title": "Værdier og tro",
+ "subtitle": "Frihed, lighed, humor og religion",
+ "labels": [
+  "janteloven",
+  "humor",
+  "folkekirken",
+  "ligestilling"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U19",
+  "tier: CORE",
+  "title: Værdier og tro",
+  "subtitle: Frihed, lighed, humor og religion",
+  "labels: janteloven · humor · folkekirken · ligestilling",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Det ku' være værre"
+  },
+  {
+   "title": "Du skal ikke tro, at du er noget"
+  },
+  {
+   "title": "Drilleri og selvironi"
+  },
+  {
+   "title": "Frisind"
+  },
+  {
+   "title": "Kirken og troen"
+  },
+  {
+   "title": "Hos præsten"
+  },
+  {
+   "title": "Lige muligheder"
+  },
+  {
+   "title": "Tolerance"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U19-C001",
+   "text": "Søren er 82 og har boet hele sit liv på en gård ved Ringkøbing.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U19-C002",
+   "text": "Hans barnebarn har inviteret ham på restaurant i København for at fejre hans fødselsdag, og tjeneren har netop serveret en lille, kunstfærdig ret med hummer.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U19-C003",
+   "text": "Nå, morfar? Hvad synes du?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Barnebarnet"
+  },
+  {
+   "id": "U19-C004",
+   "text": "Det ku' være værre.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Søren"
+  },
+  {
+   "id": "U19-C005",
+   "text": "Kan du ikke lide det?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Barnebarnet"
+  },
+  {
+   "id": "U19-C006",
+   "text": "Jo da. Det er det bedste, jeg har fået i år.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Søren"
+  },
+  {
+   "id": "U19-C007",
+   "text": "Hvorfor siger du det så ikke?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Barnebarnet"
+  },
+  {
+   "id": "U19-C008",
+   "text": "Det gjorde jeg da lige. … Men det var dog en lille portion.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Søren"
+  },
+  {
+   "id": "U19-C009",
+   "text": "I Vestjylland er »det ku' være værre« ikke en klage, men en af de højeste former for ros.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U19-C010",
+   "text": "Udtrykket er et skoleeksempel på dansk underdrivelse: Man siger mindre, end man mener, og regner med, at den anden forstår resten.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U19-C011",
+   "text": "Men underdrivelsen har en logik: Den, der roser for meget, risikerer at virke falsk, og den, der klager for meget, virker utaknemmelig.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U19-C012",
+   "text": "Et andet begreb, som ofte bliver brugt til at forklare dansk kultur, er janteloven.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U19-C013",
+   "text": "Den stammer fra Aksel Sandemoses roman »En flygtning krydser sit spor« fra 1933, der foregår i den fiktive by Jante.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U19-C014",
+   "text": "Lovens første bud lyder: »Du skal ikke tro, at du er noget.«",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U19-C015",
+   "text": "Men romanen var en satire over et lille provinssamfund, så den kan ikke uden videre bruges som beskrivelse af danskerne i almindelighed.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U19-C016",
+   "text": "Dansk humor er ofte tør og indirekte.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U19-C017",
+   "text": "Man gør gerne grin med sig selv, med vejret og med autoriteter, og det er sjældent et godt tegn, hvis ingen driller én på en arbejdsplads.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U19-C018",
+   "text": "Drilleri kan nemlig være en måde at vise, at man hører til, men grænsen kan være svær at se for den, der er ny.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U19-C019",
+   "text": "Er man i tvivl, er det derfor helt i orden at spørge, hvad de mente.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U19-C020",
+   "text": "Flot slips. Skal du til begravelse?",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Kollegaen"
+  },
+  {
+   "id": "U19-C021",
+   "text": "Nej, til et møde med ledelsen. Er det for meget?",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Amir"
+  },
+  {
+   "id": "U19-C022",
+   "text": "Slet ikke. Jeg driller bare. Det klæder dig faktisk.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Kollegaen"
+  },
+  {
+   "id": "U19-C023",
+   "text": "Godt. Jeg var lige ved at tage det af.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Amir"
+  },
+  {
+   "id": "U19-C024",
+   "text": "Det må du vist ikke. Så tror chefen, at du har opgivet.",
+   "ch": 2,
+   "p": 5,
+   "speaker": "Kollegaen"
+  },
+  {
+   "id": "U19-C025",
+   "text": "Et andet ord, som danskere ofte bruger om sig selv, er frisind.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U19-C026",
+   "text": "Det betegner en åben og tolerant holdning til, hvordan andre vælger at leve deres liv, så længe de ikke skader nogen.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U19-C027",
+   "text": "Frisindet har dog sine grænser og sine modsætninger: Den samme befolkning, der går ind for personlig frihed, kan være skeptisk over for skikke, der bryder med flertallets normer.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U19-C028",
+   "text": "Danmark har en folkekirke, som ifølge grundloven er evangelisk-luthersk og understøttes af staten.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U19-C029",
+   "text": "Flertallet af danskerne er medlem, og medlemmerne betaler kirkeskat sammen med deres øvrige skat, men andelen er faldet støt gennem de seneste årtier.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U19-C030",
+   "text": "Nogle kalder det kulturkristendom: Man tror måske ikke på alt det, præsten siger, men kirken hører med til livets store overgange.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U19-C031",
+   "text": "Islam er i dag landets næststørste religion, og i de større byer er der moskeer, hvor menigheden samles til fredagsbøn.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U19-C032",
+   "text": "Religionsfrihed betyder ikke, at man skal dele andres tro, men at staten ikke må blande sig i, hvad man tror – så længe man overholder landets love.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U19-C033",
+   "text": "Da Bents far døde, ringede han til sognepræsten, og to dage senere sad de i præstegårdens stue.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U19-C034",
+   "text": "Fortæl mig lidt om din far. Hvad var han for et menneske?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Præsten"
+  },
+  {
+   "id": "U19-C035",
+   "text": "Han var smed. Stille, men han kunne lave alt med sine hænder. Han gik aldrig i kirke, undtagen juleaften.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U19-C036",
+   "text": "Sådan var det for mange af hans generation.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Præsten"
+  },
+  {
+   "id": "U19-C037",
+   "text": "Han ønskede at blive bisat, ikke begravet. Urnen skal ned ved siden af min mor.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U19-C038",
+   "text": "Den synger vi. Vil du selv sige nogle ord?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Præsten"
+  },
+  {
+   "id": "U19-C039",
+   "text": "Jeg ved ikke, om jeg kan holde det ud.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Bent"
+  },
+  {
+   "id": "U19-C040",
+   "text": "Du kan skrive dem ned, så læser jeg dem op, hvis det bliver for svært.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Præsten"
+  },
+  {
+   "id": "U19-C041",
+   "text": "I dag bliver langt de fleste bisat, det vil sige brændt.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U19-C042",
+   "text": "Ligestilling mellem kønnene er en af de værdier, som mange danskere nævner først, når de skal beskrive deres samfund.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U19-C043",
+   "text": "Alligevel er der stadig forskelle: Langt de fleste topledere i erhvervslivet er mænd, og kvinder tager stadig en større del af det ulønnede arbejde i hjemmet.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U19-C044",
+   "text": "Ligestillingen er langt hen ad vejen nået i loven, men ikke altid i praksis.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U19-C045",
+   "text": "Diskussionen handler i dag om, hvorvidt forskellene skyldes frie valg, gamle normer eller begge dele.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U19-C046",
+   "text": "Tolerance er ikke det samme som at være enig.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U19-C047",
+   "text": "Det betyder netop, at man accepterer, at andre har ret til at mene, tro og leve på måder, man ikke selv bryder sig om.",
+   "ch": 7,
+   "p": 10
+  },
+  {
+   "id": "U19-C048",
+   "text": "Det kræver mest, når det gælder de holdninger, man synes dårligst om.",
+   "ch": 7,
+   "p": 10
+  }
+ ]
+}

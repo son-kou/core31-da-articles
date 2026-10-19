@@ -1,0 +1,631 @@
+{
+ "schema": 1,
+ "unit": "U01",
+ "title": "Familieliv og hverdagens logistik",
+ "subtitle": "En helt almindelig tirsdag i en dansk børnefamilie",
+ "labels": [
+  "familie",
+  "børnepasning",
+  "orlov",
+  "tidsklemme"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U01",
+  "tier: CORE",
+  "title: Familieliv og hverdagens logistik",
+  "subtitle: En helt almindelig tirsdag i en dansk børnefamilie",
+  "labels: familie · børnepasning · orlov · tidsklemme",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Tirsdag, kvart i syv"
+  },
+  {
+   "title": "Familier i mange udgaver"
+  },
+  {
+   "title": "Institutionerne sætter takten"
+  },
+  {
+   "title": "Ugerne, der ikke kan overdrages"
+  },
+  {
+   "title": "Eftermiddag: hente, handle, lave mad"
+  },
+  {
+   "title": "Tidsklemmen"
+  },
+  {
+   "title": "Godnat"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U01-C001",
+   "text": "Vækkeuret ringer kvart i syv, og i samme øjeblik kravler toårige Emil op i dobbeltsengen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U01-C002",
+   "text": "Maja når lige at tænke, at hun burde være stået op for en halv time siden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U01-C003",
+   "text": "Jonas smører madpakker i køkkenet, mens radioen kører i baggrunden, og syvårige Ida leder efter sin anden sko.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U01-C004",
+   "text": "Ida, har du fundet din sko?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C005",
+   "text": "Nej!",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C006",
+   "text": "Har du kigget under sofaen?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C007",
+   "text": "Det har jeg! … Nå nej, der er den.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C008",
+   "text": "Husk regntøjet. Det skal regne i eftermiddag.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C009",
+   "text": "Må jeg ikke nok lade være? Det klør.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C010",
+   "text": "Du sagde jo selv i går, at du ville lege ude.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C011",
+   "text": "Okay da.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C012",
+   "text": "Nu skal jeg løbe. Jeg har vagt i morgen tidlig, så det er dig, der afleverer, ikke?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C013",
+   "text": "Jo, jo. Smut du bare, ellers når du ikke toget.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C014",
+   "text": "Klokken halv otte cykler Maja af sted med Emil i ladcyklen og Ida på sin egen cykel ved siden af.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C015",
+   "text": "Ved skolen er Ida løbet over til sine veninder, før Maja har nået at sige »hav en god dag«.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C016",
+   "text": "Afleveringen i vuggestuen tager sjældent mere end fem minutter, men den har sin egen lille ceremoni.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C017",
+   "text": "Skoene skal af, skiftetøjet skal i kurven, og pædagogen skal have at vide, at Emil har sovet dårligt i nat.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C018",
+   "text": "Først da kan Maja cykle videre til stationen.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C019",
+   "text": "Toget bliver forsinket ved Valby, og hun skriver til sin kollega: »Toget holder stille. Start bare mødet uden mig.«",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U01-C020",
+   "text": "Maja og Jonas er ikke gift.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C021",
+   "text": "De har været kærester i ni år og har to børn og et fælles lån i huset, men det er aldrig blevet til et bryllup.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C022",
+   "text": "Det er der ikke noget usædvanligt i.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C023",
+   "text": "Omkring halvdelen af alle børn i Danmark har forældre, der ikke er gift med hinanden, når de bliver født.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C024",
+   "text": "Den klassiske kernefamilie med far, mor og børn under samme tag findes stadig, men den er langt fra den eneste model.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C025",
+   "text": "Jonas har en søn fra et tidligere forhold, trettenårige Oliver, som bor hos dem hver anden uge.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C026",
+   "text": "Maja er Olivers bonusmor.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C027",
+   "text": "For Ida og Emil er Oliver bare deres storebror – at han kun er halvbror, er der ingen, der tænker på.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C028",
+   "text": "I Idas klasse er der børn med to mødre, børn med en enlig far og børn, der holder jul på skift hos fire sæt bedsteforældre.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C029",
+   "text": "Det afgørende er ikke længere, hvad der står på papiret, men hvem der er der for hinanden i hverdagen.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U01-C030",
+   "text": "For børnefamilier er det i høj grad institutionernes åbningstider, der bestemmer dagens rytme.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C031",
+   "text": "De mindste passes enten i en vuggestue eller hos en dagplejer, der tager sig af en lille flok børn i sit eget hjem.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C032",
+   "text": "Omkring treårsalderen skifter de til børnehave, og når de begynder i skole, går de i skolefritidsordning – SFO – om eftermiddagen.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C033",
+   "text": "Overgangene betyder mere, end man skulle tro.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C034",
+   "text": "Ved hvert skift skal barnet lære nye voksne at kende, og forældrene skal sætte sig ind i en ny kultur med egne regler.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C035",
+   "text": "Derfor begynder det hele med en indkøring, hvor en af forældrene er med de første dage.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U01-C036",
+   "text": "Da Emil blev født, holdt både Maja og Jonas orlov i flere måneder.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C037",
+   "text": "De første uger kom sundhedsplejersken på besøg, vejede den nyfødte og svarede på alle de spørgsmål, de nybagte forældre havde samlet sammen siden sidst.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C038",
+   "text": "Barselsreglerne fordeler ugerne med barselsdagpenge mellem forældrene, og for lønmodtagere er en del af dem øremærket, så de ikke kan overdrages til den anden forælder.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C039",
+   "text": "Formålet var at få flere fædre til at holde orlov, og det ser ud til at virke.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C040",
+   "text": "Jonas var i begyndelsen skeptisk.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C041",
+   "text": "Han var bange for, hvad det ville betyde for karrieren, og han kunne ikke huske, at hans egen far nogensinde havde skiftet en ble.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C042",
+   "text": "Fire måneder alene hjemme med en baby ændrede hans syn på sagen.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C043",
+   "text": "»Det var først der, jeg forstod, hvor meget arbejde der ligger i en helt almindelig tirsdag,« siger han i dag.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U01-C044",
+   "text": "Inde i vuggestuens garderobe står Maja med Emils våde flyverdragt i den ene hånd og telefonen i den anden.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U01-C045",
+   "text": "Ida er hjemme hos en veninde efter skole, og Maja ringer for at høre, hvordan det går.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U01-C046",
+   "text": "Hej skat. Du er vel stadig hjemme hos Freja?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C047",
+   "text": "Ja. Må jeg blive til aftensmad?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C048",
+   "text": "Ikke i dag. Jeg kommer forbi om et kvarter.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C049",
+   "text": "Øv. Må Freja så komme hjem til os på torsdag?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C050",
+   "text": "Hvis det er i orden med hendes forældre, så må hun gerne.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C051",
+   "text": "Det er det. Hendes mor står lige her og nikker.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C052",
+   "text": "Da de kommer hjem, er Jonas lige kommet ind ad døren.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U01-C053",
+   "text": "Nu begynder den del af dagen, der fylder mest og huskes mindst: aftensmad, opvask, vasketøj og lektier.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U01-C054",
+   "text": "Jonas laver mad om tirsdagen, Maja om torsdagen, og resten af ugen skiftes de efter behov.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U01-C055",
+   "text": "Arbejdet i hjemmet er gennem de sidste årtier blevet mere ligeligt fordelt, men kvinder bruger stadig i gennemsnit mere tid på husarbejde end mænd.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U01-C056",
+   "text": "Og selv i par, der deler opvasken, kan det usynlige planlægningsarbejde være skævt fordelt: Nogen skal huske tandlægetider, fødselsdagsgaver og den røde sut til vuggestuen.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U01-C057",
+   "text": "Har du ikke fået noget frugt i dag, Emil?",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C058",
+   "text": "Jo! Banan.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U01-C059",
+   "text": "Ida, har du husket at læse i din bog?",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C060",
+   "text": "Det har jeg allerede gjort!",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C061",
+   "text": "Det er da dejligt.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C062",
+   "text": "Det er mormor, der henter i morgen, ikke?",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C063",
+   "text": "Jo. Onsdag er hendes faste dag.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C064",
+   "text": "Fedt! Så får vi pandekager.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C065",
+   "text": "En almindelig fuldtidsstilling i Danmark er på 37 timer om ugen.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C066",
+   "text": "Når begge arbejder fuld tid, og vuggestuen lukker klokken fem, er der ikke meget luft i kalenderen.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C067",
+   "text": "I den offentlige debat kaldes det tidsklemmen: følelsen af, at der aldrig er tid nok til arbejde, børn, parforhold og søvn på én gang.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C068",
+   "text": "Nogle familier løser det ved, at den ene går ned i tid.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C069",
+   "text": "Andre får hjælp af bedsteforældrene.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C070",
+   "text": "Majas mor, der er gået på pension, henter hver onsdag, og selv en enkelt eftermiddag om ugen gør en stor forskel.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C071",
+   "text": "Efterhånden som børnene bliver større, ændrer logistikken karakter: Så er det fodboldtræning, spejder og legeaftaler, der skal passes ind.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U01-C072",
+   "text": "Ida vil have en historie til, selvom hun egentlig er for stor til at blive læst højt for.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U01-C073",
+   "text": "Bare ét kapitel mere?",
+   "ch": 6,
+   "p": 12,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C074",
+   "text": "Okay. Men så er det også godnat.",
+   "ch": 6,
+   "p": 12,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C075",
+   "text": "Mor? Hvad var det bedste ved i dag?",
+   "ch": 6,
+   "p": 12,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U01-C076",
+   "text": "Det her, tror jeg.",
+   "ch": 6,
+   "p": 12,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C077",
+   "text": "Bagefter sidder Maja og Jonas i sofaen med hver sin computer og hver sin halvdrukne kop te.",
+   "ch": 6,
+   "p": 13
+  },
+  {
+   "id": "U01-C078",
+   "text": "Har du svaret min søster på det med sommerhuset?",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C079",
+   "text": "Nej, det haster ikke. Det er først i juli.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C080",
+   "text": "Jo, lidt. Hun skal vide det senest på fredag.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C081",
+   "text": "Nå. Så skriver jeg til hende i morgen. Det var den første uge i juli, vi sagde, ikke?",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C082",
+   "text": "Jo. Det kommer an på, om jeg kan få fri.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C083",
+   "text": "Det kan du da sagtens. Du har jo masser af feriedage tilbage.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C084",
+   "text": "Og så er der skolekomedien på torsdag.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C085",
+   "text": "Den tager jeg. Jeg kan godt gå tidligt fra arbejde.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C086",
+   "text": "Og husk, at vi skal til fødselsdag hos min bror i weekenden.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C087",
+   "text": "Øh, var det ikke næste weekend?",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U01-C088",
+   "text": "Nej, det er på lørdag.",
+   "ch": 6,
+   "p": 14,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U01-C089",
+   "text": "Alligevel er det i de små aftaler, at et familieliv bliver til.",
+   "ch": 6,
+   "p": 15
+  },
+  {
+   "id": "U01-C090",
+   "text": "Børn husker sjældent, om madpakken var økologisk, eller om gulvet var støvsuget.",
+   "ch": 6,
+   "p": 15
+  },
+  {
+   "id": "U01-C091",
+   "text": "De husker, om der var en voksen, der havde tid til at lytte.",
+   "ch": 6,
+   "p": 15
+  }
+ ]
+}

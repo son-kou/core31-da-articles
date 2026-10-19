@@ -1,0 +1,423 @@
+{
+ "schema": 1,
+ "unit": "U06",
+ "title": "Samarbejde på arbejdspladsen",
+ "subtitle": "Kultur, møder og ledelse",
+ "labels": [
+  "møder",
+  "beslutninger",
+  "ledelse",
+  "arbejdsmiljø"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U06",
+  "tier: CORE",
+  "title: Samarbejde på arbejdspladsen",
+  "subtitle: Kultur, møder og ledelse",
+  "labels: møder · beslutninger · ledelse · arbejdsmiljø",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Punkt 3"
+  },
+  {
+   "title": "Enig – eller i stand til at leve med det"
+  },
+  {
+   "title": "De første uger"
+  },
+  {
+   "title": "De uskrevne regler"
+  },
+  {
+   "title": "Ledelse og feedback"
+  },
+  {
+   "title": "Stress"
+  },
+  {
+   "title": "Hvad gør en arbejdsplads attraktiv?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U06-C001",
+   "text": "»Dagsorden: 1. Godkendelse af referat. 2. Status på kundeprojektet. 3. Forslag til ny ordning for hjemmearbejde. 4. Eventuelt.«",
+   "ch": 0,
+   "p": 0,
+   "doc": true
+  },
+  {
+   "id": "U06-C002",
+   "text": "Sådan lyder mødeindkaldelsen, som de otte medarbejdere i en kommunal it-afdeling i Odense fik tre dage før mødet.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U06-C003",
+   "text": "Tanken er, at alle kan forberede sig, så mødet kan bruges til at diskutere i stedet for blot at orientere hinanden.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U06-C004",
+   "text": "Punktet »eventuelt« står der altid, og det er her, man kan tage det op, som ikke passer ind andre steder.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U06-C005",
+   "text": "Klokken er ni, og deltagerne i mødet sidder med kaffe og bærbare computere omkring et ovalt bord.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U06-C006",
+   "text": "Tillykke med fødselsdagen, Pernille!",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Aisha"
+  },
+  {
+   "id": "U06-C007",
+   "text": "Tak! Der er kage i køkkenet bagefter.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Pernille"
+  },
+  {
+   "id": "U06-C008",
+   "text": "Skal vi gå i gang? Så er vi nået til punkt tre. Forslaget er, at vi alle sammen er på kontoret tirsdag, onsdag og torsdag, og at man selv bestemmer resten af ugen.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Henrik"
+  },
+  {
+   "id": "U06-C009",
+   "text": "Må jeg sige noget?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U06-C010",
+   "text": "Selvfølgelig.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Henrik"
+  },
+  {
+   "id": "U06-C011",
+   "text": "Jeg forstår godt tanken, men jeg bor halvanden time væk. Tre dage er mange for mig.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U06-C012",
+   "text": "Kan vi ikke gøre det til to faste dage i stedet? For eksempel tirsdag og torsdag.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Aisha"
+  },
+  {
+   "id": "U06-C013",
+   "text": "Det har jeg det fint med. Det vigtigste er, at vi faktisk ses.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Pernille"
+  },
+  {
+   "id": "U06-C014",
+   "text": "Jens, hvad siger du til to dage?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Henrik"
+  },
+  {
+   "id": "U06-C015",
+   "text": "Det kan jeg godt leve med.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U06-C016",
+   "text": "Er der nogen, der er imod? … Godt. Så prøver vi med tirsdag og torsdag frem til sommerferien og evaluerer bagefter.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Henrik"
+  },
+  {
+   "id": "U06-C017",
+   "text": "Skal jeg give dig besked, hver gang jeg arbejder hjemme?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jens"
+  },
+  {
+   "id": "U06-C018",
+   "text": "Gør endelig ikke det. Men sig endelig til, hvis to dage også bliver for meget.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Henrik"
+  },
+  {
+   "id": "U06-C019",
+   "text": "Hvem skriver referat?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Aisha"
+  },
+  {
+   "id": "U06-C020",
+   "text": "Det gør jeg. Jeg sender det rundt i eftermiddag.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Pernille"
+  },
+  {
+   "id": "U06-C021",
+   "text": "Jens var ikke enig i forslaget, men han kunne leve med beslutningen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U06-C022",
+   "text": "At kunne leve med en beslutning betyder, at man har fået sagt sit og er blevet hørt.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U06-C023",
+   "text": "Så er man parat til at bakke op – også selvom man selv ville have valgt anderledes.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U06-C024",
+   "text": "Det, der kan virke langsommeligt, er ofte bevidst: Folk, der har været med til at forme en beslutning, er mere tilbøjelige til at bakke op om den.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U06-C025",
+   "text": "Konsensus kræver altså ikke, at alle er enige, og når de ikke kan blive det, er det lederen, der afgør sagen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U06-C026",
+   "text": "Om eftermiddagen ligger referatet i alles indbakke.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U06-C027",
+   "text": "»Punkt 3: Fra uge 12 er alle på kontoret tirsdag og torsdag. Ordningen evalueres på mødet i juni. Pernille undersøger, om der kan bookes flere mødelokaler, og vender tilbage senest fredag.«",
+   "ch": 1,
+   "p": 3,
+   "doc": true
+  },
+  {
+   "id": "U06-C028",
+   "text": "Et godt referat fastholder, hvad der blev besluttet, hvem der skal gøre hvad, og hvornår det skal være gjort – det gengiver ikke hele diskussionen.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U06-C029",
+   "text": "Aisha begyndte i afdelingen for tre måneder siden.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C030",
+   "text": "Den første dag fik hun en bærbar computer, et adgangskort og et skrivebord, hvor hendes forgænger havde efterladt en halvvissen plante og en stak gamle mødereferater.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C031",
+   "text": "Hun blev præsenteret for alle i afdelingen, og Pernille blev udpeget som hendes makker de første måneder.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C032",
+   "text": "Det er den, man kan gå til med alle de spørgsmål, der føles for små til at stille chefen.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C033",
+   "text": "Den første uge spurgte Pernille hver morgen: »Hvad kan jeg hjælpe med i dag?«",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C034",
+   "text": "Efter en måned holdt hun op med at spørge, fordi det nu var Aisha, der hjalp hende.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U06-C035",
+   "text": "På de fleste danske arbejdspladser siger man du til alle, også til chefen, og man bruger fornavne.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C036",
+   "text": "Tonen er uformel, men det betyder ikke, at der ingen regler er – mange af dem er bare uskrevne.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C037",
+   "text": "Møder begynder til tiden, og den, der kommer for sent, undskylder kort og sætter sig uden at gøre et stort nummer ud af det.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C038",
+   "text": "Mange steder bliver det heller ikke betragtet som en dyd at blive på kontoret til langt ud på aftenen.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C039",
+   "text": "Det kan lige så godt blive tolket som et tegn på dårlig planlægning.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C040",
+   "text": "Frokosten bliver tit spist sammen ved halv tolv-tiden, og mange arbejdspladser har en frokostordning.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C041",
+   "text": "Og er man i tvivl om noget, gælder det gamle råd: hellere spørge én gang for meget end én gang for lidt.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U06-C042",
+   "text": "Henrik er chef for afdelingen, men han bruger det meste af sin tid på at fordele opgaver, fjerne forhindringer og spørge medarbejderne til råds.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C043",
+   "text": "Aisha, der kom fra en virksomhed i Frankrig, blev overrasket over, at hun allerede efter sit første møde blev bedt om at sige sin mening.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C044",
+   "text": "Lederen er dog ikke overflødig: Nogen skal prioritere, træffe de svære beslutninger og tage ansvaret, når det går galt.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C045",
+   "text": "At være uenig med sin chef bliver sjældent opfattet som illoyalt, så længe man siger det til chefen selv og ikke kun til kollegerne ved kaffemaskinen.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C046",
+   "text": "Feedback bliver ofte givet ret direkte, men i et roligt toneleje, og den handler helst om opgaven frem for om personen.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C047",
+   "text": "Mange arbejdspladser holder desuden en årlig medarbejderudviklingssamtale – i daglig tale en MUS-samtale – hvor medarbejder og leder taler om opgaver, trivsel og udvikling.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C048",
+   "text": "Den fungerer bedst, når begge parter har forberedt sig, og når de aftaler, der bliver lavet, faktisk bliver fulgt op.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U06-C049",
+   "text": "Stress, mobning og et urimeligt højt arbejdspres falder ind under det psykiske arbejdsmiljø, og det er arbejdsgiverens ansvar at forebygge dem.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U06-C050",
+   "text": "Langvarig stress kan have store konsekvenser og hænger blandt andet sammen med mere sygefravær.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U06-C051",
+   "text": "Under pres kan selv dygtige medarbejdere begynde at sove dårligt, glemme aftaler og fare op over småting.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U06-C052",
+   "text": "En god leder er på vagt over for den slags tegn, men ansvaret kan ikke ligge hos lederen alene.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U06-C053",
+   "text": "Jo tidligere man siger fra, desto lettere er det at gøre noget ved det – for eksempel ved at prioritere opgaverne om eller udskyde en deadline.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U06-C054",
+   "text": "For mange betyder gode kolleger, meningsfulde opgaver og frihed til selv at tilrettelægge arbejdet mindst lige så meget som lønnen.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U06-C055",
+   "text": "Nu hvor flere arbejder hjemme en del af ugen, er det blevet vigtigere at finde ud af, hvad kontoret egentlig skal kunne.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U06-C056",
+   "text": "Onlinemøderne har også fået deres egne regler: Man slår mikrofonen fra, når man ikke taler, og har helst kameraet tændt, så de andre kan se, om man er med.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U06-C057",
+   "text": "Og er man nødt til at gå tidligere, er det god stil at sige det i stedet for bare at forsvinde fra skærmen.",
+   "ch": 6,
+   "p": 8
+  },
+  {
+   "id": "U06-C058",
+   "text": "I juni ligger der et nyt referat i indbakken: »Punkt 2: Ordningen med to faste kontordage fortsætter. Der var enighed.«",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U06-C059",
+   "text": "Denne gang kunne Jens ikke bare leve med beslutningen.",
+   "ch": 6,
+   "p": 9
+  },
+  {
+   "id": "U06-C060",
+   "text": "Han var enig.",
+   "ch": 6,
+   "p": 9
+  }
+ ]
+}

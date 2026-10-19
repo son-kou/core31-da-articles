@@ -1,0 +1,143 @@
+【Danish CORE · Deep Teacher】U12 Sundhed, livsstil og risiko · P02
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U12"
+"part": "P02"
+"source_fingerprint": "U12-P02-31c2a2186020"
+sentences 数组必须恰好包含 14 个对象，ID 依次为：
+U12-C014, U12-C015, U12-C016, U12-C017, U12-C018, U12-C019, U12-C020, U12-C021, U12-C022, U12-C023, U12-C024, U12-C025, U12-C026, U12-C027
+
+## 六、文章（冻结原文，只读）
+本次是第 2 / 3 批，讲解 14 句（U12-C014 – U12-C027）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U12 · Sundhed, livsstil og risiko
+副标题：Hvor meget kan vi selv gøre – og hvordan læser vi tallene?
+主题标签：livsstil · vaner · risiko · forebyggelse
+
+## 第 1 章 · »Pølser giver kræft«
+  U12-C001 Da WHO's kræftforskningsagentur i 2015 erklærede forarbejdet kød for kræftfremkaldende, var overskrifterne dramatiske.
+  U12-C002 Budskabet var, at 50 gram forarbejdet kød om dagen øger risikoen for tarmkræft med 18 procent, hvilket lyder alarmerende.
+  U12-C003 Men de 18 procent er en relativ stigning.
+  U12-C004 Regnet om til livstidsrisiko svarer det ifølge en australsk beregning til en stigning fra knap 8 til godt 9 ud af 100 mennesker.
+  U12-C005 Det er ikke ligegyldigt, men det er noget helt andet end det, mange læste ud af overskriften.
+  U12-C006 Relative tal er ikke forkerte, men de siger intet om, hvor stor risikoen var i forvejen.
+  U12-C007 En halveret risiko kan betyde, at to ud af en million bliver syge i stedet for fire – eller 20 ud af 100 i stedet for 40.
+  U12-C008 Den enkleste regel, når en overskrift nævner en øget risiko, er derfor at spørge: fra hvor mange til hvor mange ud af 100?
+  U12-C009 Først når man kender begge tal, kan man vurdere, om der er grund til bekymring.
+
+## 第 2 章 · KRAM
+  U12-C010 Sundhedsmyndighederne samler de vigtigste livsstilsfaktorer i forkortelsen KRAM: kost, rygning, alkohol og motion.
+  U12-C011 Rygning er den enkeltfaktor, der koster flest leveår, og der findes ingen nedre grænse, hvor tobak er ufarlig.
+  U12-C012 Om motion lyder rådet, at voksne bør være fysisk aktive mindst en halv time om dagen – en rask gåtur eller cykelturen til arbejde tæller også.
+  U12-C013 Regelmæssig, moderat motion kan forlænge livet, forbedre søvnen og mindske risikoen for en lang række kroniske sygdomme.
+▶ U12-C014 Siden 2022 har Sundhedsstyrelsen anbefalet, at voksne højst drikker ti genstande om ugen og højst fire ad gangen, og at unge under 18 helst slet ikke drikker.
+▶ U12-C015 En genstand svarer til en almindelig øl, et glas vin eller en lille snaps.
+▶ U12-C016 Alligevel hører alkohol for mange med til de store fester, og presset fra jævnaldrende kan være stort.
+
+▶ U12-C017 [对话 · Jonas] Skal du ikke have en øl?
+▶ U12-C018 [对话 · Sara] Nej tak, jeg kører.
+▶ U12-C019 [对话 · Jonas] Kører? Det er lørdag!
+▶ U12-C020 [对话 · Sara] Ja, og jeg skal hente min lillesøster klokken et.
+▶ U12-C021 [对话 · Jonas] Okay, okay. Så en cola.
+
+▶ U12-C022 Den, der ikke drikker til en fest, bliver tit spurgt hvorfor – et spørgsmål, man sjældent stiller til den, der drikker.
+
+## 第 3 章 · Livsstil og sandsynlighed
+▶ U12-C023 Overvægt og fysisk inaktivitet øger risikoen, men arv spiller også en rolle, og mange tynde mennesker får sygdommen, mens mange overvægtige aldrig gør.
+▶ U12-C024 Det samme gælder hjerte-kar-sygdomme og flere former for kræft: Livsstilen flytter sandsynligheden, men den afgør ikke det enkelte tilfælde.
+▶ U12-C025 Derfor er det misvisende at tale om livsstilssygdomme, som om de syge selv var skyld i dem.
+▶ U12-C026 Problemet er sjældent at tabe sig, men at holde vægten bagefter.
+▶ U12-C027 Ernæringseksperter anbefaler derfor ændringer, man kan leve med resten af livet, frem for kure, der holder i seks uger.
+
+## 第 4 章 · Vanernes magt
+  U12-C028 Det meste af det, vi gør i løbet af en dag, gør vi af vane.
+  U12-C029 En vane udløses af en bestemt situation: Kaffen kalder på en cigaret, sofaen på chipsposen og telefonen på endnu en video.
+  U12-C030 Det er først, når en ny handling er blevet automatisk, at man ikke længere behøver viljestyrke for at gennemføre den.
+  U12-C031 I en britisk undersøgelse skulle deltagerne hver dag gøre én bestemt ting, og forskerne målte, hvornår den føltes naturlig.
+  U12-C032 Det tog typisk omkring 66 dage, før handlingen føltes automatisk.
+  U12-C033 Spredningen var dog stor, fra 18 til anslået 254 dage, og at springe en enkelt dag over ødelagde ikke processen.
+  U12-C034 Psykologer peger på, at det ofte er lettere at ændre omgivelserne end at stole på viljestyrken.
+  U12-C035 Den, der vil spise mindre slik, gør klogt i ikke at have det i skabet, og den, der vil løbe om morgenen, kan lægge løbeskoene frem aftenen før.
+  U12-C036 Små ændringer, der gentages, har langt hen ad vejen større effekt end store forsætter, der holder til den anden uge i januar.
+
+## 第 5 章 · Det psykiske helbred
+  U12-C037 Sundhed handler ikke kun om kroppen.
+  U12-C038 De seneste årtier er flere unge, især unge kvinder, begyndt at svare, at de har det dårligt psykisk eller føler sig stressede.
+  U12-C039 Forskerne diskuterer, hvor meget der skyldes reelle forandringer, og hvor meget der skyldes, at det er blevet mere accepteret at tale om psykiske problemer.
+  U12-C040 Et dansk program for mental sundhed opsummerer de bedste råd i tre opfordringer: Gør noget aktivt, gør noget sammen, og gør noget meningsfuldt.
+
+## 第 6 章 · Frihed eller formynderi?
+  U12-C041 Kritikere kalder det formynderi og mener, at voksne selv må bestemme, hvad de putter i munden.
+  U12-C042 Hvis det sunde valg også er det nemme og billige valg, behøver man ikke at overbevise folk ét for ét.
+  U12-C043 Hvor langt staten kan gå, før folk siger fra, er ikke altid til at forudsige.
+
+## 七、本批需要讲解的句子（共 14 句）
+U12-C014 ｜ 第 2 章 ｜ Siden 2022 har Sundhedsstyrelsen anbefalet, at voksne højst drikker ti genstande om ugen og højst fire ad gangen, og at unge under 18 helst slet ikke drikker.
+U12-C015 ｜ 第 2 章 ｜ En genstand svarer til en almindelig øl, et glas vin eller en lille snaps.
+U12-C016 ｜ 第 2 章 ｜ Alligevel hører alkohol for mange med til de store fester, og presset fra jævnaldrende kan være stort.
+U12-C017 ｜ 第 2 章 ｜ [Jonas] Skal du ikke have en øl?
+U12-C018 ｜ 第 2 章 ｜ [Sara] Nej tak, jeg kører.
+U12-C019 ｜ 第 2 章 ｜ [Jonas] Kører? Det er lørdag!
+U12-C020 ｜ 第 2 章 ｜ [Sara] Ja, og jeg skal hente min lillesøster klokken et.
+U12-C021 ｜ 第 2 章 ｜ [Jonas] Okay, okay. Så en cola.
+U12-C022 ｜ 第 2 章 ｜ Den, der ikke drikker til en fest, bliver tit spurgt hvorfor – et spørgsmål, man sjældent stiller til den, der drikker.
+U12-C023 ｜ 第 3 章 ｜ Overvægt og fysisk inaktivitet øger risikoen, men arv spiller også en rolle, og mange tynde mennesker får sygdommen, mens mange overvægtige aldrig gør.
+U12-C024 ｜ 第 3 章 ｜ Det samme gælder hjerte-kar-sygdomme og flere former for kræft: Livsstilen flytter sandsynligheden, men den afgør ikke det enkelte tilfælde.
+U12-C025 ｜ 第 3 章 ｜ Derfor er det misvisende at tale om livsstilssygdomme, som om de syge selv var skyld i dem.
+U12-C026 ｜ 第 3 章 ｜ Problemet er sjældent at tabe sig, men at holde vægten bagefter.
+U12-C027 ｜ 第 3 章 ｜ Ernæringseksperter anbefaler derfor ændringer, man kan leve med resten af livet, frem for kure, der holder i seks uger.
+
+输出前请自检：JSON 能被解析；sentences 共 14 项，第一个是 U12-C014，最后一个是 U12-C027；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

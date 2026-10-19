@@ -1,0 +1,340 @@
+{
+ "schema": 1,
+ "unit": "U27",
+ "title": "Klima og energi",
+ "subtitle": "Hvem betaler nu – og hvem får gavn af det senere?",
+ "labels": [
+  "drivhuseffekt",
+  "vindkraft",
+  "omstilling",
+  "retfærdighed"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U27",
+  "tier: CORE",
+  "title: Klima og energi",
+  "subtitle: Hvem betaler nu – og hvem får gavn af det senere?",
+  "labels: drivhuseffekt · vindkraft · omstilling · retfærdighed",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Skybruddet"
+  },
+  {
+   "title": "Hvordan drivhuseffekten virker"
+  },
+  {
+   "title": "Strøm fra vind"
+  },
+  {
+   "title": "Når strømmen bliver dyr"
+  },
+  {
+   "title": "Madspild"
+  },
+  {
+   "title": "Mål og bekymring"
+  },
+  {
+   "title": "Ikke i min baghave"
+  },
+  {
+   "title": "Borgermødet"
+  },
+  {
+   "title": "Hvem betaler?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U27-C001",
+   "text": "Da et voldsomt skybrud ramte København i 2011, stod vandet en halv meter højt i gaderne, og kældre og metrostationer blev oversvømmet.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U27-C002",
+   "text": "Ét enkelt skybrud kan ikke bevise noget om klimaet, men forskerne forventer, at kraftige regnskyl, stormfloder og hedebølger bliver hyppigere, når jorden bliver varmere.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U27-C003",
+   "text": "Når sollyset rammer jorden, bliver noget af det kastet tilbage, mens resten bliver optaget og varmer land og hav op.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U27-C004",
+   "text": "Jorden sender varmen ud igen som usynlig varmestråling, og en del af den bliver opfanget af gasser i atmosfæren, især kuldioxid, metan og vanddamp.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U27-C005",
+   "text": "Problemet er, at mennesker siden industrialiseringen har tilført atmosfæren store mængder ekstra drivhusgasser.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U27-C006",
+   "text": "Det sker først og fremmest ved at brænde kul, olie og gas, men også ved at fælde skov og holde store mængder husdyr.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U27-C007",
+   "text": "For Danmark betyder opvarmningen blandt andet, at havet stiger, at vintrene bliver mildere og vådere, og at der kommer flere voldsomme regnskyl om sommeren.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U27-C008",
+   "text": "På stille dage importerer Danmark strøm fra blandt andet norske og svenske vandkraftværker gennem kabler under havet, og på blæsende dage sælger landet overskudsstrøm til naboerne.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U27-C009",
+   "text": "Den næste store opgave er at få flere ting til at køre på strøm fra vedvarende energi.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U27-C010",
+   "text": "Oliefyr og gasfyr bliver skiftet ud med varmepumper, og elbilerne er på få år gået fra at være en sjældenhed til at være en almindelig del af gadebilledet.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U27-C011",
+   "text": "Det kræver et elnet, der kan klare langt mere strøm end i dag.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U27-C012",
+   "text": "Nye højspændingsledninger og transformerstationer møder ofte modstand fra de naboer, der skal leve med dem.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U27-C013",
+   "text": "Da energipriserne steg voldsomt i 2022, fik nogle husstande varmeregninger, der var flere gange så store som året før.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U27-C014",
+   "text": "Hvem har skruet op for radiatoren i stuen?",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U27-C015",
+   "text": "Det er mig. Der er iskoldt herinde.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U27-C016",
+   "text": "Tag en trøje på. Vi har aftalt, at vi holder 19 grader.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U27-C017",
+   "text": "Du har bare aftalt det med dig selv.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U27-C018",
+   "text": "Vi har aftalt det alle sammen, Freja. Varmeregningen er blevet tre gange så stor.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U27-C019",
+   "text": "Okay, okay. Men så vil jeg have lov til at tage et langt varmt bad.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U27-C020",
+   "text": "Det er nærmest det modsatte af at spare.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U27-C021",
+   "text": "Vi kunne starte opvaskemaskinen i nat i stedet for nu. Strømmen koster det halve efter midnat.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U27-C022",
+   "text": "Hvordan ved du det?",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U27-C023",
+   "text": "Jeg har en app. Jeg tjekker den hele tiden.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U27-C024",
+   "text": "Din mor er blevet besat af elprisen.",
+   "ch": 3,
+   "p": 3,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U27-C025",
+   "text": "Priserne faldt igen, men en del af vanerne blev hængende.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U27-C026",
+   "text": "Danske husholdninger smider hvert år store mængder spiselig mad ud.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U27-C027",
+   "text": "Et af de mest effektive tiltag er overraskende enkelt: at planlægge sine indkøb, fryse rester ned og lugte og smage på maden, før man smider den ud.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U27-C028",
+   "text": "I 2020 vedtog Folketinget en klimalov, hvor målet er at reducere udledningen af drivhusgasser med 70 procent i forhold til 1990 inden 2030.",
+   "ch": 5,
+   "p": 5
+  },
+  {
+   "id": "U27-C029",
+   "text": "Nogle unge beskriver en egentlig klimaangst: en følelse af afmagt over for et problem, de ikke selv har skabt, men skal leve med længst.",
+   "ch": 5,
+   "p": 5
+  },
+  {
+   "id": "U27-C030",
+   "text": "Næsten alle er for vedvarende energi, men færre vil have en 150 meter høj vindmølle tæt på deres hus.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U27-C031",
+   "text": "Naboer klager over støj, over de roterende skygger, som vingerne kaster ind gennem vinduerne i lavt sollys, og over, at deres huse falder i værdi.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U27-C032",
+   "text": "Konflikten mellem det nationale mål og de lokale omkostninger er klassisk: Gevinsten deles af alle, mens ulemperne bæres af de få, der bor tættest på.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U27-C033",
+   "text": "Kommunen har inviteret til borgermøde om en solcellepark på 200 hektar, som et energiselskab vil bygge på markerne syd for byen.",
+   "ch": 7,
+   "p": 7
+  },
+  {
+   "id": "U27-C034",
+   "text": "Velkommen alle sammen. Vi starter med en kort præsentation fra projektlederen, og så er ordet frit bagefter.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "Ordstyreren"
+  },
+  {
+   "id": "U27-C035",
+   "text": "Det lyder fint, men hvorfor skal det være lige her? Vi er ikke flyttet herud for at kigge på solpaneler.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "En borger"
+  },
+  {
+   "id": "U27-C036",
+   "text": "Det forstår jeg godt. Arealet er valgt, fordi der allerede går en højspændingsledning forbi, og fordi jorden er sandet og ikke særlig god til landbrug.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "Projektlederen"
+  },
+  {
+   "id": "U27-C037",
+   "text": "Jeg vil bare sige, at jeg er glad for projektet. Vi siger hele tiden, at der skal gøres noget, og så skal det jo ligge et sted.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "En ung kvinde"
+  },
+  {
+   "id": "U27-C038",
+   "text": "Det er nemt at sige, når man bor inde i byen.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "Den første borger"
+  },
+  {
+   "id": "U27-C039",
+   "text": "Jeg bor på Kirkevej. Jeg kan se marken fra mit køkkenvindue.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "Den unge kvinde"
+  },
+  {
+   "id": "U27-C040",
+   "text": "Tak. Der er mange, der har bedt om ordet, så lad os prøve at holde os til to minutter hver.",
+   "ch": 7,
+   "p": 7,
+   "speaker": "Ordstyreren"
+  },
+  {
+   "id": "U27-C041",
+   "text": "Ingen skifter mening, men energiselskabet går hjem med en liste over ønsker: et bredere hegn, en sti gennem området og en ny legeplads ved forsamlingshuset.",
+   "ch": 7,
+   "p": 7
+  },
+  {
+   "id": "U27-C042",
+   "text": "Hvem skal betale for omstillingen nu, og hvem får glæde af den senere?",
+   "ch": 8,
+   "p": 8
+  },
+  {
+   "id": "U27-C043",
+   "text": "Afgifter på benzin og diesel rammer hårdest dem, der bor langt fra arbejde og offentlig transport – ofte folk med lavere indkomster.",
+   "ch": 8,
+   "p": 8
+  },
+  {
+   "id": "U27-C044",
+   "text": "Den enkelte kan gøre en forskel ved at spise mindre oksekød, flyve sjældnere, isolere sit hus og slukke for lyset i de rum, man ikke bruger.",
+   "ch": 8,
+   "p": 8
+  },
+  {
+   "id": "U27-C045",
+   "text": "Men de største ændringer kræver fælles beslutninger om energi, transport og landbrug, som ingen kan træffe alene.",
+   "ch": 8,
+   "p": 8
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+【Danish CORE · Deep Teacher】U16 Det digitale Danmark · P04
+
+你是一位资深丹麦语教师：丹麦语达到母语水平，同时精通现代汉语，长期教授高级阶段的中国学习者。
+学习者是以简体中文为母语的成年人，正从 B2 迈向 C1/C2。目标是把这篇文章逐句读透、背熟，并能在自己的口语和写作中主动使用其中的表达。
+
+任务：为下面【本批需要讲解的句子】中的每一句写一份逐句精讲（Deep Teacher），只输出 JSON。
+
+## 一、不可违反的规则
+1. 丹麦语原文已冻结，一字不改：不要改写、纠正、缩短、补全或重新断句。输出中不要出现原句全文——网站会按 ID 从冻结原文中取句子。
+2. 本批每个 ID 恰好输出一次，按原文顺序；不得增加、遗漏、合并或拆分句子；不得输出本批以外的 ID（上下文句子只供理解）。
+3. unit、part、source_fingerprint 必须与下方给出的值逐字一致。指纹直接复制，不要计算、修改或补全。
+4. 只输出一个合法的 JSON 对象：不要前言、结语、解释、Markdown 代码块标记、注释或省略号。字符串里只用英文双引号 " 作为 JSON 引号。
+5. 字段内容只写纯文本，不用 HTML 或 Markdown。引用丹麦语单词、短语或句型时，用反引号括起来，例如 `holde øje med`。
+6. 字段没有真正值得写的内容时，用 "" 或 []；不要写“无”“略”“同上”“TODO”之类的占位文字。
+
+## 二、各字段的讲解要求
+- "zh"（中文意思，必填）：准确、地道的简体中文译文。保留语用含义、语体、隐含的主语和与上下文的衔接；对话要译出说话人的语气。不要逐词硬译。
+- "grammar"（句法骨架 / 语法）：只讲这一句里真正值得学的结构，例如 V2 语序与倒装、条件倒装（`Spørger man …`）、从句语序（主语 + `ikke`/副词 + 动词）、否定与副词位置、时态与体、s-被动与 blive-被动、情态动词、省略成分、代词指代、强调句 `Det er … der/som`、分裂句、动词小品词。先给骨架（谁 + 做什么 + 状语如何排列），再点出关键规则。简单句不要为了填字段而写泛泛的语法描述。
+- "vocabulary"（词汇 / 固定搭配）：挑出值得主动掌握的词和搭配，每项 {"da": "丹麦语（用词典形式或原文中的搭配形式）", "zh": "中文释义", "note": "可选：必需的介词、名词性别 en/et、不规则变化、语体或典型搭配"}。优先选在本文之外也常用的表达，通常 1–5 项。
+- "nuance"（语感 / 为什么这样说）：解释丹麦人为什么在这个语境下这样说——语体（口语 / 书面 / 正式）、礼貌程度、反讽、轻描淡写（understatement）、语气小品词（`jo`、`vel`、`nu`、`da`、`bare`、`lige`、`nok`、`altså` 等）的作用、与近义说法的区别、在篇章中的作用。区分口语和书面语；不要夸大某个表达的使用频率。
+- "transfer"（可迁移表达）：1–3 个可以直接套用到别的话题的句型或搭配，可用 X、Y、… 作占位，例如 "Det kan ikke betale sig at + 不定式"、"Spørger man X, …"。必须是真实、语法正确、母语者会用的丹麦语。
+- "pitfall"（易错点 / 记忆提醒）：中国学习者在这里真实会犯的错——假朋友、字面直译陷阱、介词、语序、名词性别、近形词混淆，或一句帮助记忆的提醒。没有真实的易错点就写 ""，不要为了填字段而编造错误。
+
+## 三、质量门槛
+- 精准、自然，紧扣这一句和它所在的段落与对话；难句（C1 结构、长从句、抽象表达）讲透，简单句（寒暄、短答、感叹）只需简洁讲清语用含义。
+- 讲解要对背诵和主动输出有用：说清“怎么用”，而不只是“是什么意思”。
+- 避免机械重复：本批前面已经讲过的知识点，后面一句话带过即可。
+- 不编造语法规则、词源、出处或使用统计；不引用你没有实际查阅的词典或资料。
+- 不改变作者原意，不添加原文没有的事实。
+- 每句篇幅随难度变化：一般 120–500 个汉字，难句可以更长，极简单的句子可以只有 "zh" 和一两句 "nuance"。
+
+## 四、输出格式（JSON schema）
+{
+  "schema_version": 1,
+  "unit": "<见下方>",
+  "part": "<见下方>",
+  "source_fingerprint": "<见下方，原样复制>",
+  "sentences": [
+    {
+      "id": "<句子 ID>",
+      "zh": "中文意思（必填）",
+      "grammar": "句法骨架 / 语法，或 \"\"",
+      "vocabulary": [ { "da": "丹麦语词或搭配", "zh": "中文释义", "note": "可选说明" } ],
+      "nuance": "语感 / 为什么这样说，或 \"\"",
+      "transfer": [ "可迁移句型" ],
+      "pitfall": "易错点 / 记忆提醒，或 \"\""
+    }
+  ]
+}
+
+格式示例（仅示意结构和语气，内容与本批无关，不要照抄）：
+{"id": "UXX-C001", "zh": "一个夏日，在菲英岛的一条乡间公路上，一辆车在一个小木摊旁靠边停下。", "grammar": "时间状语 `En sommerdag` 和地点状语 `på en landevej på Fyn` 都放在句首，因此动词 `holder` 紧跟其后、主语 `en bil` 后移：V2 语序。", "vocabulary": [{"da": "holde ind til siden", "zh": "靠边停车", "note": "整体动词短语"}, {"da": "på Fyn", "zh": "在菲英岛", "note": "岛屿用 på"}], "nuance": "典型的叙事开场：先交代时间地点，再引出动作。", "transfer": ["En [tid] på [sted] + 动词 + 主语 …", "holde ind til siden ved …"], "pitfall": "`holde ind` 不是“保持在里面”，`holde ind til siden` 要整体记。"}
+{"id": "UXX-C040", "zh": "当然。怎么了？", "grammar": "", "vocabulary": [{"da": "Hvad sker der?", "zh": "怎么了？/有什么事？", "note": "口语"}], "nuance": "`Klart` 是轻松的口头答应；`Hvad sker der?` 在这里不是“发生了什么事故”，而是同事间随和地问“有什么事”。", "transfer": ["Klart. Hvad sker der?"], "pitfall": ""}
+
+## 五、本批的固定取值（逐字复制）
+"unit": "U16"
+"part": "P04"
+"source_fingerprint": "U16-P04-63f0bf5468e9"
+sentences 数组必须恰好包含 12 个对象，ID 依次为：
+U16-C044, U16-C045, U16-C046, U16-C047, U16-C048, U16-C049, U16-C050, U16-C051, U16-C052, U16-C053, U16-C054, U16-C055
+
+## 六、文章（冻结原文，只读）
+本次是第 4 / 4 批，讲解 12 句（U16-C044 – U16-C055）。全文放在下面作上下文，▶ 标出本批句子；其余句子只用于理解指代、对话和行文脉络，不要输出它们。
+
+# U16 · Det digitale Danmark
+副标题：Data, sikkerhed og selvbetjening
+主题标签：selvbetjening · data · svindel · skærmtid
+
+## 第 1 章 · »Du har modtaget ny post«
+  U16-C001 Telefonen summer på natbordet: »Du har modtaget ny post.«
+  U16-C002 Lise åbner appen, logger ind med MitID og læser, at hun har fået en tid til en scanning på hospitalet om tre uger.
+  U16-C003 Over morgenkaffen betaler hun en regning i bankens app, flytter sin tandlægetid og bestiller et nyt pas, før hun har fået sko på.
+  U16-C004 På vej til arbejde låser hun en delecykel op med telefonen, og i bageren betaler hun ved at holde den hen over kortterminalen.
+  U16-C005 Hun har endnu ikke talt med et eneste menneske, og alligevel har hun allerede fået ordnet en hel del.
+
+  U16-C006 Grundstenen i det digitale Danmark er cpr-nummeret, som blev indført i 1968.
+  U16-C007 Nummeret består af fødselsdatoen og fire cifre, og det gør det muligt at koble oplysninger om den samme person sammen på tværs af skat, sundhed og uddannelse.
+  U16-C008 For at logge ind hos banker, myndigheder og mange virksomheder bruger man MitID, der i årene 2021–2023 afløste det tidligere NemID.
+  U16-C009 Siden 2014 har Digital Post desuden været obligatorisk for de fleste over 15 år.
+  U16-C010 Ansøgninger om alt lige fra boligstøtte til et nyt sygesikringskort foregår derfor via digital selvbetjening, og papirblanketterne er næsten forsvundet.
+
+## 第 2 章 · Gevinsterne
+  U16-C011 For de fleste er det en lettelse.
+  U16-C012 Man skal ikke tage fri fra arbejde for at stå i kø på rådhuset, og en flytning kan meldes på fem minutter en søndag aften.
+  U16-C013 Mange oplysninger bliver hentet automatisk: Lønnen bliver indberettet af arbejdsgiveren, og årsopgørelsen er for de fleste udfyldt på forhånd.
+  U16-C014 De digitale løsninger kan dog være svære at bruge, især for en del ældre og mennesker med handicap eller sprogvanskeligheder.
+  U16-C015 De kan få hjælp i Borgerservice, og har man gode grunde, kan man søge om at blive fritaget for Digital Post og i stedet få brevene på papir.
+
+## 第 3 章 · Farmor og appen
+  U16-C016 Emil er 19 og kommer hos sin farmor hver søndag, og som regel ender besøget ved køkkenbordet med hendes telefon.
+
+  U16-C017 [对话 · Farmor] Nu siger den igen, at jeg skal godkende. Jeg har jo lige godkendt.
+  U16-C018 [对话 · Emil] Det er, fordi du har prøvet at logge ind to gange. Tryk på den nyeste anmodning, og swipe så.
+  U16-C019 [对话 · Farmor] Swipe. Hvad er nu det?
+  U16-C020 [对话 · Emil] Du skal trække pilen hen over skærmen med fingeren. Sådan dér.
+  U16-C021 [对话 · Farmor] Nå. Og nu?
+  U16-C022 [对话 · Emil] Nu er du inde. Der ligger et brev fra kommunen om din hjemmehjælp.
+  U16-C023 [对话 · Farmor] Kan du ikke bare læse det op for mig?
+  U16-C024 [对话 · Emil] Jo. Men så skal du love at prøve selv næste gang.
+  U16-C025 [对话 · Farmor] Det lover jeg. Hvis du lover at komme igen på søndag.
+
+  U16-C026 Mange ældre får hjælp af børn og børnebørn, og nogle giver dem ligefrem en digital fuldmagt, så de kan klare sagerne for dem.
+
+## 第 4 章 · Spor efter os
+  U16-C027 Hver gang vi søger efter noget, køber noget eller bevæger os rundt med telefonen i lommen, efterlader vi data.
+  U16-C028 Andre bliver indsamlet af virksomheder, der lever af at vide så meget som muligt om vores vaner, så de kan vise os de annoncer, vi med størst sandsynlighed klikker på.
+  U16-C029 Siden 2018 har EU's databeskyttelsesforordning givet borgerne ret til at få at vide, hvilke oplysninger en virksomhed eller myndighed har om dem.
+  U16-C030 I visse tilfælde har man også ret til at få dem slettet.
+  U16-C031 Samtidig gør de mange forbundne systemer det ekstra vigtigt at beskytte sine oplysninger, fordi et misbrugt MitID kan give adgang til meget.
+  U16-C032 Den bedste forsvarslinje er ofte kedelig: at opdatere sine programmer, tage sikkerhedskopier og bruge lange adgangskoder, som ikke bliver genbrugt fra side til side.
+
+## 第 5 章 · Haster det?
+  U16-C033 Svindlerne har også flyttet ind på telefonen.
+  U16-C034 De sender sms'er om pakker, der ikke kan leveres, og opretter falske webshops med tilbud, der lyder for gode til at være sande.
+  U16-C035 En ægte webshop har et cvr-nummer, en fysisk adresse og klare regler for returnering.
+  U16-C036 Handler man på nettet hos en forhandler i EU, har man som regel fjorten dages fortrydelsesret.
+
+  U16-C037 Andre svindlere ringer og påstår at være fra banken.
+
+  U16-C038 [对话 · Opkaldet] Hej, det er fra bankens sikkerhedsafdeling. Vi har registreret et mistænkeligt køb på dit kort.
+  U16-C039 [对话 · Lise] Nå?
+  U16-C040 [对话 · Opkaldet] For at stoppe det skal du lige godkende en anmodning i din MitID-app.
+  U16-C041 [对话 · Lise] Jeg godkender ikke noget. Jeg lægger på og ringer selv til banken.
+  U16-C042 [对话 · Opkaldet] Det er der ikke tid til – pengene forsvinder nu!
+  U16-C043 [对话 · Lise] Så må de forsvinde. Farvel.
+
+▶ U16-C044 Lise gjorde præcis det rigtige.
+▶ U16-C045 Når en besked på én gang haster, handler om penge og beder om en kode, er det næsten altid svindel.
+▶ U16-C046 Banker og myndigheder beder aldrig om ens kode eller om at godkende noget, man ikke selv har sat i gang.
+▶ U16-C047 Er man i tvivl, så læg på, og ring selv op på et nummer, man har fundet på egen hånd – ikke det, der står i beskeden.
+▶ U16-C048 Er uheldet sket, gælder det om at spærre kortet med det samme og anmelde det til politiet.
+▶ U16-C049 At blive snydt kan ske for alle, og jo før man reagerer, jo bedre.
+
+## 第 6 章 · Opmærksomhedens marked
+▶ U16-C050 Sociale medier har gjort det lettere end nogensinde at holde kontakten med venner og familie, finde ligesindede og følge med i, hvad der sker.
+▶ U16-C051 Men tjenesterne er gratis, fordi det er brugernes tid og opmærksomhed, der bliver solgt til annoncørerne.
+▶ U16-C052 Algoritmerne lærer hurtigt, hvad der får os til at stoppe op og blive hængende, og det er ofte det, der gør os vrede, bange eller misundelige.
+▶ U16-C053 Mange beskriver, at de tager telefonen frem uden at vide hvorfor, og at en halv time kan forsvinde, uden at de kan huske, hvad de har set.
+▶ U16-C054 Forskerne er ikke enige om, hvor stor skade skærmene gør.
+▶ U16-C055 Det, de fleste er enige om, er, at skærmen ikke bør gå ud over søvnen, bevægelsen og samværet med andre mennesker.
+
+## 七、本批需要讲解的句子（共 12 句）
+U16-C044 ｜ 第 5 章 ｜ Lise gjorde præcis det rigtige.
+U16-C045 ｜ 第 5 章 ｜ Når en besked på én gang haster, handler om penge og beder om en kode, er det næsten altid svindel.
+U16-C046 ｜ 第 5 章 ｜ Banker og myndigheder beder aldrig om ens kode eller om at godkende noget, man ikke selv har sat i gang.
+U16-C047 ｜ 第 5 章 ｜ Er man i tvivl, så læg på, og ring selv op på et nummer, man har fundet på egen hånd – ikke det, der står i beskeden.
+U16-C048 ｜ 第 5 章 ｜ Er uheldet sket, gælder det om at spærre kortet med det samme og anmelde det til politiet.
+U16-C049 ｜ 第 5 章 ｜ At blive snydt kan ske for alle, og jo før man reagerer, jo bedre.
+U16-C050 ｜ 第 6 章 ｜ Sociale medier har gjort det lettere end nogensinde at holde kontakten med venner og familie, finde ligesindede og følge med i, hvad der sker.
+U16-C051 ｜ 第 6 章 ｜ Men tjenesterne er gratis, fordi det er brugernes tid og opmærksomhed, der bliver solgt til annoncørerne.
+U16-C052 ｜ 第 6 章 ｜ Algoritmerne lærer hurtigt, hvad der får os til at stoppe op og blive hængende, og det er ofte det, der gør os vrede, bange eller misundelige.
+U16-C053 ｜ 第 6 章 ｜ Mange beskriver, at de tager telefonen frem uden at vide hvorfor, og at en halv time kan forsvinde, uden at de kan huske, hvad de har set.
+U16-C054 ｜ 第 6 章 ｜ Forskerne er ikke enige om, hvor stor skade skærmene gør.
+U16-C055 ｜ 第 6 章 ｜ Det, de fleste er enige om, er, at skærmen ikke bør gå ud over søvnen, bevægelsen og samværet med andre mennesker.
+
+输出前请自检：JSON 能被解析；sentences 共 12 项，第一个是 U16-C044，最后一个是 U16-C055；没有原句全文；没有 Markdown 代码块标记。
+现在直接输出 JSON。

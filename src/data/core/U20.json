@@ -1,0 +1,229 @@
+{
+ "schema": 1,
+ "unit": "U20",
+ "title": "Danmarkshistorien I",
+ "subtitle": "Fra vikingetid til enevælde",
+ "labels": [
+  "vikinger",
+  "middelalder",
+  "reformation",
+  "enevælde"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U20",
+  "tier: CORE",
+  "title: Danmarkshistorien I",
+  "subtitle: Fra vikingetid til enevælde",
+  "labels: vikinger · middelalder · reformation · enevælde",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Et navn på en sten"
+  },
+  {
+   "title": "Vikingerne"
+  },
+  {
+   "title": "Kristendom, lov og pest"
+  },
+  {
+   "title": "Én konge, tre riger"
+  },
+  {
+   "title": "Reformationen"
+  },
+  {
+   "title": "Tolden ved Øresund"
+  },
+  {
+   "title": "Over isen"
+  },
+  {
+   "title": "Enevælden"
+  },
+  {
+   "title": "Tordenskjolds soldater"
+  },
+  {
+   "title": "Hvorfor så lille?"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U20-C001",
+   "text": "Omkring år 965 rejste kong Harald Blåtand den store runesten i Jelling til minde om sine forældre, Gorm og Thyra.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U20-C002",
+   "text": "Stenen bliver ofte kaldt Danmarks dåbsattest, fordi den både nævner riget ved navn og fortæller om overgangen fra de gamle guder til kristendommen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U20-C003",
+   "text": "Men historien om, hvordan Danmark blev til, er også historien om, hvordan landet blev mindre og mindre.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U20-C004",
+   "text": "Vikingetiden regnes normalt fra omkring år 800 til midten af 1000-tallet.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U20-C005",
+   "text": "De fleste var bønder, men nogle drog hver sommer på togt og plyndrede klostre og byer i England, Frankrig og Irland.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U20-C006",
+   "text": "Vikingerne var dog ikke kun krigere: De var også handelsfolk, der byttede pelse, rav og slaver for sølv, vin og våben fra fjerne markeder.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U20-C007",
+   "text": "Mange vikinger slog sig ned i de lande, de havde angrebet.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U20-C008",
+   "text": "I 1241 blev Jyske Lov vedtaget, og dens fortale indeholder en sætning, som i dag står på facaden af flere retsbygninger: »Med lov skal land bygges.«",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U20-C009",
+   "text": "Loven gjaldt i Jylland og på Fyn i over 400 år og var et forsøg på at erstatte hævn og fejder med fælles regler.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U20-C010",
+   "text": "I 1349 kom pesten til Danmark, og den sorte død dræbte måske en tredjedel af befolkningen.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U20-C011",
+   "text": "I 1397 samlede dronning Margrete 1. Danmark, Norge og Sverige i Kalmarunionen under én konge.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U20-C012",
+   "text": "Unionen var et forsøg på at skabe et stærkt nordisk rige over for de tyske handelsbyer, som dominerede handelen i Østersøen.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U20-C013",
+   "text": "Men svenskerne følte sig ofte styret fra København, og i 1523 forlod Sverige unionen for altid.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U20-C014",
+   "text": "Fra da af var nabolandet mod øst ikke længere en del af det samme rige, men en rival.",
+   "ch": 3,
+   "p": 3
+  },
+  {
+   "id": "U20-C015",
+   "text": "I 1536 indførte kong Christian 3. reformationen, og Danmark blev et luthersk land.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U20-C016",
+   "text": "Reformationen var både et religiøst og et politisk skifte: Kongen blev rigere og mægtigere, og kirken blev en del af statens administration.",
+   "ch": 4,
+   "p": 4
+  },
+  {
+   "id": "U20-C017",
+   "text": "Danmarks største indtægtskilde i disse århundreder var Øresundstolden.",
+   "ch": 5,
+   "p": 5
+  },
+  {
+   "id": "U20-C018",
+   "text": "Alle skibe, der sejlede ind i eller ud af Østersøen, skulle betale told til den danske konge ved Helsingør.",
+   "ch": 5,
+   "p": 5
+  },
+  {
+   "id": "U20-C019",
+   "text": "Tolden gjorde Danmark rigt, men den gjorde også magtfulde handelsnationer interesserede i, at Øresund ikke blev kontrolleret af ét land alene.",
+   "ch": 5,
+   "p": 5
+  },
+  {
+   "id": "U20-C020",
+   "text": "I den usædvanligt kolde vinter 1658 førte den svenske konge sin hær over de tilfrosne bælter og truede København.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U20-C021",
+   "text": "Ved freden i Roskilde samme år måtte Danmark afstå Skåne, Halland og Blekinge – det, man i dag kalder Sydsverige.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U20-C022",
+   "text": "Øresund blev fra den ene dag til den anden en grænse, og de mennesker, der boede på den anden side, blev med tiden svenskere.",
+   "ch": 6,
+   "p": 6
+  },
+  {
+   "id": "U20-C023",
+   "text": "Krigene havde tømt statskassen, og i 1660 blev Danmark et arvekongedømme med enevælde.",
+   "ch": 7,
+   "p": 7
+  },
+  {
+   "id": "U20-C024",
+   "text": "Kongen havde nu magten alene: Han gav lovene, udnævnte embedsmændene og var dommer i sidste instans.",
+   "ch": 7,
+   "p": 7
+  },
+  {
+   "id": "U20-C025",
+   "text": "Søhelten Tordenskjold narrede ifølge en kendt historie fjenden ved at lade de samme få soldater marchere forbi igen og igen.",
+   "ch": 8,
+   "p": 8
+  },
+  {
+   "id": "U20-C026",
+   "text": "Derfra stammer udtrykket »Tordenskjolds soldater« om de få ildsjæle, der dukker op til alting – i foreninger, til møder og ved frivilligt arbejde.",
+   "ch": 8,
+   "p": 8
+  },
+  {
+   "id": "U20-C027",
+   "text": "Svaret på spørgsmålet om, hvorfor Danmark blev så lille, er en kæde af tab.",
+   "ch": 9,
+   "p": 9
+  },
+  {
+   "id": "U20-C028",
+   "text": "Sverige forlod unionen i 1523, Skåne gik tabt i 1658, Norge i 1814 og hertugdømmerne Slesvig og Holsten i 1864.",
+   "ch": 9,
+   "p": 9
+  },
+  {
+   "id": "U20-C029",
+   "text": "Hvert tab havde sine egne årsager, men tilsammen forvandlede de et nordeuropæisk rige til en lille stat.",
+   "ch": 9,
+   "p": 9
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "schema": 1,
+ "unit": "U16",
+ "title": "Det digitale Danmark",
+ "subtitle": "Data, sikkerhed og selvbetjening",
+ "labels": [
+  "selvbetjening",
+  "data",
+  "svindel",
+  "skærmtid"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U16",
+  "tier: CORE",
+  "title: Det digitale Danmark",
+  "subtitle: Data, sikkerhed og selvbetjening",
+  "labels: selvbetjening · data · svindel · skærmtid",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "»Du har modtaget ny post«"
+  },
+  {
+   "title": "Gevinsterne"
+  },
+  {
+   "title": "Farmor og appen"
+  },
+  {
+   "title": "Spor efter os"
+  },
+  {
+   "title": "Haster det?"
+  },
+  {
+   "title": "Opmærksomhedens marked"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U16-C001",
+   "text": "Telefonen summer på natbordet: »Du har modtaget ny post.«",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U16-C002",
+   "text": "Lise åbner appen, logger ind med MitID og læser, at hun har fået en tid til en scanning på hospitalet om tre uger.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U16-C003",
+   "text": "Over morgenkaffen betaler hun en regning i bankens app, flytter sin tandlægetid og bestiller et nyt pas, før hun har fået sko på.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U16-C004",
+   "text": "På vej til arbejde låser hun en delecykel op med telefonen, og i bageren betaler hun ved at holde den hen over kortterminalen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U16-C005",
+   "text": "Hun har endnu ikke talt med et eneste menneske, og alligevel har hun allerede fået ordnet en hel del.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U16-C006",
+   "text": "Grundstenen i det digitale Danmark er cpr-nummeret, som blev indført i 1968.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U16-C007",
+   "text": "Nummeret består af fødselsdatoen og fire cifre, og det gør det muligt at koble oplysninger om den samme person sammen på tværs af skat, sundhed og uddannelse.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U16-C008",
+   "text": "For at logge ind hos banker, myndigheder og mange virksomheder bruger man MitID, der i årene 2021–2023 afløste det tidligere NemID.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U16-C009",
+   "text": "Siden 2014 har Digital Post desuden været obligatorisk for de fleste over 15 år.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U16-C010",
+   "text": "Ansøgninger om alt lige fra boligstøtte til et nyt sygesikringskort foregår derfor via digital selvbetjening, og papirblanketterne er næsten forsvundet.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U16-C011",
+   "text": "For de fleste er det en lettelse.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U16-C012",
+   "text": "Man skal ikke tage fri fra arbejde for at stå i kø på rådhuset, og en flytning kan meldes på fem minutter en søndag aften.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U16-C013",
+   "text": "Mange oplysninger bliver hentet automatisk: Lønnen bliver indberettet af arbejdsgiveren, og årsopgørelsen er for de fleste udfyldt på forhånd.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U16-C014",
+   "text": "De digitale løsninger kan dog være svære at bruge, især for en del ældre og mennesker med handicap eller sprogvanskeligheder.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U16-C015",
+   "text": "De kan få hjælp i Borgerservice, og har man gode grunde, kan man søge om at blive fritaget for Digital Post og i stedet få brevene på papir.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U16-C016",
+   "text": "Emil er 19 og kommer hos sin farmor hver søndag, og som regel ender besøget ved køkkenbordet med hendes telefon.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U16-C017",
+   "text": "Nu siger den igen, at jeg skal godkende. Jeg har jo lige godkendt.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Farmor"
+  },
+  {
+   "id": "U16-C018",
+   "text": "Det er, fordi du har prøvet at logge ind to gange. Tryk på den nyeste anmodning, og swipe så.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U16-C019",
+   "text": "Swipe. Hvad er nu det?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Farmor"
+  },
+  {
+   "id": "U16-C020",
+   "text": "Du skal trække pilen hen over skærmen med fingeren. Sådan dér.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U16-C021",
+   "text": "Nå. Og nu?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Farmor"
+  },
+  {
+   "id": "U16-C022",
+   "text": "Nu er du inde. Der ligger et brev fra kommunen om din hjemmehjælp.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U16-C023",
+   "text": "Kan du ikke bare læse det op for mig?",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Farmor"
+  },
+  {
+   "id": "U16-C024",
+   "text": "Jo. Men så skal du love at prøve selv næste gang.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U16-C025",
+   "text": "Det lover jeg. Hvis du lover at komme igen på søndag.",
+   "ch": 2,
+   "p": 4,
+   "speaker": "Farmor"
+  },
+  {
+   "id": "U16-C026",
+   "text": "Mange ældre får hjælp af børn og børnebørn, og nogle giver dem ligefrem en digital fuldmagt, så de kan klare sagerne for dem.",
+   "ch": 2,
+   "p": 5
+  },
+  {
+   "id": "U16-C027",
+   "text": "Hver gang vi søger efter noget, køber noget eller bevæger os rundt med telefonen i lommen, efterlader vi data.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C028",
+   "text": "Andre bliver indsamlet af virksomheder, der lever af at vide så meget som muligt om vores vaner, så de kan vise os de annoncer, vi med størst sandsynlighed klikker på.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C029",
+   "text": "Siden 2018 har EU's databeskyttelsesforordning givet borgerne ret til at få at vide, hvilke oplysninger en virksomhed eller myndighed har om dem.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C030",
+   "text": "I visse tilfælde har man også ret til at få dem slettet.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C031",
+   "text": "Samtidig gør de mange forbundne systemer det ekstra vigtigt at beskytte sine oplysninger, fordi et misbrugt MitID kan give adgang til meget.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C032",
+   "text": "Den bedste forsvarslinje er ofte kedelig: at opdatere sine programmer, tage sikkerhedskopier og bruge lange adgangskoder, som ikke bliver genbrugt fra side til side.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U16-C033",
+   "text": "Svindlerne har også flyttet ind på telefonen.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U16-C034",
+   "text": "De sender sms'er om pakker, der ikke kan leveres, og opretter falske webshops med tilbud, der lyder for gode til at være sande.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U16-C035",
+   "text": "En ægte webshop har et cvr-nummer, en fysisk adresse og klare regler for returnering.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U16-C036",
+   "text": "Handler man på nettet hos en forhandler i EU, har man som regel fjorten dages fortrydelsesret.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U16-C037",
+   "text": "Andre svindlere ringer og påstår at være fra banken.",
+   "ch": 4,
+   "p": 8
+  },
+  {
+   "id": "U16-C038",
+   "text": "Hej, det er fra bankens sikkerhedsafdeling. Vi har registreret et mistænkeligt køb på dit kort.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Opkaldet"
+  },
+  {
+   "id": "U16-C039",
+   "text": "Nå?",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Lise"
+  },
+  {
+   "id": "U16-C040",
+   "text": "For at stoppe det skal du lige godkende en anmodning i din MitID-app.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Opkaldet"
+  },
+  {
+   "id": "U16-C041",
+   "text": "Jeg godkender ikke noget. Jeg lægger på og ringer selv til banken.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Lise"
+  },
+  {
+   "id": "U16-C042",
+   "text": "Det er der ikke tid til – pengene forsvinder nu!",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Opkaldet"
+  },
+  {
+   "id": "U16-C043",
+   "text": "Så må de forsvinde. Farvel.",
+   "ch": 4,
+   "p": 9,
+   "speaker": "Lise"
+  },
+  {
+   "id": "U16-C044",
+   "text": "Lise gjorde præcis det rigtige.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C045",
+   "text": "Når en besked på én gang haster, handler om penge og beder om en kode, er det næsten altid svindel.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C046",
+   "text": "Banker og myndigheder beder aldrig om ens kode eller om at godkende noget, man ikke selv har sat i gang.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C047",
+   "text": "Er man i tvivl, så læg på, og ring selv op på et nummer, man har fundet på egen hånd – ikke det, der står i beskeden.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C048",
+   "text": "Er uheldet sket, gælder det om at spærre kortet med det samme og anmelde det til politiet.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C049",
+   "text": "At blive snydt kan ske for alle, og jo før man reagerer, jo bedre.",
+   "ch": 4,
+   "p": 10
+  },
+  {
+   "id": "U16-C050",
+   "text": "Sociale medier har gjort det lettere end nogensinde at holde kontakten med venner og familie, finde ligesindede og følge med i, hvad der sker.",
+   "ch": 5,
+   "p": 11
+  },
+  {
+   "id": "U16-C051",
+   "text": "Men tjenesterne er gratis, fordi det er brugernes tid og opmærksomhed, der bliver solgt til annoncørerne.",
+   "ch": 5,
+   "p": 11
+  },
+  {
+   "id": "U16-C052",
+   "text": "Algoritmerne lærer hurtigt, hvad der får os til at stoppe op og blive hængende, og det er ofte det, der gør os vrede, bange eller misundelige.",
+   "ch": 5,
+   "p": 11
+  },
+  {
+   "id": "U16-C053",
+   "text": "Mange beskriver, at de tager telefonen frem uden at vide hvorfor, og at en halv time kan forsvinde, uden at de kan huske, hvad de har set.",
+   "ch": 5,
+   "p": 11
+  },
+  {
+   "id": "U16-C054",
+   "text": "Forskerne er ikke enige om, hvor stor skade skærmene gør.",
+   "ch": 5,
+   "p": 11
+  },
+  {
+   "id": "U16-C055",
+   "text": "Det, de fleste er enige om, er, at skærmen ikke bør gå ud over søvnen, bevægelsen og samværet med andre mennesker.",
+   "ch": 5,
+   "p": 11
+  }
+ ]
+}

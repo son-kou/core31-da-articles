@@ -1,0 +1,501 @@
+{
+ "schema": 1,
+ "unit": "U28",
+ "title": "Transport, byer og rejser",
+ "subtitle": "Hvordan danskerne kommer frem – og hvordan fremtidens byer skal indrettes",
+ "labels": [
+  "cykel",
+  "tog og bus",
+  "byplanlægning",
+  "rejser"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U28",
+  "tier: CORE",
+  "title: Transport, byer og rejser",
+  "subtitle: Hvordan danskerne kommer frem – og hvordan fremtidens byer skal indrettes",
+  "labels: cykel · tog og bus · byplanlægning · rejser",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Fra sadlen"
+  },
+  {
+   "title": "Hvorfor cykler danskerne?"
+  },
+  {
+   "title": "Tog, bus og metro"
+  },
+  {
+   "title": "Bilen"
+  },
+  {
+   "title": "Færgen"
+  },
+  {
+   "title": "Ud at rejse"
+  },
+  {
+   "title": "I lufthavnen"
+  },
+  {
+   "title": "Fremtidens trafik"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U28-C001",
+   "text": "Klokken er kvart over otte, og Amalie cykler hjemmefra på Nørrebro med sin taske i cykelkurven.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U28-C002",
+   "text": "Hun drejer ud på den brede cykelsti, som er adskilt fra bilerne af en kantsten, og glider ind i en strøm af hundredvis af andre cyklister.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U28-C003",
+   "text": "Ved lyskrydset rækker hun venstre arm ud for at vise, at hun skal til venstre, og manden bag hende løfter en hånd, da han bremser.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U28-C004",
+   "text": "Ved Nørreport springer hun af, låser cyklen fast i et stativ blandt tusindvis af andre og går de sidste hundrede meter til fods gennem gågaderne.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U28-C005",
+   "text": "Danmark er fladt, afstandene er korte, og i byerne er der bygget cykelstier i årtier.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U28-C006",
+   "text": "Mange skolebørn cykler selv i skole, og det er ikke usædvanligt at se en direktør på cykel i regnvejr.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U28-C007",
+   "text": "Det er ikke lovpligtigt at bære cykelhjelm, men mange gør det, og især børn bliver opfordret til det.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U28-C008",
+   "text": "Cyklisterne har deres egne uskrevne regler: Man holder til højre, så andre kan overhale, man signalerer, når man drejer eller stopper, og man kører ikke på fortovet.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U28-C009",
+   "text": "Den farligste situation for cyklister er, når en lastbil svinger til højre i et kryds og ikke ser cyklisten ved siden af sig.",
+   "ch": 1,
+   "p": 1
+  },
+  {
+   "id": "U28-C010",
+   "text": "Uden for de største byer er det sværere at undvære en bil.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U28-C011",
+   "text": "Togene forbinder de større byer, og på de lange strækninger kører der tog flere gange i timen, men i mange landdistrikter går bussen kun nogle få gange om dagen.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U28-C012",
+   "text": "I hovedstaden kører metroen døgnet rundt uden fører, og flere større byer har udbygget den kollektive trafik med metro eller letbane.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U28-C013",
+   "text": "Man betaler for de fleste rejser med et elektronisk rejsekort eller en app, og glemmer man at checke ind, risikerer man en kontrolafgift.",
+   "ch": 2,
+   "p": 2
+  },
+  {
+   "id": "U28-C014",
+   "text": "Billetter, tak.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Togføreren"
+  },
+  {
+   "id": "U28-C015",
+   "text": "Øh, jeg tror ikke, at min app nåede at registrere, at jeg steg på i Roskilde.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Jakob"
+  },
+  {
+   "id": "U28-C016",
+   "text": "Lad mig lige se. … Nej, du er ikke checket ind.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Togføreren"
+  },
+  {
+   "id": "U28-C017",
+   "text": "Toget kørte, mens jeg stod og ventede på, at den skulle åbne.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Jakob"
+  },
+  {
+   "id": "U28-C018",
+   "text": "Jeg kan godt se, at du har prøvet. Jeg skriver en note, så kan du klage bagefter. Men jeg er nødt til at give dig en afgift.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Togføreren"
+  },
+  {
+   "id": "U28-C019",
+   "text": "Kan jeg gøre noget ved det med det samme?",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Jakob"
+  },
+  {
+   "id": "U28-C020",
+   "text": "Ja, du kan købe en billet her til resten af turen. Og næste gang skal du checke ind på perronen, før toget kommer.",
+   "ch": 2,
+   "p": 3,
+   "speaker": "Togføreren"
+  },
+  {
+   "id": "U28-C021",
+   "text": "Forsinkelser er et tilbagevendende emne.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U28-C022",
+   "text": "Signalfejl, sporarbejde og stormvejr kan få hele køreplanen til at bryde sammen.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U28-C023",
+   "text": "De fleste pendlere har prøvet at stå på en kold perron og lytte til en meddelelse om, at toget er aflyst og erstattet af togbusser.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U28-C024",
+   "text": "På motorvejene er hastighedsgrænsen som regel 130 kilometer i timen, i byerne 50, og politiet kontrollerer farten med fotovogne og fartkameraer.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U28-C025",
+   "text": "Promillegrænsen er 0,5, og spritkørsel bliver straffet hårdt, også med frakendelse af kørekortet.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U28-C026",
+   "text": "Mange steder skal man bruge en parkeringsskive, hvor man selv stiller ankomsttidspunktet ind, og i de store byer er parkeringspladserne både få og dyre.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U28-C027",
+   "text": "Bilerne skal til syn med jævne mellemrum, og den, der kører med for slidte dæk eller defekte lygter, kan få en bøde.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U28-C028",
+   "text": "Asta er til køreprøve, og ved siden af hende sidder en sagkyndig med en blok på skødet.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U28-C029",
+   "text": "Kør ud fra parkeringspladsen, og drej til højre ved næste mulighed.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C030",
+   "text": "Til højre. Ja.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Asta"
+  },
+  {
+   "id": "U28-C031",
+   "text": "Husk at holde tilbage for cyklisterne, inden du svinger.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C032",
+   "text": "Ja, undskyld. Jeg så dem godt.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Asta"
+  },
+  {
+   "id": "U28-C033",
+   "text": "Fint. Ved hajtænderne derhenne har du ubetinget vigepligt.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C034",
+   "text": "Der kommer en lastbil, så jeg venter.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Asta"
+  },
+  {
+   "id": "U28-C035",
+   "text": "Godt. Find et sted at parkere langs kantstenen bag den hvide stationcar.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C036",
+   "text": "Baglæns?",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Asta"
+  },
+  {
+   "id": "U28-C037",
+   "text": "Ja tak.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C038",
+   "text": "Okay. Spejl, blink, skulderkig …",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Asta"
+  },
+  {
+   "id": "U28-C039",
+   "text": "Du må gerne trække vejret imens.",
+   "ch": 3,
+   "p": 6,
+   "speaker": "Den sagkyndige"
+  },
+  {
+   "id": "U28-C040",
+   "text": "Asta har bestået, men hun får en enkelt bemærkning om, at hun kørte lidt for langsomt på motorvejen.",
+   "ch": 3,
+   "p": 6
+  },
+  {
+   "id": "U28-C041",
+   "text": "Til mange af de små øer er færgen stadig den eneste forbindelse, og for øboerne er køreplanen afgørende for, om man kan nå et lægebesøg eller en aftenvagt på fastlandet.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U28-C042",
+   "text": "Klokken er lidt over fire, da færgen fra Svendborg glider ind mod havnen i Ærøskøbing og lægger til kaj.",
+   "ch": 4,
+   "p": 7
+  },
+  {
+   "id": "U28-C043",
+   "text": "Har alle deres ting? Kufferten, rygsækkene, posen med madpakker?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U28-C044",
+   "text": "Jeg har ikke set min jakke siden Svendborg.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Sønnen"
+  },
+  {
+   "id": "U28-C045",
+   "text": "Den ligger på bagsædet. Kom nu, vi skal ned til bilen.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Faren"
+  },
+  {
+   "id": "U28-C046",
+   "text": "Hvor langt er der til sommerhuset?",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Datteren"
+  },
+  {
+   "id": "U28-C047",
+   "text": "Ikke så langt. Hele øen er kun omkring 30 kilometer lang.",
+   "ch": 4,
+   "p": 7,
+   "speaker": "Moren"
+  },
+  {
+   "id": "U28-C048",
+   "text": "Lufthavnene er travle i skoleferierne, og en forsinket afgang kan sende hundredvis af feriegæster ud på gulvet i afgangshallen.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U28-C049",
+   "text": "»Flyet til Málaga er forsinket med cirka 45 minutter. Vi beklager ulejligheden.«",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U28-C050",
+   "text": "Andre holder ferie i Danmark: De lejer et sommerhus ved Vestkysten, tager på campingtur med teltet eller cykler rundt på Bornholm.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U28-C051",
+   "text": "Der kommer også flere og flere turister til Danmark, og i de mest populære gader i hovedstaden kan det om sommeren være svært at komme frem.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U28-C052",
+   "text": "Undskyld, hvordan kommer jeg til banegården?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Turisten"
+  },
+  {
+   "id": "U28-C053",
+   "text": "Gå ligeud til lyskrydset, drej til venstre, og så ligger den på højre hånd efter cirka 200 meter.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Amalie"
+  },
+  {
+   "id": "U28-C054",
+   "text": "Er det langt at gå?",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Turisten"
+  },
+  {
+   "id": "U28-C055",
+   "text": "Fem minutter. Eller tre, hvis du skynder dig.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Amalie"
+  },
+  {
+   "id": "U28-C056",
+   "text": "Tak!",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Turisten"
+  },
+  {
+   "id": "U28-C057",
+   "text": "Selv tak. God tur.",
+   "ch": 5,
+   "p": 9,
+   "speaker": "Amalie"
+  },
+  {
+   "id": "U28-C058",
+   "text": "Mange, der lander i Billund, kører videre i en lejet bil.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U28-C059",
+   "text": "Velkommen til Billund. Har du en reservation?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U28-C060",
+   "text": "Ja, i navnet Morten Hansen. En stationcar i fem dage.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Morten"
+  },
+  {
+   "id": "U28-C061",
+   "text": "Lige et øjeblik. Ja, her. Vil du have den fulde forsikring? Så er der ingen selvrisiko, hvis der sker noget.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U28-C062",
+   "text": "Hvad koster det?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Morten"
+  },
+  {
+   "id": "U28-C063",
+   "text": "120 kroner ekstra om dagen.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U28-C064",
+   "text": "Nej tak, det dækker mit kreditkort. Skal den afleveres med fuld tank?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Morten"
+  },
+  {
+   "id": "U28-C065",
+   "text": "Ja. Når du passerer rundkørslen ved udkørslen, ligger der en tankstation på højre hånd. Derfra er der fem minutter hertil.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U28-C066",
+   "text": "Perfekt. Og hvis jeg finder en ridse?",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Morten"
+  },
+  {
+   "id": "U28-C067",
+   "text": "Så tag et billede af den, før du kører afsted, så ordner vi det, når du kommer tilbage.",
+   "ch": 6,
+   "p": 10,
+   "speaker": "Medarbejderen"
+  },
+  {
+   "id": "U28-C068",
+   "text": "Hjemmearbejde har fået nogle til at pendle sjældnere, mens andre flytter længere væk fra byen, fordi de kun skal på kontoret et par dage om ugen.",
+   "ch": 7,
+   "p": 11
+  },
+  {
+   "id": "U28-C069",
+   "text": "Det hænger blandt andet sammen med, at transport ikke kun handler om at komme fra A til B, men om, hvordan vi vil leve.",
+   "ch": 7,
+   "p": 11
+  }
+ ]
+}

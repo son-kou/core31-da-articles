@@ -1,0 +1,296 @@
+{
+ "schema": 1,
+ "unit": "U10",
+ "title": "Velfærdsstaten",
+ "subtitle": "Hvem betaler, og hvem får?",
+ "labels": [
+  "skat",
+  "velfærd",
+  "pension",
+  "ulighed"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U10",
+  "tier: CORE",
+  "title: Velfærdsstaten",
+  "subtitle: Hvem betaler, og hvem får?",
+  "labels: skat · velfærd · pension · ulighed",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Den første lønseddel"
+  },
+  {
+   "title": "Princippet"
+  },
+  {
+   "title": "Skat, moms og afgifter"
+  },
+  {
+   "title": "Tre niveauer"
+  },
+  {
+   "title": "En forsikring snarere end en opsparing"
+  },
+  {
+   "title": "Flere ældre, færre hænder"
+  },
+  {
+   "title": "Tre veje"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U10-C001",
+   "text": "Hvad får man egentlig for sin skat?",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U10-C002",
+   "text": "Spørgsmålet melder sig hos de fleste, første gang de ser deres lønseddel.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U10-C003",
+   "text": "Freja er 19 og har lige fået sin første løn fra et lager, hvor hun arbejder, mens hun venter på at komme ind på sygeplejerskeuddannelsen.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U10-C004",
+   "text": "Far, hvorfor er der så meget mindre på min konto, end der står i kontrakten?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U10-C005",
+   "text": "Det er skatten. Først trækkes et bidrag til arbejdsmarkedet, og så betaler du skat af resten.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Far"
+  },
+  {
+   "id": "U10-C006",
+   "text": "Men jeg har jo ikke bedt om at betale noget.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U10-C007",
+   "text": "Nej, det har ingen. Men du har vel også gået gratis i skole i tretten år?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Far"
+  },
+  {
+   "id": "U10-C008",
+   "text": "Det er da ikke det samme.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U10-C009",
+   "text": "Nej, men det hænger sammen.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Far"
+  },
+  {
+   "id": "U10-C010",
+   "text": "Jamen, så betaler jeg jo også for folk, der ikke gider arbejde.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U10-C011",
+   "text": "En lille del af skatten går til dem. Det meste går til ting, du selv bruger – eller kommer til at bruge.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Far"
+  },
+  {
+   "id": "U10-C012",
+   "text": "Som hvad?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Freja"
+  },
+  {
+   "id": "U10-C013",
+   "text": "Lægen, vejene, din uddannelse. Og om fyrre år din pension.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Far"
+  },
+  {
+   "id": "U10-C014",
+   "text": "Den danske velfærdsstat bygger på et princip om, at en række ydelser er for alle, uanset indkomst.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U10-C015",
+   "text": "Det koster ikke noget at gå til lægen eller at blive opereret, og danske studerende får endda SU, mens de læser.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U10-C016",
+   "text": "Nogle ydelser er dog behovsbestemte: Kontanthjælp får man kun, hvis man ikke selv kan forsørge sig, og både ens egen formue og en eventuel ægtefælles indkomst bliver taget i betragtning.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U10-C017",
+   "text": "Det samme gælder for eksempel boligstøtte, som lejere med lave indkomster kan søge om.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U10-C018",
+   "text": "Det hele bliver betalt over skatten, og Danmarks samlede skattetryk er blandt de højeste i verden.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C019",
+   "text": "Indkomstskatten er den største post, og den stiger for de højeste indkomster.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C020",
+   "text": "Dertil kommer moms på næsten alt, hvad man køber, og afgifter på blandt andet biler, brændstof, energi, alkohol og tobak.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C021",
+   "text": "Skattetrykket er nok højt, men velfærdsstaten har fortsat bred opbakning.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C022",
+   "text": "Hvert forår får man en årsopgørelse fra skattevæsenet, og har man betalt for lidt i løbet af året, skal man betale restskat.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C023",
+   "text": "Det kan derfor betale sig at rette sin forskudsopgørelse, når man skifter job eller får lønforhøjelse.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C024",
+   "text": "Sort arbejde – arbejde, hvor skattepligtig indkomst ikke bliver oplyst til Skattestyrelsen – er ulovligt og kan få konsekvenser for både den, der udfører det, og den, der køber det.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U10-C025",
+   "text": "Kommunerne tager sig af skoler, daginstitutioner, hjemmehjælp og jobcentre, regionerne af sygehusene og staten af blandt andet politi, forsvar og universiteter.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U10-C026",
+   "text": "Man kan se velfærdsstaten som en livslang opsparing.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C027",
+   "text": "Som barn får man gratis skole, som ung SU og som gammel pension og pleje, og i årene midt imellem betaler man ind.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C028",
+   "text": "Billedet viser, at de fleste både giver og får, men det halter på to punkter.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C029",
+   "text": "For det første er der ingen personlig konto: De penge, man betaler i dag, går til dem, der har brug for dem i dag.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C030",
+   "text": "For det andet får man ikke nødvendigvis det samme ud, som man har betalt ind.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C031",
+   "text": "Den, der har en høj indkomst og et godt helbred, betaler typisk mere, end hun nogensinde får tilbage, mens den, der bliver syg eller mister sit arbejde, får mere.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C032",
+   "text": "Velfærdsstaten er altså snarere en forsikring end en opsparing – og en omfordeling fra rige til fattige og fra raske til syge.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U10-C033",
+   "text": "Hele konstruktionen hviler på, at de fleste voksne arbejder og betaler skat.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U10-C034",
+   "text": "Spørgsmålet er ikke kun, om der er penge nok, men også, om der er hænder nok til at passe de ældre.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U10-C035",
+   "text": "Da danskerne lever længere, har Folketinget knyttet folkepensionsalderen til levetiden.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U10-C036",
+   "text": "Reformen er omdiskuteret, fordi ikke alle kan arbejde lige længe, og siden 2022 har personer med et langt arbejdsliv derfor kunnet søge om tidlig pension.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U10-C037",
+   "text": "Der er grundlæggende tre måder at få regnestykket til at gå op på: flere i arbejde, højere skatter eller færre ydelser.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U10-C038",
+   "text": "Færre ydelser kan spare penge, men de kan også undergrave den brede opbakning, som hele modellen hviler på.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U10-C039",
+   "text": "Velfærdsstaten er på sin vis en aftale mellem generationer, som ingen af dem har skrevet under på.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U10-C040",
+   "text": "Den bliver forhandlet igen ved hvert eneste folketingsvalg.",
+   "ch": 6,
+   "p": 7
+  }
+ ]
+}

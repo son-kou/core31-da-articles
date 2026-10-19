@@ -1,0 +1,475 @@
+{
+ "schema": 1,
+ "unit": "U29",
+ "title": "Økonomi",
+ "subtitle": "Fra husholdningsbudget til erhvervsliv",
+ "labels": [
+  "budget",
+  "forbrug",
+  "adfærdsøkonomi",
+  "erhvervsliv"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U29",
+  "tier: CORE",
+  "title: Økonomi",
+  "subtitle: Fra husholdningsbudget til erhvervsliv",
+  "labels: budget · forbrug · adfærdsøkonomi · erhvervsliv",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Rådighedsbeløbet"
+  },
+  {
+   "title": "Penge, man ikke har"
+  },
+  {
+   "title": "Hvorfor vi køber det, vi køber"
+  },
+  {
+   "title": "Forbrugerens rettigheder"
+  },
+  {
+   "title": "Selvstændig"
+  },
+  {
+   "title": "Når priserne stiger"
+  },
+  {
+   "title": "Den første bolig"
+  },
+  {
+   "title": "Den første aktie"
+  },
+  {
+   "title": "Hvad pengene er til"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U29-C001",
+   "text": "Emil er 23, har lige fået sit første fuldtidsjob og sidder over for en rådgiver i banken, fordi han vil låne penge til en brugt bil.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U29-C002",
+   "text": "Hvor meget har du tilbage hver måned, når de faste udgifter er betalt?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C003",
+   "text": "Det ved jeg faktisk ikke helt. Måske et par tusind?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U29-C004",
+   "text": "Skal vi regne det ud sammen? Vi starter med huslejen og tager så el, telefon og forsikringer bagefter.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C005",
+   "text": "Og streamingtjenester. Jeg tror, jeg har fire.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U29-C006",
+   "text": "Bruger du dem alle sammen?",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C007",
+   "text": "Ærligt talt nej. To af dem har jeg glemt at opsige.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U29-C008",
+   "text": "Det er et godt sted at begynde. Når vi har dit rådighedsbeløb, kan vi se, hvor stort et lån der giver mening.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C009",
+   "text": "Fair nok. Jeg troede bare, at det var lønnen, der var det vigtigste.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Emil"
+  },
+  {
+   "id": "U29-C010",
+   "text": "Lønnen siger, hvad du tjener. Rådighedsbeløbet siger, hvad du har råd til.",
+   "ch": 0,
+   "p": 0,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C011",
+   "text": "Et rådighedsbeløb er det, der er tilbage, når alle de faste udgifter er betalt – det, man skal leve af til mad, tøj, fritid og uforudsete regninger.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U29-C012",
+   "text": "Et enkelt budget med indtægter i den ene kolonne og udgifter i den anden giver overblik, og det afslører ofte små abonnementer, der tilsammen bliver til store beløb.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U29-C013",
+   "text": "Rådgivere anbefaler desuden, at man har en buffer til uforudsete udgifter, så en ødelagt vaskemaskine eller en tandlægeregning ikke skal betales med et dyrt lån.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U29-C014",
+   "text": "Det er blevet nemmere end nogensinde at låne penge – ofte med et par klik på telefonen.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U29-C015",
+   "text": "Tidligere kunne såkaldte kviklån koste mere i renter og gebyrer end selve det beløb, man lånte.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U29-C016",
+   "text": "Siden 2020 har der derfor været et lovbestemt loft over, hvor dyre den slags lån må være.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U29-C017",
+   "text": "Og jo lettere det er at låne, desto lettere er det også at miste overblikket.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U29-C018",
+   "text": "Den, der ikke betaler sine regninger, kan blive registreret som dårlig betaler, og så kan det i årevis blive svært at få et lån, en lejlighed eller et mobilabonnement.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U29-C019",
+   "text": "Vi køber et årskort til fitnesscentret i januar, fordi vi betaler for den person, vi gerne vil være.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U29-C020",
+   "text": "Men det er den person, vi faktisk er, der skal tage derhen en regnfuld tirsdag i februar.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U29-C021",
+   "text": "Butikker bruger den samme psykologi, når de placerer slik ved kassen, skriver »før« og en højere pris ved siden af tilbuddet eller tilbyder tre for to.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U29-C022",
+   "text": "Det er ikke ulovligt, men det er nyttigt at kende de greb, hvis man vil styre sit forbrug i stedet for at blive styret af det.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U29-C023",
+   "text": "Fortryder man et køb i en almindelig butik, er det op til butikken, om man må bytte varen – det er en service og ikke en rettighed.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U29-C024",
+   "text": "Har varen derimod en fejl, har man to års reklamationsret, både i butikken og på nettet.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U29-C025",
+   "text": "Jeg købte de her høretelefoner for tre måneder siden, og nu virker den ene side ikke.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U29-C026",
+   "text": "Kan jeg se kvitteringen?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U29-C027",
+   "text": "Den ligger i min mail. Her.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U29-C028",
+   "text": "Fint. Vi sender dem til reparation, eller også får du et par nye, hvis de ikke kan laves.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U29-C029",
+   "text": "Hvor lang tid tager det?",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Kunden"
+  },
+  {
+   "id": "U29-C030",
+   "text": "Normalt et par uger. Jeg ringer, når de er klar.",
+   "ch": 3,
+   "p": 4,
+   "speaker": "Ekspedienten"
+  },
+  {
+   "id": "U29-C031",
+   "text": "Er man uenig med en forretning, kan man klage til et nævn for forbrugerklager, og mange tvister bliver løst, uden at det kommer så langt.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U29-C032",
+   "text": "Louise er grafisk designer og har drevet sin egen virksomhed fra et kontorfællesskab i Odense i tre år.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U29-C033",
+   "text": "Din omsætning er steget med 20 procent i forhold til sidste år. Tillykke.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Revisoren"
+  },
+  {
+   "id": "U29-C034",
+   "text": "Tak. Men hvorfor føles det så ikke sådan?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Louise"
+  },
+  {
+   "id": "U29-C035",
+   "text": "Fordi en del af pengene ikke er dine. Momsen skal med i momsregnskabet og afregnes med Skattestyrelsen, og du skal huske at lægge penge til side til skatten.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Revisoren"
+  },
+  {
+   "id": "U29-C036",
+   "text": "Det gør jeg også. Næsten.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Louise"
+  },
+  {
+   "id": "U29-C037",
+   "text": "Og så er der to kunder, der ikke har betalt deres fakturaer. Den ene er tre måneder bagud.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Revisoren"
+  },
+  {
+   "id": "U29-C038",
+   "text": "Jeg har skrevet til dem to gange. Det er så pinligt at rykke folk for penge.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Louise"
+  },
+  {
+   "id": "U29-C039",
+   "text": "Det er mere pinligt at gå konkurs. Send en rykker i dag.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Revisoren"
+  },
+  {
+   "id": "U29-C040",
+   "text": "Friheden til at bestemme selv har en pris: Der er ingen fast løn, ingen betalt ferie og ingen arbejdsgiver, der betaler til pensionen.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U29-C041",
+   "text": "Inflation betyder, at priserne generelt stiger, så man kan købe mindre for de samme penge.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U29-C042",
+   "text": "Når renten stiger, bliver det dyrere at låne penge til hus og bil, og huspriserne har det med at falde; når renten falder, kan det trække i den modsatte retning.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U29-C043",
+   "text": "For en familie med et stort boliglån kan selv små ændringer i renten betyde meget for budgettet.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U29-C044",
+   "text": "Maja og Ahmad har sparet op i fem år og vil gerne høre, om de har råd til at købe en lejlighed i Aarhus.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U29-C045",
+   "text": "Lejligheden koster 2,4 millioner. Når man køber bolig i Danmark, skal man selv betale mindst fem procent i udbetaling.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C046",
+   "text": "Det er 120.000. Dem har vi.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U29-C047",
+   "text": "Godt. Resten kan I låne: op til 80 procent af købesummen i et realkreditinstitut og det sidste her i banken.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C048",
+   "text": "Hvad er forskellen?",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Ahmad"
+  },
+  {
+   "id": "U29-C049",
+   "text": "Realkreditlånet er billigere, fordi det er sikret med pant i boligen. Banklånet har en højere rente, så det giver mening at betale det af først.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C050",
+   "text": "Og skal vi vælge fast eller variabel rente?",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U29-C051",
+   "text": "Med fast rente kender I renten i hele lånets løbetid. Den variable er billigere lige nu, men der er ingen garanti for, at den bliver ved med at være det.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C052",
+   "text": "Hvad ville du selv vælge?",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Ahmad"
+  },
+  {
+   "id": "U29-C053",
+   "text": "Det kommer an på, hvor godt I kan tåle, at budgettet svinger. Lad os regne på begge dele.",
+   "ch": 6,
+   "p": 7,
+   "speaker": "Rådgiveren"
+  },
+  {
+   "id": "U29-C054",
+   "text": "Sara er 22 og har lige købt sine første aktier gennem en app på telefonen.",
+   "ch": 7,
+   "p": 8
+  },
+  {
+   "id": "U29-C055",
+   "text": "Jeg har investeret 5.000 kroner i et amerikansk selskab, der laver elbiler.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U29-C056",
+   "text": "Okay. Hvorfor lige det selskab?",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Onkel Peter"
+  },
+  {
+   "id": "U29-C057",
+   "text": "Alle på sociale medier siger, at kursen kommer til at stige. Den er allerede steget 30 procent på en måned.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U29-C058",
+   "text": "Det er netop det, der bekymrer mig. Når alle taler om noget, er det ofte for sent.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Onkel Peter"
+  },
+  {
+   "id": "U29-C059",
+   "text": "Du lyder som min mor.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U29-C060",
+   "text": "Jeg har selv tabt penge på den måde. Hvis du vil investere, så spred pengene ud på mange selskaber, og lad dem stå i mange år.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Onkel Peter"
+  },
+  {
+   "id": "U29-C061",
+   "text": "Det lyder kedeligt.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Sara"
+  },
+  {
+   "id": "U29-C062",
+   "text": "Det er kedeligt. Det er derfor, det virker.",
+   "ch": 7,
+   "p": 8,
+   "speaker": "Onkel Peter"
+  },
+  {
+   "id": "U29-C063",
+   "text": "Emil gik fra banken med et lån, der var mindre, end han havde håbet, og med to streamingtjenester mindre.",
+   "ch": 8,
+   "p": 9
+  },
+  {
+   "id": "U29-C064",
+   "text": "Bilen blev lidt ældre og lidt mindre, men den kører.",
+   "ch": 8,
+   "p": 9
+  }
+ ]
+}

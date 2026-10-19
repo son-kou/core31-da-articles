@@ -1,0 +1,361 @@
+{
+ "schema": 1,
+ "unit": "U23",
+ "title": "Sprog og identitet",
+ "subtitle": "Dansk, dialekter og flersprogethed",
+ "labels": [
+  "udtale",
+  "dialekter",
+  "indvandring",
+  "flersprogethed"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U23",
+  "tier: CORE",
+  "title: Sprog og identitet",
+  "subtitle: Dansk, dialekter og flersprogethed",
+  "labels: udtale · dialekter · indvandring · flersprogethed",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "»Hva'?«"
+  },
+  {
+   "title": "Et sprog, der er svært at høre"
+  },
+  {
+   "title": "Dialekter"
+  },
+  {
+   "title": "Navne"
+  },
+  {
+   "title": "Nye ord"
+  },
+  {
+   "title": "To sprog ved samme bord"
+  },
+  {
+   "title": "At blive en del af et sprogfællesskab"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U23-C001",
+   "text": "Mei har boet i Aarhus i et halvt år og taler efterhånden et godt dansk.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U23-C002",
+   "text": "En fredag på kontoret inviterer hun sin kollega Anders med ud at spise.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U23-C003",
+   "text": "Kunne du tænke dig at tage med ud og spise i aften?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mei"
+  },
+  {
+   "id": "U23-C004",
+   "text": "Hva'?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Anders"
+  },
+  {
+   "id": "U23-C005",
+   "text": "Undskyld … Jeg spurgte bare, om du ville med ud at spise.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mei"
+  },
+  {
+   "id": "U23-C006",
+   "text": "Nå, jo, gerne! Jeg hørte det bare ikke. Der var en, der larmede med kaffemaskinen.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Anders"
+  },
+  {
+   "id": "U23-C007",
+   "text": "Okay. Jeg troede, at du blev sur.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mei"
+  },
+  {
+   "id": "U23-C008",
+   "text": "Sur? Fordi jeg sagde »hva'«?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Anders"
+  },
+  {
+   "id": "U23-C009",
+   "text": "Ja. Hvor jeg kommer fra, ville det lyde ret uhøfligt.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Mei"
+  },
+  {
+   "id": "U23-C010",
+   "text": "Her betyder det bare, at jeg ikke hørte efter. Min mor ville sige »hvad siger du«, men det er der ikke mange andre, der gør.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Anders"
+  },
+  {
+   "id": "U23-C011",
+   "text": "For mange udlændinge er det korte, flade »hva'?« et af de første chok i mødet med danskerne.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C012",
+   "text": "I mange sprog ville man sige »undskyld, hvad sagde du?« eller i det mindste skrue lidt op for høfligheden.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C013",
+   "text": "I uformelle samtaler kan »hva'?« være helt neutralt mellem venner og kolleger.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C014",
+   "text": "På dansk bruger man relativt få faste høflighedsformler i hverdagen, men det er ikke af den grund uhøfligt – høfligheden ligger i stedet i tonen og ordvalget.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C015",
+   "text": "Det samme gælder det manglende »vær så venlig«: Hvor engelsk har »please«, nøjes dansk ofte med et »lige« eller et spørgsmål i stedet for en ordre.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C016",
+   "text": "»Kan du lige række mig saltet?« er en helt høflig sætning.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U23-C017",
+   "text": "Mange, der lærer dansk, oplever, at det er sværere at forstå talt dansk end at læse det.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U23-C018",
+   "text": "Det skyldes blandt andet, at dansk har usædvanligt mange vokallyde, og at mange konsonanter bliver svækket eller helt forsvinder i udtalen, som når d'et i »mad« bliver blødt.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U23-C019",
+   "text": "Hertil kommer stødet, et lille knæk i stemmen, som kan være det eneste, der skiller to ord som »hun« og »hund« ad.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U23-C020",
+   "text": "Dansk tales med mange forskellige dialekter, selvom forskellene er blevet mindre i løbet af det 20. århundrede.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U23-C021",
+   "text": "I Sønderjylland hilser man med et »mojn«, både når man mødes, og når man går.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U23-C022",
+   "text": "Radio, fjernsyn, skole og flytninger har dog fået de fleste unge til at tale noget, der minder om københavnsk rigsdansk, og mange traditionelle dialekter er ved at svinde ind.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U23-C023",
+   "text": "Alligevel kan man ofte høre, hvor en person kommer fra, på tonefaldet og på enkelte ord – og mange er stolte af at kunne høres.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U23-C024",
+   "text": "I de større byer er der desuden opstået nye måder at tale på blandt unge med forskellige sproglige baggrunde, hvor ord fra arabisk, tyrkisk og engelsk blandes ind i dansk.",
+   "ch": 2,
+   "p": 4
+  },
+  {
+   "id": "U23-C025",
+   "text": "Mange danske efternavne ender på -sen: Jensen, Nielsen, Hansen og Pedersen er blandt de mest udbredte.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U23-C026",
+   "text": "Navnene stammer fra en tid, hvor Peders søn hed Pedersen, og hans søn igen kunne hedde Hansen, hvis faren hed Hans.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U23-C027",
+   "text": "I dag ønsker mange et mere særpræget navn, og man kan søge om at få godkendt et helt nyt efternavn, som ikke allerede findes som efternavn i Danmark.",
+   "ch": 3,
+   "p": 5
+  },
+  {
+   "id": "U23-C028",
+   "text": "Mange nye ord kommer i dag fra engelsk, og man kan høre unge danskere sige, at noget er »nice«, eller at de skal »chille« i weekenden.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U23-C029",
+   "text": "Dansk Sprognævn følger udviklingen og fastlægger retskrivningen, men nævnet kan ikke forbyde nogen at bruge et ord.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U23-C030",
+   "text": "Lånene er ikke en trussel i sig selv: De fleste bliver tilpasset dansk udtale og bøjning, så man siger »flere computere« og »jeg chillede«.",
+   "ch": 4,
+   "p": 6
+  },
+  {
+   "id": "U23-C031",
+   "text": "I dag har en betydelig del af befolkningen indvandrerbaggrund, og i mange danske hjem tales der et andet sprog end dansk ved middagsbordet.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U23-C032",
+   "text": "Hos familien Haddad i Odense taler forældrene arabisk med hinanden, mens børnene helst svarer på dansk.",
+   "ch": 5,
+   "p": 7
+  },
+  {
+   "id": "U23-C033",
+   "text": "Rami, kan du sende mig brødet?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Far"
+  },
+  {
+   "id": "U23-C034",
+   "text": "Her. Mor, må jeg få noget mere ris?",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Rami"
+  },
+  {
+   "id": "U23-C035",
+   "text": "Spørg på arabisk.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U23-C036",
+   "text": "Mor …",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Rami"
+  },
+  {
+   "id": "U23-C037",
+   "text": "Det tager to sekunder. Din farmor forstår ikke dansk, og du skal kunne tale med hende i telefonen.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U23-C038",
+   "text": "Okay, okay.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Rami"
+  },
+  {
+   "id": "U23-C039",
+   "text": "Rami spørger på arabisk, og hans mor smiler.",
+   "ch": 5,
+   "p": 8
+  },
+  {
+   "id": "U23-C040",
+   "text": "Se, det kunne du jo godt.",
+   "ch": 5,
+   "p": 8,
+   "speaker": "Mor"
+  },
+  {
+   "id": "U23-C041",
+   "text": "Forskning i flersprogethed viser, at børn sagtens kan lære to eller flere sprog på samme tid.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U23-C042",
+   "text": "Det skader heller ikke deres dansk at tale et andet sprog derhjemme.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U23-C043",
+   "text": "Det kræver dog, at begge sprog bliver brugt nok, og mange forældre oplever, at modersmålet langsomt taber terræn, når børnene begynder i skole.",
+   "ch": 5,
+   "p": 9
+  },
+  {
+   "id": "U23-C044",
+   "text": "Den, der lærer dansk som voksen, lærer ikke kun ord og grammatik, men også hvornår man siger »hva'?«, hvornår man siger »undskyld«, og hvornår en underdrivelse er en ros.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U23-C045",
+   "text": "Mange beskriver, at det sværeste ikke er at gøre sig forstået, men at få danskerne til at blive ved med at tale dansk, når de hører en accent.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U23-C046",
+   "text": "Det er venligt ment, når en dansker skifter til engelsk, men det kan fratage den, der er ved at lære sproget, den træning, der skal til.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U23-C047",
+   "text": "Det kan hjælpe at spørge direkte: »Vil du ikke nok blive ved med at tale dansk? Jeg vil gerne øve mig.«",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U23-C048",
+   "text": "Det bedste, en dansker kan gøre, er måske ganske enkelt at blive ved med at tale dansk – lidt langsommere.",
+   "ch": 6,
+   "p": 10
+  },
+  {
+   "id": "U23-C049",
+   "text": "En dag på kontoret, et år efter samtalen om middagen, er det Mei, der ikke hører, hvad Anders siger.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U23-C050",
+   "text": "Hun svarer uden at tænke over det: »Hva'?«",
+   "ch": 6,
+   "p": 11
+  }
+ ]
+}

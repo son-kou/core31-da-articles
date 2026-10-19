@@ -1,0 +1,350 @@
+{
+ "schema": 1,
+ "unit": "U18",
+ "title": "Traditioner, højtider og hygge",
+ "subtitle": "Et år i danske ritualer",
+ "labels": [
+  "jul",
+  "påske",
+  "sankthans",
+  "hygge"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U18",
+  "tier: CORE",
+  "title: Traditioner, højtider og hygge",
+  "subtitle: Et år i danske ritualer",
+  "labels: jul · påske · sankthans · hygge",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "December"
+  },
+  {
+   "title": "Juleaften"
+  },
+  {
+   "title": "Nytår og fastelavn"
+  },
+  {
+   "title": "Påske og sankthans"
+  },
+  {
+   "title": "Livets milepæle"
+  },
+  {
+   "title": "Hygge"
+  },
+  {
+   "title": "Traditioner i forandring"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U18-C001",
+   "text": "I butikkerne dufter der af gløgg og æbleskiver, og på arbejdspladserne begynder julefrokosterne allerede i november.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U18-C002",
+   "text": "Julefrokosten er en lang aften med sild, snaps, lune retter og sang, og som man siger: Det, der sker til julefrokosten, bliver til julefrokosten.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U18-C003",
+   "text": "I begyndelsen af december bliver Amir inviteret til julefrokost hos sin kollega Hanne.",
+   "ch": 0,
+   "p": 1
+  },
+  {
+   "id": "U18-C004",
+   "text": "Vi holder julefrokost på lørdag. Har du lyst til at komme?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U18-C005",
+   "text": "Ja, gerne! Skal jeg tage noget med?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Amir"
+  },
+  {
+   "id": "U18-C006",
+   "text": "Bare en lille gave til omkring halvtreds kroner. Vi laver pakkeleg.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U18-C007",
+   "text": "Pakkeleg? Det må du forklare mig.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Amir"
+  },
+  {
+   "id": "U18-C008",
+   "text": "Det er sjovere, hvis du bare kaster dig ud i det.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U18-C009",
+   "text": "Mandagen efter står de ved kaffemaskinen.",
+   "ch": 0,
+   "p": 2
+  },
+  {
+   "id": "U18-C010",
+   "text": "Tak for sidst! Det var en rigtig hyggelig aften.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Amir"
+  },
+  {
+   "id": "U18-C011",
+   "text": "Selv tak. Godt, du kunne komme.",
+   "ch": 0,
+   "p": 2,
+   "speaker": "Hanne"
+  },
+  {
+   "id": "U18-C012",
+   "text": "Danskerne fejrer jul om aftenen den 24. december, juleaften.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U18-C013",
+   "text": "Hos Maja og Jonas er der dækket op til ti, og mormor har taget sin egen sovs med, fordi hun ikke stoler på andres.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U18-C014",
+   "text": "I desserten er der gemt en hel mandel, og den, der finder den, får en lille gave.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U18-C015",
+   "text": "Traditionen tro skal den heldige dog holde mandlen skjult, til alle har spist op.",
+   "ch": 1,
+   "p": 3
+  },
+  {
+   "id": "U18-C016",
+   "text": "Er der nogen, der har fundet mandlen?",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Mormor"
+  },
+  {
+   "id": "U18-C017",
+   "text": "Ikke mig.",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Oliver"
+  },
+  {
+   "id": "U18-C018",
+   "text": "Heller ikke mig. Jeg har spist tre portioner!",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U18-C019",
+   "text": "Så må vi have en portion mere. Hvad siger du til det, Jonas?",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Mormor"
+  },
+  {
+   "id": "U18-C020",
+   "text": "Jeg kan ikke. Jeg er ved at revne.",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U18-C021",
+   "text": "Mor, du har den, ikke? Du griner!",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U18-C022",
+   "text": "Jeg griner skam ikke. … Okay, okay. Her er den.",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U18-C023",
+   "text": "Hvor længe har du haft den?",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U18-C024",
+   "text": "Siden første skefuld.",
+   "ch": 1,
+   "p": 4,
+   "speaker": "Maja"
+  },
+  {
+   "id": "U18-C025",
+   "text": "Bagefter danser mange familier rundt om juletræet og synger, og gaverne bliver som regel ikke pakket op, før dansen er slut.",
+   "ch": 1,
+   "p": 5
+  },
+  {
+   "id": "U18-C026",
+   "text": "Den 25. og 26. december er helligdage, og så går turen til julefrokost hos den anden side af familien.",
+   "ch": 1,
+   "p": 5
+  },
+  {
+   "id": "U18-C027",
+   "text": "Nytårsaften den 31. december er mere støjende.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U18-C028",
+   "text": "Ved midnat står mange på en stol, og når klokkerne på Rådhuset har slået tolv slag, hopper de ned i det nye år under fyrværkeriet.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U18-C029",
+   "text": "Bagefter spiser man kransekage, og man ønsker hinanden godt nytår, også dem man ikke kender, på vej hjem gennem gaderne.",
+   "ch": 2,
+   "p": 6
+  },
+  {
+   "id": "U18-C030",
+   "text": "Syv uger før påske fejrer man fastelavn.",
+   "ch": 2,
+   "p": 7
+  },
+  {
+   "id": "U18-C031",
+   "text": "Børnene klæder sig ud som hekse, prinsesser, pirater eller superhelte, og mange voksne gør det samme til fastelavnsfester på arbejdet.",
+   "ch": 2,
+   "p": 7
+  },
+  {
+   "id": "U18-C032",
+   "text": "Børnene slår på skift på en tønde med slik, til den går i stykker – det kaldes at slå katten af tønden.",
+   "ch": 2,
+   "p": 7
+  },
+  {
+   "id": "U18-C033",
+   "text": "Navnet stammer fra en tid, hvor der faktisk var en levende kat i tønden.",
+   "ch": 2,
+   "p": 7
+  },
+  {
+   "id": "U18-C034",
+   "text": "Påsken giver mange danskere fem fridage, og påskefrokosten med æg, sild, lam og påskeøl er for mange lige så vigtig som de kirkelige ritualer.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U18-C035",
+   "text": "Om aftenen den 23. juni holder man sankthans, som markerer tiden omkring årets længste dag.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U18-C036",
+   "text": "Man tænder bål, ofte ved stranden, og brænder en heks af halm, som ifølge traditionen flyver til Bloksbjerg.",
+   "ch": 3,
+   "p": 8
+  },
+  {
+   "id": "U18-C037",
+   "text": "Mange traditioner følger ikke kalenderen, men livet.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U18-C038",
+   "text": "De fleste danske børn bliver døbt, og omkring 14-årsalderen bliver mange konfirmeret i kirken, efterfulgt af en stor fest med familien, taler, sange og gaver – ofte i form af penge.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U18-C039",
+   "text": "Til fødselsdage hejser man flaget, og til børnefødselsdage er der lagkage eller en kagemand, som fødselaren skærer hovedet af under skrig og jubel.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U18-C040",
+   "text": "Til bryllupper er der taler, sange skrevet til lejligheden og en brudevals ved midnat, og når gæsterne slår på glassene, skal brudeparret kysse.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U18-C041",
+   "text": "Runde fødselsdage fejres med reception eller fest, og ved begravelser samles man efter ceremonien til kaffe og sandwich og deler minder om den afdøde.",
+   "ch": 4,
+   "p": 9
+  },
+  {
+   "id": "U18-C042",
+   "text": "Man kan hygge sig med en kop te og en bog, med en god ven over et spil kort eller med familien foran fjernsynet en fredag aften.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U18-C043",
+   "text": "Hyggen har dog også en skyggeside.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U18-C044",
+   "text": "Den forudsætter, at alle kender reglerne, og det kan være svært for en nytilflytter at blive lukket ind i en hygge, der bygger på fælles erindringer og uudtalte koder.",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U18-C045",
+   "text": "Den, der bringer et besværligt emne op ved middagsbordet, kan hurtigt blive mødt med den milde irettesættelse: »Skal vi ikke bare hygge os?«",
+   "ch": 5,
+   "p": 10
+  },
+  {
+   "id": "U18-C046",
+   "text": "Traditionerne skifter også indhold: I mange familier står der i dag både and og en nøddesteg på julebordet, og skilsmissebørn holder juleaften hos skiftevis mor og far.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U18-C047",
+   "text": "Næste år har Ida bedt om at være den, der skjuler mandlen.",
+   "ch": 6,
+   "p": 11
+  },
+  {
+   "id": "U18-C048",
+   "text": "Hun øver sig allerede på at holde masken.",
+   "ch": 6,
+   "p": 11
+  }
+ ]
+}

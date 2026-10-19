@@ -1,0 +1,347 @@
+{
+ "schema": 1,
+ "unit": "U26",
+ "title": "Natur og landskab",
+ "subtitle": "Vejr, kyst, dyr og planter",
+ "labels": [
+  "vejr",
+  "kyst",
+  "skov",
+  "biodiversitet"
+ ],
+ "status": "V3_CORE_FROZEN_FOR_STUDY",
+ "frontmatter": [
+  "unit: U26",
+  "tier: CORE",
+  "title: Natur og landskab",
+  "subtitle: Vejr, kyst, dyr og planter",
+  "labels: vejr · kyst · skov · biodiversitet",
+  "status: V3_CORE_FROZEN_FOR_STUDY"
+ ],
+ "chapters": [
+  {
+   "title": "Vejrudsigten"
+  },
+  {
+   "title": "Årstiderne"
+  },
+  {
+   "title": "Aldrig langt til havet"
+  },
+  {
+   "title": "Skov og mark"
+  },
+  {
+   "title": "Spor i skoven"
+  },
+  {
+   "title": "Når naturen kommer i klemme"
+  },
+  {
+   "title": "Ude i det fri"
+  }
+ ],
+ "sentences": [
+  {
+   "id": "U26-C001",
+   "text": "»I morgen begynder dagen gråt og fugtigt med støvregn mange steder, men i løbet af formiddagen klarer det op fra vest.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C002",
+   "text": "Om eftermiddagen kommer der enkelte byger, nogle steder med torden og hagl, og ved de jyske vestkyster bliver der hård vind.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C003",
+   "text": "Temperaturen når op mellem 12 og 15 grader, og i nat kan der lokalt være frost i jorden.«",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C004",
+   "text": "Sådan kan en vejrudsigt lyde en dag i april, og den viser, hvorfor danskerne taler så meget om vejret.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C005",
+   "text": "Det støvregner, når dråberne er så små, at de nærmest svæver.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C006",
+   "text": "Det småregner, når man kan klare sig uden paraply, og det øsregner, når vandet står i store pytter på cykelstien efter få minutter.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C007",
+   "text": "Når skyerne trækker væk, klarer det op, og når solen kortvarigt viser sig mellem to byger, titter den frem.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C008",
+   "text": "Om vinteren falder der slud, når sneen er for våd til at blive liggende, og efter frostnætter advarer radioen om glat føre.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C009",
+   "text": "Og når det blæser så meget, at man knap kan holde cyklen på vejen, siger mange, at det blæser en halv pelikan.",
+   "ch": 0,
+   "p": 0
+  },
+  {
+   "id": "U26-C010",
+   "text": "Far, skal vi tage regntøj med?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U26-C011",
+   "text": "Det skal klare op ved tolvtiden.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U26-C012",
+   "text": "Det sagde du også sidste søndag.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U26-C013",
+   "text": "Okay. Vi tager det med. Det er bedre at bære det end at blive gennemblødt.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U26-C014",
+   "text": "Og kan vi så få is bagefter?",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Ida"
+  },
+  {
+   "id": "U26-C015",
+   "text": "Hvis solen titter frem, ja.",
+   "ch": 0,
+   "p": 1,
+   "speaker": "Jonas"
+  },
+  {
+   "id": "U26-C016",
+   "text": "Foråret kommer langsomt: Først blomstrer vintergækker og erantis i haverne, så springer bøgen ud, og i maj summer bierne over rapsmarkernes gule hav.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U26-C017",
+   "text": "Sommeren er kort og lys, og omkring midsommer bliver det næsten ikke mørkt ved midnat.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U26-C018",
+   "text": "Om vinteren er træerne nøgne og markerne brune, og sne er blevet sjælden i store dele af landet – mange børn venter forgæves på en hvid jul.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U26-C019",
+   "text": "Når søerne en sjælden gang fryser til, går folk på skøjter, men man bør kun gå ud på isen, hvor myndighederne har meldt, at færdsel er tilladt.",
+   "ch": 1,
+   "p": 2
+  },
+  {
+   "id": "U26-C020",
+   "text": "Intet sted i Danmark ligger mere end omkring 50 kilometer fra havet, og kystlinjen er over 7.000 kilometer lang, fordi landet består af en halvø og flere hundrede øer.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C021",
+   "text": "Mod vest ligger Vesterhavet med brede sandstrande, høje klitter og en brænding, der kan være farlig for badende.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C022",
+   "text": "Mod sydvest ligger Vadehavet, hvor tidevandet to gange i døgnet blotlægger store flader af mudder og sand.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C023",
+   "text": "Ved lavvande kan man gå langt ud på havbunden og samle østers, men man skal kende tidevandet, for vandet kommer hurtigere tilbage, end mange tror.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C024",
+   "text": "Bjerge har Danmark derimod ingen af.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C025",
+   "text": "Alligevel kan en cykeltur i Jylland være overraskende hård, når vinden kommer forfra.",
+   "ch": 2,
+   "p": 3
+  },
+  {
+   "id": "U26-C026",
+   "text": "Landskabet er derfor i høj grad skabt af mennesker: firkantede marker med hvede, byg og raps, læhegn mod vinden, grøfter og rette vandløb, der engang var bugtede åer.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U26-C027",
+   "text": "I offentlige skove må man som udgangspunkt også færdes uden for veje og stier og plukke bær, svampe og blomster til eget forbrug.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U26-C028",
+   "text": "I private skove skal man som hovedregel holde sig til veje og stier.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U26-C029",
+   "text": "I modsætning til i Sverige og Norge er der altså ikke fri adgang til al natur, for meget af landskabet er privat ejendom.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U26-C030",
+   "text": "Har man ikke forstand på svampe, er det klogt at lade være med at spise dem, man finder, for nogle af de giftigste ligner spiselige arter til forveksling.",
+   "ch": 3,
+   "p": 4
+  },
+  {
+   "id": "U26-C031",
+   "text": "En fjerdeklasse er på tur i skoven med en naturvejleder en kold morgen i november.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U26-C032",
+   "text": "Tågen ligger stadig mellem træerne, og eleverne går tæt sammen på stien.",
+   "ch": 4,
+   "p": 5
+  },
+  {
+   "id": "U26-C033",
+   "text": "Stop lige et øjeblik. Kan I høre den?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Naturvejlederen"
+  },
+  {
+   "id": "U26-C034",
+   "text": "Hvad for noget?",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U26-C035",
+   "text": "Der sidder en spætte deroppe. Den hakker i barken for at finde insekter.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Naturvejlederen"
+  },
+  {
+   "id": "U26-C036",
+   "text": "Jeg kan ikke se noget.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U26-C037",
+   "text": "Kig op langs stammen på det store træ derhenne. Halvvejs oppe, lige under den knækkede gren.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Naturvejlederen"
+  },
+  {
+   "id": "U26-C038",
+   "text": "Nu ser jeg den! Den er rød på hovedet.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Emma"
+  },
+  {
+   "id": "U26-C039",
+   "text": "Godt set. Kom herover, så skal I se noget andet.",
+   "ch": 4,
+   "p": 5,
+   "speaker": "Naturvejlederen"
+  },
+  {
+   "id": "U26-C040",
+   "text": "Når så meget jord bliver dyrket, bliver der mindre plads til vilde dyr og planter.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U26-C041",
+   "text": "Mange forskere peger på, at landbruget, sammen med dræning af vådområder og byernes vækst, er en af hovedårsagerne til, at mange arter er gået tilbage.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U26-C042",
+   "text": "Næsten alt drikkevand i Danmark er grundvand, som pumpes op fra jordlagene og kun behandles meget let, før det løber ud af hanen.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U26-C043",
+   "text": "Det er en sjælden luksus, men den forudsætter, at grundvandet ikke bliver forurenet af sprøjtemidler og andre stoffer fra overfladen.",
+   "ch": 5,
+   "p": 6
+  },
+  {
+   "id": "U26-C044",
+   "text": "For mange danskere er naturen først og fremmest et sted at være.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U26-C045",
+   "text": "Man går tur med hunden i skoven, cykler langs kysten, sover i shelter, fisker i søerne og plukker ramsløg i foråret.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U26-C046",
+   "text": "Danske børn vænner sig tidligt til at være udenfor.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U26-C047",
+   "text": "Mange spædbørn sover deres middagslur i barnevognen i haven eller på altanen, også om vinteren, godt pakket ind i dyner og huer.",
+   "ch": 6,
+   "p": 7
+  },
+  {
+   "id": "U26-C048",
+   "text": "Der findes ikke dårligt vejr, kun dårligt tøj, siger et udbredt mundheld.",
+   "ch": 6,
+   "p": 7
+  }
+ ]
+}
