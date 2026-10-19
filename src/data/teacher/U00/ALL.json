@@ -1,0 +1,2326 @@
+{
+    "schema_version": 1,
+    "unit": "U00",
+    "part": "ALL",
+    "source_fingerprint": "U00-ALL-b4d22f5310d2",
+    "sentences": [
+        {
+            "id": "U00-C001",
+            "zh": "夏日的一天，在菲英岛的一条乡间公路上，一辆汽车在路边的一座小木摊旁停了下来。",
+            "grammar": "句首连续两个状语：时间 `En sommerdag` 和地点 `på en landevej på Fyn`。随后是限定动词 `holder`、主语 `en bil`，体现主句 V2 语序。`holder ... ind til siden` 是可分离的动词结构，`ved en lille træbod` 说明停车地点。现在时用于叙事，营造现场正在发生的感觉。",
+            "vocabulary": [
+                {
+                    "da": "en landevej",
+                    "zh": "乡间公路；连接城镇的普通公路",
+                    "note": "复数 `landeveje`；不同于高速公路 `en motorvej`。"
+                },
+                {
+                    "da": "holde ind til siden",
+                    "zh": "靠边停车",
+                    "note": "过去时 `holdt ind til siden`；常用于驾驶语境。"
+                },
+                {
+                    "da": "en træbod",
+                    "zh": "木制小摊；木棚",
+                    "note": "`en bod` 是摊位，`træ-` 表示木制。"
+                },
+                {
+                    "da": "på Fyn",
+                    "zh": "在菲英岛",
+                    "note": "丹麦语谈论多数岛屿时使用 `på`，如 `på Sjælland`。"
+                }
+            ],
+            "nuance": "这是典型的丹麦语叙事性开场：先用时间和地点建立画面，再让人物或物体进入场景。`holder ind` 比直接使用 `stopper` 更明确地表示汽车驶向路边并停下。现在时让读者仿佛站在路旁观看。",
+            "transfer": [
+                "En sommerdag på + 地点 + 动词 + 主语 …",
+                "Bilen holder ind til siden ved + 地点.",
+                "På vej til + 地点 + holder vi ind ved + 地点."
+            ],
+            "pitfall": "不要把 `holder ind` 按照 `holde` 的基本意思译为“保持”。也不要把 `på Fyn` 误写成 `i Fyn`。句首有状语时，不能再按英语语序写成 `En sommerdag en bil holder ...`。"
+        },
+        {
+            "id": "U00-C002",
+            "zh": "架子上摆着一盒盒草莓和新上市的小土豆，价格则用马克笔写在一块硬纸板上。",
+            "grammar": "两个并列分句都把地点状语前置。第一分句是 `På hylden + står + bakker ...`，属于地点前置引起的 V2 倒装。第二分句是 `på et stykke pap + er + priserne + skrevet ...`。`er skrevet` 是 `være` 加过去分词构成的状态性被动，强调价格已经写在纸板上，而不是描写写字这一动作。",
+            "vocabulary": [
+                {
+                    "da": "en bakke",
+                    "zh": "托盘；一盒或一盘商品",
+                    "note": "`bakker med jordbær` 指装有草莓的托盘或包装盒。"
+                },
+                {
+                    "da": "nye kartofler",
+                    "zh": "新土豆；当季初上市的嫩土豆",
+                    "note": "丹麦春末夏初的特色食材，并非泛指刚买来的土豆。"
+                },
+                {
+                    "da": "et stykke pap",
+                    "zh": "一块硬纸板",
+                    "note": "`pap` 通常不可数，常用 `et stykke` 表示一块。"
+                },
+                {
+                    "da": "en tusch",
+                    "zh": "马克笔；毡头笔",
+                    "note": "`skrive med tusch` 表示用马克笔书写。"
+                },
+                {
+                    "da": "stå på hylden",
+                    "zh": "摆放在架子上",
+                    "note": "丹麦语经常根据物体的摆放状态选择 `stå`、`ligge` 或 `hænge`。"
+                }
+            ],
+            "nuance": "作者没有使用笼统的 `Der er ...`，而是选择 `står`，让静态场景更有空间感。草莓和新土豆也暗示丹麦夏季乡间的季节氛围。`skrevet med tusch` 呈现的是朴素、手工制作的价目牌，而非正式商店的标签。",
+            "transfer": [
+                "På bordet står der + 名词.",
+                "Priserne er skrevet med + 工具.",
+                "På væggen hænger + 名词."
+            ],
+            "pitfall": "`nye kartofler` 是一种有季节含义的食品说法，不等于所有“新鲜土豆”。`et stykke pap` 中的 `pap` 不是英语的 `paper`；普通纸张是 `papir`。"
+        },
+        {
+            "id": "U00-C003",
+            "zh": "这里没有售货员，没有摄像头，也没有锁——只有一个旧铁皮罐，罐盖上开着一道细缝。",
+            "grammar": "`Der er` 是存在句结构，用来介绍某处有什么或没有什么。`ingen ekspedient`、`intet kamera` 和 `ingen lås` 并列，否定词根据名词性别变化。破折号后的 `kun en gammel blikdåse` 是省略结构，承接前面的 `Der er`。`med en sprække i låget` 修饰铁皮罐。",
+            "vocabulary": [
+                {
+                    "da": "en ekspedient",
+                    "zh": "店员；售货员",
+                    "note": "商店服务人员；不同于一般的 `en medarbejder`。"
+                },
+                {
+                    "da": "en lås",
+                    "zh": "锁",
+                    "note": "复数 `låse`；`låse døren` 是锁门。"
+                },
+                {
+                    "da": "en blikdåse",
+                    "zh": "铁皮罐；金属罐",
+                    "note": "`blik` 在这里指薄金属板材。"
+                },
+                {
+                    "da": "en sprække",
+                    "zh": "狭缝；裂缝",
+                    "note": "`en sprække i låget` 是盖子上的一道缝。"
+                },
+                {
+                    "da": "et låg",
+                    "zh": "盖子",
+                    "note": "定冠词形式 `låget`，复数 `låg`。"
+                }
+            ],
+            "nuance": "连续使用三个否定名词，再以 `kun` 引出唯一的收款装置，制造轻微的戏剧性反差。作者刻意强调缺乏监管设施，为下一句游客的惊讶埋下伏笔。这种列举加破折号的写法适合描写令人意外的场景。",
+            "transfer": [
+                "Der er ingen X, intet Y og ingen Z – kun ...",
+                "Der er en lille sprække i + 名词.",
+                "Det eneste, der er tilbage, er + 名词."
+            ],
+            "pitfall": "`ingen` 用于通性名词或复数，`intet` 用于中性单数名词，所以是 `intet kamera`，不是 `ingen kamera`。注意 `et låg` 的定冠词是 `låget`。"
+        },
+        {
+            "id": "U00-C004",
+            "zh": "坐在副驾驶座上的游客摇了摇头：“人们难道不会干脆把东西全偷走吗？”",
+            "grammar": "叙述部分以 `Turisten på passagersædet` 为主语，`ryster på hovedet` 为谓语。引号内是一般疑问句，限定动词 `Stjæler` 位于主语 `folk` 之前。`ikke` 构成带有预期立场的否定疑问句；`bare` 加强“就这么轻易地”的感觉；`det hele` 作宾语。",
+            "vocabulary": [
+                {
+                    "da": "et passagersæde",
+                    "zh": "乘客座位；副驾驶座位",
+                    "note": "在此语境中指汽车前排乘客座位。"
+                },
+                {
+                    "da": "ryste på hovedet",
+                    "zh": "摇头",
+                    "note": "表达否定、怀疑、无奈或难以置信。"
+                },
+                {
+                    "da": "stjæle",
+                    "zh": "偷窃",
+                    "note": "不规则变化：`stjæler – stjal – stjålet`。"
+                },
+                {
+                    "da": "det hele",
+                    "zh": "全部；所有东西",
+                    "note": "整体代词性表达，口语与书面语都常用。"
+                }
+            ],
+            "nuance": "这里的否定疑问句不是在询问某个既定事实，而是表达游客的困惑：既然没人看管，怎么会不被偷光呢？`bare` 传达事情似乎轻而易举，甚至理所当然会发生。摇头这一动作也突出了游客与当地习惯之间的认知差异。",
+            "transfer": [
+                "Stjæler folk ikke bare + 宾语?",
+                "Ryster du på hovedet af + 名词?",
+                "Kan man ikke bare + 不定式?"
+            ],
+            "pitfall": "否定疑问句不能一律按字面翻译为“不……吗”，要结合说话人的预期理解。`folk` 在这里指泛指的人们，不是特定的一群游客。"
+        },
+        {
+            "id": "U00-C005",
+            "zh": "摊主大概会回答说，偷窃确实会发生——但发生得实在太少了，根本不值得专门坐在那里看守摊位。",
+            "grammar": "`ville sandsynligvis svare` 使用 `ville` 表达假设情境下的可能回答，而不是单纯的过去将来。`at det sker` 是宾语从句。`så sjældent, at ...` 是程度加结果从句结构。`det kan ikke betale sig at + 不定式` 表示做某事不划算或不值得。`sidde og holde øje med` 通过两个动词连接，呈现持续坐着看守的动作。",
+            "vocabulary": [
+                {
+                    "da": "sandsynligvis",
+                    "zh": "很可能；大概",
+                    "note": "表示概率判断，语体中性。"
+                },
+                {
+                    "da": "det kan betale sig at",
+                    "zh": "做某事值得；划算",
+                    "note": "否定形式 `det kan ikke betale sig at ...`。"
+                },
+                {
+                    "da": "holde øje med",
+                    "zh": "留意；监视；看管",
+                    "note": "必须搭配介词 `med`。"
+                },
+                {
+                    "da": "sidde og",
+                    "zh": "坐着持续做某事",
+                    "note": "也可以用于强调花时间反复做某事。"
+                }
+            ],
+            "nuance": "文章没有安排摊主实际出场，而是用 `ville sandsynligvis svare` 想象其可能的回答，因此叙事更克制，也避免把推测说成事实。`det sker` 坦率承认确实有人偷窃；后半句再解释为什么无需严密监管。这种先承认例外再说明总体情况的写法很适合 C1 议论文。",
+            "transfer": [
+                "Jeg ville sandsynligvis svare, at ...",
+                "Det sker, men så sjældent, at ...",
+                "Det kan ikke betale sig at + 不定式."
+            ],
+            "pitfall": "`betale sig` 并非必须涉及实际付款，也可以表示时间、精力或机会成本。`holde øje med` 不能省略 `med`。`ville` 在这里并不说明摊主过去已经回答过。"
+        },
+        {
+            "id": "U00-C006",
+            "zh": "如果问丹麦人，他们是否总体上认为其他人值得信任，绝大多数人都会回答“是”。",
+            "grammar": "`Spørger man ...` 是无连词条件句，用动词前置代替 `Hvis man spørger ...`。前面的整个条件从句占据主句第一位置，因此主句采用 `svarer + langt de fleste` 的 V2 语序。`om man generelt kan stole på ...` 是由 `om` 引导的间接是非问句。`langt de fleste` 表示远不止简单的多数。",
+            "vocabulary": [
+                {
+                    "da": "stole på",
+                    "zh": "信任；相信某人可靠",
+                    "note": "固定介词 `på`。"
+                },
+                {
+                    "da": "generelt",
+                    "zh": "总体而言；一般来说",
+                    "note": "避免把具体个案绝对化。"
+                },
+                {
+                    "da": "langt de fleste",
+                    "zh": "绝大多数",
+                    "note": "比 `de fleste` 程度更强。"
+                }
+            ],
+            "nuance": "这是调查报告和议论文中很有用的表达方式。`Spørger man ...` 比普通的 `Hvis man spørger ...` 更紧凑、富有书面论述感，但并非只限于正式文体。`generelt` 非常重要：它询问的是对陌生人的一般信任，而不是是否相信每个人。",
+            "transfer": [
+                "Spørger man X, om Y, svarer de fleste ...",
+                "Hvis man spørger X, om Y, svarer ...",
+                "Langt de fleste mener, at ..."
+            ],
+            "pitfall": "条件倒装结构中不要再加 `hvis`：应是 `Spørger man ...` 或 `Hvis man spørger ...`。间接问句不能按直接问句语序写成 `om kan man stole på ...`。"
+        },
+        {
+            "id": "U00-C007",
+            "zh": "在国际比较中，丹麦年复一年都与其他北欧国家一道稳居最前列。",
+            "grammar": "句首 `I internationale sammenligninger` 是范围状语，后接限定动词 `ligger` 和主语 `Danmark`，符合 V2。`år efter år` 是频率性时间状语。`ligge helt i top` 表示在排名中处于顶端；`sammen med ...` 补充比较对象。",
+            "vocabulary": [
+                {
+                    "da": "en sammenligning",
+                    "zh": "比较；对比",
+                    "note": "`i internationale sammenligninger` 常用于统计和社会科学语境。"
+                },
+                {
+                    "da": "år efter år",
+                    "zh": "年复一年；连年",
+                    "note": "强调结果持续出现。"
+                },
+                {
+                    "da": "ligge i top",
+                    "zh": "名列前茅",
+                    "note": "`helt i top` 进一步强调靠近最高位置。"
+                },
+                {
+                    "da": "nordisk",
+                    "zh": "北欧的",
+                    "note": "`de nordiske lande` 通常包括丹麦、瑞典、挪威、芬兰及冰岛。"
+                }
+            ],
+            "nuance": "`ligger` 用来谈论排名、位置或水平很自然，例如城市的生活质量或大学排名。`år efter år` 强调稳定而非偶然，帮助作者从开头的个别故事转向更广泛的社会现象。",
+            "transfer": [
+                "Danmark ligger helt i top, når det gælder ...",
+                "År efter år viser undersøgelser, at ...",
+                "Sammen med X ligger Y blandt de bedste."
+            ],
+            "pitfall": "`ligge i top` 不是身体躺在高处。`de nordiske lande` 与 `Skandinavien` 不完全同义，不能在所有地理或政治语境中随意互换。"
+        },
+        {
+            "id": "U00-C008",
+            "zh": "同样的模式也体现在日常生活中。",
+            "grammar": "`Det samme mønster` 是主语。`gå igen` 是固定动词短语，表示某种特征或现象重复出现。`i hverdagen` 是发生范围状语。",
+            "vocabulary": [
+                {
+                    "da": "et mønster",
+                    "zh": "模式；规律；反复出现的特征",
+                    "note": "复数 `mønstre`。"
+                },
+                {
+                    "da": "gå igen",
+                    "zh": "再次出现；反复出现",
+                    "note": "可用于主题、现象、问题及行为模式。"
+                },
+                {
+                    "da": "en hverdag",
+                    "zh": "日常生活；工作日",
+                    "note": "`i hverdagen` 强调生活实践。"
+                }
+            ],
+            "nuance": "这句承担篇章衔接作用：前一句谈宏观的国际调查，接下来转向可观察的日常生活。`Det samme mønster går igen` 是分析文章中非常值得掌握的过渡表达，简洁而不机械。",
+            "transfer": [
+                "Det samme mønster går igen i ...",
+                "Dette problem går igen på tværs af ...",
+                "I hverdagen ser vi det samme."
+            ],
+            "pitfall": "`gå igen` 不能按照两个单词直译成“再走一次”；在此处指现象重新出现。"
+        },
+        {
+            "id": "U00-C009",
+            "zh": "咖啡馆外停着婴儿车，里面睡着孩子，而父母正在店内喝咖啡；家里没人的时候，包裹也会被直接放在前门外。",
+            "grammar": "整句包含两个由 `og` 连接的主要事实。第一个主句主语是 `Barnevogne med sovende børn`，谓语为 `står`；`mens forældrene drikker ...` 是表示同时发生的时间从句。第二个主句采用 `bliver stillet`，属于 `blive` 被动，强调包裹被放下这一动作；`når ingen er hjemme` 表示某种反复发生情境中的时间条件。",
+            "vocabulary": [
+                {
+                    "da": "en barnevogn",
+                    "zh": "婴儿车",
+                    "note": "通常指适合婴儿平躺的推车。"
+                },
+                {
+                    "da": "sovende",
+                    "zh": "睡着的；正在睡觉的",
+                    "note": "动词 `sove` 的现在分词，可作形容词。"
+                },
+                {
+                    "da": "udenfor / indenfor",
+                    "zh": "在外面／在里面",
+                    "note": "这里是表示位置的副词。"
+                },
+                {
+                    "da": "stille noget foran",
+                    "zh": "把某物放在……前面",
+                    "note": "重在将物体放到某处。"
+                },
+                {
+                    "da": "være hjemme",
+                    "zh": "在家",
+                    "note": "`ingen er hjemme` 表示家里没有人。"
+                }
+            ],
+            "nuance": "两个具体生活场景把抽象的社会信任变成可观察的行为。`mens` 强调父母在咖啡馆内与孩子在外睡觉的同时性。包裹的被动句则将重点放在配送习惯，而非具体是谁配送。这里描述的是作者选取的社会现象，不意味着这些做法在任何时间地点都绝对安全。",
+            "transfer": [
+                "X står udenfor, mens Y er indenfor.",
+                "Pakker bliver stillet foran døren, når ...",
+                "Mens jeg arbejder, + 主句."
+            ],
+            "pitfall": "`mens` 后面用从句语序。不要把 `bliver stillet` 误解为将来时；它表示动作性被动。`barnevogn` 不等同于所有类型的儿童推车。"
+        },
+        {
+            "id": "U00-C010",
+            "zh": "尽管如此，大多数人在日常生活中并不会特意去思考信任这件事。",
+            "grammar": "`Alligevel` 置于句首，引起 `er + tilliden` 的 V2 倒装。`ikke noget, de fleste tænker over` 是带有省略关系代词的关系从句结构，完整理解为“并不是大多数人会去思考的事情”。`tænke over` 中的介词 `over` 留在从句末尾。`til daglig` 表示平时。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；仍然",
+                    "note": "表示让步或逆预期。"
+                },
+                {
+                    "da": "tænke over",
+                    "zh": "思考；仔细考虑",
+                    "note": "常与 `noget` 或具体问题搭配。"
+                },
+                {
+                    "da": "til daglig",
+                    "zh": "平时；日常情况下",
+                    "note": "与 `i hverdagen` 意思相近。"
+                }
+            ],
+            "nuance": "`Alligevel` 制造反差：社会信任虽然很显著，人们却未必经常意识到它的存在。`ikke noget, man tænker over` 是非常自然的丹麦语表达，比生硬地说“没有人考虑信任”更符合文章原意。",
+            "transfer": [
+                "Det er ikke noget, jeg tænker over til daglig.",
+                "Alligevel er det vigtigt at ...",
+                "Det er noget, vi sjældent taler om."
+            ],
+            "pitfall": "`tænke på` 常表示想到或惦记；`tænke over` 更强调认真思考或反思。二者并非所有语境都能互换。"
+        },
+        {
+            "id": "U00-C011",
+            "zh": "信任就像房间里的氧气：在它耗尽之前，谁也不会注意到它的存在。",
+            "grammar": "`minde om` 表示与某物相似。冒号后是解释性比喻。`lægge mærke til` 是整体固定搭配。`før den slipper op` 是时间从句，表示直到某物耗尽之前；这里的 `den` 指前文作为比喻对象的氧气，同时呼应信任。",
+            "vocabulary": [
+                {
+                    "da": "minde om",
+                    "zh": "使人想起；类似于",
+                    "note": "例如 `Det minder mig om min barndom`。"
+                },
+                {
+                    "da": "lægge mærke til",
+                    "zh": "注意到；察觉到",
+                    "note": "过去时 `lagde mærke til`。"
+                },
+                {
+                    "da": "slippe op",
+                    "zh": "用完；耗尽",
+                    "note": "通常以资源作为语义主语，如时间、钱或物资。"
+                },
+                {
+                    "da": "ilt",
+                    "zh": "氧气",
+                    "note": "通常作不可数名词使用。"
+                }
+            ],
+            "nuance": "全文第一个重要比喻。信任如空气般无形且容易被视作理所当然，只有失去时才显出价值。冒号把一个抽象判断转化为直观画面，很适合学习高级议论文如何用简短比喻增强说服力。",
+            "transfer": [
+                "Tillid minder om ...",
+                "Man lægger først mærke til X, når ...",
+                "Vi er ved at slippe op for + 名词."
+            ],
+            "pitfall": "`slippe op` 表示某种资源耗尽；若说“我们快没时间了”，更自然的是 `Vi er ved at løbe tør for tid` 或 `Vi er ved at slippe op for tid`。`lægge mærke til` 不可遗漏 `til`。"
+        },
+        {
+            "id": "U00-C012",
+            "zh": "可是，信任究竟是什么呢？",
+            "grammar": "直接疑问句使用 `hvad + er + tillid` 的疑问词语序。`egentlig` 在这里是语气副词，强调重新审视概念的真正含义。",
+            "vocabulary": [
+                {
+                    "da": "egentlig",
+                    "zh": "究竟；到底；其实",
+                    "note": "在疑问句中经常用于追问本质或澄清真实意思。"
+                }
+            ],
+            "nuance": "这是一个典型的章节转换句。前面讲信任如何体现在生活中，现在作者暂时放下具体故事，转而讨论定义。`egentlig` 让问题显得自然、有思考意味，而不是生硬的学术定义提问。",
+            "transfer": [
+                "Hvad betyder X egentlig?",
+                "Men hvad er problemet egentlig?",
+                "Hvorfor gør vi det egentlig?"
+            ],
+            "pitfall": "`egentlig` 在这里不是“原本的”，也不一定表示怀疑。不要机械地把它翻译成“实际上”。"
+        },
+        {
+            "id": "U00-C013",
+            "zh": "研究人员区分两种不同的信任。",
+            "grammar": "`skelne mellem A og B` 是区分不同事物的固定结构。这里 `to slags tillid` 概括即将介绍的两个类别，后文再分别展开。",
+            "vocabulary": [
+                {
+                    "da": "skelne mellem",
+                    "zh": "区分；辨别……之间的差异",
+                    "note": "固定介词 `mellem`。"
+                },
+                {
+                    "da": "en slags",
+                    "zh": "一种；一个类别",
+                    "note": "`to slags` 表示两种。"
+                },
+                {
+                    "da": "en forsker",
+                    "zh": "研究人员；研究者",
+                    "note": "复数 `forskere`。"
+                }
+            ],
+            "nuance": "这是分类说明文的标准写法。与绝对化定义不同，作者先说明研究人员如何划分概念，为下面的比较创造清晰结构。`skelne mellem` 特别适合学术讨论和专业表达。",
+            "transfer": [
+                "Man skelner mellem to typer af ...",
+                "Det er vigtigt at skelne mellem X og Y.",
+                "Forskere skelner ofte mellem ..."
+            ],
+            "pitfall": "应说 `skelne mellem X og Y`，不能说 `skelne X fra Y` 作为本句的直接替换而不改变句法；另一种正确结构是 `skelne X fra Y`，两者要分别掌握。"
+        },
+        {
+            "id": "U00-C014",
+            "zh": "一种信任指向家人、朋友和同事——这些都是我们认识、并且可以根据过往经验作出判断的人。",
+            "grammar": "`Den ene` 指前文两种信任中的第一种。`rette sig mod` 表示指向某个对象。破折号后的 `mennesker` 对前面的三类人进行同位解释。`vi kender og kan vurdere` 是两个并列谓语组成的关系从句，共享省略的宾语关系代词。`ud fra erfaring` 表示判断依据。",
+            "vocabulary": [
+                {
+                    "da": "rette sig mod",
+                    "zh": "面向；针对；指向",
+                    "note": "可用于措施、活动、研究和关注对象。"
+                },
+                {
+                    "da": "vurdere",
+                    "zh": "评估；判断",
+                    "note": "常见搭配 `vurdere ud fra ...`。"
+                },
+                {
+                    "da": "ud fra",
+                    "zh": "根据；基于",
+                    "note": "强调判断所依据的资料、经验或标准。"
+                },
+                {
+                    "da": "erfaring",
+                    "zh": "经验",
+                    "note": "`ud fra erfaring` 表示基于经验。"
+                }
+            ],
+            "nuance": "作者没有直接给第一种信任贴上抽象标签，而是先解释它如何形成：我们认识这些人，也有经验可以评价他们。`ud fra erfaring` 把这种信任与后面针对陌生人的广义信任区分开来。",
+            "transfer": [
+                "Undersøgelsen retter sig mod ...",
+                "Vi vurderer situationen ud fra vores erfaringer.",
+                "Den ene handler om X, den anden om Y."
+            ],
+            "pitfall": "`rette sig mod` 不能省略 `sig` 或将 `mod` 换成 `til`。`vurdere` 比简单的 `tro` 更强调根据依据进行判断。"
+        },
+        {
+            "id": "U00-C015",
+            "zh": "另一种则更为抽象：那是对陌生人的信任——这些人我们从未见过，而且很可能今后也再不会见到。",
+            "grammar": "`Den anden` 与前一句的 `Den ene` 形成分类对照。冒号后使用名词短语解释具体内容。`som vi aldrig har mødt` 是关系从句；`sandsynligvis aldrig kommer til at møde igen` 与前面的 `har mødt` 并列，共享宾语。`kommer til at + 不定式` 指向将来的可能发生。",
+            "vocabulary": [
+                {
+                    "da": "abstrakt",
+                    "zh": "抽象的",
+                    "note": "中性形式 `abstrakt`，复数或定指形式 `abstrakte`。"
+                },
+                {
+                    "da": "en fremmed",
+                    "zh": "陌生人",
+                    "note": "名词化形容词，复数 `fremmede`。"
+                },
+                {
+                    "da": "komme til at",
+                    "zh": "将会；最终会发生",
+                    "note": "后接动词不定式。"
+                },
+                {
+                    "da": "møde igen",
+                    "zh": "再次遇见",
+                    "note": "`igen` 表示重复发生。"
+                }
+            ],
+            "nuance": "这句是文章核心概念之一：一种超越熟人网络的普遍信任。通过 `aldrig har mødt` 和 `aldrig kommer til at møde igen`，作者同时排除过去的认识和将来的持续关系，强调人们即使没有私人关系也可能相互信任。",
+            "transfer": [
+                "Den anden er mere abstrakt: ...",
+                "Det er mennesker, vi aldrig har mødt.",
+                "Vi kommer sandsynligvis aldrig til at + 不定式."
+            ],
+            "pitfall": "`komme til at` 不等于英语 `come to` 的所有用法；它可以表达将来发生，也可能在其他语境中表示意外发生。`fremmed` 既可指陌生人，也可作“陌生的、外国的”的形容词，需要结合语境。"
+        },
+        {
+            "id": "U00-C016",
+            "zh": "因此，高信任意味着大多数人都预期陌生人会守规矩、举止得体，并且会按照这样的预期来安排自己的行为。",
+            "grammar": "`betyder, at ...` 引出定义性的宾语从句。第一个 `at` 从句内部又嵌套 `forventer, at ...`。破折号后的 `og at de indretter sig ...` 与前面 `at de fleste forventer ...` 并列，同属 `betyder` 的补足内容。`indrette sig efter` 是反身动词搭配，后接名词。`altså` 标记推论。",
+            "vocabulary": [
+                {
+                    "da": "opføre sig ordentligt",
+                    "zh": "行为得体；规矩行事",
+                    "note": "强调符合社会行为规范。"
+                },
+                {
+                    "da": "indrette sig efter",
+                    "zh": "根据……调整自己的行为或安排",
+                    "note": "固定反身结构，必须有 `sig` 和 `efter`。"
+                },
+                {
+                    "da": "en forventning",
+                    "zh": "预期；期望",
+                    "note": "`forventninger til nogen` 表示对某人的期待。"
+                },
+                {
+                    "da": "altså",
+                    "zh": "也就是说；因此",
+                    "note": "此处用于概括前面定义的逻辑结果。"
+                }
+            ],
+            "nuance": "作者强调信任并非只是心理态度，而会改变人的实际行为。`opføre sig ordentligt` 比抽象的 `være god` 更贴近日常社会规范：诚实、守约、尊重他人。`indrette sig efter den forventning` 把信任转化为社会运行方式。",
+            "transfer": [
+                "Høj tillid betyder, at ...",
+                "Vi forventer, at andre vil ...",
+                "Folk indretter sig efter de regler, der gælder."
+            ],
+            "pitfall": "`indrette` 单独使用常表示布置、装修；`indrette sig efter` 在这里是根据环境或预期调整行为，不能理解为装修自己。注意两个 `at` 从句的不同嵌套层级。"
+        },
+        {
+            "id": "U00-C017",
+            "zh": "不过，信任不应该与天真混为一谈。",
+            "grammar": "`skal ikke forveksles med` 是情态动词加 s-被动结构。`forveksles` 来自 `forveksle`，表示被混淆。`dog` 是让步转折副词，说明作者开始给前面的积极论述添加必要限定。",
+            "vocabulary": [
+                {
+                    "da": "forveksle med",
+                    "zh": "把……与……混淆",
+                    "note": "常用被动形式 `må/skal ikke forveksles med ...`。"
+                },
+                {
+                    "da": "naivitet",
+                    "zh": "天真；轻信",
+                    "note": "相关形容词 `naiv`。"
+                },
+                {
+                    "da": "dog",
+                    "zh": "不过；然而；尽管如此",
+                    "note": "书面论述中常用于温和转折。"
+                }
+            ],
+            "nuance": "这是重要的论证转折。作者预见到读者可能认为高信任等于容易受骗，因此主动区分两个概念。`skal ikke forveksles med` 比单纯的 `er ikke det samme som` 更适合正式分析文章。",
+            "transfer": [
+                "X skal ikke forveksles med Y.",
+                "Det betyder dog ikke, at ...",
+                "Man bør skelne mellem tillid og naivitet."
+            ],
+            "pitfall": "`forveksle` 和 `forvente` 外形略有相似，但前者是混淆，后者是期待。`skal` 在此表达规范性判断，不是将来时。"
+        },
+        {
+            "id": "U00-C018",
+            "zh": "天真的人会对那些本该引起警觉的迹象视而不见。",
+            "grammar": "`Den naive` 是形容词名词化，用来泛指一类人。`lukke øjnene for` 是固定比喻表达。`de tegn, der burde vække mistanke` 中关系从句 `der burde ...` 修饰 `tegn`。`burde` 表示按照常理应该如此，但现实中未必得到相应反应。",
+            "vocabulary": [
+                {
+                    "da": "den naive",
+                    "zh": "天真的人",
+                    "note": "定指形容词名词化。"
+                },
+                {
+                    "da": "lukke øjnene for",
+                    "zh": "对……视而不见",
+                    "note": "通常指主动忽视问题或危险信号。"
+                },
+                {
+                    "da": "et tegn",
+                    "zh": "迹象；信号；标志",
+                    "note": "复数 `tegn`。"
+                },
+                {
+                    "da": "vække mistanke",
+                    "zh": "引起怀疑",
+                    "note": "很适合新闻、分析及调查语境。"
+                }
+            ],
+            "nuance": "作者把天真描写成“闭上眼睛”，为下一句信任者“睁着眼睛”创造鲜明对照。`burde vække mistanke` 含有批判性评价：这些线索其实值得注意，但天真的人忽略了它们。",
+            "transfer": [
+                "Man bør ikke lukke øjnene for ...",
+                "Det burde vække mistanke, at ...",
+                "Der er flere tegn på, at ..."
+            ],
+            "pitfall": "`lukke øjnene for` 不是简单的闭眼动作，而是固定比喻。`burde` 也不能机械地当作过去时“曾经应该”，这里主要表达规范性或预期。"
+        },
+        {
+            "id": "U00-C019",
+            "zh": "而愿意信任他人的人则保持警觉——但即便如此，仍然选择给别人一个机会。",
+            "grammar": "`Den tillidsfulde` 与 `Den naive` 形成对应的名词化形容词结构。`holder øjnene åbne` 描写保持警觉。破折号后 `og vælger alligevel at ...` 共享主语。`vælge at + 不定式` 表示主动选择，`give andre en chance` 为双宾语结构。",
+            "vocabulary": [
+                {
+                    "da": "tillidsfuld",
+                    "zh": "愿意信任他人的；充满信任的",
+                    "note": "不同于 `troværdig`，后者表示值得信任。"
+                },
+                {
+                    "da": "holde øjnene åbne",
+                    "zh": "保持警觉；留意周围情况",
+                    "note": "也可作字面意思。"
+                },
+                {
+                    "da": "give nogen en chance",
+                    "zh": "给某人一个机会",
+                    "note": "可用于工作、合作和人际关系。"
+                },
+                {
+                    "da": "alligevel",
+                    "zh": "仍然；即使这样",
+                    "note": "强调在不利因素存在时依然作出选择。"
+                }
+            ],
+            "nuance": "这是前一句的重要反面：真正的信任不是看不见风险，而是在意识到风险之后仍愿意合作。`vælger` 特别重要，它把信任描述成一种有意识的选择，而非未经思考的本能。",
+            "transfer": [
+                "Jeg vælger alligevel at give ham en chance.",
+                "Man skal holde øjnene åbne, men ...",
+                "Selv om der er risici, vælger vi at ..."
+            ],
+            "pitfall": "`tillidsfuld` 指容易给予信任的人；`troværdig` 指可信赖的人。二者方向不同，不要混用。"
+        },
+        {
+            "id": "U00-C020",
+            "zh": "一个从不相信任何人的人，确实很少会上当受骗。",
+            "grammar": "`Den, der ...` 是由指示代词与关系从句构成的泛指结构，相当于“凡是……的人”。关系从句中 `aldrig` 位于限定动词 `stoler` 之前。`bliver snydt` 是 `blive` 被动，表示遭到欺骗。`sjældent` 修饰整个被欺骗的情形。",
+            "vocabulary": [
+                {
+                    "da": "stole på nogen",
+                    "zh": "信任某人",
+                    "note": "否定语境中 `nogen` 可表达“任何人”。"
+                },
+                {
+                    "da": "blive snydt",
+                    "zh": "被骗；上当",
+                    "note": "动词 `snyde` 的过去分词为 `snydt`。"
+                },
+                {
+                    "da": "sjældent",
+                    "zh": "很少；不常",
+                    "note": "频率副词。"
+                }
+            ],
+            "nuance": "作者暂时承认极端不信任可能带来的一个好处，为下一句指出其代价做准备。这种先承认反方观点、再指出局限的论证方式，在丹麦语高级写作中很实用。",
+            "transfer": [
+                "Den, der aldrig tager chancer, ...",
+                "Man bliver sjældent snydt, hvis ...",
+                "Den, der + 从句, + 主句."
+            ],
+            "pitfall": "`aldrig stoler på nogen` 是“从不信任任何人”，不是双重否定后的肯定。`bliver snydt` 中的 `snydt` 不表示这个人主动骗人。"
+        },
+        {
+            "id": "U00-C021",
+            "zh": "但这样的人就不得不事事亲自核查，也会错过那些只有在有人敢于迈出第一步时才会产生的合作机会。",
+            "grammar": "`vedkommende` 回指前句中不信任任何人的人。`må` 表示必要性，后接 `kontrollere`。`gå glip af` 是不可拆开理解的固定搭配。`de samarbejder, der kun opstår, når ...` 包含关系从句及其中的时间条件从句。`tør tage` 是情态动词 `turde` 后接不带 `at` 的不定式。",
+            "vocabulary": [
+                {
+                    "da": "vedkommende",
+                    "zh": "该人；当事人",
+                    "note": "常用于避免重复人称或姓名，语体较中性或正式。"
+                },
+                {
+                    "da": "gå glip af",
+                    "zh": "错过；失去获得某事的机会",
+                    "note": "固定搭配，后面直接接名词。"
+                },
+                {
+                    "da": "tage det første skridt",
+                    "zh": "迈出第一步",
+                    "note": "常表示主动开始合作、联系或采取行动。"
+                },
+                {
+                    "da": "turde",
+                    "zh": "敢于",
+                    "note": "现在时 `tør`，过去时 `turde`。"
+                }
+            ],
+            "nuance": "这是整个段落的论证落点：完全回避受骗风险，也意味着失去合作带来的机会。`tage det første skridt` 是很自然的隐喻，可以用于商业谈判、人际关系和项目管理。",
+            "transfer": [
+                "Man går glip af mange muligheder, hvis ...",
+                "Nogen er nødt til at tage det første skridt.",
+                "Vedkommende må selv tage ansvar for ..."
+            ],
+            "pitfall": "`gå glip af` 不等于主动拒绝，通常表示没有得到本来可能得到的机会或好处。`tør` 后面不加 `at`：`tør tage`。"
+        },
+        {
+            "id": "U00-C022",
+            "zh": "至于丹麦人为什么如此信任彼此，研究人员之间尚未达成共识。",
+            "grammar": "`Hvorfor danskerne har ...` 是放在句首的间接疑问从句，作为 `være enig om` 所讨论的内容。整个从句占据主句第一位置，因此后面是 `er forskerne` 的 V2 语序。`ikke være enig om` 表示对某个问题存在分歧。注意间接问句中是 `danskerne har`，不是直接问句的倒装。",
+            "vocabulary": [
+                {
+                    "da": "være enig om",
+                    "zh": "就……达成一致",
+                    "note": "`ikke være enige om` 表示意见不一致。"
+                },
+                {
+                    "da": "hinanden",
+                    "zh": "彼此；互相",
+                    "note": "相互代词，常用于复数参与者。"
+                },
+                {
+                    "da": "så meget tillid",
+                    "zh": "如此高的信任程度",
+                    "note": "`meget` 修饰不可数的 `tillid`。"
+                }
+            ],
+            "nuance": "作者从现象描述进入因果解释，但并不急于提出确定答案。`er forskerne ikke enige om` 是一种谨慎的学术表达，明确指出现有解释存在争议，避免将复杂社会现象简单归因。",
+            "transfer": [
+                "Hvorfor X sker, er forskerne ikke enige om.",
+                "Der er ikke enighed om, hvorfor ...",
+                "Forskere er uenige om, hvorvidt ..."
+            ],
+            "pitfall": "间接疑问句保留从句语序：`hvorfor danskerne har`，不能写成 `hvorfor har danskerne`。`enige om` 表示对事情达成一致，`enige med` 则通常表示同意某个人的观点。"
+        },
+        {
+            "id": "U00-C023",
+            "zh": "一种广为接受的解释将原因指向社会制度和公共机构。",
+            "grammar": "`En udbredt forklaring` 是主语，`peger på` 为谓语搭配。`på institutionerne` 指解释所强调的因素。原文的 `institutionerne` 用定冠词复数形式，在这里泛指前后文讨论的社会与公共制度体系。",
+            "vocabulary": [
+                {
+                    "da": "udbredt",
+                    "zh": "广泛存在的；普遍流行的",
+                    "note": "可修饰观点、现象、问题和习惯。"
+                },
+                {
+                    "da": "en forklaring",
+                    "zh": "解释；原因说明",
+                    "note": "`en forklaring på noget` 表示对某事的解释。"
+                },
+                {
+                    "da": "pege på",
+                    "zh": "指出；指向；强调某因素",
+                    "note": "可用于证据、研究结果和理论解释。"
+                },
+                {
+                    "da": "en institution",
+                    "zh": "机构；制度性组织",
+                    "note": "在社会科学语境中也涉及制度结构与规则。"
+                }
+            ],
+            "nuance": "`peger på` 不意味着这项解释已被证实为唯一原因，而是指出它所重视的方向。`udbredt` 只说明解释受到广泛采用，不等于科学界完全一致。",
+            "transfer": [
+                "En udbredt forklaring peger på ...",
+                "Flere undersøgelser peger på, at ...",
+                "Der findes forskellige forklaringer på ..."
+            ],
+            "pitfall": "`institution` 不只表示某一栋建筑或办公单位；在社会研究中还可以涉及规则、制度和组织结构。`pege på` 的介词是 `på`。"
+        },
+        {
+            "id": "U00-C024",
+            "zh": "当公民相信政府部门会遵守规则，并且在处理事务时大体上不偏不倚，这种信任也可能增强他们对其他人的信任。",
+            "grammar": "句首 `Når ...` 是时间兼条件性质的从句，描述一般机制。内部包含 `har tillid til, at ...`，其 `at` 从句有并列谓语 `følger` 和 `behandler`。主句 `kan det også styrke ...` 的 `det` 回指前述对公共机构可靠性的信任状况。`nogenlunde upartisk` 作方式状语。",
+            "vocabulary": [
+                {
+                    "da": "have tillid til",
+                    "zh": "对……有信任",
+                    "note": "可以接名词，也可以接 `at` 从句。"
+                },
+                {
+                    "da": "en myndighed",
+                    "zh": "政府机关；公共主管部门",
+                    "note": "复数 `myndigheder`。"
+                },
+                {
+                    "da": "behandle en sag",
+                    "zh": "处理案件；办理事务",
+                    "note": "行政管理和职场常用表达。"
+                },
+                {
+                    "da": "nogenlunde",
+                    "zh": "大致；还算；基本上",
+                    "note": "表达保留余地，而不是绝对肯定。"
+                },
+                {
+                    "da": "upartisk",
+                    "zh": "公正的；不偏袒的",
+                    "note": "常用于程序、判断和行政处理。"
+                }
+            ],
+            "nuance": "`nogenlunde` 是本句很值得体会的语感：作者并没有要求政府做到绝对完美，而是强调相当程度的程序公正。`kan` 也保持因果解释的谨慎性，只表示这种信任可能促进另一种信任。",
+            "transfer": [
+                "Når borgerne har tillid til, at ..., kan det ...",
+                "Det kan være med til at styrke tilliden til ...",
+                "Sager skal behandles upartisk."
+            ],
+            "pitfall": "`behandle` 在这里是办理、处理，不是医疗上的治疗。`have tillid til, at` 与 `stole på, at` 都正确，但不能写成 `have tillid på`。"
+        },
+        {
+            "id": "U00-C025",
+            "zh": "丹麦的腐败现象较少，很多人也相信规则适用于所有人——包括那些有权有钱的人。",
+            "grammar": "两个主句以 `og` 并列。第二个主句中 `forventer` 引出 `at reglerne gælder for alle` 宾语从句。破折号后的 `også for dem med magt og penge` 进一步强调 `alle` 的范围，属于附加说明。",
+            "vocabulary": [
+                {
+                    "da": "korruption",
+                    "zh": "腐败；贪腐",
+                    "note": "通常不可数。"
+                },
+                {
+                    "da": "gælde for",
+                    "zh": "适用于；对……有效",
+                    "note": "规则、法律和条件经常以此搭配。"
+                },
+                {
+                    "da": "magt",
+                    "zh": "权力；力量",
+                    "note": "`have magt` 是拥有权力。"
+                },
+                {
+                    "da": "sjælden",
+                    "zh": "罕见的；少见的",
+                    "note": "中性形式 `sjældent`，与频率副词同形。"
+                }
+            ],
+            "nuance": "关键不是丹麦不存在腐败，而是它相对少见，以及人们普遍期待规则不因身份而改变。`også for dem med magt og penge` 是具有社会批判意味的补充：真正的制度信任包括相信强势群体同样受规则约束。",
+            "transfer": [
+                "Reglerne gælder for alle.",
+                "Det gælder også for dem, der ...",
+                "Mange forventer, at myndighederne ..."
+            ],
+            "pitfall": "`gælde for` 表示规则适用；不要与 `handle om`（涉及某个主题）混淆。`sjælden` 是形容词，`sjældent` 既可能是中性形式，也可能是频率副词。"
+        },
+        {
+            "id": "U00-C026",
+            "zh": "另一些研究者则强调历史因素，尤其是合作社运动：从十九世纪八十年代起，农民们联合起来共同经营乳品厂和屠宰场。",
+            "grammar": "`Andre` 独立使用，指持不同解释的人。`fremhæver` 后接强调对象。破折号后的 `især andelsbevægelsen` 是具体说明。`hvor bønderne ...` 是以 `hvor` 引导的关系从句，说明这一运动所处的历史实践。`fra 1880'erne og frem` 表示从某时期开始并向后延续；`gå sammen om at` 表示联合起来做某事。",
+            "vocabulary": [
+                {
+                    "da": "fremhæve",
+                    "zh": "强调；突出指出",
+                    "note": "常用于学术论证和工作汇报。"
+                },
+                {
+                    "da": "andelsbevægelsen",
+                    "zh": "合作社运动",
+                    "note": "`en andel` 为份额、股份；该词具有丹麦历史语境。"
+                },
+                {
+                    "da": "gå sammen om at",
+                    "zh": "联合起来共同做某事",
+                    "note": "强调合作承担同一事业。"
+                },
+                {
+                    "da": "drive",
+                    "zh": "经营；运营",
+                    "note": "不规则变化：`driver – drev – drevet`。"
+                },
+                {
+                    "da": "et mejeri / et slagteri",
+                    "zh": "乳品厂／屠宰场",
+                    "note": "复数分别为 `mejerier` 和 `slagterier`。"
+                }
+            ],
+            "nuance": "前面强调制度，这里则引入历史文化解释。`Andre fremhæver ...` 是陈述不同学术观点时很自然的对照方式。合作社的例子表明，信任也可能通过长期共同经营和相互依赖得到培养。",
+            "transfer": [
+                "Andre fremhæver betydningen af ...",
+                "Fra 1990'erne og frem har ...",
+                "Flere virksomheder gik sammen om at ..."
+            ],
+            "pitfall": "`drive` 在这里不是英语的开车，而是经营机构。`fra 1880'erne og frem` 不能解释为只发生于十九世纪八十年代，`og frem` 表示从那时起继续向后。"
+        },
+        {
+            "id": "U00-C027",
+            "zh": "信任究竟是这些运作良好的制度的成因，还是它们带来的结果，很难判断——更有可能的是，两者相互影响。",
+            "grammar": "`Om tilliden er ...` 是置于句首的间接是非问句，表达待判定的两种可能。`en årsag til` 与 `en følge af` 构成对称结构。`er svært at afgøre` 的谓语评价整个疑问内容。破折号后 `sandsynligvis påvirker de hinanden` 中副词前置，形成 `påvirker + de` 的 V2 语序。",
+            "vocabulary": [
+                {
+                    "da": "en årsag til",
+                    "zh": "……的原因",
+                    "note": "固定介词 `til`。"
+                },
+                {
+                    "da": "en følge af",
+                    "zh": "……的结果；后果",
+                    "note": "固定介词 `af`。"
+                },
+                {
+                    "da": "velfungerende",
+                    "zh": "运作良好的",
+                    "note": "适合描述机构、组织、制度和系统。"
+                },
+                {
+                    "da": "afgøre",
+                    "zh": "确定；裁决；作出决定",
+                    "note": "`svært at afgøre` 表示难以判定。"
+                },
+                {
+                    "da": "påvirke hinanden",
+                    "zh": "相互影响",
+                    "note": "`hinanden` 表达相互关系。"
+                }
+            ],
+            "nuance": "这是 C1/C2 因果论证的优秀句型。作者先明确两种竞争性解释，再拒绝作简单的单向判断，最后提出相互作用的可能性。`sandsynligvis` 让结论保持合理但非绝对的学术语气。",
+            "transfer": [
+                "Om X er en årsag til eller en følge af Y, er svært at afgøre.",
+                "Det er sandsynligt, at X og Y påvirker hinanden.",
+                "Det kan være vanskeligt at afgøre, om ..."
+            ],
+            "pitfall": "牢记 `årsag til` 与 `følge af` 的介词方向。句首的 `Om` 是“是否”，不是“关于”。不要在间接问句内部使用主句倒装语序。"
+        },
+        {
+            "id": "U00-C028",
+            "zh": "这就是一个经典的“先有鸡还是先有蛋”的问题，而且恐怕短期内不会有定论。",
+            "grammar": "`en diskussion om hønen og ægget` 是带有固定比喻的名词短语。第二分句 `den bliver næppe afgjort foreløbig` 采用 `blive` 被动。`næppe` 是表示很低可能性的副词，`foreløbig` 限定近期时间范围。",
+            "vocabulary": [
+                {
+                    "da": "hønen og ægget",
+                    "zh": "鸡与蛋；因果先后的难题",
+                    "note": "指很难确定两件事哪一个先发生或是原因。"
+                },
+                {
+                    "da": "næppe",
+                    "zh": "恐怕不会；几乎不可能",
+                    "note": "表达较强的否定性预测。"
+                },
+                {
+                    "da": "afgøre",
+                    "zh": "解决争论；确定结果",
+                    "note": "被动形式 `blive afgjort`。"
+                },
+                {
+                    "da": "foreløbig",
+                    "zh": "目前；暂时；近期内",
+                    "note": "时间范围取决于语境。"
+                }
+            ],
+            "nuance": "作者用熟悉的“鸡与蛋”比喻，把较抽象的社会科学因果争论转化为普通读者容易理解的问题。`næppe` 带有温和但明确的怀疑，避免绝对断言永远无法解答。",
+            "transfer": [
+                "Det er et klassisk spørgsmål om hønen og ægget.",
+                "Spørgsmålet bliver næppe afgjort foreløbig.",
+                "Det er svært at sige, hvad der kom først."
+            ],
+            "pitfall": "`næppe` 已包含接近否定的含义，通常不再添加 `ikke`。`foreløbig` 不意味着永远如此，只表示当前或可预见的近期。"
+        },
+        {
+            "id": "U00-C029",
+            "zh": "除了道德层面的意义之外，信任还具有经济价值。",
+            "grammar": "`Ud over` 是复合介词，表示在某事之外还包括其他方面。介词短语整体置于句首，后面采用 `har tilliden` 的 V2 语序。`også` 强调经济价值是对既有讨论的补充。",
+            "vocabulary": [
+                {
+                    "da": "ud over",
+                    "zh": "除了……之外；除此以外还",
+                    "note": "在此具有添加层面的含义。"
+                },
+                {
+                    "da": "moralsk",
+                    "zh": "道德的；伦理的",
+                    "note": "`den moralske side` 指道德层面。"
+                },
+                {
+                    "da": "økonomisk værdi",
+                    "zh": "经济价值",
+                    "note": "商业、政策及社会科学语境常用。"
+                }
+            ],
+            "nuance": "这是从伦理讨论转向经济学讨论的过渡句。`Ud over ... har ... også ...` 既承认原有观点，又自然引出新的分析维度，比简单使用 `Desuden` 更有层次。",
+            "transfer": [
+                "Ud over X har Y også en økonomisk værdi.",
+                "Ud over de praktiske fordele er der også ...",
+                "Tillid har både en social og en økonomisk værdi."
+            ],
+            "pitfall": "`ud over` 在这里表示“除了……还”，而不是“排除……不算”。若要明确表示排除，可以根据语境使用 `bortset fra`。"
+        },
+        {
+            "id": "U00-C030",
+            "zh": "经济学家在这个语境下把它称为社会资本。",
+            "grammar": "`tale om` 是谈论某概念的固定结构。`i den forbindelse` 作为方式或语境状语，表示与刚刚讨论的经济价值有关。`social kapital` 是名词短语，用来引入术语。",
+            "vocabulary": [
+                {
+                    "da": "i den forbindelse",
+                    "zh": "在这方面；在这一背景下",
+                    "note": "非常适合正式解释及过渡。"
+                },
+                {
+                    "da": "social kapital",
+                    "zh": "社会资本",
+                    "note": "社会科学及经济学术语。"
+                },
+                {
+                    "da": "en økonom",
+                    "zh": "经济学家",
+                    "note": "复数 `økonomer`。"
+                }
+            ],
+            "nuance": "`i den forbindelse` 是书面和正式口语中非常实用的衔接表达，能把一个新术语自然引入前文讨论。这里的社会资本涉及社会关系、信任和合作的价值，并非普通意义上的现金资本。",
+            "transfer": [
+                "I den forbindelse er det vigtigt at nævne ...",
+                "Økonomer taler ofte om ...",
+                "I den forbindelse opstår spørgsmålet om ..."
+            ],
+            "pitfall": "`kapital` 在这里是社会科学意义上的资本，不能只理解为资金。`i den forbindelse` 不等于具体物理连接。"
+        },
+        {
+            "id": "U00-C031",
+            "zh": "在信任水平低的地方，事事都得写成书面文件、接受核查，还要借助担保、律师和各种盖章手续来确保安全。",
+            "grammar": "`Hvor tilliden er lav` 是地点或条件性质的从句，表示凡是信任程度较低的环境。主句 `må alt ...` 体现从句前置后的 V2。三个并列被动动词 `skrives ned`、`kontrolleres` 和 `sikres` 共享情态动词 `må`，属于情态动词加 s-被动的不定式结构。",
+            "vocabulary": [
+                {
+                    "da": "skrive ned",
+                    "zh": "写下来；记录在案",
+                    "note": "被动形式 `skrives ned`。"
+                },
+                {
+                    "da": "kontrollere",
+                    "zh": "检查；核实；控制",
+                    "note": "具体含义由语境决定。"
+                },
+                {
+                    "da": "sikre",
+                    "zh": "确保；保障",
+                    "note": "`sikres med` 表示通过某种手段确保。"
+                },
+                {
+                    "da": "en garanti",
+                    "zh": "担保；保证",
+                    "note": "复数 `garantier`。"
+                },
+                {
+                    "da": "et stempel",
+                    "zh": "印章；盖章",
+                    "note": "在这里代表正式证明或行政手续。"
+                }
+            ],
+            "nuance": "这是对低信任社会交易成本的具象描写。连续列举记录、核查和各种正式手续，形成繁琐、沉重的感觉。`alt` 具有修辞性的概括作用，并不是在提出所有社会中的每件事都必须这样处理的经验定律。",
+            "transfer": [
+                "Hvor tilliden er lav, må ...",
+                "Alt skal skrives ned og dokumenteres.",
+                "Aftalen skal sikres med en garanti."
+            ],
+            "pitfall": "`må` 在此表达不得不，而不是获得许可。`skrive ned` 的被动形式仍保留小品词 `ned`；不能把 `skrives ned` 理解成“向下书写”。"
+        },
+        {
+            "id": "U00-C032",
+            "zh": "而在信任程度高的地方，人们握个手就能达成协议；木匠甚至可以在正式合同签好之前，就动手修屋顶。",
+            "grammar": "`Hvor den er høj` 与前句构成平行对照，`den` 指 `tilliden`。`kan en aftale indgås` 是情态动词加 s-被动；`med et håndtryk` 表示达成协议的方式。`gå i gang med` 表示开始着手某项工作。`før der ligger en underskrevet kontrakt` 是时间从句，强调在正式文件具备之前即可行动。",
+            "vocabulary": [
+                {
+                    "da": "indgå en aftale",
+                    "zh": "达成协议；订立约定",
+                    "note": "被动 `en aftale indgås`。"
+                },
+                {
+                    "da": "et håndtryk",
+                    "zh": "握手；握手这一动作",
+                    "note": "在此象征非正式约定。"
+                },
+                {
+                    "da": "en tømrer",
+                    "zh": "木匠；木工",
+                    "note": "丹麦建筑行业中的专业工种。"
+                },
+                {
+                    "da": "gå i gang med",
+                    "zh": "开始着手做某事",
+                    "note": "可直接接名词或工作任务。"
+                },
+                {
+                    "da": "en underskrevet kontrakt",
+                    "zh": "已签署的合同",
+                    "note": "`underskrevet` 是 `underskrive` 的过去分词。"
+                }
+            ],
+            "nuance": "这句与上一句形成鲜明平行：低信任意味着繁琐核查，高信任意味着更低的合作摩擦。`med et håndtryk` 强调人与人之间的信誉。作者是在举例说明效率差异，而不是建议忽略合同或法律保障。",
+            "transfer": [
+                "Hvor tilliden er høj, kan ...",
+                "Vi kan indgå en aftale med ...",
+                "Arbejdet kan gå i gang, før kontrakten er underskrevet."
+            ],
+            "pitfall": "`indgå en aftale` 是订立协议；不能因为 `indgå` 含有 `gå` 就按“走进去”理解。`gå i gang med` 的介词是 `med`。"
+        },
+        {
+            "id": "U00-C033",
+            "zh": "在职场中，信任往往体现为所谓的“责任之下的自主权”，也就是在承担责任的前提下享有自主空间。",
+            "grammar": "`På arbejdspladsen` 前置，后接 `går tilliden` 的 V2 语序。`gå under navnet` 是固定搭配，表示某概念以某个名称为人所知。`frihed under ansvar` 是完整的名词性表达。",
+            "vocabulary": [
+                {
+                    "da": "gå under navnet",
+                    "zh": "被称为；以……之名为人所知",
+                    "note": "用于介绍名称或称谓。"
+                },
+                {
+                    "da": "frihed under ansvar",
+                    "zh": "在承担责任前提下享有自主权",
+                    "note": "丹麦职场及教育讨论中可见的表达。"
+                },
+                {
+                    "da": "en arbejdsplads",
+                    "zh": "工作场所；单位",
+                    "note": "复数 `arbejdspladser`。"
+                }
+            ],
+            "nuance": "`frihed under ansvar` 是理解丹麦组织文化的一个重要表达。它既不是完全自由，也不是只有责任没有决定权，而是强调自主决定与对结果负责相结合。`går under navnet` 比直接说 `hedder` 更适合介绍一种概念或社会现象。",
+            "transfer": [
+                "Det går ofte under navnet ...",
+                "Vi arbejder efter princippet om frihed under ansvar.",
+                "Frihed under ansvar kræver tillid."
+            ],
+            "pitfall": "不要把 `frihed under ansvar` 理解为不受约束地做任何事。`gå under navnet` 不是身体在名字下面走动。"
+        },
+        {
+            "id": "U00-C034",
+            "zh": "员工自行决定如何着手完成任务，只有当事情开始出现问题时，主管才会介入。",
+            "grammar": "`bestemmer selv` 强调自己作决定。`hvordan en opgave skal gribes an` 是间接疑问从句，内部的 `skal gribes an` 为情态动词加 s-被动。第二分句 `chefen blander sig først, hvis ...` 中 `først` 与条件从句共同限定介入的时机。`er ved at gå galt` 表示即将或正在朝不好的方向发展。",
+            "vocabulary": [
+                {
+                    "da": "bestemme selv",
+                    "zh": "自行决定",
+                    "note": "`selv` 强调自主性。"
+                },
+                {
+                    "da": "gribe en opgave an",
+                    "zh": "着手处理某项任务",
+                    "note": "被动 `en opgave gribes an`。"
+                },
+                {
+                    "da": "blande sig",
+                    "zh": "介入；插手；干涉",
+                    "note": "可中性也可带负面评价，取决于语境。"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正要；眼看就要",
+                    "note": "后接不定式。"
+                },
+                {
+                    "da": "gå galt",
+                    "zh": "出错；出问题",
+                    "note": "与 `gå godt` 形成对照。"
+                }
+            ],
+            "nuance": "本句具体说明自主权如何运作：员工负责方法，主管主要在必要时介入。`blander sig først` 在这里并非批评主管干涉，而是强调不过度微观管理。`er ved at gå galt` 表示问题开始形成，并不一定已经造成严重后果。",
+            "transfer": [
+                "Medarbejderne bestemmer selv, hvordan opgaven skal løses.",
+                "Chefen blander sig kun, hvis ...",
+                "Projektet er ved at gå galt."
+            ],
+            "pitfall": "`gribe an` 不是抓住某个实体，而是处理、着手做。`blande sig` 必须有反身代词，不能单独说 `chefen blander` 表示主管介入。"
+        },
+        {
+            "id": "U00-C035",
+            "zh": "作为交换，大家也必须遵守共同的约束条件：预算、截止期限，以及同事们的时间安排。",
+            "grammar": "`Til gengæld` 是句首对照状语，后接 `skal de fælles rammer` 的 V2 语序。`skal respekteres` 是情态动词加 s-被动，表达必须遵守的要求。冒号后列出 `rammer` 所涵盖的三个具体方面。",
+            "vocabulary": [
+                {
+                    "da": "til gengæld",
+                    "zh": "相应地；作为交换；反过来说",
+                    "note": "常用于权利与义务、优势与代价的对照。"
+                },
+                {
+                    "da": "en ramme",
+                    "zh": "框架；界限；约束条件",
+                    "note": "`de fælles rammer` 指共同认可的工作边界。"
+                },
+                {
+                    "da": "en frist",
+                    "zh": "期限；截止日期",
+                    "note": "复数 `frister`。"
+                },
+                {
+                    "da": "respektere",
+                    "zh": "尊重；遵守",
+                    "note": "可用于规则、时间、边界和他人的意见。"
+                }
+            ],
+            "nuance": "`Til gengæld` 明确连接上一句的自由与这一句的责任，说明二者不是彼此独立的。`kollegernes tid` 尤其值得记住：尊重同事时间在这里与预算和期限并列，表现出协作中的相互责任。",
+            "transfer": [
+                "Til gengæld skal vi overholde ...",
+                "Frihed kræver, at de fælles rammer respekteres.",
+                "Det er vigtigt at respektere andres tid."
+            ],
+            "pitfall": "`en frist` 是截止期限，`en ferie` 才是假期。`til gengæld` 不一定表示金钱交换，也可以是权利与义务之间的对应关系。"
+        },
+        {
+            "id": "U00-C036",
+            "zh": "对于刚来到这里的人来说，最初的印象可能令人困惑——而且不一定总是愉快的。",
+            "grammar": "`For nyankomne` 指从谁的角度来看。前置后形成 `kan det første indtryk` 的 V2 语序。`kan være` 表示可能性。破折号后的 `og ikke altid behageligt` 省略前面已出现的 `være`，构成形容词并列补充。",
+            "vocabulary": [
+                {
+                    "da": "nyankomne",
+                    "zh": "新来的人；刚到某地的人",
+                    "note": "可指新员工、移民或新居民。"
+                },
+                {
+                    "da": "et første indtryk",
+                    "zh": "第一印象",
+                    "note": "常见搭配 `få et godt første indtryk`。"
+                },
+                {
+                    "da": "forvirrende",
+                    "zh": "令人困惑的",
+                    "note": "不同于 `forvirret`，后者描述人感到困惑。"
+                },
+                {
+                    "da": "behagelig",
+                    "zh": "舒适的；令人愉快的",
+                    "note": "中性形式 `behageligt`。"
+                }
+            ],
+            "nuance": "作者在肯定这种职场制度之后，没有忽视外来者的适应困难。`ikke altid behageligt` 是一种克制的表达，避免夸张地说令人痛苦，却清楚承认自主权可能伴随压力和不确定性。",
+            "transfer": [
+                "For nyankomne kan det være svært at ...",
+                "Mit første indtryk var ...",
+                "Det kan være forvirrende, når ..."
+            ],
+            "pitfall": "`forvirrende` 是使人困惑的，`forvirret` 是感到困惑的。例如 `Jeg er forvirret`，但 `Situationen er forvirrende`。"
+        },
+        {
+            "id": "U00-C037",
+            "zh": "Sara 刚开始在奥胡斯的一家 IT 部门工作时，整整第一周都在等待工作指示，可那些指示始终没有出现。",
+            "grammar": "`Da Sara begyndte ...` 是描述过去某个具体时间的时间从句。主句采用 `brugte hun ...` 倒装，因为前面的时间从句占据第一位置。`bruge tid på at + 不定式` 表示花时间做某事。`instrukser, der aldrig kom` 是关系从句，修饰一直没有到来的指示。",
+            "vocabulary": [
+                {
+                    "da": "en it-afdeling",
+                    "zh": "信息技术部门",
+                    "note": "`en afdeling` 指部门、科室或分支机构。"
+                },
+                {
+                    "da": "en instruks",
+                    "zh": "指示；工作指令",
+                    "note": "复数 `instrukser`。"
+                },
+                {
+                    "da": "bruge tid på at",
+                    "zh": "花时间做某事",
+                    "note": "固定结构，尤其适合描述时间使用方式。"
+                },
+                {
+                    "da": "vente på",
+                    "zh": "等待",
+                    "note": "必须搭配 `på`。"
+                }
+            ],
+            "nuance": "这一句用一个具体人物把抽象的职场文化落到真实体验上。`instrukser, der aldrig kom` 带有轻微的戏剧感：Sara 按照自己熟悉的工作方式等待，但组织根本不会主动提供她想象中的详细命令。",
+            "transfer": [
+                "Da jeg begyndte på mit nye arbejde, ...",
+                "Jeg brugte den første uge på at ...",
+                "Jeg ventede på instrukser, der aldrig kom."
+            ],
+            "pitfall": "`bruge tid på at` 中必须保留 `på`。过去具体事件常用 `da`；泛指重复发生的情况通常使用 `når`。"
+        },
+        {
+            "id": "U00-C038",
+            "zh": "最后，她终于鼓起勇气，敲响了同事 Mikkel 的门。",
+            "grammar": "`Til sidst` 是表示过程终点的时间状语，置于句首后使用 `tog hun` 倒装。`tage mod til sig` 是固定表达，表示鼓起勇气。`banke på hos nogen` 表示到某人所在的地方敲门，`hos` 强调对方或其工作位置。",
+            "vocabulary": [
+                {
+                    "da": "til sidst",
+                    "zh": "最终；最后",
+                    "note": "强调经过一段过程后的结果。"
+                },
+                {
+                    "da": "tage mod til sig",
+                    "zh": "鼓起勇气",
+                    "note": "过去时 `tog mod til sig`。"
+                },
+                {
+                    "da": "banke på",
+                    "zh": "敲门",
+                    "note": "`banke på døren` 或 `banke på hos nogen`。"
+                },
+                {
+                    "da": "en kollega",
+                    "zh": "同事",
+                    "note": "复数 `kolleger`。"
+                }
+            ],
+            "nuance": "`tog mod til sig` 暗示 Sara 并非完全自在，询问看似简单的问题也需要克服心理压力。作者借此说明，不同职场文化之间的差异不仅是流程问题，也涉及新员工的安全感和主动性。",
+            "transfer": [
+                "Til sidst tog jeg mod til mig og ...",
+                "Jeg bankede på hos min chef.",
+                "Det krævede mod at ..."
+            ],
+            "pitfall": "`mod` 在 `tage mod til sig` 中是“勇气”，不是介词 `mod` 的“朝向、反对”。`til sidst` 不等于 `sidst` 在所有场景中的用法，前者特别强调过程终点。"
+        },
+        {
+            "id": "U00-C039",
+            "zh": "不好意思，你现在方便给我两分钟吗？",
+            "grammar": "`har du ...?` 是一般疑问句。`lige` 是语气副词，放在时间表达之前，用于软化请求。`to minutter` 在这里不只是询问拥有多少时间，而是委婉地请求短暂交谈。",
+            "vocabulary": [
+                {
+                    "da": "Undskyld",
+                    "zh": "不好意思；打扰一下",
+                    "note": "可用于道歉、吸引注意或礼貌打断。"
+                },
+                {
+                    "da": "have to minutter",
+                    "zh": "有两分钟时间",
+                    "note": "常用于临时请求交流。"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下；稍微",
+                    "note": "此处主要用于缓和请求。"
+                }
+            ],
+            "nuance": "非常自然的丹麦职场开场白。`lige` 让请求显得轻巧、不会占用太多时间，但并不是承诺谈话恰好持续两分钟。Sara 的礼貌语气也显示她有些拘谨。",
+            "transfer": [
+                "Har du lige to minutter?",
+                "Undskyld, må jeg lige spørge dig om noget?",
+                "Har du et øjeblik?"
+            ],
+            "pitfall": "`lige` 在这里不是数学意义的“正好”，也不是 `lige` 的“笔直”。不要每次都把它机械地翻译出来。"
+        },
+        {
+            "id": "U00-C040",
+            "zh": "当然可以。怎么了？",
+            "grammar": "`Klart` 是省略式答复，相当于肯定并接受对方请求。`Hvad sker der?` 是疑问词主语结构：`Hvad` 作主语，`sker` 作谓语，因此无需另加主语。",
+            "vocabulary": [
+                {
+                    "da": "Klart",
+                    "zh": "当然；没问题",
+                    "note": "轻松口语，表示直接答应。"
+                },
+                {
+                    "da": "Hvad sker der?",
+                    "zh": "怎么了？有什么事？",
+                    "note": "具体语气取决于对话情境。"
+                }
+            ],
+            "nuance": "Mikkel 的回答短促、友好，没有正式寒暄，显示同事之间较平等、随和的交流方式。这里的提问并不暗示发生事故，而是在邀请 Sara 直接说明来意。",
+            "transfer": [
+                "Klart, hvad drejer det sig om?",
+                "Selvfølgelig. Hvad så?",
+                "Hvad sker der?"
+            ],
+            "pitfall": "`Hvad sker der?` 不一定表示发生了严重事件；在同事间可以只是随和地问“什么事”。"
+        },
+        {
+            "id": "U00-C041",
+            "zh": "我这个项目需要用一个新软件。这个要找谁批准？",
+            "grammar": "`skal bruge` 是日常丹麦语表示需要某物的常用结构，不是被动或将来时。第二句 `Hvem skal godkende det?` 中 `Hvem` 作主语，因此限定动词紧随其后。`det` 回指前面提到的软件购买或使用事项。",
+            "vocabulary": [
+                {
+                    "da": "skulle bruge",
+                    "zh": "需要使用；需要某物",
+                    "note": "现在时为 `skal bruge`，在日常交流中非常常用。"
+                },
+                {
+                    "da": "godkende",
+                    "zh": "批准；正式认可",
+                    "note": "常用于预算、采购、文件及程序。"
+                },
+                {
+                    "da": "et program",
+                    "zh": "程序；软件",
+                    "note": "复数 `programmer`。"
+                }
+            ],
+            "nuance": "Sara 的问题默认存在一套必须逐级审批的流程。`Hvem skal godkende det?` 简洁而正式地询问决策权限，十分符合习惯审批制的新员工的说话方式。",
+            "transfer": [
+                "Jeg skal bruge et nyt program til ...",
+                "Hvem skal godkende det?",
+                "Skal det godkendes af nogen?"
+            ],
+            "pitfall": "`skal bruge` 是表达实际需要的自然说法，不能总按“将使用”来理解。`godkende` 不等于简单地喜欢或赞同，而通常涉及认可或批准。"
+        },
+        {
+            "id": "U00-C042",
+            "zh": "多少钱？",
+            "grammar": "`Hvad` 是疑问代词，`koster` 是限定动词，`det` 作主语；这是询问价格的固定疑问句式。",
+            "vocabulary": [
+                {
+                    "da": "koste",
+                    "zh": "花费；售价为",
+                    "note": "常用 `Hvad koster det?` 询问价格。"
+                }
+            ],
+            "nuance": "Mikkel 没有回答审批程序，而是先问价格，暗示他更关心实际金额是否合理，而非形式上的签字流程。这一句简短，却推动了职场文化冲突的展开。",
+            "transfer": [
+                "Hvad koster det?",
+                "Hvor meget koster det om måneden?",
+                "Det koster omkring 200 kroner."
+            ],
+            "pitfall": "询问价格通常说 `Hvad koster det?` 或 `Hvor meget koster det?`，不能简单照搬英语的 `How much is it` 来构造不自然语序。"
+        },
+        {
+            "id": "U00-C043",
+            "zh": "每个月两百来克朗。",
+            "grammar": "这是口语中的名词短语回答，省略了可由上下文恢复的 `Det koster`。`et par hundrede` 表示大约几百中的一个较小数额，通常接近两百。`om måneden` 表示按月计算的周期性费用。",
+            "vocabulary": [
+                {
+                    "da": "et par hundrede",
+                    "zh": "两百来；大约两百",
+                    "note": "口语中的近似数量。"
+                },
+                {
+                    "da": "om måneden",
+                    "zh": "每个月",
+                    "note": "也可说 `om året`、`om ugen`。"
+                }
+            ],
+            "nuance": "Sara 只报出金额，没有额外解释，是自然的口语省略。`et par hundrede` 比精确数字更随意，暗示金额不大，但没有给出准确的发票价格。",
+            "transfer": [
+                "Det koster et par hundrede kroner om måneden.",
+                "Jeg betaler omkring 300 kroner om året.",
+                "Et par tusind kroner i alt."
+            ],
+            "pitfall": "`et par hundrede` 在这里不能机械理解为严格等于 200；`om måneden` 是每月，不是“关于月份”。"
+        },
+        {
+            "id": "U00-C044",
+            "zh": "那就直接买吧。你最清楚自己需要什么。",
+            "grammar": "`Så køb det bare` 是动词开头的祈使句，`bare` 体现许可和轻松的态度。第二句 `Du ved bedst` 中 `bedst` 修饰 `ved`，强调对实际需求最有判断力。`hvad du har brug for` 是间接疑问从句，保留从句语序。",
+            "vocabulary": [
+                {
+                    "da": "købe",
+                    "zh": "购买",
+                    "note": "祈使式 `køb`。"
+                },
+                {
+                    "da": "have brug for",
+                    "zh": "需要",
+                    "note": "固定结构，后面接名词或代词。"
+                },
+                {
+                    "da": "vide bedst",
+                    "zh": "最清楚；最有判断力",
+                    "note": "表示某人对特定问题最了解。"
+                },
+                {
+                    "da": "bare",
+                    "zh": "就；尽管；直接",
+                    "note": "这里用于解除顾虑并给予许可。"
+                }
+            ],
+            "nuance": "Mikkel 的 `bare` 很关键：他不是命令 Sara 必须购买，而是表示完全没有必要为这笔小额开支再进行繁琐审批。`Du ved bedst` 体现对实际执行者专业判断的信任。",
+            "transfer": [
+                "Så gør det bare.",
+                "Du ved bedst, hvad du har brug for.",
+                "Bare sig til, hvis du har brug for hjælp."
+            ],
+            "pitfall": "`bare` 在这里不是“光着”或“仅仅”，而是语气小品词。`have brug for` 要整体掌握，不能写成 `have brug af`。"
+        },
+        {
+            "id": "U00-C045",
+            "zh": "不用问任何人就可以买？",
+            "grammar": "这是省略式疑问句，完整意思由前面是否需要审批的对话恢复。`uden at + 不定式` 表示不做某事就采取另一行动。`nogen` 在这里表示任何人。",
+            "vocabulary": [
+                {
+                    "da": "uden at",
+                    "zh": "没有……就；不……而",
+                    "note": "后接动词不定式。"
+                },
+                {
+                    "da": "spørge nogen",
+                    "zh": "询问某人",
+                    "note": "这里指向他人征询批准。"
+                }
+            ],
+            "nuance": "Sara 显然还不能相信事情真的这么简单。这句话短，却体现了她原有的组织经验：未经上级批准就采购软件似乎不可想象。",
+            "transfer": [
+                "Uden at spørge nogen?",
+                "Kan jeg gøre det uden at spørge?",
+                "Han gik uden at sige farvel."
+            ],
+            "pitfall": "`uden at` 后面要接不定式。不要因为中文说“问一下某人”就认为这里一定要加介词；`spørge nogen` 可以直接接人作宾语。"
+        },
+        {
+            "id": "U00-C046",
+            "zh": "你这不正在问我吗。",
+            "grammar": "`jo` 是语气小品词，表示说话人认为某件事明显或双方应该都知道。`nu` 指眼下这一刻。主句使用普通陈述语序，句子的反驳意味主要由语境和 `jo` 承担。",
+            "vocabulary": [
+                {
+                    "da": "jo",
+                    "zh": "这不是……嘛；本来就",
+                    "note": "提醒对方注意显而易见或共享的信息。"
+                },
+                {
+                    "da": "nu",
+                    "zh": "现在；此刻",
+                    "note": "在这里突显 Sara 正在进行的行为。"
+                }
+            ],
+            "nuance": "Mikkel 用轻松的反问式回应制造幽默：Sara 问“不用问任何人吗”，但她实际上已经在问他了。`jo` 带一点友好的调侃，而不是严肃的逻辑争辩。",
+            "transfer": [
+                "Det ved du jo godt.",
+                "Du har jo allerede spurgt.",
+                "Vi taler jo om det nu."
+            ],
+            "pitfall": "`jo` 在这里不能译成“是的”，也不能省略其语用含义后只理解为客观陈述。它让话语具有提醒和轻微反驳的色彩。"
+        },
+        {
+            "id": "U00-C047",
+            "zh": "哈哈。不是啦，我是认真的。",
+            "grammar": "`Nej, men ...` 是口语中用来修正谈话方向的连接方式，不必理解为两个完全独立的逻辑判断。`seriøst` 是副词，在这里省略了完整的表达，表示“认真说”。",
+            "vocabulary": [
+                {
+                    "da": "seriøst",
+                    "zh": "认真地；说真的",
+                    "note": "在口语中也可以独立使用。"
+                },
+                {
+                    "da": "nej, men",
+                    "zh": "不是，我的意思是；不过说真的",
+                    "note": "常用于重新说明问题。"
+                }
+            ],
+            "nuance": "Sara 笑着接住了 Mikkel 的玩笑，却立即把话题拉回实际问题。`Nej, men seriøst` 是十分自然的口语表达，既不显得失礼，又能明确表示自己确实需要一个严肃答案。",
+            "transfer": [
+                "Nej, men seriøst, hvad synes du?",
+                "Seriøst, er det virkelig sådan?",
+                "Haha, nej, jeg mener det alvorligt."
+            ],
+            "pitfall": "`seriøst` 在这种对话中是“说真的”，并不意味着谈话气氛突然变得非常正式。"
+        },
+        {
+            "id": "U00-C048",
+            "zh": "说真的：把这笔费用记进预算，让 Lone 能看到就行。如果后来发现这笔钱花得不值，我们就一起想办法解决。",
+            "grammar": "第一部分 `Skriv ...` 是祈使句。`så Lone kan se det` 是表示目的的从句。第二部分 `Viser det sig at ...` 是无连词条件倒装，相当于 `Hvis det viser sig at ...`；后面的主句为 `finder vi ...`，体现 V2。`vise sig at være` 表示结果证明某事是某种情况，`finde ud af det` 表示想出解决办法或处理方式。",
+            "vocabulary": [
+                {
+                    "da": "skrive noget ind i budgettet",
+                    "zh": "把某项费用列入预算",
+                    "note": "非常实用的财务及项目管理表达。"
+                },
+                {
+                    "da": "vise sig at være",
+                    "zh": "结果证明是；后来发现是",
+                    "note": "用于事实经过实践或调查后显现。"
+                },
+                {
+                    "da": "spild af penge",
+                    "zh": "浪费钱；不值得的开支",
+                    "note": "常用 `Det er spild af penge`。"
+                },
+                {
+                    "da": "finde ud af det",
+                    "zh": "弄清楚；想出办法；解决问题",
+                    "note": "意思依赖上下文。"
+                },
+                {
+                    "da": "sammen",
+                    "zh": "一起；共同",
+                    "note": "强调共同承担后续处理责任。"
+                }
+            ],
+            "nuance": "这是整段职场对话中最有价值的一句。Mikkel 并非允许毫无记录地花钱，而是提出透明预算和共同承担后果的原则。`Viser det sig ...` 简练而自然，语气带有务实的乐观：即使决策出现失误，也可以一起处理。",
+            "transfer": [
+                "Skriv det ind i budgettet, så alle kan se det.",
+                "Viser det sig at være en fejl, retter vi den.",
+                "Hvis der opstår problemer, finder vi ud af det sammen."
+            ],
+            "pitfall": "`så Lone kan se det` 表示目的，不能与纯粹表示结果的所有 `så` 用法混为一谈。`Viser det sig ...` 不需要再加 `hvis`。`finde ud af det` 在这里不只是发现事实，更包含想办法应对。"
+        },
+        {
+            "id": "U00-C049",
+            "zh": "在我以前工作的地方，这种事得有三个人签字批准才行。",
+            "grammar": "`Hvor jeg kommer fra` 是置于句首的地点或背景从句，在这里指 Sara 过去所处的工作文化。主句采用 `skulle jeg ...` 的 V2 倒装。`skulle have haft` 是过去情境中的情态完成式，表达按照她过去熟悉的规定，本来会需要三份签字。",
+            "vocabulary": [
+                {
+                    "da": "hvor jeg kommer fra",
+                    "zh": "在我原来的地方；在我过去的环境里",
+                    "note": "可以涉及地理出身，也可以借语境指原来的制度或工作环境。"
+                },
+                {
+                    "da": "en underskrift",
+                    "zh": "签名；签字",
+                    "note": "复数 `underskrifter`。"
+                },
+                {
+                    "da": "skulle have haft",
+                    "zh": "原本会需要；按当时要求本应具备",
+                    "note": "过去情境中的情态完成结构。"
+                }
+            ],
+            "nuance": "Sara 并非在告诉 Mikkel 自己具体来自哪个国家，而是在对比两种审批文化。`Hvor jeg kommer fra` 在丹麦语日常交流中可以很自然地指一个人以前的生活或工作环境。",
+            "transfer": [
+                "Hvor jeg kommer fra, gør man det anderledes.",
+                "På min tidligere arbejdsplads skulle vi ...",
+                "Jeg skulle have haft en godkendelse først."
+            ],
+            "pitfall": "`skulle have haft` 不能总译成“本来应该有但没有”，这里主要表达如果处在过去的审批体系中，按规定会被要求取得签字。"
+        },
+        {
+            "id": "U00-C050",
+            "zh": "三个？那要是这样，我们在这里恐怕什么事都办不成了。",
+            "grammar": "`Tre?` 是回声疑问，用来表达惊讶。`Så havde vi aldrig nået noget her` 使用过去完成形式 `havde nået`，在语境中表示与现实不同的假设结果：如果也需要三份签字，工作就无法推进。`nå noget` 表示取得成果或完成事情。",
+            "vocabulary": [
+                {
+                    "da": "nå noget",
+                    "zh": "取得进展；做成某事",
+                    "note": "不规则变化：`når – nåede – nået`。"
+                },
+                {
+                    "da": "aldrig",
+                    "zh": "永不；根本不",
+                    "note": "在这里加强夸张效果。"
+                }
+            ],
+            "nuance": "Mikkel 通过重复“三个？”表达难以置信，然后夸张地说他们什么都办不成。这是温和的职场幽默，体现对繁琐审批的反感，并不意味着团队真的完全不遵守流程。",
+            "transfer": [
+                "Så havde vi aldrig nået noget.",
+                "Hvis vi skulle godkende alt, ville ...",
+                "Vi når ikke noget, hvis ..."
+            ],
+            "pitfall": "`nå` 不只表示到达地点，也可以表示取得成果。这里的 `havde nået` 表达假设后果，不能按实际已经发生的过去事件翻译。"
+        },
+        {
+            "id": "U00-C051",
+            "zh": "这段对话持续了不到一分钟，却比整本员工手册更能说明这家单位的工作文化。",
+            "grammar": "`varede mindre end ...` 描述持续时间。两个主句由 `men` 连接形成对比。`sagde mere om ... end ...` 是比较结构，其中 `sige noget om` 表示说明或反映某件事，并非仅指字面上的说话。",
+            "vocabulary": [
+                {
+                    "da": "vare",
+                    "zh": "持续；历时",
+                    "note": "例如 `Mødet varede en time`。"
+                },
+                {
+                    "da": "mindre end",
+                    "zh": "少于；不到",
+                    "note": "数量比较表达。"
+                },
+                {
+                    "da": "sige noget om",
+                    "zh": "说明；反映",
+                    "note": "可以用于事实、行为或调查结果。"
+                },
+                {
+                    "da": "en personalehåndbog",
+                    "zh": "员工手册",
+                    "note": "复合词：`personale` 加 `håndbog`。"
+                }
+            ],
+            "nuance": "作者认为实际互动比正式制度文件更能揭示组织文化。`sagde mere om ... end ...` 是一种具有概括力量的比较表达，适合用于总结案例、观察和经验。",
+            "transfer": [
+                "Det siger meget om kulturen på arbejdspladsen.",
+                "Samtalen varede mindre end fem minutter.",
+                "Hans handlinger siger mere end hans ord."
+            ],
+            "pitfall": "`sige noget om` 可以是行为或现象“说明”某事，并不要求有真正的语言表达。`vare` 表持续时间，不是 `være`（是、存在）。"
+        },
+        {
+            "id": "U00-C052",
+            "zh": "获得自主权的人，也有责任在项目开始偏离正轨时及时提出问题。",
+            "grammar": "`Den, der får frihed` 是泛指主语结构。`skal sige til` 表示必须主动告知。`i tide` 表示在太迟之前采取行动。`når et projekt er ved at gå skævt` 描述问题正在形成的阶段，`være ved at` 加不定式强调临近或正在进入某种变化。",
+            "vocabulary": [
+                {
+                    "da": "sige til",
+                    "zh": "主动告知；及时提出",
+                    "note": "在职场中常表示发现问题时通知相关人员。"
+                },
+                {
+                    "da": "i tide",
+                    "zh": "及时；来得及",
+                    "note": "与 `for sent` 对照。"
+                },
+                {
+                    "da": "gå skævt",
+                    "zh": "出差错；偏离正常方向",
+                    "note": "与 `gå galt` 意思接近。"
+                },
+                {
+                    "da": "få frihed",
+                    "zh": "获得自由或自主权",
+                    "note": "在本段特指工作自主权。"
+                }
+            ],
+            "nuance": "这句补充了丹麦职场信任文化的重要前提：授权不是让员工独自承担所有困难，而是期待他们尽早沟通风险。`sige til i tide` 很值得在真实工作中主动使用。",
+            "transfer": [
+                "Sig til i tide, hvis der opstår problemer.",
+                "Hvis projektet er ved at gå skævt, skal vi reagere.",
+                "Den, der får ansvar, skal også ..."
+            ],
+            "pitfall": "`sige til` 不是简单说一句话，而是主动通知、提出问题。`i tide` 是及时，`til tiden` 更多强调准时，两者有区别。"
+        },
+        {
+            "id": "U00-C053",
+            "zh": "一般来说，犯错是会得到谅解的。",
+            "grammar": "`En fejl` 是受事主语，`bliver tilgivet` 是 `blive` 被动。`som regel` 是频率性副词短语，表示通常情况下。",
+            "vocabulary": [
+                {
+                    "da": "en fejl",
+                    "zh": "错误；失误",
+                    "note": "复数 `fejl`。"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常；一般来说",
+                    "note": "不表示绝对没有例外。"
+                },
+                {
+                    "da": "tilgive",
+                    "zh": "原谅；宽恕",
+                    "note": "过去式 `tilgav`，过去分词 `tilgivet`。"
+                }
+            ],
+            "nuance": "作者用极短的一句表达职场文化中的宽容原则，但 `som regel` 留下了例外空间。下一句将强调真正难以被原谅的是什么。",
+            "transfer": [
+                "Fejl bliver som regel tilgivet.",
+                "Vi lærer som regel af vores fejl.",
+                "Det er menneskeligt at begå fejl."
+            ],
+            "pitfall": "`som regel` 表示通常，而不是一条正式的规则。`tilgive` 与 `undskylde` 有交集，但前者更明确表示给予原谅。"
+        },
+        {
+            "id": "U00-C054",
+            "zh": "但被隐瞒的错误，通常就不会得到原谅了。",
+            "grammar": "`Det gør ... sjældent` 是替代和省略结构。`Det` 回指上一句所说的情况，`gør` 代替前文的谓语内容 `bliver tilgivet`。`en skjult fejl` 是后置的逻辑对象，完整意思是隐藏的错误很少获得谅解。这种句式避免机械重复，并通过前后对照强化论点。",
+            "vocabulary": [
+                {
+                    "da": "skjult",
+                    "zh": "隐藏的；被隐瞒的",
+                    "note": "来自动词 `skjule`。"
+                },
+                {
+                    "da": "sjældent",
+                    "zh": "很少；不常",
+                    "note": "在此强调例外极少发生。"
+                }
+            ],
+            "nuance": "与上一句形成简练而有力的对照：错误本身通常可被宽恕，故意隐瞒却会破坏信任。这也是文章关于工作责任最具记忆价值的观点之一。",
+            "transfer": [
+                "Det gør en skjult fejl sjældent.",
+                "Det samme gælder ikke for ...",
+                "En fejl kan tilgives, men ikke nødvendigvis en skjult fejl."
+            ],
+            "pitfall": "`Det gør ...` 在这里是替代上一句谓语内容的说法，并非“它制作了一个错误”。理解这句必须联系前文。"
+        },
+        {
+            "id": "U00-C055",
+            "zh": "拿不准的时候，就去问同事——不是请求批准，而是征求建议。",
+            "grammar": "`Er man i tvivl` 是条件倒装，相当于 `Hvis man er i tvivl`。主句使用 `spørger man` 的 V2 语序。破折号后的 `ikke om lov, men om råd` 构成平行对照，说明提问的目的不同。`spørge om` 后接所请求的内容。",
+            "vocabulary": [
+                {
+                    "da": "være i tvivl",
+                    "zh": "不确定；拿不准",
+                    "note": "固定搭配 `i tvivl om noget`。"
+                },
+                {
+                    "da": "spørge om lov",
+                    "zh": "请求许可",
+                    "note": "强调是否被允许采取行动。"
+                },
+                {
+                    "da": "spørge om råd",
+                    "zh": "征求建议",
+                    "note": "强调听取他人经验或判断。"
+                },
+                {
+                    "da": "et råd",
+                    "zh": "建议；忠告",
+                    "note": "复数 `råd`。"
+                }
+            ],
+            "nuance": "这一句概括了文章中的职场文化差异：同事之间寻求的是专业建议，而非事事等待行政批准。`ikke om lov, men om råd` 简洁、对称，非常适合背诵并用于自己的工作表达。",
+            "transfer": [
+                "Er du i tvivl, så spørg en kollega.",
+                "Jeg spørger ikke om lov, men om råd.",
+                "Hvis du er i tvivl om noget, så sig til."
+            ],
+            "pitfall": "`spørge om lov` 和 `spørge om råd` 不能混淆。条件倒装 `Er man i tvivl` 不再与 `hvis` 同时使用。"
+        },
+        {
+            "id": "U00-C056",
+            "zh": "失去信任远比重新赢得信任来得快。",
+            "grammar": "`Tillid` 是主语。`er hurtigere at miste end at genvinde` 用比较级比较两个动作的难易或速度。`at miste` 与 `at genvinde` 形成平行不定式结构，其中动作所涉及的对象都是信任。",
+            "vocabulary": [
+                {
+                    "da": "miste",
+                    "zh": "失去",
+                    "note": "过去式 `mistede`，过去分词 `mistet`。"
+                },
+                {
+                    "da": "genvinde",
+                    "zh": "重新获得；重新赢得",
+                    "note": "可搭配信任、尊重、力量或地位。"
+                },
+                {
+                    "da": "hurtigere ... end",
+                    "zh": "比……更快",
+                    "note": "比较级结构。"
+                }
+            ],
+            "nuance": "这是新章节的警示性开场。作者用高度概括的比较句指出信任具有不对称性：建立和修复需要长期努力，破坏却可能发生得很快。",
+            "transfer": [
+                "Tillid er lettere at miste end at genvinde.",
+                "Det tager længere tid at genopbygge tillid end at ødelægge den.",
+                "X er sværere at opnå end at miste."
+            ],
+            "pitfall": "`genvinde` 中的 `gen-` 表示重新，但不是所有带 `gen-` 的词都能随意拆开理解。`miste` 的宾语在原句里由句子整体语义提供。"
+        },
+        {
+            "id": "U00-C057",
+            "zh": "因为信任是相互的，不信任也会蔓延：如果我认为别人会作弊或欺骗，我自己遵守规则的意愿也会随之降低。",
+            "grammar": "`Fordi tillid er gensidig` 是原因从句，前置后主句为 `smitter mistilliden`，符合 V2。冒号后 `Tror jeg, at ...` 是条件倒装，相当于 `Hvis jeg tror, at ...`。主句 `bliver jeg selv mindre tilbøjelig til at ...` 使用比较级形容词补语。`tilbøjelig til at` 后接不定式。",
+            "vocabulary": [
+                {
+                    "da": "gensidig",
+                    "zh": "相互的；双向的",
+                    "note": "常用于信任、尊重和责任。"
+                },
+                {
+                    "da": "mistillid",
+                    "zh": "不信任；猜疑",
+                    "note": "与 `tillid` 形成反义。"
+                },
+                {
+                    "da": "smitte",
+                    "zh": "传染；感染；产生连锁影响",
+                    "note": "可比喻情绪和行为的扩散。"
+                },
+                {
+                    "da": "tilbøjelig til at",
+                    "zh": "倾向于做某事",
+                    "note": "适合表达行为倾向。"
+                },
+                {
+                    "da": "spille efter reglerne",
+                    "zh": "遵守规则；按规矩办事",
+                    "note": "字面源自游戏规则，现广泛用于社会行为。"
+                }
+            ],
+            "nuance": "这句解释不信任的自我强化机制：认为别人不守规则，会削弱自己守规则的动机。`smitter` 把不信任描写成能够传播的东西；`spille efter reglerne` 则用游戏比喻社会规范，语言生动却不失分析性。",
+            "transfer": [
+                "Fordi X er gensidig, påvirker Y ...",
+                "Tror man, at andre snyder, bliver man ...",
+                "Jeg er mindre tilbøjelig til at ..., hvis ..."
+            ],
+            "pitfall": "`smitte` 在这里不是医学意义上的感染，而是比喻行为和态度的传播。`tilbøjelig til at` 要整体记住，不能省略介词 `til`。"
+        },
+        {
+            "id": "U00-C058",
+            "zh": "此外，高度信任还有其阴暗的一面，而这一点恐怕没有谁比诈骗犯更清楚了。",
+            "grammar": "`Den høje tillid` 是主语，`har desuden en bagside` 引入补充论点。`som svindlere kender bedre end nogen` 是关系从句，修饰 `en bagside`。`bedre end nogen` 是比较结构，实际意义是诈骗犯比任何人都更了解这一弱点。",
+            "vocabulary": [
+                {
+                    "da": "en bagside",
+                    "zh": "反面；不利的一面",
+                    "note": "常见 `medaljens bagside`，意为事情的另一面。"
+                },
+                {
+                    "da": "en svindler",
+                    "zh": "诈骗犯；骗子",
+                    "note": "复数 `svindlere`。"
+                },
+                {
+                    "da": "bedre end nogen",
+                    "zh": "比任何人都更了解",
+                    "note": "用于强调某类人特别熟悉某种情况。"
+                },
+                {
+                    "da": "desuden",
+                    "zh": "此外；而且",
+                    "note": "常见于说明文和论证。"
+                }
+            ],
+            "nuance": "这句将主题从信任的社会价值转向其可被利用的弱点。`en bagside` 是克制的负面表述，`bedre end nogen` 则略带讽刺意味：最懂得利用信任的人，恰恰是破坏信任的骗子。",
+            "transfer": [
+                "Der er også en bagside ved ...",
+                "X kender problemet bedre end nogen.",
+                "Det har desuden den ulempe, at ..."
+            ],
+            "pitfall": "`en bagside` 不一定是物理背面，在抽象表达中通常指副作用或不利方面。`svindler` 与 `svindel` 分别指人和行为。"
+        },
+        {
+            "id": "U00-C059",
+            "zh": "诈骗犯知道，很多人已经习惯于受到银行和政府部门的正规、妥善对待。",
+            "grammar": "`Svindlerne ved, at ...` 引出宾语从句。内部 `være vant til at + 不定式` 表示习惯于某种行为或情况。`blive behandlet` 是被动结构，`af banker og myndigheder` 说明动作施事者。`ordentligt` 作方式副词。",
+            "vocabulary": [
+                {
+                    "da": "være vant til",
+                    "zh": "习惯于",
+                    "note": "接名词或 `at` 不定式结构。"
+                },
+                {
+                    "da": "blive behandlet",
+                    "zh": "受到对待；被处理",
+                    "note": "人与机构之间常用的被动表达。"
+                },
+                {
+                    "da": "ordentligt",
+                    "zh": "妥当地；规范地；公正得体地",
+                    "note": "具体含义取决于行为场景。"
+                },
+                {
+                    "da": "en bank",
+                    "zh": "银行",
+                    "note": "复数 `banker`。"
+                }
+            ],
+            "nuance": "作者指出骗子利用的不是简单的无知，而是公众长期形成的合理经验：真实机构通常规范行事。因此，当诈骗信息模仿这些机构时，就可能借用已有的信任。",
+            "transfer": [
+                "Mange er vant til at blive behandlet ordentligt.",
+                "Vi er vant til, at myndighederne ...",
+                "Svindlere udnytter, at folk ..."
+            ],
+            "pitfall": "`være vant til` 后接动词时使用 `at`，如 `vant til at arbejde`。`blive behandlet` 中的被动表示受到对待，不是自己主动处理事情。"
+        },
+        {
+            "id": "U00-C060",
+            "zh": "因此，当一条信息看起来很官方时，他们并不总会提出质疑。",
+            "grammar": "`Derfor` 前置，主句采用 `stiller de` 倒装。`ikke altid` 构成部分否定，表示并非每次都会提出问题，而不是完全不问。`når en besked ser officiel ud` 是时间条件从句。`se ... ud` 是可分离动词结构。",
+            "vocabulary": [
+                {
+                    "da": "stille spørgsmål",
+                    "zh": "提出问题；提出质疑",
+                    "note": "可用于批判性思考和正式讨论。"
+                },
+                {
+                    "da": "se ... ud",
+                    "zh": "看起来……",
+                    "note": "常接形容词，如 `se troværdig ud`。"
+                },
+                {
+                    "da": "officiel",
+                    "zh": "官方的；正式的",
+                    "note": "中性形式 `officielt`。"
+                },
+                {
+                    "da": "en besked",
+                    "zh": "消息；通知",
+                    "note": "短信、邮件和一般通知均可使用。"
+                }
+            ],
+            "nuance": "`ikke altid` 比“从不”谨慎得多，避免把所有人都描述成轻信。`ser officiel ud` 也明确区分外观与真实性：一条信息看起来正式，并不说明它真的来自官方。",
+            "transfer": [
+                "Beskeden ser officiel ud.",
+                "Det betyder ikke altid, at ...",
+                "Man bør stille spørgsmål, når noget virker mistænkeligt."
+            ],
+            "pitfall": "`ikke altid` 是“不总是”，不等于 `aldrig`。`se ud` 在这里必须保留小品词 `ud`，例如 `Det ser mærkeligt ud`。"
+        },
+        {
+            "id": "U00-C061",
+            "zh": "时不时就会冒出一些短信，里面附着假冒快递配送公司的链接。",
+            "grammar": "`Jævnligt` 是句首频率状语，后接 `dukker der ... op`。这是带形式主语 `der` 的出现句，真正被引入的新信息是 `sms'er`。`dukke op` 表示突然出现。`med links til ...` 是修饰短信内容的介词短语。",
+            "vocabulary": [
+                {
+                    "da": "jævnligt",
+                    "zh": "经常；时不时",
+                    "note": "强调在一段时间中反复出现。"
+                },
+                {
+                    "da": "dukke op",
+                    "zh": "出现；冒出来",
+                    "note": "常用于意外或未经安排的出现。"
+                },
+                {
+                    "da": "en pakkeleverandør",
+                    "zh": "包裹配送服务商",
+                    "note": "复合词：`pakke` 加 `leverandør`。"
+                },
+                {
+                    "da": "falsk",
+                    "zh": "假的；伪造的",
+                    "note": "复数或定指形式 `falske`。"
+                }
+            ],
+            "nuance": "`dukker ... op` 让这些短信显得是不时出现的可疑现象。作者用普通日常生活中常见的包裹通知说明欺诈风险，把前面的理论讨论引向实用警惕。",
+            "transfer": [
+                "Der dukker jævnligt falske beskeder op.",
+                "Problemerne dukker ofte op, når ...",
+                "Jeg fik en sms med et link til ..."
+            ],
+            "pitfall": "`dukke op` 不是“玩偶向上”，而是固定动词短语。`links til` 表示通向网站或资源的链接，不能随意替换成 `links for`。"
+        },
+        {
+            "id": "U00-C062",
+            "zh": "还有些时候，一个态度礼貌的人会打来电话，冒充税务局工作人员，要求提供密码或银行卡信息。",
+            "grammar": "`Andre gange` 置于句首，后接 `ringer en høflig person` 的 V2 倒装。`ringer`、`udgiver sig` 和 `beder` 是共享同一主语的并列谓语。`udgive sig for at være` 表示冒充某种身份；`bede om` 表示索要某物。",
+            "vocabulary": [
+                {
+                    "da": "udgive sig for at være",
+                    "zh": "冒充；假装自己是",
+                    "note": "固定反身结构，常用于诈骗和身份冒用。"
+                },
+                {
+                    "da": "Skattestyrelsen",
+                    "zh": "丹麦税务局",
+                    "note": "专有机构名称，首字母大写。"
+                },
+                {
+                    "da": "bede om",
+                    "zh": "请求；索要",
+                    "note": "过去时 `bad om`，过去分词 `bedt om`。"
+                },
+                {
+                    "da": "kortoplysninger",
+                    "zh": "银行卡信息；卡片资料",
+                    "note": "在此指与支付卡相关的敏感信息。"
+                },
+                {
+                    "da": "høflig",
+                    "zh": "礼貌的",
+                    "note": "礼貌的语气不代表真实可信的身份。"
+                }
+            ],
+            "nuance": "作者特意写 `en høflig person`，制造表面礼貌与实际欺骗之间的反差。骗子未必粗鲁或咄咄逼人，反而可能利用平静、专业的语气建立可信度。",
+            "transfer": [
+                "Han udgav sig for at være medarbejder i ...",
+                "Personen bad om mine kortoplysninger.",
+                "Andre gange ringer nogen og ..."
+            ],
+            "pitfall": "`udgive sig for at være` 必须保留 `sig` 与 `for`。不要把 `bede om` 与 `spørge om` 完全混为一谈；前者常表示请求获得某物或让人做某事。"
+        },
+        {
+            "id": "U00-C063",
+            "zh": "也正因为如此，银行和政府部门才会一再提醒民众：绝对不能把自己的密码交给别人。",
+            "grammar": "`Det er derfor, at ...` 是强调原因的结构，突出前文诈骗风险与后文提醒之间的因果关系。`minde nogen om, at ...` 表示提醒某人记住某事。嵌套宾语从句中 `de aldrig må give deres koder videre` 使用正常从句语序。`give videre` 表示转交或透露。",
+            "vocabulary": [
+                {
+                    "da": "det er derfor, at",
+                    "zh": "正因为如此……",
+                    "note": "强调某件事发生的原因。"
+                },
+                {
+                    "da": "igen og igen",
+                    "zh": "一再；反复",
+                    "note": "突出动作重复。"
+                },
+                {
+                    "da": "minde nogen om",
+                    "zh": "提醒某人注意或记住",
+                    "note": "后面可接名词或 `at` 从句。"
+                },
+                {
+                    "da": "give noget videre",
+                    "zh": "转交；传递；透露",
+                    "note": "在数据安全语境中指把信息提供给他人。"
+                },
+                {
+                    "da": "en kode",
+                    "zh": "密码；代码",
+                    "note": "这里指用于身份验证或访问的密码。"
+                }
+            ],
+            "nuance": "`Det er derfor` 将反诈骗警示与前面讨论的高信任文化连接起来。`aldrig må` 表示明确的禁止，而不是普通建议。句子由社会学分析自然过渡到现实中的安全行为。",
+            "transfer": [
+                "Det er derfor, at vi skal være forsigtige.",
+                "Myndighederne minder folk om, at ...",
+                "Giv aldrig dine koder videre."
+            ],
+            "pitfall": "`må ikke` 表示不允许；`må aldrig` 则是任何时候都不允许。`minde om` 在这里是提醒，不是前面 `minde om` 表示相似的用法。"
+        },
+        {
+            "id": "U00-C064",
+            "zh": "不过，应对诈骗的办法，并不是从此停止信任彼此。",
+            "grammar": "`Svaret på svindel` 是主语，表示对诈骗问题的应对之道。`er ... ikke at + 不定式` 用不定式短语说明什么不是解决办法。`holde op med at` 是固定结构，表示停止做某事。`dog` 标记作者反对一种可能的过度反应。",
+            "vocabulary": [
+                {
+                    "da": "svaret på",
+                    "zh": "对……问题的答案；应对办法",
+                    "note": "可用于抽象问题或政策讨论。"
+                },
+                {
+                    "da": "svindel",
+                    "zh": "诈骗；欺诈",
+                    "note": "通常作为不可数名词。"
+                },
+                {
+                    "da": "holde op med at",
+                    "zh": "停止做某事",
+                    "note": "固定结构。"
+                },
+                {
+                    "da": "stole på hinanden",
+                    "zh": "彼此信任",
+                    "note": "强调双方之间的互信。"
+                }
+            ],
+            "nuance": "作者开始给出规范性结论：意识到信任的漏洞，不意味着应该放弃信任。`Svaret på X er ikke at Y` 是高质量议论文中十分实用的反驳句式，能明确指出一种错误应对。",
+            "transfer": [
+                "Svaret på problemet er ikke at give op.",
+                "Vi skal ikke holde op med at stole på hinanden.",
+                "Løsningen er ikke at ..., men at ..."
+            ],
+            "pitfall": "`holde op med at` 要整体记住，不是 `holde op at`。`svaret på` 在这里是应对之道，不是某道试题的标准答案。"
+        },
+        {
+            "id": "U00-C065",
+            "zh": "更明智的做法，是学会辨别信任的边界在哪里。",
+            "grammar": "`Klogere` 是比较级形容词，前置于句首，形成 `Klogere er det ...` 的倒装。`det` 是形式主语，真正的内容由后面的 `at lære ...` 不定式短语补充。`hvor grænserne går` 是间接疑问从句，表示界限位于何处。",
+            "vocabulary": [
+                {
+                    "da": "klogere",
+                    "zh": "更明智的",
+                    "note": "`klog – klogere – klogest`。"
+                },
+                {
+                    "da": "en grænse",
+                    "zh": "边界；界限",
+                    "note": "复数 `grænser`，可用于地理、法律和人际界限。"
+                },
+                {
+                    "da": "hvor grænserne går",
+                    "zh": "界限在哪里；什么地方不能越界",
+                    "note": "常用于讨论规则、责任和个人边界。"
+                }
+            ],
+            "nuance": "句首 `Klogere` 让“更明智”成为全句焦点，直接与前句的错误选择形成对照。作者强调的是有辨别力的信任，而不是无条件接受一切。`hvor grænserne går` 具有很强的跨话题迁移价值。",
+            "transfer": [
+                "Klogere er det at tænke sig om først.",
+                "Det er vigtigt at vide, hvor grænsen går.",
+                "Vi må lære, hvor grænserne går."
+            ],
+            "pitfall": "`hvor grænserne går` 是间接问句，不能写成 `hvor går grænserne`。`klogere` 在这里不是“知识更多”，而是判断更审慎。"
+        },
+        {
+            "id": "U00-C066",
+            "zh": "我们完全可以信任邻居，同时又对一条来自陌生号码的短信保持怀疑。",
+            "grammar": "`Man kan sagtens ...` 表示完全可以做到。`stole på naboen` 与 `tvivle på en sms` 是由 `og` 连接的并列动作。`samtidig` 表示两种看似矛盾的态度可以并存。`fra et ukendt nummer` 修饰短信来源。",
+            "vocabulary": [
+                {
+                    "da": "sagtens",
+                    "zh": "完全可以；毫无问题地",
+                    "note": "常用于强调两件事可以兼容。"
+                },
+                {
+                    "da": "samtidig",
+                    "zh": "同时；与此同时",
+                    "note": "也可连接不同观点或行动。"
+                },
+                {
+                    "da": "tvivle på",
+                    "zh": "怀疑；对……存疑",
+                    "note": "固定介词 `på`。"
+                },
+                {
+                    "da": "ukendt",
+                    "zh": "未知的；陌生的",
+                    "note": "`et ukendt nummer` 表示陌生号码。"
+                }
+            ],
+            "nuance": "这是全章非常值得背诵的实用结论。`sagtens` 语气轻松而明确，消除了“要么相信所有人，要么谁也不信”的错误二分法。作者主张根据情境和风险作出不同判断。",
+            "transfer": [
+                "Man kan sagtens være kritisk og samtidig åben.",
+                "Jeg stoler på ham, men jeg tvivler på oplysningerne.",
+                "Det kan sagtens lade sig gøre."
+            ],
+            "pitfall": "`sagtens` 不是 `sagt` 的普通副词形式，不能解释为“说得容易”。`stole på` 与 `tvivle på` 都使用 `på`，但意义相反。"
+        },
+        {
+            "id": "U00-C067",
+            "zh": "搬到这里定居的人，常常会描述出相似的适应过程。",
+            "grammar": "`Tilflyttere` 是主语，表示搬来某地生活的人。`beskriver` 为谓语，`ofte` 是频率副词。`det samme forløb` 指多个不同人所经历的类似发展过程。",
+            "vocabulary": [
+                {
+                    "da": "en tilflytter",
+                    "zh": "迁入者；新搬来的居民",
+                    "note": "不一定来自外国，也可能从丹麦其他地区迁来。"
+                },
+                {
+                    "da": "et forløb",
+                    "zh": "过程；发展经过",
+                    "note": "常用于学习、治疗、项目和个人经历。"
+                },
+                {
+                    "da": "beskrive",
+                    "zh": "描述；说明",
+                    "note": "过去式 `beskrev`，过去分词 `beskrevet`。"
+                }
+            ],
+            "nuance": "文章进入总结性章节，再次从抽象分析转向个人经验。`det samme forløb` 预告后面按先后顺序描述的心理变化，有助于读者理解适应过程的阶段性。",
+            "transfer": [
+                "Mange tilflyttere oplever det samme.",
+                "Flere beskriver et lignende forløb.",
+                "Processen kan beskrives i tre trin."
+            ],
+            "pitfall": "`tilflytter` 不是专指国际移民，而是泛指搬到某地的人。`forløb` 不是课程表或时间表，而是事件或过程的发展经过。"
+        },
+        {
+            "id": "U00-C068",
+            "zh": "一开始，他们会纳闷，为什么竟然没有人监督自己。",
+            "grammar": "`Først` 是句首时间副词，因此主句采用 `undrer de sig` 的 V2 语序。`undre sig over, at ...` 是固定反身结构。后面的 `at ingen holder øje med dem` 是表示感到惊讶之事的宾语从句。",
+            "vocabulary": [
+                {
+                    "da": "undre sig over",
+                    "zh": "对……感到惊讶；纳闷",
+                    "note": "固定反身结构。"
+                },
+                {
+                    "da": "holde øje med",
+                    "zh": "看着；监视；监督",
+                    "note": "此处带有被管理或监督的含义。"
+                },
+                {
+                    "da": "først",
+                    "zh": "起初；首先",
+                    "note": "在这里表示过程的第一阶段。"
+                }
+            ],
+            "nuance": "这里的惊讶并不是因为被严格监管，而是因为缺少监管。作者刻意呈现新来者最初的不适应，呼应前面 Sara 等待工作指示的故事。",
+            "transfer": [
+                "Først undrede jeg mig over, at ...",
+                "Jeg undrer mig over, hvorfor ...",
+                "Ingen holder øje med mig."
+            ],
+            "pitfall": "`undre sig over` 必须使用反身代词与介词 `over`。`først` 可表示最先或起初，不一定只意味着“第一名”。"
+        },
+        {
+            "id": "U00-C069",
+            "zh": "后来，他们才逐渐发现，自由也伴随着一种期待：即使没有人在场监督，每个人也应该自觉守规矩、举止得体。",
+            "grammar": "`Senere` 前置，形成 `opdager de` 的 V2 语序。`at der følger en forventning med friheden` 使用存在句结构，`følge med` 表示某种东西伴随另一种东西而来。冒号后的 `at man opfører sig ordentligt` 解释期待的具体内容。`også når ingen ser det` 是让步意味很强的时间条件从句。",
+            "vocabulary": [
+                {
+                    "da": "følge med",
+                    "zh": "随之而来；伴随",
+                    "note": "可用于权利、责任、成本和变化。"
+                },
+                {
+                    "da": "en forventning",
+                    "zh": "期待；期望",
+                    "note": "常接 `om` 或由从句说明期待内容。"
+                },
+                {
+                    "da": "opføre sig ordentligt",
+                    "zh": "规矩行事；行为得体",
+                    "note": "在这里强调无人监督时的自律。"
+                },
+                {
+                    "da": "selv om",
+                    "zh": "即使；虽然",
+                    "note": "可用于改写该句中的让步含义。"
+                }
+            ],
+            "nuance": "这一句揭示“责任之下的自主权”的深层逻辑：社会给予信任，同时也默认个人会自觉履行责任。`også når ingen ser det` 是全文的重要道德命题，与开篇无人看管的路边小摊形成直接呼应。",
+            "transfer": [
+                "Der følger et ansvar med friheden.",
+                "Senere opdager man, at ...",
+                "Man skal opføre sig ordentligt, også når ingen ser det."
+            ],
+            "pitfall": "`følge med` 在这里不是跟着某人走，而是某种责任或要求伴随自由而来。`når ingen ser det` 强调无人看见的情境，不是说事情一定不可见。"
+        },
+        {
+            "id": "U00-C070",
+            "zh": "信任并不是一个社会一旦拥有就能永远保有的东西；它是在每天成千上万件细小的行为中不断建立起来的。",
+            "grammar": "分号连接两个语义紧密但各自完整的主句。第一分句 `ikke noget, et samfund har ...` 含省略关系代词的关系从句。`én gang for alle` 表示一次性、永久地解决或获得某事。第二分句 `bliver skabt` 是 `blive` 被动，强调信任持续通过行动被创造。`i tusindvis af` 表示成千上万。",
+            "vocabulary": [
+                {
+                    "da": "én gang for alle",
+                    "zh": "一劳永逸地；一次性彻底地",
+                    "note": "重音和拼写强调一次性完成。"
+                },
+                {
+                    "da": "blive skabt",
+                    "zh": "被创造；逐渐形成",
+                    "note": "这里强调日常行为持续塑造社会信任。"
+                },
+                {
+                    "da": "i tusindvis af",
+                    "zh": "成千上万的",
+                    "note": "用于强调大量重复出现的事物。"
+                },
+                {
+                    "da": "en handling",
+                    "zh": "行为；行动",
+                    "note": "复数 `handlinger`。"
+                }
+            ],
+            "nuance": "这是全文的核心总结之一。作者否认信任是一种永久固定的国家属性，而将其描述为日常互动不断维系的社会成果。`hver dag` 与 `tusindvis af små handlinger` 使宏大的社会概念重新落到普通人的行为上。",
+            "transfer": [
+                "Tillid er ikke noget, man opnår én gang for alle.",
+                "En god kultur bliver skabt gennem små handlinger.",
+                "Det kræver en indsats hver eneste dag."
+            ],
+            "pitfall": "`én gang for alle` 不能按字面译为“一次给所有人”。`i tusindvis af` 是数量表达，不必理解为经过精确统计的数目。"
+        },
+        {
+            "id": "U00-C071",
+            "zh": "那个铁皮罐并不能证明所有人都是诚实的。",
+            "grammar": "`Blikdåsen` 回指第一章的收款铁皮罐。`et bevis på, at ...` 是表示证据所支持内容的固定结构。`alle er ærlige` 是 `at` 引导的宾语从句。",
+            "vocabulary": [
+                {
+                    "da": "et bevis på",
+                    "zh": "……的证据；证明",
+                    "note": "固定介词 `på`。"
+                },
+                {
+                    "da": "ærlig",
+                    "zh": "诚实的；坦诚的",
+                    "note": "复数形式 `ærlige`。"
+                },
+                {
+                    "da": "alle",
+                    "zh": "所有人；全部",
+                    "note": "在此指所有人，没有例外。"
+                }
+            ],
+            "nuance": "作者回到开头的铁皮罐，形成首尾呼应，同时纠正一种过度乐观的推断。无人看管的小摊并不能证明每个人都诚实，作者的结论比这种绝对化判断更谨慎。",
+            "transfer": [
+                "Det er ikke et bevis på, at ...",
+                "Man kan ikke konkludere, at alle ...",
+                "Det betyder ikke nødvendigvis, at ..."
+            ],
+            "pitfall": "`et bevis på` 中使用 `på`，不是 `for`。`ærlig` 表示诚实，`ærligt talt` 则是“坦白说”，语用不同。"
+        },
+        {
+            "id": "U00-C072",
+            "zh": "它所证明的是：有足够多的人，即使没有人监督，也会像诚实的人那样行事。",
+            "grammar": "`Den` 回指前文铁皮罐。`et bevis på, at ...` 引导解释性宾语从句。`tilstrækkeligt mange` 表示数量足够多。`opfører sig, som om de var det` 中 `som om` 引导假设比较从句；`de var det` 的 `det` 回指前句的 `ærlige`，`var` 是用于假设比较的过去时形式，并不表示真正的过去时间。",
+            "vocabulary": [
+                {
+                    "da": "tilstrækkeligt mange",
+                    "zh": "足够多的人",
+                    "note": "强调数量达到支撑某种结果的程度。"
+                },
+                {
+                    "da": "opføre sig",
+                    "zh": "表现；行事；举止",
+                    "note": "固定反身动词。"
+                },
+                {
+                    "da": "som om",
+                    "zh": "仿佛；好像",
+                    "note": "可引导与现实未必完全一致的假设比较。"
+                },
+                {
+                    "da": "være ærlig",
+                    "zh": "诚实；坦诚",
+                    "note": "本句通过代词 `det` 避免重复形容词。"
+                }
+            ],
+            "nuance": "这是全文最后的思想落点。作者并没有断言每个人内心都绝对诚实，而是强调：只要足够多的人在实际行为中遵守共同规范，社会信任就可以持续存在。`som om de var det` 让结论既现实又带有哲学意味，强调可以观察到的行为，而不是无法验证的内心品质。最后一句将开篇铁皮罐的具体形象升华为社会信任的象征。",
+            "transfer": [
+                "Tilstrækkeligt mange opfører sig, som om ...",
+                "Han opfører sig, som om han vidste alt.",
+                "Det er et bevis på, at mange mennesker ..."
+            ],
+            "pitfall": "`som om de var det` 中的 `var` 不表示这些人过去曾经诚实，而是假设比较中的过去时形式。`det` 回指前面的 `ærlige`，不是铁皮罐。`tilstrækkeligt mange` 意味着数量足够，而非所有人。"
+        }
+    ]
+}

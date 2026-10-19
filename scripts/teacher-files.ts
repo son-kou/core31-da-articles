@@ -35,6 +35,15 @@ export function checkTeacherText(text: string, unit: string, part: string, reg: 
     r.errors.push(explainJsonError(text, e));
     return r;
   }
+  // the commonest slip: a valid answer saved under the wrong file name (e.g. the whole-unit answer saved as P01.json)
+  const claimed = (data as { part?: unknown; unit?: unknown } | null)?.part;
+  if ((data as { unit?: unknown } | null)?.unit === unit && typeof claimed === 'string' && claimed !== part) {
+    const other = expectationFor(reg, unit, claimed);
+    if (other && !validateTeacher(data, other).errors.length) {
+      r.errors.push(`内容是一份完整、有效的 ${unit} ${claimed} 回答，只是文件名不对：请把文件改名为 ${claimed}.json`);
+      return r;
+    }
+  }
   const v = validateTeacher(data, exp);
   r.errors.push(...v.errors);
   r.warnings.push(...v.warnings);
