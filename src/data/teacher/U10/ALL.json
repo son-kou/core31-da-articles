@@ -1,0 +1,1383 @@
+{
+    "schema_version": 1,
+    "unit": "U10",
+    "part": "ALL",
+    "source_fingerprint": "U10-ALL-2aa2aebebab4",
+    "sentences": [
+        {
+            "id": "U10-C001",
+            "zh": "我们交的税，到底能换来什么呢？",
+            "grammar": "疑问词 `Hvad` 引导直接疑问句，限定动词 `får` 紧随其后，泛指主语 `man` 位于动词之后。`få noget for noget` 表示付出某种代价而得到某种回报。`sin` 是与主语 `man` 对应的反身物主代词。",
+            "vocabulary": [
+                {
+                    "da": "få noget for pengene",
+                    "zh": "物有所值；花的钱得到相应回报",
+                    "note": "可迁移到消费、税收和公共服务评价"
+                },
+                {
+                    "da": "skat",
+                    "zh": "税；税款",
+                    "note": "en skat；`betale skat` 纳税，`betale skat af noget` 为某项收入纳税"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "究竟；说到底；其实",
+                    "note": "在疑问句中常用于追问实质"
+                }
+            ],
+            "nuance": "标题提出的不是税率问题，而是公共财政中的付出与回报问题。`egentlig` 使疑问具有重新审视常识的意味：平时大家交税，但认真想想，究竟得到了什么？`man` 把问题从某一个人的经济利益扩展为普通纳税人的共同疑问。",
+            "transfer": [
+                "Hvad får man egentlig for pengene?",
+                "Hvad får vi egentlig ud af det?",
+                "Hvad betaler man skat af?"
+            ],
+            "pitfall": "`for sin skat` 不是为了自己的税，而是以缴纳的税款为代价获得什么。`skat` 在这里是税款，不是另一个含义为宝贝的名词用法。"
+        },
+        {
+            "id": "U10-C002",
+            "zh": "大多数人第一次看到自己的工资单时，心里都会冒出这个问题。",
+            "grammar": "主干是 `Spørgsmålet melder sig hos de fleste`，即问题在大多数人心中浮现。后面的 `første gang de ser deres lønseddel` 是省略连接词 `at` 的时间结构，相当于第一次看到工资单的时候。`de` 指代 `de fleste`，`deres` 随之使用非反身物主代词。`melde sig` 在此是不及物反身结构。",
+            "vocabulary": [
+                {
+                    "da": "melde sig",
+                    "zh": "出现；浮现；报名；报到",
+                    "note": "本句主语是问题，指问题自然而然浮现；`melde sig til noget` 则常指报名"
+                },
+                {
+                    "da": "en lønseddel",
+                    "zh": "工资单",
+                    "note": "复数 `lønsedler`；通常列出税前收入、扣款和实际发放金额"
+                },
+                {
+                    "da": "de fleste",
+                    "zh": "大多数人；大多数",
+                    "note": "这里独立作介词 `hos` 的宾语"
+                },
+                {
+                    "da": "første gang",
+                    "zh": "第一次……时",
+                    "note": "后面可以直接接完整从句"
+                }
+            ],
+            "nuance": "`Spørgsmålet melder sig` 比 `man spørger` 更具书面叙述感，强调疑问不是刻意提出，而是受到现实情境触发后自然产生。`hos de fleste` 描写心理活动发生在某一人群身上，而不是表示他们在物理空间中的位置。",
+            "transfer": [
+                "Spørgsmålet melder sig, når …",
+                "Første gang jeg oplevede X, tænkte jeg på Y.",
+                "Der melder sig et spørgsmål om …"
+            ],
+            "pitfall": "不要把 `melder sig` 一律理解为报名。`hos` 可以描述某人身上出现的感觉、态度或想法，如 `hos mange vælgerne` 应改为符合名词短语结构的 `hos mange vælgere`。"
+        },
+        {
+            "id": "U10-C003",
+            "zh": "弗蕾娅今年19岁，刚刚拿到她在一家仓库工作挣来的第一笔工资。她目前在那里上班，一边等待进入护理专业学习。",
+            "grammar": "主句由 `Freja er 19` 与 `har lige fået sin første løn fra et lager` 并列构成。`har fået` 是现在完成时，`lige` 表示动作刚刚发生。`hvor hun arbejder` 是修饰仓库的关系从句；其中 `mens hun venter på at komme ind på sygeplejerskeuddannelsen` 又是时间从句。结构层级为主句＋地点关系从句＋同时发生的时间从句。`vente på at + 不定式` 与 `komme ind på + 教育项目` 都值得整体掌握。",
+            "vocabulary": [
+                {
+                    "da": "få løn",
+                    "zh": "领工资；获得报酬",
+                    "note": "`løn` 为 en 词；`sin første løn` 指自己的第一笔工资"
+                },
+                {
+                    "da": "et lager",
+                    "zh": "仓库",
+                    "note": "复数 `lagre`；`arbejde på et lager` 在仓库工作"
+                },
+                {
+                    "da": "vente på at gøre noget",
+                    "zh": "等待做某事；等着有机会做某事",
+                    "note": "`på` 不可省略"
+                },
+                {
+                    "da": "komme ind på en uddannelse",
+                    "zh": "被某个教育项目录取",
+                    "note": "与 `søge ind på en uddannelse` 申请入学相区别"
+                },
+                {
+                    "da": "sygeplejerskeuddannelsen",
+                    "zh": "护理专业教育；护士培养课程",
+                    "note": "由 `sygeplejerske` 与 `uddannelse` 构成的复合名词"
+                }
+            ],
+            "nuance": "作者安排了一位刚开始工作的年轻人作为叙事入口，使福利国家从抽象制度转化为第一次看到工资实发金额的切身经历。`har lige fået` 突出新鲜感；`mens hun venter på` 交代仓库工作属于进入专业教育前的过渡阶段，不暗示她已被录取。",
+            "transfer": [
+                "Jeg har lige fået min første løn.",
+                "Jeg arbejder som X, mens jeg venter på at Y.",
+                "Hun håber at komme ind på X næste år."
+            ],
+            "pitfall": "`komme ind på` 是进入某个专业或教育项目，不能机械改为 `komme ind i`。`vente på at` 后使用不定式；`vente på, at` 后则接有自己主语的完整从句。"
+        },
+        {
+            "id": "U10-C004",
+            "zh": "爸，为什么我账户上收到的钱，比合同里写的少这么多啊？",
+            "grammar": "`hvorfor` 引导直接疑问句，限定动词 `er` 位于主语 `der` 前。这里的 `der er` 是存在句，表示账户上有多少钱。比较结构是 `så meget mindre … end …`，其中 `der står i kontrakten` 是 `end` 后面的比较从句。`stå` 描述信息写在文件里，而不是人站立。",
+            "vocabulary": [
+                {
+                    "da": "på min konto",
+                    "zh": "在我的银行账户上",
+                    "note": "表示账户中的金额，常用介词 `på`"
+                },
+                {
+                    "da": "stå i kontrakten",
+                    "zh": "合同中写着；合同规定",
+                    "note": "`stå` 可表示文字记载"
+                },
+                {
+                    "da": "så meget mindre end",
+                    "zh": "比……少这么多",
+                    "note": "表达数量差异很大，带有惊讶语气"
+                },
+                {
+                    "da": "en kontrakt",
+                    "zh": "合同",
+                    "note": "`skrive under på en kontrakt` 签署合同"
+                }
+            ],
+            "nuance": "这是非常自然的家庭口语提问。Freja 没有使用正式术语 `bruttoløn` 和 `nettoløn`，而是直接比较到账金额与合同数字，符合初次领工资的年轻人说话方式。`så meget` 传达出她觉得扣除金额超出预期。",
+            "transfer": [
+                "Hvorfor er der mindre på min konto, end jeg havde forventet?",
+                "Der står noget andet i kontrakten.",
+                "Beløbet er meget lavere end forventet."
+            ],
+            "pitfall": "`der står i kontrakten` 不能直译为有人站在合同里。比较级 `mindre` 与 `end` 搭配；描述账户余额时说 `på kontoen`，不是直接套用英语的 in。"
+        },
+        {
+            "id": "U10-C005",
+            "zh": "那是扣税的缘故。首先会扣除一笔劳动力市场缴款，然后你再对剩下的部分缴纳所得税。",
+            "grammar": "第一句 `Det er skatten` 用指示代词 `det` 指代到账金额低于合同金额这一情况。第二句以 `Først` 开头，触发 V2 语序，`trækkes` 是 `trække` 的现在时 s-被动，主语 `et bidrag` 后置。`og så betaler du` 中，`så` 位于句首，限定动词 `betaler` 紧随其后。`betale skat af resten` 用 `af` 引出计税基础。",
+            "vocabulary": [
+                {
+                    "da": "trække noget fra",
+                    "zh": "扣除某项金额",
+                    "note": "工资语境中的 `trække skat` 指扣税"
+                },
+                {
+                    "da": "et bidrag",
+                    "zh": "缴款；供款；贡献",
+                    "note": "本句涉及劳动力市场缴款"
+                },
+                {
+                    "da": "arbejdsmarkedsbidrag",
+                    "zh": "劳动力市场缴款",
+                    "note": "常缩写为 `AM-bidrag`"
+                },
+                {
+                    "da": "betale skat af noget",
+                    "zh": "就某项收入缴税",
+                    "note": "注意介词 `af`"
+                },
+                {
+                    "da": "resten",
+                    "zh": "剩余部分",
+                    "note": "来自 `en rest`；`resten af noget` 某物的其余部分"
+                }
+            ],
+            "nuance": "父亲用 `Først … og så …` 把工资扣款解释成两个连续步骤，避免一开始就使用复杂税务术语。`Det er skatten` 是口语中的简明回答，意思是到账差异主要由税费扣除造成，并非表示所有扣款在严格法律分类上都属于同一种所得税。",
+            "transfer": [
+                "Først trækkes X, og så betaler man Y.",
+                "Der bliver trukket skat af min løn.",
+                "Hvor meget betaler man i skat af X?"
+            ],
+            "pitfall": "`trækkes` 是被动式，不要再给它添加表示执行者的主语。`betale skat af` 中不能用 `for` 代替 `af`。劳动力市场缴款也不要从名称推断为进入个人专属储蓄账户。"
+        },
+        {
+            "id": "U10-C006",
+            "zh": "可是我又没有主动要求交这笔钱啊！",
+            "grammar": "`har bedt` 是 `bede` 的现在完成时，`bede om at + 不定式` 表示请求或要求做某事。`ikke` 否定整个请求行为。`jo` 位于主句的中场位置，介于限定动词 `har` 和否定词 `ikke` 之间，表达说话人认为事实显而易见、对方也应当承认。",
+            "vocabulary": [
+                {
+                    "da": "bede om at gøre noget",
+                    "zh": "请求做某事；要求做某事",
+                    "note": "`bede - bad - bedt`"
+                },
+                {
+                    "da": "jo",
+                    "zh": "毕竟；明明；你也知道",
+                    "note": "语气小品词，此处带辩解和不满"
+                },
+                {
+                    "da": "betale noget",
+                    "zh": "支付某项费用",
+                    "note": "与 `betale for noget` 为某物付钱相区别"
+                }
+            ],
+            "nuance": "Freja 的焦点从税款数量转向个人同意的问题：自己并没有主动选择缴税。`jo` 使抗议显得更有情绪，近似中文的明明、又不是。`Men` 则标志她对父亲解释的不接受。",
+            "transfer": [
+                "Jeg har jo ikke bedt om det.",
+                "Jeg har ikke bedt om at få X.",
+                "Men det har jeg jo ikke sagt."
+            ],
+            "pitfall": "`bede om at betale` 不是已经支付，而是请求或要求支付。`jo` 在这里绝不是肯定回答是，而是加强对既有事实的诉诸。"
+        },
+        {
+            "id": "U10-C007",
+            "zh": "是啊，没人主动要求过。不过，你不也免费上了十三年学吗？",
+            "grammar": "`det har ingen` 是省略结构，完整含义从上一句继承，即没有人要求过缴税。`ingen` 在这里独立作主语，表示没有任何人。第二句是带有预期答案的疑问句，`har du … gået` 为现在完成时疑问语序。`vel` 表示说话人推测对方会承认这一事实，`også` 把接受公共教育与纳税建立关联。",
+            "vocabulary": [
+                {
+                    "da": "ingen",
+                    "zh": "没有人；一个也没有",
+                    "note": "可独立作主语"
+                },
+                {
+                    "da": "gå i skole",
+                    "zh": "上学",
+                    "note": "固定搭配，通常不用冠词"
+                },
+                {
+                    "da": "gratis",
+                    "zh": "免费的；免费地",
+                    "note": "作副词时形式不变"
+                },
+                {
+                    "da": "vel",
+                    "zh": "想必；应该是……吧",
+                    "note": "表示带有预期的确认或推测"
+                }
+            ],
+            "nuance": "父亲先用 `Nej` 承认缴税确实不是自愿订购的服务，再用 `Men` 把论点转向公共教育。`vel` 并非中立询问，而是在温和地要求女儿承认一个共同事实：她已经享受过由公共财政支持的服务。这是一种日常辩论中常见的反问策略。",
+            "transfer": [
+                "Det har ingen bedt om.",
+                "Du har vel også oplevet X?",
+                "Du har da også gået i skole her, ikke?"
+            ],
+            "pitfall": "`gå i skole` 是上学，不能把 `gå` 仅理解为步行。`vel` 不等于英语 very，也不是单纯的疑问词；它改变的是说话人对答案的预期。"
+        },
+        {
+            "id": "U10-C008",
+            "zh": "那根本不是一回事嘛！",
+            "grammar": "`Det er ikke det samme` 是判断两个事物并不等同的常用结构。`da` 是语气小品词，位于限定动词 `er` 后、否定词 `ikke` 前，强化反驳或纠正，并不是时间副词。",
+            "vocabulary": [
+                {
+                    "da": "det samme",
+                    "zh": "相同的事；同一回事",
+                    "note": "固定的中性形式"
+                },
+                {
+                    "da": "da",
+                    "zh": "可明明；当然；嘛",
+                    "note": "本句表达不耐烦或坚决反驳"
+                }
+            ],
+            "nuance": "Freja 没有提出新的理由，只是情绪化地拒绝父亲的类比。没有 `da` 时是比较平静的陈述；加入 `da` 后，听起来更像你怎么能把这两件事放在一起谈。",
+            "transfer": [
+                "Det er da ikke det samme!",
+                "Det er da noget helt andet.",
+                "Det kan man da ikke sammenligne."
+            ],
+            "pitfall": "这里的 `da` 不能翻译成当……的时候。丹麦语语气词需要根据语境解释，不宜固定套用一个中文词。"
+        },
+        {
+            "id": "U10-C009",
+            "zh": "确实不是，但两者是有关联的。",
+            "grammar": "`det hænger sammen` 使用动词短语 `hænge sammen`，表示事物彼此有关或构成整体。句中的 `det` 指前面讨论的缴税与免费教育之间的联系，而非某个具体物品。",
+            "vocabulary": [
+                {
+                    "da": "hænge sammen",
+                    "zh": "相互关联；联系在一起；说得通",
+                    "note": "`hænge sammen med noget` 表示与某事有关"
+                }
+            ],
+            "nuance": "父亲先承认两件事不完全相同，再强调两者之间的财政联系。`Nej, men …` 是温和而有效的论辩结构：不否定对方全部观点，但将讨论转回核心问题。",
+            "transfer": [
+                "Det hænger sammen med X.",
+                "De to ting hænger tæt sammen.",
+                "Ja, men det er ikke hele forklaringen."
+            ],
+            "pitfall": "`hænge sammen` 不一定表示物理上的悬挂；谈制度、原因与结果时，通常是抽象关联。过去时为 `hang sammen`。"
+        },
+        {
+            "id": "U10-C010",
+            "zh": "可是这样一来，我不也得拿自己的钱去养那些根本不愿意工作的人吗！",
+            "grammar": "`Jamen` 是一个整体话语标记，表达反驳、抗议或进一步追问。`så` 位于句首话语标记之后，句子采用 `så betaler jeg` 的 V2 语序。`folk, der ikke gider arbejde` 是关系从句，`der` 作从句主语，`ikke` 位于限定动词 `gider` 前。`gide + 不定式` 表示愿不愿意花心力做某事。",
+            "vocabulary": [
+                {
+                    "da": "jamen",
+                    "zh": "可是；但问题是；哎，那……",
+                    "note": "口语话语标记，常带抗议"
+                },
+                {
+                    "da": "gide at gøre noget",
+                    "zh": "愿意费心做某事",
+                    "note": "常省略 `at`；`gider ikke arbejde` 不愿工作"
+                },
+                {
+                    "da": "betale for nogen",
+                    "zh": "替某人付钱；承担某人的费用",
+                    "note": "这里暗示用自己的税款负担他人的福利"
+                }
+            ],
+            "nuance": "这是对福利制度常见的一种批评：为什么要补贴不愿意工作的人？`jo` 表达她认为自己已经推导出一个无法回避的结论，`også` 则将问题从自身所获扩展到替他人承担费用。`ikke gider arbejde` 带有明确的负面判断，不能把它当成对所有领取福利者的客观描述。",
+            "transfer": [
+                "Jamen, så skal jeg jo også betale for X.",
+                "Han gider ikke gøre noget ved problemet.",
+                "Hvad med dem, der ikke kan arbejde?"
+            ],
+            "pitfall": "`ikke gider arbejde` 是不愿意工作；`ikke kan arbejde` 是不能工作，两者在福利政策讨论中具有重大区别。`jamen` 也不是 `ja` 与 `men` 两个可随意拆开的词。"
+        },
+        {
+            "id": "U10-C011",
+            "zh": "确实有一小部分税款会用在这些人身上。但绝大部分都用于你自己正在使用、或者将来会用到的服务。",
+            "grammar": "第一句的主干是 `En lille del … går til dem`，`gå til` 表示资金流向某种用途。第二句以名词性短语 `Det meste` 作主语。`du selv bruger` 是省略关系代词的限制性从句，修饰 `ting`；破折号后的 `eller kommer til at bruge` 与 `bruger` 并列，共享主语 `du` 和先行词 `ting`。`komme til at + 不定式` 在这里表示将来会发生的使用行为。",
+            "vocabulary": [
+                {
+                    "da": "en del af",
+                    "zh": "……的一部分",
+                    "note": "`en lille del af` 一小部分"
+                },
+                {
+                    "da": "det meste",
+                    "zh": "绝大部分；大多数",
+                    "note": "可独立指代前文的资金或事物"
+                },
+                {
+                    "da": "gå til noget",
+                    "zh": "用于某项用途；归某人或某机构所有",
+                    "note": "公共预算与资金分配中常见"
+                },
+                {
+                    "da": "komme til at gøre noget",
+                    "zh": "将会做某事；结果会做某事",
+                    "note": "具体含义受语境影响"
+                }
+            ],
+            "nuance": "父亲没有简单否认女儿的担忧，而是先承认其中有一部分真实，再指出其占比不是整个税收体系的核心。`du selv` 强调女儿也是公共服务的受益人。破折号后的补充特别重要：有些服务不是现在享受，而是未来人生阶段才会用到。",
+            "transfer": [
+                "En stor del af pengene går til X.",
+                "Det meste bliver brugt på X.",
+                "Det er noget, du kommer til at få brug for."
+            ],
+            "pitfall": "`gå til` 不能按字面理解为走向。`komme til at` 既可能表示未来发生，也可能表示无意中造成某结果；本句是前一种，不是意外地使用。"
+        },
+        {
+            "id": "U10-C012",
+            "zh": "比如说？",
+            "grammar": "这是省略式追问。`Som hvad?` 相当于要求对方举例，可理解为 `Hvilke ting for eksempel?`。没有完整的主语和限定动词，是自然的会话省略。",
+            "vocabulary": [
+                {
+                    "da": "som hvad?",
+                    "zh": "比如什么？例如呢？",
+                    "note": "简短口语追问"
+                }
+            ],
+            "nuance": "非常直接，但在父女对话中自然，并不必然显得不礼貌。语调可以是单纯好奇，也可以是带有挑战意味的要求举证；结合前文，这里略带质疑。",
+            "transfer": [
+                "Som hvad?",
+                "For eksempel hvad?",
+                "Kan du give et eksempel?"
+            ],
+            "pitfall": "`som` 在这里是举例性的比如，不是关系代词。"
+        },
+        {
+            "id": "U10-C013",
+            "zh": "看医生、道路、你的教育。再过四十年，还有你的养老金。",
+            "grammar": "以名词和名词短语列举上一句要求的例子，因此省略了诸如 `Pengene går til` 的谓语。`om fyrre år` 表示从现在起四十年后，是时间状语。`din pension` 由 `din` 限定，表示将来她自己的养老金。",
+            "vocabulary": [
+                {
+                    "da": "vejene",
+                    "zh": "道路；公路",
+                    "note": "`en vej`，复数确定式 `vejene`"
+                },
+                {
+                    "da": "en uddannelse",
+                    "zh": "教育；专业培养；学历教育",
+                    "note": "语境决定具体含义"
+                },
+                {
+                    "da": "en pension",
+                    "zh": "养老金；退休金",
+                    "note": "`gå på pension` 退休，`få pension` 领取养老金"
+                },
+                {
+                    "da": "om fyrre år",
+                    "zh": "四十年后",
+                    "note": "用于从现在算起的未来时间"
+                }
+            ],
+            "nuance": "父亲使用短促的清单式回答，不解释财政细节，而是选择与女儿生活直接相关的实例。最后才提及退休金，是为了从当下的教育和医疗延伸到遥远的未来，突出福利国家跨越人生阶段的性质。",
+            "transfer": [
+                "Om ti år er situationen måske anderledes.",
+                "Pengene går blandt andet til X og Y.",
+                "Når jeg bliver gammel, får jeg pension."
+            ],
+            "pitfall": "`om fyrre år` 是四十年以后；`i fyrre år` 是持续四十年。不能互换。`pension` 指退休金时也不等同于旅游住宿中的 pensionat。"
+        },
+        {
+            "id": "U10-C014",
+            "zh": "丹麦福利国家建立在这样一项原则之上：有一系列福利和公共服务面向所有人，不论收入高低。",
+            "grammar": "主干为 `Den danske velfærdsstat bygger på et princip`。介词短语 `om, at …` 具体说明原则内容。`en række ydelser` 是从属结构，表示一系列服务或给付。`uanset indkomst` 是让步性介词短语，表示收入差异不改变前面所述原则。`at` 从句中 `en række ydelser` 为主语，`er for alle` 为谓语部分。",
+            "vocabulary": [
+                {
+                    "da": "en velfærdsstat",
+                    "zh": "福利国家",
+                    "note": "`velfærd` 福利、福祉；`stat` 国家"
+                },
+                {
+                    "da": "bygge på noget",
+                    "zh": "建立在……基础上；以……为依据",
+                    "note": "常用于制度、理论和观点"
+                },
+                {
+                    "da": "et princip",
+                    "zh": "原则",
+                    "note": "`et princip om, at …` 关于某项原则"
+                },
+                {
+                    "da": "en række",
+                    "zh": "一系列；若干",
+                    "note": "`en række + 复数名词`"
+                },
+                {
+                    "da": "uanset",
+                    "zh": "无论；不管",
+                    "note": "`uanset indkomst` 不论收入；`uanset om …` 无论是否……"
+                }
+            ],
+            "nuance": "这一句从父女对话转换成制度性解释，语体明显更书面、更抽象。`bygger på et princip om, at` 是政策分析和学术写作中非常实用的论述框架。`en række` 比所有公共服务更谨慎，避免暗示福利国家的每一项给付都不设条件。",
+            "transfer": [
+                "Systemet bygger på et princip om, at alle skal have adgang til X.",
+                "En række tilbud er åbne for alle.",
+                "Alle har ret til X, uanset indkomst."
+            ],
+            "pitfall": "`ydelser` 在社会政策中指福利给付或公共服务，不是单纯的表演。`uanset` 后可以直接接名词，也可以使用 `uanset om` 引导从句。"
+        },
+        {
+            "id": "U10-C015",
+            "zh": "在丹麦，看医生或接受手术都不需要自己支付费用，丹麦学生在求学期间甚至还能领取国家学生资助金 SU。",
+            "grammar": "第一分句以形式主语 `Det` 开头，核心为 `koster ikke noget`，两个 `at` 不定式结构 `at gå til lægen` 与 `at blive opereret` 说明不产生直接费用的活动。`blive opereret` 是被动结构，强调患者接受手术。后一并列分句使用 `mens de læser` 时间从句，表示学习期间同时领取资助。`endda` 突出递进。",
+            "vocabulary": [
+                {
+                    "da": "det koster ikke noget at …",
+                    "zh": "做某事不需要花钱",
+                    "note": "常用于说明费用或免费服务"
+                },
+                {
+                    "da": "gå til lægen",
+                    "zh": "去看医生；就诊",
+                    "note": "常用定式 `lægen`"
+                },
+                {
+                    "da": "blive opereret",
+                    "zh": "接受手术",
+                    "note": "`blive + 过去分词` 表示被动"
+                },
+                {
+                    "da": "SU",
+                    "zh": "丹麦国家学生资助金",
+                    "note": "`Statens Uddannelsesstøtte` 的缩写"
+                },
+                {
+                    "da": "mens man læser",
+                    "zh": "在求学期间",
+                    "note": "`læse` 在此指接受高等或其他相关教育"
+                }
+            ],
+            "nuance": "`endda` 表达一种递进：不仅提供教育和医疗服务，还向符合条件的学生提供生活方面的资助。这里的 `gratis` 性质侧重患者就诊或接受相关治疗时不直接付费，并不表示医疗体系没有财政成本。`mens de læser` 的 `læser` 是学生身份语境中的学习，不是单纯读书。",
+            "transfer": [
+                "Det koster ikke noget at bruge X.",
+                "Man kan få støtte, mens man læser.",
+                "De får endda økonomisk hjælp til X."
+            ],
+            "pitfall": "`gå til lægen` 是看医生，不能把医生称作一个普通目的地而随意换介词。`SU` 不是所有在丹麦学习的人都会自动得到的无条件款项；原句是对制度的概括。"
+        },
+        {
+            "id": "U10-C016",
+            "zh": "不过，有些福利是按照实际需求来决定是否发放的。例如，只有在无法依靠自身能力维持生活时，才能领取社会救助金；而申请人自己的资产，以及可能存在的配偶的收入，都会被纳入考量。",
+            "grammar": "首句由 `Nogle ydelser er dog behovsbestemte` 构成，`dog` 标示对前文普遍性原则的限制。冒号后第一分句以宾语 `Kontanthjælp` 前置，触发 `får man` 的 V2 倒装；`kun` 限定领取条件，`hvis man ikke selv kan forsørge sig` 为条件从句，否定词 `ikke` 位于情态动词 `kan` 前。最后一分句由 `både … og …` 连接两个主语成分，谓语 `bliver taget i betragtning` 为固定搭配的被动结构。",
+            "vocabulary": [
+                {
+                    "da": "behovsbestemt",
+                    "zh": "根据需求认定的；有经济状况审查的",
+                    "note": "形容词；`behovsbestemte ydelser` 需求审查型福利"
+                },
+                {
+                    "da": "kontanthjælp",
+                    "zh": "社会救助金；现金社会救助",
+                    "note": "en 词；特指丹麦的一项社会保障给付"
+                },
+                {
+                    "da": "forsørge sig selv",
+                    "zh": "养活自己；维持自身生计",
+                    "note": "`forsørge nogen` 供养某人"
+                },
+                {
+                    "da": "en formue",
+                    "zh": "财产；资产；财富",
+                    "note": "福利资格审查中常涉及可计入的资产"
+                },
+                {
+                    "da": "tage noget i betragtning",
+                    "zh": "将某事纳入考虑",
+                    "note": "被动式 `blive taget i betragtning`"
+                }
+            ],
+            "nuance": "这句通过 `dog` 引入一个重要制度区分：福利国家具有普遍性服务，但并不意味着所有给付都无条件发放。`behovsbestemt` 是社会政策的专业表达。`en eventuel ægtefælles indkomst` 中 `eventuel` 表示如果存在配偶，就考虑相关收入，不暗示申请人一定已经结婚。最后的被动句避免指定由哪位工作人员执行审查，符合行政制度说明的客观语体。",
+            "transfer": [
+                "Støtten er behovsbestemt.",
+                "Man kan kun få X, hvis man opfylder betingelserne.",
+                "Både indkomst og formue bliver taget i betragtning."
+            ],
+            "pitfall": "`eventuel` 在这里是可能存在的，不是英语 eventually 所表示的最终。`forsørge sig selv` 的 `sig selv` 与泛指主语 `man` 对应。原文是在概括政策逻辑，不应将它直接当作全部现行申请资格的完整法律清单。"
+        },
+        {
+            "id": "U10-C017",
+            "zh": "类似的情况也适用于住房补贴，例如低收入租房者可以申请的那种补贴。",
+            "grammar": "主干是 `Det samme gælder … boligstøtte`，其中 `gælde` 表示相同规则适用。`som lejere med lave indkomster kan søge om` 是修饰 `boligstøtte` 的关系从句。关系代词 `som` 是 `søge om` 的宾语，因此介词 `om` 留在从句末尾。这种介词后置在丹麦语关系从句中很自然。",
+            "vocabulary": [
+                {
+                    "da": "det samme gælder",
+                    "zh": "同样适用于；这一点也成立",
+                    "note": "用于将已说明的规则扩展到另一对象"
+                },
+                {
+                    "da": "boligstøtte",
+                    "zh": "住房补贴",
+                    "note": "en 词；可与 `søge om` 搭配"
+                },
+                {
+                    "da": "en lejer",
+                    "zh": "租房者；承租人",
+                    "note": "复数 `lejere`；区别于 `en udlejer` 出租人"
+                },
+                {
+                    "da": "søge om noget",
+                    "zh": "申请某项补助、许可或职位",
+                    "note": "过去时 `søgte`，过去分词 `søgt`"
+                }
+            ],
+            "nuance": "`Det samme gælder` 是书面解释中极高效的衔接表达，不必重新描述上一句所有审查条件。`kan søge om` 仅说明有申请可能性，并不等于申请后必然获批。`for eksempel` 放在福利名称之前，显示它只是一个具体例子。",
+            "transfer": [
+                "Det samme gælder for X.",
+                "Lejere med lave indkomster kan søge om støtte.",
+                "Det er en ordning, man kan søge om."
+            ],
+            "pitfall": "申请补贴通常说 `søge om boligstøtte`，不是简单照搬英语 apply for 的任何直译组合。`kan søge om` 与 `har ret til` 不能混为一谈。"
+        },
+        {
+            "id": "U10-C018",
+            "zh": "这一切都通过税收来筹资，而丹麦的总体税收负担在世界各国中名列前茅。",
+            "grammar": "第一分句 `Det hele bliver betalt over skatten` 使用 `blive + 过去分词` 被动结构，突出资金来源而不指定具体付款人。`over skatten` 是财政融资语境中的表达。第二分句 `Danmarks samlede skattetryk er blandt de højeste i verden` 通过 `blandt + 最高级复数形式` 表示位于全球最高水平的一组国家之中。",
+            "vocabulary": [
+                {
+                    "da": "det hele",
+                    "zh": "这一切；全部内容",
+                    "note": "整体指代前文提到的公共服务"
+                },
+                {
+                    "da": "betale noget over skatten",
+                    "zh": "通过税收支付某项费用",
+                    "note": "公共服务融资语境"
+                },
+                {
+                    "da": "skattetryk",
+                    "zh": "税收负担水平；宏观税负",
+                    "note": "et skattetryk；公共财政中常用于表示税收相对经济总量的规模"
+                },
+                {
+                    "da": "blandt de højeste",
+                    "zh": "位居最高的一批之中",
+                    "note": "`blandt` 后接复数群体"
+                }
+            ],
+            "nuance": "这一句引入福利国家的财政代价。`Det hele` 将前面的医疗、教育和福利给付合并成整体。`blandt de højeste` 是有分寸的比较，不声称丹麦必然排名第一。语体接近新闻解释或社会科学教材。",
+            "transfer": [
+                "Udgifterne bliver betalt over skatten.",
+                "Niveauet er blandt de højeste i Europa.",
+                "Det hele finansieres gennem X."
+            ],
+            "pitfall": "`skattetryk` 是宏观层面的税负概念，不等于每个人工资单上的个人所得税率。`over skatten` 不是超过税额，而是通过税收渠道。"
+        },
+        {
+            "id": "U10-C019",
+            "zh": "所得税是税收中最大的一项，而最高收入群体适用的所得税负担也会进一步提高。",
+            "grammar": "两个并列主句由 `og` 连接。第一分句 `Indkomstskatten er den største post` 使用形容词最高级。第二分句 `den stiger for de højeste indkomster` 的 `den` 指 `indkomstskatten`；`for` 引出适用对象，`de højeste indkomster` 指收入最高的群体或收入水平。",
+            "vocabulary": [
+                {
+                    "da": "indkomstskat",
+                    "zh": "所得税",
+                    "note": "en indkomstskat；`indkomst` 收入"
+                },
+                {
+                    "da": "en post",
+                    "zh": "账目项目；预算项目",
+                    "note": "本句是财政项目，不是邮政"
+                },
+                {
+                    "da": "stige",
+                    "zh": "上升；增加",
+                    "note": "`stige - steg - steget`"
+                },
+                {
+                    "da": "en indkomst",
+                    "zh": "收入",
+                    "note": "`høj indkomst` 高收入；`lav indkomst` 低收入"
+                }
+            ],
+            "nuance": "作者用简明语言介绍所得税在税收收入中的重要性，以及针对高收入部分更高的税负安排。这里重点是累进性，而不仅仅是收入越多、缴纳的绝对金额越多。`post` 属于财政和会计语体，适合经济新闻与工作报告。",
+            "transfer": [
+                "X er den største post i budgettet.",
+                "Skatten stiger med indkomsten.",
+                "Personer med høje indkomster betaler typisk mere i skat."
+            ],
+            "pitfall": "`en post` 在这里是预算条目。注意区分平均税率、边际税率和纳税总额，不能从 `stiger` 推导出所有收入都适用同一最高税率。"
+        },
+        {
+            "id": "U10-C020",
+            "zh": "除此之外，几乎所有购买的商品和服务还要缴纳增值税，而汽车、燃油、能源、酒类和烟草等也有各种消费税和专项税费。",
+            "grammar": "`Dertil` 是句首连接副词，因此采用 `Dertil kommer + 主语` 的 V2 倒装，用于补充新项目。主语由 `moms … og afgifter …` 组成。`hvad man køber` 是以疑问代词形式引出的自由关系结构，表示人们购买的东西。`blandt andet` 插入列举，提示名单不完整。",
+            "vocabulary": [
+                {
+                    "da": "dertil kommer",
+                    "zh": "此外还有；再加上",
+                    "note": "常用于补充成本、因素或问题"
+                },
+                {
+                    "da": "moms",
+                    "zh": "增值税",
+                    "note": "en moms；常说 `inklusive moms` 含税"
+                },
+                {
+                    "da": "en afgift",
+                    "zh": "税费；专项税；征费",
+                    "note": "复数 `afgifter`，具体制度含义依税种而定"
+                },
+                {
+                    "da": "brændstof",
+                    "zh": "燃料；燃油",
+                    "note": "et brændstof；常见搭配 `priser på brændstof`"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括；例如",
+                    "note": "缩写 `bl.a.`"
+                }
+            ],
+            "nuance": "`Dertil kommer` 是书面说明中自然的递进工具，用来说明税负不仅来自收入，也包含日常消费和特定商品。`blandt andet` 防止读者将列举视为封闭清单。作者通过常见生活消费项目使抽象的税收体系更容易理解。",
+            "transfer": [
+                "Dertil kommer udgifter til X.",
+                "Der er moms på næsten alle varer.",
+                "Prisen omfatter blandt andet X og Y."
+            ],
+            "pitfall": "`moms` 是增值税，与涵盖各种税费的 `afgifter` 并不完全同义。`Dertil kommer` 不是命令句，而是副词前置形成的陈述句倒装。"
+        },
+        {
+            "id": "U10-C021",
+            "zh": "税负固然很高，但福利国家依然获得广泛支持。",
+            "grammar": "关键结构为 `X er nok Y, men Z`。这里的 `nok` 在 `men` 对照关系下，表示承认前面的事实，即固然、确实，而不是主要表示概率的也许。`fortsat` 是副词，表示支持仍然持续。`have opbakning` 表示拥有支持。",
+            "vocabulary": [
+                {
+                    "da": "nok … men …",
+                    "zh": "固然……但是……",
+                    "note": "本句属于让步式用法"
+                },
+                {
+                    "da": "bred opbakning",
+                    "zh": "广泛支持",
+                    "note": "`en opbakning`；常与 `have`、`få` 搭配"
+                },
+                {
+                    "da": "fortsat",
+                    "zh": "仍然；继续",
+                    "note": "可用于正式书面语"
+                },
+                {
+                    "da": "skattetryk",
+                    "zh": "总体税负",
+                    "note": "宏观财政讨论用语"
+                }
+            ],
+            "nuance": "这是文章的重要转折：高税收不必然意味着公众反对福利制度。`nok` 先认可反方可能强调的事实，再通过 `men` 提出核心判断，是比直接否认更有说服力的论证方式。`bred opbakning` 侧重社会支持的广度，而不等于没有争议。",
+            "transfer": [
+                "X er nok dyrt, men det er pengene værd.",
+                "Forslaget har bred opbakning.",
+                "Der er fortsat stor opbakning til X."
+            ],
+            "pitfall": "不要将本句的 `nok` 翻译为大概。判断方式是结合后面的 `men`：它在这里构成承认事实再转折的语义关系。"
+        },
+        {
+            "id": "U10-C022",
+            "zh": "每年春天，人们都会收到税务机关发来的年度税务结算单；如果在过去一年里预缴的税款不足，就必须补缴税款。",
+            "grammar": "第一分句以时间状语 `Hvert forår` 开头，因此 `får man` 为 V2 倒装。第二分句的 `har man betalt for lidt i løbet af året` 是省略 `hvis` 的条件倒装，结构为限定动词 `har`＋主语 `man`＋过去分词及补足成分。条件句后主句是 `skal man betale restskat`。两个部分都存在倒装，但触发机制不同。",
+            "vocabulary": [
+                {
+                    "da": "en årsopgørelse",
+                    "zh": "年度税务结算单",
+                    "note": "由 `år` 与 `opgørelse` 构成"
+                },
+                {
+                    "da": "skattevæsenet",
+                    "zh": "税务机关；税务系统",
+                    "note": "集合性制度称谓"
+                },
+                {
+                    "da": "i løbet af året",
+                    "zh": "在这一年期间",
+                    "note": "`i løbet af + 时间段`"
+                },
+                {
+                    "da": "restskat",
+                    "zh": "应补缴的税款",
+                    "note": "`betale restskat` 补税"
+                },
+                {
+                    "da": "betale for lidt",
+                    "zh": "支付得太少；缴纳不足",
+                    "note": "对应 `betale for meget` 多缴"
+                }
+            ],
+            "nuance": "这一句从宏观财政转入丹麦生活中实际会遇到的税务流程。`årsopgørelse` 是非常实用的行政词汇。无连接词条件倒装 `Har man …, skal man …` 比完整的 `Hvis man har …` 更凝练，常见于通知、说明、建议和正式论述。",
+            "transfer": [
+                "Har man betalt for lidt i skat, skal man betale restskat.",
+                "Får man ikke svar, kan man kontakte myndighederne.",
+                "Hvert forår modtager man X."
+            ],
+            "pitfall": "不要把 `har man betalt` 误判为直接疑问句；它在这里相当于 `hvis man har betalt`。`restskat` 是补缴税款，不是退税。"
+        },
+        {
+            "id": "U10-C023",
+            "zh": "因此，换工作或加薪时，及时修改自己的预估税务申报信息是划算的，也有助于避免之后出现较大的税款差额。",
+            "grammar": "主干为 `Det kan derfor betale sig at rette sin forskudsopgørelse`。`Det` 是形式主语，真正要评价的行为由后面的 `at rette …` 表示。`kan betale sig` 是固定表达，表示值得做。`når man skifter job eller får lønforhøjelse` 是时间从句，在从句内部共享主语 `man`。",
+            "vocabulary": [
+                {
+                    "da": "det kan betale sig at …",
+                    "zh": "做某事值得；做某事划算",
+                    "note": "可指经济收益，也可指时间和精力方面的收益"
+                },
+                {
+                    "da": "rette",
+                    "zh": "修改；更正",
+                    "note": "`rette oplysninger` 更正资料"
+                },
+                {
+                    "da": "en forskudsopgørelse",
+                    "zh": "预估税务申报信息；预缴税额计算依据",
+                    "note": "与年度最终结算的 `årsopgørelse` 区分"
+                },
+                {
+                    "da": "skifte job",
+                    "zh": "换工作",
+                    "note": "固定搭配，通常不加冠词"
+                },
+                {
+                    "da": "få lønforhøjelse",
+                    "zh": "获得加薪",
+                    "note": "`en lønforhøjelse` 薪资上调"
+                }
+            ],
+            "nuance": "作者不使用强制命令，而以 `Det kan betale sig` 提供实用建议，语气更像经验丰富的人提醒读者采取有利于自己的行动。`derfor` 把建议与前文可能需要补税的情况连接起来。`sin` 与泛指主语 `man` 一致。",
+            "transfer": [
+                "Det kan betale sig at undersøge mulighederne.",
+                "Når man skifter job, bør man rette sine oplysninger.",
+                "Det kan godt betale sig at planlægge i god tid."
+            ],
+            "pitfall": "`betale sig` 不是给自己付钱。`forskudsopgørelse` 是针对预期收入与扣税的事前估算，`årsopgørelse` 则是事后年度结算，两者不可混用。"
+        },
+        {
+            "id": "U10-C024",
+            "zh": "所谓黑工，是指未向丹麦税务局申报应税收入的工作。这种行为属于违法行为，无论是提供这类劳动的人，还是购买这类服务的人，都可能因此承担法律后果。",
+            "grammar": "主语 `Sort arbejde` 后接破折号插入的解释性同位结构，内部的 `hvor skattepligtig indkomst ikke bliver oplyst til Skattestyrelsen` 是关系从句，`ikke bliver oplyst` 为否定的 `blive` 被动。主句谓语为 `er ulovligt og kan få konsekvenser`，共享主语。`både den, der udfører det, og den, der køber det` 由 `både … og …` 并列两个带关系从句的代词结构；`der` 在各自从句中充当主语。",
+            "vocabulary": [
+                {
+                    "da": "sort arbejde",
+                    "zh": "黑工；未依法申报纳税的有偿劳动",
+                    "note": "`sort` 在这里不是颜色的字面意义"
+                },
+                {
+                    "da": "skattepligtig indkomst",
+                    "zh": "应税收入",
+                    "note": "`skattepligtig` 是复合形容词"
+                },
+                {
+                    "da": "oplyse noget til nogen",
+                    "zh": "向某人或机构申报、告知某项信息",
+                    "note": "`oplyse` 也可表示说明或告知"
+                },
+                {
+                    "da": "ulovlig",
+                    "zh": "违法的",
+                    "note": "与 `lovlig` 合法的相对"
+                },
+                {
+                    "da": "få konsekvenser for nogen",
+                    "zh": "给某人带来后果",
+                    "note": "常暗示不利后果；搭配介词 `for`"
+                }
+            ],
+            "nuance": "这一句属于制度和法律风险提示。作者先用破折号给 `sort arbejde` 下定义，再明确指出交易双方都可能承担后果。`kan få konsekvenser` 是一种克制的警示方式，没有在缺乏具体情节时断言处罚种类。`den, der …` 很适合正式文章中泛指具有某种行为特征的人。",
+            "transfer": [
+                "Sort arbejde er ulovligt.",
+                "Det kan få alvorlige konsekvenser for X.",
+                "Både den, der tilbyder ydelsen, og den, der køber den, har et ansvar."
+            ],
+            "pitfall": "`sort arbejde` 并非夜班工作，也不等同于所有现金支付的工作；关键在于相关收入和税务义务是否依法处理。`oplyse til` 是申报给某机构，不能仅按让某人聪明起来理解。"
+        },
+        {
+            "id": "U10-C025",
+            "zh": "市镇政府负责学校、托幼机构、居家护理和就业服务中心；大区政府负责医院；而中央政府则负责警察、国防和大学等事务。",
+            "grammar": "全句通过并列和谓语省略压缩大量信息。完整谓语首先出现在 `Kommunerne tager sig af …` 中；后面的 `regionerne af sygehusene` 与 `staten af …` 省略了重复的 `tager sig`，只保留与动词搭配的介词 `af`。恢复后可理解为 `regionerne tager sig af sygehusene` 与 `staten tager sig af …`。三个层级构成平行结构。",
+            "vocabulary": [
+                {
+                    "da": "tage sig af noget",
+                    "zh": "负责处理；照管",
+                    "note": "`tage - tog - taget`；反身形式必须保留"
+                },
+                {
+                    "da": "en kommune",
+                    "zh": "市镇；市镇行政单位",
+                    "note": "复数 `kommuner`"
+                },
+                {
+                    "da": "en region",
+                    "zh": "大区；区域行政单位",
+                    "note": "本句特指丹麦行政体系中的大区层级"
+                },
+                {
+                    "da": "en daginstitution",
+                    "zh": "托幼机构",
+                    "note": "常包括面向幼儿的日间照护机构"
+                },
+                {
+                    "da": "hjemmehjælp",
+                    "zh": "居家帮助；居家护理支持",
+                    "note": "与老人及需要照护者的日常生活援助有关"
+                }
+            ],
+            "nuance": "这是典型的信息密集型书面句。作者用一个完整谓语和两个省略结构，把行政责任分配浓缩到一句话中，适合制度介绍、报告和政策概览。`tager sig af` 比抽象的 `har ansvaret for` 更具日常可理解性，但在这里同样表达行政职责。",
+            "transfer": [
+                "Kommunen tager sig af X, mens regionen tager sig af Y.",
+                "X har ansvaret for Y.",
+                "Staten står blandt andet for X og Y."
+            ],
+            "pitfall": "`tage sig af` 要整体记忆，不能省略 `sig`。`kommune` 在丹麦制度中对应市镇政府层级，不能直接等同于中国行政体系中的某一个固定层级。"
+        },
+        {
+            "id": "U10-C026",
+            "zh": "我们可以把福利国家看作一种贯穿一生的储蓄安排。",
+            "grammar": "主干为 `Man kan se X som Y`，即把 X 看作 Y。`kan` 表示可以采取某种理解角度，不是断言两者事实上完全相同。`livslang` 修饰 `opsparing`，强调贯穿整个生命历程。",
+            "vocabulary": [
+                {
+                    "da": "se noget som noget",
+                    "zh": "把某物视为某物",
+                    "note": "讨论观点、理论和类比时非常实用"
+                },
+                {
+                    "da": "livslang",
+                    "zh": "终身的；贯穿一生的",
+                    "note": "`et livslangt forløb`"
+                },
+                {
+                    "da": "en opsparing",
+                    "zh": "储蓄；积蓄",
+                    "note": "`spare op` 存钱、积蓄"
+                }
+            ],
+            "nuance": "作者开始引入一个便于理解的比喻，而不是正式定义。`Man kan se … som …` 为接下来修正这一比喻留下余地。读者应该将 `opsparing` 理解成初步的解释模型，因为下文会说明福利国家实际上并不像个人储蓄账户。",
+            "transfer": [
+                "Man kan se X som en form for Y.",
+                "Det kan betragtes som en investering.",
+                "Man kan forstå systemet på flere måder."
+            ],
+            "pitfall": "`se X som Y` 是视为，不意味着 X 与 Y 在所有方面完全等同。`opsparing` 是名词，动词搭配为 `spare op`。"
+        },
+        {
+            "id": "U10-C027",
+            "zh": "小时候享受免费教育，年轻时领取学生资助金，老年时领取养老金并获得照护；而在人生中间的那些年份，我们则向这个体系持续缴款。",
+            "grammar": "句首连续使用 `Som barn`、`som ung`、`som gammel` 三个表示人生阶段的状语。完整谓语首次出现为 `får man`，后两项省略重复的 `får man`，形成整齐的平行列举。后一并列分句 `i årene midt imellem betaler man ind` 把时间状语前置，引发 V2 倒装。`betale ind` 是动词加小品词结构，表示向某种共同资金或制度缴纳款项。",
+            "vocabulary": [
+                {
+                    "da": "som barn",
+                    "zh": "小时候；作为儿童时",
+                    "note": "同类结构 `som ung`、`som voksen`、`som gammel`"
+                },
+                {
+                    "da": "pleje",
+                    "zh": "照护；护理",
+                    "note": "en pleje；在此指老年阶段获得的照护"
+                },
+                {
+                    "da": "midt imellem",
+                    "zh": "在中间；处于两者之间",
+                    "note": "可指空间、时间或程度"
+                },
+                {
+                    "da": "betale ind",
+                    "zh": "缴款；向共同基金或账户供款",
+                    "note": "常见搭配 `betale ind til en ordning`"
+                }
+            ],
+            "nuance": "作者通过三个生命阶段构造极容易记忆的图景：童年、青年、老年主要接受服务，中间的工作阶段主要承担缴费。节奏整齐，适合朗诵。这个比喻呈现的是典型的人生周期，并不声称每个人在每个阶段都具有完全相同的经济状况。",
+            "transfer": [
+                "Som barn lærte jeg X, som ung begyndte jeg på Y.",
+                "I årene midt imellem arbejder de fleste.",
+                "Man betaler ind til ordningen gennem hele arbejdslivet."
+            ],
+            "pitfall": "`som barn` 不需要冠词 `et`。`betale ind` 是供款，不等于普通的 `betale for` 为具体商品或服务付钱。"
+        },
+        {
+            "id": "U10-C028",
+            "zh": "这个比喻说明，大多数人既向福利体系付出，也从中受益；但它在两个方面存在缺陷。",
+            "grammar": "主干为 `Billedet viser, at …, men det halter på to punkter`。`at` 引导宾语从句，`både giver og får` 使用配对连词表达两方面并存。`det halter på to punkter` 是抽象表达，`det` 回指整个比喻或解释模型。`på to punkter` 指在两个方面存在问题。",
+            "vocabulary": [
+                {
+                    "da": "et billede",
+                    "zh": "图像；比喻；形象化理解",
+                    "note": "这里不是实际图片，而是前文的储蓄类比"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……",
+                    "note": "连接两个同等地位的成分"
+                },
+                {
+                    "da": "halte",
+                    "zh": "跛行；存在缺陷；不够完善",
+                    "note": "过去时 `haltede`；可用于抽象理论或方案"
+                },
+                {
+                    "da": "på to punkter",
+                    "zh": "在两个方面",
+                    "note": "常用于分点分析"
+                }
+            ],
+            "nuance": "`Billedet` 指文章刚建立的概念性比喻，`halter` 则是一个形象但不过度强烈的批评词。作者没有说这个比喻完全错误，而是指出它有两个需要修正的地方。这种先利用模型解释，再分析模型局限的写法非常适合 C1 议论文。",
+            "transfer": [
+                "Forklaringen halter på flere punkter.",
+                "Modellen viser, at X både giver og får.",
+                "Argumentet holder langt hen ad vejen, men …"
+            ],
+            "pitfall": "`halte` 的字面意义是跛行，在抽象语境中表示某个解释不够成立。`på to punkter` 是两个论点或方面，不是两个地理位置。"
+        },
+        {
+            "id": "U10-C029",
+            "zh": "首先，并不存在属于每个人自己的储蓄账户：今天缴纳的钱，会用于今天那些有需要的人。",
+            "grammar": "`For det første` 是组织论证的序列连接语，位于句首，后接 `er der` 的 V2 语序。冒号之后是解释性独立主句。`De penge, man betaler i dag` 包含省略关系代词的从句，修饰 `penge`；`dem, der har brug for dem i dag` 中第一个 `dem` 指今天需要帮助的人，第二个 `dem` 指前面的款项。`have brug for` 为固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "for det første",
+                    "zh": "首先；第一点",
+                    "note": "与 `for det andet` 配合组织论证"
+                },
+                {
+                    "da": "en personlig konto",
+                    "zh": "个人账户",
+                    "note": "强调归属个人的独立账户"
+                },
+                {
+                    "da": "have brug for noget",
+                    "zh": "需要某物",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "gå til nogen",
+                    "zh": "归某人使用；拨给某人",
+                    "note": "这里指公共资金流向"
+                }
+            ],
+            "nuance": "这句指出储蓄比喻的第一个局限：福利国家的税收融资并不是为每位纳税人建立一笔可以日后取回的私人存款。两个 `i dag` 有意重复，强调当前缴纳的资金与当前需要服务的人之间的即时联系。",
+            "transfer": [
+                "For det første er der ingen garanti for X.",
+                "De penge, vi betaler i dag, går til X.",
+                "Støtten går til dem, der har brug for den."
+            ],
+            "pitfall": "`dem, der …` 是那些……的人，而不是泛指那些东西。读长句时必须分别辨认代词所指，否则容易混淆受益人和税款。"
+        },
+        {
+            "id": "U10-C030",
+            "zh": "其次，一个人最终从这个体系中获得的，也未必与自己此前缴纳的一样多。",
+            "grammar": "`For det andet` 延续前文的序列结构。主干为 `man får ikke nødvendigvis det samme ud`，其中 `ikke nødvendigvis` 否定必然性，而非否定整个结果。`som man har betalt ind` 是比较从句，说明所得与已缴金额之间的对应关系。`få noget ud` 与前文 `betale ind` 构成一进一出的语义对照。",
+            "vocabulary": [
+                {
+                    "da": "for det andet",
+                    "zh": "其次；第二点",
+                    "note": "结构化写作常用"
+                },
+                {
+                    "da": "ikke nødvendigvis",
+                    "zh": "不一定；未必",
+                    "note": "区别于完全否定"
+                },
+                {
+                    "da": "få noget ud af noget",
+                    "zh": "从某事中得到收益或收获",
+                    "note": "也可说 `få noget ud`，具体结构依语境而定"
+                },
+                {
+                    "da": "betale ind",
+                    "zh": "向体系缴款",
+                    "note": "与 `få … ud` 形成对照"
+                }
+            ],
+            "nuance": "`ikke nødvendigvis` 是非常重要的精确表达：作者没有说任何人都得不到相等的回报，而是说制度不存在保证投入与产出一一对应的机制。与上一句结合，文章开始把读者从个人储蓄的思维方式引向风险共担与收入再分配。",
+            "transfer": [
+                "Man får ikke nødvendigvis det samme tilbage.",
+                "Det betyder ikke nødvendigvis, at X.",
+                "Jo mere man betaler, desto mere får man ikke nødvendigvis tilbage."
+            ],
+            "pitfall": "`ikke nødvendigvis` 不等于 `nødvendigvis ikke`。前者表示未必如此，后者结构上可能被理解为必然不如此，逻辑方向不同。"
+        },
+        {
+            "id": "U10-C031",
+            "zh": "收入高、身体健康的人，通常缴纳的税款会超过她一生中从体系里得到的福利；而生病或失去工作的人，则会获得更多支持。",
+            "grammar": "全句以两个平行的 `Den, der …` 结构对照两类人。`Den` 指某类人，后面的 `der` 引导限制性关系从句。第一主句 `betaler typisk mere, end hun nogensinde får tilbage` 使用比较级 `mere … end …`，`nogensinde` 扩大比较的时间范围。`mens` 在这里主要表示对照，相当于而、与此同时，不只是时间上的同时发生。第二个关系从句中 `bliver syg` 与 `mister sit arbejde` 共享主语。",
+            "vocabulary": [
+                {
+                    "da": "den, der …",
+                    "zh": "那个……的人；凡是……的人",
+                    "note": "非常适合一般性论证"
+                },
+                {
+                    "da": "et godt helbred",
+                    "zh": "良好的健康状况",
+                    "note": "`helbred` 是 et 词"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "通常；典型情况下",
+                    "note": "表示一般趋势，不作绝对断言"
+                },
+                {
+                    "da": "nogensinde",
+                    "zh": "曾经；在任何时候",
+                    "note": "本句在比较结构中表示一生中任何时候"
+                },
+                {
+                    "da": "miste sit arbejde",
+                    "zh": "失去工作；失业",
+                    "note": "`miste - mistede - mistet`"
+                }
+            ],
+            "nuance": "作者借两个具有对照性的群体解释风险共担。`typisk` 和 `nogensinde` 分别处理一般规律与个人一生的时间跨度。使用 `hun` 指代前面的泛指个人，使说明更加具体，也避免反复使用 `den pågældende` 一类正式表达。`mens` 的作用是建立经济贡献与福利受益之间的对照，而非评价两类人的道德价值。",
+            "transfer": [
+                "Den, der tjener mest, betaler typisk mere.",
+                "Den, der mister sit arbejde, kan få brug for hjælp.",
+                "Nogle betaler mere, mens andre får mere tilbage."
+            ],
+            "pitfall": "`mens` 不一定只表示同时。这里应译为而，用于比较两种情况。`den, der` 的 `den` 是泛指个人，不必误读为某一位已知女性。"
+        },
+        {
+            "id": "U10-C032",
+            "zh": "因此，福利国家与其说是一种储蓄机制，不如说是一种保险机制--同时也是一种从富人向穷人、从健康者向病患群体进行资源再分配的制度。",
+            "grammar": "`altså` 表示基于前述分析得出结论。`snarere X end Y` 是偏向性比较结构，意思是与其说 Y 不如说 X。破折号后的 `og en omfordeling …` 与前面的名词性表语并列，补充第二个定义角度。`fra … til …` 两次平行出现，明确指出资源转移的来源与方向。",
+            "vocabulary": [
+                {
+                    "da": "snarere … end …",
+                    "zh": "与其说……不如说……",
+                    "note": "更准确地强调前者"
+                },
+                {
+                    "da": "en forsikring",
+                    "zh": "保险",
+                    "note": "`forsikre` 为相关动词"
+                },
+                {
+                    "da": "en omfordeling",
+                    "zh": "再分配",
+                    "note": "`omfordele` 重新分配"
+                },
+                {
+                    "da": "fra rige til fattige",
+                    "zh": "从富人向穷人",
+                    "note": "形容词名词化，用复数形式泛指群体"
+                },
+                {
+                    "da": "altså",
+                    "zh": "因此；也就是说；由此可见",
+                    "note": "这里是总结推论，不是口头犹豫词"
+                }
+            ],
+            "nuance": "这是全篇最重要的概念判断之一。储蓄强调个人投入与个人取回，保险强调风险分担，而 `omfordeling` 又进一步突出不同经济和健康状况人群之间的资源转移。`snarere … end …` 不一定完全否定后一比喻，而是表示前一比喻更准确。全句具有很强的议论文总结功能。",
+            "transfer": [
+                "X er snarere en investering end en udgift.",
+                "Det er altså et spørgsmål om X snarere end Y.",
+                "Ordningen indebærer en omfordeling fra X til Y."
+            ],
+            "pitfall": "`snarere` 在这个结构中是更确切地说，不是单纯时间上更早。`rige`、`fattige`、`raske`、`syge` 在这里指人群，不是遗漏名词的语法错误。"
+        },
+        {
+            "id": "U10-C033",
+            "zh": "整个制度的运转都依赖于一个前提：大多数成年人有工作，并且持续纳税。",
+            "grammar": "主干为 `Hele konstruktionen hviler på, at …`。`hvile på` 是抽象意义上的依靠、建立在……基础上。`at` 引导的补足从句解释制度赖以存在的条件，其内部主语为 `de fleste voksne`，并列谓语为 `arbejder og betaler skat`。",
+            "vocabulary": [
+                {
+                    "da": "en konstruktion",
+                    "zh": "结构；体系；制度安排",
+                    "note": "本句指整个福利国家制度设计"
+                },
+                {
+                    "da": "hvile på noget",
+                    "zh": "依赖于；建立在……基础上",
+                    "note": "过去时 `hvilede`"
+                },
+                {
+                    "da": "de fleste voksne",
+                    "zh": "大多数成年人",
+                    "note": "`voksne` 是形容词名词化的复数形式"
+                },
+                {
+                    "da": "betale skat",
+                    "zh": "缴税",
+                    "note": "通常不加冠词"
+                }
+            ],
+            "nuance": "在解释福利国家如何分配资源之后，作者开始讨论制度能否持续运行。`Hele konstruktionen` 把前面的福利、税收、行政部门和再分配机制视为一个整体系统。`hviler på` 比单纯的 `afhænger af` 更具有基础性和结构性意味，适合分析制度的关键前提。",
+            "transfer": [
+                "Hele systemet hviler på, at X.",
+                "Modellen bygger på, at de fleste bidrager.",
+                "Ordningen afhænger af, at X fungerer."
+            ],
+            "pitfall": "`hvile` 的字面意义是休息，但 `hvile på` 用于抽象制度时表示依托。不要把 `de fleste voksne` 理解为最高龄的大人，`voksne` 指成年人。"
+        },
+        {
+            "id": "U10-C034",
+            "zh": "问题不仅在于有没有足够的钱，也在于有没有足够的人手来照顾老年人。",
+            "grammar": "主句框架是 `Spørgsmålet er ikke kun … men også …`。两个 `om` 引导间接疑问从句，分别询问资金与人力是否足够。`der er penge nok` 与 `der er hænder nok` 都采用存在句结构，`nok` 放在名词后表示数量足够。`til at passe de ældre` 说明人力的用途。",
+            "vocabulary": [
+                {
+                    "da": "ikke kun … men også …",
+                    "zh": "不仅……而且……",
+                    "note": "对两个同等重要的方面进行强调"
+                },
+                {
+                    "da": "hænder nok",
+                    "zh": "足够的人手",
+                    "note": "`hænder` 在此借代劳动力"
+                },
+                {
+                    "da": "passe nogen",
+                    "zh": "照顾某人；照料某人",
+                    "note": "语境中指照护老年人"
+                },
+                {
+                    "da": "de ældre",
+                    "zh": "老年人群体",
+                    "note": "形容词 `ældre` 名词化"
+                }
+            ],
+            "nuance": "作者把讨论从财政可持续性推进到劳动力供给。`hænder` 是具象化的借代，尤其适合护理、养老和医疗等人力密集型行业。即使财政资金充足，如果缺乏可以实际提供照护的工作人员，问题仍然无法完全解决。这一句非常适合作为人口老龄化议论文的中心论点。",
+            "transfer": [
+                "Spørgsmålet er ikke kun, om X, men også, om Y.",
+                "Der mangler hænder i ældreplejen.",
+                "Vi har brug for flere medarbejdere til at passe de ældre."
+            ],
+            "pitfall": "`hænder nok` 在这里是足够的工作人员，不是字面上有多少只手。`om` 引导的是间接是否疑问，不能简单当成介词关于来理解。"
+        },
+        {
+            "id": "U10-C035",
+            "zh": "由于丹麦人的寿命越来越长，丹麦议会已将领取国家养老金的法定年龄与预期寿命挂钩。",
+            "grammar": "句首的 `Da danskerne lever længere` 是原因从句，`da` 在这里表示因为。原因从句位于主句之前，后面的主句因此采用 `har Folketinget` 的 V2 倒装。`har knyttet` 是现在完成时，强调已经作出的制度安排。`knytte X til Y` 表示将 X 与 Y 联系或挂钩。",
+            "vocabulary": [
+                {
+                    "da": "leve længere",
+                    "zh": "活得更久；寿命延长",
+                    "note": "`længere` 是长度或持续时间的比较级"
+                },
+                {
+                    "da": "Folketinget",
+                    "zh": "丹麦议会",
+                    "note": "丹麦国家立法机关的专名"
+                },
+                {
+                    "da": "folkepensionsalder",
+                    "zh": "领取国家养老金的法定年龄",
+                    "note": "由 `folkepension` 与 `alder` 构成"
+                },
+                {
+                    "da": "knytte noget til noget",
+                    "zh": "将某事与另一事挂钩",
+                    "note": "`knytte - knyttede - knyttet`"
+                },
+                {
+                    "da": "levetid",
+                    "zh": "寿命；存活时间",
+                    "note": "en levetid；可用于人口统计和设备寿命"
+                }
+            ],
+            "nuance": "这里的 `Da` 必须结合因果逻辑判断为由于，而非当……时。`har knyttet` 强调政策关系已经建立，并且与当前制度有关。作者给出改革背后的结构性理由，但没有声称延长退休年龄对所有劳动者都同样容易，这为下一句讨论争议作铺垫。",
+            "transfer": [
+                "Da befolkningen bliver ældre, stiger udgifterne til X.",
+                "Regeringen har knyttet X til Y.",
+                "Pensionsalderen afhænger af udviklingen i levetiden."
+            ],
+            "pitfall": "`da` 同时可以表示过去某时和因为，本句为原因用法。`folkepension` 是国家养老金概念，不能不加区分地等同于所有私人养老金或职业养老金。"
+        },
+        {
+            "id": "U10-C036",
+            "zh": "这项改革一直存在争议，因为并非所有人都能工作同样长的年限。因此，自2022年以来，那些职业生涯已经持续很长时间的人便可以申请提前退休养老金。",
+            "grammar": "第一主句 `Reformen er omdiskuteret` 后接 `fordi` 原因从句，`ikke alle kan arbejde lige længe` 表示并非所有人都能工作相同时间，是否定整体量词而非否定每个人。后一个并列主句以时间状语 `siden 2022` 开头，采用 `har personer … derfor kunnet søge om` 的 V2 结构。`har kunnet` 是情态动词 `kunne` 的现在完成时形式，后面直接接不定式 `søge`。",
+            "vocabulary": [
+                {
+                    "da": "omdiskuteret",
+                    "zh": "有争议的；引发广泛讨论的",
+                    "note": "常修饰改革、政策或提案"
+                },
+                {
+                    "da": "lige længe",
+                    "zh": "同样长的时间",
+                    "note": "`lige + 程度副词` 表示程度相同"
+                },
+                {
+                    "da": "et arbejdsliv",
+                    "zh": "职业生涯；整个工作生涯",
+                    "note": "`et langt arbejdsliv` 工作年限很长"
+                },
+                {
+                    "da": "siden 2022",
+                    "zh": "自2022年以来",
+                    "note": "表示从过去某一时间点延续至现在"
+                },
+                {
+                    "da": "tidlig pension",
+                    "zh": "提前退休养老金",
+                    "note": "丹麦特定退休安排的制度性称谓"
+                }
+            ],
+            "nuance": "`omdiskuteret` 表示社会各方意见不一，本身不判定哪一方正确。`ikke alle` 是政策辩论中关键的限定：预期寿命增加，不意味着所有职业的劳动者都能同样轻松地延长工作年限。`derfor` 将提前退休申请安排与这种不平等的工作能力联系起来。`har … kunnet søge om` 说明存在申请途径，不保证所有申请者获批。",
+            "transfer": [
+                "Reformen er omdiskuteret, fordi X.",
+                "Ikke alle har mulighed for at arbejde lige længe.",
+                "Siden 2022 har man kunnet søge om X."
+            ],
+            "pitfall": "`ikke alle` 是不是所有人，而不是所有人都不。`har kunnet` 是正确的完成时形式，不能写成 `har kan`。`søge om pension` 表示申请，不是已经获得养老金。"
+        },
+        {
+            "id": "U10-C037",
+            "zh": "从根本上说，要让这笔账算得平，无非有三条路：让更多人就业、提高税收，或者减少福利给付。",
+            "grammar": "主干为 `Der er grundlæggende tre måder … på`，其中 `tre måder at gøre noget på` 是方式表达。内嵌 `få regnestykket til at gå op` 使用使役结构 `få X til at + 不定式`，表示促使 X 达到某种状态。末尾 `på` 与前面的 `måder` 构成固定句法联系。冒号后使用三个并列名词短语概括政策路径：`flere i arbejde`、`højere skatter`、`færre ydelser`。",
+            "vocabulary": [
+                {
+                    "da": "grundlæggende",
+                    "zh": "基本上；从根本上说",
+                    "note": "用于提炼核心分析框架"
+                },
+                {
+                    "da": "få regnestykket til at gå op",
+                    "zh": "使账目平衡；让方案在经济上可行",
+                    "note": "常用于预算和政策可持续性讨论"
+                },
+                {
+                    "da": "få nogen i arbejde",
+                    "zh": "促使某人就业",
+                    "note": "`flere i arbejde` 更多人有工作"
+                },
+                {
+                    "da": "en ydelse",
+                    "zh": "福利给付；公共服务",
+                    "note": "在财政语境中常指国家提供的福利项目"
+                }
+            ],
+            "nuance": "这是典型的政策分析式归纳。`regnestykket` 表面是算术题，实际上指财政收支和制度可持续性的整体平衡。作者把复杂改革方案提炼成三个政策杠杆，使读者容易理解后续争论。`grundlæggende` 表示这是概括性框架，并非断言现实中不存在任何组合或其他细分方案。",
+            "transfer": [
+                "Der er tre måder at løse problemet på.",
+                "Vi skal få regnestykket til at gå op.",
+                "Man kan enten øge indtægterne eller reducere udgifterne."
+            ],
+            "pitfall": "`få X til at gå op` 在这里是让账算得平，不是让数字向上增长。`tre måder at … på` 中末尾的 `på` 不应随意省略。"
+        },
+        {
+            "id": "U10-C038",
+            "zh": "减少福利项目能够节省财政开支，但也可能削弱整个制度赖以维系的广泛社会支持。",
+            "grammar": "主语 `Færre ydelser` 是复数名词短语，第一谓语 `kan spare penge` 表示减少支出的可能效果。第二分句 `men de kan også undergrave den brede opbakning` 中 `de` 回指福利给付或减少后的福利安排。`som hele modellen hviler på` 是修饰 `opbakning` 的关系从句，介词 `på` 留在从句末尾，与 `hvile på` 搭配。",
+            "vocabulary": [
+                {
+                    "da": "spare penge",
+                    "zh": "省钱；节省开支",
+                    "note": "可用于个人财务和政府预算"
+                },
+                {
+                    "da": "undergrave",
+                    "zh": "削弱；侵蚀；破坏基础",
+                    "note": "用于信任、支持、制度合法性等抽象对象"
+                },
+                {
+                    "da": "bred opbakning",
+                    "zh": "广泛支持",
+                    "note": "强调社会接受程度"
+                },
+                {
+                    "da": "hvile på noget",
+                    "zh": "依赖于；以……为基础",
+                    "note": "与前文的制度基础呼应"
+                }
+            ],
+            "nuance": "作者指出财政改革的政治代价：削减福利可能改善预算，却可能影响公众对整个福利国家的支持。`undergrave` 比简单的 `svække` 更具结构性意味，暗示损害支撑体系的基础。句中再次使用 `hviler på`，与前面制度依赖劳动和税收的论点呼应，把经济可持续性与政治可持续性联系起来。",
+            "transfer": [
+                "Besparelser kan undergrave tilliden til X.",
+                "Forslaget kan spare penge, men også skabe problemer.",
+                "Hele modellen hviler på bred opbakning."
+            ],
+            "pitfall": "`undergrave` 字面是从下方挖空，在政策语境中通常指逐渐削弱根基。`færre ydelser` 是更少的福利项目或给付，不应自动等同于每项福利的金额都下降。"
+        },
+        {
+            "id": "U10-C039",
+            "zh": "从某种意义上说，福利国家是一份代际契约--尽管没有任何一代人真正亲笔签署过它。",
+            "grammar": "主句为 `Velfærdsstaten er på sin vis en aftale mellem generationer`。`på sin vis` 是插入式观点限定语，表示从某个角度理解。`som ingen af dem har skrevet under på` 是修饰 `en aftale` 的关系从句，`som` 是介词 `på` 的宾语，形成介词留置。`ingen af dem` 表示这些代际群体中的任何一方都没有签署。",
+            "vocabulary": [
+                {
+                    "da": "på sin vis",
+                    "zh": "从某种意义上说；在某种程度上",
+                    "note": "用于提出经过限定的解释"
+                },
+                {
+                    "da": "en aftale",
+                    "zh": "协议；约定；契约",
+                    "note": "`indgå en aftale` 达成协议"
+                },
+                {
+                    "da": "en generation",
+                    "zh": "一代人；世代",
+                    "note": "复数 `generationer`"
+                },
+                {
+                    "da": "skrive under på noget",
+                    "zh": "签署某项协议；认同某种主张",
+                    "note": "`skrive - skrev - skrevet`"
+                },
+                {
+                    "da": "ingen af dem",
+                    "zh": "他们当中没有任何一个",
+                    "note": "整体表达否定"
+                }
+            ],
+            "nuance": "作者用 `en aftale mellem generationer` 构造社会契约的比喻：不同世代通过工作、纳税和接受福利形成相互依赖关系。但 `som ingen … har skrevet under på` 立刻指出它并非真正通过签字建立的个人合同。`på sin vis` 的限定避免将这个形象比喻误认为法律事实，带有成熟议论文常见的概念谨慎性。",
+            "transfer": [
+                "På sin vis er X en aftale mellem Y og Z.",
+                "Ingen af os har skrevet under på det.",
+                "Det er en aftale, som begge parter skal stå ved."
+            ],
+            "pitfall": "`skrive under på` 需要保留介词 `på`，即使宾语已被关系代词 `som` 提前。`på sin vis` 不要直译为按照它自己的方式，整体表示某种意义上。"
+        },
+        {
+            "id": "U10-C040",
+            "zh": "而这份代际契约，会在每一次丹麦议会选举中被重新协商和定义。",
+            "grammar": "主语 `Den` 回指上一句的代际契约，也延伸指福利国家的制度安排。`bliver forhandlet` 是现在时 `blive` 被动结构，强调协议不断接受政治讨论与调整。`igen` 表示重新、再次；`ved hvert eneste folketingsvalg` 是时间场合状语，`hvert eneste` 强调无一例外的每一次。",
+            "vocabulary": [
+                {
+                    "da": "forhandle",
+                    "zh": "谈判；协商",
+                    "note": "`forhandle om noget` 就某事谈判"
+                },
+                {
+                    "da": "forhandle igen",
+                    "zh": "重新谈判；再次协商",
+                    "note": "与被动式 `blive forhandlet igen` 对应"
+                },
+                {
+                    "da": "et folketingsvalg",
+                    "zh": "丹麦议会选举",
+                    "note": "`Folketinget` 为丹麦议会"
+                },
+                {
+                    "da": "hvert eneste",
+                    "zh": "每一个；每一次，毫无例外",
+                    "note": "强调覆盖全部个体或事件"
+                }
+            ],
+            "nuance": "全文以一个开放性的政治判断收束：福利国家既不是个人自愿签署的合同，也不是永远不变的安排，而是通过民主政治持续讨论、调整的代际契约。`forhandlet igen` 延续上一句的协议隐喻，使结尾形成完整呼应。`hvert eneste` 强调这种讨论的周期性和持续性，并不意味着每次选举都必然发生实际政策改革。",
+            "transfer": [
+                "Aftalen bliver forhandlet igen.",
+                "Spørgsmålet bliver taget op ved hvert valg.",
+                "Ved hvert eneste valg diskuteres X på ny."
+            ],
+            "pitfall": "`bliver forhandlet` 是被动式，不意味着协议自己在谈判。`folketingsvalg` 特指丹麦议会选举，与 `kommunalvalg` 市镇选举和 `regionsrådsvalg` 大区议会选举需要区分。"
+        }
+    ]
+}

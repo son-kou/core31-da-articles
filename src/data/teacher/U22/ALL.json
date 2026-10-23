@@ -1,0 +1,1351 @@
+{
+    "schema_version": 1,
+    "unit": "U22",
+    "part": "ALL",
+    "source_fingerprint": "U22-ALL-f8afd8d4cbb5",
+    "sentences": [
+        {
+            "id": "U22-C001",
+            "zh": "丹麦是一个人口约600万的小国，但它地处波罗的海的门户位置，而这片地区历来都是各大国利益交汇之地。",
+            "grammar": "全句由 `men` 连接两个形成对照的主句：`Danmark er et lille land` 说明国家规模，`det ligger ved indgangen til Østersøen` 说明地理战略位置。句末 `hvor stormagterne altid har haft interesser` 是地点关系从句，`hvor` 回指波罗的海这一地理区域。`har haft` 使用现在完成时，强调大国利益从历史上一直延续至今。",
+            "vocabulary": [
+                {
+                    "da": "en indbygger",
+                    "zh": "居民；常住人口",
+                    "note": "复数 `indbyggere`；`et land med seks millioner indbyggere` 表示一个拥有600万人口的国家"
+                },
+                {
+                    "da": "ved indgangen til",
+                    "zh": "位于……的入口处；处于……的门户位置",
+                    "note": "既可用于实际地理位置，也可用于建筑入口"
+                },
+                {
+                    "da": "Østersøen",
+                    "zh": "波罗的海",
+                    "note": "丹麦语专有地理名称"
+                },
+                {
+                    "da": "en stormagt",
+                    "zh": "大国；世界强国",
+                    "note": "复数 `stormagter`"
+                },
+                {
+                    "da": "have interesser i",
+                    "zh": "在……拥有利益或利害关系",
+                    "note": "国际关系中通常指战略、经济或政治利益"
+                }
+            ],
+            "nuance": "作者通过 `et lille land` 与 `stormagterne` 的对照，建立全文的地缘政治主题：丹麦人口规模有限，却位于战略价值较高的区域。`altid` 是强调历史延续性的概括性表述，不必理解为每个历史时期的大国利益都完全相同。此处的 `interesser` 不是个人爱好，而是国际关系意义上的国家利益。",
+            "transfer": [
+                "Danmark er et lille land med stor strategisk betydning.",
+                "Landet ligger ved indgangen til et vigtigt havområde.",
+                "Stormagterne har længe haft interesser i regionen."
+            ],
+            "pitfall": "`interesser` 在政治语境中常指利益，而不是兴趣爱好。`ved` 表示靠近或位于某处，`ved indgangen til` 要整体理解。`har haft` 是现在完成时，不只是简单地描述过去曾经存在的利益。"
+        },
+        {
+            "id": "U22-C002",
+            "zh": "如今，一个小国面临着一项根本性的抉择。",
+            "grammar": "`I dag` 作为时间状语置于句首，因此限定动词 `står` 紧跟其后，主语 `et lille land` 后移，体现 V2 语序。`stå over for noget` 是固定搭配，表示面临某种局面、问题或选择。",
+            "vocabulary": [
+                {
+                    "da": "stå over for",
+                    "zh": "面临；面对",
+                    "note": "可用于挑战、困难、抉择和变革"
+                },
+                {
+                    "da": "grundlæggende",
+                    "zh": "根本性的；基础性的",
+                    "note": "可修饰原则、问题、价值观或差异"
+                },
+                {
+                    "da": "et valg",
+                    "zh": "选择；抉择",
+                    "note": "也可表示选举；这里指政策上的战略选择"
+                }
+            ],
+            "nuance": "`et grundlæggende valg` 比普通的 `et valg` 更有分量，暗示选择涉及国家长期利益与基本价值。作者先提出抽象问题，下一句再解释具体选项，这是政治分析文章常见的论证结构。",
+            "transfer": [
+                "Vi står over for et vigtigt valg.",
+                "Samfundet står over for grundlæggende udfordringer.",
+                "I dag står virksomhederne over for et dilemma."
+            ],
+            "pitfall": "`stå over for` 不是字面上的站在某人对面，而是面对某种处境。介词组合为 `over for`，不要与 `stå foran` 的具体空间意义混淆。"
+        },
+        {
+            "id": "U22-C003",
+            "zh": "小国可以选择加入国际合作机制，通过参与共同制定规则来获得影响力；也可以选择置身其外，以保留自主行动的自由。",
+            "grammar": "主句骨架是 `Det kan få indflydelse ... eller beholde sin frihed ...`，其中两个并列不定式 `få` 和 `beholde` 共用情态动词 `kan`。两个 `ved at + 不定式` 分别说明达到目标的手段：通过加入共同体获得影响力，或者通过不参与而保持自主。`hvor det selv er med til at bestemme reglerne` 是关系从句，说明在这些共同体中可以共同决定规则。`holde sig udenfor` 为反身动词结构。",
+            "vocabulary": [
+                {
+                    "da": "få indflydelse",
+                    "zh": "获得影响力；取得发言权",
+                    "note": "也可说 `have indflydelse på noget`"
+                },
+                {
+                    "da": "et fællesskab",
+                    "zh": "共同体；合作群体；共同组织",
+                    "note": "此处指国家参与的国际合作机制"
+                },
+                {
+                    "da": "være med til at",
+                    "zh": "参与做某事；共同促成某事",
+                    "note": "强调不是独自决定，而是参与集体决策"
+                },
+                {
+                    "da": "beholde sin frihed",
+                    "zh": "保留自己的自由；维持自主权"
+                },
+                {
+                    "da": "holde sig udenfor",
+                    "zh": "置身事外；不参与",
+                    "note": "反身结构；常用于组织、争议或合作"
+                }
+            ],
+            "nuance": "这是全篇最重要的政策权衡之一。作者并没有把加入国际组织简单描述为失去自由，而是展示两种不同的自主方式：参与规则制定，或者避免受到共同规则约束。`selv er med til` 特别突出小国虽然不能独自决定规则，却可以通过成员身份获得参与制定规则的机会。",
+            "transfer": [
+                "Man kan få indflydelse ved at deltage aktivt.",
+                "Vi vil gerne være med til at bestemme reglerne.",
+                "Landet har valgt at holde sig udenfor samarbejdet."
+            ],
+            "pitfall": "`være med til at` 不是单纯在某地，而是参与促成某事。`holde sig udenfor` 必须保留反身代词。注意 `ved at` 表示通过某种方式，不能简单理解为时间上的当……时。"
+        },
+        {
+            "id": "U22-C004",
+            "zh": "能够同时兼得这两方面的情况，其实并不多见。",
+            "grammar": "`Sjældent` 是带否定倾向的频率副词，置于主句句首，因此后面使用 `kan det` 的 V2 语序。`begge dele` 回指上一句的两种目标：参与规则制定所带来的影响力，以及置身国际共同体之外的自主自由。`på én gang` 表示同时。",
+            "vocabulary": [
+                {
+                    "da": "sjældent",
+                    "zh": "很少；难得"
+                },
+                {
+                    "da": "begge dele",
+                    "zh": "两者兼得；两个方面",
+                    "note": "指前文提到的两项事物或选择"
+                },
+                {
+                    "da": "på én gang",
+                    "zh": "同时；一次性",
+                    "note": "`én` 加重音以强调一个时点或一次"
+                }
+            ],
+            "nuance": "作者使用 `Sjældent` 而不是绝对的 `aldrig`，给分析保留余地。这是典型的审慎政策论述：两种利益通常存在张力，但并不是逻辑上绝无可能兼得。",
+            "transfer": [
+                "Man kan sjældent få begge dele.",
+                "Det er svært at opnå begge mål på én gang.",
+                "Sjældent har vi stået over for en så stor udfordring."
+            ],
+            "pitfall": "`Sjældent kan det ...` 是陈述句倒装，不是疑问句。`begge dele` 指两种东西，不能把 `dele` 在此机械译为零部件。"
+        },
+        {
+            "id": "U22-C005",
+            "zh": "自20世纪50年代以来，北欧各国公民便能够无需护照和工作许可，在彼此的国家之间旅行、居住和工作；与此同时，北欧理事会汇集了来自各国的政治代表。",
+            "grammar": "`Siden 1950'erne` 是从过去延续至今的时间状语，句首前置后形成 `har nordiske borgere kunnet ...` 的 V2 语序。`har kunnet` 是情态动词 `kunne` 的现在完成时，表示这种权利从历史上延续到现在。`rejse, bo og arbejde` 是共用 `kunnet` 的三个并列不定式。后半句以 `Nordisk Råd` 为主语，使用一般现在时说明机构功能。",
+            "vocabulary": [
+                {
+                    "da": "siden 1950'erne",
+                    "zh": "自20世纪50年代以来",
+                    "note": "`siden` 配合现在完成时常表示持续至今"
+                },
+                {
+                    "da": "nordiske borgere",
+                    "zh": "北欧国家公民",
+                    "note": "`nordisk` 指北欧地区"
+                },
+                {
+                    "da": "hinandens lande",
+                    "zh": "彼此的国家",
+                    "note": "`hinanden` 的所有格形式"
+                },
+                {
+                    "da": "en arbejdstilladelse",
+                    "zh": "工作许可；工作许可证"
+                },
+                {
+                    "da": "Nordisk Råd",
+                    "zh": "北欧理事会",
+                    "note": "北欧国家及自治地区间议会合作的重要机构"
+                }
+            ],
+            "nuance": "这句话展示北欧合作如何超越抽象的政治宣言，直接影响普通公民的跨境生活。作者把个人层面的自由流动与机构层面的政治合作并列，强调区域合作同时具有实际生活与制度意义。",
+            "transfer": [
+                "Siden 1990'erne har borgerne kunnet rejse frit.",
+                "Man kan bo og arbejde i hinandens lande.",
+                "Organisationen samler repræsentanter fra flere lande."
+            ],
+            "pitfall": "`har kunnet` 表示一直以来能够，不能误写成 `har kunne`。`siden` 表示自某个时间以来，区别于 `for` 表示持续多长时间。`Nordisk Råd` 不等于 `Nordisk Ministerråd`，后者是北欧部长理事会。"
+        },
+        {
+            "id": "U22-C006",
+            "zh": "这些语言彼此之间的亲缘关系如此密切，以至于许多人可以各说各的母语，却仍然能够相互交流。",
+            "grammar": "核心是程度结果结构 `så + 形容词或副词 + at + 从句`，表示如此……以至于……。`tæt beslægtede` 是描述语言之间亲缘关系的表语。`tale sammen` 表示相互交谈，`hver på sit sprog` 补充每个人使用的语言不同，其中 `sit` 与分配性主语 `hver` 对应。",
+            "vocabulary": [
+                {
+                    "da": "beslægtet",
+                    "zh": "有亲缘关系的；相关的",
+                    "note": "可用于语言、文化、家族或生物分类"
+                },
+                {
+                    "da": "tæt beslægtet",
+                    "zh": "关系密切；亲缘关系很近"
+                },
+                {
+                    "da": "tale sammen",
+                    "zh": "交谈；彼此交流"
+                },
+                {
+                    "da": "hver på sit sprog",
+                    "zh": "各自使用自己的语言",
+                    "note": "表示双方不必使用同一种语言"
+                }
+            ],
+            "nuance": "作者突出北欧语言的相互可理解性，而不是说丹麦语、挪威语和瑞典语完全相同。`kan` 表示可能和能力，不保证所有人都能毫无障碍地交流。接下来的对话会展示书面语言亲近与实际口头沟通之间的差距。",
+            "transfer": [
+                "Sprogene er tæt beslægtede.",
+                "Vi kan tale sammen, hver på vores eget sprog.",
+                "De to sprog ligner hinanden så meget, at mange forstår begge."
+            ],
+            "pitfall": "`beslægtet` 在语言学语境中表示语言亲缘关系，不是说使用者之间有血缘关系。`hver på sit sprog` 不应译为每个人使用同一个语言。"
+        },
+        {
+            "id": "U22-C007",
+            "zh": "妈妈：怎么样，在奥斯陆过得还好吗？你听得懂他们说什么吗？",
+            "grammar": "`Nå` 是引出新话题的口语话语标记。`Hvordan går det i Oslo?` 使用固定结构 `Hvordan går det?` 询问近况。`hvad de siger` 是间接疑问从句，采用 `疑问词 + 主语 + 动词` 的顺序，没有主句的疑问倒装。",
+            "vocabulary": [
+                {
+                    "da": "nå",
+                    "zh": "那么；怎么样；哦",
+                    "note": "语义随语境和语调改变"
+                },
+                {
+                    "da": "hvordan går det?",
+                    "zh": "近况如何？一切还顺利吗？"
+                },
+                {
+                    "da": "forstå, hvad nogen siger",
+                    "zh": "听懂某人说的话"
+                }
+            ],
+            "nuance": "母亲先关心女儿在奥斯陆的总体生活，再具体询问语言问题。`Nå` 让对话显得自然、亲近，类似中文的那怎么样。这里的 `de` 根据语境指索菲在挪威接触到的人。",
+            "transfer": [
+                "Nå, hvordan går det i København?",
+                "Forstår du, hvad læreren siger?",
+                "Hvordan går det med studierne?"
+            ],
+            "pitfall": "`hvordan går det` 是固定的近况问候，不能逐词理解为它怎么走。`hvad de siger` 是间接疑问从句，不应倒装为 `hvad siger de`。"
+        },
+        {
+            "id": "U22-C008",
+            "zh": "索菲：他们说得慢的时候，能听懂。上课听讲基本没什么问题。",
+            "grammar": "`Når de taler langsomt, ja` 是省略回答，完整语义为在他们说得慢的时候，我能听懂。`Når` 引出一般性或重复发生的条件情境。`Til forelæsningerne` 是句首情境状语，因此主句采用 `går det fint` 的 V2 语序。`det går fint` 是表示进展顺利的固定结构。",
+            "vocabulary": [
+                {
+                    "da": "tale langsomt",
+                    "zh": "说得慢；放慢语速"
+                },
+                {
+                    "da": "en forelæsning",
+                    "zh": "大学讲座；授课讲座",
+                    "note": "复数定冠词 `forelæsningerne`"
+                },
+                {
+                    "da": "det går fint",
+                    "zh": "进行得很顺利；没什么问题"
+                }
+            ],
+            "nuance": "索菲没有简单回答能或不能，而是区分不同语速和场景。课堂讲授往往比随意聊天更有结构，可能更容易理解。`går det fint` 是比较温和的正面评价，表示足够顺利，不必理解为毫无困难。",
+            "transfer": [
+                "Når folk taler langsomt, forstår jeg det meste.",
+                "Til forelæsningerne går det fint.",
+                "Det går fint med at forstå norsk."
+            ],
+            "pitfall": "`til forelæsningerne` 中 `til` 表示在参加这些讲座时这一活动场景，不能根据中文的在就一律改成 `i`。`Når` 这里不是单次过去事件的 `da`。"
+        },
+        {
+            "id": "U22-C009",
+            "zh": "妈妈：那他们听得懂你说话吗？",
+            "grammar": "`Og` 放在疑问句开头，用于承接前一个问题并转换交流方向。`forstår de dig` 使用一般疑问句语序：限定动词 `forstår` 位于主语 `de` 之前。`dig` 指索菲本人，包括她说的丹麦语。",
+            "vocabulary": [
+                {
+                    "da": "forstå nogen",
+                    "zh": "听懂某人；理解某人",
+                    "note": "无需总是补充 `hvad personen siger`"
+                }
+            ],
+            "nuance": "母亲意识到语言交流是双向的：听懂挪威人，不等于挪威人也能听懂丹麦语。这个简短追问自然引出了全文关于北欧语言不对称可理解性的细节。",
+            "transfer": [
+                "Og forstår de dig?",
+                "Forstår du mig?",
+                "Kan de forstå dansk?"
+            ],
+            "pitfall": "`forstå nogen` 可以表示听懂某个人的语言，也可以表示理解其想法；这里根据语境是前者。"
+        },
+        {
+            "id": "U22-C010",
+            "zh": "索菲：说实话，不太能。我已经开始把话说得更慢、更清楚了，有时候干脆把那个词写下来给他们看。",
+            "grammar": "`Ærlig talt` 是独立的话语状语，表示坦率回答。`er begyndt at tale` 使用现在完成时加 `begynde at`，说明改变说话方式的行动已经开始，并与现在相关。`langsommere og tydeligere` 是两个比较级副词，分别修饰说话的速度和清晰度。`skriver ... ned` 是动词小品词结构，`ordet` 位于动词与小品词之间。",
+            "vocabulary": [
+                {
+                    "da": "ærlig talt",
+                    "zh": "说实话；坦白说",
+                    "note": "常用于承认不理想或出乎意料的事实"
+                },
+                {
+                    "da": "begynde at",
+                    "zh": "开始做某事"
+                },
+                {
+                    "da": "tydelig",
+                    "zh": "清楚的；明确的",
+                    "note": "副词 `tydeligt`，比较级 `tydeligere`"
+                },
+                {
+                    "da": "skrive noget ned",
+                    "zh": "把某事写下来",
+                    "note": "固定动词小品词结构"
+                },
+                {
+                    "da": "nogle gange",
+                    "zh": "有时候；偶尔"
+                }
+            ],
+            "nuance": "`Ærlig talt, nej` 表明索菲的经历并不像母亲预期的那么顺利。`bare` 在这里有干脆、索性这样做的务实语气，并非消极敷衍。把单词写下来尤其能体现丹麦语与挪威语之间书面形式相近、口语理解却未必容易的特点。",
+            "transfer": [
+                "Ærlig talt synes jeg, det er svært.",
+                "Jeg er begyndt at tale langsommere.",
+                "Nogle gange skriver jeg ordet ned.",
+                "Kan du sige det lidt tydeligere?"
+            ],
+            "pitfall": "`er begyndt` 是现在完成时，不是正在开始的逐词翻译。`tydeligere` 是比较级，不要误以为副词比较级必须保留 `-t`。`skrive ned` 必须整体记忆。"
+        },
+        {
+            "id": "U22-C011",
+            "zh": "妈妈：这我倒真没想到。丹麦语和挪威语不几乎就是同一种语言嘛！",
+            "grammar": "`havde ikke regnet med` 是过去完成时，表示母亲此前并没有预料到当前听到的情况。`regne med` 是固定搭配，表示预计或预期。第二句 `Det er jo ...` 中 `jo` 是语气小品词，用于强调说话者认为双方都应知道或接受的事实。`næsten det samme` 表示几乎相同。",
+            "vocabulary": [
+                {
+                    "da": "regne med noget",
+                    "zh": "预料；预计；指望",
+                    "note": "也可接 `at` 从句"
+                },
+                {
+                    "da": "jo",
+                    "zh": "毕竟；不是……嘛；你也知道",
+                    "note": "此处强调说话者认定的共同知识"
+                },
+                {
+                    "da": "næsten",
+                    "zh": "几乎；差不多"
+                },
+                {
+                    "da": "det samme",
+                    "zh": "相同的事物；一样的"
+                }
+            ],
+            "nuance": "`jo` 是本句语感的核心。母亲不是冷静地提出语言学结论，而是带着惊讶和不解，援引她认为大家都知道的北欧语言相似性。`næsten` 也值得注意：她并未声称两种语言完全相同。",
+            "transfer": [
+                "Det havde jeg ikke regnet med.",
+                "Det er jo næsten det samme.",
+                "Jeg havde regnet med, at det ville være lettere."
+            ],
+            "pitfall": "`regne med` 在这里不是数学计算。`jo` 不能机械译为是或就，它常常表示说话者相信某事显而易见。"
+        },
+        {
+            "id": "U22-C012",
+            "zh": "索菲：写在纸上看，倒确实差不多。",
+            "grammar": "`På papiret` 是前置介词短语，后面的 `ja` 独立构成简短回应，省略了完整的主语和谓语。根据上下文，可以补足为书面形式上确实很相似。",
+            "vocabulary": [
+                {
+                    "da": "på papiret",
+                    "zh": "在纸面上；从书面来看；理论上",
+                    "note": "既有字面意义，也有抽象的理论上之义"
+                }
+            ],
+            "nuance": "这是带有轻微反驳意味的简短回答。`På papiret` 有双层效果：一方面指丹麦语和挪威语的书写形式比较接近，另一方面暗示纸面上的相似并不意味着现实交流毫无障碍。索菲承认母亲说法的一部分，却保留关键区别。",
+            "transfer": [
+                "På papiret ser det nemt ud.",
+                "På papiret er de to systemer meget ens.",
+                "I praksis er det noget andet."
+            ],
+            "pitfall": "`på papiret` 不总是实际放在纸上。在商业、政策和技术讨论中，它经常表示理论上或从方案来看。"
+        },
+        {
+            "id": "U22-C013",
+            "zh": "妈妈：那看来你只能跟他们说英语了。",
+            "grammar": "`Så` 表示根据刚才的信息得出的结论，放在句首后触发 V2：`må du ...`。这里的 `må` 不是表示允许，而是带有情势所迫、只好如此的意味。`tale engelsk med nogen` 是固定表达，指与某人用英语交流。",
+            "vocabulary": [
+                {
+                    "da": "så",
+                    "zh": "那么；既然如此",
+                    "note": "此处引出推论或建议"
+                },
+                {
+                    "da": "må",
+                    "zh": "必须；只好；可以",
+                    "note": "具体含义取决于语境，此处偏向不得不采取某种办法"
+                },
+                {
+                    "da": "tale engelsk med nogen",
+                    "zh": "与某人说英语"
+                }
+            ],
+            "nuance": "母亲提供的是最省事、最实际的解决方案。这里的 `må du` 不是严厉命令，而是表示看来事情只能这样解决。",
+            "transfer": [
+                "Så må du tale engelsk.",
+                "Så må vi finde en anden løsning.",
+                "Så må du prøve igen i morgen."
+            ],
+            "pitfall": "`må` 的语义不能统一记成必须：它还可表示许可、推测和情势需要。这里结合 `Så` 应理解为只好。"
+        },
+        {
+            "id": "U22-C014",
+            "zh": "索菲：年轻人倒是经常这样做。不过我还是更想学会挪威语。",
+            "grammar": "`Det gør de unge tit` 中 `Det gør` 是替代结构，回指上一句用英语交流的做法。`de unge` 是形容词名词化，表示年轻人。`vil hellere + 不定式` 表示相较另一种选择，更愿意做某事，语义上包含偏好比较。",
+            "vocabulary": [
+                {
+                    "da": "de unge",
+                    "zh": "年轻人；年轻一代",
+                    "note": "形容词名词化"
+                },
+                {
+                    "da": "tit",
+                    "zh": "经常；常常",
+                    "note": "口语中常用"
+                },
+                {
+                    "da": "ville hellere",
+                    "zh": "宁愿；更想",
+                    "note": "实际使用时按时态变化为 `vil hellere`、`ville hellere`"
+                },
+                {
+                    "da": "lære et sprog",
+                    "zh": "学习一门语言"
+                }
+            ],
+            "nuance": "索菲没有否定英语作为共同语言的实用性，却表达了个人更长期的学习目标。`hellere` 突出了她主动选择学习挪威语，而不是简单追求交流效率。`Det gør de unge tit` 也呈现年轻人经常转用英语的一种观察，并非绝对规律。",
+            "transfer": [
+                "Jeg vil hellere lære norsk.",
+                "De unge taler tit engelsk sammen.",
+                "Jeg vil hellere prøve selv end bruge en oversættelsesapp."
+            ],
+            "pitfall": "`hellere` 是 `gerne` 的比较级形式，表示更愿意，不等于更好 `bedre`。`Det gør de` 的 `gør` 代替前文动作，不是表示年轻人在制造某件东西。"
+        },
+        {
+            "id": "U22-C015",
+            "zh": "丹麦于1973年加入当时的欧洲共同体，也就是与英国和爱尔兰同一年加入。",
+            "grammar": "`blev medlem af` 表示成为某个组织的成员，`blev` 突出加入这一历史变化。`det daværende EF` 中 `daværende` 表示当时存在或当时称作的机构。`samme år som Storbritannien og Irland` 是省略比较结构，省略了后面重复的加入动作。",
+            "vocabulary": [
+                {
+                    "da": "blive medlem af",
+                    "zh": "加入；成为……的成员",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "daværende",
+                    "zh": "当时的；彼时的",
+                    "note": "历史、政治和新闻写作中非常实用"
+                },
+                {
+                    "da": "EF",
+                    "zh": "欧洲共同体；欧共体",
+                    "note": "历史上的欧洲一体化组织称谓"
+                },
+                {
+                    "da": "samme år som",
+                    "zh": "与……同一年"
+                }
+            ],
+            "nuance": "`daværende` 是一个精确的历史定位词，帮助读者区分1973年的欧洲共同体与后来的欧洲联盟。作者通过与英国、爱尔兰并列，说明丹麦加入欧洲一体化进程的历史背景。",
+            "transfer": [
+                "Danmark blev medlem af EF i 1973.",
+                "Den daværende regering besluttede at ...",
+                "Landet blev medlem samme år som Sverige."
+            ],
+            "pitfall": "`EF` 是历史名称，不能不分年代地替换成 `EU`。`blive medlem af` 要保留介词 `af`；`være medlem af` 则表示已具有成员身份。"
+        },
+        {
+            "id": "U22-C016",
+            "zh": "1992年，当多数丹麦选民在公投中对《马斯特里赫特条约》投下反对票后，丹麦在四个领域获得了例外安排：欧元、防务、司法与内政领域，以及欧盟公民身份。",
+            "grammar": "`Da ... stemte nej til ...` 是过去时间从句，前置后主句采用 `fik landet` 的 V2 倒装。`et flertal af danskerne` 表示丹麦人中的多数。`stemme nej til` 是投反对票的固定搭配。`få forbehold på fire områder` 表示在四个领域获得保留或豁免安排；冒号后具体列举四个领域。",
+            "vocabulary": [
+                {
+                    "da": "et flertal",
+                    "zh": "多数；过半数",
+                    "note": "反义词 `et mindretal` 少数"
+                },
+                {
+                    "da": "stemme nej til",
+                    "zh": "投票反对某事",
+                    "note": "对应 `stemme ja til`"
+                },
+                {
+                    "da": "et forbehold",
+                    "zh": "保留；例外安排；豁免条款",
+                    "note": "欧盟政治语境中的重要制度术语"
+                },
+                {
+                    "da": "retsområdet",
+                    "zh": "司法与相关法律合作领域",
+                    "note": "欧盟制度语境中涉及司法、内政等合作安排"
+                },
+                {
+                    "da": "unionsborgerskab",
+                    "zh": "欧盟公民身份"
+                }
+            ],
+            "nuance": "这句话说明丹麦欧洲一体化道路中的重要特点：参加合作的同时，对某些制度领域保留特殊安排。`forbehold` 在这里是正式制度术语，不等同于个人表达保留意见。这里是历史叙述，不能把列出的四项安排直接理解为今天仍全部维持原状；例如丹麦已在2022年公投后取消防务保留安排。",
+            "transfer": [
+                "Et flertal stemte nej til forslaget.",
+                "Landet fik et forbehold på dette område.",
+                "Da vælgerne stemte nej, måtte regeringen finde en ny løsning."
+            ],
+            "pitfall": "`stemme nej til` 不是简单的说不，而是正式投反对票。`forbehold` 可表示一般性的保留意见，也可表示法律和制度中的豁免，必须依据语境区分。`Da` 引导过去事件从句时，主句要遵守 V2。"
+        },
+        {
+            "id": "U22-C017",
+            "zh": "因此，丹麦至今仍保留自己的货币，但通过丹麦国家银行实行的固定汇率政策，丹麦克朗与欧元保持着紧密的汇率联系。",
+            "grammar": "`altså` 在这里是推论性副词，承接前文货币领域的特殊安排。`har stadig sin egen valuta` 强调持续保留本国货币。后半句 `kronen er bundet til euroen` 使用 `være + 过去分词`，描述持续存在的汇率联系状态。`gennem Nationalbankens fastkurspolitik` 表示形成这种联系的政策机制。",
+            "vocabulary": [
+                {
+                    "da": "altså",
+                    "zh": "因此；也就是说；可见",
+                    "note": "此处用于引出结论"
+                },
+                {
+                    "da": "en valuta",
+                    "zh": "货币；通货"
+                },
+                {
+                    "da": "være bundet til",
+                    "zh": "与……绑定；受到……约束",
+                    "note": "适用于货币、协议、义务或条件"
+                },
+                {
+                    "da": "fastkurspolitik",
+                    "zh": "固定汇率政策",
+                    "note": "`fast kurs` 固定汇率 + `politik` 政策"
+                },
+                {
+                    "da": "Nationalbanken",
+                    "zh": "丹麦国家银行；丹麦中央银行"
+                }
+            ],
+            "nuance": "作者用 `men` 指出形式上的货币自主与实际汇率政策之间的区别。丹麦没有采用欧元，但克朗通过固定汇率政策与欧元保持紧密联系。`altså` 表示对前述制度安排作出的推论，而非单纯开启新话题。",
+            "transfer": [
+                "Danmark har stadig sin egen valuta.",
+                "Valutaen er bundet til euroen.",
+                "Landet fører en fastkurspolitik.",
+                "Det betyder altså, at ..."
+            ],
+            "pitfall": "`bundet til` 不是用绳子绑住，而是制度或经济意义上的联系与约束。固定汇率政策不意味着汇率在任何时点都绝对不变。"
+        },
+        {
+            "id": "U22-C018",
+            "zh": "对于丹麦企业而言，欧盟单一市场至关重要：商品、服务、资本和人员可以跨越成员国边界自由流动。",
+            "grammar": "`For danske virksomheder` 是句首立场状语，因此主句使用 `er EU's indre marked afgørende` 的 V2 语序。`afgørende` 是表语形容词，表示决定性的重要性。冒号后用四个并列名词作主语，配合 `kan bevæge sig frit` 解释单一市场的作用。`på tværs af` 是固定介词短语，表示跨越。",
+            "vocabulary": [
+                {
+                    "da": "det indre marked",
+                    "zh": "内部市场；单一市场",
+                    "note": "欧盟制度中的核心概念"
+                },
+                {
+                    "da": "afgørende",
+                    "zh": "决定性的；至关重要的",
+                    "note": "常用于分析影响、条件和因素"
+                },
+                {
+                    "da": "bevæge sig frit",
+                    "zh": "自由流动；自由移动"
+                },
+                {
+                    "da": "på tværs af",
+                    "zh": "跨越；横跨；跨不同领域",
+                    "note": "可用于国家边界、部门及学科"
+                },
+                {
+                    "da": "en tjeneste",
+                    "zh": "服务",
+                    "note": "经济语境可指服务贸易"
+                }
+            ],
+            "nuance": "本句采用政策说明文体，先判断单一市场的重要性，再列举商品、服务、资本和人员四种流动。`afgørende` 强于普通的 `vigtig`，强调对企业经营具有关键性作用。这里的自由流动是制度意义上的原则，并不意味着实际交易不存在任何规定。",
+            "transfer": [
+                "Det indre marked er afgørende for dansk økonomi.",
+                "Arbejdskraft kan bevæge sig frit på tværs af grænser.",
+                "Samarbejde på tværs af lande er vigtigt."
+            ],
+            "pitfall": "`det indre marked` 不是某个国家内部的普通国内市场，而是特定的欧盟单一市场概念。`på tværs af` 要整体记忆，不能单独把 `tværs` 译作横向后随意拼接。"
+        },
+        {
+            "id": "U22-C019",
+            "zh": "丹麦学生可以按照与当地学生相同的条件，在西班牙或波兰求学；丹麦护士也可以无需额外的特别许可，申请荷兰的工作。",
+            "grammar": "两个主句由 `og` 并列。`kan læse` 与 `kan søge job` 都是情态动词加不定式结构，说明制度允许的可能性。`på samme vilkår som de lokale` 是比较结构，表示适用相同条件。`uden særlig tilladelse` 表示没有额外特别许可这一条件。",
+            "vocabulary": [
+                {
+                    "da": "læse i udlandet",
+                    "zh": "在国外读书；留学",
+                    "note": "`læse` 在大学教育语境可表示就读某专业"
+                },
+                {
+                    "da": "på samme vilkår som",
+                    "zh": "按照与……相同的条件",
+                    "note": "平等待遇与政策论述中的高频表达"
+                },
+                {
+                    "da": "de lokale",
+                    "zh": "当地人；当地居民",
+                    "note": "形容词名词化"
+                },
+                {
+                    "da": "søge job",
+                    "zh": "求职；申请工作"
+                },
+                {
+                    "da": "en tilladelse",
+                    "zh": "许可；批准"
+                }
+            ],
+            "nuance": "作者从单一市场的抽象原则转向学生和护士两个具体人物，让自由流动的社会意义更容易理解。`kan` 描述制度提供的机会，并不保证每个人都能被学校录取或获得工作。对护士等受监管职业，职业资格认可仍可能涉及具体程序。",
+            "transfer": [
+                "EU-borgere kan studere på samme vilkår som de lokale.",
+                "Hun søger job i Holland.",
+                "Man kan arbejde i udlandet uden en særlig arbejdstilladelse."
+            ],
+            "pitfall": "`læse` 不仅是阅读，也可以表示在大学学习。`på samme vilkår som` 不能漏掉介词 `på`。`søge job` 是申请工作，不表示已经获得工作。"
+        },
+        {
+            "id": "U22-C020",
+            "zh": "在安全政策领域，丹麦自1949年北约成立以来就一直是其成员国。",
+            "grammar": "`På det sikkerhedspolitiske område` 是句首范围状语，因此后面使用 `har Danmark været` 的 V2 语序。`har været medlem` 是现在完成时，强调成员身份从过去持续至今。`siden alliancen blev grundlagt i 1949` 是时间从句，`blev grundlagt` 是被动态，表示组织于1949年成立。",
+            "vocabulary": [
+                {
+                    "da": "sikkerhedspolitisk",
+                    "zh": "安全政策的；国家安全与国际安全事务的"
+                },
+                {
+                    "da": "være medlem af",
+                    "zh": "是……的成员"
+                },
+                {
+                    "da": "en alliance",
+                    "zh": "联盟；同盟",
+                    "note": "在这里指军事与安全同盟"
+                },
+                {
+                    "da": "grundlægge",
+                    "zh": "创立；建立",
+                    "note": "`grundlægger – grundlagde – grundlagt`"
+                }
+            ],
+            "nuance": "这句话与前文欧洲一体化的历史形成对照：丹麦不仅参与经济和政治合作，也长期依赖多边安全合作。`siden` 明确说明成员身份的历史连续性，是讨论国家外交与联盟关系时非常典型的表达。",
+            "transfer": [
+                "Danmark har været medlem af NATO siden 1949.",
+                "Organisationen blev grundlagt i 1995.",
+                "På det sikkerhedspolitiske område samarbejder landene tæt."
+            ],
+            "pitfall": "`siden` 后面接一个过去事件时，主句通常使用现在完成时表示持续状态。`grundlagt` 与 `grundlæggende` 虽然词形相近，前者表示创立后的过去分词，后者表示根本性的。"
+        },
+        {
+            "id": "U22-C021",
+            "zh": "北约成员身份包含一项共同防卫承诺：对任何一个成员国的攻击，都被视为对全体成员国的攻击。",
+            "grammar": "`I medlemskabet ligger der et løfte om ...` 是带有抽象存在意义的呈现结构，表示成员身份内含某项承诺。`et løfte om, at ...` 使用介词 `om` 引出承诺内容。宾语从句中 `et angreb på ét medlemsland` 是主语，`bliver betragtet som` 是被动态，表示被视为某种性质。",
+            "vocabulary": [
+                {
+                    "da": "et medlemskab",
+                    "zh": "成员身份；会员资格"
+                },
+                {
+                    "da": "et løfte om",
+                    "zh": "关于……的承诺"
+                },
+                {
+                    "da": "et angreb på",
+                    "zh": "对……的攻击；袭击"
+                },
+                {
+                    "da": "betragte noget som",
+                    "zh": "将某事视为……",
+                    "note": "被动形式 `blive betragtet som`"
+                },
+                {
+                    "da": "et medlemsland",
+                    "zh": "成员国"
+                }
+            ],
+            "nuance": "作者用 `I medlemskabet ligger der ...` 强调北约成员身份不仅是名义上的归属，还意味着共同承担安全承诺。`ét` 的重音突出即使只有一个成员国遭到攻击，也涉及整个联盟的共同安全原则。这里是在概述集体防御理念，并非详述所有实际应对程序。",
+            "transfer": [
+                "I aftalen ligger der et løfte om samarbejde.",
+                "Et angreb på ét land bliver betragtet som et angreb på alle.",
+                "Det bliver betragtet som en alvorlig trussel."
+            ],
+            "pitfall": "`betragte som` 要整体掌握，表示视为、认为。`et løfte om, at ...` 中 `om` 引出承诺的内容，不是约定地点。`ligger der` 在这里不是实际躺着一项承诺。"
+        },
+        {
+            "id": "U22-C022",
+            "zh": "作为一个自然资源有限的小国，丹麦的经济在很大程度上依赖于与外部世界开展贸易。",
+            "grammar": "`Som et lille land med få råstoffer` 是句首身份与原因状语，说明丹麦为何依赖对外贸易。主句采用 `lever Danmark ... af at handle` 的 V2 语序。`leve af` 是固定动词搭配，表示依靠某事维持生计或经济活动。`i høj grad` 是程度状语。",
+            "vocabulary": [
+                {
+                    "da": "et råstof",
+                    "zh": "原材料；自然资源",
+                    "note": "复数 `råstoffer`"
+                },
+                {
+                    "da": "i høj grad",
+                    "zh": "在很大程度上",
+                    "note": "正式写作、分析性论述中的重要搭配"
+                },
+                {
+                    "da": "leve af noget",
+                    "zh": "依靠某事维持生计；依赖某种收入来源"
+                },
+                {
+                    "da": "handle med",
+                    "zh": "与……做生意；进行贸易"
+                },
+                {
+                    "da": "omverdenen",
+                    "zh": "外部世界；外界",
+                    "note": "经济与国际关系语境中常指其他国家或国际市场"
+                }
+            ],
+            "nuance": "作者把国家自然资源条件与国际贸易依赖联系起来，建立经济开放的结构性解释。`lever af` 具有形象性，但这里描述国家经济的重要依靠，不是说丹麦只能从贸易中获得收入。`i høj grad` 使论述保持适度，避免绝对化。",
+            "transfer": [
+                "Som et lille land er Danmark afhængigt af international handel.",
+                "Virksomheden lever i høj grad af eksport.",
+                "Vi handler med virksomheder i hele Europa."
+            ],
+            "pitfall": "`leve af` 是靠……生活或获得收入，`leve med` 是接受、忍受，`leve for` 则可表示为某事而活，三个搭配含义不同。`råstoffer` 不只表示工业生产中的原料，也可涉及自然资源。"
+        },
+        {
+            "id": "U22-C023",
+            "zh": "医药产品、风力发电机、机械设备、猪肉和航运服务都是丹麦重要的出口项目；丹麦航运公司还负责将货物运往世界各地。",
+            "grammar": "`være blandt de vigtigste ...` 表示属于最重要的若干项目之列。前半句用多个并列名词构成主语。`danske rederier sejler varer verden rundt` 中 `sejle` 可以带直接宾语 `varer`，表示通过船舶运输货物；`verden rundt` 是范围状语，表示遍及世界各地。",
+            "vocabulary": [
+                {
+                    "da": "en eksportvare",
+                    "zh": "出口商品；出口项目",
+                    "note": "这里还并列提到航运这一服务行业"
+                },
+                {
+                    "da": "en vindmølle",
+                    "zh": "风力发电机；风车"
+                },
+                {
+                    "da": "svinekød",
+                    "zh": "猪肉",
+                    "note": "通常作不可数名词"
+                },
+                {
+                    "da": "et rederi",
+                    "zh": "船运公司；航运企业",
+                    "note": "复数 `rederier`"
+                },
+                {
+                    "da": "verden rundt",
+                    "zh": "世界各地；遍及全球"
+                }
+            ],
+            "nuance": "作者把制造业、食品出口和航运业并列，展示丹麦对外经济联系的多样性。严格区分经济概念时，`shipping` 属于服务业，而不是和猪肉、机械完全相同的有形出口商品；原文采用较宽泛的出口项目列举方式。",
+            "transfer": [
+                "Medicin og maskiner er blandt landets vigtigste eksportvarer.",
+                "Danske rederier sejler varer verden rundt.",
+                "Virksomheden eksporterer produkter til hele verden."
+            ],
+            "pitfall": "`et rederi` 是航运企业，不是单独一艘船；船舶可称 `et skib`。`sejle varer` 在这里是海运货物，不是货物自己航行。"
+        },
+        {
+            "id": "U22-C024",
+            "zh": "旅游业的客流是双向的：夏天，丹麦的度假屋住满了来自德国、挪威和瑞典的游客；与此同时，许多丹麦人自己也会南下，前往西班牙、意大利和希腊的海滨度假胜地。",
+            "grammar": "`gå begge veje` 是固定习语，表示双向流动或双向作用。冒号后给出两个对照场景。`Om sommeren` 位于第一主句句首，因此后接 `er de danske sommerhuse ...`。`mens` 引导对比从句，表示与此同时或者两种情况形成对照。`rejse sydpå` 中 `sydpå` 是方向副词。",
+            "vocabulary": [
+                {
+                    "da": "gå begge veje",
+                    "zh": "是双向的；双方都有往来",
+                    "note": "可用于旅游、交流、责任或影响"
+                },
+                {
+                    "da": "et sommerhus",
+                    "zh": "度假屋；夏季度假住宅"
+                },
+                {
+                    "da": "være fuld af",
+                    "zh": "充满；住满；装满"
+                },
+                {
+                    "da": "rejse sydpå",
+                    "zh": "向南旅行；南下"
+                },
+                {
+                    "da": "en badeby",
+                    "zh": "海滨度假城镇；海滨旅游小镇"
+                }
+            ],
+            "nuance": "作者用两个方向相反的旅游场景解释旅游业的跨国流动：外国游客来到丹麦，而丹麦人前往南欧。`selv` 强调丹麦人自身也作为游客参与这种跨境流动。`går begge veje` 不仅适用于旅行，也适用于讨论互惠、交流和跨文化影响。",
+            "transfer": [
+                "Samarbejdet går begge veje.",
+                "Om sommeren rejser mange danskere sydpå.",
+                "Sommerhusene er fulde af turister.",
+                "Mange besøger Danmark, mens andre rejser til udlandet."
+            ],
+            "pitfall": "`sydpå` 表示向南的方向，而 `i syd` 表示在南方某个位置。`mens` 可表示同时发生，也可强调对照，本句两种功能兼有。"
+        },
+        {
+            "id": "U22-C025",
+            "zh": "如果在旅行途中丢失护照，可以拨打丹麦外交部公民服务中心的电话；该中心提供全天24小时服务。",
+            "grammar": "`Mister man sit pas på en rejse` 是省略 `hvis` 的条件倒装，相当于 `Hvis man mister sit pas ...`。条件部分位于句首，主句采用 `kan man ringe ...` 的 V2 语序。`som har åbent døgnet rundt` 是关系从句，修饰公民服务中心。`have åbent` 表示机构处于营业或服务开放状态。",
+            "vocabulary": [
+                {
+                    "da": "miste sit pas",
+                    "zh": "遗失护照",
+                    "note": "`miste – mistede – mistet`"
+                },
+                {
+                    "da": "Udenrigsministeriet",
+                    "zh": "外交部",
+                    "note": "这里指丹麦外交部"
+                },
+                {
+                    "da": "Borgerservice",
+                    "zh": "公民服务；面向公众的行政服务",
+                    "note": "在此是外交部的领事公民服务"
+                },
+                {
+                    "da": "have åbent",
+                    "zh": "营业；开放；提供服务",
+                    "note": "机构作主语"
+                },
+                {
+                    "da": "døgnet rundt",
+                    "zh": "全天24小时；昼夜不停"
+                }
+            ],
+            "nuance": "作者将外交政策话题转入普通公民在国外遇到困难时可以获得的服务。`Mister man ...` 是非常典型的官方指南和生活建议句型，既简洁又不需要指定某一位具体读者。这里的全天服务不必理解为所有领事业务都能随时现场办理。",
+            "transfer": [
+                "Mister du dit pas, skal du kontakte myndighederne.",
+                "Er der problemer, kan du ringe til Borgerservice.",
+                "Telefonen er åben døgnet rundt."
+            ],
+            "pitfall": "`Mister man ...` 是条件倒装，不是疑问句。`døgnet rundt` 是24小时，不等于普通的白天营业。`Borgerservice` 在不同机构下的具体职能可能不同。"
+        },
+        {
+            "id": "U22-C026",
+            "zh": "工作人员：丹麦外交部公民服务中心，您好，我是彼得。",
+            "grammar": "`du taler med Peter` 是电话接听时的固定自我介绍方式，字面为你现在正在和彼得通话。前面先报机构名称，后面说明接线人员身份。",
+            "vocabulary": [
+                {
+                    "da": "du taler med",
+                    "zh": "这里是……；您正在与……通话",
+                    "note": "电话接听中的自然表达"
+                },
+                {
+                    "da": "en medarbejder",
+                    "zh": "工作人员；雇员"
+                }
+            ],
+            "nuance": "丹麦正式工作电话中，常以机构名称加 `du taler med ...` 开头。相比冗长的欢迎词，这种说法直接、清楚而专业。",
+            "transfer": [
+                "Borgerservice, du taler med Peter.",
+                "Goddag, du taler med Maria.",
+                "Hej, det er Anna fra kommunen."
+            ],
+            "pitfall": "`du taler med Peter` 不需要逐词翻译成你正在与彼得讲话；在电话语境中自然译为我是彼得或彼得为您服务。"
+        },
+        {
+            "id": "U22-C027",
+            "zh": "萨拉：你好。我现在人在里斯本，包被偷了，护照和银行卡都在里面。可我后天就得坐飞机回国。",
+            "grammar": "`min taske er blevet stjålet` 使用现在完成时的 `blive` 被动态，强调包已经遭窃并造成当前困境。`med mit pas og mine kort` 说明失窃包内包含的物品。`skal flyve hjem` 使用 `skal` 表示已经安排好的未来行程，`i overmorgen` 表示后天。",
+            "vocabulary": [
+                {
+                    "da": "blive stjålet",
+                    "zh": "被偷；被盗",
+                    "note": "`er blevet stjålet` 表示已经被偷"
+                },
+                {
+                    "da": "et kort",
+                    "zh": "卡片；银行卡",
+                    "note": "此处按语境指支付卡或银行卡"
+                },
+                {
+                    "da": "flyve hjem",
+                    "zh": "乘飞机回家或回国"
+                },
+                {
+                    "da": "i overmorgen",
+                    "zh": "后天",
+                    "note": "相对表达 `i morgen` 明天"
+                }
+            ],
+            "nuance": "萨拉把地点、失窃物品和即将到来的回程安排快速交代清楚，符合向领事服务人员求助时应优先说明的信息。`skal` 突出她的回程已经安排，因此时间压力是真实存在的。",
+            "transfer": [
+                "Min taske er blevet stjålet.",
+                "Mit pas lå i tasken.",
+                "Jeg skal flyve hjem i overmorgen."
+            ],
+            "pitfall": "`er blevet stjålet` 与 `blev stjålet` 都表示被盗，但前者突出事件对当前状态的影响。`i overmorgen` 不需要另外添加表示未来的介词。"
+        },
+        {
+            "id": "U22-C028",
+            "zh": "工作人员：那一定很糟心吧。你本人现在安全吗？",
+            "grammar": "`Det må være træls` 中的 `må` 表示根据情况作出的推断，近似一定很难受、想必很糟糕，而非义务。`Er du selv i sikkerhed?` 是一般疑问句，`selv` 强调萨拉本人，与被盗物品形成对照。",
+            "vocabulary": [
+                {
+                    "da": "træls",
+                    "zh": "烦人；糟心；让人难受",
+                    "note": "带口语色彩，在日德兰地区尤其有代表性"
+                },
+                {
+                    "da": "det må være",
+                    "zh": "那一定是……；想必很……",
+                    "note": "表示同情或基于情况的推测"
+                },
+                {
+                    "da": "være i sikkerhed",
+                    "zh": "处于安全状态"
+                },
+                {
+                    "da": "selv",
+                    "zh": "本人；自己",
+                    "note": "此处强调人身安全"
+                }
+            ],
+            "nuance": "工作人员先以简短的同情表达回应，再立即确认求助者的人身安全，体现紧急服务中的优先顺序。`træls` 是较口语化、带地方色彩的表达，比正式的 `beklageligt` 更有人情味。`selv` 非常关键：重点已经从财物损失转向当事人的安全。",
+            "transfer": [
+                "Det må være rigtig træls.",
+                "Er du selv i sikkerhed?",
+                "Det må have været en ubehagelig oplevelse."
+            ],
+            "pitfall": "`må` 在这里不是必须，而是推测。`i sikkerhed` 表示人处于安全状态，不能与 `sikker på` 表示确信混淆。"
+        },
+        {
+            "id": "U22-C029",
+            "zh": "萨拉：是的，我现在在酒店里。",
+            "grammar": "简单肯定回答，`Ja` 确认前面关于安全的问题。`jeg er på mit hotel` 用地点介词 `på` 表示人在自己住宿的酒店。",
+            "vocabulary": [
+                {
+                    "da": "på hotel",
+                    "zh": "在酒店；住酒店",
+                    "note": "常见固定搭配"
+                }
+            ],
+            "nuance": "萨拉简短确认自己身处安全地点，使工作人员可以继续处理护照和银行卡的实际问题。这里没有必要添加复杂的礼貌表达。",
+            "transfer": [
+                "Ja, jeg er på hotellet.",
+                "Jeg er i sikkerhed nu.",
+                "Jeg er tilbage på mit hotel."
+            ],
+            "pitfall": "丹麦语通常说 `bo på hotel`、`være på hotel`，不宜机械按中文在酒店里统一使用 `i hotel`。"
+        },
+        {
+            "id": "U22-C030",
+            "zh": "工作人员：那就好。你首先要做的是向当地警方报案，并拿到一份报案记录的副本。你的银行卡已经挂失冻结了吗？",
+            "grammar": "`Det første, du skal gøre, er at ...` 是核心结构，`du skal gøre` 是省略关系代词的关系从句，修饰 `det første`。系动词 `er` 后面接两个并列不定式 `anmelde` 和 `få`，共用前面的 `at`。`Har du spærret dine kort?` 使用现在完成时的疑问句形式，询问冻结银行卡这一动作是否已经完成。",
+            "vocabulary": [
+                {
+                    "da": "det første, du skal gøre",
+                    "zh": "你首先需要做的事",
+                    "note": "指导操作步骤的高频句型"
+                },
+                {
+                    "da": "anmelde tyveriet til politiet",
+                    "zh": "向警方报案；报告盗窃案件",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "en kopi af anmeldelsen",
+                    "zh": "报案记录的副本"
+                },
+                {
+                    "da": "spærre et kort",
+                    "zh": "冻结或挂失银行卡",
+                    "note": "`spærre` 也可表示封锁道路或限制访问"
+                },
+                {
+                    "da": "det lokale politi",
+                    "zh": "当地警方"
+                }
+            ],
+            "nuance": "这是一段高度实用的行政沟通。工作人员不是一次性抛出所有手续，而是先说明第一项必须采取的行动，再确认萨拉是否已经采取措施防止银行卡被盗刷。`Det første, du skal gøre` 非常适合需要给出明确步骤的服务沟通。",
+            "transfer": [
+                "Det første, du skal gøre, er at kontakte politiet.",
+                "Du skal have en kopi af anmeldelsen.",
+                "Har du spærret dine bankkort?"
+            ],
+            "pitfall": "`anmelde` 是正式报告或报案，不能与一般的告诉 `fortælle` 完全互换。`spærre et kort` 是冻结银行卡，不等于永久注销银行账户。"
+        },
+        {
+            "id": "U22-C031",
+            "zh": "萨拉：已经挂失了，我当时马上就办了。",
+            "grammar": "`det gjorde jeg` 使用替代动词 `gøre` 回指前一句 `spærre mine kort`，避免重复。`med det samme` 是固定时间副词短语，表示立即、当场。过去时 `gjorde` 表示动作已经完成。",
+            "vocabulary": [
+                {
+                    "da": "med det samme",
+                    "zh": "立刻；马上；第一时间",
+                    "note": "口语与书面语都常见"
+                },
+                {
+                    "da": "det gjorde jeg",
+                    "zh": "我已经这么做了",
+                    "note": "回指前面提到的动作"
+                }
+            ],
+            "nuance": "这句话是简短而有效的确认。`med det samme` 不只回答有没有挂失，还强调自己已经及时采取了行动。比重复完整的 `Jeg spærrede mine kort` 更自然。",
+            "transfer": [
+                "Det gjorde jeg med det samme.",
+                "Jeg ringede til banken med det samme.",
+                "Ja, det har jeg allerede gjort."
+            ],
+            "pitfall": "`gøre` 在这里是替代动词，不是表示制作某物。`med det samme` 要作为整体记忆，不能逐词翻译为和同一个东西一起。"
+        },
+        {
+            "id": "U22-C032",
+            "zh": "工作人员：好的。那么你需要办理一本紧急护照，可以向丹麦驻里斯本大使馆提出申请。记得带一张证件照和警方的报案证明。",
+            "grammar": "`Så` 在句首表示根据已确认的情况进入下一步，因此后接 `skal du` 的 V2 语序。`have et nødpas` 表示需要获得紧急护照。`det kan du søge om` 中 `det` 是前置宾语，`søge om` 是申请某物的固定搭配。`Husk` 是命令式，在行政指导中表示提醒。",
+            "vocabulary": [
+                {
+                    "da": "et nødpas",
+                    "zh": "紧急护照；临时旅行护照"
+                },
+                {
+                    "da": "søge om noget",
+                    "zh": "申请某事物",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "en ambassade",
+                    "zh": "大使馆"
+                },
+                {
+                    "da": "et pasbillede",
+                    "zh": "护照证件照"
+                },
+                {
+                    "da": "en politianmeldelse",
+                    "zh": "警方报案记录；正式报案证明"
+                }
+            ],
+            "nuance": "工作人员通过 `Fint` 和 `Så` 明确推进办理流程：银行卡问题已经处理，接下来关注回国所需旅行证件。`Husk` 是直接但正常的服务提醒，不带命令式的强硬语气。这里描述的是文章情境中的办理流程，实际领事手续应以当时官方要求为准。",
+            "transfer": [
+                "Du skal søge om et nødpas.",
+                "Det kan du søge om på ambassaden.",
+                "Husk at medbringe et pasbillede.",
+                "Du skal have politianmeldelsen med."
+            ],
+            "pitfall": "`søge om` 表示申请某个东西，`søge job` 表示求职，`søge efter` 表示寻找，介词不能混用。`nødpas` 与普通有效期较长的护照不同。"
+        },
+        {
+            "id": "U22-C033",
+            "zh": "萨拉：周五之前来得及办好吗？",
+            "grammar": "`Kan jeg nå det` 中 `nå` 表示在限定时间内完成某事，`det` 回指办理紧急护照。`inden fredag` 设定时间期限，强调必须在周五之前完成。",
+            "vocabulary": [
+                {
+                    "da": "nå noget",
+                    "zh": "来得及完成某事；赶上某事",
+                    "note": "也可表示到达某地，需按语境判断"
+                },
+                {
+                    "da": "inden fredag",
+                    "zh": "周五之前",
+                    "note": "`inden` 表示不晚于某个界限的期限语义，具体是否包括该日应结合上下文"
+                }
+            ],
+            "nuance": "萨拉关心的是时间上能否完成手续，而不是是否具备申请资格。`nå det` 是非常自然的口语表达，可用于赶车、完成作业、办理手续或截止日期。",
+            "transfer": [
+                "Kan jeg nå det inden fredag?",
+                "Jeg tror ikke, jeg kan nå det.",
+                "Vi skal nå at sende ansøgningen inden fristen."
+            ],
+            "pitfall": "`nå` 这里不是简单的到达，而是来得及完成。`inden fredag` 与 `på fredag` 不同，前者是截止时间，后者是周五当天。"
+        },
+        {
+            "id": "U22-C034",
+            "zh": "工作人员：通常一两天就能办妥。我会通过短信把大使馆的地址和开放时间发给你。",
+            "grammar": "`Det plejer at kunne lade sig gøre` 包含两个层次：`pleje at` 表示通常如此，`kunne lade sig gøre` 表示能够实现或办成。`på en dag eller to` 表示完成某事所需一两天。第二句 `sender dig adressen og åbningstiderne` 使用双宾语结构，`dig` 为接收者，后面的并列名词是发送内容。`på sms` 表示通过短信这一方式。",
+            "vocabulary": [
+                {
+                    "da": "pleje at",
+                    "zh": "通常会；惯常如此",
+                    "note": "描述习惯、惯例或通常情况"
+                },
+                {
+                    "da": "kunne lade sig gøre",
+                    "zh": "能够实现；办得成",
+                    "note": "固定表达，形式上包含反身代词 `sig`"
+                },
+                {
+                    "da": "på en dag eller to",
+                    "zh": "在一两天内",
+                    "note": "`på` 可表示完成任务所花费的时间"
+                },
+                {
+                    "da": "åbningstider",
+                    "zh": "开放时间；营业时间"
+                },
+                {
+                    "da": "på sms",
+                    "zh": "通过短信",
+                    "note": "也可以说 `via sms`"
+                }
+            ],
+            "nuance": "`plejer at` 是关键的谨慎措辞：工作人员表达通常所需时间，但没有作出绝对保证。`kunne lade sig gøre` 比直接说一定会办好更符合行政服务中的审慎语气。同时主动提供地址和开放时间，体现实际帮助。",
+            "transfer": [
+                "Det plejer at kunne lade sig gøre.",
+                "Det kan normalt klares på en dag eller to.",
+                "Jeg sender dig oplysningerne på sms.",
+                "Det plejer at tage et par dage."
+            ],
+            "pitfall": "`lade sig gøre` 必须整体理解为可行，不能按字面翻译为让自己去做。`plejer at` 说明通常情况，不代表承诺。`på to dage` 可表示两天内完成，而 `i to dage` 通常表示持续两天。"
+        },
+        {
+            "id": "U22-C035",
+            "zh": "许多人还会购买旅行保险，因为在欧盟范围内有效的欧洲蓝色医疗保险卡，远远不能覆盖所有情况；出了欧洲，其保障范围就更加有限，甚至通常不适用。",
+            "grammar": "`Mange tegner også en rejseforsikring` 是主句。`fordi` 引导原因从句。`det blå sygesikringskort` 后插入关系从句 `der gælder i EU`，说明医疗保险卡的适用范围。`langtfra` 是强调否定程度的副词，修饰 `dækker alt`，表示远远谈不上全部覆盖。破折号后的 `og slet ikke ...` 是省略结构，进一步加强否定。",
+            "vocabulary": [
+                {
+                    "da": "tegne en forsikring",
+                    "zh": "购买保险；投保",
+                    "note": "固定动词搭配，不能按画画理解"
+                },
+                {
+                    "da": "en rejseforsikring",
+                    "zh": "旅行保险"
+                },
+                {
+                    "da": "det blå sygesikringskort",
+                    "zh": "欧洲医疗保险卡；蓝色医疗保险卡",
+                    "note": "与丹麦国内使用的黄色健康卡不同"
+                },
+                {
+                    "da": "langtfra",
+                    "zh": "远远不是；远谈不上",
+                    "note": "强化否定判断"
+                },
+                {
+                    "da": "dække",
+                    "zh": "承保；覆盖；承担费用",
+                    "note": "保险语境中的核心动词"
+                }
+            ],
+            "nuance": "作者通过保险提醒把海外旅行与风险管理联系起来。`langtfra` 的表达力度很强，强调欧洲医疗保险卡不等同于覆盖所有风险的旅行保险。`slet ikke` 又将保障范围之外的风险进一步突出。实际卡片适用国家并不严格等同于整个欧洲或仅限欧盟，因而不能把这里的地理概括当作完整的保险条款。",
+            "transfer": [
+                "Det kan betale sig at tegne en rejseforsikring.",
+                "Forsikringen dækker langtfra alle udgifter.",
+                "Kortet gælder ikke i alle lande.",
+                "Det er vigtigt at undersøge, hvad forsikringen dækker."
+            ],
+            "pitfall": "`tegne en forsikring` 是投保，不是绘制保险图。`langtfra` 在这里不表示实际地理距离，而是远非如此。保险语境中的 `dække` 要理解为承担费用或提供保障。"
+        },
+        {
+            "id": "U22-C036",
+            "zh": "丹麦王国并不只有丹麦本土。",
+            "grammar": "`Kongeriget` 是名词定冠词形式，在本章中特指丹麦王国这一政治实体。`ikke kun` 表示不仅仅、不只是，为下一句列举王国其他组成部分作铺垫。",
+            "vocabulary": [
+                {
+                    "da": "et kongerige",
+                    "zh": "王国",
+                    "note": "定冠词 `kongeriget`"
+                },
+                {
+                    "da": "ikke kun",
+                    "zh": "不仅仅；不只是",
+                    "note": "常与后文 `også` 形成呼应"
+                }
+            ],
+            "nuance": "这是本章的开场转折句。作者利用 `Danmark` 的双重理解——日常所说的丹麦本土与作为政治实体的丹麦王国——引出格陵兰和法罗群岛。句子短促，但为理解后续王国共同体制度奠定了基础。",
+            "transfer": [
+                "Kongeriget består ikke kun af Danmark.",
+                "Danmark er ikke kun det europæiske fastland.",
+                "Det handler ikke kun om økonomi."
+            ],
+            "pitfall": "`Kongeriget Danmark` 与狭义的丹麦本土并不完全相同。不要将 `kongeriget` 在这里理解为国王的私人领地。"
+        },
+        {
+            "id": "U22-C037",
+            "zh": "丹麦王国还包括法罗群岛和格陵兰；它们与丹麦本土共同构成丹麦王国共同体。",
+            "grammar": "`Det omfatter også` 中 `Det` 回指前面的 `Kongeriget`，`omfatte` 表示包括或涵盖。`Færøerne og Grønland` 是两个并列宾语。后面的关系从句 `som tilsammen med Danmark udgør rigsfællesskabet` 说明三者之间的共同体关系，`tilsammen med` 表示共同构成，`udgøre` 表示组成整体。",
+            "vocabulary": [
+                {
+                    "da": "omfatte",
+                    "zh": "包括；涵盖",
+                    "note": "正式说明组织、范围和组成时常用"
+                },
+                {
+                    "da": "Færøerne",
+                    "zh": "法罗群岛"
+                },
+                {
+                    "da": "Grønland",
+                    "zh": "格陵兰"
+                },
+                {
+                    "da": "tilsammen med",
+                    "zh": "与……共同；加上……一起"
+                },
+                {
+                    "da": "rigsfællesskabet",
+                    "zh": "丹麦王国共同体",
+                    "note": "指丹麦、法罗群岛与格陵兰之间的王国内部政治制度关系"
+                }
+            ],
+            "nuance": "`rigsfællesskabet` 是理解丹麦宪政与北极政策的重要概念。作者强调这不是三个完全无关的国家，而是具有共同王国框架、同时在自治程度和制度安排上存在差异的政治关系。`tilsammen` 突出共同组成，而非单纯地理上的相邻。",
+            "transfer": [
+                "Kongeriget omfatter også Grønland og Færøerne.",
+                "De tre dele udgør tilsammen rigsfællesskabet.",
+                "Organisationen omfatter flere selvstyrende områder."
+            ],
+            "pitfall": "`omfatte` 与 `udgøre` 不能随意互换：整体 `omfatter` 各部分，各部分 `udgør` 整体。`rigsfællesskab` 不是欧盟，也不是普通的国际组织联盟。"
+        },
+        {
+            "id": "U22-C038",
+            "zh": "如今，格陵兰和法罗群岛在大多数内部事务上拥有自主决定权；与此同时，国防、外交政策等事务在形式上仍归位于哥本哈根的丹麦王国中央当局管辖。",
+            "grammar": "`I dag` 置于句首，后接 `bestemmer de to lande` 的 V2 语序。`bestemme over` 表示对某事拥有决定权。`de fleste af deres egne anliggender` 是部分数量结构。`mens` 引出对照从句，将自治事务与仍属中央权限的事务相比较。`blandt andet` 表示列举并不穷尽，`formelt` 限定法律与制度意义上的归属。`høre under` 是表示隶属或归某机关管辖的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "bestemme over noget",
+                    "zh": "对某事拥有决定权；自主决定"
+                },
+                {
+                    "da": "et anliggende",
+                    "zh": "事务；事项；职责范围内的问题",
+                    "note": "复数 `anliggender`，常用于政治和行政语境"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括；例如",
+                    "note": "表示非穷尽列举"
+                },
+                {
+                    "da": "formelt",
+                    "zh": "在形式上；从正式法律或制度层面看"
+                },
+                {
+                    "da": "høre under",
+                    "zh": "隶属于；归……管辖"
+                }
+            ],
+            "nuance": "这一句用 `mens` 对照两种权力配置：广泛的内部自治与部分仍归王国层级处理的职权。`formelt` 极为重要，它强调正式权限归属，并不意味着实际政策制定完全没有协商或自治地区参与。这样的限定词在分析复杂的宪政关系时尤其值得掌握。",
+            "transfer": [
+                "Grønland bestemmer selv over mange interne anliggender.",
+                "Forsvar og udenrigspolitik hører under rigsmyndighederne.",
+                "Formelt ligger ansvaret hos ministeriet.",
+                "Mens nogle områder er selvstyrende, hører andre under staten."
+            ],
+            "pitfall": "`bestemme over` 是对某事项有决定权，`bestemme sig for` 则是自己决定选择什么。`høre under` 不表示听到下面的声音，而是行政隶属关系。`anliggender` 是较正式的事务概念。"
+        },
+        {
+            "id": "U22-C039",
+            "zh": "法罗群岛和格陵兰都不是欧盟成员，而且两者各自拥有自己的语言、旗帜和议会。",
+            "grammar": "`Hverken A eller B` 是既不A也不B的并列否定结构。`være med i EU` 表示属于欧盟成员。第二个主句使用 `begge` 指前面的两个地区。`deres egne` 强调各自拥有独立的语言、旗帜和议会制度。",
+            "vocabulary": [
+                {
+                    "da": "hverken ... eller ...",
+                    "zh": "既不……也不……",
+                    "note": "固定并列否定结构"
+                },
+                {
+                    "da": "være med i",
+                    "zh": "加入；参与；属于某组织"
+                },
+                {
+                    "da": "begge",
+                    "zh": "两者都"
+                },
+                {
+                    "da": "et parlament",
+                    "zh": "议会",
+                    "note": "复数 `parlamenter`"
+                },
+                {
+                    "da": "eget sprog",
+                    "zh": "自己的语言",
+                    "note": "复数形式 `egne sprog`"
+                }
+            ],
+            "nuance": "作者通过欧盟身份和制度文化象征两个层面，说明格陵兰与法罗群岛虽然同属丹麦王国共同体，却并不是与丹麦本土完全相同的政治单位。`egne` 特别突出各自的政治与文化身份。",
+            "transfer": [
+                "Hverken Grønland eller Færøerne er med i EU.",
+                "Begge områder har deres egne parlamenter.",
+                "Hverken jeg eller min kollega deltager i mødet."
+            ],
+            "pitfall": "`hverken ... eller ...` 结构本身已经包含否定意义，不应再机械添加 `ikke`。`begge` 表示两者都，不是多个对象中的全部。"
+        },
+        {
+            "id": "U22-C040",
+            "zh": "在丹麦与格陵兰、法罗群岛的关系中，丹麦的角色正逐渐从传统意义上的母国转向平等合作伙伴。",
+            "grammar": "`Over for Grønland og Færøerne` 是句首关系状语，说明丹麦的角色是相对于谁而言的。主句采用 `er rollen ved at ændre sig`，其中 `være ved at + 不定式` 表示正在发生或逐步进行的变化。`ændre sig fra X til Y` 表示从一种状态转变为另一种状态。`moderland` 和 `partner` 是对照的角色概念。",
+            "vocabulary": [
+                {
+                    "da": "over for",
+                    "zh": "面对；相对于；在与……的关系中",
+                    "note": "政治、外交和人际关系中都常用"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正在；正逐步",
+                    "note": "强调过程正在进行"
+                },
+                {
+                    "da": "ændre sig",
+                    "zh": "发生变化；转变"
+                },
+                {
+                    "da": "et moderland",
+                    "zh": "母国；宗主国",
+                    "note": "在殖民和自治历史语境中带有等级关系色彩"
+                },
+                {
+                    "da": "en partner",
+                    "zh": "合作伙伴"
+                }
+            ],
+            "nuance": "这是政治语义很丰富的一句。`moderland` 暗示历史上的中心与边缘、母国与属地关系，`partner` 则强调更平等的合作。`er ved at ændre sig` 表示角色正处于转变过程中，而不是宣称已经完全实现平等伙伴关系。作者使用的是一种发展趋势的描述。",
+            "transfer": [
+                "Relationen er ved at ændre sig.",
+                "Samarbejdet udvikler sig fra afhængighed til partnerskab.",
+                "Danmarks rolle over for Grønland er under forandring."
+            ],
+            "pitfall": "`være ved at ændre sig` 强调变化正在发生，不等于 `har ændret sig` 已经改变完成。`over for` 在这里不是简单的物理面对面。`moderland` 含有历史政治关系的意味，不能只当作中性的祖国同义词。"
+        },
+        {
+            "id": "U22-C041",
+            "zh": "究竟怎样的平衡才是恰当的，并不是一个单纯的技术性问题，而是取决于人们最看重什么：影响力、自主决定权，还是安全保障。",
+            "grammar": "全句以完整的间接疑问从句 `Hvilken balance der er den rigtige` 作主语，后接主句谓语 `er ikke ... men ...`。间接疑问从句使用 `疑问词 + 主语 + 动词` 的从句语序，其中 `hvilken balance` 是主语。后半句 `et spørgsmål om, hvad man vægter højest` 使用 `et spørgsmål om` 加间接疑问从句，说明争论的核心是价值优先次序。`vægter højest` 表示给予最高重视程度，冒号后列出三种相互竞争的政策目标。",
+            "vocabulary": [
+                {
+                    "da": "en balance",
+                    "zh": "平衡；权衡",
+                    "note": "常用于政策选择、利益协调与生活安排"
+                },
+                {
+                    "da": "et teknisk spørgsmål",
+                    "zh": "技术性问题",
+                    "note": "与政治、价值或原则性问题形成对照"
+                },
+                {
+                    "da": "vægte noget højt",
+                    "zh": "高度重视某事；赋予某事较高权重",
+                    "note": "最高级 `vægte højest` 表示最重视"
+                },
+                {
+                    "da": "selvbestemmelse",
+                    "zh": "自主决定权；自决权",
+                    "note": "在政治语境可指自治或民族自决"
+                },
+                {
+                    "da": "indflydelse",
+                    "zh": "影响力；发言权",
+                    "note": "在国际关系中涉及参与决策的能力"
+                }
+            ],
+            "nuance": "这是整篇文章的思想性总结，并与开篇小国的根本抉择相呼应。作者没有提供一个所谓技术上最优的答案，而是指出，不同制度安排的优劣取决于人们对影响力、自决权和安全的价值排序。`ikke et teknisk spørgsmål, men et spørgsmål om ...` 是非常适合 C1/C2 政策分析、政治评论和学术讨论的论证句型，能够把表面上的操作争议提升为价值选择问题。`den rigtige` 也不是表示客观上只有一个永恒正确的平衡点，而是在讨论何种安排最为合适。",
+            "transfer": [
+                "Det er ikke et teknisk spørgsmål, men et spørgsmål om politiske prioriteringer.",
+                "Hvilken løsning der er den bedste, afhænger af, hvad man vægter højest.",
+                "Nogle vægter frihed højest, mens andre lægger større vægt på sikkerhed."
+            ],
+            "pitfall": "`vægte` 表示赋予重要性或权重，不能与 `veje` 称重完全混淆。`et spørgsmål om` 是关于……的问题，不是一般的提问动作。注意句首的整个间接疑问从句充当主语，主句的 `er` 出现在从句结束之后，不能把其中的 `der er` 误判为普通主句倒装。"
+        }
+    ]
+}

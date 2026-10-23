@@ -1,0 +1,1348 @@
+{
+    "schema_version": 1,
+    "unit": "U25",
+    "part": "ALL",
+    "source_fingerprint": "U25-ALL-862f9ab432f9",
+    "sentences": [
+        {
+            "id": "U25-C001",
+            "zh": "安徒生至今仍是丹麦作品被翻译成外语最多的作家，他的童话既适合儿童阅读，也适合成年人阅读。",
+            "grammar": "第一分句的核心是 `H.C. Andersen er … Danmarks mest oversatte forfatter`，其中 `mest oversatte` 是过去分词 `oversat` 构成的最高级形容词结构，表示作品被翻译最多。`stadig` 强调这种地位延续至今。第二分句 `hans eventyr kan læses` 使用情态动词 `kan` 加 s-被动不定式 `læses`，表示能够被阅读。`både af børn og af voksne` 用 `både … og …` 并列两类读者，`af` 引出被动动作的执行者。",
+            "vocabulary": [
+                {
+                    "da": "en forfatter",
+                    "zh": "作家；作者",
+                    "note": "复数 `forfattere`；`en romanforfatter` 小说家"
+                },
+                {
+                    "da": "oversætte",
+                    "zh": "翻译",
+                    "note": "`oversætte – oversatte – oversat`；`blive oversat til dansk` 被译成丹麦语"
+                },
+                {
+                    "da": "et eventyr",
+                    "zh": "童话；奇幻故事",
+                    "note": "复数 `eventyr`；安徒生作品语境中通常译为童话"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……；两者都",
+                    "note": "用于并列两种同样成立的情况"
+                }
+            ],
+            "nuance": "作者以安徒生开启丹麦文化经典的介绍。`stadig` 暗示即使时代变化，他的国际影响力依旧延续。`både af børn og af voksne` 刻意纠正把童话完全视为儿童读物的简单印象：安徒生童话可以具有多层次的阅读价值。`mest oversatte` 比 `mest læste` 更明确地强调跨语言传播，而不是丹麦国内的阅读人数。",
+            "transfer": [
+                "Hun er en af Danmarks mest oversatte forfattere.",
+                "Bogen kan læses både af unge og af voksne.",
+                "Hans værker er blevet oversat til mange sprog."
+            ],
+            "pitfall": "`oversat` 是 `oversætte` 的过去分词，不能与 `overstået` 已经结束的混淆。`eventyr` 在这里是童话，不应一律理解成冒险经历。`af` 在被动结构中引出阅读者。"
+        },
+        {
+            "id": "U25-C002",
+            "zh": "与安徒生生活在同一时代的哲学家索伦·克尔凯郭尔，曾探讨焦虑、选择，以及每个独立个体对自己人生所负的责任。",
+            "grammar": "主语是 `Filosoffen Søren Kierkegaard`，后面插入非限制性关系从句 `der var samtidig med Andersen`，补充他与安徒生的时代关系。主句谓语 `skrev om` 使用过去时，表示其著作涉及的主题。`det enkelte menneskes ansvar for sit eget liv` 是嵌套所有格结构：`det enkelte menneskes` 修饰 `ansvar`；`for sit eget liv` 说明责任的对象，其中 `sit` 回指单数的 `det enkelte menneske`。",
+            "vocabulary": [
+                {
+                    "da": "en filosof",
+                    "zh": "哲学家",
+                    "note": "确定形式 `filosoffen`"
+                },
+                {
+                    "da": "være samtidig med",
+                    "zh": "与……处于同一时代",
+                    "note": "也可表示某些事件同时发生"
+                },
+                {
+                    "da": "angst",
+                    "zh": "焦虑；恐惧",
+                    "note": "en angst；哲学语境中可能有特定概念意义"
+                },
+                {
+                    "da": "det enkelte menneske",
+                    "zh": "每个具体的人；独立个体",
+                    "note": "`enkelte` 强调个体性，而非孤独"
+                },
+                {
+                    "da": "ansvar for sit eget liv",
+                    "zh": "对自己的人生负责",
+                    "note": "`have ansvar for`、`tage ansvar for` 都值得掌握"
+                }
+            ],
+            "nuance": "作者将安徒生的文学世界与克尔凯郭尔的哲学思想并列，展现丹麦文化经典的不同维度。`det enkelte menneske` 是本句最有思想含量的表达，它强调具体的人及其个人选择，而不仅是作为整体的人类。`skrev om` 是适合文化介绍的概括性说法，并没有把哲学家的复杂思想简化为某一条明确的生活建议。",
+            "transfer": [
+                "De to forfattere var samtidige.",
+                "Filosoffen skrev om frihed, valg og ansvar.",
+                "Hvert enkelt menneske må tage ansvar for sit eget liv."
+            ],
+            "pitfall": "`samtidig med` 表示同时代或同时发生，不能理解为彼此合作。`sit eget liv` 中的 `sit` 回指承担责任的那个个体，不是指克尔凯郭尔自己的人生。"
+        },
+        {
+            "id": "U25-C003",
+            "zh": "电视剧《Matador》讲述了20世纪30年代和40年代一座丹麦地方小城的故事。每当人们想找一部全家可以一起观看的作品时，这部剧至今仍会被重新播出。",
+            "grammar": "主语 `Tv-serien Matador` 后接非限制性关系从句 `der følger en provinsby i 1930'erne og 40'erne`，介绍剧情背景。主句 `bliver stadig genudsendt` 使用 `blive + 过去分词` 被动结构，强调电视台重复播放这部剧。`når der er brug for noget` 是表示情境的时间从句；`hele familien kan se sammen` 是修饰 `noget` 的关系从句，其中宾语关系代词被省略。",
+            "vocabulary": [
+                {
+                    "da": "en tv-serie",
+                    "zh": "电视剧；电视连续剧",
+                    "note": "复数 `tv-serier`"
+                },
+                {
+                    "da": "en provinsby",
+                    "zh": "地方城市；非首都地区的城市",
+                    "note": "不必然含有落后或偏僻的贬义"
+                },
+                {
+                    "da": "genudsende",
+                    "zh": "重播",
+                    "note": "`genudsende – genudsendte – genudsendt`"
+                },
+                {
+                    "da": "der er brug for",
+                    "zh": "需要；有……的需求",
+                    "note": "常用结构 `Der er brug for noget`"
+                },
+                {
+                    "da": "se sammen",
+                    "zh": "一起观看",
+                    "note": "适合描述家庭共同观看节目"
+                }
+            ],
+            "nuance": "这句不仅介绍一部丹麦经典电视剧，也说明经典作品在日常家庭文化中的延续。`stadig` 和 `genudsendt` 共同突出它经久不衰的特点。`når der er brug for noget, hele familien kan se sammen` 带有温暖、略带幽默的生活化语气，仿佛这部剧已经成为值得信赖的家庭观看选择。",
+            "transfer": [
+                "Serien bliver stadig genudsendt på dansk tv.",
+                "Der er brug for programmer, hele familien kan se sammen.",
+                "Historien foregår i en dansk provinsby i 1930'erne."
+            ],
+            "pitfall": "`genudsende` 是重新播放，不是重新制作。`provinsby` 是地方城市，不应自动译成落后的乡村。`når der er brug for` 表示有需要时，不是有人实际使用某个物品。"
+        },
+        {
+            "id": "U25-C004",
+            "zh": "丹麦的建筑与设计以简洁的造型、优质的材料，以及对实际使用者需求的体贴考虑而闻名。",
+            "grammar": "主语 `Dansk arkitektur og design` 后接 `er kendt for`，表示因某些特点而知名。介词 `for` 后并列三个名词性成分：`enkle former`、`gode materialer` 和 `omtanke for den …`。`den, der skal bruge tingene` 是泛指人的关系结构，指需要使用这些物品的人；`skal` 表示预期用途，而不只是强制义务。",
+            "vocabulary": [
+                {
+                    "da": "arkitektur",
+                    "zh": "建筑；建筑设计",
+                    "note": "en arkitektur；常用于讨论建筑艺术与规划"
+                },
+                {
+                    "da": "være kendt for",
+                    "zh": "以……闻名",
+                    "note": "介词固定为 `for`"
+                },
+                {
+                    "da": "enkel",
+                    "zh": "简洁的；简单的",
+                    "note": "`enkle former` 简洁的造型"
+                },
+                {
+                    "da": "et materiale",
+                    "zh": "材料；材质",
+                    "note": "复数 `materialer`"
+                },
+                {
+                    "da": "omtanke for nogen",
+                    "zh": "对某人的体贴考虑；兼顾某人的需要",
+                    "note": "设计语境中可表达对使用者体验的重视"
+                }
+            ],
+            "nuance": "作者没有只用美观来评价丹麦设计，而是将造型、材料和使用者体验并列。`omtanke` 是最值得学习的词，它既含有认真考虑的意味，也可以体现对他人的关怀。`den, der skal bruge tingene` 使抽象设计理念落实到真实使用者身上，呈现出重视实用性和人的需求的设计价值观。",
+            "transfer": [
+                "Dansk design er kendt for enkle former og gode materialer.",
+                "Et godt produkt kræver omtanke for brugeren.",
+                "Arkitekturen skal tage hensyn til dem, der bruger bygningen."
+            ],
+            "pitfall": "`være kendt for` 是以某种特点闻名，而 `være kendt af` 更强调被谁认识。`omtanke` 不只是想法，而是认真考虑和体贴。"
+        },
+        {
+            "id": "U25-C005",
+            "zh": "许多经典设计有一个共同点：它们既要美观，也要实用，而且普通人还得买得起——至少在当初设计和制造出来的时候是这样。",
+            "grammar": "句首 `Fælles for mange af klassikerne` 是前置的表语性成分，后接 `er, at …`，形成说明共同特点的结构。`de skulle være` 中的 `skulle` 表示当初的设计目标或要求。`smukke`、`praktiske` 和 `til at betale` 构成并列的特征表达；`til at betale` 表示价格负担得起。破折号后的 `i hvert fald da de blev lavet` 是补充限定，`blev lavet` 使用过去时被动结构。",
+            "vocabulary": [
+                {
+                    "da": "fælles for",
+                    "zh": "……共有的；……的共同点",
+                    "note": "`Fælles for X og Y er, at …` 是高价值论述句型"
+                },
+                {
+                    "da": "en klassiker",
+                    "zh": "经典作品；经典设计",
+                    "note": "复数 `klassikere`"
+                },
+                {
+                    "da": "praktisk",
+                    "zh": "实用的；方便的",
+                    "note": "可与 `smuk` 美观的形成对照"
+                },
+                {
+                    "da": "til at betale",
+                    "zh": "价格负担得起；买得起",
+                    "note": "固定表达，常用于价格和生活成本讨论"
+                },
+                {
+                    "da": "i hvert fald",
+                    "zh": "至少；无论如何",
+                    "note": "可用于缩小或修正前面的判断"
+                }
+            ],
+            "nuance": "句子先概括丹麦经典设计的理想：美观、实用、可负担。结尾的 `i hvert fald da de blev lavet` 则带有轻微的反讽和幽默：一些经典设计如今可能已成为昂贵的收藏品或设计名作。这个补充让原本略显理想化的评价更有现实感。`skulle være` 表示设计时的目标，不等于作者已经证明所有经典产品都实现了这些目标。",
+            "transfer": [
+                "Fælles for de to løsninger er, at de er enkle og praktiske.",
+                "Produktet skal være både smukt og til at betale.",
+                "Det var billigt dengang, i hvert fald da det blev lanceret."
+            ],
+            "pitfall": "`til at betale` 要整体理解为买得起，不能逐词译成为了支付。`i hvert fald` 是至少、无论如何，`i tilfælde af` 才是万一发生某事。"
+        },
+        {
+            "id": "U25-C006",
+            "zh": "单口喜剧已经成为丹麦最受欢迎的舞台艺术形式之一，最知名的喜剧演员会在全国巡演，甚至能把大型演出场馆坐满。",
+            "grammar": "第一分句 `Stand-up er blevet en af …` 使用现在完成时 `er blevet`，强调从过去到现在的发展结果。`en af de mest populære scenekunstformer` 是部分结构，表示最受欢迎的形式之一。第二分句主语 `de største komikere` 后接两个并列现在时谓语 `turnerer` 和 `fylder`。`landet rundt` 是表示遍及全国的方向或范围状语。",
+            "vocabulary": [
+                {
+                    "da": "stand-up",
+                    "zh": "单口喜剧；脱口秀表演",
+                    "note": "指喜剧演员面向现场观众的独立表演形式"
+                },
+                {
+                    "da": "en scenekunstform",
+                    "zh": "舞台艺术形式",
+                    "note": "`scenekunst` 包括戏剧、舞蹈等现场表演艺术"
+                },
+                {
+                    "da": "turnere",
+                    "zh": "巡演；巡回演出",
+                    "note": "`turnere landet rundt` 在全国巡演"
+                },
+                {
+                    "da": "fylde en arena",
+                    "zh": "使大型演出场馆座无虚席",
+                    "note": "这里强调演出的吸引力与观众规模"
+                },
+                {
+                    "da": "populær",
+                    "zh": "受欢迎的",
+                    "note": "最高级 `mest populær`"
+                }
+            ],
+            "nuance": "作者通过流行程度、巡演范围和观众规模三个角度说明单口喜剧在丹麦文化生活中的地位。`er blevet` 强调这种地位是逐渐形成的，而不是从来如此。`fylder arenaer` 是演艺新闻中很有表现力的表达，强调演员拥有足够的观众号召力。",
+            "transfer": [
+                "Stand-up er blevet meget populært i Danmark.",
+                "Komikeren turnerer landet rundt.",
+                "De største kunstnere kan fylde store arenaer."
+            ],
+            "pitfall": "`turnere` 是巡演，不是普通观光旅行。`fylde en arena` 在这里是吸引足够多观众使场馆坐满，不是物理上向场馆填入某种东西。"
+        },
+        {
+            "id": "U25-C007",
+            "zh": "在奥胡斯看完一场演出后，Kasper 和 Line 正站在衣帽寄存处排队。",
+            "grammar": "句首 `Efter et show i Aarhus` 是时间背景状语，随后采用 `står Kasper og Line` 的 V2 语序。`står` 使用叙事现在时，使场景具有现场感。`i garderobekøen` 表示处在寄存衣物领取处的队伍中，`garderobe` 与 `kø` 组成复合名词。",
+            "vocabulary": [
+                {
+                    "da": "et show",
+                    "zh": "演出；表演",
+                    "note": "复数 `shows` 或 `show`，依具体用法而定"
+                },
+                {
+                    "da": "en garderobe",
+                    "zh": "衣帽寄存处；衣柜；衣橱",
+                    "note": "本句指演出场馆的衣帽寄存处"
+                },
+                {
+                    "da": "en kø",
+                    "zh": "队伍；排队的人群",
+                    "note": "`stå i kø` 排队"
+                },
+                {
+                    "da": "efter et show",
+                    "zh": "演出结束后",
+                    "note": "时间介词 `efter`"
+                }
+            ],
+            "nuance": "这是非常自然的丹麦演出后场景：观众在领取外套时交流对表演的看法。作者选用 `garderobekøen`，让对话发生在具体、可信的生活环境中，而不是抽象的评论空间。叙事现在时也让接下来的不同评价更生动。",
+            "transfer": [
+                "Vi stod i kø ved garderoben efter koncerten.",
+                "Efter forestillingen talte vi om skuespillerne.",
+                "Der var lang kø ved garderoben."
+            ],
+            "pitfall": "`garderobe` 在这里不是演员更衣室，而是观众寄存外套的地方。`stå i kø` 才是排队，不要按字面理解为站在字母队列中。"
+        },
+        {
+            "id": "U25-C008",
+            "zh": "你觉得刚才的演出怎么样？",
+            "grammar": "`Hvad syntes du?` 是询问刚刚结束的体验的直接疑问句。`syntes` 是 `synes` 的过去时，后面根据上下文省略了评价对象，例如演出或表演。疑问词 `Hvad` 位于句首，限定动词 `syntes` 位于主语 `du` 之前。",
+            "vocabulary": [
+                {
+                    "da": "synes",
+                    "zh": "认为；觉得；评价",
+                    "note": "过去时 `syntes`；常用于主观评价"
+                },
+                {
+                    "da": "Hvad syntes du?",
+                    "zh": "你觉得怎么样？",
+                    "note": "询问刚经历的事件时使用过去时"
+                }
+            ],
+            "nuance": "Line 用最简洁自然的方式邀请 Kasper 评价刚才的表演。由于双方刚刚看过同一场演出，不必再重复宾语。注意这不是询问事实，而是询问个人感受，因此非常适合谈电影、展览、演唱会和餐厅体验。",
+            "transfer": [
+                "Hvad syntes du om koncerten?",
+                "Hvad synes du om den nye udstilling?",
+                "Jeg syntes, at forestillingen var rigtig god."
+            ],
+            "pitfall": "`synes` 是现在时，`syntes` 是过去时，拼写只差一个 `t`，但时间指向不同。`Hvad synes du?` 则通常询问当前的看法。"
+        },
+        {
+            "id": "U25-C009",
+            "zh": "他演得太精彩了！尤其是讲他岳母和那张新沙发的那个段子，实在太好笑了。",
+            "grammar": "第一句使用 `Han var fremragende` 直接评价表演者。第二句的主语 `Den om hans svigermor og den nye sofa` 是省略中心名词的名词短语，`Den` 回指一个笑话或段子，`om …` 说明其内容。`så morsom` 中的 `så` 是程度副词，突出笑点给说话人的感受。",
+            "vocabulary": [
+                {
+                    "da": "fremragende",
+                    "zh": "杰出的；精彩的；极好的",
+                    "note": "可评价演出、表现和工作成果"
+                },
+                {
+                    "da": "en svigermor",
+                    "zh": "岳母；婆婆；配偶的母亲",
+                    "note": "丹麦语不区分中文中的岳母和婆婆"
+                },
+                {
+                    "da": "en joke",
+                    "zh": "笑话；段子",
+                    "note": "复数 `jokes`"
+                },
+                {
+                    "da": "morsom",
+                    "zh": "好笑的；有趣的",
+                    "note": "可描述笑话、表演和故事"
+                }
+            ],
+            "nuance": "Kasper 的评价非常热情，先称赞演员，再提到一个具体段子。`Den om …` 是对话中非常实用的省略结构：双方知道正在讨论笑话，因此无需重复 `joken`。`svigermor` 是喜剧中容易引发观众共鸣的家庭关系题材，但这并不意味着相关笑话一定带有恶意。",
+            "transfer": [
+                "Han var fremragende på scenen.",
+                "Den om familien var virkelig morsom.",
+                "Jeg syntes, den sidste joke var særlig sjov."
+            ],
+            "pitfall": "`svigermor` 不是自己的母亲，而是配偶的母亲。`morsom` 表示好笑或有趣，不能简单等同于 `interessant` 有意思、有研究价值。"
+        },
+        {
+            "id": "U25-C010",
+            "zh": "我倒觉得那个段子有点太简单了。这类笑话我以前就听过。",
+            "grammar": "第一句 `Jeg syntes, den var lidt for simpel` 使用 `syntes` 引出个人评价，后面的 `at` 内容从句在口语中被省略。`lidt for + 形容词` 表示有点过于某种程度。第二句将宾语 `Den slags jokes` 前置，因此采用 `har jeg hørt` 的 V2 语序。现在完成时 `har hørt` 连接过去听过的经历与当前评价。",
+            "vocabulary": [
+                {
+                    "da": "lidt for",
+                    "zh": "有点太……；稍微过于……",
+                    "note": "通常表示带有负面评价的程度超出"
+                },
+                {
+                    "da": "simpel",
+                    "zh": "简单的；过于单薄的",
+                    "note": "可中性描述简单，也可暗示缺乏深度"
+                },
+                {
+                    "da": "den slags",
+                    "zh": "那一类；这种类型的",
+                    "note": "`den slags jokes` 这类笑话"
+                },
+                {
+                    "da": "før",
+                    "zh": "以前；曾经",
+                    "note": "这里是时间副词"
+                }
+            ],
+            "nuance": "Line 没有说整场表演糟糕，而是针对 Kasper 最喜欢的那个段子提出不同意见。`lidt for simpel` 是相对克制的批评，既表达不满，又没有使用极端负面词汇。`Den slags jokes har jeg hørt før` 暗示她认为题材或套路不够新颖，而不仅仅是语言形式简单。",
+            "transfer": [
+                "Jeg syntes, historien var lidt for simpel.",
+                "Den slags argumenter har jeg hørt før.",
+                "Det var underholdende, men ikke særlig originalt."
+            ],
+            "pitfall": "`lidt for` 表示稍微太过，而 `lidt` 单独使用往往只是有点。`den slags` 是固定指类别的表达，不要逐词理解为那个种类。"
+        },
+        {
+            "id": "U25-C011",
+            "zh": "这不正是他的高明之处嘛！他把人人都熟悉的东西拿来，变成了非常特别的喜剧素材。",
+            "grammar": "第一句 `Det er da hele pointen` 是系动词判断句。`da` 是语气小品词，强调说话人认为这一点显而易见、正值得重视；`hele` 加强 `pointen`。第二句使用两个并列谓语 `tager` 和 `gør`。`noget, alle kender` 是省略关系代词的名词性结构；`gøre X til Y` 表示把某物转变成另一种性质或形式。",
+            "vocabulary": [
+                {
+                    "da": "hele pointen",
+                    "zh": "全部关键；正是重点所在",
+                    "note": "`en pointe` 可指核心观点、笑点或妙处"
+                },
+                {
+                    "da": "da",
+                    "zh": "这不是……嘛；明明就是……",
+                    "note": "这里加强反驳或解释的语气"
+                },
+                {
+                    "da": "gøre noget til noget",
+                    "zh": "把某物变成另一种东西",
+                    "note": "高频抽象表达"
+                },
+                {
+                    "da": "helt speciel",
+                    "zh": "非常特别的；独具特色的",
+                    "note": "`helt` 在这里是程度加强"
+                }
+            ],
+            "nuance": "Kasper 并不否认段子使用熟悉的生活素材，恰恰认为这就是优秀单口喜剧的本领：把平凡经验转化成特别的表达。`Det er da hele pointen` 带有轻微的反驳和强调，像中文的这不正是关键吗。它不是在客观解释一个词，而是在积极为自己的审美判断辩护。",
+            "transfer": [
+                "Det er da hele pointen!",
+                "Han gør noget helt almindeligt til noget specielt.",
+                "Det interessante er, hvordan kunstneren bruger velkendte situationer."
+            ],
+            "pitfall": "`en pointe` 不只是英语 point 的地点或分数，也可以指观点、妙处和笑点。`gøre X til Y` 中 `til` 表示转变的结果，不能省略。"
+        },
+        {
+            "id": "U25-C012",
+            "zh": "好吧，结尾倒是挺有新意的。那个反转我确实完全没料到。",
+            "grammar": "第一句 `slutningen var original` 使用过去时表达对演出结尾的评价。第二句 `Den havde jeg ikke set komme` 把宾语 `Den` 前置，随后采用 `havde jeg` 的 V2 倒装。`havde … set` 是过去完成时，`se noget komme` 是感知结构，字面表示看见某事到来，口语中引申为预料到某种发展。",
+            "vocabulary": [
+                {
+                    "da": "en slutning",
+                    "zh": "结尾；结束部分",
+                    "note": "可用于电影、小说、演出"
+                },
+                {
+                    "da": "original",
+                    "zh": "有独创性的；有新意的",
+                    "note": "这里不是原版或原件的意思"
+                },
+                {
+                    "da": "se noget komme",
+                    "zh": "预见某事发生；料到某个转折",
+                    "note": "否定句 `ikke se det komme` 很常用"
+                },
+                {
+                    "da": "ikke have set det komme",
+                    "zh": "完全没料到",
+                    "note": "适合表达惊讶或意外"
+                }
+            ],
+            "nuance": "Line 在坚持自己总体评价的同时，承认结尾确实出人意料。`Okay` 表示有限度的让步，并不意味着她已经完全改变看法。`Den havde jeg ikke set komme` 是地道的口语赞赏，尤其适合讨论电影反转、小说结局和喜剧包袱。",
+            "transfer": [
+                "Slutningen var virkelig original.",
+                "Den vending havde jeg slet ikke set komme.",
+                "Jeg havde ikke forventet, at historien ville slutte sådan."
+            ],
+            "pitfall": "`original` 在这里是新颖独特，而不是原始版本。`se noget komme` 是预料到，不一定涉及真实的视觉观察。过去完成时 `havde set` 强调在结局出现之前未能预见。"
+        },
+        {
+            "id": "U25-C013",
+            "zh": "而且他连续表演了一个半小时，一次都没有休息。",
+            "grammar": "主句使用过去时 `optrådte` 描述已结束的演出。`i halvanden time` 表示持续时间。`uden en eneste pause` 使用 `uden` 加名词短语，表示完全没有发生休息；`en eneste` 强化零次数的含义。",
+            "vocabulary": [
+                {
+                    "da": "optræde",
+                    "zh": "登台表演；演出",
+                    "note": "`optræde – optrådte – optrådt`"
+                },
+                {
+                    "da": "halvanden time",
+                    "zh": "一个半小时",
+                    "note": "`halvanden` 用于通性名词 `time`"
+                },
+                {
+                    "da": "uden en eneste",
+                    "zh": "连一次……都没有",
+                    "note": "强调完全不存在某事"
+                },
+                {
+                    "da": "en pause",
+                    "zh": "休息；暂停；中场休息",
+                    "note": "`holde pause` 休息一下"
+                }
+            ],
+            "nuance": "Kasper 又提出一个值得肯定的方面：演员的持续表演能力。`uden en eneste pause` 比简单的 `uden pause` 更有强调效果，能够突出其体力、节奏控制和专业表现。这里评价的是演出投入和持续时间，而不是证明笑话本身必然优秀。",
+            "transfer": [
+                "Han optrådte i halvanden time uden pause.",
+                "Koncerten varede næsten to timer.",
+                "Hun talte i en hel time uden en eneste pause."
+            ],
+            "pitfall": "`halvanden time` 是一个半小时，`halvandet år` 是一年半，因为 `år` 是中性名词。`i halvanden time` 表示持续时间，不能误用 `om halvanden time`，后者表示一个半小时以后。"
+        },
+        {
+            "id": "U25-C014",
+            "zh": "这倒是真的。不过下次得由我来选演出了。",
+            "grammar": "第一句 `Det er rigtigt` 是对对方观点的部分认可。第二句以时间状语 `næste gang` 开头，后面采用 `er det mig` 的 V2 语序，并构成强调句 `det er mig, der vælger …`。关系从句 `der vælger showet` 突出下次作出选择的人是 Line。",
+            "vocabulary": [
+                {
+                    "da": "Det er rigtigt",
+                    "zh": "这倒是真的；说得对",
+                    "note": "可作为让步回应"
+                },
+                {
+                    "da": "næste gang",
+                    "zh": "下次",
+                    "note": "时间状语"
+                },
+                {
+                    "da": "vælge",
+                    "zh": "选择",
+                    "note": "`vælge – valgte – valgt`"
+                },
+                {
+                    "da": "Det er mig, der …",
+                    "zh": "由我来……；正是我……",
+                    "note": "强调句，用于突出行动者"
+                }
+            ],
+            "nuance": "Line 接受 Kasper 关于演员专业表现的评价，却没有因此放弃自己对演出内容的保留意见。`Men` 后面的强调句带着友好而坚决的玩笑意味：这次你选了，下次该轮到我。这种先认可、再坚持偏好的表达非常适合同事和朋友之间的轻松讨论。",
+            "transfer": [
+                "Det er rigtigt, men jeg er stadig ikke helt enig.",
+                "Næste gang er det mig, der vælger filmen.",
+                "Denne gang bestemmer du, næste gang bestemmer jeg."
+            ],
+            "pitfall": "`Det er mig, der …` 是强调主语的固定结构，不能按普通句子把 `der` 随意删除。`næste gang` 放在句首时，需要注意后续 V2 语序。"
+        },
+        {
+            "id": "U25-C015",
+            "zh": "在一家小画廊的展览开幕酒会上，Sofie 和 Kasper 正站在其中一件艺术作品前。",
+            "grammar": "句首 `Til en fernisering i et lille galleri` 是活动场景状语，随后采用 `står Sofie og Kasper` 的 V2 倒装。`foran et af værkerne` 使用 `et af + 确定复数名词` 的部分结构，表示展出的作品之一。动词 `står` 使用叙事现在时。",
+            "vocabulary": [
+                {
+                    "da": "en fernisering",
+                    "zh": "艺术展览开幕式；画展开幕酒会",
+                    "note": "特指展览开幕活动，不等于整个展期"
+                },
+                {
+                    "da": "et galleri",
+                    "zh": "画廊；艺术展览空间",
+                    "note": "复数 `gallerier`"
+                },
+                {
+                    "da": "et værk",
+                    "zh": "艺术作品；作品",
+                    "note": "复数 `værker`"
+                },
+                {
+                    "da": "foran",
+                    "zh": "在……前面",
+                    "note": "用于空间位置"
+                }
+            ],
+            "nuance": "文章从流行的单口喜剧转入当代视觉艺术。`fernisering` 是值得掌握的文化生活词汇，它通常指艺术展览开幕时的活动，可能包含艺术家介绍、社交交流等。作者安排两人站在具体作品前，为后面关于作品意义的争论提供直观背景。",
+            "transfer": [
+                "Vi var til fernisering i et lille galleri.",
+                "De stod foran et moderne kunstværk.",
+                "Galleriet viste flere nye værker."
+            ],
+            "pitfall": "`fernisering` 是开幕活动，不是普通参观画廊。`et værk` 不只表示艺术作品，也可指文学、音乐等创作成果。"
+        },
+        {
+            "id": "U25-C016",
+            "zh": "你觉得怎么样？",
+            "grammar": "`Hvad synes du?` 使用现在时 `synes`，询问对当前正在观看的作品的看法。评价对象由现场情境提供，因此宾语内容被省略。",
+            "vocabulary": [
+                {
+                    "da": "Hvad synes du?",
+                    "zh": "你觉得怎么样？",
+                    "note": "询问当前看法；区别于过去时 `Hvad syntes du?`"
+                }
+            ],
+            "nuance": "Sofie 的提问非常开放，没有预设 Kasper 应该喜欢或理解作品。与前面演出结束后使用过去时不同，这里两人正站在作品前，因此自然使用现在时。这是一个值得直接背诵的日常评价问句。",
+            "transfer": [
+                "Hvad synes du om værket?",
+                "Hvad synes du om udstillingen?"
+            ],
+            "pitfall": "`synes` 是现在时，`syntes` 是过去时；这两个拼写相近的形式需要结合时间背景区分。"
+        },
+        {
+            "id": "U25-C017",
+            "zh": "说实话？我完全看不懂。这不就是一张粉红色的沙发，被从中间锯成了两半吗？",
+            "grammar": "`Ærligt talt?` 是独立使用的评价性话语标记，表示说话人准备坦率表达意见。`Jeg forstår det ikke` 是直接否定判断。最后一句包含关系从句 `der er savet over på midten`，修饰 `en lyserød sofa`。`er savet over` 是 `være + 过去分词` 结构，着重描述沙发已经被锯开的结果状态；`på midten` 说明切割位置。",
+            "vocabulary": [
+                {
+                    "da": "ærligt talt",
+                    "zh": "说实话；坦白说",
+                    "note": "常用于提出可能不那么客气的真实看法"
+                },
+                {
+                    "da": "lyserød",
+                    "zh": "粉红色的",
+                    "note": "`en lyserød sofa`"
+                },
+                {
+                    "da": "save noget over",
+                    "zh": "把某物锯断；锯开",
+                    "note": "`save – savede – savet`"
+                },
+                {
+                    "da": "på midten",
+                    "zh": "从中间；在中部",
+                    "note": "说明切割或分开的部位"
+                },
+                {
+                    "da": "forstå et værk",
+                    "zh": "理解一件艺术作品",
+                    "note": "不只是辨认其外形"
+                }
+            ],
+            "nuance": "Kasper 采用了一种非常直观、甚至略带不屑的观看方式：他只看到了作品的物理外形，而没有理解其象征意义。`Ærligt talt?` 暗示他担心自己的评价可能显得不够尊重艺术，却还是决定坦白。`Jeg forstår det ikke` 表达困惑，而不一定是断言作品本身没有价值。",
+            "transfer": [
+                "Ærligt talt forstår jeg ikke værket.",
+                "Det ligner bare en almindelig sofa, der er savet over.",
+                "Jeg kan ikke helt se, hvad kunstneren vil sige."
+            ],
+            "pitfall": "`save over` 是用锯子锯断，不等于 `skære over` 用刀切开。`lyserød` 是粉红色，`rød` 是红色。`ærligt talt` 的 `talt` 是过去分词，不是数量词。"
+        },
+        {
+            "id": "U25-C018",
+            "zh": "这件作品叫《分担安排》。你看看墙上的作品说明。",
+            "grammar": "第一句 `Værket hedder …` 使用 `hedde` 表示作品名称。第二句 `Læs teksten på væggen` 是祈使句，动词 `Læs` 位于句首，省略主语 `du`。`på væggen` 修饰作品说明文字所在的位置。",
+            "vocabulary": [
+                {
+                    "da": "hedde",
+                    "zh": "名叫；题为",
+                    "note": "可用于人名、作品名和机构名称"
+                },
+                {
+                    "da": "en deleordning",
+                    "zh": "共同分担或轮流使用的安排",
+                    "note": "家庭分离语境中也可能让人联想到共同抚养或分配安排"
+                },
+                {
+                    "da": "en værktekst",
+                    "zh": "作品说明文字",
+                    "note": "展览和博物馆中的常见概念"
+                },
+                {
+                    "da": "læse",
+                    "zh": "阅读",
+                    "note": "祈使式 `Læs!`"
+                }
+            ],
+            "nuance": "Sofie 没有直接替 Kasper 解释，而是让他先阅读艺术家提供的文字。作品标题 `Deleordning` 具有双关潜力：既让人联想到分配、共享的安排，也可以在家庭关系背景下让人想到分开后的生活安排。沙发被切开的形象与标题相互呼应，不过具体含义仍需要结合下一句的作品说明理解。",
+            "transfer": [
+                "Værket hedder Deleordning.",
+                "Læs teksten ved siden af billedet.",
+                "Titlen giver et fingerpeg om værkets betydning."
+            ],
+            "pitfall": "`hedder` 不只用于人名，也用于书名和作品名。`deleordning` 要结合语境理解，不应不加分析地把它等同于某一种具体法律制度。"
+        },
+        {
+            "id": "U25-C019",
+            "zh": "“这件作品探讨的是：当一个家庭破裂时，原本共同生活的家会发生什么变化。”哦，原来是这个意思。我还真猜不到。",
+            "grammar": "引文中的主句 `Værket undersøger` 后接间接疑问从句 `hvad der sker med et hjem`，其中 `hvad der` 表示发生什么情况。`når en familie går i stykker` 是时间或情境从句，说明家庭破裂这一背景。最后 `Det kunne jeg ikke have gættet` 将宾语 `Det` 前置，引发 `kunne jeg` 的 V2 倒装；`kunne have gættet` 表示过去情境下本来能够猜到的可能性，而否定式强调根本没有料到。",
+            "vocabulary": [
+                {
+                    "da": "undersøge",
+                    "zh": "研究；探讨；审视",
+                    "note": "艺术说明中常指作品探索某个主题，而非进行实验测量"
+                },
+                {
+                    "da": "et hjem",
+                    "zh": "家；家庭生活空间",
+                    "note": "相比 `et hus` 更强调生活与情感意义"
+                },
+                {
+                    "da": "gå i stykker",
+                    "zh": "破碎；损坏；破裂",
+                    "note": "可用于物品、关系和家庭结构"
+                },
+                {
+                    "da": "gætte",
+                    "zh": "猜测",
+                    "note": "`gætte – gættede – gættet`"
+                },
+                {
+                    "da": "kunne have gættet",
+                    "zh": "本来可能猜到；原本能够猜到",
+                    "note": "情态动词加完成不定式"
+                }
+            ],
+            "nuance": "作品说明把一张被锯开的沙发转化为关于家庭分离的象征。`hvad der sker med et hjem` 中的 `hjem` 不只是房屋，而包括共同生活、归属感和家庭记忆。Kasper 的 `Okay` 表示开始理解；`Det kunne jeg ikke have gættet` 则带有坦率的惊讶，说明他仅凭作品外观并没有读出这一层意义。",
+            "transfer": [
+                "Værket undersøger, hvad der sker, når et forhold går i stykker.",
+                "Det kunne jeg aldrig have gættet.",
+                "Et hjem er mere end bare et hus."
+            ],
+            "pitfall": "`gå i stykker` 可用于关系破裂，不能只理解为实物碎掉。`undersøge` 在艺术语境中可表示探讨问题，不一定是科学调查。`Det kunne jeg ikke have gættet` 不是现在无法猜测，而是回顾刚才没有料到。"
+        },
+        {
+            "id": "U25-C020",
+            "zh": "可是你到现在还站在这里盯着它看呀。要是一张普通的沙发，你可不会这样。",
+            "grammar": "第一句 `du står her stadig og kigger på den` 使用 `stå og + 限定动词` 的并列动词结构，描述站着持续进行某个动作。`stadig` 表示动作持续到现在。第二句 `Det gør du ikke ved en almindelig sofa` 把代词 `Det` 前置，`gør` 替代前文整个行为，即站着持续观看。`ved` 表示在某件物品旁边或面对它时的情境。",
+            "vocabulary": [
+                {
+                    "da": "stå og kigge på",
+                    "zh": "站着看；一直盯着看",
+                    "note": "用于描述持续观察"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然；依旧",
+                    "note": "强调动作或状态尚未结束"
+                },
+                {
+                    "da": "almindelig",
+                    "zh": "普通的；一般的",
+                    "note": "与 `speciel` 特别的相对"
+                },
+                {
+                    "da": "Det gør man ikke ved …",
+                    "zh": "面对……时人们通常不会这么做",
+                    "note": "`gøre` 可代替前面提到的行为"
+                }
+            ],
+            "nuance": "Sofie 没有争论这件作品究竟美不美，而是指出它已经成功引起了 Kasper 的注意。`stadig` 是这段对话的关键：他虽然说自己看不懂，却没有转身离开。`Det gør du ikke ved en almindelig sofa` 借普通家具与艺术品的对比，提出艺术价值也可能体现在激发观察和思考，而不只是外观好看。",
+            "transfer": [
+                "Du står her stadig og kigger på billedet.",
+                "Det ville du ikke gøre ved en almindelig genstand.",
+                "Værket får folk til at stoppe op og tænke."
+            ],
+            "pitfall": "`står og kigger` 不应逐词译成站立以及观看，整体是持续观察的动作。第二句的 `gør` 替代前文动作，不是指制造某件物品。"
+        },
+        {
+            "id": "U25-C021",
+            "zh": "你说得对。说真的，它让我想起了当年我父母离婚时，那张沙发最后分给了谁。",
+            "grammar": "第一句 `Det er rigtigt` 表示认可对方观点。第二句主干 `Jeg kommer faktisk til at tænke på …` 使用固定搭配 `komme til at tænke på`，表示某件事让自己突然想到另一件事。`hvem der fik sofaen` 是以主语疑问词 `hvem` 开头的间接疑问从句，`der` 出现在主语疑问结构中。`da mine forældre blev skilt` 是时间从句，`blive skilt` 表示夫妻离婚。",
+            "vocabulary": [
+                {
+                    "da": "komme til at tænke på",
+                    "zh": "突然想到；联想到",
+                    "note": "不等于单纯表示未来会做某事"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "实际上；说真的",
+                    "note": "此处强调自己确实产生了联想"
+                },
+                {
+                    "da": "blive skilt",
+                    "zh": "离婚",
+                    "note": "`Mine forældre blev skilt` 我的父母离婚了"
+                },
+                {
+                    "da": "få sofaen",
+                    "zh": "得到沙发；在分配中分到沙发",
+                    "note": "这里涉及离婚后的家庭物品归属"
+                }
+            ],
+            "nuance": "这是画廊对话的情感转折。原本在 Kasper 看来毫无意义的沙发，竟然触发了他关于父母离婚的个人记忆。`faktisk` 表示他自己也有些意外，承认这件作品确实让他产生了思考。`komme til at tænke på` 在这里比普通的 `tænke på` 更能表现联想突然出现的过程。",
+            "transfer": [
+                "Værket får mig til at tænke på min barndom.",
+                "Jeg kommer til at tænke på mine forældres skilsmisse.",
+                "Hvem fik huset, da de blev skilt?"
+            ],
+            "pitfall": "`komme til at tænke på` 表示联想到，不能只按 `komme til at` 的将来结果含义理解。`blive skilt` 是离婚，`være skilt` 则表示已经处于离婚状态。"
+        },
+        {
+            "id": "U25-C022",
+            "zh": "那你看，这不就说明作品起作用了嘛。",
+            "grammar": "句首 `Så` 表示由刚才的情况得出结论。`virker` 是一般现在时，描述作品发挥效果。`jo` 是语气小品词，表示说话人认为证据已经显而易见，邀请对方接受这一判断。",
+            "vocabulary": [
+                {
+                    "da": "virke",
+                    "zh": "起作用；奏效；产生效果",
+                    "note": "也可用于机器运行，但本句强调艺术的作用"
+                },
+                {
+                    "da": "så",
+                    "zh": "那么；这样一来",
+                    "note": "可用于引出推论"
+                },
+                {
+                    "da": "jo",
+                    "zh": "这不就……嘛；你看",
+                    "note": "强调共同可以确认的事实"
+                }
+            ],
+            "nuance": "Sofie 的结论带有一点得意和善意的调侃。她并没有证明 Kasper 必须喜欢这件作品，而是指出它已经触发了他的个人记忆和反思，因此至少实现了某种艺术效果。`jo` 使这句话像是在说证据不就在眼前吗。",
+            "transfer": [
+                "Så virker det jo!",
+                "Hvis værket får dig til at tænke, har det gjort noget vigtigt.",
+                "Det ser ud til, at idéen virker."
+            ],
+            "pitfall": "`virke` 在这里是产生效果，而不是看起来怎么样；表示显得如何时可以用 `virke + 形容词`。`jo` 并非机械的因为，主要体现说话人的立场。"
+        },
+        {
+            "id": "U25-C023",
+            "zh": "一个重要原则是“保持距离原则”：政治人物决定文化领域可以使用多少公共资金，但具体由哪些人获得这些资金，应当交给专业人士决定。",
+            "grammar": "第一分句 `Et vigtigt princip er armslængdeprincippet` 是定义性判断句。冒号后通过 `men` 对比两类决策权限。`Politikerne bestemmer, hvor mange penge der skal bruges` 中，`hvor mange penge der skal bruges` 是间接数量疑问从句，`skal bruges` 使用情态动词加 s-被动不定式。`det er fagfolk, der beslutter …` 是强调句，突出具体分配决定应由专业人士作出。`hvem der skal have dem` 是间接主语疑问从句，`dem` 回指资金。",
+            "vocabulary": [
+                {
+                    "da": "armslængdeprincippet",
+                    "zh": "保持距离原则；文化资助中的臂距原则",
+                    "note": "强调政治决策与专业艺术评审之间保持适当独立性"
+                },
+                {
+                    "da": "bestemme",
+                    "zh": "决定；确定",
+                    "note": "`bestemme, hvor mange …` 决定多少"
+                },
+                {
+                    "da": "fagfolk",
+                    "zh": "专业人士；领域专家",
+                    "note": "集合性复数表达"
+                },
+                {
+                    "da": "beslutte",
+                    "zh": "作出决定",
+                    "note": "`beslutte, hvem der …` 决定由谁……"
+                },
+                {
+                    "da": "bruge penge",
+                    "zh": "使用资金；花钱",
+                    "note": "被动结构 `penge skal bruges` 资金将被使用"
+                }
+            ],
+            "nuance": "这是文化政策部分的核心概念。`armslængdeprincippet` 并不是政治完全不参与文化资助，而是区分预算和政策框架与具体艺术资助决定。作者通过对照句清晰呈现原则：政治人物决定总体资金规模，具有专业判断能力的人决定具体接受者。`det er fagfolk, der …` 的强调结构凸显专业独立性的重要性。",
+            "transfer": [
+                "Armslængdeprincippet skal beskytte den faglige uafhængighed.",
+                "Politikerne fastlægger budgettet, men fagfolk vurderer ansøgningerne.",
+                "Det er eksperterne, der beslutter, hvilke projekter der får støtte."
+            ],
+            "pitfall": "`armslængde` 字面是手臂长度，在政策中是保持适当距离的比喻。`fagfolk` 指有专业知识的人，不是普通职员的同义词。`hvem der skal have dem` 的 `dem` 指资金，不是政治人物。"
+        },
+        {
+            "id": "U25-C024",
+            "zh": "支持文化补贴的人认为，单靠市场并不能确保文化产品种类足够丰富——例如为读者群很小的人群出版丹麦语书籍，就可能需要额外支持。",
+            "grammar": "主语 `Tilhængerne af støtten` 后接 `mener`，引出一个由 `at` 连接的观点从句。`markedet alene ikke vil sikre et alsidigt udbud` 中，`alene` 修饰市场这一单一机制，`ikke` 否定其足以保障多样供给的能力。`vil sikre` 表示预期或一般判断。破折号后 `for eksempel bøger på dansk for et lille publikum` 是对多样化文化供给的具体举例，而不是完整独立句。",
+            "vocabulary": [
+                {
+                    "da": "en tilhænger af",
+                    "zh": "……的支持者",
+                    "note": "与 `en kritiker af` 批评者相对"
+                },
+                {
+                    "da": "støtte",
+                    "zh": "支持；补助；资助",
+                    "note": "en støtte；文化政策中常指公共资助"
+                },
+                {
+                    "da": "markedet alene",
+                    "zh": "单靠市场",
+                    "note": "`alene` 强调只有这一机制"
+                },
+                {
+                    "da": "sikre",
+                    "zh": "确保；保障",
+                    "note": "`sikre et udbud` 确保供给"
+                },
+                {
+                    "da": "et alsidigt udbud",
+                    "zh": "多样化的供给；丰富的选择",
+                    "note": "`alsidig` 多方面的；`udbud` 供给、供应范围"
+                }
+            ],
+            "nuance": "作者准确呈现公共文化资助支持者的基本论点：商业市场通常依据需求和盈利前景作出选择，但具有文化价值的作品可能面向较小群体。`markedet alene` 是关键限定，支持者并不是认为市场完全没有作用，而是认为仅靠市场不足以保证文化多样性。丹麦语小众书籍的例子让抽象的供给问题更容易理解。",
+            "transfer": [
+                "Tilhængerne mener, at markedet alene ikke sikrer kulturel mangfoldighed.",
+                "Offentlig støtte kan være vigtig for et alsidigt kulturudbud.",
+                "Små målgrupper kan have svært ved at tiltrække kommerciel finansiering."
+            ],
+            "pitfall": "`en tilhænger` 是支持者，不是被支持的对象。`udbud` 在经济学语境中是供给，在采购语境中还可能表示招标，需结合上下文。`alene` 强调单靠市场，而不是市场孤独。"
+        },
+        {
+            "id": "U25-C025",
+            "zh": "批评者则质疑：为什么纳税人要为许多人自己根本不会享用的文化活动买单？而且，这些补助是否实际上主要让大城市里受过较高教育的人受益？",
+            "grammar": "主句 `Kritikerne spørger` 后接两个并列间接疑问从句：`hvorfor skatteydere skal betale …` 和 `om støtten … kommer … til gode`。第一个询问原因，第二个询问某项判断是否成立。`kultur, som mange aldrig selv benytter` 是修饰 `kultur` 的关系从句。`komme nogen til gode` 是固定受益结构，`de veluddannede` 为形容词名词化，表示受过较高教育的一群人。",
+            "vocabulary": [
+                {
+                    "da": "en kritiker",
+                    "zh": "批评者；反对者",
+                    "note": "复数 `kritikere`"
+                },
+                {
+                    "da": "en skatteyder",
+                    "zh": "纳税人",
+                    "note": "`skat` 税；`yder` 支付者"
+                },
+                {
+                    "da": "benytte",
+                    "zh": "使用；利用；享用",
+                    "note": "可用于公共服务、设施和文化资源"
+                },
+                {
+                    "da": "komme nogen til gode",
+                    "zh": "使某人受益；惠及某人",
+                    "note": "固定搭配，不能逐词直译"
+                },
+                {
+                    "da": "de veluddannede",
+                    "zh": "受过较高教育的人群",
+                    "note": "形容词名词化，表示一个社会群体"
+                }
+            ],
+            "nuance": "这一句代表公共文化资助反对者或质疑者的分配公平论点。作者没有直接认定文化补贴主要惠及受过高等教育的城市居民，而是把它作为批评者提出的问题。`i virkeligheden` 带有揭示真实情况的质疑意味，暗示公开宣称的普惠目标可能与实际受益分布存在差距。整句适合学习如何客观介绍争论的一方，而不替对方下结论。",
+            "transfer": [
+                "Kritikerne spørger, hvorfor skatteyderne skal betale.",
+                "Hvem kommer den offentlige støtte egentlig til gode?",
+                "Ordningen kommer især bestemte grupper til gode."
+            ],
+            "pitfall": "`komme nogen til gode` 表示使某人受益，不能按来到某人那里变好来理解。`de veluddannede` 指受教育程度较高的人，不等于所有有钱人。`om` 在第二个间接问句中表示是否。"
+        },
+        {
+            "id": "U25-C026",
+            "zh": "这场争论归根结底涉及一个问题：我们认为艺术究竟是为了什么而存在？是娱乐、启迪知识、呈现美，还是为了某种恰恰不应该被量化衡量的价值？",
+            "grammar": "主句 `Diskussionen handler om` 后接较复杂的间接疑问结构 `hvad man mener, kunst er til for`，意思是人们认为艺术的目的究竟是什么。`være til for` 是表示存在目的的固定搭配。冒号后并列列出可能的艺术目的。最后 `noget, der netop ikke skal kunne måles` 包含关系从句，`skal kunne` 由两个情态动词连用，`måles` 为 s-被动不定式；在 `ikke` 的否定范围内，表达不应被要求必须能够测量的价值。",
+            "vocabulary": [
+                {
+                    "da": "handle om",
+                    "zh": "涉及；围绕；讨论",
+                    "note": "`Diskussionen handler om …` 讨论围绕……展开"
+                },
+                {
+                    "da": "være til for",
+                    "zh": "为了……而存在；其用途或目的是……",
+                    "note": "用于讨论某事物存在的意义"
+                },
+                {
+                    "da": "underholdning",
+                    "zh": "娱乐；消遣",
+                    "note": "en underholdning"
+                },
+                {
+                    "da": "oplysning",
+                    "zh": "知识启迪；教化；提供信息",
+                    "note": "文化政策语境中可以涉及公共启蒙"
+                },
+                {
+                    "da": "måle",
+                    "zh": "测量；衡量",
+                    "note": "`måle – målte – målt`；被动形式 `måles`"
+                }
+            ],
+            "nuance": "这一句把文化资助争论提升到艺术价值观层面。娱乐、知识启迪、美感和不可量化的体验，代表不同的评价标准。`netop ikke` 非常重要：作者特意提出一种与经济指标或可测量成果相对立的理解，即艺术价值可能恰恰在于不能完全用数字表达的体验。整句不是替艺术下唯一的定义，而是展示争论为何难以简单解决。",
+            "transfer": [
+                "Diskussionen handler om, hvad kunst egentlig er til for.",
+                "Nogle værdier kan ikke måles i penge.",
+                "Kultur handler ikke kun om underholdning, men også om oplysning og skønhed."
+            ],
+            "pitfall": "`være til for` 是为了什么而存在，不等于 `være til` 存在或可用。`oplysning` 在这里不只是某条信息，还可指知识传播和启蒙。`skal kunne måles` 不能机械译成将来能测量，必须考虑情态动词的义务与能力关系。"
+        },
+        {
+            "id": "U25-C027",
+            "zh": "五位女士和一位男士每个月聚一次，一起讨论一本大家都已经读过的书——或者说，至少是大家本来应该已经读完的书。",
+            "grammar": "主语 `Fem kvinder og en enkelt mand` 后接相互性动词 `mødes`，表示聚会。`en gang om måneden` 是频率状语。`for at tale om` 表示聚会目的。`en bog, de alle har læst` 是省略宾语关系代词的关系从句。破折号后的 `eller i hvert fald burde have læst` 省略了重复的主语和宾语；`burde have læst` 是情态动词加完成不定式，表示按照预期过去本应该完成的阅读。",
+            "vocabulary": [
+                {
+                    "da": "en læsekreds",
+                    "zh": "读书会；阅读小组",
+                    "note": "通常成员共同读书并定期讨论"
+                },
+                {
+                    "da": "mødes",
+                    "zh": "见面；聚会",
+                    "note": "相互性动词，可表示定期相聚"
+                },
+                {
+                    "da": "en gang om måneden",
+                    "zh": "每月一次",
+                    "note": "频率表达"
+                },
+                {
+                    "da": "en enkelt",
+                    "zh": "仅有的一位；单独一个",
+                    "note": "强调人数少"
+                },
+                {
+                    "da": "burde have læst",
+                    "zh": "本来应该已经读过",
+                    "note": "常带有任务尚未完成的暗示"
+                }
+            ],
+            "nuance": "作者用轻松幽默的方式介绍读书会。`Fem kvinder og en enkelt mand` 强调男女比例的鲜明对比；`eller i hvert fald burde have læst` 则暗示成员未必都认真完成了阅读任务。这种善意的自嘲让读书会显得更贴近日常生活，也为接下来成员各执己见的讨论作准备。",
+            "transfer": [
+                "Vi mødes en gang om måneden for at tale om en bog.",
+                "Alle burde have læst bogen inden mødet.",
+                "Jeg er med i en læsekreds, der mødes hver måned."
+            ],
+            "pitfall": "`en gang om måneden` 是每月一次，`om en måned` 是一个月以后。`burde have læst` 表示本应已经读完，不等于现在应该开始读。"
+        },
+        {
+            "id": "U25-C028",
+            "zh": "这次大家读的是一部小说，讲述一位年轻女子在父亲去世后，回到一座小岛上的故乡。",
+            "grammar": "主句 `Denne gang er det en roman om …` 以时间状语 `Denne gang` 开头，后面采用 `er det` 的 V2 语序。`en ung kvinde, der vender hjem …` 包含关系从句，描述小说人物的经历。`vende hjem` 表示返回自己的家乡或原来的生活地点。`efter sin fars død` 中，`sin` 回指关系从句主语 `en ung kvinde`，`fars` 是 `far` 的所有格。",
+            "vocabulary": [
+                {
+                    "da": "en roman",
+                    "zh": "长篇小说",
+                    "note": "复数 `romaner`"
+                },
+                {
+                    "da": "vende hjem",
+                    "zh": "回家；返回故乡",
+                    "note": "带有回到原来所属地方的意味"
+                },
+                {
+                    "da": "en ø",
+                    "zh": "岛屿",
+                    "note": "复数 `øer`"
+                },
+                {
+                    "da": "efter sin fars død",
+                    "zh": "在父亲去世以后",
+                    "note": "`død` 在此为名词，表示死亡"
+                }
+            ],
+            "nuance": "这句用人物、地点和触发事件三个要素介绍小说情节。`vender hjem` 比普通的 `rejser til` 更有情感色彩，意味着回到与自己身世或记忆相关的地方。父亲去世之后返乡，也为后面关于亲情、回忆与家庭关系的阅读争论提供主题背景。",
+            "transfer": [
+                "Romanen handler om en kvinde, der vender hjem efter mange år.",
+                "Hun rejser tilbage til øen efter sin fars død.",
+                "Historien foregår på en lille ø."
+            ],
+            "pitfall": "`vende hjem` 表示返回故乡或家，不只是转身。`sin fars` 回指小说中的年轻女子；不能理解为读书会成员的父亲。"
+        },
+        {
+            "id": "U25-C029",
+            "zh": "好，那么谁先来说说？",
+            "grammar": "`Nå` 在这里是话语组织词，用来开启讨论或推进话题。`hvem vil begynde?` 是疑问词作主语的直接疑问句，`hvem` 后直接接限定动词 `vil`。`begynde` 在语境中省略具体内容，表示开始发言。",
+            "vocabulary": [
+                {
+                    "da": "nå",
+                    "zh": "好；那么；来吧",
+                    "note": "用于开始或推进对话"
+                },
+                {
+                    "da": "begynde",
+                    "zh": "开始",
+                    "note": "`Hvem vil begynde?` 谁先开始？"
+                }
+            ],
+            "nuance": "Mette 扮演了读书会讨论引导者的角色。`Nå` 听起来轻松自然，不像正式会议中宣布议程那样严肃。这个问题既明确邀请成员发言，又没有点名强迫任何人先说。",
+            "transfer": [
+                "Nå, hvem vil begynde?",
+                "Er der nogen, der har lyst til at starte?"
+            ],
+            "pitfall": "`nå` 在这里不是动词 `nå` 达到或赶上的意思，而是口语话语标记。"
+        },
+        {
+            "id": "U25-C030",
+            "zh": "我可以先说。我特别喜欢这本书，简直爱不释手。",
+            "grammar": "第一句 `Det kan jeg godt` 中，`Det` 指前文的先开始发言，宾语前置后采用 `kan jeg` 的 V2 倒装。`godt` 强化愿意或能够做到的肯定。第二句 `Jeg var vild med den` 使用固定表达 `være vild med`，表示非常喜欢。第三句 `Jeg kunne slet ikke lægge den fra mig` 使用 `kunne ikke` 表示不能，`slet` 强化否定，`lægge noget fra sig` 在阅读语境中表示把书放下。",
+            "vocabulary": [
+                {
+                    "da": "Det kan jeg godt",
+                    "zh": "我可以；我来吧",
+                    "note": "自然地自愿承担某事"
+                },
+                {
+                    "da": "være vild med",
+                    "zh": "非常喜欢；迷上",
+                    "note": "非正式、热情的评价"
+                },
+                {
+                    "da": "slet ikke",
+                    "zh": "完全不；根本不",
+                    "note": "比单独的 `ikke` 否定更强"
+                },
+                {
+                    "da": "lægge en bog fra sig",
+                    "zh": "把书放下",
+                    "note": "否定句中常引申为读得停不下来"
+                }
+            ],
+            "nuance": "Jens 一开始就表明强烈的喜爱。`Jeg var vild med den` 比 `Jeg kunne godt lide den` 热情得多；`Jeg kunne slet ikke lægge den fra mig` 则用阅读体验进一步证明这种喜爱。作者通过这种极为积极的评价，为下一位成员截然不同的反应制造对比。",
+            "transfer": [
+                "Jeg var helt vild med romanen.",
+                "Jeg kunne slet ikke lægge bogen fra mig.",
+                "Det kan jeg godt. Jeg vil gerne begynde."
+            ],
+            "pitfall": "`være vild med` 是特别喜欢，不是变得疯狂。`lægge den fra mig` 里的 `den` 指书；不要把这句话只理解为物理上拿着书不放。"
+        },
+        {
+            "id": "U25-C031",
+            "zh": "真的吗？我倒觉得前半本书节奏慢得要命。前一百页根本就没发生什么事嘛。",
+            "grammar": "第一句 `Virkelig?` 是表达惊讶的独立问句。第二句 `Jeg syntes, at …` 使用过去时评价阅读体验，`frygtelig` 作程度副词，修饰 `langsom`。第三句使用存在或事件发生结构 `Der sker …`，`jo` 强调说话人认为这一点很明显。`de første hundrede sider` 是表示作品范围的数量时间类状语，说明前一百页的叙事情况。",
+            "vocabulary": [
+                {
+                    "da": "virkelig",
+                    "zh": "真的；真的吗",
+                    "note": "独立使用可表示惊讶或质疑"
+                },
+                {
+                    "da": "den første halvdel",
+                    "zh": "前半部分",
+                    "note": "`en halvdel` 一半"
+                },
+                {
+                    "da": "frygtelig",
+                    "zh": "极其；糟糕地",
+                    "note": "这里作程度加强，带明显负面评价"
+                },
+                {
+                    "da": "langsom",
+                    "zh": "缓慢的；节奏慢的",
+                    "note": "可用于电影、小说和工作进度"
+                },
+                {
+                    "da": "der sker ikke noget",
+                    "zh": "没什么事情发生",
+                    "note": "口语中常用于批评剧情缺少事件发展"
+                }
+            ],
+            "nuance": "Hanne 的 `Virkelig?` 直接表现她与 Jens 的感受完全不同。`frygtelig langsom` 是强烈的负面评价，而 `Der sker jo ikke noget` 中的 `jo` 暗示她认为自己的判断几乎不言自明。她批评的是小说前半部分的事件推进速度，不一定意味着她完全否定其文学价值。",
+            "transfer": [
+                "Jeg syntes, at den første halvdel var alt for langsom.",
+                "Der sker jo næsten ikke noget i begyndelsen.",
+                "Historien kommer først rigtig i gang senere."
+            ],
+            "pitfall": "`frygtelig` 在这里是很、极其，不表示故事真的恐怖。`der sker ikke noget` 描述缺少事件发展，不等于小说完全没有心理描写或细节。"
+        },
+        {
+            "id": "U25-C032",
+            "zh": "可是作者就是故意这样写的呀。读者得亲身体会到，冬天在那样一座小岛上究竟有多么寂静。",
+            "grammar": "第一句 `det er netop meningen` 是判断句，`netop` 强调这恰恰是创作目的。第二句 `Man skal mærke` 中，`skal` 表示作者希望读者获得的体验或应有的阅读方式。`hvor stille der er på sådan en ø om vinteren` 是间接程度疑问从句，`hvor stille` 表示寂静到什么程度，`der er` 使用存在结构。`sådan en ø` 表示那样的一座岛。",
+            "vocabulary": [
+                {
+                    "da": "det er meningen",
+                    "zh": "这本来就是目的；这是有意安排的",
+                    "note": "常用于解释某种设计或做法"
+                },
+                {
+                    "da": "netop",
+                    "zh": "恰恰；正是",
+                    "note": "用于强调核心原因或区别"
+                },
+                {
+                    "da": "mærke",
+                    "zh": "感觉到；体会到",
+                    "note": "不仅是观察，还包含亲身感受"
+                },
+                {
+                    "da": "stille",
+                    "zh": "安静的；寂静的",
+                    "note": "可修饰场所或氛围"
+                },
+                {
+                    "da": "sådan en",
+                    "zh": "这样一位；那样一个",
+                    "note": "修饰通性名词；中性形式为 `sådan et`"
+                }
+            ],
+            "nuance": "Jens 的反驳代表一种不同的文学阅读标准：情节发展缓慢可能是为了让读者体验特定环境和情绪，而不是作者能力不足。`netop` 把 Hanne 认为的缺点重新解释为作者有意采用的艺术手法。`mærke, hvor stille …` 强调文学能够创造身临其境的体验，评价标准不必只有事件密度。",
+            "transfer": [
+                "Det er netop meningen, at tempoet skal være langsomt.",
+                "Man skal mærke, hvor ensomt stedet er.",
+                "Forfatteren bruger stilheden til at skabe en bestemt stemning."
+            ],
+            "pitfall": "`det er meningen` 表示这是本意，不是这就是句子的意思。`mærke` 在这里是体验、感受，与 `bemærke` 注意到有所不同。"
+        },
+        {
+            "id": "U25-C033",
+            "zh": "我倒是挺喜欢叙述者的。她很坦诚，甚至直言自己其实并不怎么想念父亲。",
+            "grammar": "第一句 `Jeg kunne godt lide fortælleren` 使用过去时评价已读小说。`kunne godt lide` 在这里是表达喜欢，而不是过去具备喜欢的能力。第二句 `Hun er så ærlig om, at …` 使用 `være ærlig om`，后接内容从句。`hun ikke rigtig savner sin far` 是从句语序，`ikke rigtig` 表示并不真正或不太，`sin far` 回指小说中的女性叙述者。",
+            "vocabulary": [
+                {
+                    "da": "en fortæller",
+                    "zh": "叙述者；讲述者",
+                    "note": "文学分析中指叙述故事的声音或人物"
+                },
+                {
+                    "da": "kunne godt lide",
+                    "zh": "喜欢",
+                    "note": "过去时形式；与现在时 `kan godt lide` 对应"
+                },
+                {
+                    "da": "være ærlig om",
+                    "zh": "坦诚谈及；不隐瞒",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "savne",
+                    "zh": "想念；怀念",
+                    "note": "`savne nogen` 直接接宾语"
+                },
+                {
+                    "da": "ikke rigtig",
+                    "zh": "不太；并不真正",
+                    "note": "使否定带有程度上的细微差别"
+                }
+            ],
+            "nuance": "Mette 的阅读重点与前两位不同。她不首先评价剧情节奏，而是欣赏叙述者对复杂情感的诚实。父亲去世后不一定深切怀念他，这是一种可能令人不舒服、却具有心理真实性的表达。`ikke rigtig savner` 比完全否认任何情感联系更微妙，给人物内心留下复杂空间。",
+            "transfer": [
+                "Jeg kunne godt lide fortælleren, fordi hun var så ærlig.",
+                "Hun er ærlig om sine følelser.",
+                "Han savner faktisk ikke sin far særlig meget."
+            ],
+            "pitfall": "`fortælleren` 是叙述者，不一定完全等同于作者本人。`savne` 是想念某人，通常直接接宾语，不说 `savne efter nogen`。"
+        },
+        {
+            "id": "U25-C034",
+            "zh": "是啊，主人公还算可以吧。可那结尾！为什么所有问题非得在最后一章里全都解决掉呢？",
+            "grammar": "第一句 `hovedpersonen er fin nok` 使用 `fin nok` 表达尚可、可以接受的评价。`Men afslutningen!` 是省略式感叹，通过突然转换话题表达强烈不满。最后 `Hvorfor skal det hele løses i det sidste kapitel?` 是疑问词引导的直接疑问句，`skal` 表示必要性，`løses` 是 s-被动不定式。`det hele` 表示全部问题或整个故事中的悬念。",
+            "vocabulary": [
+                {
+                    "da": "en hovedperson",
+                    "zh": "主人公；主角",
+                    "note": "文学、电影和戏剧分析中的常用词"
+                },
+                {
+                    "da": "fin nok",
+                    "zh": "还行；尚可；算不错",
+                    "note": "常是一种克制甚至略带保留的评价"
+                },
+                {
+                    "da": "en afslutning",
+                    "zh": "结尾；结束部分",
+                    "note": "与 `en begyndelse` 开头相对"
+                },
+                {
+                    "da": "løse",
+                    "zh": "解决",
+                    "note": "`løse et problem` 解决问题；被动形式 `løses`"
+                },
+                {
+                    "da": "det sidste kapitel",
+                    "zh": "最后一章",
+                    "note": "`et kapitel` 章节"
+                }
+            ],
+            "nuance": "Hanne 先给出最低限度的认可，接着把不满集中到小说结尾。`fin nok` 不是热烈称赞，更接近还可以吧。`Men afslutningen!` 通过省略完整句子制造强烈情绪；最后的疑问句带有反问性质，表达她对结尾安排的不理解或不满。值得注意的是，她似乎认为故事在最后一章处理得过于彻底，而 Jens 下一句将反驳这一判断。",
+            "transfer": [
+                "Hovedpersonen er fin nok, men afslutningen skuffer mig.",
+                "Hvorfor skal alle problemer løses til sidst?",
+                "Jeg synes, slutningen var for nem."
+            ],
+            "pitfall": "`fin nok` 经常暗示只是勉强可以，不宜一律译成非常好。`løses` 是被动形式，区别于 `løser` 主动解决。"
+        },
+        {
+            "id": "U25-C035",
+            "zh": "哪有全解决！我们始终都不知道，她烧掉的那些日记里到底写了什么。",
+            "grammar": "第一句 `Det bliver da ikke løst` 使用 `blive + s-被动不定式` 的被动结构，`da` 加强反驳语气。第二句 `Vi får aldrig at vide` 是固定表达 `få at vide`，表示得知某事。后接间接疑问从句 `hvad der stod i de dagbøger`，说明日记中写了什么。`hun brændte` 是省略宾语关系代词的关系从句，修饰 `de dagbøger`。",
+            "vocabulary": [
+                {
+                    "da": "Det bliver ikke løst",
+                    "zh": "问题没有得到解决",
+                    "note": "被动结构"
+                },
+                {
+                    "da": "da",
+                    "zh": "哪里是；明明不是",
+                    "note": "这里加强否定和反驳"
+                },
+                {
+                    "da": "få at vide",
+                    "zh": "得知；被告知",
+                    "note": "固定表达；`få at vide, at …`"
+                },
+                {
+                    "da": "en dagbog",
+                    "zh": "日记",
+                    "note": "复数 `dagbøger`"
+                },
+                {
+                    "da": "brænde",
+                    "zh": "燃烧；烧毁",
+                    "note": "此处表示人物把日记烧掉"
+                }
+            ],
+            "nuance": "Jens 直接反驳 Hanne 对结尾的理解。`da` 体现一种你说的不对呀的语气，既可以带有惊讶，也可以加强观点。日记内容始终没有揭晓，是他用来证明小说仍然保留悬念的具体证据。`får aldrig at vide` 强调读者最终无法获得这些信息，而不仅是某个人暂时没有注意到。",
+            "transfer": [
+                "Det bliver da ikke løst til sidst.",
+                "Vi får aldrig at vide, hvad der skete.",
+                "Forfatteren afslører ikke, hvad der stod i dagbogen."
+            ],
+            "pitfall": "`få at vide` 必须整体记忆，不能理解成得到去知道。`stå i en dagbog` 表示写在日记中，不是某个人站在日记里面。这里的 `da` 是语气词，不是表示当时的时间连词。"
+        },
+        {
+            "id": "U25-C036",
+            "zh": "这下问题就清楚了。Jens 喜欢开放式结局，而 Hanne 则希望得到明确答案。",
+            "grammar": "第一句 `Der har vi det` 是固定口语表达，表示问题的关键终于找到了。第二句由两个并列主句构成，`Jens elsker åbne slutninger` 与 `Hanne vil have svar` 形成鲜明对比。`vil have` 表示希望获得或要求某种东西，在这里指明确的剧情解释。",
+            "vocabulary": [
+                {
+                    "da": "Der har vi det",
+                    "zh": "原来问题就在这里；这下找到关键了",
+                    "note": "用于发现争论真正分歧"
+                },
+                {
+                    "da": "en åben slutning",
+                    "zh": "开放式结局",
+                    "note": "复数 `åbne slutninger`"
+                },
+                {
+                    "da": "ville have svar",
+                    "zh": "想要得到答案；要求明确解释",
+                    "note": "现在时为 `vil have svar`"
+                },
+                {
+                    "da": "elske",
+                    "zh": "非常喜欢；热爱",
+                    "note": "可以用于艺术作品和风格偏好"
+                }
+            ],
+            "nuance": "Mette 终于总结出 Jens 和 Hanne 争论的真正根源：两个人对好结局的标准不同。Jens 重视开放性和想象空间，Hanne 则期待问题得到回答。`Der har vi det` 具有顿悟和调和争论的效果，像中文的这下我明白了。作者通过这句话展示读书会的价值之一，就是发现阅读偏好背后的不同标准。",
+            "transfer": [
+                "Der har vi det. Vi forventer forskellige ting af en roman.",
+                "Jeg elsker åbne slutninger.",
+                "Hun foretrækker historier, der giver klare svar."
+            ],
+            "pitfall": "`Der har vi det` 不是我们在那里拥有它，而是找到问题所在的固定口语表达。`en åben slutning` 是开放式结局，不是尚未写完的文章。"
+        },
+        {
+            "id": "U25-C037",
+            "zh": "我只是希望作者能对自己讲的这个故事负起责任来。",
+            "grammar": "主干 `Jeg vil bare gerne have` 表示说话人的愿望或要求，`bare` 起缓和语气的作用。后面的 `at forfatteren tager ansvar for sin historie` 是内容从句，表示希望作者承担的行为。`tage ansvar for` 是固定搭配；`sin historie` 中的反身物主代词 `sin` 回指从句主语 `forfatteren`。",
+            "vocabulary": [
+                {
+                    "da": "vil gerne have, at …",
+                    "zh": "希望……；想让……",
+                    "note": "后接内容从句"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是；不过",
+                    "note": "这里用于缓和并强调要求并不过分"
+                },
+                {
+                    "da": "tage ansvar for",
+                    "zh": "对……负责；承担责任",
+                    "note": "工作、政治、伦理和文化评论中常用"
+                },
+                {
+                    "da": "en historie",
+                    "zh": "故事；叙事",
+                    "note": "这里指作者创作的小说故事"
+                }
+            ],
+            "nuance": "Hanne 用 `bare` 将自己的要求表现得很合理：她并非一定要求所有小说都遵循某种固定模式，而是认为作者应该对自己设置的悬念和叙事安排负责。不过，`tage ansvar for sin historie` 本身仍然是值得讨论的审美判断，因为其他读者可能认为保留悬念恰恰是负责任的创作选择。这里体现了她的个人文学观，而不是一条客观的写作规则。",
+            "transfer": [
+                "Jeg vil bare gerne have, at forfatteren giver os en ordentlig afslutning.",
+                "En forfatter må tage ansvar for sin historie.",
+                "Jeg forventer, at historien hænger sammen."
+            ],
+            "pitfall": "`tage ansvar for` 的介词是 `for`，不能换成 `til`。`sin historie` 回指从句中的作者，而不是主句说话人 Hanne。"
+        },
+        {
+            "id": "U25-C038",
+            "zh": "对有些人来说，读书会最重要的是书本身；对另一些人来说，更重要的则是读完之后的咖啡、葡萄酒和闲聊。许多读书会之所以能够持续多年，恰恰是因为成员们很少意见完全一致。",
+            "grammar": "句首两次使用平行结构 `For nogle er …` 和 `for andre er …`，通过 `for` 表示不同人群的评价角度；两部分均因状语前置而采用 V2 倒装。`det vigtigste` 是形容词最高级名词化，表示最重要的事情。后半句 `mange læsekredse holder i årevis` 中，`holde` 表示组织或活动持续存在，而非举办一次会议。`netop fordi` 引出强调性的原因从句，`medlemmerne sjældent er enige` 使用从句语序。",
+            "vocabulary": [
+                {
+                    "da": "For nogle … for andre …",
+                    "zh": "对一些人而言……对另一些人而言……",
+                    "note": "比较不同人群看法的高频论述结构"
+                },
+                {
+                    "da": "snakken bagefter",
+                    "zh": "之后的闲聊；会后的聊天",
+                    "note": "`en snak` 比 `en samtale` 更口语、轻松"
+                },
+                {
+                    "da": "holde i årevis",
+                    "zh": "持续许多年",
+                    "note": "`holde` 在这里表示维持、持续"
+                },
+                {
+                    "da": "netop fordi",
+                    "zh": "恰恰因为；正是由于",
+                    "note": "强调某个原因的重要性"
+                },
+                {
+                    "da": "være enig",
+                    "zh": "意见一致；赞同",
+                    "note": "`være enig med nogen` 同意某人；`være enige om noget` 就某事达成一致"
+                }
+            ],
+            "nuance": "这是全篇很有生活气息的结尾。作者没有将读书会理想化为所有人认真讨论文学的正式活动，而是承认社交、咖啡、葡萄酒和会后聊天同样重要。最后的 `netop fordi medlemmerne sjældent er enige` 带有巧妙的反转：分歧非但不一定破坏读书会，反而可能让讨论更丰富、更有趣。这里也呼应了前面关于艺术评价没有唯一答案的主题。",
+            "transfer": [
+                "For nogle er bogen det vigtigste, for andre er det fællesskabet.",
+                "Vores læsekreds har holdt i årevis.",
+                "Diskussionerne er interessante, netop fordi vi sjældent er enige."
+            ],
+            "pitfall": "`holde i årevis` 表示持续多年，不是每年举行一次。`for nogle` 是对一些人而言，不是为了某些人。`være enige` 强调意见一致，与 `være enige om noget` 的具体议题搭配应注意区分。"
+        }
+    ]
+}

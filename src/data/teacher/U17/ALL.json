@@ -1,0 +1,1509 @@
+{
+    "schema_version": 1,
+    "unit": "U17",
+    "part": "ALL",
+    "source_fingerprint": "U17-ALL-e40c40820c8b",
+    "sentences": [
+        {
+            "id": "U17-C001",
+            "zh": "想象这样一个人：她读过的东西之多，是任何人类一辈子都不可能读完的；可她却从未踏出过图书馆半步。",
+            "grammar": "主干是祈使结构 `Forestil dig en`，其中 `en` 是名词化的不定代词，表示某个人。后面由 `der har læst …` 和 `men som aldrig har …` 两个并列关系从句描述此人。`mere, end noget menneske nogensinde ville kunne nå` 是比较结构，`nå` 后省略了由前文恢复的 `at læse`。`ville kunne` 表示假设条件下的可能能力。`har sat sine ben` 是现在完成时，强调直到现在从未有过这种经历。",
+            "vocabulary": [
+                {
+                    "da": "forestille sig noget",
+                    "zh": "想象某事；设想某种情况",
+                    "note": "反身动词；`Forestil dig, at …` 是常用的引导式开场"
+                },
+                {
+                    "da": "belæst",
+                    "zh": "博览群书的；学识广博的",
+                    "note": "标题中的 `den belæste` 是形容词名词化"
+                },
+                {
+                    "da": "nogensinde",
+                    "zh": "曾经；在任何时候",
+                    "note": "与比较级、否定或最高级搭配时常扩大时间范围"
+                },
+                {
+                    "da": "nå at gøre noget",
+                    "zh": "来得及做某事；有时间完成某事",
+                    "note": "`nå – nåede – nået`"
+                },
+                {
+                    "da": "sætte sine ben et sted",
+                    "zh": "踏足某个地方",
+                    "note": "常见于否定表达，如 `aldrig sætte sine ben der igen`"
+                }
+            ],
+            "nuance": "作者没有直接给出人工智能的技术定义，而是建立一个拟人化的思想实验。一个人阅读量惊人，却从未走出图书馆，这种强烈对比暗示语言知识与实际生活经验之间的距离。`aldrig har sat sine ben` 比简单的 `aldrig har været` 更形象，带有文学化的叙述色彩。后文使用女性代词 `hun` 是对这一虚构人物的延续，并非对模型性别或意识的判断。",
+            "transfer": [
+                "Forestil dig en person, der ved meget om X, men aldrig har oplevet Y.",
+                "Jeg har aldrig sat mine ben der.",
+                "Det er mere, end noget menneske ville kunne nå på et år."
+            ],
+            "pitfall": "`forestille sig` 必须有与主语对应的反身代词。`nå at læse` 表示有时间读完，不能只按到达理解。`sætte sine ben` 是踏足，不是把双腿放到某处。"
+        },
+        {
+            "id": "U17-C002",
+            "zh": "如果你向她提出一个问题，她就会根据自己读过的全部内容，逐词猜测接下来最有可能出现什么，从而生成回答。",
+            "grammar": "句首 `Stiller du hende et spørgsmål` 是省略 `hvis` 的条件倒装，相当于 `Hvis du stiller hende et spørgsmål`。条件从句占据首位，因此主句采用 `svarer hun` 的 V2 倒装。`ved at gætte` 表示回答的方式。`hvad der mest sandsynligt kommer næste gang` 是间接疑问从句，`hvad` 在这里充当所预测内容的疑问成分，`der` 出现在主语疑问结构中。`ud fra alt det, hun har læst` 表示依据，其中包含省略关系代词的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "stille nogen et spørgsmål",
+                    "zh": "向某人提出问题",
+                    "note": "双宾语结构；也可说 `stille et spørgsmål til nogen`"
+                },
+                {
+                    "da": "gætte",
+                    "zh": "猜测；推测",
+                    "note": "`gætte på noget` 猜测某事"
+                },
+                {
+                    "da": "ord for ord",
+                    "zh": "逐词地；一个词接一个词地",
+                    "note": "也可表示逐字逐句地"
+                },
+                {
+                    "da": "mest sandsynligt",
+                    "zh": "最有可能地",
+                    "note": "`sandsynlig` 可能的；`sandsynlighed` 概率"
+                },
+                {
+                    "da": "ud fra noget",
+                    "zh": "根据；基于；从……出发",
+                    "note": "研究、分析和推理中很实用"
+                }
+            ],
+            "nuance": "作者使用 `gætte` 来解释语言模型的生成机制，故意选用普通读者能够理解的词，而不是复杂的技术术语。`ord for ord` 强调输出逐步形成，`ud fra` 强调生成过程依赖已有信息。这是一种教学类比：实际语言模型通常处理 token，且现代模型的能力不能全部简化为人类意义上的猜词。",
+            "transfer": [
+                "Stiller man modellen et spørgsmål, får man et svar.",
+                "Svaret er baseret på de oplysninger, vi har.",
+                "Ud fra resultaterne kan vi vurdere, hvad der mest sandsynligt vil ske."
+            ],
+            "pitfall": "记住双重倒装：`Stiller du …, svarer hun …`。`ud fra` 表示依据，不是从物体里面出来。`sandsynligt` 表示概率较高，不意味着事实已经得到验证。"
+        },
+        {
+            "id": "U17-C003",
+            "zh": "她猜得如此准确，以至于给出的答案往往既精准、表达又流畅得体，而且确实有用。",
+            "grammar": "主干是 `Hun gætter så godt`，后接由 `at` 引导的结果从句。`så + 形容词或副词 + at` 表示如此……以至于……。`præcise`、`velformulerede` 和 `nyttige` 三个并列形容词作表语，均采用复数形式，与 `svarene` 一致。`ofte` 表示经常，但不是每一次。",
+            "vocabulary": [
+                {
+                    "da": "så … at …",
+                    "zh": "如此……以至于……",
+                    "note": "表示程度与结果"
+                },
+                {
+                    "da": "præcis",
+                    "zh": "准确的；精确的",
+                    "note": "`et præcist svar` 一个准确的回答"
+                },
+                {
+                    "da": "velformuleret",
+                    "zh": "措辞得当的；表达流畅的",
+                    "note": "适合评价文章、回答和论证"
+                },
+                {
+                    "da": "nyttig",
+                    "zh": "有用的；具有实际价值的",
+                    "note": "与 `brugbar` 意义相近，但不完全相同"
+                }
+            ],
+            "nuance": "这句承认语言模型的实际能力，是对前面猜测类比的必要补充。`så godt, at …` 把预测能力与输出质量联系起来。作者使用三个正面形容词，从准确性、语言质量和实用性评价回答，为后面说明局限建立平衡的论述基础。",
+            "transfer": [
+                "Hun forklarer det så godt, at alle kan forstå det.",
+                "Svaret er både præcist og velformuleret.",
+                "Værktøjet giver ofte nyttige resultater."
+            ],
+            "pitfall": "`velformuleret` 表示表达良好，不等于内容必然正确。`så … at …` 表示程度导致的结果，不应与表示目的的 `for at` 混淆。"
+        },
+        {
+            "id": "U17-C004",
+            "zh": "大体上说，这就是语言模型所做的事情。",
+            "grammar": "主干为 `Det er … hvad en sprogmodel gør`，`hvad en sprogmodel gør` 是名词性间接疑问结构，说明前面的类比所对应的活动。`i grove træk` 是插入式程度限定语，表示只说明大概轮廓而非完整机制。",
+            "vocabulary": [
+                {
+                    "da": "i grove træk",
+                    "zh": "大体上；粗略地说",
+                    "note": "解释复杂问题时常用的限定表达"
+                },
+                {
+                    "da": "en sprogmodel",
+                    "zh": "语言模型",
+                    "note": "复数 `sprogmodeller`"
+                },
+                {
+                    "da": "gøre",
+                    "zh": "做；执行",
+                    "note": "这里指系统执行的功能"
+                }
+            ],
+            "nuance": "`i grove træk` 是本句最重要的表达。作者明确承认刚才的图书馆故事只是一种概括，不是严格的技术定义。这种限定非常适合科学传播：先给出易懂的解释，同时不把教学比喻包装成完整事实。",
+            "transfer": [
+                "Det er i grove træk, hvordan systemet fungerer.",
+                "Jeg vil forklare idéen i grove træk.",
+                "I grove træk handler projektet om X."
+            ],
+            "pitfall": "`grove` 在这里不表示粗鲁，而表示粗略的。`i grove træk` 应整体记忆，不要直译为在粗糙的笔画中。"
+        },
+        {
+            "id": "U17-C005",
+            "zh": "她自己并不知道什么时候猜错了；而且即使说错，她听起来也和说对时一样自信满满。",
+            "grammar": "第一分句 `Hun ved ikke selv` 后接间接时间疑问从句 `hvornår hun gætter forkert`，使用从句语序。第二分句采用 `lige så + 形容词 + som` 的同等比较结构。`når hun tager fejl` 与 `når hun har ret` 两个时间条件从句形成明确对照。`lyde sikker` 是系动词加形容词结构，表示听起来有把握。",
+            "vocabulary": [
+                {
+                    "da": "gætte forkert",
+                    "zh": "猜错",
+                    "note": "与 `gætte rigtigt` 猜对相对"
+                },
+                {
+                    "da": "tage fejl",
+                    "zh": "犯错；弄错",
+                    "note": "固定搭配；`Jeg tog fejl` 我弄错了"
+                },
+                {
+                    "da": "have ret",
+                    "zh": "说得对；判断正确",
+                    "note": "与 `tage fejl` 构成对照"
+                },
+                {
+                    "da": "lyde sikker",
+                    "zh": "听起来很有把握",
+                    "note": "`lyde` 描述给听者留下的印象"
+                },
+                {
+                    "da": "lige så … som …",
+                    "zh": "和……一样……",
+                    "note": "同等程度比较结构"
+                }
+            ],
+            "nuance": "作者强调输出语气与事实正确性之间可能存在脱节。`lyder` 特别精确：说的是语言表面给人的自信印象，而不必然是模型真实拥有主观确信。前面的 `ved ikke selv` 也属于拟人化解释，不能直接当作关于人工智能意识的哲学结论。",
+            "transfer": [
+                "Han lyder lige så sikker, når han tager fejl, som når han har ret.",
+                "Jeg er ikke sikker på, om svaret er korrekt.",
+                "Det er vigtigt at kunne indrømme, når man tager fejl."
+            ],
+            "pitfall": "`tage fejl` 是犯错，`have ret` 是正确，不要用 `være ret` 表达我说得对。`sikker` 可以表示安全或有把握，本句是后者。"
+        },
+        {
+            "id": "U17-C006",
+            "zh": "如果她曾多次读到同一种说法，她就更倾向于重复这个说法——即使它实际上并不是真的。",
+            "grammar": "句首 `Har hun læst en påstand mange gange` 是省略 `hvis` 的条件倒装。整个条件从句位于主句之前，后面采用 `er der` 的 V2 语序。`der er en tendens til, at …` 是描述规律或倾向的固定句型。破折号后的 `også hvis den ikke er sand` 是让步性条件补充，强调真实性并不必然改变这种倾向。",
+            "vocabulary": [
+                {
+                    "da": "en påstand",
+                    "zh": "说法；断言；主张",
+                    "note": "不表示该说法已经得到证实"
+                },
+                {
+                    "da": "en tendens til",
+                    "zh": "……的倾向",
+                    "note": "`have en tendens til at gøre noget` 倾向于做某事"
+                },
+                {
+                    "da": "gentage",
+                    "zh": "重复",
+                    "note": "`gentage en påstand` 重复某种说法"
+                },
+                {
+                    "da": "sand",
+                    "zh": "真实的；符合事实的",
+                    "note": "与 `falsk` 虚假的相对"
+                },
+                {
+                    "da": "også hvis",
+                    "zh": "即使在……情况下也",
+                    "note": "表示即使条件不理想，结果仍可能发生"
+                }
+            ],
+            "nuance": "这一句提醒读者，信息反复出现不等于信息可靠。`en tendens til` 保留统计倾向的语气，没有断言每个被重复的说法都会被模型接受。作者利用这一特点说明语言模型可能重复训练材料中的错误或偏见，而非自动完成真实性审查。",
+            "transfer": [
+                "Har man hørt en påstand mange gange, kan man begynde at tro på den.",
+                "Der er en tendens til, at fejl bliver gentaget.",
+                "Noget bliver ikke sandt, bare fordi det bliver gentaget."
+            ],
+            "pitfall": "`Har hun læst …` 是条件句而非问句。`påstand` 是断言，不等于事实。`sand` 指真实，不是英语 sand 所表示的沙子。"
+        },
+        {
+            "id": "U17-C007",
+            "zh": "而如果你问她的是一件发生在她停止阅读之后的事，她就只能承认自己不知道，或者继续猜测。",
+            "grammar": "主句之前是条件倒装 `spørger man om noget`。`der er sket` 是修饰 `noget` 的关系从句；其中嵌套 `efter at hun holdt op med at læse` 时间从句。`holde op med at + 不定式` 表示停止做某事。主句 `må hun enten indrømme … eller gætte` 使用 `må` 表示在所设情境下不得不作出选择，`enten … eller …` 连接两个并列选项。",
+            "vocabulary": [
+                {
+                    "da": "holde op med at",
+                    "zh": "停止做某事",
+                    "note": "固定搭配；不可省略 `med`"
+                },
+                {
+                    "da": "indrømme",
+                    "zh": "承认",
+                    "note": "`indrømme, at …` 承认某事"
+                },
+                {
+                    "da": "enten … eller …",
+                    "zh": "要么……要么……",
+                    "note": "用于明确列举两种可能"
+                },
+                {
+                    "da": "være sket",
+                    "zh": "已经发生",
+                    "note": "`ske – skete – sket`"
+                }
+            ],
+            "nuance": "作者继续沿用读书人的比喻，通过停止阅读描绘知识更新的限制。这是刻意简化的模型设定，不意味着所有实际部署的语言模型都无法使用检索工具或获取新信息。`må enten … eller …` 突出在缺少新资料时的两种可能回应方式。",
+            "transfer": [
+                "Spørger man om noget nyt, må man undersøge det nærmere.",
+                "Jeg holdt op med at arbejde på projektet sidste år.",
+                "Vi må enten indrømme usikkerheden eller finde flere oplysninger."
+            ],
+            "pitfall": "`holde op med at` 表示停止，不能说成 `holde op at`。`må` 在这里主要表示受条件限制而不得不如此，不是一般的许可。"
+        },
+        {
+            "id": "U17-C008",
+            "zh": "那么，她真的理解自己说的那些话吗？",
+            "grammar": "`Mon` 引导带有揣测和思考意味的疑问句，后面采用 `hun forstår` 的主语加限定动词顺序，不采用普通是非疑问句的动词前置。`noget af det, hun siger` 是部分结构，`hun siger` 为省略关系代词的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "mon",
+                    "zh": "不知道是否；究竟会不会；莫非",
+                    "note": "常用于带有思考、猜测意味的问题"
+                },
+                {
+                    "da": "forstå",
+                    "zh": "理解；明白",
+                    "note": "`forstå – forstod – forstået`"
+                },
+                {
+                    "da": "noget af det",
+                    "zh": "其中的一部分",
+                    "note": "表示部分而非全部"
+                }
+            ],
+            "nuance": "`Mon` 使问题显得像作者邀请读者共同思考，而非要求马上给出一个事实答案。这是从技术比喻转向哲学讨论的自然过渡。问题本身保持开放，并没有预设语言模型必然理解或完全不理解。",
+            "transfer": [
+                "Mon det virkelig er så enkelt?",
+                "Mon vi nogensinde får et klart svar?",
+                "Forstår modellen egentlig, hvad den siger?"
+            ],
+            "pitfall": "`Mon` 不是普通疑问句中可以随意插入的同义词。`Mon hun forstår …?` 的语序与 `Forstår hun …?` 不同，语气也更偏思索与推测。"
+        },
+        {
+            "id": "U17-C009",
+            "zh": "对于这个问题，研究人员并没有达成一致意见；而答案在很大程度上取决于，人们究竟如何定义理解。",
+            "grammar": "第一分句将宾语性话题 `Det spørgsmål` 前置，因此采用 `er forskerne` 的 V2 倒装。`være enig om noget` 表示就某事达成一致。第二分句使用 `afhænge af`，后接间接疑问从句 `hvad man mener med at forstå`。`mene med noget` 表示某个概念究竟指什么。",
+            "vocabulary": [
+                {
+                    "da": "være enig om noget",
+                    "zh": "就某事意见一致",
+                    "note": "复数主语常用 `være enige om`"
+                },
+                {
+                    "da": "afhænge af noget",
+                    "zh": "取决于某事",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "i høj grad",
+                    "zh": "在很大程度上",
+                    "note": "正式论述中常用于限定影响程度"
+                },
+                {
+                    "da": "mene med noget",
+                    "zh": "某个词或概念的意思是",
+                    "note": "`Hvad mener du med X?` 你说的X是什么意思？"
+                }
+            ],
+            "nuance": "这一句没有试图解决人工智能是否真正理解的问题，而是指出讨论首先涉及概念定义。`i høj grad` 留有余地，说明定义很重要，但不宣称它是唯一因素。整句是讨论有争议科学和哲学问题时值得模仿的谨慎写法。",
+            "transfer": [
+                "Forskerne er ikke enige om spørgsmålet.",
+                "Svaret afhænger i høj grad af, hvordan man definerer X.",
+                "Hvad mener vi egentlig med intelligens?"
+            ],
+            "pitfall": "`være enig med nogen` 是同意某人的看法，`være enig om noget` 是就某事达成一致。`mene med` 不能随意换成 `mene om`，后者通常表示对某事有什么看法。"
+        },
+        {
+            "id": "U17-C010",
+            "zh": "说到撰写初稿、总结长篇报告、翻译电子邮件，或者用简单的语言解释复杂概念，语言模型能够为人们节省大量工作时间。",
+            "grammar": "句首 `Når det kommer til at …` 是固定的话题引入结构，后面并列四个不定式 `skrive`、`opsummere`、`oversætte` 和 `forklare`。整个话题状语位于主句之前，后面采用 `kan en sprogmodel` 的 V2 倒装。`spare nogen for noget` 表示为某人省去某种负担或工作量。",
+            "vocabulary": [
+                {
+                    "da": "når det kommer til",
+                    "zh": "说到；谈及；在……方面",
+                    "note": "可用于口语和书面论述"
+                },
+                {
+                    "da": "et første udkast",
+                    "zh": "初稿；第一版草稿",
+                    "note": "`et udkast` 草稿"
+                },
+                {
+                    "da": "opsummere",
+                    "zh": "总结；概括",
+                    "note": "`opsummere en rapport` 总结报告"
+                },
+                {
+                    "da": "et begreb",
+                    "zh": "概念",
+                    "note": "`forklare et begreb med enkle ord` 用简单语言解释概念"
+                },
+                {
+                    "da": "spare nogen for noget",
+                    "zh": "为某人省去某种工作或麻烦",
+                    "note": "区别于 `spare op` 存钱"
+                }
+            ],
+            "nuance": "作者开始从原理转向实际用途。四个例子覆盖写作、信息压缩、翻译和教学说明，都是文字密集型任务。`Når det kommer til` 非常适合介绍某个领域的优势或不足。`kan` 表示潜在能力，不意味着所有任务都能在无需审核的情况下直接交付。",
+            "transfer": [
+                "Når det kommer til at analysere data, kan AI spare os for meget arbejde.",
+                "Værktøjet hjælper med at skrive et første udkast.",
+                "Kan du forklare begrebet med enkle ord?"
+            ],
+            "pitfall": "`et udkast` 是草稿，不是正式定稿。`spare nogen for arbejde` 是节省工作量；`spare penge op` 是储蓄，搭配不同。"
+        },
+        {
+            "id": "U17-C011",
+            "zh": "它工作速度极快，从不疲倦；即使问到第十个问题，它仍然会像回答第一个问题时一样耐心。",
+            "grammar": "主语 `Den` 后接三个并列谓语 `arbejder`、`bliver`、`svarer`。`lynhurtigt` 作方式副词。`lige så tålmodigt … som …` 是同等程度比较结构，比较回答第十个问题和第一个问题时的态度。`det tiende spørgsmål` 与 `det første` 中，后一项省略重复的名词 `spørgsmål`。",
+            "vocabulary": [
+                {
+                    "da": "lynhurtigt",
+                    "zh": "飞快地；速度极快地",
+                    "note": "由 `lyn` 闪电构成，具有形象化效果"
+                },
+                {
+                    "da": "blive træt",
+                    "zh": "变累；感到疲倦",
+                    "note": "`bliver aldrig træt` 从不疲倦"
+                },
+                {
+                    "da": "tålmodig",
+                    "zh": "耐心的",
+                    "note": "副词形式 `tålmodigt`"
+                },
+                {
+                    "da": "det tiende",
+                    "zh": "第十个",
+                    "note": "序数词 `tiende`"
+                }
+            ],
+            "nuance": "这是拟人化的能力对比：模型没有人类工作中的疲劳和耐心消耗问题。`lige så tålmodigt` 描述交互表现，不意味着模型真的具有人的耐心体验。三个并列谓语构成流畅、略带赞叹的节奏。",
+            "transfer": [
+                "Systemet arbejder lynhurtigt.",
+                "Hun svarer lige så tålmodigt på det sidste spørgsmål som på det første.",
+                "Værktøjet kan bruges igen og igen."
+            ],
+            "pitfall": "`lynhurtigt` 不是发光很快，而是像闪电一样迅速。`tålmodigt` 是副词，修饰 `svarer`，不要与形容词 `tålmodig` 混用。"
+        },
+        {
+            "id": "U17-C012",
+            "zh": "诚然，它并不是绝对不会出错，但人类也同样会犯错。",
+            "grammar": "`ganske vist … men …` 构成先让步、后转折的论证结构。第一分句否定形容词 `ufejlbarlig`。第二分句 `det er mennesker heller ikke` 中，`det` 是承接前述性质的形式性成分，`heller ikke` 表示在否定情况下也不，省略的含义是人类同样不是永不犯错的。",
+            "vocabulary": [
+                {
+                    "da": "ganske vist",
+                    "zh": "诚然；固然；确实",
+                    "note": "常与后面的 `men` 搭配"
+                },
+                {
+                    "da": "ufejlbarlig",
+                    "zh": "不会犯错的；绝对正确的",
+                    "note": "由否定前缀 `u-` 加 `fejlbarlig` 构成"
+                },
+                {
+                    "da": "heller ikke",
+                    "zh": "也不",
+                    "note": "用于承接否定判断"
+                }
+            ],
+            "nuance": "作者避免把人工智能与理想化的人类进行比较。`ganske vist` 先承认模型会出错，再指出人类也会犯错，为下一句真正值得关注的区别作准备。这种让步式论证比单纯罗列优点和缺点更有说服力。",
+            "transfer": [
+                "Systemet er ganske vist hurtigt, men ikke altid præcist.",
+                "Mennesker er heller ikke ufejlbarlige.",
+                "Metoden har ganske vist begrænsninger, men den er stadig nyttig."
+            ],
+            "pitfall": "`ganske vist` 不是相当被显示，而是整体表示诚然。`heller ikke` 用于否定的附加，不能与肯定语境中的 `også` 随意互换。"
+        },
+        {
+            "id": "U17-C013",
+            "zh": "真正的区别在于，机器犯的错误可能很难被发现，因为这些错误往往被流畅而充满自信的语言包装起来。",
+            "grammar": "主句框架为 `Forskellen er, at …`。`at` 从句中的 `maskinens fejl kan være svære at opdage` 使用 `være + 形容词 + at` 结构，描述错误难以被发现。`fordi de er pakket ind i …` 是原因从句。`er pakket ind` 是 `være` 加过去分词表示被包装后的状态。`flydende` 和 `selvsikkert` 共同修饰中性名词 `sprog`。",
+            "vocabulary": [
+                {
+                    "da": "forskellen er, at …",
+                    "zh": "区别在于……",
+                    "note": "比较分析中的核心句型"
+                },
+                {
+                    "da": "være svær at opdage",
+                    "zh": "难以发现",
+                    "note": "`opdage` 发现、察觉"
+                },
+                {
+                    "da": "pakke noget ind i noget",
+                    "zh": "用某物包装或掩饰某事",
+                    "note": "可用于具体物品，也可用于语言表达"
+                },
+                {
+                    "da": "flydende sprog",
+                    "zh": "流畅的语言",
+                    "note": "`flydende` 可描述语言流利或表达顺畅"
+                },
+                {
+                    "da": "selvsikker",
+                    "zh": "自信的；显得很有把握的",
+                    "note": "`et selvsikkert sprog` 充满自信的措辞"
+                }
+            ],
+            "nuance": "这一句指出语言模型错误的特别风险：错误并不总以混乱或不自然的形式出现，而可能隐藏在非常顺畅的表达中。`pakket ind i` 是生动的隐喻，让人联想到外表精美却可能有问题的内容。作者讨论的是错误的可识别性，而不是声称机器犯错一定比人类更多。",
+            "transfer": [
+                "Forskellen er, at fejlene kan være svære at opdage.",
+                "Problemet er pakket ind i et overbevisende sprog.",
+                "En flydende forklaring er ikke nødvendigvis korrekt."
+            ],
+            "pitfall": "`flydende` 在这里表示语言流畅，不是液体状态。`selvsikker` 是显得自信，`sikker` 还可能表示安全；两者应根据语境区分。"
+        },
+        {
+            "id": "U17-C014",
+            "zh": "它可能编造根本不存在的资料来源，或者把两个人的信息混为一谈。因此，在使用这些内容之前，人们应该注意核实事实。",
+            "grammar": "第一分句包含两个并列不定式 `finde på kilder` 和 `blande to personer sammen`，共同受情态动词 `kan` 支配。`der ikke findes` 是修饰 `kilder` 的关系从句。第二分句 `man bør derfor være opmærksom på at tjekke fakta` 使用 `bør` 表示建议。`før man bruger dem` 是时间从句，`dem` 回指需要核实的信息或事实。",
+            "vocabulary": [
+                {
+                    "da": "finde på noget",
+                    "zh": "编造；想出；创造",
+                    "note": "可用于想出主意，也可用于编造虚假内容"
+                },
+                {
+                    "da": "en kilde",
+                    "zh": "资料来源；信息来源",
+                    "note": "`kildekritik` 来源批判、来源审查"
+                },
+                {
+                    "da": "blande nogen sammen",
+                    "zh": "把两个人混淆",
+                    "note": "也可用于混淆概念、事件"
+                },
+                {
+                    "da": "være opmærksom på at",
+                    "zh": "注意要做某事；有意识地做某事",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "tjekke fakta",
+                    "zh": "核实事实",
+                    "note": "正式写作也可使用 `kontrollere oplysninger`"
+                }
+            ],
+            "nuance": "`finde på kilder` 是非常值得记忆的表达，因为它形象说明了生成式 AI 可能产生不存在的引文或出处。`bør` 表示谨慎建议，`før` 强调核查应先于使用。作者没有要求读者放弃语言模型，而是提出使用过程中的验证责任。",
+            "transfer": [
+                "Modellen kan finde på kilder, der ikke findes.",
+                "Man bør tjekke fakta, før man bruger oplysningerne.",
+                "Pas på ikke at blande de to personer sammen."
+            ],
+            "pitfall": "`finde på` 在这里是编造，不是发现已经存在的资料。`blande sammen` 是混淆，不能理解成把两个人实际混合。`fakta` 是复数含义的事实信息。"
+        },
+        {
+            "id": "U17-C015",
+            "zh": "大约在1900年前后，丹麦有多少家合作社乳品厂？",
+            "grammar": "直接疑问句以数量疑问词组 `Hvor mange andelsmejerier` 开头，随后采用 `var der` 的存在句疑问语序。`omkring år 1900` 表示围绕某一历史年份的大致时间，而不是精确到1900年的某一天。",
+            "vocabulary": [
+                {
+                    "da": "hvor mange",
+                    "zh": "多少个；多少家",
+                    "note": "后接可数名词复数"
+                },
+                {
+                    "da": "et andelsmejeri",
+                    "zh": "合作社乳品厂",
+                    "note": "`andel` 份额、合作社；`mejeri` 乳品厂"
+                },
+                {
+                    "da": "omkring år 1900",
+                    "zh": "1900年前后",
+                    "note": "表示大致历史时期"
+                }
+            ],
+            "nuance": "这是一个看似简单、实际上需要可靠历史资料才能回答的事实问题。作者特意选择数量型问题，为后面讨论语言模型的来源可靠性提供案例。`omkring` 说明用户允许一定的时间范围近似，但并不意味着可以随意编造数字。",
+            "transfer": [
+                "Hvor mange virksomheder var der i Danmark omkring år 1900?",
+                "Hvor mange ansatte har virksomheden?",
+                "Hvordan så samfundet ud omkring år 1900?"
+            ],
+            "pitfall": "`andelsmejeri` 不是普通私人乳品厂，而是合作社性质的乳品厂。`Hvor mange` 对应可数复数，不能直接替换成询问不可数数量的 `Hvor meget`。"
+        },
+        {
+            "id": "U17-C016",
+            "zh": "1900年前后，丹麦有一千多家合作社乳品厂。",
+            "grammar": "句首 `Omkring år 1900` 是时间状语，随后采用 `var der` 的 V2 语序。`godt 1.000` 是数量表达，表示略多于一千，而不是恰好一千。`andelsmejerier` 为中性复合名词的复数形式。",
+            "vocabulary": [
+                {
+                    "da": "godt 1.000",
+                    "zh": "一千多；略高于一千",
+                    "note": "数字前的 `godt` 表示略超出"
+                },
+                {
+                    "da": "omkring",
+                    "zh": "大约；前后",
+                    "note": "可修饰时间或数量"
+                },
+                {
+                    "da": "et andelsmejeri",
+                    "zh": "合作社乳品厂",
+                    "note": "复数 `andelsmejerier`"
+                }
+            ],
+            "nuance": "机器人的回答流畅、简洁，而且给出看似明确的历史数量。`godt` 是自然的近似数量词，使答案听起来像经过整理的统计资料。故事的重点并非立即证明这一数字真假，而是下一步应该如何追问来源。",
+            "transfer": [
+                "Der var godt 1.000 virksomheder i området.",
+                "Omkring år 2000 var situationen anderledes.",
+                "Der bor godt 50.000 mennesker i kommunen."
+            ],
+            "pitfall": "`godt 1.000` 是超过一千一点，`knap 1.000` 是不到一千。这里的 `godt` 不是好的一千，而是数量副词。"
+        },
+        {
+            "id": "U17-C017",
+            "zh": "你有这个数字的资料来源吗？",
+            "grammar": "`Har du …?` 是一般疑问句。`en kilde til det` 使用介词 `til` 连接资料来源与需要证明的说法。`det` 回指上一句关于合作社乳品厂数量的陈述。",
+            "vocabulary": [
+                {
+                    "da": "en kilde til noget",
+                    "zh": "某项信息的来源",
+                    "note": "可用于数据、引文和历史事实"
+                },
+                {
+                    "da": "have en kilde",
+                    "zh": "有资料来源；有证据出处",
+                    "note": "学术研究中非常实用"
+                }
+            ],
+            "nuance": "Jonas 没有马上接受答案，也没有直接指责模型说谎，而是提出最基本的来源审查问题。这种提问方式简洁、专业，适合研究和工作中的事实核查。",
+            "transfer": [
+                "Har du en kilde til det?",
+                "Kan du dokumentere tallet?",
+                "Hvor stammer oplysningen fra?"
+            ],
+            "pitfall": "`kilde` 在这里是信息来源，也可以指泉水。`en kilde til det` 的 `til` 不表示朝向某个地方。"
+        },
+        {
+            "id": "U17-C018",
+            "zh": "有的，这个数字来自丹麦一所大学发布的一份报告。",
+            "grammar": "主句 `tallet stammer fra en rapport` 使用固定搭配 `stamme fra`，表示来源于某处。`fra et dansk universitet` 进一步限定报告的机构来源。两个 `fra` 处于不同的介词短语中，分别说明直接来源与机构归属。",
+            "vocabulary": [
+                {
+                    "da": "stamme fra",
+                    "zh": "来源于；出自",
+                    "note": "常用于信息、人员来源和历史背景"
+                },
+                {
+                    "da": "en rapport",
+                    "zh": "报告",
+                    "note": "`en forskningsrapport` 研究报告"
+                },
+                {
+                    "da": "et universitet",
+                    "zh": "大学",
+                    "note": "复数 `universiteter`"
+                }
+            ],
+            "nuance": "回答使用 `stammer fra` 和大学报告等具有权威感的表达，容易增强听者的信任。但这一说法没有提供报告标题、作者或可核实的出处。作者通过这种看似可靠却不够具体的回答，展示来源幻觉的典型风险。",
+            "transfer": [
+                "Tallet stammer fra en officiel rapport.",
+                "Oplysningen stammer fra en undersøgelse.",
+                "Hvor stammer disse data fra?"
+            ],
+            "pitfall": "`stamme fra` 表示来源于，不是名词 `en stamme` 部落或树干的字面意思。声称来自大学并不等于已经给出了可验证的来源。"
+        },
+        {
+            "id": "U17-C019",
+            "zh": "具体是哪份报告？你能告诉我报告的标题吗？",
+            "grammar": "`Hvilken rapport?` 是省略式追问，完整意思可理解为 `Hvilken rapport drejer det sig om?`。第二句 `Kan du give mig titlen?` 使用情态动词 `kan` 构成一般疑问句。`give nogen noget` 是双宾语结构，`mig` 是间接宾语，`titlen` 是直接宾语。",
+            "vocabulary": [
+                {
+                    "da": "hvilken",
+                    "zh": "哪一个；哪一份",
+                    "note": "与通性名词搭配；中性形式为 `hvilket`"
+                },
+                {
+                    "da": "en titel",
+                    "zh": "标题；书名；职称",
+                    "note": "这里是报告标题"
+                },
+                {
+                    "da": "give nogen noget",
+                    "zh": "给某人某物",
+                    "note": "双宾语结构"
+                }
+            ],
+            "nuance": "Jonas 从笼统的来源要求推进到具体的可验证信息。`Hvilken rapport?` 很直接，但并不失礼；它明确指出上一回答缺少关键细节。`Kan du give mig titlen?` 比简单重复来源问题更有操作性。",
+            "transfer": [
+                "Hvilken rapport henviser du til?",
+                "Kan du give mig den præcise titel?",
+                "Hvem har skrevet rapporten?"
+            ],
+            "pitfall": "`hvilken` 与通性名词 `rapport` 搭配，不能使用 `hvilket rapport`。`titel` 的含义随语境变化，这里不是职称。"
+        },
+        {
+            "id": "U17-C020",
+            "zh": "很抱歉，我无法给出确切的报告标题。这个数字应该通过历史资料汇编进一步核实。",
+            "grammar": "第一句 `Jeg kan desværre ikke angive …` 使用 `kan ikke` 表示无法完成某事，`desværre` 表达遗憾。第二句 `Tallet bør kontrolleres` 使用情态动词 `bør` 加 s-被动 `kontrolleres`，表示建议或应当进行核查。`i en historisk oversigt` 指核查所用的资料类型。",
+            "vocabulary": [
+                {
+                    "da": "desværre",
+                    "zh": "遗憾的是；很抱歉",
+                    "note": "承认不能满足请求时的礼貌副词"
+                },
+                {
+                    "da": "angive",
+                    "zh": "注明；给出；明确指出",
+                    "note": "可用于标题、来源、数量和地址"
+                },
+                {
+                    "da": "præcis",
+                    "zh": "准确的；确切的",
+                    "note": "`en præcis titel` 确切标题"
+                },
+                {
+                    "da": "kontrollere",
+                    "zh": "核查；验证",
+                    "note": "比日常口语的 `tjekke` 略正式"
+                },
+                {
+                    "da": "en historisk oversigt",
+                    "zh": "历史资料概览；历史统计汇编",
+                    "note": "`oversigt` 表示系统性概览"
+                }
+            ],
+            "nuance": "机器人在受到进一步追问时承认无法提供具体出处，这是比继续编造更谨慎的回应。`bør kontrolleres` 把最终验证责任明确转向可核实的资料。值得注意的是，不能提供来源并不自动证明数字错误，但意味着它尚未得到充分支持。",
+            "transfer": [
+                "Jeg kan desværre ikke angive en præcis kilde.",
+                "Oplysningen bør kontrolleres i en officiel rapport.",
+                "Tallet skal verificeres, før det bruges."
+            ],
+            "pitfall": "`angive` 是明确给出或注明，不只是普通地说。`bør kontrolleres` 是被动建议，并不意味着资料已经完成核查。"
+        },
+        {
+            "id": "U17-C021",
+            "zh": "Jonas 做了我们应该做的事：他追问了信息来源，并在一本参考手册中核实了这个数字。",
+            "grammar": "第一分句 `Jonas gjorde det, man bør gøre` 包含省略宾语关系代词的关系从句，表示完成了应当做的事情。冒号后的两个并列谓语 `spurgte efter` 和 `kontrollerede` 说明具体行动。`spørge efter noget` 表示询问并索取某项信息，`kontrollere noget i en håndbog` 表示在参考资料中核对。",
+            "vocabulary": [
+                {
+                    "da": "gøre det, man bør gøre",
+                    "zh": "做应该做的事",
+                    "note": "可以用于肯定负责任的行动"
+                },
+                {
+                    "da": "spørge efter noget",
+                    "zh": "询问并索取某物；追问某项信息",
+                    "note": "区别于 `spørge om noget` 询问某个话题"
+                },
+                {
+                    "da": "kontrollere et tal",
+                    "zh": "核对一个数字",
+                    "note": "研究和数据质量检查中常用"
+                },
+                {
+                    "da": "en håndbog",
+                    "zh": "手册；参考书",
+                    "note": "复数 `håndbøger`"
+                }
+            ],
+            "nuance": "作者不只是提醒读者要谨慎，还通过 Jonas 的行动展示具体做法：要求来源，然后独立核查。冒号后的解释使一般原则与实际操作直接对应。`man bør gøre` 带有明确的规范性建议，但语气并不强硬。",
+            "transfer": [
+                "Han gjorde det, man bør gøre i sådan en situation.",
+                "Jeg spurgte efter kilden og kontrollerede oplysningerne.",
+                "Tallet blev kontrolleret i en håndbog."
+            ],
+            "pitfall": "`spørge efter kilden` 是索取来源，`spørge om kilden` 是询问关于来源的事情，语义侧重点不同。`kontrollere` 在这里是核实，不是控制数字大小。"
+        },
+        {
+            "id": "U17-C022",
+            "zh": "结果发现，这个数字大体上是对的，但机器人所说的那个资料来源根本不存在。",
+            "grammar": "`Tallet viste sig at være …` 使用固定结构 `vise sig at + 不定式`，表示经过核实后发现某个情况成立。`nogenlunde rigtigt` 表示大致正确。转折分句 `kilden fandtes ikke` 中，`fandtes` 是表示存在的 `findes` 的过去时形式，`ikke` 否定资料来源的存在。",
+            "vocabulary": [
+                {
+                    "da": "vise sig at være",
+                    "zh": "结果证明是；后来发现是",
+                    "note": "适合科研、调查与问题复盘"
+                },
+                {
+                    "da": "nogenlunde",
+                    "zh": "大致；差不多；还算",
+                    "note": "表示近似而非完全准确"
+                },
+                {
+                    "da": "rigtig",
+                    "zh": "正确的",
+                    "note": "中性形式 `rigtigt`"
+                },
+                {
+                    "da": "findes",
+                    "zh": "存在",
+                    "note": "过去时 `fandtes`"
+                }
+            ],
+            "nuance": "这个结局非常具有教学价值：答案可能接近事实，但支撑它的来源却是虚构的。因此不能仅凭数字大体正确，就认定模型提供的证据链可靠。`nogenlunde` 避免把近似正确夸大为完全正确。",
+            "transfer": [
+                "Tallet viste sig at være nogenlunde rigtigt.",
+                "Kilden viste sig ikke at eksistere.",
+                "Resultatet var korrekt, men dokumentationen var mangelfuld."
+            ],
+            "pitfall": "`viste sig at være` 是结果发现，而不只是显露自己的样子。`fandtes ikke` 表示不存在，不是有人没找到；后者可说 `kunne ikke findes`。"
+        },
+        {
+            "id": "U17-C023",
+            "zh": "丹麦某市镇政府的一个部门已经对一款 AI 工具进行了为期三个月的测试。这款工具旨在帮助行政案件处理人员撰写发给市民的信件。",
+            "grammar": "句首地点状语 `I en kommune` 引发主句 `har en afdeling` 的 V2 倒装。`har testet` 是现在完成时，`i tre måneder` 表示测试持续时间。`der skal hjælpe sagsbehandlerne` 是修饰 `AI-værktøj` 的关系从句。`hjælpe nogen med at + 不定式` 表示帮助某人完成某项任务。",
+            "vocabulary": [
+                {
+                    "da": "en kommune",
+                    "zh": "市镇；市镇政府",
+                    "note": "丹麦地方行政单位"
+                },
+                {
+                    "da": "en afdeling",
+                    "zh": "部门；科室",
+                    "note": "公共机构和企业中常用"
+                },
+                {
+                    "da": "en sagsbehandler",
+                    "zh": "案件处理人员；行政经办人员",
+                    "note": "由 `sag` 案件与 `behandler` 处理者构成"
+                },
+                {
+                    "da": "et AI-værktøj",
+                    "zh": "人工智能工具",
+                    "note": "复数 `AI-værktøjer`"
+                },
+                {
+                    "da": "hjælpe nogen med at",
+                    "zh": "帮助某人做某事",
+                    "note": "固定搭配"
+                }
+            ],
+            "nuance": "文章从普通用户的事实核查转向政府部门的真实工作情境。`har testet` 表明工具处于经过一段时间试用后的评估阶段，而不一定已经全面部署。`skal hjælpe` 说明工具的预期用途，不代表已经证明它能安全、准确地完成所有行政写作任务。",
+            "transfer": [
+                "Kommunen har testet et nyt AI-værktøj i tre måneder.",
+                "Systemet skal hjælpe medarbejderne med at skrive breve.",
+                "Afdelingen undersøger, om værktøjet kan bruges i praksis."
+            ],
+            "pitfall": "`sagsbehandler` 不是法官，而是处理行政案件的工作人员。`i tre måneder` 表示持续三个月；`om tre måneder` 表示三个月后。"
+        },
+        {
+            "id": "U17-C024",
+            "zh": "试用了三个月之后，你们的初步印象怎么样？",
+            "grammar": "`Hvad er jeres … indtryk?` 是疑问词引导的直接疑问句，限定动词 `er` 位于主语之前。`jeres` 是复数第二人称物主代词，表明部门主管询问的是团队成员的看法。`efter tre måneder` 说明评价发生的时间背景。",
+            "vocabulary": [
+                {
+                    "da": "et indtryk",
+                    "zh": "印象；感受",
+                    "note": "`få et indtryk af noget` 对某事形成印象"
+                },
+                {
+                    "da": "umiddelbar",
+                    "zh": "初步的；直接的；未经深入分析的",
+                    "note": "`et umiddelbart indtryk` 初步印象"
+                },
+                {
+                    "da": "efter tre måneder",
+                    "zh": "三个月之后",
+                    "note": "不同于表示持续时间的 `i tre måneder`"
+                }
+            ],
+            "nuance": "`umiddelbare indtryk` 让回答者先谈实践感受，而不要求立即提交完整的科学评估。`jeres` 表示主管关心团队整体体验，语气开放，适合工作会议中的阶段性复盘。",
+            "transfer": [
+                "Hvad er jeres umiddelbare indtryk?",
+                "Hvilket indtryk har I fået af systemet?",
+                "Hvordan vurderer I værktøjet efter tre måneder?"
+            ],
+            "pitfall": "`umiddelbar` 在这里不是物理意义上的紧邻，而是初步或直接的。`jeres` 对应你们的，`din` 对应你的。"
+        },
+        {
+            "id": "U17-C025",
+            "zh": "它用来起草初稿很高效。以前需要一个小时的工作，现在只要十五分钟就能完成。",
+            "grammar": "第一句 `Det er effektivt til første udkast` 使用 `effektiv til` 表示适合某类任务。第二句 `Det, der før tog en time, tager nu et kvarter` 以 `Det, der …` 构成名词性关系结构，表示以前需要一小时完成的事情。`før` 和 `nu` 形成过去与现在的时间对照，`tog` 与 `tager` 对比过去时和现在时。",
+            "vocabulary": [
+                {
+                    "da": "effektiv til noget",
+                    "zh": "在某方面高效；适合某种用途",
+                    "note": "与 `effektiv` 及介词 `til` 搭配"
+                },
+                {
+                    "da": "et udkast",
+                    "zh": "草稿；初稿",
+                    "note": "`første udkast` 第一版草稿"
+                },
+                {
+                    "da": "tage en time",
+                    "zh": "花一个小时",
+                    "note": "`Det tager tid at …` 做某事需要时间"
+                },
+                {
+                    "da": "et kvarter",
+                    "zh": "十五分钟；一刻钟",
+                    "note": "复数 `kvarterer`"
+                }
+            ],
+            "nuance": "工作人员先给出定性评价，再提供具体的前后时间对比，因此回答具有较强的说服力。`før … nu …` 是项目汇报中非常实用的效果呈现框架。这里衡量的是完成初稿所需时间，并不能自动等同于整个行政工作流程的总效率提升。",
+            "transfer": [
+                "Det er effektivt til at skrive første udkast.",
+                "Det, der før tog to timer, tager nu en halv time.",
+                "Vi har reduceret tidsforbruget betydeligt."
+            ],
+            "pitfall": "`et kvarter` 是十五分钟，不是四分之一分钟。`før` 在这里表示以前，不是连接词在……之前。"
+        },
+        {
+            "id": "U17-C026",
+            "zh": "那缺点呢？",
+            "grammar": "`Og ulemperne?` 是口语中的省略式追问。根据上下文可以恢复为 `Og hvad med ulemperne?`。`ulemp erne` 对应已经讨论的工具可能存在的缺点，使用复数确定式。",
+            "vocabulary": [
+                {
+                    "da": "en ulempe",
+                    "zh": "缺点；不利之处",
+                    "note": "复数确定式 `ulemperne`"
+                },
+                {
+                    "da": "Hvad med …?",
+                    "zh": "那……呢？",
+                    "note": "自然的补充追问"
+                }
+            ],
+            "nuance": "主管没有要求重复优点，而是直接把讨论推进到风险和不足。简短的 `Og …?` 在工作会议中非常自然，既节省语言，又保持明确的话题转向。",
+            "transfer": [
+                "Og ulemperne?",
+                "Hvad med risiciene?",
+                "Hvilke begrænsninger har systemet?"
+            ],
+            "pitfall": "`ulempe` 是缺点或不利因素，与 `fordel` 优点、优势相对。"
+        },
+        {
+            "id": "U17-C027",
+            "zh": "它有时会引用根本不存在的法律条款。所以我们在把文件发出去之前，都会逐项核查全部内容。",
+            "grammar": "第一句 `Det henviser nogle gange til paragraffer` 使用 `henvise til`，后接关系从句 `der ikke findes`。`nogle gange` 表示有时而不是总是。第二句句首 `Så` 表示因此，后接 `vi tjekker` 的陈述语序；这里的 `så` 作为句首连接成分引出后续行动。`før det bliver sendt` 是时间从句，内部使用 `blive + 过去分词` 被动结构。",
+            "vocabulary": [
+                {
+                    "da": "henvise til noget",
+                    "zh": "引用；指向；援引",
+                    "note": "法律、行政和学术写作中很常用"
+                },
+                {
+                    "da": "en paragraf",
+                    "zh": "法律条款；条文",
+                    "note": "复数 `paragraffer`；符号为 §"
+                },
+                {
+                    "da": "tjekke",
+                    "zh": "检查；核实",
+                    "note": "比 `kontrollere` 更口语化"
+                },
+                {
+                    "da": "blive sendt",
+                    "zh": "被发送；被寄出",
+                    "note": "`blive + 过去分词` 被动结构"
+                }
+            ],
+            "nuance": "与前面历史数据案例不同，这里错误出现在法律条文引用中，可能直接影响行政文件质量。`nogle gange` 准确说明问题偶尔发生，而不是每次发生。工作人员因此建立发送前的人工核查流程，体现了效率收益与质量控制的共同要求。",
+            "transfer": [
+                "Systemet henviser nogle gange til forkerte paragraffer.",
+                "Vi tjekker alle oplysninger, før brevet bliver sendt.",
+                "Henvisningen til loven skal kontrolleres."
+            ],
+            "pitfall": "`henvise til` 是援引或指向，不能改成 `henvise på`。`paragraf` 是条款，不等于整部法律。"
+        },
+        {
+            "id": "U17-C028",
+            "zh": "有没有人把机密信息输入到这个工具里面？",
+            "grammar": "`Har nogen lagt … ind i det?` 是现在完成时疑问句。`nogen` 用在疑问句中表示是否有任何人。`lægge noget ind i noget` 是动词加方向小品词的结构，在数字工具语境中表示输入或放入数据。`det` 回指前文的 AI 工具。",
+            "vocabulary": [
+                {
+                    "da": "fortrolige oplysninger",
+                    "zh": "机密信息；保密资料",
+                    "note": "`fortrolig` 指有保密要求的"
+                },
+                {
+                    "da": "lægge noget ind i",
+                    "zh": "将某物输入或放入某个系统",
+                    "note": "IT 场景中常指输入、上传或添加数据"
+                },
+                {
+                    "da": "nogen",
+                    "zh": "有人；任何人",
+                    "note": "疑问句中的不定代词"
+                }
+            ],
+            "nuance": "主管从输出准确性转向输入数据的保密风险。`lagt … ind i det` 是非常日常化的 IT 表达，不必使用专业术语也能讨论敏感数据流向。问题关注是否有人实际输入机密信息，而不是只讨论工具理论上是否安全。",
+            "transfer": [
+                "Har nogen lagt personoplysninger ind i systemet?",
+                "Man bør ikke indtaste fortrolige oplysninger i et usikkert værktøj.",
+                "Hvilke data bliver lagt ind i modellen?"
+            ],
+            "pitfall": "`fortrolig` 是保密的，不等于值得信任的 `pålidelig`。`lægge ind` 在数字语境中不需要存在真实的物理放置动作。"
+        },
+        {
+            "id": "U17-C029",
+            "zh": "没有。我们只使用部署在市镇政府自有服务器上的那个版本，而且绝不会输入个人 CPR 身份号码。",
+            "grammar": "第一句为简短否定回答。第二句主干是 `Vi anvender kun den version`，后接关系从句 `der kører på kommunens egne servere`。`kun` 限定使用范围。`kører på` 在计算机语境中表示软件运行于某个基础设施。并列分句 `vi bruger aldrig cpr-numre` 使用 `aldrig` 表示绝不。",
+            "vocabulary": [
+                {
+                    "da": "anvende",
+                    "zh": "使用；应用",
+                    "note": "比 `bruge` 稍正式，常见于工作和技术语境"
+                },
+                {
+                    "da": "køre på en server",
+                    "zh": "运行在服务器上",
+                    "note": "软件工程中的自然表达"
+                },
+                {
+                    "da": "kommunens egne servere",
+                    "zh": "市镇政府自己的服务器",
+                    "note": "`egne` 强调所有或控制关系"
+                },
+                {
+                    "da": "et cpr-nummer",
+                    "zh": "丹麦个人身份号码",
+                    "note": "CPR 指中央人口登记制度"
+                },
+                {
+                    "da": "aldrig",
+                    "zh": "绝不；从不",
+                    "note": "比 `ikke` 更明确地否定所有时间情况"
+                }
+            ],
+            "nuance": "工作人员以两个具体措施回应主管：限制系统版本的部署环境，以及避免输入身份号码。`kommunens egne servere` 强调部署控制，但不应推断仅凭本地部署就能自动满足全部数据保护要求。`aldrig` 体现部门对 CPR 号码使用的严格限制。",
+            "transfer": [
+                "Vi anvender kun den godkendte version.",
+                "Systemet kører på vores egne servere.",
+                "Vi bruger aldrig personnumre i testdata."
+            ],
+            "pitfall": "`køre` 在这里是软件运行，不是驾驶。`CPR-nummer` 是个人身份号码，属于敏感的识别信息；不能把不用 CPR 号码误解为其他个人数据就没有隐私风险。"
+        },
+        {
+            "id": "U17-C030",
+            "zh": "很好。那这套工具能推广到整个部门使用吗？",
+            "grammar": "`Godt` 是独立评价语，表示主管认可刚才的回答。`Kan det fungere for hele afdelingen?` 是情态动词 `kan` 引导的一般疑问句。`fungere for` 在这里表示对某个部门或使用者群体是否适用、是否能顺利运行。",
+            "vocabulary": [
+                {
+                    "da": "fungere",
+                    "zh": "运行；发挥作用；行得通",
+                    "note": "可用于技术系统、组织安排和人际合作"
+                },
+                {
+                    "da": "en afdeling",
+                    "zh": "部门",
+                    "note": "`hele afdelingen` 整个部门"
+                },
+                {
+                    "da": "for hele afdelingen",
+                    "zh": "对整个部门而言；覆盖整个部门",
+                    "note": "用于讨论推广范围"
+                }
+            ],
+            "nuance": "主管从局部试点转向规模化使用的可行性问题。`fungere` 比单纯的技术性 `virke` 更宽泛，可以包含工作流程、人员能力和组织适配等方面。问句没有预先假定试点成功就意味着可以立即全面推广。",
+            "transfer": [
+                "Kan løsningen fungere for hele organisationen?",
+                "Systemet fungerer godt i den lille afdeling.",
+                "Er værktøjet klar til bredere anvendelse?"
+            ],
+            "pitfall": "`fungere for` 不仅表示程序能启动，也可能指在实际工作中是否适用。`hele afdelingen` 是整个部门，不是某一名员工。"
+        },
+        {
+            "id": "U17-C031",
+            "zh": "有可能。不过前提是所有人都得先接受培训。否则，大家很可能会过度信任这套工具。",
+            "grammar": "`Muligvis` 是独立的可能性回答。`Men kun hvis alle får et kursus først` 是省略主句的条件结构，完整意思承接前文的部门推广问题。`Ellers` 位于后一句句首，引发 `kommer folk` 的 V2 倒装。`komme til at + 不定式` 表示预计会发生的结果，`stole på` 表示信赖。",
+            "vocabulary": [
+                {
+                    "da": "muligvis",
+                    "zh": "有可能；或许",
+                    "note": "比直接肯定更谨慎"
+                },
+                {
+                    "da": "kun hvis",
+                    "zh": "只有在……条件下",
+                    "note": "引出必要条件"
+                },
+                {
+                    "da": "et kursus",
+                    "zh": "课程；培训班",
+                    "note": "`få et kursus` 接受培训"
+                },
+                {
+                    "da": "ellers",
+                    "zh": "否则；要不然",
+                    "note": "句首使用时触发 V2 倒装"
+                },
+                {
+                    "da": "stole på noget",
+                    "zh": "信赖；依靠某物",
+                    "note": "`stole for meget på` 过度依赖或信任"
+                }
+            ],
+            "nuance": "工作人员没有因试点节省时间就立即支持推广，而是提出培训作为必要条件。`Muligvis` 与 `kun hvis` 共同表达审慎态度。`kommer til at stole for meget på det` 强调组织风险不仅来自模型本身，还来自使用者对模型能力和可靠性的认识。",
+            "transfer": [
+                "Muligvis, men kun hvis alle får den nødvendige oplæring.",
+                "Ellers kommer medarbejderne til at stole for meget på systemet.",
+                "Vi bør gennemføre et kursus, før værktøjet bliver udbredt."
+            ],
+            "pitfall": "`ellers` 不等于 `andre`，在这里表示否则。`stole på` 是信赖，而 `tro på` 更偏相信某事为真或相信某种可能性。"
+        },
+        {
+            "id": "U17-C032",
+            "zh": "这些工具能够节省时间，但与此同时，也把发现错误的责任转移到了使用工具的人身上。",
+            "grammar": "主语 `Værktøjerne` 后接两个并列谓语 `kan spare` 和 `flytter`。`flytte ansvaret for at gøre noget over på nogen` 是较复杂但非常实用的责任转移结构。`for at opdage fejl` 说明具体是哪一种责任。`dem, der bruger dem` 中，第一个 `dem` 指使用者，第二个 `dem` 指工具。",
+            "vocabulary": [
+                {
+                    "da": "spare tid",
+                    "zh": "节省时间",
+                    "note": "常用于效率讨论"
+                },
+                {
+                    "da": "flytte ansvaret",
+                    "zh": "转移责任",
+                    "note": "可用于组织和制度分析"
+                },
+                {
+                    "da": "ansvaret for at",
+                    "zh": "做某事的责任",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "over på nogen",
+                    "zh": "转移到某人身上",
+                    "note": "常与 `flytte`、`lægge` 等动词搭配"
+                },
+                {
+                    "da": "opdage fejl",
+                    "zh": "发现错误",
+                    "note": "`en fejl` 错误，复数形式相同"
+                }
+            ],
+            "nuance": "这一句是第三章的核心判断。技术能够减少起草工作量，却可能增加人工审核的重要性。`flytter ansvaret` 很形象，强调工作内容变化可能伴随责任分配变化。这里描述的是实际工作中的质量控制负担，不应理解为开发者或机构在法律上的责任必然全部转移给使用者。",
+            "transfer": [
+                "AI kan spare tid, men flytter også ansvar over på brugeren.",
+                "Ansvaret for at opdage fejl ligger hos medarbejderne.",
+                "Automatisering ændrer fordelingen af arbejdsopgaver."
+            ],
+            "pitfall": "`dem, der bruger dem` 两个 `dem` 指向不同对象，读长句时必须分清。`ansvar for` 是负责某事，`ansvar over for` 表示对某人或机构承担责任。"
+        },
+        {
+            "id": "U17-C033",
+            "zh": "在学校教育中，这项技术已经带来了一个两难问题。",
+            "grammar": "句首 `I skolen` 是领域或场景状语，因此采用 `har teknologien` 的 V2 倒装。`har skabt` 是现在完成时，强调技术已经产生了一个持续存在的问题。`et dilemma` 作宾语。",
+            "vocabulary": [
+                {
+                    "da": "et dilemma",
+                    "zh": "两难困境；难以兼顾的选择",
+                    "note": "复数 `dilemmaer`"
+                },
+                {
+                    "da": "skabe",
+                    "zh": "创造；造成；引发",
+                    "note": "`skabe – skabte – skabt`"
+                },
+                {
+                    "da": "i skolen",
+                    "zh": "在学校教育中",
+                    "note": "这里指教育场景，不只是学校建筑内部"
+                }
+            ],
+            "nuance": "`dilemma` 暗示存在彼此冲突但又有一定合理性的考虑，而不只是一个容易解决的技术故障。这句简短地开启教育领域的讨论，为后面教师之间不同立场的对比搭建框架。",
+            "transfer": [
+                "Teknologien har skabt et nyt dilemma.",
+                "AI rejser flere spørgsmål i skolen.",
+                "Der er opstået et dilemma mellem X og Y."
+            ],
+            "pitfall": "`skabe` 可以表示创造积极事物，也可以表示引发问题。`dilemma` 不等于任何普通问题，而是涉及难以兼顾的选择。"
+        },
+        {
+            "id": "U17-C034",
+            "zh": "学生可以让机器在几秒钟内写出一整篇作业，而要证明一份作业里究竟是谁写了哪些内容，往往相当困难。",
+            "grammar": "第一分句 `En elev kan få en maskine til at skrive …` 使用使役结构 `få nogen eller noget til at + 不定式`。`på få sekunder` 表示在几秒内完成。第二分句 `det er svært at bevise` 使用形式主语 `det`。后面的 `hvem der har skrevet hvad` 是嵌入式疑问结构，`hvem der` 询问执行写作的人，`hvad` 询问写作内容。",
+            "vocabulary": [
+                {
+                    "da": "få noget til at gøre noget",
+                    "zh": "使某物做某事；让某个系统执行任务",
+                    "note": "常见使役句型"
+                },
+                {
+                    "da": "en opgave",
+                    "zh": "作业；任务；题目",
+                    "note": "`skrive en opgave` 写作业或论文"
+                },
+                {
+                    "da": "på få sekunder",
+                    "zh": "在几秒钟内",
+                    "note": "强调完成所需时间很短"
+                },
+                {
+                    "da": "bevise",
+                    "zh": "证明",
+                    "note": "`bevise, at …` 证明某个事实"
+                }
+            ],
+            "nuance": "作者通过写作速度与作者身份难以确认之间的对比，引出教育评估中的核心困境。`hvem der har skrevet hvad` 极其精炼，表示在人工与机器共同参与时，哪些内容归属于谁。句子没有声称所有 AI 生成文本都无法辨认，而是说证明具体归属可能很困难。",
+            "transfer": [
+                "Man kan få en model til at skrive et første udkast.",
+                "Det er svært at bevise, hvem der har skrevet hvad.",
+                "Opgaven blev færdig på få minutter."
+            ],
+            "pitfall": "`få X til at` 表示促使 X 做某事，不是得到 X 然后去做某事。`hvem der har skrevet hvad` 是间接疑问，不能照搬直接疑问句的语序。"
+        },
+        {
+            "id": "U17-C035",
+            "zh": "一些教师认为这属于作弊，因此增加了口试，以及要求学生在课堂上当场完成的作业。",
+            "grammar": "主语 `Nogle lærere` 后接并列谓语 `anser` 和 `har indført`。`anse X for Y` 表示把 X 视为 Y。`har indført` 是现在完成时，强调新的考核方式已经引入。`der skrives i timerne` 是修饰 `opgaver` 的关系从句，使用 s-被动，表示作业在课堂上完成。",
+            "vocabulary": [
+                {
+                    "da": "anse noget for noget",
+                    "zh": "把某事认定为某种性质",
+                    "note": "比 `synes` 更正式"
+                },
+                {
+                    "da": "snyd",
+                    "zh": "作弊；欺骗行为",
+                    "note": "et snyd；`snyde til eksamen` 考试作弊"
+                },
+                {
+                    "da": "indføre",
+                    "zh": "引入；实施；推行",
+                    "note": "`indføre nye regler` 实施新规定"
+                },
+                {
+                    "da": "en mundtlig prøve",
+                    "zh": "口试",
+                    "note": "与 `en skriftlig prøve` 笔试相对"
+                },
+                {
+                    "da": "i timerne",
+                    "zh": "在课堂上；上课期间",
+                    "note": "`en time` 在学校语境中可以指一节课"
+                }
+            ],
+            "nuance": "作者明确将作弊判断归属于 `Nogle lærere`，并没有宣布一切 AI 辅助写作都属于作弊。`har indført` 描述教师已经作出的教学调整。通过口试和课堂写作，教师希望更直接观察学生本人的知识与表达能力。",
+            "transfer": [
+                "Nogle lærere anser brugen af AI for snyd.",
+                "Skolen har indført flere mundtlige prøver.",
+                "Opgaverne skal skrives i timerne."
+            ],
+            "pitfall": "`anse for` 是认定为，不能省略 `for`。`i timerne` 在这里不是在几个小时里面，而是上课期间。"
+        },
+        {
+            "id": "U17-C036",
+            "zh": "另一些教师则把它看作一种工具，认为学生应该学会以批判性的态度使用它，就像过去学生也需要学会使用计算器一样。",
+            "grammar": "主语 `Andre` 指另一部分教师。`se X som Y` 表示把 X 视为 Y。`eleverne skal lære at bruge kritisk` 是修饰 `redskab` 的关系从句，省略了宾语关系代词，`bruge` 的宾语由先行词恢复。`ligesom de engang skulle lære …` 引出类比从句，`engang` 表示过去某个时期。",
+            "vocabulary": [
+                {
+                    "da": "se noget som noget",
+                    "zh": "把某事看作某物",
+                    "note": "用于立场与评价"
+                },
+                {
+                    "da": "et redskab",
+                    "zh": "工具；手段",
+                    "note": "可以是实体工具，也可以是抽象方法"
+                },
+                {
+                    "da": "bruge noget kritisk",
+                    "zh": "批判性地使用某物",
+                    "note": "`kritisk` 强调判断、审查和反思"
+                },
+                {
+                    "da": "ligesom",
+                    "zh": "就像……一样",
+                    "note": "引出相似情况"
+                },
+                {
+                    "da": "en lommeregner",
+                    "zh": "计算器",
+                    "note": "复数 `lommeregnere`"
+                }
+            ],
+            "nuance": "这一句呈现教育讨论中的另一种立场：AI 可以作为学习工具，关键在于学生是否具备批判性使用能力。`ligesom … en lommeregner` 是历史类比，暗示学校曾经也需要适应新的计算工具。类比并不意味着两种技术在能力和风险方面完全相同。",
+            "transfer": [
+                "Andre ser AI som et redskab, der skal bruges kritisk.",
+                "Eleverne skal lære at vurdere teknologiens begrænsninger.",
+                "Vi må lære at bruge AI, ligesom vi lærte at bruge andre digitale værktøjer."
+            ],
+            "pitfall": "`kritisk` 在这里是审慎、批判性地评价，不是必须对技术持负面态度。`andre` 指另一部分人，不是其他所有人。"
+        },
+        {
+            "id": "U17-C037",
+            "zh": "不过，双方都同意：学生仍然必须具备独立思考、独立写作，以及判断一个答案是否可信的能力。",
+            "grammar": "主干 `Begge grupper er enige om, at …` 使用 `være enig om`。`at` 从句中 `eleverne stadig skal kunne` 包含两个情态动词 `skal` 和 `kunne`，表示必须具备某种能力。后面并列三个不定式 `tænke`、`skrive` 和 `vurdere`。`om et svar er troværdigt` 是由 `om` 引导的间接是否疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "begge",
+                    "zh": "双方；两个都",
+                    "note": "`begge grupper` 两个群体"
+                },
+                {
+                    "da": "være enig om",
+                    "zh": "就某事达成一致",
+                    "note": "复数主语 `være enige om`"
+                },
+                {
+                    "da": "tænke selv",
+                    "zh": "独立思考",
+                    "note": "`selv` 强调自主能力"
+                },
+                {
+                    "da": "vurdere",
+                    "zh": "判断；评估",
+                    "note": "用于证据、风险和可信度"
+                },
+                {
+                    "da": "troværdig",
+                    "zh": "可信的；有可信度的",
+                    "note": "`et troværdigt svar` 可信的回答"
+                }
+            ],
+            "nuance": "这是教育章节的共识性总结。前面两组教师对 AI 使用方式存在分歧，但都重视学生自身的核心能力。三个并列动词具有很好的修辞节奏，尤其 `tænke selv, skrive selv` 强化独立性。`stadig` 表明新技术出现后，这些能力依旧必要。",
+            "transfer": [
+                "Begge grupper er enige om, at eleverne skal kunne tænke selv.",
+                "Det er vigtigt at vurdere, om en kilde er troværdig.",
+                "Teknologien ændrer ikke behovet for kritisk tænkning."
+            ],
+            "pitfall": "`troværdig` 是可信的，与 `pålidelig` 可靠的接近但不完全相同。`om` 在这里表示是否，不是普通介词关于。"
+        },
+        {
+            "id": "U17-C038",
+            "zh": "一个模型的表现，永远不可能脱离训练它所使用的数据质量。",
+            "grammar": "主干是 `En model er aldrig bedre end de data`，使用 `aldrig bedre end` 进行带绝对否定的比较。`den er trænet på` 是修饰 `data` 的关系从句，省略关系代词，介词 `på` 留在从句末尾。`er trænet` 使用被动意义的过去分词结构，强调模型接受过这些数据的训练。",
+            "vocabulary": [
+                {
+                    "da": "en model",
+                    "zh": "模型",
+                    "note": "在本文中指人工智能模型"
+                },
+                {
+                    "da": "træne en model på data",
+                    "zh": "使用数据训练模型",
+                    "note": "`en model er trænet på …` 模型由某些数据训练而成"
+                },
+                {
+                    "da": "aldrig bedre end",
+                    "zh": "绝不会比……更好",
+                    "note": "强调比较关系的上限"
+                },
+                {
+                    "da": "data",
+                    "zh": "数据",
+                    "note": "技术和统计语境中的核心名词"
+                }
+            ],
+            "nuance": "这是关于训练数据质量的简洁警句。作者用绝对性的 `aldrig` 强调数据对模型的重要性，具有很强的传播效果。科学上应把它理解为强调数据限制的概括，而不是严格数学定律；模型的实际表现还受到架构、训练方法、目标任务及评估方式等因素影响。",
+            "transfer": [
+                "En model er afhængig af kvaliteten af sine træningsdata.",
+                "Systemet er trænet på store mængder data.",
+                "Dårlige data kan føre til dårlige resultater."
+            ],
+            "pitfall": "`trænet på` 是用某类数据训练，不是模型坐在数据上面。关系从句末尾的 `på` 与 `trænet` 构成固定搭配，不能省略。"
+        },
+        {
+            "id": "U17-C039",
+            "zh": "如果训练数据中含有偏见，模型就可能进一步放大这些偏见。例如，一个用来筛选求职申请的系统，可能会倾向于选择那些与过去已被录用的人相似的申请者。",
+            "grammar": "开头 `Indeholder dataene fordomme` 是省略 `hvis` 的条件倒装，后接 `kan modellen forstærke dem`，其中 `dem` 指偏见。冒号后给出具体例子。`der skal sortere jobansøgninger` 是修饰 `et system` 的关系从句。`komme til at foretrække` 表示可能产生的行为倾向。`ansøgere, der ligner dem, der tidligere er blevet ansat` 包含嵌套关系从句，最内层 `er blevet ansat` 是现在完成时被动结构。",
+            "vocabulary": [
+                {
+                    "da": "en fordom",
+                    "zh": "偏见；先入之见",
+                    "note": "复数 `fordomme`"
+                },
+                {
+                    "da": "forstærke",
+                    "zh": "加强；放大",
+                    "note": "`forstærke en skævhed` 放大某种偏差"
+                },
+                {
+                    "da": "sortere jobansøgninger",
+                    "zh": "筛选求职申请",
+                    "note": "`en jobansøgning` 求职申请"
+                },
+                {
+                    "da": "foretrække",
+                    "zh": "更喜欢；优先选择",
+                    "note": "`foretrække – foretrak – foretrukket`"
+                },
+                {
+                    "da": "ligne nogen",
+                    "zh": "与某人相似",
+                    "note": "`ligne` 直接接宾语，不加介词"
+                }
+            ],
+            "nuance": "作者通过招聘筛选系统说明训练数据中的既有模式如何影响自动化决策。如果过去的录用结果存在偏差，模型可能把这些模式当作值得延续的选择依据。`kan` 和 `for eksempel` 表明这是风险示例，而非断言所有 AI 招聘工具都会产生相同结果。句子体现了从技术数据问题到社会公平问题的逻辑过渡。",
+            "transfer": [
+                "Indeholder dataene skævheder, kan modellen forstærke dem.",
+                "Systemet kan komme til at foretrække bestemte ansøgere.",
+                "Ansøgerne ligner dem, der tidligere blev ansat."
+            ],
+            "pitfall": "`ligne nogen` 直接接宾语，不说 `ligne med nogen`。`komme til at` 在这里表达可能发生的结果，不意味着系统具有自主偏好或主观意愿。"
+        },
+        {
+            "id": "U17-C040",
+            "zh": "当机器出错时，责任究竟应该由谁承担？",
+            "grammar": "主句是直接疑问句 `Hvem har ansvaret`，`Hvem` 作主语，因此后面直接是限定动词 `har`。`når en maskine tager fejl` 是时间或情境从句。`tage fejl` 是固定表达，表示判断或行为发生错误。",
+            "vocabulary": [
+                {
+                    "da": "have ansvaret",
+                    "zh": "承担责任；负有责任",
+                    "note": "也可说 `have ansvar for noget`"
+                },
+                {
+                    "da": "tage fejl",
+                    "zh": "犯错；判断错误",
+                    "note": "常用于事实判断和推理错误"
+                }
+            ],
+            "nuance": "文章从偏见问题推进到责任归属这一规范性问题。作者并没有只问如何修复技术错误，而是问错误发生后由谁负责。`Hvem har ansvaret?` 适用于公共管理、医学 AI、自动驾驶和组织治理等多种场景。",
+            "transfer": [
+                "Hvem har ansvaret, hvis systemet tager fejl?",
+                "Hvem er ansvarlig for beslutningen?",
+                "Det er vigtigt at afklare ansvarsfordelingen."
+            ],
+            "pitfall": "`tage fejl` 表示犯错，不是拿走一个错误。`ansvar` 是责任，`ansættelse` 是雇佣，不能因词形相近而混淆。"
+        },
+        {
+            "id": "U17-C041",
+            "zh": "计算机既不能被带到法官面前接受审判，也无法像人一样真心实意地道歉。",
+            "grammar": "主语 `En computer` 后接情态动词 `kan ikke`，共同支配两个并列不定式结构 `stilles for en dommer` 和 `sige undskyld og mene det`。`stilles` 是 s-被动，表示被带到或置于法官面前。`mene det` 回指前面的道歉内容，表示真心认可自己刚说的话。",
+            "vocabulary": [
+                {
+                    "da": "stille nogen for en dommer",
+                    "zh": "让某人接受法官审理",
+                    "note": "被动式 `stilles for en dommer`"
+                },
+                {
+                    "da": "en dommer",
+                    "zh": "法官；裁判",
+                    "note": "本句是司法语境"
+                },
+                {
+                    "da": "sige undskyld",
+                    "zh": "道歉；说对不起",
+                    "note": "日常口语常用"
+                },
+                {
+                    "da": "mene det",
+                    "zh": "是真心的；说的是真心话",
+                    "note": "常用于判断承诺或道歉是否真诚"
+                }
+            ],
+            "nuance": "作者通过两个鲜明的人类责任行为——接受司法追责与真诚道歉——强调计算机与具有社会责任能力的人之间的区别。`sige undskyld og mene det` 很地道，中文不能只译成说对不起并认为它。这句话属于伦理与法律责任的概括，不是在详细论证所有司法制度中 AI 的可能法律地位。",
+            "transfer": [
+                "Han sagde undskyld, og jeg tror, han mente det.",
+                "En maskine kan ikke påtage sig ansvar på samme måde som et menneske.",
+                "Der skal være mennesker, som kan holdes ansvarlige."
+            ],
+            "pitfall": "`mene det` 是说真心话，不是对某物发表看法。`stilles` 在这里是被动式，不能仅按站立理解。"
+        },
+        {
+            "id": "U17-C042",
+            "zh": "因此，责任应由开发这些系统的人和组织，以及决定使用这些系统的人来承担。",
+            "grammar": "主干是 `Ansvaret ligger derfor hos …`，`ligge hos` 是表示责任归属的抽象搭配。后面有两个由 `hos` 引出的并列成分：`de mennesker og organisationer, der udvikler systemerne` 和 `dem, der vælger at bruge dem`。两个关系从句分别说明开发者与使用者的行为。最后的 `dem` 指系统。",
+            "vocabulary": [
+                {
+                    "da": "ansvaret ligger hos",
+                    "zh": "责任在于；责任由……承担",
+                    "note": "法律、伦理和组织管理中非常实用"
+                },
+                {
+                    "da": "udvikle et system",
+                    "zh": "开发一个系统",
+                    "note": "`udvikle` 也可指发展、改进"
+                },
+                {
+                    "da": "en organisation",
+                    "zh": "组织；机构",
+                    "note": "复数 `organisationer`"
+                },
+                {
+                    "da": "vælge at gøre noget",
+                    "zh": "选择做某事",
+                    "note": "`vælge – valgte – valgt`"
+                }
+            ],
+            "nuance": "这一句给出上一句责任问题的回答：人工智能系统的开发和应用仍然涉及人的决策，因此不能简单把错误归咎于机器本身。`ligger hos` 是正式而自然的责任表达。作者同时提到开发者和使用者，没有将全部责任单方面推给某一种角色；具体法律责任仍需根据制度和情节认定。",
+            "transfer": [
+                "Ansvaret ligger hos dem, der udvikler og bruger systemet.",
+                "Organisationen har ansvar for at kontrollere resultaterne.",
+                "Det endelige ansvar kan ikke overlades til en algoritme."
+            ],
+            "pitfall": "`ligge hos` 在这里是责任归属，并不是某物物理上放在某人家里。注意两个 `dem` 的所指不同：前一个表示使用者，后一个表示系统。"
+        },
+        {
+            "id": "U17-C043",
+            "zh": "如果行政机关借助算法作出决定，公民仍然有权得到一份能够由真人负责解释并为之担保的决定理由。",
+            "grammar": "句首 `Træffer en myndighed en afgørelse` 是省略 `hvis` 的条件倒装。条件部分占据首位，因此主句采用 `har borgeren` 的 V2 倒装。`have krav på noget` 表示有权要求获得某物。`som et menneske kan stå inde for` 是修饰 `begrundelse` 的关系从句，`stå inde for` 表示愿意为某项说明的准确性或合理性承担责任，介词 `for` 留在从句末尾。",
+            "vocabulary": [
+                {
+                    "da": "en myndighed",
+                    "zh": "行政机关；主管机关",
+                    "note": "复数 `myndigheder`"
+                },
+                {
+                    "da": "træffe en afgørelse",
+                    "zh": "作出行政决定；作出裁定",
+                    "note": "正式法律与行政搭配"
+                },
+                {
+                    "da": "med hjælp fra",
+                    "zh": "借助；在……帮助下",
+                    "note": "可用于技术工具或人力支持"
+                },
+                {
+                    "da": "have krav på noget",
+                    "zh": "有权要求获得某物",
+                    "note": "比普通的 `ønske` 愿望更具权利性质"
+                },
+                {
+                    "da": "stå inde for noget",
+                    "zh": "为某事担保；愿意为某事负责",
+                    "note": "强调能够认可并承担责任"
+                }
+            ],
+            "nuance": "这是全篇与公共行政、算法治理关系最直接的一句。即使算法参与信息处理或辅助判断，行政决定仍然需要能够由负责任的人来解释和承担。`stadig` 是关键词，强调引入新技术不应自动取消原有的权利保障。句子概括的是行政问责原则，具体的说明义务和适用范围仍以相关法律为准。",
+            "transfer": [
+                "Træffer en myndighed en afgørelse, skal den kunne begrundes.",
+                "Borgeren har krav på en forståelig begrundelse.",
+                "En ansvarlig medarbejder skal kunne stå inde for afgørelsen."
+            ],
+            "pitfall": "`træffe en afgørelse` 是作出决定，不能把 `træffe` 按普通的遇见来翻译。`have krav på` 是有权要求，不是提出一个随意愿望。`stå inde for` 不是站在里面。"
+        },
+        {
+            "id": "U17-C044",
+            "zh": "这位博览群书的猜测者，无疑是一件极其有用的工具；但工具终究不能充当裁判。",
+            "grammar": "主句由 `X er Y, men X er ikke Z` 的对照结构组成。`Den belæste gætter` 是确定名词短语，回指开篇虚构的人物。`uhyre` 在这里作程度副词，修饰 `nyttigt`，表示极其、非常。`et redskab` 是中性名词，因此形容词采用 `nyttigt`。第二分句 `et redskab er ikke en dommer` 通过名词性判断句指出工具与最终裁决者之间的角色区别。",
+            "vocabulary": [
+                {
+                    "da": "belæst",
+                    "zh": "博览群书的；阅读广泛的",
+                    "note": "常用于形容知识面广的人"
+                },
+                {
+                    "da": "en gætter",
+                    "zh": "猜测者",
+                    "note": "来自动词 `gætte`"
+                },
+                {
+                    "da": "uhyre",
+                    "zh": "极其；非常",
+                    "note": "作为程度副词时具有较强的书面表达色彩"
+                },
+                {
+                    "da": "et redskab",
+                    "zh": "工具；手段",
+                    "note": "可指实体工具或技术系统"
+                },
+                {
+                    "da": "en dommer",
+                    "zh": "法官；裁判者",
+                    "note": "这里也有最终判断权的隐喻意义"
+                }
+            ],
+            "nuance": "结尾重新召回文章开头的图书馆人物，形成首尾呼应。`uhyre nyttigt` 明确肯定语言模型的实用价值，`men` 随即划清工具与权威裁决者的界限。`dommer` 在这里既呼应前文司法责任，也象征不能不经人类判断就把最终决定权交给工具。整句适合背诵，并能自然迁移到医学 AI、公共行政和自动化决策等议题。",
+            "transfer": [
+                "AI er et uhyre nyttigt redskab, men det kan ikke erstatte menneskelig dømmekraft.",
+                "Et værktøj kan støtte en beslutning, men det bør ikke træffe den alene.",
+                "Teknologien er nyttig, men ansvaret ligger stadig hos mennesker."
+            ],
+            "pitfall": "`uhyre` 在这里不是怪兽，而是非常、极其。`gætter` 表示猜测者，不应自动理解为不可靠的人。`dommer` 除了法官，还可在比喻中表示拥有最终判断权的人。"
+        }
+    ]
+}

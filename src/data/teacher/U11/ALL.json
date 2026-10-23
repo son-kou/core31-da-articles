@@ -1,0 +1,2522 @@
+{
+    "schema_version": 1,
+    "unit": "U11",
+    "part": "ALL",
+    "source_fingerprint": "U11-ALL-6ca916553c45",
+    "sentences": [
+        {
+            "id": "U11-C001",
+            "zh": "把两根手指放在手腕内侧、拇指正下方的位置，然后数一数，半分钟内能感觉到多少次脉搏跳动。",
+            "grammar": "句子由两个祈使句 `Læg …` 和 `tæl …` 构成，主语 `du` 在祈使句中省略。`lige under tommelfingeren` 是补充说明位置的状语。`hvor mange slag du kan mærke` 是由疑问词组引导的间接疑问从句，采用从句语序：`hvor mange slag`＋主语 `du`＋情态动词 `kan`＋不定式 `mærke`。`på et halvt minut` 表示在半分钟的时间范围内完成计数。",
+            "vocabulary": [
+                {
+                    "da": "lægge noget på noget",
+                    "zh": "把某物放在某处",
+                    "note": "`lægge – lagde – lagt`；强调放置动作"
+                },
+                {
+                    "da": "indersiden",
+                    "zh": "内侧；里面的一面",
+                    "note": "`en inderside`；相对词为 `ydersiden` 外侧"
+                },
+                {
+                    "da": "et håndled",
+                    "zh": "手腕",
+                    "note": "复数 `håndled`；`på indersiden af håndleddet` 在手腕内侧"
+                },
+                {
+                    "da": "en tommelfinger",
+                    "zh": "拇指",
+                    "note": "复数 `tommelfingre`"
+                },
+                {
+                    "da": "mærke",
+                    "zh": "感觉到；察觉到",
+                    "note": "`mærke pulsen` 感觉到脉搏"
+                }
+            ],
+            "nuance": "这是一段直接面向读者的身体观察练习。作者使用连续祈使句，语气清楚、实用，并不显得无礼。`lige` 在这里不是语气小品词，而是位置副词，表示恰好、正好。`mærke` 强调通过身体触觉察觉脉搏，与视觉上的 `se` 和听觉上的 `høre` 不同。",
+            "transfer": [
+                "Læg fingrene på håndleddet, og mærk pulsen.",
+                "Tæl, hvor mange gange det sker på et minut.",
+                "Hold hånden lige under brystet."
+            ],
+            "pitfall": "`lægge` 是放置，`ligge` 是处于某位置：`Jeg lægger hånden på bordet` 与 `Hånden ligger på bordet` 不能混用。`et halvt minut` 是半分钟，不是一个半分钟。"
+        },
+        {
+            "id": "U11-C002",
+            "zh": "把数出来的次数乘以二，就得到你的每分钟脉搏次数了。",
+            "grammar": "前半句 `Gang tallet med to` 是祈使结构，其中 `gang` 是表示乘法的动词祈使式。后半句 `og du har din puls` 使用现在时，却表达执行前一动作后即可得到的结果。整个结构属于 `祈使句 + og + 陈述句`，具有条件与结果关系，相当于如果这样做，就会得到某种结果。",
+            "vocabulary": [
+                {
+                    "da": "gange noget med noget",
+                    "zh": "把某个数乘以另一个数",
+                    "note": "`gang tallet med to` 把数字乘以二"
+                },
+                {
+                    "da": "et tal",
+                    "zh": "数字；数值",
+                    "note": "复数 `tal`"
+                },
+                {
+                    "da": "en puls",
+                    "zh": "脉搏；心率",
+                    "note": "`måle sin puls` 测量脉搏；`en høj puls` 心率较高"
+                }
+            ],
+            "nuance": "这是简洁的操作指导。`og du har …` 带有做完就得到了的轻快语气，比正式说明 `så kan du beregne …` 更适合面向普通读者的练习。这里得到的是按半分钟计数换算出的每分钟脉搏次数。",
+            "transfer": [
+                "Gang tallet med tre.",
+                "Følg instruktionen, og du har svaret.",
+                "Læg tallene sammen, og du får resultatet."
+            ],
+            "pitfall": "`gang` 在这里是动词祈使式，不是名词 `en gang` 一次。注意区分 `gange med` 乘以和 `dividere med` 除以。"
+        },
+        {
+            "id": "U11-C003",
+            "zh": "骨骼通过关节和肌腱连接在一起，而人体六百多块肌肉则让我们能够弯曲膝盖、转动头部，甚至举起一杯咖啡。",
+            "grammar": "第一分句 `Knoglerne holdes sammen af led og sener` 使用 s-被动，`holdes sammen` 表示被连接或维系在一起，`af` 引出起连接作用的结构。第二分句以 `over 600 muskler` 作主语，`gør det muligt at …` 是固定句型，表示使做某事成为可能。三个并列不定式 `bøje`、`dreje`、`løfte` 共同说明肌肉支持的动作。",
+            "vocabulary": [
+                {
+                    "da": "en knogle",
+                    "zh": "骨头；骨骼",
+                    "note": "复数 `knogler`"
+                },
+                {
+                    "da": "et led",
+                    "zh": "关节",
+                    "note": "复数 `led`；也可表示环节，需根据语境判断"
+                },
+                {
+                    "da": "en sene",
+                    "zh": "肌腱",
+                    "note": "复数 `sener`"
+                },
+                {
+                    "da": "holde sammen",
+                    "zh": "连接在一起；维系整体",
+                    "note": "也可形容团队团结"
+                },
+                {
+                    "da": "gøre det muligt at",
+                    "zh": "使做某事成为可能",
+                    "note": "正式说明和学术写作中非常实用"
+                }
+            ],
+            "nuance": "作者没有停留在解剖学名词罗列，而是将人体结构与弯膝、转头、拿咖啡等日常动作联系起来。`gør det muligt` 比直接说 `musklerne bøjer knæet` 更精确，强调肌肉为动作提供条件。语体是通俗科普，专业程度适中。",
+            "transfer": [
+                "Musklerne gør det muligt at bevæge kroppen.",
+                "Teknologien gør det muligt at opdage sygdomme tidligere.",
+                "De forskellige dele holdes sammen af X."
+            ],
+            "pitfall": "`et led` 是关节，不能与 `en leder` 领导者混淆。`gøre det muligt at` 中的 `det` 是形式宾语，不指某个具体物品。"
+        },
+        {
+            "id": "U11-C004",
+            "zh": "食物在口腔中被咀嚼，经食道送入胃部，再继续通过肠道；营养物质在那里被吸收，与此同时，肝脏和肾脏负责清除血液中的代谢废物。",
+            "grammar": "主句以 `Maden` 为主语，随后连续出现 `bliver tygget`、`sendt ned` 和 `videre gennem …`，后两个部分省略重复的助动词或相关谓语成分，构成被动动作链。`hvor næringsstofferne bliver optaget` 是修饰肠道的关系从句。`mens leveren og nyrerne renser …` 是表示同时发生的时间从句。`rense X for Y` 表示清除 X 中的 Y。",
+            "vocabulary": [
+                {
+                    "da": "tygge",
+                    "zh": "咀嚼",
+                    "note": "`tygge maden` 咀嚼食物"
+                },
+                {
+                    "da": "et spiserør",
+                    "zh": "食道",
+                    "note": "由 `spise` 吃和 `rør` 管道构成"
+                },
+                {
+                    "da": "en mavesæk",
+                    "zh": "胃",
+                    "note": "更具体的解剖学名称，区别于泛指腹部的 `mave`"
+                },
+                {
+                    "da": "et næringsstof",
+                    "zh": "营养物质",
+                    "note": "复数 `næringsstoffer`"
+                },
+                {
+                    "da": "rense noget for noget",
+                    "zh": "清除某物中的某种杂质",
+                    "note": "`rense blodet for affaldsstoffer` 清除血液中的废物"
+                }
+            ],
+            "nuance": "这句通过一连串被动结构描绘食物在消化系统中的运动，关注发生了什么，而非谁执行动作。`ned gennem` 突出向下通过食道的方向，`videre gennem` 表示继续前进。最后加入肝脏和肾脏的作用，使说明从消化过程扩展到身体处理代谢废物的功能。",
+            "transfer": [
+                "Maden passerer gennem mavesækken og videre til tarmene.",
+                "Næringsstofferne bliver optaget i tarmen.",
+                "Nyrerne er med til at rense blodet for affaldsstoffer."
+            ],
+            "pitfall": "`mave` 可指腹部或胃部，`mavesæk` 明确指胃。`optage` 在生理学语境中是吸收，不是录制。`rense X for Y` 中的 `for` 表示去除的对象，必须整体记忆。"
+        },
+        {
+            "id": "U11-C005",
+            "zh": "免疫系统时刻监视着入侵人体的细菌和病毒，而发烧往往意味着它正在与感染作斗争。",
+            "grammar": "第一分句主干是 `Immunforsvaret holder … øje med bakterier og virus`，`der trænger ind` 是修饰病原体的关系从句。第二分句 `feber er ofte et tegn på, at …` 通过 `at` 从句说明发烧提示的情况。`det` 回指 `immunforsvaret`，`er i gang med at bekæmpe` 表示正在进行的动作。",
+            "vocabulary": [
+                {
+                    "da": "immunforsvaret",
+                    "zh": "免疫系统；免疫防御机制",
+                    "note": "et immunforsvar"
+                },
+                {
+                    "da": "holde øje med noget",
+                    "zh": "密切关注；监视",
+                    "note": "固定搭配，不能省略 `øje`"
+                },
+                {
+                    "da": "trænge ind",
+                    "zh": "侵入；进入",
+                    "note": "`trænge ind i kroppen` 进入人体"
+                },
+                {
+                    "da": "være i gang med at",
+                    "zh": "正在做某事",
+                    "note": "强调行为或过程正在进行"
+                },
+                {
+                    "da": "bekæmpe en infektion",
+                    "zh": "对抗感染",
+                    "note": "`bekæmpe` 也可用于对抗贫困、犯罪等抽象问题"
+                }
+            ],
+            "nuance": "作者将免疫系统拟人化为持续巡逻的守卫，让复杂生物学过程容易理解。`ofte et tegn på` 很重要：发烧常常与感染或免疫反应有关，但不能据此断言所有发烧都由感染造成。`være i gang med` 比普通现在时更突出正在发生的防御过程。",
+            "transfer": [
+                "Immunsystemet holder øje med tegn på infektion.",
+                "Feber kan være et tegn på, at kroppen bekæmper en infektion.",
+                "Vi er i gang med at undersøge problemet."
+            ],
+            "pitfall": "`holde øje med` 不是保持一只眼睛，而是留意。`et tegn på, at …` 中的介词 `på` 不能随意换成 `for`。"
+        },
+        {
+            "id": "U11-C006",
+            "zh": "往往只有身体开始疼痛时，我们才会真正注意到它的存在。",
+            "grammar": "主干为 `Vi lægger først mærke til kroppen`，后接 `når den gør ondt` 时间从句。`først … når …` 强调只有在某一条件或时间点出现时才发生注意。`lægge mærke til` 是固定动词搭配。`den` 回指通性名词 `kroppen`。",
+            "vocabulary": [
+                {
+                    "da": "lægge mærke til noget",
+                    "zh": "注意到；察觉到",
+                    "note": "固定搭配，`mærke` 不可随意省略"
+                },
+                {
+                    "da": "gøre ondt",
+                    "zh": "疼；引起疼痛",
+                    "note": "`Det gør ondt` 很疼；`Hvor gør det ondt?` 哪里疼"
+                },
+                {
+                    "da": "først når",
+                    "zh": "只有当……时才",
+                    "note": "这里 `først` 与后面的 `når` 共同构成强调"
+                }
+            ],
+            "nuance": "这是从人体知识过渡到疾病体验的反思性短句。平时身体正常运作时，人可能不会主动关注它；出现疼痛后，身体才进入意识中心。作者用日常体验承接后面的受伤与看病情节。",
+            "transfer": [
+                "Vi lægger først mærke til problemet, når noget går galt.",
+                "Jeg lagde ikke mærke til det før i går.",
+                "Det gør ondt, når jeg bevæger armen."
+            ],
+            "pitfall": "`lægge mærke til` 是注意到，`mærke` 单独使用侧重感觉到。`gøre ondt` 是固定疼痛表达，不宜逐词翻译为做坏事。"
+        },
+        {
+            "id": "U11-C007",
+            "zh": "如果不小心割伤了手指，身体在短短几秒钟内就会开始修复伤口。",
+            "grammar": "句首 `Skærer man sig i fingeren` 是省略 `hvis` 的条件倒装：限定动词 `Skærer`＋主语 `man`。整个条件从句占据句首后，主句采用 `begynder kroppen` 的 V2 倒装。`skære sig i fingeren` 使用反身代词 `sig`，表示割伤自己的手指。`begynde at + 不定式` 表示开始做某事。",
+            "vocabulary": [
+                {
+                    "da": "skære sig",
+                    "zh": "割伤自己",
+                    "note": "`skære – skar – skåret`"
+                },
+                {
+                    "da": "i løbet af",
+                    "zh": "在……期间；在……之内",
+                    "note": "`i løbet af få sekunder` 在几秒钟内"
+                },
+                {
+                    "da": "reparere",
+                    "zh": "修复；修理",
+                    "note": "既可用于身体组织，也可用于机器和设备"
+                },
+                {
+                    "da": "en skade",
+                    "zh": "损伤；伤害",
+                    "note": "`reparere skaden` 修复损伤"
+                }
+            ],
+            "nuance": "这一句将身体的修复能力与具体的小伤口联系起来。条件倒装比完整的 `Hvis man …` 更紧凑，常见于健康建议、操作说明和正式书面语。`i løbet af få sekunder` 强调修复过程启动迅速，而不是伤口几秒钟就能完全愈合。",
+            "transfer": [
+                "Skærer man sig, bør man rense såret.",
+                "Får man feber, skal man holde øje med andre symptomer.",
+                "Kroppen begynder hurtigt at reparere skaden."
+            ],
+            "pitfall": "`Skærer man sig …` 在这里不是提问，而是如果……的条件句。`skære sig i fingeren` 中应保留反身代词 `sig`，且身体部位通常用确定式 `fingeren`。"
+        },
+        {
+            "id": "U11-C008",
+            "zh": "这说明身体正在发挥修复作用。不过，如果红肿向周围扩散，或者伤口出现脓液并伴随发烧，就可能意味着伤口已经发炎，这时应该联系医生。",
+            "grammar": "第一分句用 `Det er et tegn på, at …` 说明某种现象所代表的意义。转折后连续出现两个无 `hvis` 的条件倒装：`breder rødmen sig` 与 `kommer der pus og feber`。条件结束后，主句为 `kan såret være betændt`，随后 `og så bør man kontakte lægen` 给出行动建议。`brede sig` 是反身动词，表示向外扩散。",
+            "vocabulary": [
+                {
+                    "da": "brede sig",
+                    "zh": "扩散；蔓延",
+                    "note": "`rødmen breder sig` 发红范围扩大"
+                },
+                {
+                    "da": "rødme",
+                    "zh": "发红；红斑",
+                    "note": "en rødme；`rødmen` 为确定形式"
+                },
+                {
+                    "da": "pus",
+                    "zh": "脓；脓液",
+                    "note": "et pus；临床症状描述词"
+                },
+                {
+                    "da": "betændt",
+                    "zh": "发炎的；感染发炎的",
+                    "note": "`et betændt sår` 发炎的伤口"
+                },
+                {
+                    "da": "kontakte lægen",
+                    "zh": "联系医生",
+                    "note": "`kontakte` 直接接宾语，不加介词"
+                }
+            ],
+            "nuance": "作者区分正常的组织反应和需要关注的警示性变化。`kan` 保留诊断上的不确定性，并没有仅凭这些征象断言必然感染。`så bør man` 是有条件的建议，在患者教育材料中比一味使用命令式更具解释性。",
+            "transfer": [
+                "Breder rødmen sig, bør du kontakte lægen.",
+                "Det kan være et tegn på betændelse.",
+                "Kommer der nye symptomer, skal situationen vurderes igen."
+            ],
+            "pitfall": "`betændt` 不等于被烧伤，而是发炎。`kan såret være betændt` 是主句倒装，不要误作疑问。`rødme` 与 `hævelse` 分别是发红和肿胀，不应完全混为一谈。"
+        },
+        {
+            "id": "U11-C009",
+            "zh": "马兹今年34岁，从昨天晚上起就一直肚子疼。",
+            "grammar": "两个并列谓语分别是 `er 34` 和 `har haft ondt i maven`。`har haft` 为现在完成时，与 `siden i går aftes` 搭配，表示疼痛从昨天晚上开始并持续到当前叙述时间。`have ondt i + 身体部位` 是丹麦语报告疼痛的核心结构。",
+            "vocabulary": [
+                {
+                    "da": "have ondt i maven",
+                    "zh": "肚子疼；腹痛",
+                    "note": "`have ondt i + 身体部位`"
+                },
+                {
+                    "da": "siden i går aftes",
+                    "zh": "从昨天晚上起",
+                    "note": "`siden` 表示持续状态的起点"
+                },
+                {
+                    "da": "i går aftes",
+                    "zh": "昨天晚上",
+                    "note": "与 `i aften` 今天晚上区别"
+                }
+            ],
+            "nuance": "病史叙述首先交代年龄、主诉和症状持续时间。这是医生评估病情的重要基础。这里使用现在完成时，而不是普通过去时，是因为腹痛并非仅仅发生在昨天晚上，而是延续到了现在。",
+            "transfer": [
+                "Jeg har haft ondt i maven siden i går.",
+                "Hun har haft hovedpine i tre dage.",
+                "Smerterne begyndte i går aftes."
+            ],
+            "pitfall": "`Jeg har ondt i maven` 是我现在腹痛；`Jeg havde ondt i maven` 通常描述过去腹痛。`siden` 强调从某个时间点开始，`i tre dage` 强调持续了三天。"
+        },
+        {
+            "id": "U11-C010",
+            "zh": "他在诊所的电话接听时段打电话过去，并约到了当天上午的看诊时间。",
+            "grammar": "主语 `Han` 后接两个并列的现在时谓语 `ringer` 和 `får`，构成连续动作。`ringe til nogen` 表示给某人或某机构打电话。`få en tid` 表示获得预约。`samme formiddag` 是时间状语，表示故事所指的同一个上午。",
+            "vocabulary": [
+                {
+                    "da": "et lægehus",
+                    "zh": "基层医生诊所；全科诊所",
+                    "note": "et 词，可指多名全科医生共同执业的诊所"
+                },
+                {
+                    "da": "telefontid",
+                    "zh": "电话接听时段",
+                    "note": "en telefontid；指诊所安排的电话联系时间"
+                },
+                {
+                    "da": "få en tid",
+                    "zh": "约到一个预约时间",
+                    "note": "`bestille tid` 预约"
+                },
+                {
+                    "da": "samme formiddag",
+                    "zh": "同一天上午",
+                    "note": "`en formiddag` 上午时段"
+                }
+            ],
+            "nuance": "这句展示丹麦基层医疗的日常预约场景。叙事采用现在时，使读者仿佛跟随主人公经历整个就医过程。`får en tid` 很口语化，重点是成功约到时间，而不是预约程序的技术细节。",
+            "transfer": [
+                "Jeg ringer til lægehuset for at bestille tid.",
+                "Jeg har fået en tid hos lægen i morgen.",
+                "Kan jeg få en tid i formiddag?"
+            ],
+            "pitfall": "`få en tid` 是约到看诊时间，不是获得一段抽象的时间。`ringe til` 中的 `til` 不可省略，除非改用直接宾语结构 `ringe nogen op`。"
+        },
+        {
+            "id": "U11-C011",
+            "zh": "您好。有什么我可以帮您的吗？",
+            "grammar": "第一句是正式而自然的问候。第二句 `Hvad kan jeg gøre for dig?` 采用直接疑问句语序：疑问词 `Hvad`＋限定动词 `kan`＋主语 `jeg`＋不定式 `gøre`。`gøre noget for nogen` 表示为某人做某事。",
+            "vocabulary": [
+                {
+                    "da": "Goddag",
+                    "zh": "您好；日安",
+                    "note": "比 `Hej` 稍正式"
+                },
+                {
+                    "da": "Hvad kan jeg gøre for dig?",
+                    "zh": "有什么我能帮你的吗？",
+                    "note": "服务、医疗和日常交流中自然的开场问句"
+                }
+            ],
+            "nuance": "医生以开放式问题开始问诊，没有立即限定患者只能回答某一症状。丹麦语日常医患对话常使用 `du/dig`，即使双方并不熟悉，也不意味着失礼或不专业。",
+            "transfer": [
+                "Goddag. Hvad kan jeg hjælpe dig med?",
+                "Hvad kan jeg gøre for dig i dag?"
+            ],
+            "pitfall": "`gøre for dig` 不是替你完成所有事情，而是提供帮助的礼貌表达。"
+        },
+        {
+            "id": "U11-C012",
+            "zh": "我肚子疼。大概只是吃坏了什么东西吧。",
+            "grammar": "第一句使用固定症状结构 `have ondt i maven`。第二句 `har nok bare spist noget forkert` 是现在完成时，`nok` 表示推测，`bare` 限定事情可能并不严重。`noget forkert` 中形容词采用中性形式，表示某种不合适的东西。",
+            "vocabulary": [
+                {
+                    "da": "have ondt i maven",
+                    "zh": "腹痛；肚子疼",
+                    "note": "患者描述症状的基本句型"
+                },
+                {
+                    "da": "nok",
+                    "zh": "大概；想必",
+                    "note": "表示说话人的推测"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是；不过",
+                    "note": "这里有淡化严重性的作用"
+                },
+                {
+                    "da": "spise noget forkert",
+                    "zh": "吃了不合适的东西；吃坏肚子",
+                    "note": "日常口语中常见的自我解释"
+                }
+            ],
+            "nuance": "Mads 在报告症状后立即给出了自己的解释。`nok bare` 组合带有轻描淡写的效果，近似中文的大概只是……而已。作者借此说明患者有时会过早归因，可能忽略需要进一步检查的征象。",
+            "transfer": [
+                "Jeg har nok bare spist noget forkert.",
+                "Det er nok ikke noget alvorligt.",
+                "Jeg har haft ondt i maven hele natten."
+            ],
+            "pitfall": "`nok` 在这里不是足够，而是大概。`bare` 会降低问题的严重感，在描述病情时应同时提供客观症状，而不只给出自己的猜测。"
+        },
+        {
+            "id": "U11-C013",
+            "zh": "具体是哪里疼？",
+            "grammar": "`Hvor` 是询问位置的疑问副词，后接限定动词 `sidder` 和主语 `smerten`。`sidde` 在这里不表示人坐着，而是描述疼痛位于身体的哪个部位。",
+            "vocabulary": [
+                {
+                    "da": "Hvor sidder smerten?",
+                    "zh": "疼痛具体在哪里？",
+                    "note": "自然的临床问诊表达"
+                },
+                {
+                    "da": "en smerte",
+                    "zh": "疼痛",
+                    "note": "复数 `smerter`；可说 `stærke smerter` 剧烈疼痛"
+                }
+            ],
+            "nuance": "医生没有接受患者吃坏东西的初步判断，而是转向疼痛部位这一更具体的信息。`Hvor sidder smerten?` 比一般的 `Hvor gør det ondt?` 略显临床化，但同样自然。",
+            "transfer": [
+                "Hvor sidder smerten helt præcist?",
+                "Hvor gør det mest ondt?"
+            ],
+            "pitfall": "`sidde` 在病痛语境中可表示疼痛的位置，不能按坐着逐词翻译。"
+        },
+        {
+            "id": "U11-C014",
+            "zh": "这里，右下腹。不过昨天晚上刚开始的时候，其实是在肚脐周围疼。",
+            "grammar": "第一部分 `Her nede i højre side` 是省略谓语的地点回答，依据前文补出疼痛位置。第二句 `det startede faktisk omkring navlen` 使用过去时，叙述疼痛最初的位置。`faktisk` 表示补充一个可能改变对病情理解的重要事实。",
+            "vocabulary": [
+                {
+                    "da": "her nede",
+                    "zh": "这里靠下的位置",
+                    "note": "`nede` 表示较低位置"
+                },
+                {
+                    "da": "i højre side",
+                    "zh": "在右侧",
+                    "note": "描述身体方位"
+                },
+                {
+                    "da": "en navle",
+                    "zh": "肚脐",
+                    "note": "`omkring navlen` 在肚脐周围"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "其实；事实上",
+                    "note": "此处用于修正或补充先前信息"
+                }
+            ],
+            "nuance": "这是一段非常重要的症状描述：不仅说明现在疼在哪里，还指出疼痛最初的位置与现在不同。`faktisk` 表示患者回想后发现一个值得补充的细节。医生评估腹痛时，疼痛位置如何随时间变化可能比笼统说肚子疼更有信息价值。",
+            "transfer": [
+                "Det gør ondt her nede i højre side.",
+                "Smerten startede omkring navlen.",
+                "Det begyndte faktisk i går aftes."
+            ],
+            "pitfall": "`højre` 是右，`venstre` 是左。`omkring navlen` 表示肚脐周围，不一定正好位于肚脐中心。"
+        },
+        {
+            "id": "U11-C015",
+            "zh": "你会怎么形容这种疼痛？是刺痛、阵阵窜痛，还是持续的隐痛？",
+            "grammar": "第一句 `Hvordan vil du beskrive den?` 中，`den` 回指通性名词 `smerten`。`vil` 这里用于较柔和地引导对方描述，而不主要表示强烈意愿。第二句列举三个形容词性现在分词 `stikkende`、`jagende`、`murrende`，省略重复的 `Er den`，构成问诊中的选择性提问。",
+            "vocabulary": [
+                {
+                    "da": "beskrive en smerte",
+                    "zh": "描述疼痛",
+                    "note": "`beskrive – beskrev – beskrevet`"
+                },
+                {
+                    "da": "stikkende",
+                    "zh": "针刺样的；刺痛的",
+                    "note": "`en stikkende smerte` 刺痛"
+                },
+                {
+                    "da": "jagende",
+                    "zh": "阵发性的；窜痛的",
+                    "note": "常强调突然袭来的痛感"
+                },
+                {
+                    "da": "murrende",
+                    "zh": "隐隐作痛的；持续钝痛的",
+                    "note": "通常不像针刺痛那样尖锐"
+                }
+            ],
+            "nuance": "医生从疼痛位置进一步询问疼痛性质，这是结构化问诊的一部分。三个形容词不仅是程度差异，也描述不同的主观感觉。`Hvordan vil du beskrive …?` 是非常值得掌握的开放式提问，既给患者表达空间，又通过后面的选项提供帮助。",
+            "transfer": [
+                "Hvordan vil du beskrive smerten?",
+                "Er smerten stikkende eller murrende?",
+                "Kommer smerten i jag, eller er den konstant?"
+            ],
+            "pitfall": "`jagende` 不能简单理解为追赶人的。`murrende` 通常是隐痛或钝痛，不等于完全没有疼痛。医学症状形容词应按实际感觉选择，不能只背中文标签。"
+        },
+        {
+            "id": "U11-C016",
+            "zh": "感觉是一直在疼，而且我走路或者咳嗽的时候，疼痛会加重。",
+            "grammar": "主句由两个并列分句构成：`Den er ligesom konstant` 和 `den bliver værre`。`ligesom` 在这里是口语缓和词，表示差不多、怎么说呢，而不是严格的相同比较。`blive værre` 表示状态恶化或程度加重。`når jeg går eller hoster` 是时间或情境从句，说明疼痛加重的触发条件。",
+            "vocabulary": [
+                {
+                    "da": "konstant",
+                    "zh": "持续的；不断的",
+                    "note": "`konstante smerter` 持续疼痛"
+                },
+                {
+                    "da": "ligesom",
+                    "zh": "有点像；可以说是；怎么说呢",
+                    "note": "口语中可用于表达不确定的描述"
+                },
+                {
+                    "da": "blive værre",
+                    "zh": "变得更严重；加重",
+                    "note": "`værre` 是 `dårlig` 的比较级之一"
+                },
+                {
+                    "da": "hoste",
+                    "zh": "咳嗽",
+                    "note": "既是动词，也可作名词 `en hoste`"
+                }
+            ],
+            "nuance": "Mads 并没有使用完全确定的医学语言，而用 `ligesom` 表达自己对疼痛的主观感受。这非常符合真实医患对话。`bliver værre, når …` 提供了疼痛与活动之间的关系，比仅仅说非常疼更有临床描述价值。",
+            "transfer": [
+                "Smerten er næsten konstant.",
+                "Det bliver værre, når jeg bevæger mig.",
+                "Jeg får mere ondt, når jeg hoster."
+            ],
+            "pitfall": "`blive værre` 是变得更严重，而 `være værre` 是处于更严重的状态。`ligesom` 不一定是真正的像……一样，也可能只是口语中的模糊表达。"
+        },
+        {
+            "id": "U11-C017",
+            "zh": "你有呕吐过吗？",
+            "grammar": "`Har du kastet op?` 使用现在完成时疑问句，限定助动词 `Har` 位于主语之前。医生询问的是本次疾病过程中是否发生过呕吐，而不是患者平时是否容易呕吐。",
+            "vocabulary": [
+                {
+                    "da": "kaste op",
+                    "zh": "呕吐",
+                    "note": "`kaste – kastede – kastet`；动词小品词 `op` 必须保留"
+                }
+            ],
+            "nuance": "问句非常简短，符合医生连续询问相关症状的节奏。现在完成时强调从症状开始到目前为止的经历，而不是一般习惯。",
+            "transfer": [
+                "Har du kastet op?",
+                "Jeg har kastet op to gange i dag.",
+                "Har du haft kvalme?"
+            ],
+            "pitfall": "`kaste op` 是呕吐，不是向上扔东西。名词 `opkast` 表示呕吐物或呕吐这一现象。"
+        },
+        {
+            "id": "U11-C018",
+            "zh": "今天凌晨吐过一次。而且我一点食欲都没有。",
+            "grammar": "`Én gang i nat` 是省略回答，完整含义由医生前一句的问题恢复。`Én` 用重音符号突出恰好一次。第二句 `jeg har overhovedet ikke lyst til mad` 使用 `overhovedet ikke` 加强否定，`have lyst til` 表示想要或有意愿。",
+            "vocabulary": [
+                {
+                    "da": "én gang",
+                    "zh": "一次",
+                    "note": "重音符号突出数量恰好为一"
+                },
+                {
+                    "da": "i nat",
+                    "zh": "夜里；昨夜",
+                    "note": "具体指向由说话时间决定"
+                },
+                {
+                    "da": "overhovedet ikke",
+                    "zh": "完全不；一点也不",
+                    "note": "加强否定程度"
+                },
+                {
+                    "da": "have lyst til mad",
+                    "zh": "有食欲；想吃东西",
+                    "note": "`have lyst til noget` 想要某物"
+                }
+            ],
+            "nuance": "患者先回答呕吐次数，再主动补充食欲丧失。`overhovedet ikke` 比简单的 `ikke` 更强烈，表达完全没有想吃东西的欲望。在问诊中，患者主动提供伴随症状通常比只回答是或否更有帮助。",
+            "transfer": [
+                "Jeg har kastet op én gang i nat.",
+                "Jeg har overhovedet ikke lyst til mad.",
+                "Jeg har ikke haft nogen appetit siden i går."
+            ],
+            "pitfall": "`have lyst til` 不是拥有快乐，而是想要、愿意。`i nat` 与 `i aften` 不同，前者指夜间，后者指今晚。"
+        },
+        {
+            "id": "U11-C019",
+            "zh": "你量过体温吗？",
+            "grammar": "`Har du målt …?` 是现在完成时疑问结构。`måle` 的过去分词为 `målt`。`din temperatur` 用物主代词表示患者自己的体温。",
+            "vocabulary": [
+                {
+                    "da": "måle sin temperatur",
+                    "zh": "测量体温",
+                    "note": "`måle – målte – målt`"
+                },
+                {
+                    "da": "en temperatur",
+                    "zh": "温度；体温",
+                    "note": "`have høj temperatur` 体温高"
+                }
+            ],
+            "nuance": "医生从主观症状转向可量化的测量信息。相比 `Har du feber?`，询问是否测量过体温能够进一步获得具体数值。",
+            "transfer": [
+                "Har du målt din temperatur?",
+                "Hvad viste termometeret?",
+                "Jeg har målt min temperatur flere gange."
+            ],
+            "pitfall": "`måle` 是测量，不是 `male` 绘画。`målt` 是过去分词，不能误写为 `målet`。"
+        },
+        {
+            "id": "U11-C020",
+            "zh": "今天早上是38.2度。",
+            "grammar": "这是高度自然的省略式回答，省略了 `Min temperatur var` 等可由上下文恢复的成分。`i morges` 表示今天早晨。丹麦语小数通常使用逗号，`38,2` 读作 `otteogtredive komma to`。",
+            "vocabulary": [
+                {
+                    "da": "i morges",
+                    "zh": "今天早上",
+                    "note": "与 `i morgen` 明天区别"
+                },
+                {
+                    "da": "38,2",
+                    "zh": "38.2",
+                    "note": "丹麦语以逗号作小数分隔符"
+                }
+            ],
+            "nuance": "真实看诊时，患者经常只回答数字和测量时间，不需要完整句子。医生根据上下文知道这是摄氏体温。",
+            "transfer": [
+                "Jeg havde 38,2 i morges.",
+                "Min temperatur var 38,2 grader.",
+                "Jeg målte feber i nat."
+            ],
+            "pitfall": "`i morges` 是今天早上，`i morgen` 是明天，词形相近但时间完全不同。"
+        },
+        {
+            "id": "U11-C021",
+            "zh": "我可以轻轻摸一下你的肚子吗？……这里会疼吗？",
+            "grammar": "`Må jeg …?` 使用情态动词 `må` 请求许可。`lige` 是语气小品词，使医生提出的检查动作显得简短、自然。`mærke på noget` 表示触摸检查某个部位。第二问句 `Gør det ondt her?` 使用疼痛表达 `gøre ondt`，`her` 指正在按压的位置。",
+            "vocabulary": [
+                {
+                    "da": "Må jeg …?",
+                    "zh": "我可以……吗？",
+                    "note": "征求许可的常用句型"
+                },
+                {
+                    "da": "mærke på noget",
+                    "zh": "摸一摸；触诊",
+                    "note": "与 `mærke noget` 感觉到某物有所区别"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下；稍微",
+                    "note": "这里缓和请求，不是位置上的正好"
+                },
+                {
+                    "da": "Gør det ondt her?",
+                    "zh": "这里疼吗？",
+                    "note": "非常实用的检查问句"
+                }
+            ],
+            "nuance": "医生在接触患者身体前先征求许可，语气礼貌且自然。`lige` 让请求显得不那么生硬，但不意味着检查一定只持续极短时间。省略号表示医生正在触诊，随后根据患者反应继续提问。",
+            "transfer": [
+                "Må jeg lige mærke på din mave?",
+                "Gør det ondt, når jeg trykker her?",
+                "Sig til, hvis det gør ondt."
+            ],
+            "pitfall": "`må` 在这里表示请求许可，不是必须。`mærke på` 是通过触摸检查；`mærke` 单独使用则常表示感觉到。"
+        },
+        {
+            "id": "U11-C022",
+            "zh": "哎哟！对，就是那里疼！",
+            "grammar": "`Av!` 是疼痛时自然发出的感叹词。`Ja, dér` 是省略式回答，强调具体位置。`dér` 上的重音符号用于强调就是那个地方。",
+            "vocabulary": [
+                {
+                    "da": "Av!",
+                    "zh": "哎哟！疼！",
+                    "note": "疼痛时的感叹词"
+                },
+                {
+                    "da": "dér",
+                    "zh": "就在那儿",
+                    "note": "重音形式，用于强调位置"
+                }
+            ],
+            "nuance": "患者的即时反应比抽象描述更直接。`dér` 传达出医生刚好触碰到疼痛位置，符合真实检查过程中的对话节奏。",
+            "transfer": [
+                "Av! Det gør ondt!",
+                "Ja, lige dér.",
+                "Det er præcis dér, det gør ondt."
+            ],
+            "pitfall": "`der` 和强调写法 `dér` 在很多情况下读音相近，但后者明确突出位置，不是存在句中的形式主语。"
+        },
+        {
+            "id": "U11-C023",
+            "zh": "听起来情况不太妙。可能是阑尾出了问题，今天就必须检查。我给医院打个电话。",
+            "grammar": "`Det lyder ikke så godt` 使用 `lyde + 形容词` 评价听到的信息。`Det kan være blindtarmen` 中 `kan` 表示可能性，不是能力。`det skal undersøges i dag` 使用情态动词 `skal` 加 s-被动 `undersøges`，表示需要在今天进行检查。最后的 `Jeg ringer til hospitalet` 使用现在时表达即将采取的行动。",
+            "vocabulary": [
+                {
+                    "da": "Det lyder ikke så godt",
+                    "zh": "听起来不太好；情况似乎不妙",
+                    "note": "相对克制的担忧表达"
+                },
+                {
+                    "da": "blindtarmen",
+                    "zh": "阑尾；日常语境中也指阑尾相关问题",
+                    "note": "严格解剖学上应区分盲肠与阑尾，但丹麦日常医疗表达常用此词指阑尾问题"
+                },
+                {
+                    "da": "undersøge",
+                    "zh": "检查；调查",
+                    "note": "`undersøges` 是 s-被动"
+                },
+                {
+                    "da": "ringe til hospitalet",
+                    "zh": "给医院打电话",
+                    "note": "`ringe til` 后接联系对象"
+                }
+            ],
+            "nuance": "医生的语气明显从普通问诊转向需要及时评估的情况。`Det kan være …` 保持诊断上的谨慎，没有仅凭症状就宣布确定诊断。`i dag` 与 `skal` 共同突出处理的时间要求。`ikke så godt` 是丹麦语中可能显得克制、但实际表达认真担忧的说法。",
+            "transfer": [
+                "Det lyder ikke så godt.",
+                "Det kan være noget, der skal undersøges nærmere.",
+                "Jeg ringer til hospitalet med det samme."
+            ],
+            "pitfall": "`kan være` 在这里表示可能是，不是能够成为。`blindtarmen` 在日常话语中常借指阑尾炎的可能性，但正式诊断需要区分器官与疾病。"
+        },
+        {
+            "id": "U11-C024",
+            "zh": "今天就去？可我本来打算今天下午去上班的。",
+            "grammar": "`I dag?` 是重复医生所说时间的省略疑问，表达惊讶。`Jeg skulle egentlig på arbejde` 使用 `skulle` 描述原定计划，`egentlig` 暗示这个计划现在可能不得不改变。`i eftermiddag` 表示今天下午。",
+            "vocabulary": [
+                {
+                    "da": "egentlig",
+                    "zh": "本来；原先其实",
+                    "note": "在计划受干扰时常表示原本的打算"
+                },
+                {
+                    "da": "skulle på arbejde",
+                    "zh": "原定要去上班",
+                    "note": "`skulle` 在语境中表达既定安排"
+                },
+                {
+                    "da": "i eftermiddag",
+                    "zh": "今天下午",
+                    "note": "`i går eftermiddags` 昨天下午"
+                }
+            ],
+            "nuance": "Mads 并非质疑医生的专业判断，而是突然意识到自己的日程将被打乱。`egentlig` 使句子带有一点意外和犹豫，非常符合患者面对临时医疗安排时的口语反应。",
+            "transfer": [
+                "Jeg skulle egentlig på arbejde i dag.",
+                "Jeg havde egentlig andre planer.",
+                "Allerede i dag?"
+            ],
+            "pitfall": "`skulle` 不一定表示必须履行的义务，这里描述原本安排。`egentlig` 在不同语境中可表示究竟、其实、本来，需要结合上下文判断。"
+        },
+        {
+            "id": "U11-C025",
+            "zh": "工作先放一放吧。应该会没事的，但我们不能只是等着看情况。",
+            "grammar": "`Det må vente` 使用情态动词 `må`，这里表示某事不得不延后，`det` 指前文的上班安排。`Det skal nok gå` 是固定安慰表达，其中 `nok` 表示说话人有信心事情会顺利。最后 `vi skal ikke vente og se` 使用 `skal ikke` 否定等待这一行动方案。",
+            "vocabulary": [
+                {
+                    "da": "Det må vente",
+                    "zh": "那件事得往后放；先别管那个",
+                    "note": "用于给事项排列优先级"
+                },
+                {
+                    "da": "Det skal nok gå",
+                    "zh": "会没事的；事情应该会顺利解决",
+                    "note": "常见安慰语"
+                },
+                {
+                    "da": "vente og se",
+                    "zh": "等等看；观察情况再说",
+                    "note": "医疗语境中可指暂时观察而不立即处理"
+                }
+            ],
+            "nuance": "医生同时完成两件事：安慰患者，并明确表示不能推迟检查。`Det skal nok gå` 并不是保证诊断结果一定良好，而是帮助患者平复紧张情绪。后面的 `men` 保留临床行动的必要性，避免安慰被误解为可以不用检查。",
+            "transfer": [
+                "Arbejdet må vente.",
+                "Det skal nok gå.",
+                "Vi kan ikke bare vente og se."
+            ],
+            "pitfall": "`må vente` 不是可以自愿等待，而是必须延后。`nok` 在 `Det skal nok gå` 中传达信心，与表示足够的 `nok` 不同。"
+        },
+        {
+            "id": "U11-C026",
+            "zh": "如果马兹当时只是说自己有点肚子疼，他也许就会被打发回家，只得到多喝水、好好休息的建议。",
+            "grammar": "这是重要的过去非现实条件句。`Havde Mads bare sagt …` 是省略 `hvis` 的条件倒装，完整形式相当于 `Hvis Mads bare havde sagt …`。条件部分使用过去完成时 `havde sagt`；结果部分 `var han måske blevet sendt hjem` 使用被动的过去完成结构，表达与实际经过不同的假设结果。`med besked om at …` 引出被告知的建议内容。",
+            "vocabulary": [
+                {
+                    "da": "havde … sagt",
+                    "zh": "如果当时说过；过去完成时形式",
+                    "note": "在反事实条件句中常与假设结果搭配"
+                },
+                {
+                    "da": "blive sendt hjem",
+                    "zh": "被要求回家；被送回家",
+                    "note": "被动表达"
+                },
+                {
+                    "da": "med besked om at",
+                    "zh": "并被告知要……",
+                    "note": "`en besked` 消息、指示"
+                },
+                {
+                    "da": "hvile sig",
+                    "zh": "休息",
+                    "note": "反身表达，也可直接说 `hvile`"
+                }
+            ],
+            "nuance": "这是作者对问诊过程的反事实反思：如果患者只提供笼统信息，后续处理可能完全不同。`bare` 体现信息过于简单，`måske` 保留不确定性，没有声称医生必然会漏诊。整个句式非常适合在议论文、案例分析和科研复盘中讨论假设情形。",
+            "transfer": [
+                "Havde vi opdaget problemet tidligere, kunne vi have handlet hurtigere.",
+                "Hvis han bare havde sagt det, var situationen måske blevet anderledes.",
+                "Patienten blev sendt hjem med besked om at hvile sig."
+            ],
+            "pitfall": "不能把 `Havde Mads …` 当作普通疑问句。它等于 `Hvis Mads havde …`。这里讨论没有发生的假设，不能误读成患者实际已经被送回家。"
+        },
+        {
+            "id": "U11-C027",
+            "zh": "真正起关键作用的，是那些具体细节：疼痛从肚脐周围转移到右下腹，活动时疼痛加重，而且他还发烧。",
+            "grammar": "主句 `Det var detaljerne, der gjorde forskellen` 是强调句，突出 `detaljerne`。冒号后三个由 `at` 引导的内容从句构成同位说明，解释哪些细节起了作用。`var flyttet` 是表示位置变化的过去完成时；`blev værre` 描述疼痛加重；`ved bevægelse` 表示活动时或由于身体运动。",
+            "vocabulary": [
+                {
+                    "da": "gøre forskellen",
+                    "zh": "起决定性作用；造成关键区别",
+                    "note": "与 `gøre en forskel` 有关联"
+                },
+                {
+                    "da": "flytte sig",
+                    "zh": "移动；转移位置",
+                    "note": "可用于疼痛位置变化"
+                },
+                {
+                    "da": "ved bevægelse",
+                    "zh": "活动时；在运动过程中",
+                    "note": "临床症状描述中实用"
+                },
+                {
+                    "da": "have feber",
+                    "zh": "发烧",
+                    "note": "通常不加冠词"
+                }
+            ],
+            "nuance": "作者用强调句明确指出本次问诊真正重要的不是患者自己猜测的病因，而是能够区分不同疾病可能性的具体症状。冒号后采用平行结构列出三个证据点，使读者容易记忆。这种证据导向的表达也适合科研讨论：指出究竟哪些观察改变了判断。",
+            "transfer": [
+                "Det var detaljerne, der gjorde forskellen.",
+                "Smerten flyttede sig fra X til Y.",
+                "Det afgørende var, at symptomerne havde ændret sig."
+            ],
+            "pitfall": "`Det var X, der …` 是强调结构，不能将 `det` 当作具体物体。`gøre forskellen` 是起关键作用，不只是制造差异。"
+        },
+        {
+            "id": "U11-C028",
+            "zh": "到了医院，他接受了抽血检查，而超声检查显示他的阑尾已经发炎。",
+            "grammar": "句首地点状语 `På hospitalet` 引发 `fik han` 的 V2 倒装。`få taget blodprøver` 属于 `få + 过去分词` 结构，表示某项操作由别人为自己完成。第二分句 `en ultralydsscanning viste …` 以检查结果作为主语。`betændt` 是过去分词形容词，修饰 `blindtarm`。",
+            "vocabulary": [
+                {
+                    "da": "få taget blodprøver",
+                    "zh": "接受抽血检查",
+                    "note": "常用医疗表达；单数 `en blodprøve`"
+                },
+                {
+                    "da": "en ultralydsscanning",
+                    "zh": "超声检查",
+                    "note": "复合词，由 `ultralyd` 与 `scanning` 组成"
+                },
+                {
+                    "da": "vise",
+                    "zh": "显示；表明",
+                    "note": "`undersøgelsen viste, at …` 检查显示……"
+                },
+                {
+                    "da": "betændt",
+                    "zh": "发炎的",
+                    "note": "可修饰组织、伤口等"
+                }
+            ],
+            "nuance": "作者在这里完成诊断叙事：详细症状引导进一步检查，检查提供了明确的发现。`fik han taget blodprøver` 是在丹麦看病时很实用的自然表达，重点是患者接受检查，而不是亲自采血。文章使用具体检查方式，但不能据此认为所有类似病例都必须采用同样的检查组合。",
+            "transfer": [
+                "Jeg fik taget blodprøver på hospitalet.",
+                "Scanningen viste tegn på betændelse.",
+                "Lægen bestilte en ultralydsscanning."
+            ],
+            "pitfall": "`få taget` 不是自己去抽别人的血，而是接受别人完成的操作。`blodprøve` 与 `blodtryk` 不同，前者是血液检查，后者是血压。"
+        },
+        {
+            "id": "U11-C029",
+            "zh": "医生通过提问逐步缩小可能病因的范围，而患者回答得越准确，这个过程就越容易。",
+            "grammar": "第一分句 `Lægen bruger sine spørgsmål til at indsnævre mulighederne` 使用 `bruge X til at Y` 表示把 X 用于某个目的。第二分句是比较关联结构 `jo mere præcist patienten svarer, desto lettere bliver det`，意思是越……就越……。`jo` 从句采用从句语序，`desto` 后接比较级并形成主句 V2 结构。",
+            "vocabulary": [
+                {
+                    "da": "indsnævre",
+                    "zh": "缩小范围；缩窄",
+                    "note": "`indsnævre mulighederne` 缩小可能性范围"
+                },
+                {
+                    "da": "præcis",
+                    "zh": "准确的；精确的",
+                    "note": "副词形式 `præcist`"
+                },
+                {
+                    "da": "jo … desto …",
+                    "zh": "越……就越……",
+                    "note": "比较关联句型"
+                },
+                {
+                    "da": "bruge noget til at",
+                    "zh": "利用某物来做某事",
+                    "note": "说明工具或方法的用途"
+                }
+            ],
+            "nuance": "这一句从具体案例上升为一般问诊原则。`indsnævre mulighederne` 准确描述医生通过排除或区分不同解释来开展判断的过程。`jo … desto …` 是非常值得主动掌握的高级句型，可用于医学、研究、管理和日常经验总结。",
+            "transfer": [
+                "Jo mere præcist du beskriver symptomerne, desto lettere bliver det at hjælpe dig.",
+                "Lægen bruger undersøgelserne til at indsnævre mulighederne.",
+                "Jo mere vi ved, desto bedre kan vi vurdere situationen."
+            ],
+            "pitfall": "`jo … desto …` 与语气词 `jo` 的其他用法不同。比较从句内部不要使用直接疑问句语序。`præcist` 在这里修饰回答动作，因此采用副词形式。"
+        },
+        {
+            "id": "U11-C030",
+            "zh": "如果能够说清楚哪里疼、什么时候开始疼，以及疼痛是持续存在还是时有时无，就会很有帮助。",
+            "grammar": "主句是 `Det hjælper at kunne sige …`，`det` 为形式主语，真正的内容是不定式结构 `at kunne sige`。其后并列三个间接疑问从句：`hvor det gør ondt`、`hvornår det begyndte` 和 `om smerten er konstant eller kommer og går`。三个从句都采用陈述式从句语序。",
+            "vocabulary": [
+                {
+                    "da": "Det hjælper at",
+                    "zh": "做某事会有帮助",
+                    "note": "提供建议时语气自然"
+                },
+                {
+                    "da": "hvornår",
+                    "zh": "什么时候",
+                    "note": "引导时间疑问"
+                },
+                {
+                    "da": "konstant",
+                    "zh": "持续不断的",
+                    "note": "描述疼痛、噪声或其他持续状态"
+                },
+                {
+                    "da": "komme og gå",
+                    "zh": "时有时无；反复出现又消失",
+                    "note": "症状描述中很实用"
+                }
+            ],
+            "nuance": "作者提供了一个可以直接用于真实看诊的症状描述框架：位置、开始时间、持续模式。`Det hjælper at …` 比命令式更加温和，强调这些信息为什么有价值。`kommer og går` 是自然的口语表达，可以描述疼痛、发烧、头晕等间歇性症状。",
+            "transfer": [
+                "Det hjælper at beskrive symptomerne så præcist som muligt.",
+                "Smerten kommer og går.",
+                "Jeg ved ikke præcis, hvornår det begyndte."
+            ],
+            "pitfall": "三个间接疑问从句都不能使用直接疑问的倒装形式。`komme og gå` 描述症状反复出现，不是患者自己来来去去。"
+        },
+        {
+            "id": "U11-C031",
+            "zh": "一阵阵搏动性的头痛和压迫性的头痛并不是一回事；而胸骨后方的烧灼感，可能只是胃灼热，也可能是严重得多的问题。",
+            "grammar": "第一分句 `En dunkende hovedpine er noget andet end en trykkende` 使用比较结构 `noget andet end`。`en trykkende` 省略了前文重复的名词 `hovedpine`。第二分句以 `en brændende fornemmelse bag brystbenet` 为主语，`kan være` 表示可能性，破折号后的 `eller noget langt mere alvorligt` 引出另一种可能解释。`langt` 用于加强比较级 `mere alvorligt`。",
+            "vocabulary": [
+                {
+                    "da": "dunkende",
+                    "zh": "搏动性的；一跳一跳的",
+                    "note": "`dunkende hovedpine` 搏动性头痛"
+                },
+                {
+                    "da": "trykkende",
+                    "zh": "压迫性的；有压紧感的",
+                    "note": "`trykkende smerte` 压迫样疼痛"
+                },
+                {
+                    "da": "en brændende fornemmelse",
+                    "zh": "烧灼感",
+                    "note": "症状描述中的常用组合"
+                },
+                {
+                    "da": "et brystben",
+                    "zh": "胸骨",
+                    "note": "`bag brystbenet` 胸骨后方"
+                },
+                {
+                    "da": "halsbrand",
+                    "zh": "胃灼热；烧心",
+                    "note": "en halsbrand；常与胃酸反流相关"
+                }
+            ],
+            "nuance": "这一句强调准确描述疼痛性质与部位的重要性。`kan være` 保持诊断开放性，提醒读者同一种感觉可能具有不同原因。`noget langt mere alvorligt` 在句末构成警示，但不具体指定疾病，避免凭一个症状直接下诊断。",
+            "transfer": [
+                "Jeg har en dunkende hovedpine.",
+                "Jeg føler et tryk bag brystbenet.",
+                "Det kan være noget harmløst, men også noget mere alvorligt."
+            ],
+            "pitfall": "`halsbrand` 字面包含喉咙和燃烧，但通常指胃灼热。胸骨后烧灼感不能仅凭语言描述就断言一定是胃酸反流。"
+        },
+        {
+            "id": "U11-C032",
+            "zh": "真正帮助医生形成判断的，是症状的组合以及它们随时间发生的变化。",
+            "grammar": "这是强调句 `Det er X, der Y`。被强调部分是 `kombinationen og udviklingen over tid`，关系从句 `der giver lægen et billede` 说明其作用。`give nogen et billede` 是双宾语结构，表示使某人形成某种认识或整体印象。",
+            "vocabulary": [
+                {
+                    "da": "en kombination",
+                    "zh": "组合；共同作用",
+                    "note": "`en kombination af symptomer` 症状组合"
+                },
+                {
+                    "da": "udviklingen over tid",
+                    "zh": "随时间的演变",
+                    "note": "研究和医学分析中的高价值表达"
+                },
+                {
+                    "da": "give nogen et billede",
+                    "zh": "使某人形成整体认识",
+                    "note": "抽象表达，不一定涉及真实图片"
+                }
+            ],
+            "nuance": "这是症状描述章节的核心总结。医生通常不是孤立依赖某一个词或一次测量，而是综合考虑症状如何共同出现以及如何变化。`Det er … der …` 将核心证据置于句子焦点，表达有力且适合正式口语和写作。",
+            "transfer": [
+                "Det er kombinationen af flere faktorer, der gør forskellen.",
+                "Udviklingen over tid giver os et bedre billede.",
+                "Det er ikke ét symptom alene, der afgør vurderingen."
+            ],
+            "pitfall": "`give et billede` 不一定是给一张照片。`over tid` 表示随时间推移，不是超过某个时间限制。"
+        },
+        {
+            "id": "U11-C033",
+            "zh": "大多数人去看医生，并不是因为什么严重或惊心动魄的事情。",
+            "grammar": "主语 `De fleste besøg hos lægen` 是名词短语，谓语为 `handler ikke om noget dramatisk`。`handle om` 表示涉及某个主题或情况。`noget dramatisk` 中的形容词采用中性形式，表示某种严重或戏剧性的事情。",
+            "vocabulary": [
+                {
+                    "da": "de fleste",
+                    "zh": "大多数",
+                    "note": "与名词搭配时表示多数个体"
+                },
+                {
+                    "da": "et besøg hos lægen",
+                    "zh": "一次看医生；一次就诊",
+                    "note": "`hos` 表示在医生那里"
+                },
+                {
+                    "da": "handle om",
+                    "zh": "涉及；关乎",
+                    "note": "与购物意义的 `handle` 区别"
+                },
+                {
+                    "da": "dramatisk",
+                    "zh": "严重的；戏剧性的",
+                    "note": "语境中指不寻常或令人紧张的情况"
+                }
+            ],
+            "nuance": "经历了前面可能需要紧急处理的腹痛病例后，作者主动调整叙事重心，提醒读者大多数基层医疗接触其实围绕普通健康问题展开。`ikke noget dramatisk` 带有轻松、平实的语气。",
+            "transfer": [
+                "De fleste problemer er ikke så dramatiske.",
+                "Besøget handlede om noget helt almindeligt.",
+                "Det er heldigvis ikke noget alvorligt."
+            ],
+            "pitfall": "`dramatisk` 在这里不只指戏剧艺术，而是严重或不寻常。`hos lægen` 比 `i lægen` 自然得多。"
+        },
+        {
+            "id": "U11-C034",
+            "zh": "冬天常见的是感冒、流感和喉咙痛；到了春天，白桦树开花时，花粉症又多了起来。",
+            "grammar": "第一分句以 `Om vinteren` 开头，采用 `er det` 的 V2 倒装。第二部分 `og om foråret høfeber` 省略重复的 `er det`，形成平行的季节对照。`når birken blomstrer` 是时间从句，说明春季花粉症与白桦树开花的时间联系。",
+            "vocabulary": [
+                {
+                    "da": "en forkølelse",
+                    "zh": "普通感冒",
+                    "note": "`være forkølet` 患感冒"
+                },
+                {
+                    "da": "influenza",
+                    "zh": "流感",
+                    "note": "en influenza；区别于普通感冒"
+                },
+                {
+                    "da": "ondt i halsen",
+                    "zh": "喉咙痛",
+                    "note": "`have ondt i halsen`"
+                },
+                {
+                    "da": "høfeber",
+                    "zh": "花粉症；季节性过敏性鼻炎",
+                    "note": "en høfeber；并非真正由干草引起的发烧"
+                },
+                {
+                    "da": "en birk",
+                    "zh": "白桦树",
+                    "note": "`birken blomstrer` 白桦树开花"
+                }
+            ],
+            "nuance": "作者利用丹麦四季的变化介绍常见疾病，符合当地生活体验。`om vinteren` 和 `om foråret` 指一般性的季节规律，不是某个确定年份。第二分句省略谓语，使列举紧凑、自然。",
+            "transfer": [
+                "Om vinteren bliver mange forkølede.",
+                "Jeg får høfeber, når birken blomstrer.",
+                "Om foråret er der ofte meget pollen i luften."
+            ],
+            "pitfall": "`høfeber` 虽然含有 `feber`，但花粉症并不意味着一定发烧。`forkølelse` 与 `influenza` 也不是完全相同的疾病。"
+        },
+        {
+            "id": "U11-C035",
+            "zh": "而一年到头，背痛都很常见，也是人们请病假的最主要原因之一。",
+            "grammar": "句首 `Hele året rundt` 是时间状语，随后采用 `er det` 的 V2 倒装。`ondt i ryggen` 是由名词性疼痛表达构成的焦点。`som er en af de hyppigste grunde til, at …` 是关系从句，其中 `en af de + 最高级复数名词` 表示最常见的若干原因之一。`melde sig syg` 是反身结构，表示报告自己因病无法工作。",
+            "vocabulary": [
+                {
+                    "da": "hele året rundt",
+                    "zh": "一年到头；全年",
+                    "note": "也可说 `året rundt`"
+                },
+                {
+                    "da": "ondt i ryggen",
+                    "zh": "背痛；腰背疼痛",
+                    "note": "`have ondt i ryggen`"
+                },
+                {
+                    "da": "hyppig",
+                    "zh": "频繁的；常见的",
+                    "note": "最高级 `hyppigst`"
+                },
+                {
+                    "da": "melde sig syg",
+                    "zh": "请病假；报告自己生病",
+                    "note": "常用于工作与学校"
+                }
+            ],
+            "nuance": "这一句从季节性疾病转向全年持续存在的健康问题。`melde sig syg` 不只是感觉不舒服，而是向工作单位或相关机构报告因病缺席。作者把背痛与实际工作生活联系起来，使医学词汇具有社会生活意义。",
+            "transfer": [
+                "Jeg har meldt mig syg i dag.",
+                "Rygsmerter er en hyppig grund til sygefravær.",
+                "Problemet forekommer hele året rundt."
+            ],
+            "pitfall": "`melde sig syg` 不是登记一种疾病名称，而是请病假。`en af de hyppigste grunde` 表示最常见的原因之一，不是唯一原因。"
+        },
+        {
+            "id": "U11-C036",
+            "zh": "儿童经常患中耳炎，而肠胃炎可能在短短几天内传遍整所幼儿园。",
+            "grammar": "两个并列主句分别为 `Børn får ofte ørebetændelse` 和 `en maveinfluenza kan gå gennem …`。`gå gennem` 在这里是比喻用法，表示感染在群体中传播。`på få dage` 表示几天之内完成传播过程。",
+            "vocabulary": [
+                {
+                    "da": "ørebetændelse",
+                    "zh": "耳部炎症；常指中耳炎",
+                    "note": "en ørebetændelse"
+                },
+                {
+                    "da": "maveinfluenza",
+                    "zh": "肠胃炎；胃肠道感染",
+                    "note": "日常称谓，不意味着由流感病毒引起"
+                },
+                {
+                    "da": "gå gennem",
+                    "zh": "传遍；蔓延于",
+                    "note": "这里用于疾病在人群中传播"
+                },
+                {
+                    "da": "en børnehave",
+                    "zh": "幼儿园",
+                    "note": "复数 `børnehaver`"
+                }
+            ],
+            "nuance": "这句体现儿童集体生活与常见感染之间的关系。`gå gennem en hel børnehave` 是形象化的表达，让人联想到一种疾病在孩子和工作人员之间迅速传播。`kan` 表示有这种可能性，而不是每次感染都必然影响全体人员。",
+            "transfer": [
+                "Der går maveinfluenza i børnehaven.",
+                "Infektionen spredte sig hurtigt blandt børnene.",
+                "Flere børn har fået ørebetændelse."
+            ],
+            "pitfall": "`maveinfluenza` 是口语中的肠胃炎称谓，不能当成真正的季节性流感。`gå gennem` 在这里不是患者步行经过幼儿园。"
+        },
+        {
+            "id": "U11-C037",
+            "zh": "许多较轻的意外伤害发生在家中，或者人们的休闲活动期间。",
+            "grammar": "主语 `Mange mindre ulykker` 中 `mindre` 是比较级形式，但在此表示较小、较轻的，而不是直接与某个具体对象比较。谓语 `sker` 表示发生。两个地点或场景状语 `i hjemmet` 和 `i fritiden` 由 `eller` 连接。",
+            "vocabulary": [
+                {
+                    "da": "en ulykke",
+                    "zh": "事故；意外",
+                    "note": "复数 `ulykker`"
+                },
+                {
+                    "da": "mindre",
+                    "zh": "较小的；较轻微的",
+                    "note": "本句修饰事故程度"
+                },
+                {
+                    "da": "i hjemmet",
+                    "zh": "在家中",
+                    "note": "比较正式的生活环境表达"
+                },
+                {
+                    "da": "i fritiden",
+                    "zh": "在业余时间；休闲活动期间",
+                    "note": "`en fritid`"
+                }
+            ],
+            "nuance": "作者强调日常意外并不只发生在交通或工作场所。`mindre ulykker` 在这里是轻微事故，不意味着这些事故必然没有后果。句子为接下来的扭伤、骨折例子作铺垫。",
+            "transfer": [
+                "Mange ulykker sker i hjemmet.",
+                "Jeg kom til skade i fritiden.",
+                "Det var heldigvis en mindre ulykke."
+            ],
+            "pitfall": "`mindre` 在这里表示较轻微，不是数量上更少。`ulykke` 是事故，也可表示不幸，需要结合上下文。"
+        },
+        {
+            "id": "U11-C038",
+            "zh": "比如，有人会在湿滑的楼梯上摔倒、扭伤脚踝；也有人骑自行车时摔车、摔断手腕，结果打着石膏过六个星期。",
+            "grammar": "句子通过泛指主语 `man` 列举两种常见事故。第一组谓语为 `falder` 和 `forstuver`；第二组为 `vælter`、`brækker`、`går med gips`，构成连续动作及其后果。`på cyklen` 表示骑车时，`i seks uger` 表示持续六周。",
+            "vocabulary": [
+                {
+                    "da": "falde",
+                    "zh": "跌倒；摔倒",
+                    "note": "`falde – faldt – faldet`"
+                },
+                {
+                    "da": "forstuve anklen",
+                    "zh": "扭伤脚踝",
+                    "note": "`en ankel` 脚踝"
+                },
+                {
+                    "da": "vælte på cyklen",
+                    "zh": "骑车时摔倒",
+                    "note": "`vælte` 可指人或物翻倒"
+                },
+                {
+                    "da": "brække håndleddet",
+                    "zh": "摔断手腕处的骨头",
+                    "note": "`brække – brækkede – brækket`"
+                },
+                {
+                    "da": "gå med gips",
+                    "zh": "打着石膏；佩戴石膏固定",
+                    "note": "`gips` 为石膏固定材料"
+                }
+            ],
+            "nuance": "作者用一连串现在时动作制造动态感，像在讲述经常发生的生活小事故。`man` 指一般人，而不是某个具体患者。`gå med gips` 不强调走路，而表示在一段时间内持续佩戴石膏固定。",
+            "transfer": [
+                "Jeg faldt på trappen og forstuvede anklen.",
+                "Han væltede på cyklen og brækkede håndleddet.",
+                "Jeg skal gå med gips i seks uger."
+            ],
+            "pitfall": "`forstuve` 是扭伤，`brække` 是骨折或折断，不能混用。`gå med gips` 不意味着必须步行，而是佩戴石膏固定。"
+        },
+        {
+            "id": "U11-C039",
+            "zh": "大多数这类小毛病会自行好转，而医生工作的一部分，就是安抚患者，并告诉他们什么情况下需要再次就诊。",
+            "grammar": "第一分句 `Det meste går over af sig selv` 使用固定搭配 `gå over`，表示症状消退，`af sig selv` 表示自行发生。第二分句 `en del af lægens arbejde består i at …` 使用 `bestå i at` 表示某项工作包括什么内容。两个并列不定式为 `berolige` 与 `forklare`；后面 `hvornår de skal komme igen` 是间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "gå over",
+                    "zh": "消退；好转；过去",
+                    "note": "症状和不舒服感觉常用"
+                },
+                {
+                    "da": "af sig selv",
+                    "zh": "自行；不需外力",
+                    "note": "也可说 `helt af sig selv`"
+                },
+                {
+                    "da": "bestå i at",
+                    "zh": "在于做某事；包括做某事",
+                    "note": "区别于 `bestå af` 由若干组成部分构成"
+                },
+                {
+                    "da": "berolige",
+                    "zh": "安抚；使安心",
+                    "note": "`berolige patienten` 安抚患者"
+                }
+            ],
+            "nuance": "作者提醒读者，医生的价值不仅是开药和安排检查，也包括判断哪些情况可以观察、缓解焦虑，以及提供复诊标准。`Det meste` 是概括性表达，不意味着所有症状都能自行恢复。",
+            "transfer": [
+                "Symptomerne går ofte over af sig selv.",
+                "En del af arbejdet består i at forklare mulighederne.",
+                "Lægen forklarede, hvornår jeg skulle komme igen."
+            ],
+            "pitfall": "`bestå i` 与 `bestå af` 不同：前者常表示工作或问题在于什么，后者表示由什么组成。`gå over` 在这里不是走过某个地方。"
+        },
+        {
+            "id": "U11-C040",
+            "zh": "平躺下来，闭上眼睛，把注意力放到双脚上：感受脚后跟与支撑面的接触，还有脚趾——它们可能有一点凉。",
+            "grammar": "三个连续祈使动词 `Læg`、`luk`、`læg mærke til` 引导身体扫描练习。`læg dig på ryggen` 是带反身代词的姿势变化表达。冒号后使用名词短语 `hælene mod underlaget` 和 `tæerne` 补充观察对象，其中 `der måske er lidt kolde` 是修饰脚趾的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "lægge sig på ryggen",
+                    "zh": "仰卧；平躺",
+                    "note": "姿势变化的反身结构"
+                },
+                {
+                    "da": "lægge mærke til",
+                    "zh": "注意到；留意",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "en hæl",
+                    "zh": "脚后跟；足跟",
+                    "note": "复数 `hæle`"
+                },
+                {
+                    "da": "et underlag",
+                    "zh": "支撑面；垫子；底面",
+                    "note": "可指床垫、地板或练习垫"
+                },
+                {
+                    "da": "en tå",
+                    "zh": "脚趾",
+                    "note": "复数 `tæer`"
+                }
+            ],
+            "nuance": "这一段转换成引导式身体觉察练习。祈使句不是命令患者服从，而是邀请读者按照步骤体验身体感觉。`måske` 不预设脚趾一定是凉的，允许读者自行观察实际感觉。作者用具体触觉细节营造安静、专注的语气。",
+            "transfer": [
+                "Læg dig på ryggen og luk øjnene.",
+                "Læg mærke til, hvordan kroppen føles.",
+                "Mærk hælene mod underlaget."
+            ],
+            "pitfall": "`læg dig` 表示躺下这一动作，`lig på ryggen` 则可用于要求保持平躺姿势。`tå` 是脚趾，`finger` 是手指。"
+        },
+        {
+            "id": "U11-C041",
+            "zh": "让注意力慢慢从脚踝向上移动，经过小腿和膝盖，一直到大腿和髋部。",
+            "grammar": "句首 `Flyt` 为祈使式，直接接宾语 `opmærksomheden`。`langsomt op gennem … til …` 是方向性状语链：`op` 向上，`gennem` 穿过或经过，`til` 指终点。身体部位采用复数确定形式。",
+            "vocabulary": [
+                {
+                    "da": "flytte opmærksomheden",
+                    "zh": "转移注意力",
+                    "note": "抽象搭配，适用于练习和心理学语境"
+                },
+                {
+                    "da": "en ankel",
+                    "zh": "脚踝",
+                    "note": "复数 `ankler`"
+                },
+                {
+                    "da": "en læg",
+                    "zh": "小腿肚；小腿后侧",
+                    "note": "复数 `lægge`"
+                },
+                {
+                    "da": "et lår",
+                    "zh": "大腿",
+                    "note": "复数 `lår`"
+                },
+                {
+                    "da": "en hofte",
+                    "zh": "髋部；臀部两侧",
+                    "note": "复数 `hofter`"
+                }
+            ],
+            "nuance": "这是典型的身体扫描引导语。`flytte opmærksomheden` 把注意力当作可以沿身体移动的东西，是自然的心理学隐喻。方向副词与介词共同形成从低到高的路线，适合用于练习身体部位和空间表达。",
+            "transfer": [
+                "Flyt opmærksomheden fra fødderne til hovedet.",
+                "Mærk spændingerne i læggene og lårene.",
+                "Bevæg dig langsomt op gennem kroppen."
+            ],
+            "pitfall": "`en læg` 是小腿肚，`at lægge` 是放置，虽然形式相近但词性和意义不同。`lår` 是大腿，不是小腿。"
+        },
+        {
+            "id": "U11-C042",
+            "zh": "感受吸气时腹部如何隆起，以及呼气时它又如何落下。",
+            "grammar": "主句祈使动词 `Mærk` 后接 `hvordan` 引导的间接感知从句。`maven hæver sig` 和 `sænker sig` 是两个并列动作，共享主语。`når du trækker vejret ind` 与 `når du puster ud` 分别说明吸气和呼气时的动作。`trække … ind` 与 `puste ud` 是方向小品词搭配。",
+            "vocabulary": [
+                {
+                    "da": "hæve sig",
+                    "zh": "隆起；上升",
+                    "note": "反身结构"
+                },
+                {
+                    "da": "sænke sig",
+                    "zh": "下降；落下",
+                    "note": "与 `hæve sig` 对应"
+                },
+                {
+                    "da": "trække vejret ind",
+                    "zh": "吸气",
+                    "note": "`trække vejret` 呼吸"
+                },
+                {
+                    "da": "puste ud",
+                    "zh": "呼气",
+                    "note": "`puste` 吹气"
+                }
+            ],
+            "nuance": "作者让读者通过呼吸觉察腹部的自然起伏。`Mærk, hvordan …` 强调体验过程，而不是要求主动控制腹部运动。句子利用 `hæver sig` 和 `sænker sig` 的对称关系形成平静的节奏。",
+            "transfer": [
+                "Træk vejret langsomt ind og pust ud.",
+                "Mærk, hvordan maven bevæger sig.",
+                "Maven hæver sig, når jeg trækker vejret ind."
+            ],
+            "pitfall": "`trække vejret` 是呼吸，不是拉动呼吸。`puste ud` 是呼气，不能与 `puste op` 吹胀混淆。"
+        },
+        {
+            "id": "U11-C043",
+            "zh": "让肩膀从耳朵旁放松下来，再放松颈部、下颌，以及眉毛之间那一小块肌肉。",
+            "grammar": "第一部分 `Lad skuldrene falde ned fra ørerne` 使用使役结构 `lade X + 不定式`，表示允许或引导 X 自然发生某个动作。第二部分 `slap af i …` 使用 `slappe af` 的祈使式 `slap af`，后面用多个 `i` 介词短语指出需要放松的身体部位。",
+            "vocabulary": [
+                {
+                    "da": "lade noget falde",
+                    "zh": "让某物自然落下",
+                    "note": "`lade – lod – ladet`"
+                },
+                {
+                    "da": "slappe af",
+                    "zh": "放松",
+                    "note": "固定小品词动词"
+                },
+                {
+                    "da": "en nakke",
+                    "zh": "后颈；颈部后侧",
+                    "note": "区别于泛指颈部的 `hals`"
+                },
+                {
+                    "da": "en kæbe",
+                    "zh": "下颌；颌骨",
+                    "note": "复数 `kæber`"
+                },
+                {
+                    "da": "et øjenbryn",
+                    "zh": "眉毛",
+                    "note": "复数 `øjenbryn`"
+                }
+            ],
+            "nuance": "肩膀靠近耳朵是描写紧张状态的常见身体意象。`Lad … falde` 不要求突然用力下压肩膀，而是引导放松。对颈部、下颌、眉间肌肉的逐个点名，使练习更加具体。",
+            "transfer": [
+                "Lad skuldrene falde ned.",
+                "Slap af i nakken og kæben.",
+                "Prøv at slippe spændingerne i ansigtet."
+            ],
+            "pitfall": "`slap af` 是祈使式，不是过去时描述某人松弛。`nakke` 主要指后颈，`hals` 的范围和含义不同。"
+        },
+        {
+            "id": "U11-C044",
+            "zh": "很多人直到做这样的练习时，才发现自己原来一整天都处于如此紧绷的状态。",
+            "grammar": "主句 `Mange opdager først under sådan en øvelse` 使用 `først` 强调发现发生的时点。`hvor spændte de har været hele dagen` 是由程度疑问词 `hvor` 引导的间接感叹性从句，语序为 `de har været`。`har været` 是现在完成时，表示紧张状态持续到练习前的这一段时间。",
+            "vocabulary": [
+                {
+                    "da": "opdage",
+                    "zh": "发现；意识到",
+                    "note": "既可指外部发现，也可指察觉自身状态"
+                },
+                {
+                    "da": "spændt",
+                    "zh": "紧绷的；紧张的",
+                    "note": "既可形容肌肉，也可形容心理状态"
+                },
+                {
+                    "da": "sådan en øvelse",
+                    "zh": "这样的练习",
+                    "note": "`sådan en` 后接通性单数名词"
+                },
+                {
+                    "da": "hele dagen",
+                    "zh": "整整一天",
+                    "note": "表示持续时间"
+                }
+            ],
+            "nuance": "这一句从引导练习切换成对其效果的观察。`først` 暗示人们在练习之前并没有充分觉察自己的紧张。`hvor spændte` 是程度上的感叹，相当于原来竟然这么紧张，而不是询问某个位置。",
+            "transfer": [
+                "Jeg opdagede først senere, hvor træt jeg var.",
+                "Mange lægger ikke mærke til, hvor spændte de er.",
+                "Jeg har været anspændt hele dagen."
+            ],
+            "pitfall": "`spændt` 可以指肌肉紧绷，也可以表示期待或紧张，具体意义取决于语境。`hvor spændte` 中的 `hvor` 表示多么，而不是哪里。"
+        },
+        {
+            "id": "U11-C045",
+            "zh": "在丹麦，绝大多数人都有自己登记的全科医生，医生的信息会显示在黄色医保卡上。",
+            "grammar": "主句 `Langt de fleste i Danmark har deres egen praktiserende læge` 使用 `langt de fleste` 强调绝大多数。`som står på det gule sundhedskort` 是修饰医生的关系从句，`stå på` 表示信息记载在卡片上，而不是医生站在卡片上。",
+            "vocabulary": [
+                {
+                    "da": "langt de fleste",
+                    "zh": "绝大多数",
+                    "note": "比 `de fleste` 强调程度更高"
+                },
+                {
+                    "da": "en praktiserende læge",
+                    "zh": "执业全科医生；家庭医生",
+                    "note": "丹麦基层医疗中的重要角色"
+                },
+                {
+                    "da": "et sundhedskort",
+                    "zh": "医保卡；健康保险卡",
+                    "note": "丹麦常称 `det gule sundhedskort`"
+                },
+                {
+                    "da": "stå på noget",
+                    "zh": "写在；记载于",
+                    "note": "可用于卡片、名单和文件"
+                }
+            ],
+            "nuance": "作者从个人健康知识过渡到丹麦医疗制度。`langt de fleste` 表示高度普遍，但保留例外空间。`praktiserende læge` 是进入普通医疗体系的常见起点，不能简单等同于医院中的某一专科医生。",
+            "transfer": [
+                "Jeg har en praktiserende læge i Aarhus.",
+                "Lægens navn står på mit sundhedskort.",
+                "Langt de fleste har adgang til en praktiserende læge."
+            ],
+            "pitfall": "`praktiserende læge` 是执业医生这一制度称谓，通常在这里指全科医生。`stå på kortet` 表示信息写在卡上，不是站在卡上。"
+        },
+        {
+            "id": "U11-C046",
+            "zh": "全科医生是进入其他医疗服务的主要入口：如果想看专科医生，通常需要一份转诊单。",
+            "grammar": "第一主句以 `Lægen er indgangen til …` 使用入口隐喻。冒号后的 `Vil man til en speciallæge` 是省略 `hvis` 的条件倒装，相当于如果想去看专科医生。结果主句 `kræver det som regel en henvisning` 使用 V2 语序，`det` 指这一就诊安排，`en henvisning` 是需要的文件或程序。",
+            "vocabulary": [
+                {
+                    "da": "en indgang til",
+                    "zh": "进入……的入口；接触……的渠道",
+                    "note": "可用于制度和服务体系"
+                },
+                {
+                    "da": "en speciallæge",
+                    "zh": "专科医生",
+                    "note": "复数 `speciallæger`"
+                },
+                {
+                    "da": "en henvisning",
+                    "zh": "转诊单；转诊",
+                    "note": "`få en henvisning` 获得转诊"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常；一般来说",
+                    "note": "表示存在例外的通常规则"
+                }
+            ],
+            "nuance": "`indgangen` 是形象化的制度说明，让读者理解全科医生的分诊和协调功能。`som regel` 明确指出转诊是一般规则，不意味着任何专科医疗服务都不存在直接就诊的途径。作者马上在下一句介绍例外。",
+            "transfer": [
+                "Vil man til en speciallæge, kræver det som regel en henvisning.",
+                "Min læge har givet mig en henvisning.",
+                "Den praktiserende læge er indgangen til resten af systemet."
+            ],
+            "pitfall": "`Vil man …` 在这里不是普通问句，而是无 `hvis` 的条件结构。`henvisning` 是转诊或介绍文件，不是普通的地址。"
+        },
+        {
+            "id": "U11-C047",
+            "zh": "不过，牙医、眼科医生以及耳鼻喉科医生通常可以直接预约就诊，不需要先通过全科医生转诊。",
+            "grammar": "句首 `Til tandlægen, øjenlægen og øre-næse-halslægen` 是方向或就诊对象状语，因此后面采用 `kan man` 的 V2 倒装。`dog` 表示对上一句一般规则的例外或转折。`gå direkte til` 在这里表示直接前往某类医生处就诊。",
+            "vocabulary": [
+                {
+                    "da": "en tandlæge",
+                    "zh": "牙医",
+                    "note": "`gå til tandlægen` 看牙医"
+                },
+                {
+                    "da": "en øjenlæge",
+                    "zh": "眼科医生",
+                    "note": "由 `øje` 眼睛与 `læge` 医生构成"
+                },
+                {
+                    "da": "en øre-næse-halslæge",
+                    "zh": "耳鼻喉科医生",
+                    "note": "复合医学专科名称"
+                },
+                {
+                    "da": "gå direkte til",
+                    "zh": "直接去；直接就诊",
+                    "note": "`direkte` 表示无需中间步骤"
+                }
+            ],
+            "nuance": "这一句是对上一句转诊原则的具体限定。`dog` 很重要：它让文章避免过度概括。丹麦医疗制度中某些专科可以直接联系，但具体预约、支付和覆盖规则还可能受个人医保类别及服务条件影响。",
+            "transfer": [
+                "Man kan gå direkte til tandlægen.",
+                "Til øjenlægen behøver man normalt ikke en henvisning.",
+                "Der findes dog enkelte undtagelser."
+            ],
+            "pitfall": "`øjenlæge` 是眼科医生，`optiker` 是验光师或眼镜配镜专业人员，不能混同。`gå til lægen` 不一定意味着步行前往。"
+        },
+        {
+            "id": "U11-C048",
+            "zh": "如果在全科医生非营业时间突然生病，应联系非工作时间的值班医疗服务；如果存在生命危险，则应拨打112。",
+            "grammar": "全句由两个平行的无连接词条件句组成。`Bliver man akut syg …` 相当于 `Hvis man bliver …`，后接结果主句 `kontakter man lægevagten`。`er der fare for livet` 同样是条件倒装，后接 `ringer man 112`。两个条件结构形成由普通急症到生命危险的递进。",
+            "vocabulary": [
+                {
+                    "da": "akut syg",
+                    "zh": "突发急性疾病；急性发病",
+                    "note": "`akut` 强调需要及时处理"
+                },
+                {
+                    "da": "åbningstid",
+                    "zh": "营业时间；开放时间",
+                    "note": "`uden for åbningstiden` 在非营业时间"
+                },
+                {
+                    "da": "lægevagten",
+                    "zh": "非工作时间值班医生服务",
+                    "note": "丹麦地区之间具体联系渠道可能不同"
+                },
+                {
+                    "da": "fare for livet",
+                    "zh": "生命危险",
+                    "note": "`der er fare for livet` 存在生命危险"
+                },
+                {
+                    "da": "ringe 112",
+                    "zh": "拨打112急救电话",
+                    "note": "丹麦紧急求助号码"
+                }
+            ],
+            "nuance": "这是具有实际生活价值的制度说明。两个条件倒装使应急行动指令紧凑、清楚。作者通过不同严重程度区分就医渠道，避免将所有非工作时间的不适都归入同一个处理方式。生命危险时直接拨打112是句子的关键警示。",
+            "transfer": [
+                "Bliver du akut syg, skal du kontakte den relevante lægevagt.",
+                "Er der fare for livet, skal man ringe 112.",
+                "Uden for lægens åbningstid kan man få akut hjælp."
+            ],
+            "pitfall": "`akut` 不等于所有不舒服都属于危急情况。`Bliver man …` 与 `Er der …` 都是条件倒装，不是两个疑问句。地区急诊联系电话应依据当地官方指引确定。"
+        },
+        {
+            "id": "U11-C049",
+            "zh": "一般不能直接跑到急诊科就诊，而是应该先打电话，以便经过分诊，被安排到合适的医疗服务地点。",
+            "grammar": "主干为 `Man kan normalt ikke bare møde op … men skal ringe først`，第二分句省略重复的主语 `man`。`så man kan blive visiteret til det rette sted` 是目的或结果从句。`blive visiteret` 使用被动结构，表示接受分诊或被引导到适合的服务地点。",
+            "vocabulary": [
+                {
+                    "da": "møde op",
+                    "zh": "到场；直接出现",
+                    "note": "`møde op på skadestuen` 到急诊科现场"
+                },
+                {
+                    "da": "skadestuen",
+                    "zh": "急诊科；急诊接诊部门",
+                    "note": "en skadestue"
+                },
+                {
+                    "da": "visitere",
+                    "zh": "分诊；按情况安排就医",
+                    "note": "医疗制度中的专业动词"
+                },
+                {
+                    "da": "det rette sted",
+                    "zh": "合适的地点；正确的就医渠道",
+                    "note": "`rette` 表示适合或正确"
+                }
+            ],
+            "nuance": "作者强调的是分诊流程，而不是说急诊科拒绝所有自行到场的患者。`normalt` 和 `bare` 共同限定：通常不能不经联系就随意直接就诊。`så` 解释先联系的目的，即使患者被引导到与其情况相匹配的服务。",
+            "transfer": [
+                "Man skal normalt ringe først.",
+                "Patienten bliver visiteret til det rette sted.",
+                "Du kan ikke bare møde op uden en aftale."
+            ],
+            "pitfall": "`møde op` 是到场，不是遇见。`visitere` 不是普通意义的拜访；医疗语境中指分诊或评估就医路径。遇到生命危险仍应优先使用112。"
+        },
+        {
+            "id": "U11-C050",
+            "zh": "如果需要住院，治疗、住院期间的饮食和床位通常都无需患者自行支付；如果需要在医院接受治疗，原则上患者也有权自行选择去哪家医院。",
+            "grammar": "两个并列部分都由无 `hvis` 的条件倒装引出。`Bliver man indlagt` 后接 `er både behandling, mad og seng gratis`。第二组 `skal man behandles på et sygehus` 后接 `har man … ret til`。`som udgangspunkt` 表示原则上或通常情况下。`selv at vælge hvilket` 中 `hvilket` 省略重复的 `sygehus`。",
+            "vocabulary": [
+                {
+                    "da": "blive indlagt",
+                    "zh": "住院；被收治入院",
+                    "note": "与 `blive udskrevet` 出院相对"
+                },
+                {
+                    "da": "et sygehus",
+                    "zh": "医院",
+                    "note": "与 `et hospital` 常可互换"
+                },
+                {
+                    "da": "som udgangspunkt",
+                    "zh": "原则上；一般情况下",
+                    "note": "法律、政策和行政说明中很实用"
+                },
+                {
+                    "da": "have ret til",
+                    "zh": "有权获得；有权做某事",
+                    "note": "后接名词或 `at` 不定式"
+                },
+                {
+                    "da": "vælge",
+                    "zh": "选择",
+                    "note": "`vælge – valgte – valgt`"
+                }
+            ],
+            "nuance": "这一句概述丹麦公共医疗的住院费用和医院选择原则。`som udgangspunkt` 必须保留，因为实际选择权可能受到医疗服务性质、医院职能和具体规则的限制。作者提供的是制度概览，而非针对所有患者、所有医院和所有治疗的无条件保证。",
+            "transfer": [
+                "Bliver man indlagt, får man behandling på hospitalet.",
+                "Som udgangspunkt har patienten ret til selv at vælge.",
+                "Man har ret til at få information om behandlingen."
+            ],
+            "pitfall": "`blive indlagt` 是住院，不等于预约门诊。`som udgangspunkt` 不等于绝对无例外。`hvilket` 在本句指哪一家医院，不能理解为泛指什么东西。"
+        },
+        {
+            "id": "U11-C051",
+            "zh": "成年人看牙医时，往往需要自己承担相当一部分费用，而儿童和青少年则可以获得免费的牙科保健服务。",
+            "grammar": "第一分句 `Voksne betaler selv en stor del af regningen hos tandlægen` 中，`selv` 强调费用由成年人自己承担。第二分句由 `mens` 引出，表示对照，而非主要表达时间上的同时。`gratis tandpleje` 是名词短语，表示免费的牙科保健服务。",
+            "vocabulary": [
+                {
+                    "da": "betale selv",
+                    "zh": "自行付费",
+                    "note": "`selv` 强调由本人承担"
+                },
+                {
+                    "da": "en regning",
+                    "zh": "账单；费用单",
+                    "note": "`betale regningen` 付账"
+                },
+                {
+                    "da": "en stor del af",
+                    "zh": "……的一大部分",
+                    "note": "表示占比较高"
+                },
+                {
+                    "da": "tandpleje",
+                    "zh": "牙科保健；口腔护理服务",
+                    "note": "en tandpleje"
+                }
+            ],
+            "nuance": "这一句指出公共医疗制度中不同服务和年龄群体的支付规则存在差异。`mens` 用来对照成人和年轻人的费用负担。`en stor del` 是定性表达，不指一个固定报销比例。实际免费牙科服务的年龄范围和条件需遵循适用制度。",
+            "transfer": [
+                "Voksne betaler selv en del af regningen.",
+                "Børn og unge kan få gratis tandpleje.",
+                "Nogle ydelser er gratis, mens andre kræver egenbetaling."
+            ],
+            "pitfall": "`tandpleje` 不只指刷牙，也可以指专业牙科服务。`mens` 在这里是而、相比之下，不必翻译为当……的时候。"
+        },
+        {
+            "id": "U11-C052",
+            "zh": "不过，非紧急检查和手术的等待时间可能很长，而这一问题也一直是丹麦政治辩论中反复出现的话题。",
+            "grammar": "主语 `Ventetiden til ikke-akutte undersøgelser og operationer` 是较长的名词短语，谓语 `kan dog være lang` 表示带转折的可能性。第二分句 `den er et tilbagevendende emne` 中的 `den` 指等待时间这一问题。`tilbagevendende` 是形容词性现在分词，表示反复出现。",
+            "vocabulary": [
+                {
+                    "da": "ventetid",
+                    "zh": "等待时间；候诊时间",
+                    "note": "en ventetid"
+                },
+                {
+                    "da": "ikke-akut",
+                    "zh": "非紧急的",
+                    "note": "与 `akut` 急性的、紧急的相对"
+                },
+                {
+                    "da": "tilbagevendende",
+                    "zh": "反复出现的；经常重现的",
+                    "note": "`et tilbagevendende problem` 反复出现的问题"
+                },
+                {
+                    "da": "den politiske debat",
+                    "zh": "政治辩论；公共政策讨论",
+                    "note": "正式书面语"
+                }
+            ],
+            "nuance": "作者在介绍医疗可及性和权利之后，补充制度运行中的现实问题。`dog` 体现平衡论述，不让读者误以为免费或可选择医院就意味着一定无需等待。`kan være lang` 避免断言所有非紧急医疗都存在同样长的等待时间。",
+            "transfer": [
+                "Ventetiden kan være lang.",
+                "Det er et tilbagevendende emne i den politiske debat.",
+                "Der er stor forskel på ventetiden til forskellige behandlinger."
+            ],
+            "pitfall": "`ikke-akut` 表示非紧急，不等于不重要或不需要治疗。`tilbagevendende` 不是简单返回原处，而是问题反复出现。"
+        },
+        {
+            "id": "U11-C053",
+            "zh": "好，往后靠一点，把嘴张开。再张大一点……谢谢。你左下方的一颗后槽牙有个小蛀洞。我们今天就把它补好。",
+            "grammar": "开头连续使用祈使句 `læn dig tilbage` 和 `luk munden op`。`læne sig tilbage` 是反身结构，表示身体向后靠。`luk … op` 虽包含 `luk`，但整体表示打开。`en af kindtænderne` 是部分结构，表示多颗后槽牙中的一颗。`nede til venstre` 指下方左侧的位置。`Det laver vi i dag` 中 `det` 回指蛀洞或修补这件事，句首宾语前置仍保持 V2。",
+            "vocabulary": [
+                {
+                    "da": "læne sig tilbage",
+                    "zh": "向后靠；往后仰",
+                    "note": "`læne` 与反身代词搭配"
+                },
+                {
+                    "da": "lukke munden op",
+                    "zh": "张开嘴",
+                    "note": "固定口语搭配，`op` 不可省略"
+                },
+                {
+                    "da": "en kindtand",
+                    "zh": "后槽牙；臼齿",
+                    "note": "复数 `kindtænder`"
+                },
+                {
+                    "da": "et hul i tanden",
+                    "zh": "蛀牙形成的洞；龋洞",
+                    "note": "`et hul` 原义为洞"
+                },
+                {
+                    "da": "lave et hul",
+                    "zh": "处理或修补蛀洞",
+                    "note": "本句 `lave` 依语境表示补牙处理，不是制造蛀洞"
+                }
+            ],
+            "nuance": "牙医语气简洁、熟练，夹杂 `Så`、`Lidt mere`、`tak` 等自然的椅旁指导语。`Det laver vi i dag` 是口语化的专业服务表达，避免一开始使用复杂治疗术语，听起来让患者容易理解。`vi` 指牙医或诊疗团队，并不意味着患者也亲自参与操作。",
+            "transfer": [
+                "Læn dig lidt tilbage, og luk munden op.",
+                "Jeg har et hul i en kindtand.",
+                "Det kan vi ordne i dag."
+            ],
+            "pitfall": "`luk munden op` 是张嘴，不能只根据 `luk` 关上来翻译。`hul` 在牙科场景中通常指龋洞。`lave` 的实际意思要结合修补语境理解。"
+        },
+        {
+            "id": "U11-C054",
+            "zh": "会疼吗？",
+            "grammar": "`Gør det ondt?` 是一般疑问句，限定动词 `Gør` 位于形式主语 `det` 之前。`det` 指即将进行的牙科治疗过程。",
+            "vocabulary": [
+                {
+                    "da": "Gør det ondt?",
+                    "zh": "疼吗？会疼吗？",
+                    "note": "询问检查或治疗是否疼痛"
+                }
+            ],
+            "nuance": "患者并不需要明确说出即将进行的补牙操作，只用 `det` 就能在上下文中被理解。问句短促，表达对疼痛的直接担忧。",
+            "transfer": [
+                "Gør det ondt?",
+                "Kommer det til at gøre ondt?"
+            ],
+            "pitfall": "`Gør det ondt?` 是固定表达，不能用普通的 `Er det ondt?` 替代。"
+        },
+        {
+            "id": "U11-C055",
+            "zh": "会给你打麻药，所以你不会感觉到疼痛。如果觉得不舒服，只要举一下手就行。",
+            "grammar": "第一句 `Du får en bedøvelse` 表示患者接受麻醉处理，后接结果从句 `så du kan ikke mærke noget`。这里的 `så` 可引出结果，后面采用相应的陈述语序。第二句 `Du skal bare løfte hånden` 用 `skal` 给出指示，`bare` 降低动作的复杂感。`hvis det bliver ubehageligt` 是条件从句。",
+            "vocabulary": [
+                {
+                    "da": "en bedøvelse",
+                    "zh": "麻醉；麻醉处理",
+                    "note": "`få en bedøvelse` 接受麻醉"
+                },
+                {
+                    "da": "mærke noget",
+                    "zh": "感觉到某事物",
+                    "note": "可用于疼痛、触觉等"
+                },
+                {
+                    "da": "løfte hånden",
+                    "zh": "举手",
+                    "note": "`løfte` 表示抬起"
+                },
+                {
+                    "da": "ubehagelig",
+                    "zh": "令人不舒服的；难受的",
+                    "note": "`ubehageligt` 是中性形式"
+                }
+            ],
+            "nuance": "牙医首先安抚患者，再提供一个明确的交流信号：不舒服时举手。`bare` 在这里表示操作很简单，不是忽视患者不适。`Du kan ikke mærke noget` 是安慰性解释，实际麻醉后的具体感觉仍可能因治疗和个体而不同。",
+            "transfer": [
+                "Du får en lokalbedøvelse.",
+                "Løft hånden, hvis det gør ondt.",
+                "Sig til, hvis det bliver ubehageligt."
+            ],
+            "pitfall": "`en bedøvelse` 可以指麻醉处理，具体局部还是全身需由语境确定。`bare` 不是随便的负面评价，而是只需做这一件事。"
+        },
+        {
+            "id": "U11-C056",
+            "zh": "我怎么会长蛀牙呢？我可是每天刷两次牙的。",
+            "grammar": "`Hvordan kan det være, at …?` 是询问原因的固定句型，相当于为什么会这样。`har fået et hul` 是现在完成时，表示蛀洞已经形成。第二句 `Jeg børster tænder to gange om dagen` 使用现在时表达规律习惯。",
+            "vocabulary": [
+                {
+                    "da": "Hvordan kan det være, at …?",
+                    "zh": "怎么会……呢？为什么会这样？",
+                    "note": "自然口语中的原因追问"
+                },
+                {
+                    "da": "få et hul",
+                    "zh": "长蛀牙；出现蛀洞",
+                    "note": "牙科语境"
+                },
+                {
+                    "da": "børste tænder",
+                    "zh": "刷牙",
+                    "note": "通常不加冠词"
+                },
+                {
+                    "da": "to gange om dagen",
+                    "zh": "每天两次",
+                    "note": "`om dagen` 表示每天的频率"
+                }
+            ],
+            "nuance": "患者认为自己已经履行了日常刷牙义务，因此对蛀牙感到困惑。`Hvordan kan det være, at …?` 带有寻求解释的意味，比简单的 `Hvorfor …?` 更能传达意外。第二句有一点为自己辩解的语气。",
+            "transfer": [
+                "Hvordan kan det være, at jeg stadig har ondt?",
+                "Jeg børster tænder to gange om dagen.",
+                "Hvordan kan det være, at problemet er opstået?"
+            ],
+            "pitfall": "`Hvordan kan det være, at …?` 是整体原因问句，不能逐词译成怎么能够是。`børste tænder` 是固定搭配，不一定使用 `mine tænder`。"
+        },
+        {
+            "id": "U11-C057",
+            "zh": "这很好。不过你用牙线吗？",
+            "grammar": "第一句 `Det er godt` 对前文刷牙习惯作出正面评价。第二句 `Men bruger du tandtråd?` 是一般疑问句，动词 `bruger` 位于主语 `du` 之前。`Men` 表示补充一个此前未考虑的习惯。",
+            "vocabulary": [
+                {
+                    "da": "tandtråd",
+                    "zh": "牙线",
+                    "note": "en tandtråd；常说 `bruge tandtråd`"
+                },
+                {
+                    "da": "bruge",
+                    "zh": "使用",
+                    "note": "`bruge – brugte – brugt`"
+                }
+            ],
+            "nuance": "牙医先肯定患者已经做得好的事情，再温和地提出可能缺失的一环。`Men` 并非否定刷牙的重要性，而是将注意力引向牙齿之间的清洁。",
+            "transfer": [
+                "Bruger du tandtråd?",
+                "Det er godt, men hvad med tandtråd?"
+            ],
+            "pitfall": "`tandtråd` 是牙线，不是普通缝纫线。问日常是否使用牙线时，自然说 `bruge tandtråd`。"
+        },
+        {
+            "id": "U11-C058",
+            "zh": "偶尔吧。",
+            "grammar": "`Engang imellem` 是完整的频率副词短语，作为独立回答，省略了前文的 `Jeg bruger tandtråd`。",
+            "vocabulary": [
+                {
+                    "da": "engang imellem",
+                    "zh": "偶尔；有时候",
+                    "note": "也可写作 `en gang imellem`"
+                }
+            ],
+            "nuance": "回答非常简短，结合上下文可能带一点不好意思或承认不够规律的意味。没有必要补出完整句子，口语中的省略十分自然。",
+            "transfer": [
+                "Engang imellem.",
+                "Jeg bruger tandtråd en gang imellem.",
+                "Ikke så tit, desværre."
+            ],
+            "pitfall": "`engang imellem` 表示偶尔，不是从前某一次。它的意义取决于整体短语。"
+        },
+        {
+            "id": "U11-C059",
+            "zh": "蛀洞经常就是出现在牙缝之间。而且我碰到你的牙龈时，它会有一点出血。这说明牙齿和牙缝还需要清洁得更彻底一些。",
+            "grammar": "第一句采用突出地点的强调结构 `Det er tit mellem tænderne, hullerne opstår`，口语中省略了可以理解的 `at`，强调蛀洞出现的位置。第二句 `dit tandkød bløder lidt, når jeg rører ved det` 使用时间从句，`røre ved` 表示触碰。第三句 `Det er et tegn på, at …` 引出判断依据；`der skal gøres bedre rent` 使用无人称被动结构，表示需要更彻底地进行清洁。",
+            "vocabulary": [
+                {
+                    "da": "mellem tænderne",
+                    "zh": "牙齿之间；牙缝中",
+                    "note": "`mellem` 引出两个或多个对象之间的位置"
+                },
+                {
+                    "da": "tandkød",
+                    "zh": "牙龈",
+                    "note": "et tandkød"
+                },
+                {
+                    "da": "bløde",
+                    "zh": "出血",
+                    "note": "`bløde – blødte – blødt`"
+                },
+                {
+                    "da": "røre ved noget",
+                    "zh": "碰触某物",
+                    "note": "`ved` 不能随意省略"
+                },
+                {
+                    "da": "gøre rent",
+                    "zh": "清洁；打扫",
+                    "note": "`gøre bedre rent` 清洁得更彻底"
+                }
+            ],
+            "nuance": "牙医先解释蛀洞常见的位置，再指出牙龈出血这一观察，并提出需要改善清洁的判断。`Det er et tegn på` 是根据可见症状推断的常用表达。第一句的强调结构口语感较强，适合识别，但正式写作中通常会把连接成分写得更完整。",
+            "transfer": [
+                "Det er ofte mellem tænderne, at hullerne opstår.",
+                "Mit tandkød bløder, når jeg børster tænder.",
+                "Det er et tegn på, at jeg skal gøre bedre rent."
+            ],
+            "pitfall": "`bløde` 是出血，`blød` 是柔软的，注意词形区别。`røre ved` 表示触碰，与 `røre rundt` 搅拌不同。`gøre rent` 要整体记忆，不能只理解为做干净。"
+        },
+        {
+            "id": "U11-C060",
+            "zh": "我知道啦。我保证以后会认真一点。",
+            "grammar": "`Jeg ved det godt` 使用 `godt` 加强对事实的承认，表示我知道这一点。`Jeg lover at …` 后接不定式结构 `tage mig sammen`。`tage sig sammen` 是反身固定表达，主语为 `jeg` 时使用 `mig`。",
+            "vocabulary": [
+                {
+                    "da": "Jeg ved det godt",
+                    "zh": "我知道啦；我很清楚",
+                    "note": "根据语气可带轻微尴尬或不耐烦"
+                },
+                {
+                    "da": "love at",
+                    "zh": "保证；承诺做某事",
+                    "note": "`love – lovede – lovet`"
+                },
+                {
+                    "da": "tage sig sammen",
+                    "zh": "振作起来；自觉一点；认真行动",
+                    "note": "`tage mig sammen` 用于第一人称"
+                }
+            ],
+            "nuance": "患者已经知道自己应该更加重视牙缝清洁，因此回答中略带不好意思。`tage mig sammen` 不只是集中注意力，而是承认自己需要更有自律地执行已经知道该做的事。口语感很强。",
+            "transfer": [
+                "Jeg ved det godt.",
+                "Jeg lover at tage mig sammen.",
+                "Nu må jeg virkelig tage mig sammen."
+            ],
+            "pitfall": "`tage sig sammen` 不是把自己拿到一起，而是打起精神、认真行动。反身代词必须与主语匹配。"
+        },
+        {
+            "id": "U11-C061",
+            "zh": "每个人都这么说。好了，漱漱口，然后把水吐在这里。",
+            "grammar": "`Det siger alle` 是普通陈述句，但通过语境产生幽默效果。后面两个祈使句 `Skyl munden` 和 `spyt ud her` 构成连续操作指令。`skylle` 表示冲洗或漱洗，`spytte ud` 表示吐出。",
+            "vocabulary": [
+                {
+                    "da": "skylle munden",
+                    "zh": "漱口",
+                    "note": "`skylle – skyllede – skyllet`"
+                },
+                {
+                    "da": "spytte ud",
+                    "zh": "吐出来",
+                    "note": "`spytte` 吐；`ud` 强调向外"
+                },
+                {
+                    "da": "Det siger alle",
+                    "zh": "大家都这么说",
+                    "note": "可带打趣或轻微怀疑"
+                }
+            ],
+            "nuance": "`Det siger alle` 是牙医对患者保证的一句略带幽默的回应，表达自己已经听过很多类似承诺。随后立即回到实际治疗操作。整体语气可以轻松，并不必然意味着严厉责备。",
+            "transfer": [
+                "Det siger alle.",
+                "Skyl munden, og spyt ud her.",
+                "Du kan skylle munden nu."
+            ],
+            "pitfall": "`skylle` 是冲洗，`skælde ud` 是责骂，形式和意思都不同。`spytte ud` 是吐出，不是吞下。"
+        },
+        {
+            "id": "U11-C062",
+            "zh": "发生心脏骤停时，最初的几分钟决定着患者能否存活。",
+            "grammar": "句首 `Ved et hjertestop` 是情境状语。主句采用强调结构 `det er de første minutter, der afgør …`，突出最初几分钟的关键性。`om den ramte overlever` 是间接是否疑问从句。`den ramte` 使用过去分词形容词名词化，表示受到这一事件影响的人。",
+            "vocabulary": [
+                {
+                    "da": "et hjertestop",
+                    "zh": "心脏骤停",
+                    "note": "与普通胸痛或心肌梗死不能完全等同"
+                },
+                {
+                    "da": "afgøre",
+                    "zh": "决定；判定",
+                    "note": "`afgøre udfaldet` 决定结果"
+                },
+                {
+                    "da": "den ramte",
+                    "zh": "受影响者；患者；遇险者",
+                    "note": "来自 `ramme` 的过去分词形式"
+                },
+                {
+                    "da": "overleve",
+                    "zh": "幸存；存活",
+                    "note": "`overleve en ulykke` 在事故中幸存"
+                }
+            ],
+            "nuance": "作者在这一章明显转换成紧急医疗语境。`de første minutter` 被强调句突出，使读者理解及时反应的重要性。句子不讨论详细的急救医学机制，而是用清楚的语言表达时间对生存机会的决定性影响。",
+            "transfer": [
+                "Ved et hjertestop tæller hvert minut.",
+                "Det er de første minutter, der gør forskellen.",
+                "Hurtig hjælp kan være afgørende."
+            ],
+            "pitfall": "`hjertestop` 是心脏骤停，不等于所有心脏病发作。`den ramte` 是遭遇事件的人，不是被某物简单撞击的人。"
+        },
+        {
+            "id": "U11-C063",
+            "zh": "如果发现有人突然倒地、没有正常呼吸，发现者应立即拨打112，开始实施胸外按压，并尽快取得附近的自动体外除颤器。",
+            "grammar": "主语为 `Den, der finder en person …`，使用嵌套关系从句：`der finder …` 修饰 `Den`，`som er faldet om og ikke trækker vejret normalt` 修饰 `en person`。主句 `skal ringe 112, begynde hjertemassage og få fat i …` 包含三个并列的不定式，共享情态动词 `skal`。`er faldet om` 使用现在完成时描述已经倒下的状态。",
+            "vocabulary": [
+                {
+                    "da": "falde om",
+                    "zh": "突然倒地；昏倒",
+                    "note": "`falde – faldt – faldet`"
+                },
+                {
+                    "da": "trække vejret normalt",
+                    "zh": "正常呼吸",
+                    "note": "急救判断中的关键描述"
+                },
+                {
+                    "da": "hjertemassage",
+                    "zh": "胸外按压；心肺复苏中的胸部按压",
+                    "note": "丹麦日常急救语境"
+                },
+                {
+                    "da": "få fat i noget",
+                    "zh": "找到并取得某物；设法拿到",
+                    "note": "也可用于联系到某人"
+                },
+                {
+                    "da": "en hjertestarter",
+                    "zh": "自动体外除颤器；AED",
+                    "note": "丹麦常用通俗名称"
+                }
+            ],
+            "nuance": "这是紧急行动说明，语气比一般健康建议更直接，使用 `skal` 表示必须立即采取行动。句子按照报警、实施胸外按压、获取除颤器的顺序组织信息，方便记忆。在实际紧急情况中，应立即拨打112并遵循接线员指导，不应因寻找设备而不必要地延误求助和救命措施。",
+            "transfer": [
+                "Finder du en person, der ikke trækker vejret normalt, skal du ringe 112.",
+                "Begynd hjertemassage, og følg alarmcentralens instruktioner.",
+                "Kan du få fat i en hjertestarter?"
+            ],
+            "pitfall": "`falde om` 是突然倒下，`falde ned` 则更强调从高处落下。`få fat i` 是设法取得，不是单纯触碰。`hjertestarter` 不是给健康人日常使用的普通设备。"
+        },
+        {
+            "id": "U11-C064",
+            "zh": "不少药品可以在药房或超市直接购买，无需处方；但另一些药品只有凭医生处方才能获得。",
+            "grammar": "第一分句 `Mange lægemidler kan købes i håndkøb` 使用情态动词 `kan` 加 s-被动 `købes`。第二分句由 `mens` 引出对照，`andre kun udleveres mod recept` 中 `udleveres` 是 s-被动，`kun` 限定领取条件。`mod recept` 是凭处方领取的固定行政医疗表达。",
+            "vocabulary": [
+                {
+                    "da": "et lægemiddel",
+                    "zh": "药品；药物",
+                    "note": "复数 `lægemidler`"
+                },
+                {
+                    "da": "i håndkøb",
+                    "zh": "非处方购买；直接购买",
+                    "note": "`håndkøbsmedicin` 非处方药"
+                },
+                {
+                    "da": "et apotek",
+                    "zh": "药房",
+                    "note": "复数 `apoteker`"
+                },
+                {
+                    "da": "udlevere",
+                    "zh": "发放；交付；配发",
+                    "note": "药品发放语境常用"
+                },
+                {
+                    "da": "mod recept",
+                    "zh": "凭处方",
+                    "note": "`en recept` 医生处方"
+                }
+            ],
+            "nuance": "这一句介绍非处方药与处方药的基本区别。`mens` 用于分类对照，并不表示购买和配发同时发生。`kan købes` 和 `udleveres` 都采用以药品为中心的被动表达，非常符合制度说明语体。",
+            "transfer": [
+                "Medicin kan købes i håndkøb på apoteket.",
+                "Nogle lægemidler udleveres kun mod recept.",
+                "Har du en recept fra lægen?"
+            ],
+            "pitfall": "`i håndkøb` 是非处方销售，不等于必须在实体柜台用现金购买。`recept` 是处方，不能与烹饪食谱 `opskrift` 混淆。"
+        },
+        {
+            "id": "U11-C065",
+            "zh": "处方药也不是完全免费的，不过，在一年之内购买的药品越多，能够获得的补贴通常也会相应提高。",
+            "grammar": "第一分句 `Medicin på recept er heller ikke gratis` 使用 `heller ikke` 表示也不。第二分句 `tilskuddet stiger, jo mere medicin man køber …` 使用比较关联结构，但这里只有 `jo mere …` 明确出现，主句中的 `stiger` 承担随购买量变化的结果表达。`i løbet af et år` 限定累计时间范围。",
+            "vocabulary": [
+                {
+                    "da": "medicin på recept",
+                    "zh": "处方药",
+                    "note": "与 `håndkøbsmedicin` 相对"
+                },
+                {
+                    "da": "heller ikke",
+                    "zh": "也不",
+                    "note": "在否定语境中表示进一步补充"
+                },
+                {
+                    "da": "et tilskud",
+                    "zh": "补贴；补助",
+                    "note": "`medicintilskud` 药品补贴"
+                },
+                {
+                    "da": "stige",
+                    "zh": "增长；提高",
+                    "note": "`stige – steg – steget`"
+                }
+            ],
+            "nuance": "作者解释处方药个人支付与公共补贴之间的关系。`jo mere` 突出累计购买金额或符合规则的药品支出与补贴比例之间可能存在关联。这里是通俗的制度概括，并不意味着任何药品、任何购买量都适用完全相同的补贴机制。",
+            "transfer": [
+                "Medicin på recept er heller ikke altid gratis.",
+                "Tilskuddet stiger, jo større de samlede udgifter bliver.",
+                "Jeg får tilskud til min medicin."
+            ],
+            "pitfall": "`tilskud` 是补贴，不是自己提前交的一笔钱。`jo mere` 表示随着数量增加而变化，不能把它理解为语气小品词 `jo` 的强调用法。"
+        },
+        {
+            "id": "U11-C066",
+            "zh": "抗生素对细菌有效，却不能对付病毒，所以它们对普通感冒没有治疗作用。",
+            "grammar": "主干由三个语义连续的分句组成。`Antibiotika virker mod bakterier` 中 `virke mod` 表示对某种病原体有效。第二部分 `men ikke mod virus` 省略重复的 `virker`。第三分句以 `derfor` 开头，采用 `hjælper de` 的 V2 倒装，说明前述区别带来的结果。",
+            "vocabulary": [
+                {
+                    "da": "antibiotika",
+                    "zh": "抗生素",
+                    "note": "集合性药物名称"
+                },
+                {
+                    "da": "virke mod noget",
+                    "zh": "对某物有效；能对抗某种病原体",
+                    "note": "药物说明中常用"
+                },
+                {
+                    "da": "en bakterie",
+                    "zh": "细菌",
+                    "note": "复数 `bakterier`"
+                },
+                {
+                    "da": "et virus",
+                    "zh": "病毒",
+                    "note": "丹麦语中也可见 `en virus`，具体用法依词典和语境"
+                },
+                {
+                    "da": "en forkølelse",
+                    "zh": "普通感冒",
+                    "note": "通常由病毒感染引起"
+                }
+            ],
+            "nuance": "这是很典型的公共卫生教育表达。作者用细菌与病毒的对照解释为什么不能把抗生素当成所有感染的通用药。`derfor` 让结论直接建立在病原体区别之上。句子讨论普通感冒本身，不排除患者在特殊情况下同时存在需要医生评估的细菌感染。",
+            "transfer": [
+                "Antibiotika virker mod bakterier, men ikke mod virus.",
+                "Derfor hjælper antibiotika ikke mod en almindelig forkølelse.",
+                "Medicinen virker ikke mod denne type infektion."
+            ],
+            "pitfall": "`virke mod` 是对……有效，`hjælpe mod` 是对……有帮助。细菌和病毒在医学上不是同一类病原体，不能混为一谈。"
+        },
+        {
+            "id": "U11-C067",
+            "zh": "所有药品都可能产生副作用，而这些副作用会写在药品说明书里——可大多数人根本不会把说明书从头读到尾。",
+            "grammar": "第一分句 `Al medicin kan have bivirkninger` 使用 `kan` 表示可能性。第二分句 `de står i indlægssedlen` 中 `de` 回指副作用，`stå i` 表示文字记载。`som de færreste læser til ende` 是修饰说明书的关系从句，`som` 作宾语；`de færreste` 指极少数人，`til ende` 表示读到最后。",
+            "vocabulary": [
+                {
+                    "da": "en bivirkning",
+                    "zh": "副作用；不良反应",
+                    "note": "复数 `bivirkninger`"
+                },
+                {
+                    "da": "en indlægsseddel",
+                    "zh": "药品说明书；随药附带的说明单",
+                    "note": "复数 `indlægssedler`"
+                },
+                {
+                    "da": "de færreste",
+                    "zh": "极少数人；很少有人",
+                    "note": "比 `få` 更突出少数"
+                },
+                {
+                    "da": "læse til ende",
+                    "zh": "读到最后；完整读完",
+                    "note": "`til ende` 表示直到结束"
+                }
+            ],
+            "nuance": "作者先客观介绍副作用信息，再略带调侃地指出很多人不会读完整份说明书。`de færreste` 是较强的少数表达，但这里没有给出确切调查比例，不应自行补充统计数据。`kan have` 表示可能存在副作用，而非每个人服药后都会出现。",
+            "transfer": [
+                "Al medicin kan have bivirkninger.",
+                "Bivirkningerne står i indlægssedlen.",
+                "Jeg læste ikke vejledningen til ende."
+            ],
+            "pitfall": "`bivirkning` 是副作用，`virkning` 是作用或效果。`de færreste` 与 `de fleste` 意思相反，尤其容易看错。"
+        },
+        {
+            "id": "U11-C068",
+            "zh": "你以前用过这种药吗？",
+            "grammar": "`Har du fået … før?` 是现在完成时疑问句，询问从过去到现在的用药经历。`få medicin` 在医疗语境中可以表示获得、被开具或使用过某种药物，具体含义由上下文确定。",
+            "vocabulary": [
+                {
+                    "da": "få medicin",
+                    "zh": "获得药物；接受药物治疗",
+                    "note": "根据语境也可指以前使用过某种药"
+                },
+                {
+                    "da": "før",
+                    "zh": "以前；之前",
+                    "note": "此处是副词"
+                }
+            ],
+            "nuance": "药师首先确认患者是否有既往用药经验，以判断是否需要详细说明。问句没有涉及具体疾病，而是聚焦这款药的使用历史。",
+            "transfer": [
+                "Har du fået denne medicin før?",
+                "Har du prøvet den før?",
+                "Er det første gang, du tager medicinen?"
+            ],
+            "pitfall": "`få` 不只是得到实体物品，在医疗语境中也可表示接受某项治疗。"
+        },
+        {
+            "id": "U11-C069",
+            "zh": "没有，这是第一次。",
+            "grammar": "`Nej` 否定前文的既往用药经历。`det er første gang` 省略了后面可以补出的用药行为，例如 `jeg får denne medicin`。",
+            "vocabulary": [
+                {
+                    "da": "første gang",
+                    "zh": "第一次",
+                    "note": "可独立回答，也可后接从句"
+                }
+            ],
+            "nuance": "患者使用最简洁自然的回答，足以让药师理解这是首次用药，因此后续应解释用药方法。",
+            "transfer": [
+                "Nej, det er første gang.",
+                "Det er første gang, jeg tager denne medicin."
+            ],
+            "pitfall": "`første gang` 可以直接使用，不一定需要后面补一个完整从句。"
+        },
+        {
+            "id": "U11-C070",
+            "zh": "那么，你早晚各服一片，最好随餐服用。如果出现皮疹，或者面部发生肿胀，必须立即联系医生。",
+            "grammar": "第一句以 `Så` 开头，引出具体用药指示，后面采用 `tager du` 的 V2 倒装。`én tablet morgen og aften` 说明早晚各一次，`gerne sammen med et måltid` 表示较推荐的服药方式。第二句包含两个并列的无连接词条件结构：`Får du udslæt` 与 `bliver hævet i ansigtet`，共享第二人称主语。结果主句 `skal du kontakte …` 表示明确行动要求。",
+            "vocabulary": [
+                {
+                    "da": "en tablet",
+                    "zh": "药片",
+                    "note": "复数 `tabletter`"
+                },
+                {
+                    "da": "morgen og aften",
+                    "zh": "早晚；每天早晨和晚上",
+                    "note": "常用于服药频率"
+                },
+                {
+                    "da": "gerne sammen med et måltid",
+                    "zh": "最好随餐服用",
+                    "note": "`gerne` 在此表达推荐，而非喜欢"
+                },
+                {
+                    "da": "et udslæt",
+                    "zh": "皮疹",
+                    "note": "`få udslæt` 出现皮疹"
+                },
+                {
+                    "da": "med det samme",
+                    "zh": "立即；马上",
+                    "note": "表达无延迟行动"
+                }
+            ],
+            "nuance": "药师先解释日常服用方法，再明确需要及时处理的潜在警示症状。`Så` 是自然的指导话语开场，`gerne` 保留一定建议性，而 `skal … med det samme` 的语气明显更强。句中的服药剂量是故事里的具体说明，不应将其套用到其他药品。",
+            "transfer": [
+                "Tag én tablet morgen og aften.",
+                "Medicinen kan tages sammen med et måltid.",
+                "Får du udslæt eller hævelse i ansigtet, skal du straks kontakte en læge."
+            ],
+            "pitfall": "`morgen og aften` 在本句表示早晚各一次。`gerne` 在医嘱中可能表示建议的服药方式。面部肿胀等症状可能需要紧急评估，实际处理应以药品说明和医务人员指导为准。"
+        },
+        {
+            "id": "U11-C071",
+            "zh": "那如果我忘记服用一次呢？",
+            "grammar": "`Og hvis jeg glemmer en dosis?` 是省略式条件追问。`hvis` 后使用正常从句语序 `jeg glemmer`，但结果主句被省略，完整意思是如果我忘记一次剂量，应该怎么办。",
+            "vocabulary": [
+                {
+                    "da": "glemme",
+                    "zh": "忘记",
+                    "note": "`glemme – glemte – glemt`"
+                },
+                {
+                    "da": "en dosis",
+                    "zh": "一剂；一次用药剂量",
+                    "note": "复数 `doser`"
+                }
+            ],
+            "nuance": "患者主动询问遗漏服药的处理方法，说明他在考虑如何实际执行医嘱。`Og hvis …?` 在对话中非常自然，既简短又清晰，常用于提出可能发生的例外情况。",
+            "transfer": [
+                "Og hvis jeg glemmer en dosis?",
+                "Hvad skal jeg gøre, hvis jeg glemmer medicinen?",
+                "Hvad gør jeg, hvis jeg tager den for sent?"
+            ],
+            "pitfall": "`en dosis` 是一次剂量，不一定等于一片药；有些药物的一次剂量可能包含多片或其他形式。"
+        },
+        {
+            "id": "U11-C072",
+            "zh": "这要看具体是哪种药。你可以查看药品说明书，或者给我们打电话——但不要为了补上漏服的那次而自行服用双倍剂量。",
+            "grammar": "第一句 `Det afhænger af medicinen` 使用固定搭配 `afhænge af`。第二句包含并列祈使句 `Tjek …` 和 `ring …`，破折号后再使用否定祈使句 `tag ikke …`。`som erstatning for den glemte dosis` 是目的或替代关系状语，表示用双倍剂量补偿漏服。",
+            "vocabulary": [
+                {
+                    "da": "afhænge af noget",
+                    "zh": "取决于某事",
+                    "note": "介词 `af` 必须保留"
+                },
+                {
+                    "da": "tjekke",
+                    "zh": "检查；查看；确认",
+                    "note": "口语中非常常用"
+                },
+                {
+                    "da": "en dobbeltdosis",
+                    "zh": "双倍剂量",
+                    "note": "由 `dobbelt` 与 `dosis` 构成"
+                },
+                {
+                    "da": "som erstatning for",
+                    "zh": "作为……的替代或补偿",
+                    "note": "`en erstatning` 替代物；补偿"
+                },
+                {
+                    "da": "en glemt dosis",
+                    "zh": "漏服的一次剂量",
+                    "note": "`glemt` 为过去分词作形容词"
+                }
+            ],
+            "nuance": "药师没有给出适用于所有药物的统一补服时间表，而强调具体处理取决于药品本身。这是谨慎的用药沟通。`Tjek … eller ring …` 提供两种获取可靠信息的方式，最后的否定祈使句则强调不能为了补偿漏服而擅自加倍。",
+            "transfer": [
+                "Det afhænger af medicinen.",
+                "Tjek indlægssedlen, eller spørg på apoteket.",
+                "Tag ikke en dobbeltdosis for at kompensere for den glemte dosis."
+            ],
+            "pitfall": "`afhænge af` 不能写成 `afhænge på`。否定祈使句 `Tag ikke …` 中 `ikke` 放在祈使动词之后。不同药品的漏服规则不同，应以具体药品说明为准。"
+        },
+        {
+            "id": "U11-C073",
+            "zh": "医生负有保密义务，因此原则上未经本人同意，不得向其他人透露其健康状况。",
+            "grammar": "第一分句 `Lægerne har tavshedspligt` 陈述法律或职业义务。第二分句以 `så` 引出结果，`de må som udgangspunkt ikke fortælle …` 使用情态动词 `må` 与否定词 `ikke` 表示通常不被允许。`uden samtykke` 是条件性介词短语，`ens helbred` 使用泛指物主代词 `ens`，与特定医生的所有关系无关。",
+            "vocabulary": [
+                {
+                    "da": "tavshedspligt",
+                    "zh": "保密义务",
+                    "note": "en tavshedspligt；医疗、社会工作和公职领域常见"
+                },
+                {
+                    "da": "som udgangspunkt",
+                    "zh": "原则上；通常情况下",
+                    "note": "保留法律例外空间"
+                },
+                {
+                    "da": "et helbred",
+                    "zh": "健康状况",
+                    "note": "`ens helbred` 一个人的健康状况"
+                },
+                {
+                    "da": "et samtykke",
+                    "zh": "同意；知情许可",
+                    "note": "`give samtykke` 给予同意"
+                },
+                {
+                    "da": "fortælle andre om noget",
+                    "zh": "把某事告诉其他人",
+                    "note": "`om` 引出透露的信息内容"
+                }
+            ],
+            "nuance": "这一句从用药转向患者权利。`tavshedspligt` 是重要的法律和职业伦理词汇。`som udgangspunkt` 体现法规范说明中的谨慎性：一般应保密，但实际可能存在明确的法律例外。`ens` 让规则适用于一般患者，而不是某个具体人的隐私。",
+            "transfer": [
+                "Læger har tavshedspligt.",
+                "Oplysningerne må som udgangspunkt ikke deles uden samtykke.",
+                "Man har ret til fortrolighed om sit helbred."
+            ],
+            "pitfall": "`tavshedspligt` 不只是礼貌地不说话，而是法律或职业上的保密义务。`ens` 是泛指物主代词，不能在这里理解为数字一的所有格。"
+        },
+        {
+            "id": "U11-C074",
+            "zh": "原则上，任何治疗都不得在未取得患者知情同意的情况下开始；而患者有权拒绝接受治疗，即使是医生明确推荐的治疗，也可以说不。",
+            "grammar": "第一分句 `Ingen behandling må som udgangspunkt sættes i gang uden …` 由否定限定词 `Ingen` 修饰主语，使用情态动词 `må` 加 s-被动 `sættes i gang`，表示不得启动治疗。第二分句 `patienten har ret til at sige nej` 使用权利表达 `have ret til at`。破折号后的 `også til en behandling, som lægen anbefaler` 是补充说明，`som` 引导修饰治疗的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "informeret samtykke",
+                    "zh": "知情同意",
+                    "note": "医疗伦理和患者权利的核心术语"
+                },
+                {
+                    "da": "sætte noget i gang",
+                    "zh": "启动；开始实施",
+                    "note": "`sættes i gang` 为被动形式"
+                },
+                {
+                    "da": "have ret til at",
+                    "zh": "有权做某事",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "sige nej til noget",
+                    "zh": "拒绝某事",
+                    "note": "注意介词 `til`"
+                },
+                {
+                    "da": "anbefale",
+                    "zh": "推荐；建议",
+                    "note": "`anbefale en behandling` 推荐某项治疗"
+                }
+            ],
+            "nuance": "这句强调医疗服务不能仅由医生单方面决定，患者的知情和自主选择具有核心地位。`også til en behandling, som lægen anbefaler` 尤其有力，说明专业建议与患者最终同意并不是同一件事。`som udgangspunkt` 保留了法律中某些特殊情况下可能存在的例外。",
+            "transfer": [
+                "Patienten har ret til at sige nej til behandling.",
+                "Behandling kræver som udgangspunkt informeret samtykke.",
+                "Selv om lægen anbefaler behandlingen, kan patienten afslå."
+            ],
+            "pitfall": "`informeret samtykke` 不只是签字，而是以获得充分相关信息为基础的同意。`sige nej til` 中的介词是 `til`。患者拒绝治疗的具体法律适用可能涉及能力、紧急情况等条件，不能将概括句视为全部法律规则。"
+        },
+        {
+            "id": "U11-C075",
+            "zh": "下次去看医生之前，提前写下三件事：哪里疼、什么时候开始的，以及什么会让症状减轻或者加重。",
+            "grammar": "句首 `Næste gang du skal til lægen` 是省略连接词的时间从句，表示下次去看医生时。随后出现主句 `så skriv tre ting ned på forhånd`，`så` 起衔接作用，`skriv` 是祈使式。冒号后三个间接疑问从句并列：`hvor det gør ondt`、`hvornår det begyndte`、`hvad der gør det bedre eller værre`。第三从句中 `hvad` 作主语，`der` 是疑问从句的结构性成分。",
+            "vocabulary": [
+                {
+                    "da": "næste gang",
+                    "zh": "下次；下一次……时",
+                    "note": "可直接引导时间从句"
+                },
+                {
+                    "da": "skrive noget ned",
+                    "zh": "把某事记下来",
+                    "note": "动词小品词 `ned` 表示记录"
+                },
+                {
+                    "da": "på forhånd",
+                    "zh": "事先；提前",
+                    "note": "计划、预约和准备场景中常用"
+                },
+                {
+                    "da": "gøre noget bedre eller værre",
+                    "zh": "使某事改善或恶化",
+                    "note": "可用于症状变化因素"
+                }
+            ],
+            "nuance": "作者将整篇的医学词汇和制度介绍归结为一项具体可执行的准备工作。三个问题对应症状位置、时间与影响因素，能够帮助患者清晰表达。`så skriv …` 语气直接而实用，更像教师给读者的操作建议，而不是医疗命令。",
+            "transfer": [
+                "Næste gang du skal til lægen, så skriv symptomerne ned.",
+                "Forbered tre spørgsmål på forhånd.",
+                "Notér, hvad der gør smerterne bedre eller værre."
+            ],
+            "pitfall": "`skrive ned` 是记录下来，不是写得低一些。`på forhånd` 是事先，与表示在前面的空间用法不同。`Næste gang …` 后接时间从句时不需要额外使用 `når`。"
+        },
+        {
+            "id": "U11-C076",
+            "zh": "这只需要一分钟，却可能帮你省去在急诊科折腾一整天的时间——也可能让你在真正需要急诊时及时赶到那里。",
+            "grammar": "两个并列主句使用相同的主语 `det`，分别为 `Det tager et minut` 和 `det kan spare dig for en dag på skadestuen`。`spare nogen for noget` 表示让某人免于某种支出、负担或经历。破折号后的 `eller sende dig derhen i tide` 与前面的不定式 `spare` 并列，共享情态动词 `kan`。`derhen` 是方向副词，指向前文的急诊科。",
+            "vocabulary": [
+                {
+                    "da": "spare nogen for noget",
+                    "zh": "使某人免于某种麻烦或负担",
+                    "note": "例如 `spare nogen for besvær` 省去某人的麻烦"
+                },
+                {
+                    "da": "en skadestue",
+                    "zh": "急诊科；急诊接诊部门",
+                    "note": "`på skadestuen` 在急诊科"
+                },
+                {
+                    "da": "derhen",
+                    "zh": "到那里去",
+                    "note": "强调方向，与表示位置的 `der` 不同"
+                },
+                {
+                    "da": "i tide",
+                    "zh": "及时；赶得及",
+                    "note": "区别于 `til tiden` 按约定时间准时"
+                },
+                {
+                    "da": "tage et minut",
+                    "zh": "花一分钟",
+                    "note": "`Det tager X minutter at …` 做某事花X分钟"
+                }
+            ],
+            "nuance": "结尾采用巧妙的双向结果：提前准备既可能避免不必要的急诊经历，也可能帮助识别真正需要及时处理的状况。`eller` 不只是列举两种选项，而是强调同一项简单准备能够在不同情况下产生不同的积极作用。`i tide` 为全文收束在及时就医这一关键目标上。",
+            "transfer": [
+                "Det tager kun et minut.",
+                "Det kan spare dig for en masse besvær.",
+                "De rigtige oplysninger kan hjælpe dig med at få behandling i tide."
+            ],
+            "pitfall": "`spare dig for` 是让你省去某种麻烦，区别于 `spare op` 储蓄。`i tide` 是及时，`til tiden` 更偏向按照预定时间准时。`derhen` 表示向那里去，不能随意换成静态位置副词 `der`。"
+        }
+    ]
+}

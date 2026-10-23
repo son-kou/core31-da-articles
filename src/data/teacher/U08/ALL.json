@@ -1,0 +1,2001 @@
+{
+    "schema_version": 1,
+    "unit": "U08",
+    "part": "ALL",
+    "source_fingerprint": "U08-ALL-4c4e6b7b2cda",
+    "sentences": [
+        {
+            "id": "U08-C001",
+            "zh": "三月的一个星期二，阿米娜写了三条消息：一条给女性朋友，一条给同事，还有一条给市政府。",
+            "grammar": "句首时间状语 `En tirsdag i marts` 占据第一位置，限定动词 `skriver` 随即出现，主语 `Amina` 后置，体现主句 V2 语序。冒号后三个 `én til …` 是省略了 `besked` 的并列结构。`én` 带重音符号，强调三个对象各收到一条。",
+            "vocabulary": [
+                {
+                    "da": "en besked",
+                    "zh": "一条消息、通知",
+                    "note": "复数 `beskeder`；可以指短信、聊天消息或其他简短书面信息。"
+                },
+                {
+                    "da": "en veninde",
+                    "zh": "女性朋友",
+                    "note": "传统上明确指女性朋友，不自动意味着恋爱关系。"
+                },
+                {
+                    "da": "en kollega",
+                    "zh": "同事",
+                    "note": "复数 `kolleger`。"
+                },
+                {
+                    "da": "en kommune",
+                    "zh": "市镇政府、地方自治市",
+                    "note": "此处 `kommunen` 指相应地方行政机关。"
+                }
+            ],
+            "nuance": "作者用同一天、同一位发信人、三种收信对象构建对照。关键不是阿米娜有三件事情，而是同一个人会根据社交关系和行政场景调整书面语体。丹麦语中 `kommune` 既可表示地方行政辖区，也可指其行政机构。",
+            "transfer": [
+                "En [ugedag] i [måned] + verbum + subjekt …",
+                "Jeg har sendt én besked til X og én til Y.",
+                "skrive til en ven, en kollega eller kommunen"
+            ],
+            "pitfall": "不要把 `veninde` 直接译成女朋友或恋人；与英语 girlfriend 的某些用法不同。注意 `skriver` 不是过去时，原文用叙事现在时使场景显得生动。"
+        },
+        {
+            "id": "U08-C002",
+            "zh": "这三条消息谈的是截然不同的事情，措辞和语气也大不相同。",
+            "grammar": "两个主句由 `og` 并列，主语 `de` 均回指三条消息。`handle om + noget` 表示谈论的主题，`lyde + adverbium` 描述听起来或读起来的效果。`forskellige` 修饰复数名词 `ting`，而 `forskelligt` 在第二分句作副词性成分，修饰 `lyder`。",
+            "vocabulary": [
+                {
+                    "da": "handle om",
+                    "zh": "关于、涉及、讲述"
+                },
+                {
+                    "da": "vidt forskellig",
+                    "zh": "截然不同的",
+                    "note": "按照名词的性、数或副词功能变化词形。"
+                },
+                {
+                    "da": "lyde",
+                    "zh": "听起来；给人某种语气印象",
+                    "note": "`lyder – lød – lydt`。"
+                }
+            ],
+            "nuance": "`vidt` 加强差异程度，比单纯的 `forskellig` 更鲜明。虽然讨论的是书面消息，仍然可以用 `lyde` 来评价措辞呈现出的声音或语气，这在评论邮件时很自然。",
+            "transfer": [
+                "X og Y handler om vidt forskellige ting.",
+                "Det lyder meget forskelligt alt efter situationen.",
+                "Den samme besked kan lyde forskelligt for forskellige modtagere."
+            ],
+            "pitfall": "区别 `forskellige ting` 与 `lyde forskelligt`：前者是形容词复数形式，后者是副词用法；不要机械地在两处使用同一个词形。"
+        },
+        {
+            "id": "U08-C003",
+            "zh": "嗨，Line！周日有兴趣一起出去散个步吗？我得下午两点以后才有空，因为我要帮妈妈搬家。抱抱，A。",
+            "grammar": "`Er du frisk på …?` 是一般疑问句，限定动词 `er` 前置。`Jeg kan først efter kl. 14` 省略了可由语境补出的活动动词，意思是两点以后才能参加。`for` 连接两个主句，用来给出原因，因此后面保持主句语序 `jeg skal …`。`hjælpe nogen med at + infinitiv` 表示帮助某人做某事。",
+            "vocabulary": [
+                {
+                    "da": "være frisk på noget",
+                    "zh": "有兴趣做某事、愿意参加",
+                    "note": "自然的非正式口语表达。"
+                },
+                {
+                    "da": "en gåtur",
+                    "zh": "散步、步行活动",
+                    "note": "常见搭配 `gå en tur` 或 `tage på en gåtur`。"
+                },
+                {
+                    "da": "først efter",
+                    "zh": "直到……以后才"
+                },
+                {
+                    "da": "hjælpe nogen med at gøre noget",
+                    "zh": "帮助某人做某事"
+                },
+                {
+                    "da": "Kram",
+                    "zh": "抱抱；亲切的信末祝福",
+                    "note": "适合关系亲近的朋友或家人。"
+                }
+            ],
+            "nuance": "这是一条典型的朋友间消息：用 `Hej` 直接开场，用 `frisk på` 随意邀约，用 `Kram` 温暖收尾。`først` 在这里尤其重要，它并不是强调自己最早有多积极，而是温和地说明时间限制。只署名首字母也暗示双方相熟。",
+            "transfer": [
+                "Er du frisk på en kop kaffe i weekenden?",
+                "Jeg kan først efter kl. X.",
+                "Jeg skal hjælpe X med at + infinitiv."
+            ],
+            "pitfall": "`frisk på` 不应直译为身体健康或精神清醒；`først efter kl. 14` 不表示两点以前有空，而是两点以后才行。"
+        },
+        {
+            "id": "U08-C004",
+            "zh": "所谓对某件事有兴致，就是既想做、也有精力去做；这个表达适用于口语以及朋友之间的消息。",
+            "grammar": "`At være frisk på noget` 是作主语的不定式短语。`betyder, at …` 引出解释性宾语从句。`have lyst og overskud til noget` 中两个名词共享介词 `til`。后半句由 `og` 连接另一主句，`udtrykket` 作主语，`hører hjemme i` 表示属于某种语言使用环境。",
+            "vocabulary": [
+                {
+                    "da": "have lyst til",
+                    "zh": "想做、有兴致做"
+                },
+                {
+                    "da": "have overskud til",
+                    "zh": "有余力、有精力应付",
+                    "note": "`overskud` 在这里指心理或体力上的余裕，不是财务利润。"
+                },
+                {
+                    "da": "høre hjemme i",
+                    "zh": "适用于、属于某一领域或场合"
+                },
+                {
+                    "da": "talesprog",
+                    "zh": "口语",
+                    "note": "`et talesprog`；可与 `skriftsprog` 对照。"
+                }
+            ],
+            "nuance": "`frisk på` 不只是愿意，还可以暗含有时间、有精神参加。作者特别说明语言表达具有适用场域：一种用法可以在朋友之间非常得体，但不一定适合行政公文。",
+            "transfer": [
+                "Jeg har lyst og overskud til at prøve noget nyt.",
+                "Det udtryk hører mest hjemme i talesproget.",
+                "X betyder, at man …"
+            ],
+            "pitfall": "`have lyst til at gøre noget` 与 `have overskud til at gøre noget` 都需要 `til`；不要误以为 `høre hjemme` 必须表示居住在某个地方。"
+        },
+        {
+            "id": "U08-C005",
+            "zh": "她们谁也不会用这种口吻给政府办事人员写信——而恰恰因为如此，这种说法在她们之间才显得自然。",
+            "grammar": "`Ingen af dem` 表示她们两人中没有任何一个人。`ville skrive` 使用 `ville + infinitiv` 描述假设情境中的行为，而非真实过去发生的动作。破折号后的 `netop derfor` 位于句首，限定动词 `fungerer` 紧随其后，仍是 V2 语序。",
+            "vocabulary": [
+                {
+                    "da": "ingen af dem",
+                    "zh": "他们或她们当中没有一个"
+                },
+                {
+                    "da": "en sagsbehandler",
+                    "zh": "案件经办人、行政事务处理人员"
+                },
+                {
+                    "da": "netop derfor",
+                    "zh": "正因如此、恰恰因此"
+                },
+                {
+                    "da": "fungere",
+                    "zh": "奏效、适用、行得通"
+                }
+            ],
+            "nuance": "`netop` 是论证的关键：朋友间亲密用语的得体性，恰恰来自它不适合所有场合。`fungerer` 不是机器运转，而是语言表达在特定关系中产生预期效果。",
+            "transfer": [
+                "Jeg ville ikke skrive sådan til en kunde.",
+                "Netop derfor fungerer løsningen så godt.",
+                "Det fungerer fint mellem venner, men ikke i en formel sammenhæng."
+            ],
+            "pitfall": "`ville` 不一定表示过去的意愿，这里带有假设意味。`skrive til nogen` 中的介词是 `til`。"
+        },
+        {
+            "id": "U08-C006",
+            "zh": "主题：报告所需数据——最迟星期三中午12点。",
+            "grammar": "这是邮件主题行而非完整句子。`Tal til rapporten` 是名词短语，`senest onsdag kl. 12` 是省略了谓语的截止时间说明。书面标题允许这样的省略，以提高信息密度。",
+            "vocabulary": [
+                {
+                    "da": "et emne",
+                    "zh": "主题、邮件标题"
+                },
+                {
+                    "da": "tal",
+                    "zh": "数据、数字",
+                    "note": "这里指报告所需的数据，而非说话的命令式。"
+                },
+                {
+                    "da": "senest",
+                    "zh": "最迟、不晚于"
+                }
+            ],
+            "nuance": "标题直接结合任务内容与截止时间，收件人甚至不打开邮件也能大致判断优先级。`senest` 比 `hurtigst muligt` 更可执行，因为它给出明确的最晚时点。",
+            "transfer": [
+                "Emne: Materiale til mødet – senest fredag kl. 15",
+                "Emne: Feedback på rapporten – frist mandag",
+                "Send venligst tallene senest [dato]."
+            ],
+            "pitfall": "`tal` 在此是名词，不是动词 `tale` 的命令式 `tal`；`senest` 强调最迟时间，不是要求恰好在那个时间提交。"
+        },
+        {
+            "id": "U08-C007",
+            "zh": "你好，Thomas。",
+            "grammar": "邮件称呼语，采用 `Hej + fornavn`，不需要额外动词。",
+            "vocabulary": [
+                {
+                    "da": "Hej",
+                    "zh": "你好、嗨",
+                    "note": "既用于日常口语，也广泛用于丹麦职场邮件。"
+                }
+            ],
+            "nuance": "这里的 `Hej` 是正常、专业而不僵硬的同事称呼，不应按中文或英语某些正式函件的标准，将其理解为不尊重。",
+            "transfer": [
+                "Hej [fornavn]"
+            ],
+            "pitfall": "丹麦职场邮件通常不要求使用姓氏加先生或女士头衔。"
+        },
+        {
+            "id": "U08-C008",
+            "zh": "我正在汇总要在星期四管理层会议上使用的报告。你能最迟在星期三中午12点前把第三季度的数据发给我吗？",
+            "grammar": "首句采用 `jeg + samler + objekt + til + formål`，现在时说明正在进行的工作。`torsdagens møde` 是以星期名称构成的所有格结构。第二句为 `Kan du + infinitiv` 的礼貌请求，`senest` 引出明确期限。",
+            "vocabulary": [
+                {
+                    "da": "samle en rapport",
+                    "zh": "汇总、编整一份报告"
+                },
+                {
+                    "da": "ledelsen",
+                    "zh": "管理层、领导层",
+                    "note": "通常是集合意义上的管理团队。"
+                },
+                {
+                    "da": "tredje kvartal",
+                    "zh": "第三季度",
+                    "note": "也常写作 `3. kvartal`。"
+                },
+                {
+                    "da": "sende nogen noget",
+                    "zh": "把某物发送给某人",
+                    "note": "双宾语结构，例如 `sende mig tallene`。"
+                }
+            ],
+            "nuance": "邮件先交代索取数据的工作背景，再提出具体要求。这样既让对方知道为什么需要数据，也避免大段铺垫。`Kan du` 的形式是能力询问，但职场语用功能通常是礼貌地提出请求。",
+            "transfer": [
+                "Jeg samler materialet til [møde].",
+                "Kan du sende mig [materiale] senest [dato og tidspunkt]?",
+                "Jeg skal bruge tallene for [periode]."
+            ],
+            "pitfall": "`kvartal` 是季度，不是四个月。`samle rapporten` 在这里不是将纸张物理堆在一起，而是汇总报告内容。"
+        },
+        {
+            "id": "U08-C009",
+            "zh": "如果时间来不及，就告诉我一声，我们再一起想办法。",
+            "grammar": "`Hvis det bliver svært at nå` 是条件从句。`det` 指前面要求在期限内完成的事项，`nå` 的具体宾语由上下文补足。`så sig til` 是后接命令式的条件回应；后面的 `så finder vi en løsning` 则表达随后共同采取行动，两个 `så` 的语篇功能不完全相同。",
+            "vocabulary": [
+                {
+                    "da": "nå noget",
+                    "zh": "来得及完成某事"
+                },
+                {
+                    "da": "sige til",
+                    "zh": "告知一声、及时说出来"
+                },
+                {
+                    "da": "finde en løsning",
+                    "zh": "找到解决办法"
+                },
+                {
+                    "da": "blive svært",
+                    "zh": "变得困难、出现困难"
+                }
+            ],
+            "nuance": "这句话是柔性期限管理的典型例子：截止时间很清楚，但也主动提供沟通困难的渠道。`så finder vi en løsning` 用 `vi` 传递协作而非追责，适合需要同事配合的邮件。",
+            "transfer": [
+                "Hvis det bliver svært at nå, så sig endelig til.",
+                "Sig til, hvis du har brug for mere tid.",
+                "Så finder vi en løsning sammen."
+            ],
+            "pitfall": "`nå` 在这里是来得及，不是到达某地；`sige til` 不是单纯地说出某句话，而是主动通知对方。"
+        },
+        {
+            "id": "U08-C010",
+            "zh": "祝好／此致问候。",
+            "grammar": "固定邮件结尾语，是省略完整句法结构的名词性表达。",
+            "vocabulary": [
+                {
+                    "da": "venlig hilsen",
+                    "zh": "友好的问候、谨致问候",
+                    "note": "常见的职业邮件结尾。"
+                }
+            ],
+            "nuance": "比朋友之间的 `Kram` 正式，但并不生硬。适合日常同事沟通和许多普通业务邮件。",
+            "transfer": [
+                "Venlig hilsen, [navn]"
+            ],
+            "pitfall": "不要逐词翻译成不自然的中文句子；这是功能性落款语。"
+        },
+        {
+            "id": "U08-C011",
+            "zh": "阿米娜（署名）。",
+            "grammar": "",
+            "vocabulary": [],
+            "nuance": "与前一句的结尾祝福组合成完整邮件落款。给相熟同事只写名字自然得体，不一定需要全名或职务。",
+            "transfer": [],
+            "pitfall": ""
+        },
+        {
+            "id": "U08-C012",
+            "zh": "这封写给Thomas的邮件语气友好，但很快就切入正题。",
+            "grammar": "两个形容性谓语结构由 `men` 对比连接：`er venlig` 描述态度，`kommer hurtigt til sagen` 描述行文方式。`den` 回指前面的 `mailen`。",
+            "vocabulary": [
+                {
+                    "da": "komme til sagen",
+                    "zh": "进入正题、切入重点"
+                },
+                {
+                    "da": "hurtigt",
+                    "zh": "迅速地、很快地"
+                }
+            ],
+            "nuance": "文章强调职业书面沟通的一项重要原则：友善与直接并不冲突。丹麦职场中的专业感通常不依赖冗长的寒暄，而依赖清楚地表达工作事项。",
+            "transfer": [
+                "Lad os komme til sagen.",
+                "Mailen er kort, men venlig.",
+                "Jeg vil gerne komme hurtigt til sagen."
+            ],
+            "pitfall": "`komme til sagen` 是整体搭配，不能把 `sagen` 理解为此处必须有某个法律案件。"
+        },
+        {
+            "id": "U08-C013",
+            "zh": "即使写给不认识的收件人，用“你好”加上对方名字作为开头也很常见；而“Kære”则可能显得更正式，也可能带来更温暖、更私人的感觉，具体取决于语境。",
+            "grammar": "开头 `Selv til en modtager, man ikke kender` 是前置让步性介词短语，内含省略关系代词的关系从句 `man ikke kender`。因此主句形成 `er det almindeligt at …` 的 V2 倒装。`mens` 在这里表示对比而非单纯的时间同步。`alt efter sammenhængen` 为条件性补充，限制前面对于语气的判断。",
+            "vocabulary": [
+                {
+                    "da": "efterfulgt af",
+                    "zh": "后面跟着、随后是"
+                },
+                {
+                    "da": "et fornavn",
+                    "zh": "名字、名"
+                },
+                {
+                    "da": "give et præg",
+                    "zh": "赋予某种风格、色彩"
+                },
+                {
+                    "da": "alt efter",
+                    "zh": "视……而定、根据……不同"
+                },
+                {
+                    "da": "en sammenhæng",
+                    "zh": "语境、上下文、情境"
+                }
+            ],
+            "nuance": "这是跨文化商务写作中很值得掌握的区别。`Hej` 即使面对陌生工作联系人也未必失礼；`Kære` 不是自动比 `Hej` 更正确，它既可能正式，也可能亲密。称呼方式需要结合收件人身份、具体机构和双方关系来判断。",
+            "transfer": [
+                "Det er almindeligt at skrive X, selv til nogen man ikke kender.",
+                "X kan give et mere formelt præg.",
+                "Det afhænger af sammenhængen."
+            ],
+            "pitfall": "不要把 `Kære` 永远等同于英语正式邮件中的 Dear，也不要认为 `Hej` 只能用于朋友。`mens` 此处的核心意思是“而”，不是“当……的时候”。"
+        },
+        {
+            "id": "U08-C014",
+            "zh": "一封好的工作邮件应该让主题行说明事情的内容，并且把需要收件人做的事放在开头几行，而不是藏在最后一段。",
+            "grammar": "`hvad sagen drejer sig om` 是间接疑问从句，采用从句语序，动词与小品词组合为 `dreje sig om`。`det, man beder om` 是以 `det` 为中心、后接省略关系代词的关系从句的名词性结构。整个结构作第二并列主句的主语。`i stedet for` 引出被替代的位置。",
+            "vocabulary": [
+                {
+                    "da": "en emnelinje",
+                    "zh": "邮件主题行"
+                },
+                {
+                    "da": "dreje sig om",
+                    "zh": "涉及、关于、主题是"
+                },
+                {
+                    "da": "bede om",
+                    "zh": "请求、索取"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "而不是、代替"
+                },
+                {
+                    "da": "et afsnit",
+                    "zh": "段落"
+                }
+            ],
+            "nuance": "作者把邮件结构分为两个层面：标题帮助收件人快速识别事项，正文开头帮助对方立刻知道应采取什么行动。`det, man beder om` 可以指资料、答复或某项任务，不限于实物。",
+            "transfer": [
+                "Emnelinjen skal fortælle, hvad sagen drejer sig om.",
+                "Skriv det, du beder om, i de første linjer.",
+                "Gør formålet klart fra begyndelsen."
+            ],
+            "pitfall": "`dreje sig om` 不应逐词理解为转动自己；`bede om noget` 的介词 `om` 不可遗漏。"
+        },
+        {
+            "id": "U08-C015",
+            "zh": "如果有截止期限，最好写明具体日期，而不要只写“尽快”或“越快越好”，因为不同收件人对这些说法可能有截然不同的理解。",
+            "grammar": "`Har man en frist` 是省略 `hvis` 的条件倒装结构：限定动词前置、主语后置。主句 `er det bedre at …` 使用形式主语 `det`。比较结构为 `bedre at X end Y`。结尾 `som kan betyde …` 是关系从句，回指前面那些模糊的期限表达。",
+            "vocabulary": [
+                {
+                    "da": "en frist",
+                    "zh": "截止期限、最后期限"
+                },
+                {
+                    "da": "snarest",
+                    "zh": "尽快、近期尽早"
+                },
+                {
+                    "da": "hurtigst muligt",
+                    "zh": "尽可能快地"
+                },
+                {
+                    "da": "betyde noget forskelligt for nogen",
+                    "zh": "对不同的人意味着不同的事"
+                }
+            ],
+            "nuance": "这里强调的是减少解释空间。`snarest` 和 `hurtigst muligt` 都可能具有礼貌或催促功能，但无法单独明确实际截止日期。因此，在时间敏感的协作任务中，写明日期和必要时的时刻更可靠。",
+            "transfer": [
+                "Har man en frist, bør man skrive den tydeligt.",
+                "Det er bedre at angive en konkret dato end at skrive 'hurtigst muligt'.",
+                "Det kan betyde noget forskelligt for forskellige mennesker."
+            ],
+            "pitfall": "遇到 `Har man …, er …` 不要误判为两个独立疑问句。`hurtigst muligt` 不能保证收信人理解成与你相同的具体时限。"
+        },
+        {
+            "id": "U08-C016",
+            "zh": "主题：居民停车许可证申请——案件编号25-0412。",
+            "grammar": "行政邮件标题由事项名词短语和识别编号组成。`Ansøgning om + substantiv` 是常见正式书面搭配，`om` 表示申请的事项。",
+            "vocabulary": [
+                {
+                    "da": "en ansøgning",
+                    "zh": "申请、申请书"
+                },
+                {
+                    "da": "en beboerlicens",
+                    "zh": "居民许可，这里指居民停车许可证"
+                },
+                {
+                    "da": "et sagsnummer",
+                    "zh": "案件编号、事务编号"
+                }
+            ],
+            "nuance": "将申请事项与编号放在邮件主题中，便于行政人员检索、归档和关联原申请。这种标题比单独写“问题”或“申请”更容易被正确处理。",
+            "transfer": [
+                "Emne: Ansøgning om [tilladelse] – sagsnummer [nummer]",
+                "Vedrørende ansøgning om [emne]"
+            ],
+            "pitfall": "`ansøgning om` 与动词 `søge om` 相对应；不要误写成 `ansøgning til` 来表示申请的具体内容。"
+        },
+        {
+            "id": "U08-C017",
+            "zh": "致市政府停车管理部门。",
+            "grammar": "正式收件人抬头，`Til + institution/afdeling`。`kommunens` 是所有格，修饰复合名词 `parkeringsafdeling`。",
+            "vocabulary": [
+                {
+                    "da": "en parkeringsafdeling",
+                    "zh": "停车事务部门"
+                },
+                {
+                    "da": "en afdeling",
+                    "zh": "部门、科室、分部"
+                }
+            ],
+            "nuance": "如果不知道具体经办人姓名，可以直接写负责部门。这比虚构对方姓名或使用不必要的头衔更自然，也更便于转交。",
+            "transfer": [
+                "Til [kommunens navn]s [afdeling]",
+                "Til den ansvarlige afdeling"
+            ],
+            "pitfall": "`Til` 表示发给谁；`kommunens` 是名词所有格，而不是介词短语。"
+        },
+        {
+            "id": "U08-C018",
+            "zh": "我于2月3日为自己的汽车申请了居民停车许可证，但至今尚未收到回复，而且这件申请看起来已经停滞不前。",
+            "grammar": "`søgte … om` 是 `søge om` 的过去时。`har endnu ikke fået svar` 使用现在完成时强调从申请后一直到现在尚无答复。`sagen ser ud til at være gået i stå` 由 `se ud til at + infinitiv` 构成，后接完成式不定式 `være gået`，说明事情似乎已经进入停滞状态。",
+            "vocabulary": [
+                {
+                    "da": "søge om",
+                    "zh": "申请",
+                    "note": "`søge – søgte – søgt`。"
+                },
+                {
+                    "da": "endnu ikke",
+                    "zh": "尚未、直到现在还没有"
+                },
+                {
+                    "da": "se ud til at",
+                    "zh": "看起来似乎"
+                },
+                {
+                    "da": "gå i stå",
+                    "zh": "停滞、卡住、无法继续推进",
+                    "note": "完成式 `være gået i stå`。"
+                }
+            ],
+            "nuance": "这段投诉先给出可核实的事实：申请日期和未收到回复，再谨慎表达对办理进度的判断。`ser ud til` 避免直接断言工作人员疏忽，体现坚定但克制的行政沟通风格。",
+            "transfer": [
+                "Jeg søgte den [dato] om [tilladelse].",
+                "Jeg har endnu ikke fået svar på min ansøgning.",
+                "Sagen ser ud til at være gået i stå."
+            ],
+            "pitfall": "`søge om` 表示申请，`søge efter` 通常表示寻找；`gå i stå` 是惯用语，并非真的走进某个地方。"
+        },
+        {
+            "id": "U08-C019",
+            "zh": "市政府网站上写明，申请处理时间为四周。",
+            "grammar": "地点状语 `På kommunens hjemmeside` 前置，随后出现限定动词 `står`，形成 V2 语序。`der står, at …` 是常见的引述书面信息的结构；`at sagsbehandlingstiden er fire uger` 为内容从句。",
+            "vocabulary": [
+                {
+                    "da": "en sagsbehandlingstid",
+                    "zh": "案件处理时间、行政办理周期"
+                },
+                {
+                    "da": "en hjemmeside",
+                    "zh": "网站、网页主页"
+                },
+                {
+                    "da": "der står, at",
+                    "zh": "上面写着、写明"
+                }
+            ],
+            "nuance": "申诉中引用机构自己公布的办理期限，比单纯说自己等得太久更有说服力。`står der` 在这里引用的是网站文字，不是有人站在那里。",
+            "transfer": [
+                "På hjemmesiden står der, at …",
+                "Den oplyste sagsbehandlingstid er [antal] uger.",
+                "Ifølge kommunens hjemmeside …"
+            ],
+            "pitfall": "不要将 `sagsbehandlingstid` 理解为单次工作人员花费的操作时间；这里指申请处理周期。"
+        },
+        {
+            "id": "U08-C020",
+            "zh": "请问贵部门能否告知，我预计什么时候可以收到正式决定？",
+            "grammar": "`Vil I + infinitiv` 以疑问形式发出礼貌请求。`oplyse nogen om noget` 表示向某人告知某事。`hvornår jeg kan forvente en afgørelse` 是间接疑问从句，采用陈述式从句语序，而不是直接问句的倒装语序。",
+            "vocabulary": [
+                {
+                    "da": "oplyse nogen om noget",
+                    "zh": "向某人提供某方面的信息"
+                },
+                {
+                    "da": "forvente",
+                    "zh": "预计、期待"
+                },
+                {
+                    "da": "en afgørelse",
+                    "zh": "正式决定、行政裁定"
+                }
+            ],
+            "nuance": "`Vil I oplyse mig om …?` 是适用于正式询问信息的表达，直接而不冒犯。使用 `I` 是因为写信对象为行政部门，而不一定是某位个人。`afgørelse` 比普通 `svar` 更准确地指向行政机关对申请作出的决定。",
+            "transfer": [
+                "Vil I oplyse mig om, hvornår jeg kan forvente svar?",
+                "Kan I oplyse, hvor langt sagen er kommet?",
+                "Hvornår kan jeg forvente en afgørelse?"
+            ],
+            "pitfall": "`oplyse mig om` 不能漏掉介词 `om`。间接疑问要写 `hvornår jeg kan …`，不能写成直接疑问语序 `hvornår kan jeg …`。"
+        },
+        {
+            "id": "U08-C021",
+            "zh": "我随信附上申请收据。",
+            "grammar": "简单主谓宾句：`Jeg` + `vedhæfter` + `kvitteringen`，`for min ansøgning` 修饰收据，说明其对应的事项。",
+            "vocabulary": [
+                {
+                    "da": "vedhæfte",
+                    "zh": "附上、作为附件发送"
+                },
+                {
+                    "da": "en kvittering",
+                    "zh": "收据、回执、确认凭证",
+                    "note": "这里是申请提交凭证。"
+                }
+            ],
+            "nuance": "行政沟通中，这种简短、直接的附件提示比大段解释更有效。`kvittering` 不一定意味着付款收据，也可能是系统确认收到申请的回执。",
+            "transfer": [
+                "Jeg vedhæfter dokumentationen.",
+                "Vedhæftet finder I min kvittering.",
+                "Jeg har vedhæftet en kopi af ansøgningen."
+            ],
+            "pitfall": "`vedhæfte` 专指附加文件等材料，不要与普通的 `sende` 完全混用。"
+        },
+        {
+            "id": "U08-C022",
+            "zh": "此致敬意／谨致问候。",
+            "grammar": "正式邮件结尾的固定名词性短语。",
+            "vocabulary": [
+                {
+                    "da": "med venlig hilsen",
+                    "zh": "此致问候、谨致问候",
+                    "note": "常用于工作往来、行政咨询等场景。"
+                }
+            ],
+            "nuance": "这是丹麦语邮件中较稳妥的专业落款方式，正式程度适中，并不相当于极其庄重的法律函件礼仪。",
+            "transfer": [
+                "Med venlig hilsen, [fulde navn]"
+            ],
+            "pitfall": "不要机械地把每个词翻译出来；实际功能是规范地结束邮件。"
+        },
+        {
+            "id": "U08-C023",
+            "zh": "阿米娜·哈桑（全名署名）。",
+            "grammar": "",
+            "vocabulary": [],
+            "nuance": "与此前给同事的邮件只署名字形成对照。向行政机构联系既有申请时，写全名有助于识别身份、匹配案件，也保持专业。",
+            "transfer": [],
+            "pitfall": ""
+        },
+        {
+            "id": "U08-C024",
+            "zh": "这封给市政府的信更正式一些，但并不刻板生硬。",
+            "grammar": "`mere formel` 是比较级结构，比较对象可以从前面的两种消息推断出来。`men ikke stiv` 省略重复的系动词 `er`。",
+            "vocabulary": [
+                {
+                    "da": "en henvendelse",
+                    "zh": "来信、咨询、联系、正式接洽"
+                },
+                {
+                    "da": "formel",
+                    "zh": "正式的"
+                },
+                {
+                    "da": "stiv",
+                    "zh": "僵硬的、拘谨的",
+                    "note": "在评价语言时指不够自然、过度刻板。"
+                }
+            ],
+            "nuance": "`formel` 与 `stiv` 并不是同义词。专业、明确的行政用语可以既正式又自然。作者在此确立一种值得模仿的写作目标：有礼貌、有距离感，但无需官腔。",
+            "transfer": [
+                "Tonen er formel, men ikke stiv.",
+                "Jeg vil gerne skrive mere formelt uden at lyde stiv.",
+                "Henvendelsen er kort og saglig."
+            ],
+            "pitfall": "`stiv` 在其他语境可指身体僵硬或物体坚硬，这里是语体评价。"
+        },
+        {
+            "id": "U08-C025",
+            "zh": "政府机关通常用非敬称的“du”称呼公民，其中很多机构也有意识地推行清晰易懂的语言，因此像“我谨此告知……”这样的套话，如今往往被认为已经过时。",
+            "grammar": "`tiltale nogen med + tiltaleform` 表示以某种称谓称呼他人。`mange af dem` 的 `dem` 回指政府机关。`arbejder bevidst med` 表示有意识地持续推进某项工作。`så` 连接结果。`opfattes som` 是 s-被动结构，表示被视为某种性质；`i dag` 强调当前的语言规范。",
+            "vocabulary": [
+                {
+                    "da": "en myndighed",
+                    "zh": "主管机关、政府机构",
+                    "note": "复数 `myndigheder`。"
+                },
+                {
+                    "da": "tiltale nogen med",
+                    "zh": "用某种称呼方式称呼某人"
+                },
+                {
+                    "da": "klarsprog",
+                    "zh": "清晰易懂的公共语言、简明语言"
+                },
+                {
+                    "da": "hermed",
+                    "zh": "特此、谨此",
+                    "note": "常见于传统正式书面语。"
+                },
+                {
+                    "da": "opfattes som gammeldags",
+                    "zh": "被认为过时、显得老派"
+                }
+            ],
+            "nuance": "这里涉及丹麦公共部门的语言理念：机构不必通过繁复的敬语或公文套话体现权威，直接称呼、清楚告知往往更适合普通公民。`gammeldags` 评价的是表达风格，而不是说该表达必然在法律上无效。",
+            "transfer": [
+                "Mange myndigheder arbejder med klarsprog.",
+                "Det udtryk opfattes i dag som gammeldags.",
+                "Man kan skrive formelt uden at bruge komplicerede vendinger."
+            ],
+            "pitfall": "丹麦语小写 `du` 是普通第二人称单数，并非不尊重；不要将中文公务书信中的敬称习惯机械搬到丹麦语。"
+        },
+        {
+            "id": "U08-C026",
+            "zh": "最重要的原则很简单：不要让收件人去猜自己究竟想表达什么、希望对方做什么。",
+            "grammar": "冒号前是系表结构，冒号后进一步阐明原则。`Modtageren skal ikke gætte på …` 中 `skal ikke` 表示不应被迫做某事。`hvad man vil` 是间接疑问从句，`man` 泛指发送消息的人。",
+            "vocabulary": [
+                {
+                    "da": "et princip",
+                    "zh": "原则"
+                },
+                {
+                    "da": "gætte på",
+                    "zh": "猜测、推测"
+                },
+                {
+                    "da": "en modtager",
+                    "zh": "收件人、接收者"
+                }
+            ],
+            "nuance": "这是全篇最核心的写作原则之一：信息传递的责任主要在发送者，而不是让接收者费力揣测。这里的 `hvad man vil` 不只是作者想说什么，更包括作者希望产生什么行动结果。",
+            "transfer": [
+                "Modtageren skal ikke gætte på, hvad du mener.",
+                "Gør det tydeligt, hvad du ønsker.",
+                "Det vigtigste princip er, at …"
+            ],
+            "pitfall": "`gætte på noget` 使用 `på`；`hvad man vil` 不要按字面局限为“想要什么物品”。"
+        },
+        {
+            "id": "U08-C027",
+            "zh": "一条消息最好只服务于一个目的。如果既要请对方做一件事，又要说明另一件完全不相关的事，通常分成两封简短邮件会比合成一封长邮件更好。",
+            "grammar": "`bør helst` 将建议与偏好结合，语气比命令温和。`skal man både … og …` 是无 `hvis` 的条件倒装，后面的主句为 `er to korte mails …`。`både X og Y` 要求两个并列成分在结构上对应。`bedre end` 引出比较。",
+            "vocabulary": [
+                {
+                    "da": "et formål",
+                    "zh": "目的、用途"
+                },
+                {
+                    "da": "helst",
+                    "zh": "最好、优先选择"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……"
+                },
+                {
+                    "da": "noget helt andet",
+                    "zh": "另一件完全不同的事"
+                }
+            ],
+            "nuance": "作者并非要求所有邮件永远只能有一条信息，而是强调收件人应能清楚辨认每封邮件的主要任务。当两件事情互不相关时，分开发送可以改善标题、回复和后续检索。",
+            "transfer": [
+                "Én mail bør helst have ét formål.",
+                "Skal man både X og Y, er det ofte bedre at …",
+                "Det er bedre at sende to korte mails end én lang."
+            ],
+            "pitfall": "`skal man` 在此不是问句，而是条件句；`helst` 不是 `hellere`，前者表示最好，后者表示比较之下更愿意。"
+        },
+        {
+            "id": "U08-C028",
+            "zh": "如果需要几个人分别做不同的事情，就直接点名说明各自的任务，免得所有人都以为该由别人负责。",
+            "grammar": "`Skal flere personer …` 是条件倒装。第一个 `så` 引出主句命令 `nævn dem ved navn`，第二个 `så` 引出目的或预期结果从句。`gå ud fra, at …` 引出假设内容，内部的 `det er en anden, der …` 是强调句，突出被错误认定的责任人。",
+            "vocabulary": [
+                {
+                    "da": "nævne nogen ved navn",
+                    "zh": "明确点名某人"
+                },
+                {
+                    "da": "gå ud fra",
+                    "zh": "假定、想当然地认为"
+                },
+                {
+                    "da": "tage sig af noget",
+                    "zh": "处理某事、负责某事"
+                },
+                {
+                    "da": "en anden",
+                    "zh": "另一个人、别人"
+                }
+            ],
+            "nuance": "这句处理多人邮件中的责任模糊问题。让任务与具体姓名绑定，可以减少人人收到邮件、却无人采取行动的现象。`så ingen …` 关注的是避免误解，而不是责备员工。",
+            "transfer": [
+                "Nævn de ansvarlige ved navn.",
+                "Gå ikke ud fra, at en anden tager sig af det.",
+                "Skal flere gøre noget forskelligt, så fordel opgaverne tydeligt."
+            ],
+            "pitfall": "`gå ud fra` 不是实际从某地走出去。`tage sig af` 是固定搭配，不能省略 `sig` 或把介词随意换掉。"
+        },
+        {
+            "id": "U08-C029",
+            "zh": "使用“回复所有人”按钮时应当三思。",
+            "grammar": "`bør bruges` 是情态动词 `bør` 加 s-被动不定式 `bruges`，使建议聚焦于功能的使用方式，而非特定操作者。`med omtanke` 作方式状语。",
+            "vocabulary": [
+                {
+                    "da": "svar alle",
+                    "zh": "回复所有人"
+                },
+                {
+                    "da": "bruge noget med omtanke",
+                    "zh": "审慎使用某物"
+                },
+                {
+                    "da": "omtanke",
+                    "zh": "周全考虑、审慎"
+                }
+            ],
+            "nuance": "`med omtanke` 比直接说禁止使用更准确：群发回复不是错误，关键在于收件人是否真正需要看到内容。",
+            "transfer": [
+                "Funktionen bør bruges med omtanke.",
+                "Brug 'Svar alle' med omtanke."
+            ],
+            "pitfall": "`bør bruges` 是应当被使用或应当这样使用的建议性被动，不要理解为已经使用过。"
+        },
+        {
+            "id": "U08-C030",
+            "zh": "如果只有发件人需要这条回复，就没必要让另外三十个人的收件箱也被占满。",
+            "grammar": "`Hvis det kun er afsenderen, der har brug for svaret` 中使用强调句 `det er X, der …`，突出唯一需要答复的人。主句 `er der ingen grund til at …` 因前置条件从句而采用 V2 倒装。`tredive andres indbakker` 是表示其他三十个人的收件箱的所有格结构。",
+            "vocabulary": [
+                {
+                    "da": "en afsender",
+                    "zh": "发件人"
+                },
+                {
+                    "da": "have brug for",
+                    "zh": "需要"
+                },
+                {
+                    "da": "der er ingen grund til at",
+                    "zh": "没有必要……"
+                },
+                {
+                    "da": "en indbakke",
+                    "zh": "收件箱"
+                }
+            ],
+            "nuance": "`fylde … indbakker` 带有轻微的形象化批评，强调无关邮件给他人造成的信息负担。表达重点不是邮件容量，而是尊重同事的注意力。",
+            "transfer": [
+                "Der er ingen grund til at sende svaret til alle.",
+                "Hvis det kun er X, der har brug for det, …",
+                "Undgå at fylde andres indbakker."
+            ],
+            "pitfall": "`have brug for` 固定使用 `for`。`der er ingen grund til at` 后接不定式，不要误写成 `for at`。"
+        },
+        {
+            "id": "U08-C031",
+            "zh": "工作邮件通常会在一到两个工作日内得到回复。",
+            "grammar": "`bliver … besvaret` 是 `blive` 被动，表示邮件受到回复这一动作。`som regel` 表示通常，`inden for` 表示处于某一时间范围之内。",
+            "vocabulary": [
+                {
+                    "da": "besvare",
+                    "zh": "回复、回答",
+                    "note": "可直接接宾语：`besvare en mail`。"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常、一般来说"
+                },
+                {
+                    "da": "inden for",
+                    "zh": "在……范围内、在……之内"
+                },
+                {
+                    "da": "en arbejdsdag",
+                    "zh": "工作日"
+                }
+            ],
+            "nuance": "这是文章描述的一般职场习惯，不应理解成所有公司和机构都有法定的一至两日答复义务。`som regel` 给表述留下合理弹性。",
+            "transfer": [
+                "Jeg besvarer som regel mails inden for to arbejdsdage.",
+                "Du kan forvente svar inden for [antal] arbejdsdage.",
+                "Mailen bliver besvaret hurtigst muligt."
+            ],
+            "pitfall": "`besvare nogen/noget` 可以直接接宾语，不要机械套用 `svare på en mail` 的介词结构；两个表达都正确，但句法不同。"
+        },
+        {
+            "id": "U08-C032",
+            "zh": "如果来不及认真回复，礼貌的做法是先发一条简短的确认消息：“谢谢，我明天再回复您。”",
+            "grammar": "`Kan man ikke nå at …` 使用条件倒装，相当于 `Hvis man ikke kan nå at …`。`nå at + infinitiv` 表示来得及完成某动作。主句 `er det høfligt at …` 采用形式主语结构。引用语中的 `vender tilbage` 是现在时表达明确的未来安排。",
+            "vocabulary": [
+                {
+                    "da": "nå at gøre noget",
+                    "zh": "来得及做某事"
+                },
+                {
+                    "da": "ordentligt",
+                    "zh": "认真地、妥当地"
+                },
+                {
+                    "da": "en kvittering",
+                    "zh": "确认收到的回复、回执"
+                },
+                {
+                    "da": "vende tilbage",
+                    "zh": "稍后再联系、再回复"
+                }
+            ],
+            "nuance": "这是一种管理预期的职场沟通方式：即使暂时给不出完整答案，也先确认收到并告知下次回复时间。此处 `kvittering` 是确认消息，不是财务收据。",
+            "transfer": [
+                "Jeg vender tilbage til dig i morgen.",
+                "Tak for din mail. Jeg vender tilbage senest fredag.",
+                "Kan man ikke nå at svare, kan man sende en kort bekræftelse."
+            ],
+            "pitfall": "`nå at svare` 中必须有 `at`。`vende tilbage` 在邮件语境里不意味着实际转身返回。"
+        },
+        {
+            "id": "U08-C033",
+            "zh": "即时聊天适合快速提问，却不适合承载正式决策。",
+            "grammar": "`være god til` 与 `være dårlig til` 构成对称结构。第二分句省略重复的主语和系动词，完整含义可理解为 `men chatten er dårlig til beslutninger`。",
+            "vocabulary": [
+                {
+                    "da": "en chat",
+                    "zh": "即时聊天、聊天工具"
+                },
+                {
+                    "da": "være god til",
+                    "zh": "擅长、适合"
+                },
+                {
+                    "da": "en beslutning",
+                    "zh": "决定、决策"
+                }
+            ],
+            "nuance": "这里并不是认为聊天工具无法讨论决策，而是强调正式决定若仅留在快速流动的聊天记录中，容易失去可查找性和明确性。",
+            "transfer": [
+                "Chat er godt til hurtige spørgsmål.",
+                "X er godt til A, men mindre egnet til B.",
+                "Vi bør samle beslutningerne i en mail."
+            ],
+            "pitfall": "`god til` 不只表示一个人有能力做某事，也能说明工具适合某种用途。"
+        },
+        {
+            "id": "U08-C034",
+            "zh": "因此，重要的约定最好保存在邮件中，以便日后还能查找出来。",
+            "grammar": "`hører derfor hjemme` 中 `derfor` 是因果副词，放在主句中部。`høre hjemme i` 表示某事物应当被放在适合的位置。`hvor de kan findes igen` 是修饰 `en mail` 的关系从句，`kan findes` 为情态动词加 s-被动。",
+            "vocabulary": [
+                {
+                    "da": "en aftale",
+                    "zh": "约定、协议、安排"
+                },
+                {
+                    "da": "høre hjemme",
+                    "zh": "应当归属、适合放在"
+                },
+                {
+                    "da": "findes igen",
+                    "zh": "能够重新找到"
+                }
+            ],
+            "nuance": "`aftaler` 可以包括会议安排、工作承诺和重要共识，不一定是法律合同。邮件的优势在这里是留下可以检索的书面记录。",
+            "transfer": [
+                "Vigtige aftaler bør bekræftes på mail.",
+                "Dokumentationen skal kunne findes igen.",
+                "Den slags information hører hjemme i et fælles dokument."
+            ],
+            "pitfall": "`findes` 在这里来自 `finde` 的被动，不是表示存在的 `findes`；应理解为能够被重新找到。"
+        },
+        {
+            "id": "U08-C035",
+            "zh": "在书面交流中，反讽是最容易造成误解的因素之一。",
+            "grammar": "`en af de største kilder` 是 `en af + bestemt flertal` 结构。`til misforståelser` 说明误解的来源。`på skrift` 作语境状语，表示以书面形式。",
+            "vocabulary": [
+                {
+                    "da": "ironi",
+                    "zh": "反讽、说反话"
+                },
+                {
+                    "da": "en kilde til",
+                    "zh": "……的来源"
+                },
+                {
+                    "da": "en misforståelse",
+                    "zh": "误解"
+                },
+                {
+                    "da": "på skrift",
+                    "zh": "以书面形式、在文字交流中"
+                }
+            ],
+            "nuance": "丹麦日常交流中可以使用幽默和反讽，但书面信息缺少表情和语调线索，收件人容易将玩笑解读成批评。这里讨论的是传播风险，不是说所有文字反讽都应该禁止。",
+            "transfer": [
+                "Ironi kan let skabe misforståelser på skrift.",
+                "X er en af de største kilder til Y.",
+                "Det kan være svært at forstå ironi i en mail."
+            ],
+            "pitfall": "`ironi` 并不总等同于恶意讽刺；`på skrift` 是固定搭配，不能机械写成 `i skrift`。"
+        },
+        {
+            "id": "U08-C036",
+            "zh": "一句面对面说出来很好笑的话，写进邮件里却可能听起来像是在冒犯人，因为收件人既看不到说话者的表情，也听不到语气。",
+            "grammar": "`der er sjov ansigt til ansigt` 是修饰 `en bemærkning` 的关系从句。主句中 `i en mail` 插入于情态动词 `kan` 与主要动词 `lyde` 之间。`fordi` 引出原因从句，`hverken … eller …` 构成既不……也不……的并列否定。",
+            "vocabulary": [
+                {
+                    "da": "en bemærkning",
+                    "zh": "一句话、评论、随口说的话"
+                },
+                {
+                    "da": "ansigt til ansigt",
+                    "zh": "面对面"
+                },
+                {
+                    "da": "lyde som",
+                    "zh": "听起来像"
+                },
+                {
+                    "da": "en fornærmelse",
+                    "zh": "侮辱、冒犯"
+                },
+                {
+                    "da": "et tonefald",
+                    "zh": "语调、说话时的声音语气"
+                }
+            ],
+            "nuance": "一句话的语用效果取决于传播媒介。同一内容在口头交谈中可能因微笑、停顿或语调被理解为玩笑，在邮件中却容易显得尖锐。因此评价邮件时不仅看字面正确性，还要设想收件人的阅读体验。",
+            "transfer": [
+                "Det kan lyde som en fornærmelse.",
+                "Noget, der er sjovt ansigt til ansigt, fungerer ikke altid på skrift.",
+                "Man kan hverken se ansigtet eller høre tonefaldet."
+            ],
+            "pitfall": "`hverken` 要与 `eller` 搭配，不能误用 `og`；`lyde som` 表示给人的印象，而非一定真的是侮辱。"
+        },
+        {
+            "id": "U08-C037",
+            "zh": "不过，非正式并不意味着可以马虎：拼写错误、没有回答收件人提出的问题，以及含糊不清的主题行，仍然会被人注意到。",
+            "grammar": "`Uformel` 作为被谈论的形容词概念，主句省略了可补出的解释成分；`dog` 标示转折。冒号后并列三个名词性成分作复数主语，谓语 `bliver … bemærket` 是 `blive` 被动。`det, modtageren spurgte om` 是带有省略关系代词的关系结构，介词 `om` 保留在从句末尾。",
+            "vocabulary": [
+                {
+                    "da": "sjusket",
+                    "zh": "马虎的、粗心的"
+                },
+                {
+                    "da": "en stavefejl",
+                    "zh": "拼写错误"
+                },
+                {
+                    "da": "manglende svar",
+                    "zh": "缺失的答复、未回答"
+                },
+                {
+                    "da": "uklar",
+                    "zh": "不清晰的、含糊的"
+                },
+                {
+                    "da": "bemærke",
+                    "zh": "注意到、察觉"
+                }
+            ],
+            "nuance": "作者划清了非正式与不专业之间的界限。语气可以自然、随和，但仍应准确、完整、易理解。`dog` 的转折很重要，它纠正可能产生的误会：不用官腔不代表不用认真写。",
+            "transfer": [
+                "Uformel betyder ikke sjusket.",
+                "Svar på det, modtageren spørger om.",
+                "Stavefejl og uklare formuleringer bliver bemærket."
+            ],
+            "pitfall": "`sjusket` 不等于 `uformel`。`svare på noget` 与 `spørge om noget` 的介词不同，这一句正好同时体现两种搭配。"
+        },
+        {
+            "id": "U08-C038",
+            "zh": "有些信息需要格外谨慎地处理。",
+            "grammar": "`Nogle oplysninger` 是前置宾语，限定动词 `skal` 居第二位置，主语 `man` 后移。`være forsigtig med noget` 中介词 `med` 留在句末，与前置宾语构成语义关联。`særligt` 修饰形容词 `forsigtig`。",
+            "vocabulary": [
+                {
+                    "da": "en oplysning",
+                    "zh": "信息、资料"
+                },
+                {
+                    "da": "være forsigtig med",
+                    "zh": "对……保持谨慎"
+                },
+                {
+                    "da": "særligt",
+                    "zh": "尤其、格外"
+                }
+            ],
+            "nuance": "作者从邮件的清晰度转向信息安全。`nogle oplysninger` 先不具体列出类型，起到引出下一句敏感个人资料的作用。",
+            "transfer": [
+                "Personlige oplysninger skal man være forsigtig med.",
+                "Vær særligt forsigtig med følsomme oplysninger."
+            ],
+            "pitfall": "这是典型宾语前置结构；不要因 `med` 留在句末，就认为这个介词可以省略。"
+        },
+        {
+            "id": "U08-C039",
+            "zh": "个人身份号码和健康信息不应通过普通电子邮件发送，而应采用加密方式，例如通过公共数字邮箱或安全邮件解决方案传送。",
+            "grammar": "`bør ikke sendes` 为建议性情态动词加 s-被动。`men krypteret` 省略前文重复的发送动作，强调发送方式的对比。`for eksempel gennem … eller …` 说明可以采用的渠道。",
+            "vocabulary": [
+                {
+                    "da": "et cpr-nummer",
+                    "zh": "丹麦个人身份号码"
+                },
+                {
+                    "da": "en helbredsoplysning",
+                    "zh": "健康信息、医疗相关个人资料"
+                },
+                {
+                    "da": "krypteret",
+                    "zh": "经过加密的、以加密方式"
+                },
+                {
+                    "da": "en digital postkasse",
+                    "zh": "数字邮箱"
+                },
+                {
+                    "da": "en sikker mailløsning",
+                    "zh": "安全邮件系统或解决方案"
+                }
+            ],
+            "nuance": "这里并不是反对发送医疗或身份信息，而是强调传输渠道的安全性。`almindelig mail` 与安全数字邮递渠道形成明确对照；对涉及个人隐私的行政和医疗沟通尤其重要。",
+            "transfer": [
+                "Følsomme oplysninger bør sendes sikkert.",
+                "Send ikke cpr-numre via almindelig mail.",
+                "Dokumenterne skal sendes gennem en sikker løsning."
+            ],
+            "pitfall": "`cpr-nummer` 属于丹麦特定的个人识别制度，不应笼统理解为护照号码。普通邮件系统并不会因为写上“保密”两个字就自动成为安全传输渠道。"
+        },
+        {
+            "id": "U08-C040",
+            "zh": "政府机关的很多正式决定也会通过同一数字邮箱送达，因此很值得打开通知功能，以免错过重要期限。",
+            "grammar": "`Mange afgørelser fra myndighederne` 是前置宾语，随后 `får` 与主语 `man` 构成 V2 倒装。`få noget tilsendt` 表示收到别人发来的某物。第二主句由 `og derfor` 承接，使用 `det kan betale sig at + infinitiv`。最后的 `så man ikke overser en frist` 是目的或预期结果从句。",
+            "vocabulary": [
+                {
+                    "da": "få noget tilsendt",
+                    "zh": "收到别人寄来或发送的某物"
+                },
+                {
+                    "da": "det kan betale sig at",
+                    "zh": "做……是值得的、划算的"
+                },
+                {
+                    "da": "slå notifikationer til",
+                    "zh": "开启通知"
+                },
+                {
+                    "da": "overse",
+                    "zh": "忽略、漏看、未注意到"
+                }
+            ],
+            "nuance": "`samme sted` 在上下文中指前面提到的公共数字邮递渠道。`kan betale sig` 虽然原本涉及划算与否，这里不是金钱收益，而是避免错过期限的实际好处。丹麦行政决定可能附带申诉期限，因此通知设置具有具体意义。",
+            "transfer": [
+                "Det kan betale sig at slå notifikationer til.",
+                "Så undgår man at overse en vigtig frist.",
+                "Jeg har fået afgørelsen tilsendt digitalt."
+            ],
+            "pitfall": "`slå til` 是开启，`slå fra` 是关闭；`overse` 是没有注意到，不要混淆 `oversætte`。"
+        },
+        {
+            "id": "U08-C041",
+            "zh": "如果申请被拒绝，主管机关应说明作出该决定的理由，并告知申请人可以如何提出申诉。",
+            "grammar": "`Får man afslag på en ansøgning` 是条件倒装，`få afslag på` 表示申请被拒。主句由 `skal myndigheden + infinitiv` 组织两个并列义务：`begrunde` 和 `fortælle`。`hvordan man kan klage` 是间接疑问从句，作为说明内容。",
+            "vocabulary": [
+                {
+                    "da": "få afslag på",
+                    "zh": "申请遭到拒绝"
+                },
+                {
+                    "da": "begrunde",
+                    "zh": "说明理由、提供依据"
+                },
+                {
+                    "da": "en afgørelse",
+                    "zh": "行政决定"
+                },
+                {
+                    "da": "klage",
+                    "zh": "投诉、申诉",
+                    "note": "行政语境中常指针对决定提出申诉。"
+                }
+            ],
+            "nuance": "这一句带有明显的行政法语境，作者强调收到不利决定后，不仅要知道结果，还应得到理由和适用的申诉途径。实践中的具体告知义务、申诉程序及期限仍须以相关规定和案件类别为准。",
+            "transfer": [
+                "Jeg har fået afslag på min ansøgning.",
+                "Myndigheden skal begrunde afgørelsen.",
+                "Hvordan kan jeg klage over afgørelsen?"
+            ],
+            "pitfall": "`afslag på en ansøgning` 的介词是 `på`；而 `klage over en afgørelse` 使用 `over`。两者不要混淆。"
+        },
+        {
+            "id": "U08-C042",
+            "zh": "另外，如果就同一件事多次联系相关部门，最好每次都在邮件主题行中重复写上案件编号。",
+            "grammar": "句首 `Og` 承接前文。`skriver man flere gange …` 是省略 `hvis` 的条件倒装；主句 `er det en god vane at …` 为形式主语结构。`hver gang` 表示每一次，而非偶尔。",
+            "vocabulary": [
+                {
+                    "da": "flere gange",
+                    "zh": "多次、好几次"
+                },
+                {
+                    "da": "den samme sag",
+                    "zh": "同一案件、同一事务"
+                },
+                {
+                    "da": "en god vane",
+                    "zh": "良好习惯"
+                },
+                {
+                    "da": "gentage",
+                    "zh": "重复、再次写明"
+                }
+            ],
+            "nuance": "案件编号能帮助不同工作人员将后续通信归入正确记录。`hver gang` 是最实用的部分：不要认为第一次写过编号，以后的邮件就无需再提。",
+            "transfer": [
+                "Husk at skrive sagsnummeret i emnelinjen.",
+                "Skriver man flere gange om samme sag, bør man gentage nummeret.",
+                "Det er en god vane at …"
+            ],
+            "pitfall": "`sag` 这里是行政事务或案件，不一定指法院诉讼。`gentage` 后可直接接宾语。"
+        },
+        {
+            "id": "U08-C043",
+            "zh": "投诉或申诉越客观、越就事论事，通常越有效。",
+            "grammar": "主句 `En klage virker bedst` 中 `bedst` 是副词比较等级最高级，修饰 `virker`。`når den er saglig` 形式上是时间或条件从句，这里表示在具备客观理性这一条件时。",
+            "vocabulary": [
+                {
+                    "da": "en klage",
+                    "zh": "投诉、申诉"
+                },
+                {
+                    "da": "saglig",
+                    "zh": "就事论事的、客观有据的"
+                },
+                {
+                    "da": "virke",
+                    "zh": "发挥作用、产生效果"
+                }
+            ],
+            "nuance": "`saglig` 是丹麦职场及公共讨论中很重要的评价词，强调依据事实、针对问题，而不是缺乏情绪或放弃自己的权益。",
+            "transfer": [
+                "Det er vigtigt at holde tonen saglig.",
+                "En saglig klage virker ofte bedre.",
+                "Prøv at være konkret og saglig."
+            ],
+            "pitfall": "`saglig` 不等于 `venlig`，也不等于 `følelsesløs`；可以态度坚定，同时保持客观。"
+        },
+        {
+            "id": "U08-C044",
+            "zh": "投诉应当说明发生了什么、自己期望怎样处理，以及希望在什么时候收到答复。",
+            "grammar": "`Den skal fortælle` 后面并列三个间接疑问从句：`hvad der er sket`、`hvad man forventer`、`hvornår man gerne vil have svar`。三者共同构成一份清晰投诉所需的信息。`er sket` 为完成时，强调已经发生的事件。",
+            "vocabulary": [
+                {
+                    "da": "hvad der er sket",
+                    "zh": "发生了什么"
+                },
+                {
+                    "da": "hvad man forventer",
+                    "zh": "期望得到什么处理或结果"
+                },
+                {
+                    "da": "gerne ville have svar",
+                    "zh": "希望获得回复"
+                }
+            ],
+            "nuance": "这三个问题相当于投诉邮件的简明框架：事实、诉求、希望的回复时间。既避免只倾诉不提出要求，也避免对方无法判断你要什么。",
+            "transfer": [
+                "Beskriv, hvad der er sket.",
+                "Forklar, hvad du forventer.",
+                "Skriv, hvornår du gerne vil have svar."
+            ],
+            "pitfall": "间接疑问从句不是直接疑问句，不要写成 `hvad er der sket` 或 `hvornår vil man gerne have svar` 来嵌入此处。"
+        },
+        {
+            "id": "U08-C045",
+            "zh": "满篇大写字母、再加上三个感叹号的愤怒措辞，通常并不能让对方更快回复——反而只会让收件人更容易忽略那些你其实有道理的地方。",
+            "grammar": "破折号前陈述某种沟通方式通常无效；后面说明其负面结果。`gøre det lettere for nogen at + infinitiv` 使用形式宾语 `det`，表示使某人更容易做某事。`det, man faktisk har ret i` 是关系结构，`have ret i noget` 表示在某一点上有道理。",
+            "vocabulary": [
+                {
+                    "da": "en versal",
+                    "zh": "大写字母",
+                    "note": "复数 `versaler`。"
+                },
+                {
+                    "da": "et udråbstegn",
+                    "zh": "感叹号"
+                },
+                {
+                    "da": "afvisende",
+                    "zh": "排斥性的、不愿接受的"
+                },
+                {
+                    "da": "have ret i noget",
+                    "zh": "在某件事上说得对、有道理"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "事实上、实际上"
+                }
+            ],
+            "nuance": "作者不是说投诉者不应该愤怒，而是强调措辞可能掩盖投诉本身的正当依据。`bare` 带有轻微批评意味：这种写法并不会带来想要的效果，只会增加对方忽略合理诉求的可能性。",
+            "transfer": [
+                "Det gør det lettere for modtageren at forstå budskabet.",
+                "Du har ret i, at der er sket en fejl.",
+                "En vred tone giver sjældent et hurtigere svar."
+            ],
+            "pitfall": "`have ret i` 是观点正确，`have ret til` 是拥有某种权利。不要混淆这两个介词结构。"
+        },
+        {
+            "id": "U08-C046",
+            "zh": "书面道歉也是同样的道理：应当简短、具体，不需要太多解释。",
+            "grammar": "`Det samme gælder + substantiv` 是说明同一原则也适用于另一事项的固定结构。冒号后的 `Den` 回指 `den skriftlige undskyldning`。`uden for mange forklaringer` 由 `uden` 引出不应过量出现的内容。",
+            "vocabulary": [
+                {
+                    "da": "det samme gælder",
+                    "zh": "同样的原则也适用于"
+                },
+                {
+                    "da": "en undskyldning",
+                    "zh": "道歉"
+                },
+                {
+                    "da": "konkret",
+                    "zh": "具体的、明确的"
+                },
+                {
+                    "da": "en forklaring",
+                    "zh": "解释、说明"
+                }
+            ],
+            "nuance": "有效的道歉通常要明确承认具体失误，而不必用大量背景信息稀释责任。`uden for mange forklaringer` 不是禁止提供必要解释，而是警惕过度辩解。",
+            "transfer": [
+                "Det samme gælder for skriftlige undskyldninger.",
+                "En god undskyldning er kort og konkret.",
+                "Undgå for mange forklaringer."
+            ],
+            "pitfall": "`undskyldning` 既可表示道歉，也可能表示借口，具体要结合语境；这里明确是书面道歉。"
+        },
+        {
+            "id": "U08-C047",
+            "zh": "“对不起，我忘了发数据。现在发给你了。”这样的表达，比长篇解释自己之前有多忙更有分量。",
+            "grammar": "`Undskyld` 用作直接道歉。`glemme at + infinitiv` 表示忘记做某事。`Du har dem her` 用简单的现在时表示资料现在就在这里，可理解为随邮件提供。后半部分的 `siger mere end` 是比较结构；`hvor travlt man har haft` 为间接感叹性从句，使用完成时。",
+            "vocabulary": [
+                {
+                    "da": "glemme at",
+                    "zh": "忘记做某事"
+                },
+                {
+                    "da": "sige mere end",
+                    "zh": "比……更有说服力、更有意义"
+                },
+                {
+                    "da": "have travlt",
+                    "zh": "忙碌"
+                },
+                {
+                    "da": "et langt afsnit",
+                    "zh": "很长的一段文字"
+                }
+            ],
+            "nuance": "这句话的核心是承认错误并采取补救行动，而不是详细证明自己为什么会犯错。`siger mere` 不是字数更多，而是沟通效果更强。`Du har dem her` 也让道歉立即转向解决问题。",
+            "transfer": [
+                "Undskyld, jeg glemte at sende dokumentet.",
+                "Du har det her.",
+                "Det siger mere end en lang forklaring."
+            ],
+            "pitfall": "`have travlt` 是固定表达，不要写成 `være travlt`。`sige mere` 在此不是数量，而是表达效果。"
+        },
+        {
+            "id": "U08-C048",
+            "zh": "Jonas需要回复一位因送货延迟而投诉的客户。在点击“发送”之前，他先请同事Line帮忙看一下邮件。",
+            "grammar": "`der har klaget over en forsinket levering` 是修饰 `en kunde` 的关系从句。`før han trykker på …` 是时间从句，因前置于第二并列主句，后接主句 `beder han …` 的 V2 倒装。`bede nogen om hjælp` 是固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "klage over",
+                    "zh": "就……投诉"
+                },
+                {
+                    "da": "en forsinket levering",
+                    "zh": "延误的交付、迟到的送货"
+                },
+                {
+                    "da": "trykke på",
+                    "zh": "按下、点击"
+                },
+                {
+                    "da": "bede nogen om hjælp",
+                    "zh": "向某人寻求帮助"
+                }
+            ],
+            "nuance": "这一段从理论转入职场实践。让同事在发送前检查一封客户投诉回复，不仅是语言校对，也是在检查邮件是否会进一步激怒客户。",
+            "transfer": [
+                "Kunden har klaget over en forsinket levering.",
+                "Før jeg sender mailen, vil jeg gerne have din feedback.",
+                "Jeg bad min kollega om hjælp."
+            ],
+            "pitfall": "`klage over` 用于投诉某事，`bede om` 用于请求某事；`trykke på` 中的介词不可省。"
+        },
+        {
+            "id": "U08-C049",
+            "zh": "Jonas：你能帮我稍微看一下这封邮件吗？我发出去之前想请你过目。",
+            "grammar": "`Kan du + infinitiv` 是礼貌请求。`lige` 缓和请求的分量。`den her mail` 是口语常见的指示表达。`før jeg sender den` 是时间从句，`den` 回指邮件。",
+            "vocabulary": [
+                {
+                    "da": "kigge på",
+                    "zh": "看看、查看、过目"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下、稍微",
+                    "note": "在请求中常用于减轻直接性。"
+                },
+                {
+                    "da": "den her",
+                    "zh": "这个、这一"
+                }
+            ],
+            "nuance": "`Kan du lige …?` 在同事之间很自然，既直接又随和。这里 `kigge på` 并不要求正式审阅报告，更多是请人快速看看内容是否妥当。",
+            "transfer": [
+                "Kan du lige kigge på det?",
+                "Kan du læse mailen igennem, før jeg sender den?",
+                "Har du lige et øjeblik?"
+            ],
+            "pitfall": "`lige` 在这里不是刚刚或恰好，而是语气缓和词；也不要把 `den her` 误认为复数形式。"
+        },
+        {
+            "id": "U08-C050",
+            "zh": "Line：让我看看。“你好，Petersen先生。”把“hej”和“hr.”混在一起，感觉有点怪。",
+            "grammar": "`Lad mig se` 是 `lad + objekt + infinitiv` 的固定会话表达。`Det er lidt mærkeligt at + infinitiv` 使用形式主语 `det`，后置不定式短语才是实际评价对象。`blande X og Y` 表示混合两种用法。",
+            "vocabulary": [
+                {
+                    "da": "Lad mig se",
+                    "zh": "让我看看"
+                },
+                {
+                    "da": "hr.",
+                    "zh": "先生",
+                    "note": "`herre` 的称谓缩写，用于姓氏或姓名前。"
+                },
+                {
+                    "da": "blande",
+                    "zh": "混合、混用"
+                },
+                {
+                    "da": "lidt mærkeligt",
+                    "zh": "有点奇怪、不太自然"
+                }
+            ],
+            "nuance": "Line 并没有直接说Jonas写错了，而是用 `lidt mærkeligt` 温和地指出语体冲突。`Hej` 偏现代、随和，而 `hr.` 带有传统正式头衔色彩，两者并列容易不协调。",
+            "transfer": [
+                "Lad mig lige se.",
+                "Det er lidt mærkeligt at blande X og Y.",
+                "Det lyder ikke helt naturligt."
+            ],
+            "pitfall": "`hr.` 是传统头衔，不是英语 hour 的缩写。丹麦语邮件应注意整封邮件的称呼语体一致性。"
+        },
+        {
+            "id": "U08-C051",
+            "zh": "Jonas：那我应该怎么写呢？",
+            "grammar": "`Hvad` 是疑问宾语，`skal` 为限定情态动词，后接主语 `jeg` 和不定式 `skrive`。`så` 表示承接对方刚提出的意见，相当于“那么”。",
+            "vocabulary": [
+                {
+                    "da": "så",
+                    "zh": "那么、既然如此",
+                    "note": "此处为话语衔接副词。"
+                }
+            ],
+            "nuance": "问题很简短，但语用功能是邀请对方提出具体替代措辞，而不是争论先前的评价。",
+            "transfer": [
+                "Hvad skal jeg så gøre?",
+                "Hvordan skal jeg så formulere det?"
+            ],
+            "pitfall": "`så` 在这里不是因此必须发生的结果，也不是加强情绪，而是自然承接上一轮对话。"
+        },
+        {
+            "id": "U08-C052",
+            "zh": "Line：就写“Kære Erik Petersen”，或者“你好，Erik”就行。现在几乎已经没人再用“hr.”这种称呼了。",
+            "grammar": "`Bare + udtryk` 是省略命令动词的简短建议。`Der er næsten ingen, der …` 使用存在结构加关系从句，表示几乎没有人。`længere` 与否定或近否定成分结合，表达不再如此。",
+            "vocabulary": [
+                {
+                    "da": "bare",
+                    "zh": "就、只要",
+                    "note": "用于简化建议。"
+                },
+                {
+                    "da": "næsten ingen",
+                    "zh": "几乎没有人"
+                },
+                {
+                    "da": "ikke … længere",
+                    "zh": "不再……"
+                }
+            ],
+            "nuance": "Line 给出两种都自然的称呼方式：全名搭配 `Kære`，或名字搭配 `Hej`。`næsten ingen` 是口语中的概括性说法，不应理解成完全没有人使用传统头衔。",
+            "transfer": [
+                "Bare skriv 'Hej' og personens fornavn.",
+                "Der er næsten ingen, der bruger den formulering længere.",
+                "Du kan enten skrive X eller Y."
+            ],
+            "pitfall": "`længere` 在否定环境中表示“不再”，不是长度更长。传统头衔仍可能在特殊礼仪场合出现，不能视为绝对禁用。"
+        },
+        {
+            "id": "U08-C053",
+            "zh": "Jonas：好。那剩下的内容呢？",
+            "grammar": "`Og resten?` 是口语省略问句，省去了类似 `Hvad med resten?` 的成分。上下文足以确定询问的是邮件其余部分。",
+            "vocabulary": [
+                {
+                    "da": "resten",
+                    "zh": "剩余部分、其余内容"
+                }
+            ],
+            "nuance": "非常自然的同事对话：接受第一个修改建议后，用一句简短的追问把讨论转到正文。",
+            "transfer": [
+                "Hvad med resten?",
+                "Og hvad synes du om resten?"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U08-C054",
+            "zh": "Line：第一段挺好的。不过“很遗憾，我们对此无能为力”这句话听起来相当冷淡，有点把客户拒之门外的感觉。",
+            "grammar": "`Første afsnit er fint` 是直接评价。`Men` 引出修正意见。引号中的表达整体作为 `lyder` 的语义主语。`ret afvisende` 中 `ret` 是程度副词，表示相当、比较。",
+            "vocabulary": [
+                {
+                    "da": "et afsnit",
+                    "zh": "段落"
+                },
+                {
+                    "da": "desværre",
+                    "zh": "遗憾的是、很抱歉"
+                },
+                {
+                    "da": "gøre noget ved noget",
+                    "zh": "针对某事采取行动、设法处理"
+                },
+                {
+                    "da": "afvisende",
+                    "zh": "冷淡的、拒绝性的"
+                }
+            ],
+            "nuance": "即使客观上无法解决交付问题，直接强调无能为力也可能让客户觉得对方不愿协助。`lyder ret afvisende` 评价的是沟通效果，不等于断言Jonas有意冒犯。",
+            "transfer": [
+                "Det lyder lidt for afvisende.",
+                "Første afsnit er fint, men …",
+                "Vi kan desværre ikke gøre mere ved sagen."
+            ],
+            "pitfall": "`gøre noget ved` 是设法处理，不是对某物做某个动作的字面组合；`ret` 在此不是名词“权利”。"
+        },
+        {
+            "id": "U08-C055",
+            "zh": "Jonas：可这明明是事实啊。我们确实没办法做什么。",
+            "grammar": "`jo` 是语气小品词，表示说话者认为这一事实显而易见或应该被对方承认。`Vi kan ikke gøre noget` 中 `noget` 在否定环境下表示没有任何可做的事。",
+            "vocabulary": [
+                {
+                    "da": "jo",
+                    "zh": "明明、不是……吗",
+                    "note": "依语境提示共同知识或加强立场。"
+                },
+                {
+                    "da": "være rigtigt",
+                    "zh": "是真的、正确的"
+                }
+            ],
+            "nuance": "Jonas 关注事实准确性，而Line关注收件人的感受与后续行动。`jo` 让他的反驳听起来像是“但这你也知道啊”，带有轻微辩解意味。",
+            "transfer": [
+                "Men det er jo rigtigt.",
+                "Det kan vi jo ikke ændre på.",
+                "Jeg forstår det, men …"
+            ],
+            "pitfall": "`jo` 在肯定句中不是英语 yes 的直接替代，它往往标示说话者对信息已知性的判断。"
+        },
+        {
+            "id": "U08-C056",
+            "zh": "Line：那就改写成你能够做什么。例如你已经催促过供应商，而且客户最迟会在星期四收到你的回复。",
+            "grammar": "`Skriv i stedet, hvad du kan gøre` 是命令句加间接疑问从句。接下来的两个 `at` 从句是作为建议邮件内容的省略性补充，可以理解为前面动词 `skriv` 的内容。`har rykket` 使用完成时说明催促动作已经发生，`hører fra dig` 用现在时表达安排好的后续联系。",
+            "vocabulary": [
+                {
+                    "da": "i stedet",
+                    "zh": "改为、反过来"
+                },
+                {
+                    "da": "rykke en leverandør",
+                    "zh": "催促供应商履行或回应"
+                },
+                {
+                    "da": "en leverandør",
+                    "zh": "供应商"
+                },
+                {
+                    "da": "høre fra nogen",
+                    "zh": "收到某人的消息"
+                },
+                {
+                    "da": "senest på torsdag",
+                    "zh": "最迟到星期四"
+                }
+            ],
+            "nuance": "这是很有价值的客户沟通技巧：不承诺做不到的事情，而是明确说明已经采取的行动和下一次沟通时间。`rykke leverandøren` 表示已向供应商跟进催促，并不等于保证客户届时一定收到货物。`han` 在语境中指男性客户。",
+            "transfer": [
+                "Skriv i stedet, hvad du kan gøre.",
+                "Jeg har rykket leverandøren.",
+                "Du hører fra mig senest på torsdag."
+            ],
+            "pitfall": "`rykke` 在这个职场用法中是催促，不是搬动供应商。`høre fra dig` 指收到你的消息，而非你听到对方的声音。"
+        },
+        {
+            "id": "U08-C057",
+            "zh": "Jonas：那邮件结尾该怎么写？用“Mvh”可以吗？",
+            "grammar": "`hvordan` 引导直接疑问句，`slutter jeg` 采用疑问语序。`Mvh?` 是独立的省略问句，意思是询问能否用这种简写落款。",
+            "vocabulary": [
+                {
+                    "da": "slutte en mail",
+                    "zh": "结束一封邮件、写邮件结尾"
+                },
+                {
+                    "da": "Mvh",
+                    "zh": "此致问候的缩写",
+                    "note": "通常是 `Med venlig hilsen` 的缩写。"
+                }
+            ],
+            "nuance": "Jonas 不是不知道常规落款，而是在询问面对生气客户时，简略结尾是否足够得体。",
+            "transfer": [
+                "Hvordan skal jeg slutte mailen?",
+                "Kan jeg bare skrive 'Mvh'?"
+            ],
+            "pitfall": "`Mvh` 虽然常见，但语气比写出完整问候语更简略，是否合适取决于收件人和沟通场景。"
+        },
+        {
+            "id": "U08-C058",
+            "zh": "Line：对一个正在生气的客户，还用这个？还是写完整的“Venlig hilsen”，再署上你的全名吧。",
+            "grammar": "`Til en kunde, der er sur?` 是省略完整谓语的反问，`der er sur` 为关系从句。`Skriv hellere …` 使用命令式和比较副词 `hellere`，表达更好的替代选择。",
+            "vocabulary": [
+                {
+                    "da": "sur",
+                    "zh": "生气的、不高兴的",
+                    "note": "常见口语形容词。"
+                },
+                {
+                    "da": "hellere",
+                    "zh": "还是……更好、宁可"
+                },
+                {
+                    "da": "fuldt navn",
+                    "zh": "全名"
+                }
+            ],
+            "nuance": "Line 用反问强调语境：客户已经不满，此时应适度提高礼貌和正式程度。完整落款与全名能够表现出认真对待投诉的态度，而不必使用过时的官僚措辞。",
+            "transfer": [
+                "Skriv hellere en fuld hilsen.",
+                "Brug dit fulde navn i formelle mails.",
+                "Til en utilfreds kunde ville jeg vælge en mere formel afslutning."
+            ],
+            "pitfall": "`hellere` 表示比较之下更合适，不是最高级 `helst`；`sur` 此处表示心情不好，不是食物酸。"
+        },
+        {
+            "id": "U08-C059",
+            "zh": "很多人把邮件写得很长，是因为他们想显得有礼貌。",
+            "grammar": "`fordi` 引导原因从句，主句为 `Mange skriver lange mails`。`vil være høflige` 中 `vil` 表示意愿或意图，而不是单纯预测未来。",
+            "vocabulary": [
+                {
+                    "da": "høflig",
+                    "zh": "礼貌的"
+                },
+                {
+                    "da": "skrive lange mails",
+                    "zh": "写冗长的邮件"
+                }
+            ],
+            "nuance": "这一句没有否定写信者的善意，而是为下一段的反例作铺垫：追求礼貌有时反而产生过长的开场，妨碍信息传递。",
+            "transfer": [
+                "Mange skriver langt, fordi de gerne vil være høflige.",
+                "En mail kan godt være både kort og høflig."
+            ],
+            "pitfall": "`vil` 在这里应理解为想要、意图，而不只是将来时。"
+        },
+        {
+            "id": "U08-C060",
+            "zh": "下面这个例子，大多数人应该都收到过某种类似版本。",
+            "grammar": "`som de fleste har modtaget` 是修饰 `et eksempel` 的关系从句，动词采用现在完成时。`i en eller anden udgave` 是表示某种版本或形式的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "de fleste",
+                    "zh": "大多数人"
+                },
+                {
+                    "da": "modtage",
+                    "zh": "收到"
+                },
+                {
+                    "da": "i en eller anden udgave",
+                    "zh": "以某种版本或形式"
+                }
+            ],
+            "nuance": "作者用略带幽默的概括唤起读者的共同经验：这种礼貌但啰嗦的工作邮件看起来非常熟悉。`en eller anden` 不表示某个特定、可识别的版本。",
+            "transfer": [
+                "De fleste har nok oplevet noget lignende.",
+                "Vi har alle set det i en eller anden udgave."
+            ],
+            "pitfall": "`en eller anden` 作为一个整体可表示某个不确定的，不必逐词硬译为一个或另一个。"
+        },
+        {
+            "id": "U08-C061",
+            "zh": "大家好。",
+            "grammar": "群发邮件的称呼语，`alle sammen` 用于亲切地指向全体收件人。",
+            "vocabulary": [
+                {
+                    "da": "alle sammen",
+                    "zh": "大家、所有人"
+                }
+            ],
+            "nuance": "适合同事之间的普通群发邮件，亲切自然，不必用特别正式的集体敬称。",
+            "transfer": [
+                "Hej allesammen",
+                "Kære alle"
+            ],
+            "pitfall": "`alle sammen` 和 `allesammen` 都可见于实际用法；本句采用分写形式。"
+        },
+        {
+            "id": "U08-C062",
+            "zh": "希望大家一切都好，也都顺利地开始了新的一周。",
+            "grammar": "`Jeg håber, I …` 在日常书面语中允许省略引导词 `at`。`har det godt` 和 `er kommet godt i gang med ugen` 在从句中并列。后一个谓语使用 `være` 构成完成时，描述已经顺利进入新一周的状态。",
+            "vocabulary": [
+                {
+                    "da": "have det godt",
+                    "zh": "过得好、状态不错"
+                },
+                {
+                    "da": "komme godt i gang med",
+                    "zh": "顺利开始、良好地开展"
+                },
+                {
+                    "da": "en uge",
+                    "zh": "一周"
+                }
+            ],
+            "nuance": "这是友善的邮件开场，在一些同事关系或团队文化中完全自然。但如果邮件的重点只是紧急通知会议改期，过长寒暄可能延误关键内容。它不是语法问题，而是信息优先级问题。",
+            "transfer": [
+                "Jeg håber, du har det godt.",
+                "Jeg håber, I er kommet godt i gang med ugen.",
+                "Vi er kommet godt i gang med projektet."
+            ],
+            "pitfall": "`komme i gang med` 是开始着手做事，不是走进某个空间；`har det godt` 不能漏掉 `det`。"
+        },
+        {
+            "id": "U08-C063",
+            "zh": "我就是想简单写封邮件，因为关于这次会议之前有一点混乱，所以我想也许有必要把几件事情再说明清楚。",
+            "grammar": "`Jeg skriver bare lige` 为主句，`bare lige` 连续缓和语气。`fordi der har været …` 是原因从句，包含存在结构及完成时。`jeg tænkte, at det måske var en god idé at …` 以过去时 `tænkte` 引出经过缓和的主观判断，后面的 `at præcisere …` 是实际动作。",
+            "vocabulary": [
+                {
+                    "da": "forvirring omkring",
+                    "zh": "围绕……的混乱或不清楚"
+                },
+                {
+                    "da": "præcisere",
+                    "zh": "进一步明确、澄清"
+                },
+                {
+                    "da": "et par ting",
+                    "zh": "几件事、两三件事"
+                },
+                {
+                    "da": "det er en god idé at",
+                    "zh": "做……是个好主意"
+                }
+            ],
+            "nuance": "这是作者特意提供的冗长邮件反例。`bare`、`lige`、`lidt`、`måske` 和 `jeg tænkte` 层层降低断言强度，使语气温和，却让收件人读了很久仍不知道会议究竟发生了什么变化。单个表达都自然，问题在于集中堆叠。",
+            "transfer": [
+                "Jeg vil gerne præcisere et par ting.",
+                "Der har været lidt forvirring omkring mødet.",
+                "Det er en god idé at gøre beskeden kortere."
+            ],
+            "pitfall": "`præcisere` 是使内容更加明确，不只是重复说一遍。`bare lige` 的语气功能虽有价值，但正式通知中过度使用会削弱重点。"
+        },
+        {
+            "id": "U08-C064",
+            "zh": "正如你们当中一些人可能已经知道的，会议时间改了，所以不再是星期四，而是改到了星期五——如果这个时间对大家方便的话。",
+            "grammar": "`Som nogle af jer måske allerede ved` 是句首引导性从句，主句随后采用 `er mødet blevet flyttet` 的 V2 语序。`er blevet flyttet` 是完成时加 `blive` 被动，表示改期已经发生。`ikke længere X, men i stedet Y` 构成否定旧安排、引出新安排的对照。末尾 `hvis det passer jer` 是条件从句。",
+            "vocabulary": [
+                {
+                    "da": "som I måske allerede ved",
+                    "zh": "正如你们可能已经知道的"
+                },
+                {
+                    "da": "blive flyttet",
+                    "zh": "被改动、被调整时间或地点"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再"
+                },
+                {
+                    "da": "i stedet",
+                    "zh": "改为、取而代之"
+                },
+                {
+                    "da": "passe nogen",
+                    "zh": "在时间安排上适合某人"
+                }
+            ],
+            "nuance": "这句话终于提供核心信息，却依然绕了一圈才说到会议改期。句末 `hvis det passer jer` 更造成模糊：新时间究竟已经确定，还是仍在征询大家意见？这正是清晰邮件应避免的歧义。",
+            "transfer": [
+                "Som I måske allerede ved, er mødet blevet flyttet.",
+                "Mødet er ikke længere på torsdag, men på fredag.",
+                "Passer det jer på fredag?"
+            ],
+            "pitfall": "前置 `Som … ved` 后必须保持主句 V2。`er blevet flyttet` 表示已完成的调整，不要与正在调整的 `bliver flyttet` 混淆。"
+        },
+        {
+            "id": "U08-C065",
+            "zh": "如果有什么问题，请随时告诉我。",
+            "grammar": "`Sig til` 是命令式固定短语。`endelig` 在这里加强欢迎对方联系的语气。`hvis der er spørgsmål` 是条件从句，其中 `der er` 为存在结构。",
+            "vocabulary": [
+                {
+                    "da": "sig endelig til",
+                    "zh": "请尽管说、请随时告诉我"
+                },
+                {
+                    "da": "et spørgsmål",
+                    "zh": "问题、疑问"
+                }
+            ],
+            "nuance": "`endelig` 在这种请求中并不表示终于，而是鼓励对方不要客气。它使邮件末尾更加开放、友好，但不能弥补正文缺失的重要信息。",
+            "transfer": [
+                "Sig endelig til, hvis du har spørgsmål.",
+                "Skriv endelig, hvis der er noget, du er i tvivl om."
+            ],
+            "pitfall": "`endelig` 常有终于的意思，但在 `Sig endelig til` 中不能按时间副词理解。"
+        },
+        {
+            "id": "U08-C066",
+            "zh": "邮件虽然友好，但收件人必须读完四句话，才能找到唯一真正重要的信息——而且还没写明会议时间和会议室。",
+            "grammar": "`skal læse fire sætninger for at finde …` 使用目的不定式 `for at`。`den ene oplysning, der betyder noget` 由名词短语和关系从句组成，其中 `betyde noget` 表示重要、有意义。破折号后的 `og så` 引入额外问题，`både tidspunktet og lokalet` 构成并列主语。",
+            "vocabulary": [
+                {
+                    "da": "en oplysning",
+                    "zh": "一项信息"
+                },
+                {
+                    "da": "betyde noget",
+                    "zh": "有意义、很重要"
+                },
+                {
+                    "da": "et tidspunkt",
+                    "zh": "具体时间点"
+                },
+                {
+                    "da": "et lokale",
+                    "zh": "房间、会议室"
+                },
+                {
+                    "da": "mangle",
+                    "zh": "缺少、遗漏"
+                }
+            ],
+            "nuance": "作者从两个层面批评原邮件：获取信息的阅读成本过高，而且信息本身并不完整。即使写得非常礼貌，如果不知道具体几点、在哪个房间，也无法让收件人采取行动。",
+            "transfer": [
+                "Der mangler både tidspunkt og lokale.",
+                "Modtageren skal kunne finde den vigtigste oplysning med det samme.",
+                "Det er den oplysning, der betyder noget."
+            ],
+            "pitfall": "`betyde noget` 是重要，而不只是具有字面意义；`lokale` 作名词表示房间，不是形容词“当地的”。"
+        },
+        {
+            "id": "U08-C067",
+            "zh": "可以改成下面这样：",
+            "grammar": "`Sådan` 是前置方式状语，`kunne` 紧随其后，主语 `den` 后置，体现 V2 语序。`kunne` 作为 `kan` 的过去式，在这里表达委婉的可能方案，而不是讲过去的能力。",
+            "vocabulary": [
+                {
+                    "da": "sådan",
+                    "zh": "这样、以这种方式"
+                },
+                {
+                    "da": "se ud",
+                    "zh": "呈现某种样子"
+                },
+                {
+                    "da": "i stedet",
+                    "zh": "作为替代、改为"
+                }
+            ],
+            "nuance": "用 `kunne` 而不是命令语气，体现作者是在提供示范，而不是声称所有邮件都只有这一种正确写法。",
+            "transfer": [
+                "Sådan kunne det se ud.",
+                "Vi kunne formulere det sådan i stedet.",
+                "Her er et kortere forslag."
+            ],
+            "pitfall": "`kunne` 在这里是委婉建议的形式，不需要译成过去某时能够。"
+        },
+        {
+            "id": "U08-C068",
+            "zh": "主题：会议已改至星期五上午10点。",
+            "grammar": "主题行直接采用一个完整陈述句。`er flyttet` 表示会议日程已经发生变更后的结果状态，`til fredag kl. 10` 说明新的时间。",
+            "vocabulary": [
+                {
+                    "da": "flytte et møde",
+                    "zh": "调整会议时间"
+                },
+                {
+                    "da": "være flyttet til",
+                    "zh": "已经改到……"
+                }
+            ],
+            "nuance": "与前面冗长的主题不明邮件形成鲜明对比：最重要的变化直接写在标题里。收件人无需打开正文，也能知道会议发生了什么调整。",
+            "transfer": [
+                "Emne: Deadline er flyttet til fredag",
+                "Mødet er flyttet til [dato og tidspunkt]."
+            ],
+            "pitfall": "`flytte` 可指改变时间，也可以指搬迁地点；本句通过新的星期和时刻明确表达日程调整。"
+        },
+        {
+            "id": "U08-C069",
+            "zh": "大家好。",
+            "grammar": "群发邮件称呼语，采用与上一版本相同的简洁形式。",
+            "vocabulary": [],
+            "nuance": "修改后的邮件没有删除基本礼貌，而是保留友好的称呼，删去不影响行动的冗长铺垫。体现清晰和礼貌完全可以兼得。",
+            "transfer": [],
+            "pitfall": ""
+        },
+        {
+            "id": "U08-C070",
+            "zh": "会议已从星期四改到星期五上午10点，地点是2号会议室。如果你们无法参加，请最迟明天通知我。",
+            "grammar": "第一句 `Mødet er flyttet fra X til Y` 说明时间变更，`i lokale 2` 补足地点。第二句 `Giv besked` 使用命令式，`senest i morgen` 明确回复期限。`hvis I ikke kan` 省略了由语境可以补出的 `komme` 或 `deltage`，即无法出席。",
+            "vocabulary": [
+                {
+                    "da": "fra … til …",
+                    "zh": "从……改到……"
+                },
+                {
+                    "da": "i lokale 2",
+                    "zh": "在2号房间或会议室"
+                },
+                {
+                    "da": "give besked",
+                    "zh": "通知、告知"
+                },
+                {
+                    "da": "senest i morgen",
+                    "zh": "最迟明天"
+                }
+            ],
+            "nuance": "这封改写后的邮件一次交代清楚新的时间、地点、谁需要回复，以及回复的期限。尤其值得模仿的是例外回复机制：能够参加的人无需额外回信，只有无法参加的人需要行动。",
+            "transfer": [
+                "Mødet er flyttet fra [dag] til [dag] kl. [tid].",
+                "Vi mødes i lokale [nummer].",
+                "Giv besked senest [dato], hvis du ikke kan deltage."
+            ],
+            "pitfall": "`hvis I ikke kan` 在这里不是说能力不足，而是指时间安排上无法参加。`i lokale 2` 不使用定冠词形式，因为这是带编号的房间表达。"
+        },
+        {
+            "id": "U08-C071",
+            "zh": "新版本的长度只有原来的四分之一，却传达了更多信息。",
+            "grammar": "`en fjerdedel så lang` 是倍数或比例比较结构，表示长度为对照对象的四分之一。`men den siger mere` 使用 `sige` 的引申义，即表达或传递的信息更多。",
+            "vocabulary": [
+                {
+                    "da": "en fjerdedel",
+                    "zh": "四分之一"
+                },
+                {
+                    "da": "så lang",
+                    "zh": "达到某个长度"
+                },
+                {
+                    "da": "sige mere",
+                    "zh": "传达更多内容、信息量更大"
+                }
+            ],
+            "nuance": "这是典型的信息密度对比：文字少不代表内容少。作者赞赏的不是单纯追求最短，而是以更少文字表达更多可用信息。",
+            "transfer": [
+                "Den nye version er kun halvt så lang.",
+                "Teksten er kortere, men siger mere.",
+                "En kortere formulering kan være mere præcis."
+            ],
+            "pitfall": "`en fjerdedel så lang` 是原长度的四分之一，不是缩短了四分之一；后者意味着保留四分之三。"
+        },
+        {
+            "id": "U08-C072",
+            "zh": "这一句话就完成了原来三句话才做的事：说明发生了什么、什么时候发生，以及地点在哪里。",
+            "grammar": "`gøre arbejdet for tre` 是比喻性表达。冒号后通过三个并列的间接疑问成分解释具体传递了哪些信息：`hvad der er sket`、`hvornår` 和 `hvor`。后两个疑问词省略共同可推断的谓语信息，形成简洁排比。",
+            "vocabulary": [
+                {
+                    "da": "gøre arbejdet for",
+                    "zh": "承担原本由……完成的工作"
+                },
+                {
+                    "da": "hvad der er sket",
+                    "zh": "发生了什么"
+                },
+                {
+                    "da": "hvornår og hvor",
+                    "zh": "何时以及何地"
+                }
+            ],
+            "nuance": "句子的有效性来自回答收件人最关心的实际问题，而不是句式复杂或词汇高级。这种对内容进行压缩、却保留关键信息的能力，是C1阶段写作很重要的技能。",
+            "transfer": [
+                "Én sætning kan gøre arbejdet for flere.",
+                "Fortæl, hvad der er sket, hvornår og hvor.",
+                "Sætningen samler alle de vigtigste oplysninger."
+            ],
+            "pitfall": "`gøre arbejdet for tre` 不一定涉及实际三个人或三项工作；这里的 `tre` 回指前文对句子数量的比较。"
+        },
+        {
+            "id": "U08-C073",
+            "zh": "一封有礼貌的邮件不一定要很长。",
+            "grammar": "`behøver ikke + infinitiv` 表示没有必要做某事。`være lang` 是系表结构。注意这里的否定修饰必要性，而不是禁止某种行为。",
+            "vocabulary": [
+                {
+                    "da": "behøve",
+                    "zh": "需要、有必要"
+                },
+                {
+                    "da": "behøver ikke",
+                    "zh": "不必、没有必要"
+                },
+                {
+                    "da": "høflig",
+                    "zh": "礼貌的"
+                }
+            ],
+            "nuance": "这是对全文的高度概括：礼貌不等于冗长，清晰也不等于冷漠。适当的称呼、准确的信息与尊重收件人的时间，完全可以同时实现。",
+            "transfer": [
+                "En god mail behøver ikke være lang.",
+                "Man behøver ikke skrive meget for at være høflig.",
+                "Kort betyder ikke uhøfligt."
+            ],
+            "pitfall": "`behøver ikke være` 表示不必如此，和 `må ikke være` 的不准如此有本质区别。"
+        },
+        {
+            "id": "U08-C074",
+            "zh": "最重要的是，要让收件人能够轻松地根据邮件内容采取行动。",
+            "grammar": "`skal først og fremmest være` 表示首要要求。`let at handle på` 是形容词加不定式结构，其中 `på` 与隐含的动作对象相联系，即能够根据邮件传达的内容采取行动。`Den` 回指前面的 `en høflig mail`。",
+            "vocabulary": [
+                {
+                    "da": "først og fremmest",
+                    "zh": "首先、最重要的是"
+                },
+                {
+                    "da": "let at",
+                    "zh": "容易……的"
+                },
+                {
+                    "da": "handle på noget",
+                    "zh": "根据某事采取行动、付诸行动"
+                },
+                {
+                    "da": "være let at handle på",
+                    "zh": "便于采取后续行动、具有可操作性"
+                }
+            ],
+            "nuance": "全篇最终落在以收件人为中心的行动导向写作。衡量邮件质量，不只是看语法是否正确、表达是否礼貌，还要看读者能否迅速知道情况、明确自己需要做什么、何时做。`først og fremmest` 明确将这一标准置于其他原则之上。",
+            "transfer": [
+                "En god besked skal være let at handle på.",
+                "Det skal være tydeligt, hvad modtageren skal gøre.",
+                "Først og fremmest skal kommunikationen være klar."
+            ],
+            "pitfall": "`handle på` 在这里不是购物、交易，也不是处理某物的实体动作，而是依据获得的信息采取必要的后续行动。不要把结尾理解为邮件越短越好；真正的标准是清晰、完整、可执行。"
+        }
+    ]
+}

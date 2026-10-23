@@ -1,0 +1,1753 @@
+{
+    "schema_version": 1,
+    "unit": "U09",
+    "part": "ALL",
+    "source_fingerprint": "U09-ALL-93452bf13078",
+    "sentences": [
+        {
+            "id": "U09-C001",
+            "zh": "Sanne今年46岁，至今做过六份工作，被解雇过两次，还曾因病请过一次假。",
+            "grammar": "主语 `Sanne` 后有四个并列的谓语信息：`er 46 år`、`har haft seks job`、`har været fyret to gange` 和 `har været sygemeldt én gang`。后三项共用现在完成时助动词 `har`，后两项又省略重复的 `har`。`været fyret`、`været sygemeldt` 描述曾经处于被解雇或病假的状态。现在完成时把这些过去经历与人物截至目前的人生履历联系起来。",
+            "vocabulary": [
+                {
+                    "da": "have haft et job",
+                    "zh": "曾经做过一份工作",
+                    "note": "`have – havde – haft`。"
+                },
+                {
+                    "da": "være fyret",
+                    "zh": "被解雇",
+                    "note": "`fyre` 是解雇，`være fyret` 强调被解雇的状态。"
+                },
+                {
+                    "da": "være sygemeldt",
+                    "zh": "因病请假、处于病假状态"
+                },
+                {
+                    "da": "to gange",
+                    "zh": "两次",
+                    "note": "`én gang` 是一次。"
+                }
+            ],
+            "nuance": "文章开头通过年龄、工作数量、解雇和病假经历迅速建立人物形象。`fyret` 是较直接的日常用词，比正式的 `afskediget` 更口语化。这里特意把职业挫折放在开头，为下一句的反转做铺垫。",
+            "transfer": [
+                "Jeg har haft flere forskellige job.",
+                "Jeg har været sygemeldt én gang.",
+                "Han har skiftet job tre gange."
+            ],
+            "pitfall": "`fyret` 不是主动辞职；主动辞职是 `sige op`。`sygemeldt` 不意味着被解雇，而是正式处于病假状态。"
+        },
+        {
+            "id": "U09-C002",
+            "zh": "而她从未像现在这样喜欢自己的工作。",
+            "grammar": "`har aldrig været gladere … end nu` 是现在完成时与比较级相结合的结构。`aldrig` 放在助动词 `har` 之后、过去分词 `været` 之前。`gladere` 是 `glad` 的比较级，`end nu` 给出比较基准。这里虽然没有使用最高级，却表达了截至目前从未如此满意的最高程度。",
+            "vocabulary": [
+                {
+                    "da": "være glad for noget",
+                    "zh": "喜欢某事、对某事感到满意",
+                    "note": "固定介词 `for`。"
+                },
+                {
+                    "da": "gladere",
+                    "zh": "更加高兴、更加满意",
+                    "note": "`glad – gladere – gladest`。"
+                },
+                {
+                    "da": "aldrig … end nu",
+                    "zh": "从来没有比现在更……"
+                }
+            ],
+            "nuance": "这句话与前一句形成强烈反差：丰富但不顺利的职业经历，并没有妨碍她最终找到满意的工作。`glad for sit arbejde` 强调对工作的喜欢和满足，不只是当天心情好。",
+            "transfer": [
+                "Jeg har aldrig været gladere for mit arbejde end nu.",
+                "Jeg har aldrig været mere tilfreds med mit job.",
+                "Hun er glad for sin nye stilling."
+            ],
+            "pitfall": "`glad for` 表示喜欢、珍惜或满意，`glad på nogens vegne` 则表示替别人高兴。比较结构要用 `end`，不是英语的 than。"
+        },
+        {
+            "id": "U09-C003",
+            "zh": "她的职业生涯并不典型，却几乎涵盖了一个人在丹麦劳动力市场上可能遇到的各种经历。",
+            "grammar": "两个主句由 `men` 连接，形成转折。`det` 回指 `hendes arbejdsliv`。`alt det, der kan ske` 是由概括性代词 `det` 和关系从句组成的结构，其中 `der` 作关系从句主语。`på et dansk arbejdsmarked` 表示在丹麦劳动力市场这一制度和社会环境中。",
+            "vocabulary": [
+                {
+                    "da": "et arbejdsliv",
+                    "zh": "职业生涯、工作生活"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "典型的、常见的"
+                },
+                {
+                    "da": "rumme",
+                    "zh": "容纳、包含、涵盖",
+                    "note": "常用于抽象内容，如经历、差异或可能性。"
+                },
+                {
+                    "da": "et arbejdsmarked",
+                    "zh": "劳动力市场、就业市场"
+                }
+            ],
+            "nuance": "`rumme` 比简单的 `have` 更有概括意味，暗示她的经历内容丰富。作者并不声称每个丹麦人都会遭遇这些事情，而是以这个不典型的人物串联职业教育、失业、再培训、招聘和病假等不同主题。",
+            "transfer": [
+                "Mit arbejdsliv har rummet mange forskellige udfordringer.",
+                "Det er ikke typisk, men det sker.",
+                "Arbejdsmarkedet rummer mange muligheder."
+            ],
+            "pitfall": "`rumme` 不只表示物理空间能够装下某物，也可以表示抽象意义上的涵盖。`arbejdsliv` 与 `arbejdsmarked` 分别是个人职业生活和整体就业市场。"
+        },
+        {
+            "id": "U09-C004",
+            "zh": "17岁时，Sanne晚上在一家超市负责补货上架；高中毕业后，她又在一家生产窗户的工厂做了两年无需专业技能资格的工作。",
+            "grammar": "`Som 17-årig` 表示在17岁这个人生阶段，前置后形成 `fyldte Sanne` 的V2语序。第二分句同样以前置时间状语 `efter gymnasiet` 开头，形成 `arbejdede hun`。`som ufaglært` 表示以非专业技术工人的身份工作。`der lavede vinduer` 是修饰 `en fabrik` 的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "som 17-årig",
+                    "zh": "17岁时"
+                },
+                {
+                    "da": "fylde hylder",
+                    "zh": "给货架补货、上架商品"
+                },
+                {
+                    "da": "et gymnasium",
+                    "zh": "普通高中、大学预科性质的中等教育学校",
+                    "note": "丹麦教育语境中的 `gymnasiet`。"
+                },
+                {
+                    "da": "ufaglært",
+                    "zh": "未取得相关职业技能资格的、非技术工种的"
+                },
+                {
+                    "da": "en fabrik",
+                    "zh": "工厂"
+                }
+            ],
+            "nuance": "`ufaglært` 是丹麦劳动市场中具有实际意义的分类，通常指未经过特定职业教育取得相应专业资格的人，并非贬义的没有能力。`fylde hylder` 描述的是真实具体的超市工作，而不是泛泛地说打工。",
+            "transfer": [
+                "Som 18-årig arbejdede jeg i en butik.",
+                "Efter gymnasiet arbejdede jeg to år på en fabrik.",
+                "Jeg arbejdede som ufaglært, før jeg begyndte på min uddannelse."
+            ],
+            "pitfall": "`fylde hylder` 是补货，不是制造货架。`som 17-årig` 不需要另加 `da jeg var`；`på en fabrik` 是常见的工作地点搭配。"
+        },
+        {
+            "id": "U09-C005",
+            "zh": "正是在那家工厂，她萌生了从事木工相关工作的念头。",
+            "grammar": "`Det var dér, …` 是强调结构，突出兴趣产生的地点。后半部分 `hun fik lyst til at arbejde med træ` 说明该地点发生的事情。`få lyst til at + infinitiv` 表示开始产生做某事的愿望，强调兴趣形成的变化。",
+            "vocabulary": [
+                {
+                    "da": "få lyst til",
+                    "zh": "产生想做某事的念头"
+                },
+                {
+                    "da": "arbejde med",
+                    "zh": "从事……方面的工作、使用……材料"
+                },
+                {
+                    "da": "træ",
+                    "zh": "木材",
+                    "note": "这里是材料名词，不是树木 `et træ`。"
+                }
+            ],
+            "nuance": "`dér` 的强调标记突出了职业兴趣的起点。作者不只是交代她后来选择木工专业，而是解释她为什么会选择这个方向。",
+            "transfer": [
+                "Det var dér, jeg fandt ud af, hvad jeg ville.",
+                "Jeg fik lyst til at arbejde med mennesker.",
+                "Det var på universitetet, jeg blev interesseret i forskning."
+            ],
+            "pitfall": "`få lyst til` 是开始想做，`have lyst til` 是想做；`arbejde med træ` 表示使用木材或从事木材相关工作，不是和一棵树共同工作。"
+        },
+        {
+            "id": "U09-C006",
+            "zh": "她开始接受木匠职业教育，而一找到学徒岗位，事情就迅速进展起来。",
+            "grammar": "`begynde på en uddannelse` 表示开始一项教育课程。`så snart hun havde fundet en læreplads` 是时间从句，`havde fundet` 为过去完成时，表示找到学徒岗位发生在后面的进展之前。主句 `gik det stærkt` 因前置时间从句而采用V2语序。",
+            "vocabulary": [
+                {
+                    "da": "en erhvervsuddannelse",
+                    "zh": "职业教育、职业技能教育"
+                },
+                {
+                    "da": "en tømrer",
+                    "zh": "木匠、建筑木工"
+                },
+                {
+                    "da": "en læreplads",
+                    "zh": "学徒岗位、企业实习培训岗位"
+                },
+                {
+                    "da": "så snart",
+                    "zh": "一……就……"
+                },
+                {
+                    "da": "gå stærkt",
+                    "zh": "发展得很快、进展迅速"
+                }
+            ],
+            "nuance": "丹麦的职业教育往往涉及学校学习与企业实践。找到 `læreplads` 对学习进程很重要。`gik det stærkt` 是生动的叙事表达，并不是说她走路或开车很快，而是后续经历迅速展开。",
+            "transfer": [
+                "Jeg begyndte på en erhvervsuddannelse som elektriker.",
+                "Så snart jeg havde fået jobbet, gik det stærkt.",
+                "Det gik stærkt, da projektet først kom i gang."
+            ],
+            "pitfall": "`begynde på en uddannelse` 和 `begynde at arbejde` 的结构不同。`læreplads` 不是普通的课堂座位，而是学徒培训岗位。"
+        },
+        {
+            "id": "U09-C007",
+            "zh": "最初几周，她是工地上唯一的女性。有些年长的正式技工还以为她是来清洁工地活动房的。",
+            "grammar": "`I de første uger` 前置后形成 `var hun` 的V2语序。`den eneste kvinde` 是唯一性表达。第二分句中 `troede, hun var kommet …` 省略了宾语从句引导词 `at`；`var kommet` 为过去完成时。`for at gøre rent` 表示被误认为来工地的目的。",
+            "vocabulary": [
+                {
+                    "da": "en byggeplads",
+                    "zh": "建筑工地"
+                },
+                {
+                    "da": "den eneste",
+                    "zh": "唯一的"
+                },
+                {
+                    "da": "en svend",
+                    "zh": "完成学徒培训、取得资格的技工",
+                    "note": "职业教育体系中与 `lærling` 相对。"
+                },
+                {
+                    "da": "gøre rent",
+                    "zh": "打扫卫生"
+                },
+                {
+                    "da": "en skurvogn",
+                    "zh": "工地临时活动房、工地拖车式休息设施"
+                }
+            ],
+            "nuance": "这句话通过具体经历揭示性别刻板印象：有些男性技工并未把年轻女性视为未来的木匠，而是默认她从事清洁工作。作者没有直接发表抽象的性别歧视评论，而是用情节让读者理解她当时的处境。",
+            "transfer": [
+                "Jeg var den eneste kvinde på holdet.",
+                "De troede, jeg var kommet for at hjælpe.",
+                "I de første uger følte jeg mig lidt udenfor."
+            ],
+            "pitfall": "`svend` 在职业教育中是合格技工，不是一般的年轻男子。`gøre rent` 是固定搭配，不能理解为使某物变得正确。"
+        },
+        {
+            "id": "U09-C008",
+            "zh": "“第一个月，他们连重东西都不让我搬。”她回忆道。",
+            "grammar": "`få lov til at + infinitiv` 表示得到允许做某事，否定形式 `fik ikke lov til` 表示不被允许。`bære noget tungt` 中 `noget tungt` 是不定代词加形容词中性形式。引语后的 `fortæller hun` 使用叙述性倒装。",
+            "vocabulary": [
+                {
+                    "da": "få lov til at",
+                    "zh": "获准做某事"
+                },
+                {
+                    "da": "bære",
+                    "zh": "搬、扛、携带",
+                    "note": "`bære – bar – båret`。"
+                },
+                {
+                    "da": "noget tungt",
+                    "zh": "重的东西"
+                }
+            ],
+            "nuance": "这句话既可能体现同事对她身体能力的怀疑，也可能带有过度保护的态度。结合上一句的刻板印象，重点是她起初未被平等地当作木工学徒对待。",
+            "transfer": [
+                "Jeg fik ikke lov til at prøve.",
+                "Han fik lov til at tage ansvar for projektet.",
+                "Jeg måtte ikke bære noget tungt."
+            ],
+            "pitfall": "`få lov til` 强调许可，不等于 `kunne` 所表示的能力。`noget tungt` 中的 `tungt` 不能随意改成 `tung`。"
+        },
+        {
+            "id": "U09-C009",
+            "zh": "“可后来，他们又连让我不搬都不肯了。”",
+            "grammar": "`Bagefter` 是前置时间副词，因此形成 `fik jeg` 的V2语序。`fik ikke lov til at lade være` 包含两个层次：`få lov til` 是获得许可，`lade være` 是不做某事。省略的具体动作承接上一句的搬重物。",
+            "vocabulary": [
+                {
+                    "da": "bagefter",
+                    "zh": "后来、之后"
+                },
+                {
+                    "da": "lade være",
+                    "zh": "不做某事、停止做某事"
+                },
+                {
+                    "da": "lade være med at",
+                    "zh": "不要做、停止做",
+                    "note": "后接具体动作时常用 `med at + infinitiv`。"
+                }
+            ],
+            "nuance": "这是带有自嘲和反讽的幽默表达。第一阶段别人不让她搬重物，第二阶段反而不允许她偷懒或不搬。叙事用这种反转暗示她后来被当成真正的工地成员，同时也可能意味着工作要求变得繁重。",
+            "transfer": [
+                "Lad være med at bekymre dig.",
+                "Jeg kunne ikke lade være med at grine.",
+                "Bagefter fik jeg meget mere ansvar."
+            ],
+            "pitfall": "`lade være` 并不是让某人存在。`ikke få lov til at lade være` 含有双层否定意义：没有选择不做的自由。"
+        },
+        {
+            "id": "U09-C010",
+            "zh": "丹麦职业教育通常在学校学习阶段与企业实践阶段之间交替进行，学徒边学习边领取工资。",
+            "grammar": "`veksle mellem A og B` 描述两种阶段交替出现。第二主句 `lærlingen får løn` 后接 `mens hun lærer` 时间从句，表示学习与领取工资同时发生。`hun` 在此延续对女性学徒的叙述，也可用于指代Sanne。",
+            "vocabulary": [
+                {
+                    "da": "veksle mellem",
+                    "zh": "在……之间交替"
+                },
+                {
+                    "da": "et skoleophold",
+                    "zh": "在学校学习的一段时期"
+                },
+                {
+                    "da": "en lærling",
+                    "zh": "学徒"
+                },
+                {
+                    "da": "få løn",
+                    "zh": "领取工资"
+                },
+                {
+                    "da": "en virksomhed",
+                    "zh": "企业、公司"
+                }
+            ],
+            "nuance": "这一句从个人故事转向丹麦职业教育制度。与一些主要依靠课堂学习的培养方式不同，文中强调学校和企业之间的交替，以及学徒在受训期间的劳动报酬。",
+            "transfer": [
+                "Uddannelsen veksler mellem teori og praksis.",
+                "Lærlinge får løn, mens de lærer.",
+                "Jeg har både skoleophold og praktik i en virksomhed."
+            ],
+            "pitfall": "`lære` 是学习，`undervise` 是教授别人。`få løn` 中的 `løn` 通常不用复数形式来表达一般工资。"
+        },
+        {
+            "id": "U09-C011",
+            "zh": "取得木工资格后，Sanne一度非常抢手——直到2008年的金融危机冲击建筑业，订单几乎在转眼之间消失。",
+            "grammar": "`Som udlært tømrer` 前置说明她当时的职业资格，因此主句为 `var Sanne efterspurgt`。`indtil` 引导时间从句，说明此前状态何时结束。`finanskrisen ramte byggeriet` 和 `ordrerne forsvandt` 是并列事件。`fra den ene måned til den anden` 是强调变化迅速的固定表达。",
+            "vocabulary": [
+                {
+                    "da": "udlært",
+                    "zh": "完成学徒培训、取得专业资格的"
+                },
+                {
+                    "da": "efterspurgt",
+                    "zh": "需求旺盛的、抢手的"
+                },
+                {
+                    "da": "en finanskrise",
+                    "zh": "金融危机"
+                },
+                {
+                    "da": "byggeriet",
+                    "zh": "建筑行业、建筑活动"
+                },
+                {
+                    "da": "fra den ene måned til den anden",
+                    "zh": "短时间内、几乎转眼之间"
+                }
+            ],
+            "nuance": "`efterspurgt` 在就业市场中是积极评价，表示具备某种技能的人才有市场需求。但2008年的危机改变了行业环境，说明个人技能再好也可能受到经济周期影响。破折号使职业前景的突然转折更加鲜明。",
+            "transfer": [
+                "Der er stor efterspørgsel efter faglært arbejdskraft.",
+                "Situationen ændrede sig fra den ene måned til den anden.",
+                "Branchen blev hårdt ramt af krisen."
+            ],
+            "pitfall": "`udlært` 是已经学成，与 `ufaglært` 完全不同。`efterspurgt` 是有人需要、市场需求高，不是被别人询问过。"
+        },
+        {
+            "id": "U09-C012",
+            "zh": "2009年2月的一个星期五，她和另外四名同事一起被叫进办公室，收到了正式解雇通知。",
+            "grammar": "时间状语 `En fredag i februar 2009` 前置后，限定动词 `blev` 紧随其后。`blev kaldt ind` 是 `blive` 被动，强调被叫进去这一事件。`fik sin fyreseddel` 与前一个动作并列，并省略重复主语 `hun`。",
+            "vocabulary": [
+                {
+                    "da": "blive kaldt ind",
+                    "zh": "被叫进去、被召去谈话"
+                },
+                {
+                    "da": "en fyreseddel",
+                    "zh": "解雇通知、辞退通知书",
+                    "note": "较口语化的职场用词。"
+                },
+                {
+                    "da": "sammen med",
+                    "zh": "与……一起"
+                }
+            ],
+            "nuance": "作者通过星期五、办公室、四名同事等细节将裁员描述得非常具体。`fyreseddel` 比抽象的 `afskedigelse` 更有生活叙事的感觉，暗示这是正式而沉重的通知。",
+            "transfer": [
+                "Jeg blev kaldt ind til en samtale.",
+                "Han blev fyret sammen med flere kolleger.",
+                "Virksomheden måtte afskedige medarbejdere."
+            ],
+            "pitfall": "`blive kaldt ind` 不一定意味着被解雇，必须结合后面的语境。`få sin fyreseddel` 是被解雇，不是自己提交辞职信。"
+        },
+        {
+            "id": "U09-C013",
+            "zh": "如果失去工作，加入失业保险基金会很有帮助。所谓a-kasse，就是一种自愿参加的失业保险制度。",
+            "grammar": "`Mister man sit job` 是省略 `hvis` 的条件倒装，相当于 `Hvis man mister sit job`。主句 `er det en fordel at …` 使用形式主语 `det`。`som er en frivillig forsikring mod arbejdsløshed` 是关系从句，解释 `a-kasse`。",
+            "vocabulary": [
+                {
+                    "da": "miste sit job",
+                    "zh": "失去工作",
+                    "note": "`miste – mistede – mistet`。"
+                },
+                {
+                    "da": "være medlem af",
+                    "zh": "是……的会员"
+                },
+                {
+                    "da": "en a-kasse",
+                    "zh": "失业保险基金",
+                    "note": "`arbejdsløshedskasse` 的缩写，具有丹麦制度背景。"
+                },
+                {
+                    "da": "en fordel",
+                    "zh": "优势、好处"
+                },
+                {
+                    "da": "arbejdsløshed",
+                    "zh": "失业"
+                }
+            ],
+            "nuance": "这里的 `a-kasse` 不是普通的商业保险公司，而是丹麦失业保障体系的重要组成部分。参加通常是自愿的，但是否有权获得失业金及其金额，还取决于会员资格、收入或工时等具体条件。文章用这一制度连接个人失业经历与社会保障。",
+            "transfer": [
+                "Mister man sit job, er det vigtigt at kende sine rettigheder.",
+                "Jeg er medlem af en a-kasse.",
+                "Det er en fordel at have en økonomisk sikkerhed."
+            ],
+            "pitfall": "`a-kasse` 与工会 `fagforening` 不是同一个机构，即使两者有时提供关联服务。加入a-kasse也不等于立刻自动获得失业金。"
+        },
+        {
+            "id": "U09-C014",
+            "zh": "幸运的是，Sanne自从取得木工资格以来就一直是a-kasse的会员。",
+            "grammar": "`Det havde Sanne heldigvis været` 中 `det` 代替上一句的身份状态 `medlem af en a-kasse`，`havde været` 是过去完成时，表示在后来的失业事件之前已经持续存在的状态。`siden hun blev udlært` 引出该状态的起始时间。`heldigvis` 表达叙述者的积极评价。",
+            "vocabulary": [
+                {
+                    "da": "heldigvis",
+                    "zh": "幸好、幸运的是"
+                },
+                {
+                    "da": "siden",
+                    "zh": "自从……以来",
+                    "note": "此处为时间连词。"
+                },
+                {
+                    "da": "blive udlært",
+                    "zh": "完成职业学徒培训、取得资格"
+                }
+            ],
+            "nuance": "这一句的叙事重点不在于她曾参加保险，而在于她在失业发生之前已经持续参保。`heldigvis` 点出长期准备在危机来临时发挥了作用。",
+            "transfer": [
+                "Jeg har været medlem af a-kassen siden 2024.",
+                "Heldigvis havde jeg allerede tegnet en forsikring.",
+                "Hun havde været ansat der i flere år."
+            ],
+            "pitfall": "`Det havde … været` 的 `det` 不指代a-kasse这个物体，而是代替上一句提到的会员身份。`siden` 也可能表示因为，具体要看语境。"
+        },
+        {
+            "id": "U09-C015",
+            "zh": "失业期间，求职者必须能够随时进入劳动力市场，积极申请工作，并按要求参加失业保险基金和就业中心的面谈。",
+            "grammar": "`Som ledig` 是身份状语，前置后形成 `skal man` 的V2语序。情态动词 `skal` 后并列三个不定式动作：`stå til rådighed`、`søge` 和 `møde op`。`både … og …` 并列两个机构。",
+            "vocabulary": [
+                {
+                    "da": "ledig",
+                    "zh": "失业的、待业的"
+                },
+                {
+                    "da": "stå til rådighed for",
+                    "zh": "可供……安排、能够接受……的工作机会",
+                    "note": "失业保障语境中的重要制度用语。"
+                },
+                {
+                    "da": "søge job aktivt",
+                    "zh": "积极求职"
+                },
+                {
+                    "da": "møde op til",
+                    "zh": "到场参加"
+                },
+                {
+                    "da": "et jobcenter",
+                    "zh": "公共就业服务中心"
+                }
+            ],
+            "nuance": "作者强调领取失业保障并非单纯等待工作机会。失业者通常需要符合求职与可就业性要求，并与有关机构保持联系。具体规则可能随个人身份、政策与时间变化，因此本文宜作为语言和制度概念的入门，而非完整法规指南。",
+            "transfer": [
+                "Jeg står til rådighed for arbejdsmarkedet.",
+                "Jeg søger aktivt job inden for mit fag.",
+                "Jeg skal møde op til en samtale i jobcentret."
+            ],
+            "pitfall": "`ledig` 既可能表示失业，也可能表示有空，须结合语境。`stå til rådighed` 不是简单的站在某处，而是表示可接受工作安排。"
+        },
+        {
+            "id": "U09-C016",
+            "zh": "听起来很简单，但一份接一份地投递申请，却始终得不到回复，实际上可能非常消磨人的精力。",
+            "grammar": "`Det lyder enkelt` 是对前一句要求的概括评价。`det kan være opslidende at + infinitiv` 使用形式主语 `det`，真正被评价的是后面的求职行为。`den ene ansøgning efter den anden` 是强调反复发生的表达。`uden at få svar` 描述伴随的负面情况。",
+            "vocabulary": [
+                {
+                    "da": "opslidende",
+                    "zh": "令人精疲力尽的、非常消耗精力的"
+                },
+                {
+                    "da": "den ene … efter den anden",
+                    "zh": "一个接一个、接连不断"
+                },
+                {
+                    "da": "en ansøgning",
+                    "zh": "申请、求职申请"
+                },
+                {
+                    "da": "uden at",
+                    "zh": "没有……就……、却没有……"
+                }
+            ],
+            "nuance": "`opslidende` 比 `trættende` 更强，包含长期消磨身心的含义。作者将制度上的简单流程与求职者的真实体验对照，表明求职压力不只是填表和参加面谈。",
+            "transfer": [
+                "Det kan være opslidende at søge job i lang tid.",
+                "Jeg sendte den ene ansøgning efter den anden.",
+                "Det er frustrerende ikke at få svar."
+            ],
+            "pitfall": "`opslidende` 不是简单的无聊，而是持续消耗心理和身体资源。`uden at få svar` 中的主语通常与主句不定式动作的执行者一致。"
+        },
+        {
+            "id": "U09-C017",
+            "zh": "Sanne说：“最难受的其实不是钱的问题。”",
+            "grammar": "`Det værste` 是形容词最高级名词化，表示最糟糕的部分或事情。`var ikke pengene` 使用否定突出真正的问题并不在经济层面。引语后的 `siger Sanne` 是叙述性倒装。",
+            "vocabulary": [
+                {
+                    "da": "det værste",
+                    "zh": "最糟糕的事情、最难受的部分",
+                    "note": "`værst` 是 `dårlig` 的最高级形式之一。"
+                },
+                {
+                    "da": "pengene",
+                    "zh": "钱、经济方面的问题",
+                    "note": "这里泛指失业带来的经济影响。"
+                }
+            ],
+            "nuance": "作者用否定制造悬念：读者可能首先想到失业导致收入下降，但Sanne接下来指出失业还有更深层的心理和社会影响。",
+            "transfer": [
+                "Det værste var ikke økonomien.",
+                "Det sværeste var usikkerheden.",
+                "Pengene var ikke det største problem."
+            ],
+            "pitfall": "`det værste` 是名词化最高级，不需要再补一个 `ting`。"
+        },
+        {
+            "id": "U09-C018",
+            "zh": "“最难受的是，每天早上醒来，却发现没有任何人在等着我，也没有人需要我去做什么。”",
+            "grammar": "`Det var at + infinitiv` 用不定式短语说明前一句的 `det værste` 究竟是什么。`vågne op` 表示醒来。`uden at nogen ventede på mig` 是包含独立主语 `nogen` 的否定伴随结构，说明醒来时没有人等着她。`ventede` 使用过去时，与回忆中的失业阶段对应。",
+            "vocabulary": [
+                {
+                    "da": "vågne op",
+                    "zh": "醒来"
+                },
+                {
+                    "da": "vente på nogen",
+                    "zh": "等待某人"
+                },
+                {
+                    "da": "uden at nogen …",
+                    "zh": "在没有任何人……的情况下"
+                }
+            ],
+            "nuance": "这句话的情绪重量来自日常细节，而不是抽象地谈论失业焦虑。`ingen ventede på mig` 既可能是字面的没有人等待，也隐含缺乏工作安排、职责和被需要的感觉。译文可以体现这一层语用含义，但不应据此断言她在家庭或私人生活中完全没有人关心。",
+            "transfer": [
+                "Det sværeste var at stå op uden et formål.",
+                "Jeg savnede at have nogen, der regnede med mig.",
+                "Det var svært at vænne sig til hverdagen uden arbejde."
+            ],
+            "pitfall": "`vente på` 使用介词 `på`。`uden at nogen ventede` 有自己的主语 `nogen`，不能机械理解为Sanne自己没有等待。"
+        },
+        {
+            "id": "U09-C019",
+            "zh": "失业八个月后，a-kasse的顾问建议她利用待业这段时间继续深造。",
+            "grammar": "`Efter otte måneder` 是前置时间状语，随后为 `foreslog hendes rådgiver`。`foreslå, at nogen skal + infinitiv` 表示建议某人采取某种行动；`skulle` 与过去时 `foreslog` 相呼应。`bruge noget til at + infinitiv` 表示利用某事做某事。",
+            "vocabulary": [
+                {
+                    "da": "en rådgiver",
+                    "zh": "顾问、咨询人员"
+                },
+                {
+                    "da": "foreslå",
+                    "zh": "建议、提议",
+                    "note": "`foreslå – foreslog – foreslået`。"
+                },
+                {
+                    "da": "bruge tiden til at",
+                    "zh": "利用时间做某事"
+                },
+                {
+                    "da": "uddanne sig videre",
+                    "zh": "继续接受教育、进一步提升学历或专业资格"
+                }
+            ],
+            "nuance": "顾问没有只要求她继续大量投递简历，而是提出利用失业时期进行职业升级。这使故事从被动失业转向主动职业转型。`uddanne sig videre` 可指继续教育、补充职业资格或改变专业发展方向。",
+            "transfer": [
+                "Min rådgiver foreslog, at jeg skulle tage en uddannelse.",
+                "Jeg vil bruge perioden til at udvikle mine kompetencer.",
+                "Hun valgte at uddanne sig videre."
+            ],
+            "pitfall": "`foreslå` 的过去式是 `foreslog`，不是规则变化形式。`uddanne sig` 中的反身代词不能遗漏。"
+        },
+        {
+            "id": "U09-C020",
+            "zh": "她决定学习建筑技术与施工管理方面的专业，取得建筑构造师资格；三年后，她在奥胡斯的一家建筑设计事务所找到了工作。",
+            "grammar": "`vælge at + infinitiv` 表示决定做某事。`læse til + profession` 表示攻读某种职业资格或专业。第二分句以前置时间状语 `tre år senere` 开头，形成 `fik hun` 的V2语序。",
+            "vocabulary": [
+                {
+                    "da": "læse til",
+                    "zh": "攻读某职业所需的学历或资格",
+                    "note": "例如 `læse til lærer`、`læse til sygeplejerske`。"
+                },
+                {
+                    "da": "en bygningskonstruktør",
+                    "zh": "建筑构造师、建筑技术与施工管理专业人员",
+                    "note": "丹麦特定教育及职业称谓，不完全等同于建筑师。"
+                },
+                {
+                    "da": "en tegnestue",
+                    "zh": "设计事务所、建筑设计办公室"
+                },
+                {
+                    "da": "tre år senere",
+                    "zh": "三年后"
+                }
+            ],
+            "nuance": "Sanne通过继续教育从工地实践岗位转向需要设计、技术协调和项目能力的工作。`bygningskonstruktør` 具有丹麦职业教育体系中的特定含义，不能简单等同于 `arkitekt`。",
+            "transfer": [
+                "Jeg læser til bygningskonstruktør.",
+                "Tre år senere fik jeg job i en større virksomhed.",
+                "Jeg valgte at videreuddanne mig inden for byggeri."
+            ],
+            "pitfall": "`læse til` 是学习以成为某种专业人员，`læse om` 是阅读关于某个主题的资料。`tegnestue` 不只指绘画室，也可表示建筑设计事务所。"
+        },
+        {
+            "id": "U09-C021",
+            "zh": "她是通过主动投递一封非招聘岗位对应的求职申请，找到那份工作的。",
+            "grammar": "`Den stilling` 是前置宾语，限定助动词 `havde` 紧随其后、主语 `hun` 后置。过去完成时 `havde fundet` 从后来的工作经历回顾更早的求职过程。`ved at + infinitiv` 表示通过某种方式达到目的。",
+            "vocabulary": [
+                {
+                    "da": "en stilling",
+                    "zh": "职位、岗位"
+                },
+                {
+                    "da": "en uopfordret ansøgning",
+                    "zh": "主动求职申请、非针对公开招聘的申请"
+                },
+                {
+                    "da": "ved at",
+                    "zh": "通过做……、以……方式"
+                }
+            ],
+            "nuance": "`uopfordret ansøgning` 是丹麦求职语境中的重要词汇，指在雇主没有就该岗位公开征求申请时主动联系。它体现求职者寻找机会不必完全依赖公开招聘广告。",
+            "transfer": [
+                "Jeg fandt jobbet ved at sende en uopfordret ansøgning.",
+                "Jeg kontaktede virksomheden uopfordret.",
+                "Den stilling havde jeg fundet gennem mit netværk."
+            ],
+            "pitfall": "`uopfordret` 并不意味着不礼貌或未经允许的骚扰，而是雇主没有先发出招聘邀请。"
+        },
+        {
+            "id": "U09-C022",
+            "zh": "有些职位从未公开发布招聘信息，就已经招到了人。",
+            "grammar": "`bliver besat` 是现在时 `blive` 被动，表示职位被填补。`uden at` 引出没有发生的动作。`er blevet slået op` 是现在完成时被动，表示招聘信息曾被发布；`nogensinde` 在否定语境中加强从未发生的含义。",
+            "vocabulary": [
+                {
+                    "da": "besætte en stilling",
+                    "zh": "填补岗位、录用人员担任职位"
+                },
+                {
+                    "da": "slå en stilling op",
+                    "zh": "发布职位招聘信息"
+                },
+                {
+                    "da": "nogensinde",
+                    "zh": "曾经、在任何时候"
+                },
+                {
+                    "da": "en del",
+                    "zh": "一些、相当一部分"
+                }
+            ],
+            "nuance": "作者解释所谓隐性就业机会，即并非所有招聘都经过公开发布。`en del` 是非精确的数量表达，不能据此推算具体比例。",
+            "transfer": [
+                "Stillingen blev besat internt.",
+                "Jobbet blev aldrig slået op.",
+                "Nogle virksomheder ansætter uden at slå stillingen op."
+            ],
+            "pitfall": "`slå op` 在求职语境是发布招聘信息，不是分手时的 `slå op med nogen`。`besat` 在这里指岗位有人担任。"
+        },
+        {
+            "id": "U09-C023",
+            "zh": "因此，很多人会主动投递求职申请，或者利用自己的人脉网络，例如联系以前的同事或职业协会。",
+            "grammar": "`Derfor` 作为句首原因结果副词，后接限定动词 `sender`，形成V2语序。`sender` 与 `bruger` 是并列谓语。`for eksempel` 后列举的是 `netværk` 的具体来源。",
+            "vocabulary": [
+                {
+                    "da": "et netværk",
+                    "zh": "人脉网络、职业联系网络"
+                },
+                {
+                    "da": "en tidligere kollega",
+                    "zh": "前同事"
+                },
+                {
+                    "da": "en faglig forening",
+                    "zh": "职业协会、专业组织"
+                },
+                {
+                    "da": "bruge sit netværk",
+                    "zh": "利用职业人脉"
+                }
+            ],
+            "nuance": "丹麦求职中的 `netværk` 不一定指通过私人关系走后门，而往往包括主动了解行业、向前同事咨询或通过专业组织发现机会。文章把这种方式与主动申请并列，说明它们都是寻找工作的正常渠道。",
+            "transfer": [
+                "Jeg bruger mit netværk til at finde nye muligheder.",
+                "Jeg har kontaktet tidligere kolleger.",
+                "Derfor valgte jeg at sende en uopfordret ansøgning."
+            ],
+            "pitfall": "`netværk` 不只指计算机网络，在职业语境中常指人脉。`faglig forening` 不一定完全等同于工会，具体要看组织性质。"
+        },
+        {
+            "id": "U09-C024",
+            "zh": "求职信应当简短，并且针对具体用人单位量身定制；重点要说明自己能带来什么价值，而不只是把简历上的内容重复一遍。",
+            "grammar": "第一分句 `En ansøgning skal være …` 说明求职信的基本要求。`målrettet den konkrete arbejdsplads` 是形容词性短语。第二分句 `den bør forklare` 使用情态动词 `bør` 提出建议。`hvad man kan bidrage med` 是间接疑问从句，介词 `med` 保留在从句末尾。破折号后的 `ikke bare gentage` 与前面形成对比。",
+            "vocabulary": [
+                {
+                    "da": "målrettet",
+                    "zh": "有针对性的、量身定制的"
+                },
+                {
+                    "da": "en arbejdsplads",
+                    "zh": "工作单位、工作场所"
+                },
+                {
+                    "da": "bidrage med",
+                    "zh": "贡献、提供某种价值"
+                },
+                {
+                    "da": "gentage",
+                    "zh": "重复"
+                },
+                {
+                    "da": "et cv",
+                    "zh": "简历、履历"
+                }
+            ],
+            "nuance": "这句话强调丹麦求职信与CV的分工。CV主要提供经历与资历证据，求职信则需要解释为什么这些经历对具体岗位有价值。`den konkrete arbejdsplads` 要求申请者研究招聘单位，而不是给所有雇主发送完全相同的文本。",
+            "transfer": [
+                "Jeg vil gerne bidrage med mine analytiske kompetencer.",
+                "Ansøgningen skal målrettes den konkrete stilling.",
+                "Forklar, hvilken værdi du kan skabe for arbejdspladsen."
+            ],
+            "pitfall": "`bidrage med noget` 是贡献某物，`bidrage til noget` 常表示为某个目标或结果作贡献。`målrettet` 不只是有目标，还强调内容具有针对性。"
+        },
+        {
+            "id": "U09-C025",
+            "zh": "求职时既不必附上照片，也不必说明年龄和婚姻状况；而且法律禁止雇主基于年龄、宗教、族裔出身等因素进行歧视。",
+            "grammar": "`behøver hverken at X eller Y` 表示既没有必要做X，也没有必要做Y，注意 `hverken … eller …` 的对称关系。第二主句的骨架为 `loven forbyder arbejdsgivere at forskelsbehandle`，即法律禁止雇主实施某种行为。`på grund af` 引出歧视的依据，`blandt andet` 表示列举并不穷尽。",
+            "vocabulary": [
+                {
+                    "da": "vedlægge",
+                    "zh": "附上、随申请提供"
+                },
+                {
+                    "da": "civilstand",
+                    "zh": "婚姻状况"
+                },
+                {
+                    "da": "forskelsbehandle",
+                    "zh": "区别对待、歧视"
+                },
+                {
+                    "da": "på grund af",
+                    "zh": "由于、基于"
+                },
+                {
+                    "da": "etnisk oprindelse",
+                    "zh": "族裔出身"
+                }
+            ],
+            "nuance": "作者强调求职过程中应优先展示与岗位有关的能力，而不是主动提供与工作无关的个人资料。这里的法律说明属于文章提供的概括性信息，具体保护范围、适用情形及例外应以现行法律为准。`blandt andet` 特意表明所列举的歧视理由并非完整清单。",
+            "transfer": [
+                "Man behøver ikke vedlægge et billede.",
+                "Det er forbudt at forskelsbehandle på grund af alder.",
+                "Jeg foretrækker at fokusere på mine faglige kvalifikationer."
+            ],
+            "pitfall": "`hverken` 必须与 `eller` 搭配。`forskelsbehandle` 不等于所有形式的差异化处理都违法；这里特指基于受保护因素的不当区别对待。"
+        },
+        {
+            "id": "U09-C026",
+            "zh": "面试时，雇主详细问起她简历中的空档期；最后，那个很多人都害怕的问题还是来了。",
+            "grammar": "`Ved samtalen` 前置后出现 `spurgte arbejdsgiveren`。`spørge ind til` 是不可随意拆开的动词搭配。第二分句中 `til sidst` 前置，形成 `kom det spørgsmål`。`mange frygter` 是省略关系代词的关系从句，修饰 `det spørgsmål`。",
+            "vocabulary": [
+                {
+                    "da": "spørge ind til",
+                    "zh": "进一步询问、深入了解"
+                },
+                {
+                    "da": "et hul i cv'et",
+                    "zh": "简历空档期"
+                },
+                {
+                    "da": "frygte",
+                    "zh": "害怕、担忧"
+                },
+                {
+                    "da": "til sidst",
+                    "zh": "最后、最终"
+                }
+            ],
+            "nuance": "`spørge ind til` 比简单的 `spørge om` 更强调追问背景或细节。`det spørgsmål, mange frygter` 是叙事悬念，暗示招聘面试里有某个让应聘者不太愿意面对的经典问题。",
+            "transfer": [
+                "Arbejdsgiveren spurgte ind til min erhvervserfaring.",
+                "Jeg skulle forklare et hul i mit cv.",
+                "Til sidst kom det svære spørgsmål."
+            ],
+            "pitfall": "`et hul i cv'et` 是经历上的时间空档，不是简历文件真的有洞。`spørge ind til` 比 `spørge til` 更突出深入询问。"
+        },
+        {
+            "id": "U09-C027",
+            "zh": "面试官：我们最后总会问同一个问题：你觉得自己哪方面还不太擅长？",
+            "grammar": "`spørge om noget` 表示询问某件事。冒号后是直接疑问句，`Hvad` 作疑问成分，`er` 置于主语 `du` 之前。`ikke så god til` 比直接说 `dårlig til` 更委婉。",
+            "vocabulary": [
+                {
+                    "da": "spørge om",
+                    "zh": "询问"
+                },
+                {
+                    "da": "være god til",
+                    "zh": "擅长……"
+                },
+                {
+                    "da": "ikke så god til",
+                    "zh": "不太擅长……"
+                }
+            ],
+            "nuance": "面试官没有直接使用 `svagheder`，而是以较温和的方式询问候选人的不足。问题的目的不仅可能是了解缺点，也可能是观察候选人能否客观认识自己。",
+            "transfer": [
+                "Hvad er du god til?",
+                "Hvilke områder vil du gerne blive bedre til?",
+                "Jeg er ikke så god til at sige nej."
+            ],
+            "pitfall": "`god til` 用于技能和能力，`god for` 则有不同含义，不能互换。"
+        },
+        {
+            "id": "U09-C028",
+            "zh": "Sanne：如果我看到一项任务确实需要有人完成，就很难开口拒绝。",
+            "grammar": "`have svært ved at + infinitiv` 是核心结构，表示做某事有困难。`sige nej til noget` 表示拒绝某项任务或请求。`hvis jeg kan se, at …` 是条件从句，内部嵌套宾语从句。`den skal løses` 使用情态动词 `skal` 加s-被动 `løses`，表达任务必须被完成。",
+            "vocabulary": [
+                {
+                    "da": "have svært ved at",
+                    "zh": "做某事有困难"
+                },
+                {
+                    "da": "sige nej til",
+                    "zh": "拒绝……"
+                },
+                {
+                    "da": "en opgave",
+                    "zh": "任务、工作"
+                },
+                {
+                    "da": "løse en opgave",
+                    "zh": "完成任务、解决问题"
+                }
+            ],
+            "nuance": "Sanne没有使用空泛的性格形容词，而是提供具体的行为模式：看到工作有需要就很难拒绝。这样的表述既承认问题，也展示责任感，为后面解释如何改善留下空间。",
+            "transfer": [
+                "Jeg har svært ved at sige nej til ekstra opgaver.",
+                "Når jeg ser et problem, vil jeg gerne løse det.",
+                "Det er vigtigt at kunne prioritere sine opgaver."
+            ],
+            "pitfall": "`have svært ved at` 不能写成 `have svært til at`。`løse` 是解决问题或完成任务，不是松开衣物等意义上的 `løs`。"
+        },
+        {
+            "id": "U09-C029",
+            "zh": "面试官：这会成为一个问题吗？",
+            "grammar": "`Er det et problem?` 是标准的一般疑问句，系动词 `er` 前置。`det` 回指她难以拒绝任务的倾向。",
+            "vocabulary": [
+                {
+                    "da": "et problem",
+                    "zh": "问题、隐患"
+                }
+            ],
+            "nuance": "面试官把性格描述进一步推进到实际工作后果：这种倾向是否会影响工作表现？语气简洁直接，没有明确的指责意味。",
+            "transfer": [
+                "Kan det blive et problem?",
+                "Hvordan håndterer du det i praksis?"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U09-C030",
+            "zh": "Sanne：是有可能变成问题的。我曾经工作过度，最后连觉都睡不好。现在我会把所有任务写下来；如果任务清单太长，就请主管帮我确定优先次序。",
+            "grammar": "`Det kan det blive` 中前一个 `det` 对应上一句的 `et problem`，后一个 `det` 指她的行为倾向，属于表语前置的简洁回应。`så meget, at …` 是程度加结果从句。`har engang arbejdet` 用现在完成时提及人生经历。`skriver … ned` 是可分动词结构。`når listen bliver for lang` 前置后，主句采用 `beder jeg` 的V2语序。",
+            "vocabulary": [
+                {
+                    "da": "engang",
+                    "zh": "曾经、有一次",
+                    "note": "这里是过去某一时期，并非将来的总有一天。"
+                },
+                {
+                    "da": "skrive ned",
+                    "zh": "写下来、记录"
+                },
+                {
+                    "da": "bede nogen om at",
+                    "zh": "请求某人做某事"
+                },
+                {
+                    "da": "prioritere",
+                    "zh": "确定优先级、进行轻重缓急排序"
+                },
+                {
+                    "da": "til sidst",
+                    "zh": "最后、到后来"
+                }
+            ],
+            "nuance": "这是整篇最值得模仿的求职面试回答之一：先承认缺点的真实风险，再用一次具体经历说明后果，最后提出目前已经形成的应对机制。Sanne没有把弱点包装成完美主义，也没有声称问题已经彻底消失。`I dag` 强调她已经改变行为。",
+            "transfer": [
+                "Jeg har tidligere haft svært ved at prioritere mine opgaver.",
+                "I dag skriver jeg mine opgaver ned og aftaler prioriteter med min chef.",
+                "Når arbejdsbyrden bliver for stor, beder jeg om hjælp."
+            ],
+            "pitfall": "`Det kan det blive` 两个 `det` 的指代不同。`bede min chef om at prioritere` 是请主管确定优先次序，不是要求主管一定亲自完成所有任务。"
+        },
+        {
+            "id": "U09-C031",
+            "zh": "面试官：这样做真的有效吗？",
+            "grammar": "`Og det virker?` 是口语中的回声式确认问句，沿用陈述句语序，通过语调表达疑问。完整的常规一般疑问形式也可以是 `Virker det?`。",
+            "vocabulary": [
+                {
+                    "da": "virke",
+                    "zh": "奏效、有效、起作用"
+                }
+            ],
+            "nuance": "这里的 `Og` 承接Sanne刚刚提出的应对办法。问题既可能表达兴趣，也可能是在检验她是否真正实施了这个方法。",
+            "transfer": [
+                "Virker det i praksis?",
+                "Og hvordan fungerer det?"
+            ],
+            "pitfall": "`virke` 在这里指方法有效，而不是某人正在工作；与 `arbejde` 的通常用法不同。"
+        },
+        {
+            "id": "U09-C032",
+            "zh": "Sanne：不一定第一次说就有用。但现在我至少会主动提出来了，以前我可不会这么做。",
+            "grammar": "`Ikke altid første gang` 是省略主语和谓语的口语回答，承接前一句的 `virker`。`sige til` 表示主动告知、及时提出问题。`det gjorde jeg ikke før` 中 `gjorde` 代替前面已经提到的动作，避免重复 `sagde til`。`nu` 与 `før` 形成时间对照。",
+            "vocabulary": [
+                {
+                    "da": "ikke altid",
+                    "zh": "并不总是"
+                },
+                {
+                    "da": "første gang",
+                    "zh": "第一次、初次尝试时"
+                },
+                {
+                    "da": "sige til",
+                    "zh": "及时告知、主动反映"
+                },
+                {
+                    "da": "før",
+                    "zh": "以前、过去"
+                }
+            ],
+            "nuance": "她承认沟通不一定马上有效，但强调自己已经学会在工作负担过重时开口。`Men` 不是否认问题，而是突出行为上的进步。这种承认现实、展示成长的说法比完美答案更可信。",
+            "transfer": [
+                "Det virker ikke altid første gang.",
+                "Jeg er blevet bedre til at sige til.",
+                "Det gjorde jeg ikke tidligere, men det gør jeg nu."
+            ],
+            "pitfall": "`sige til` 与 `sige fra` 不完全相同：前者偏向主动告知或发声，后者偏向拒绝或划清界限。本句强调她开始及时反映问题。"
+        },
+        {
+            "id": "U09-C033",
+            "zh": "面试官：谢谢。你有什么问题想问我们吗？",
+            "grammar": "`Har du nogen spørgsmål …?` 是一般疑问句。`nogen` 在疑问句中表示任何或一些，并不等同于否定。",
+            "vocabulary": [
+                {
+                    "da": "have spørgsmål til nogen",
+                    "zh": "有问题想向某人提出"
+                },
+                {
+                    "da": "nogen spørgsmål",
+                    "zh": "任何问题、一些问题"
+                }
+            ],
+            "nuance": "这是招聘面试末尾常见的过渡方式，表示候选人可以就工作、团队和招聘流程进一步了解信息。候选人的反问也能展示对工作的具体兴趣。",
+            "transfer": [
+                "Jeg har et par spørgsmål til jer.",
+                "Må jeg stille et spørgsmål om stillingen?"
+            ],
+            "pitfall": "`spørgsmål til nogen` 是向某人提问，`spørgsmål om noget` 表示关于某事的问题。"
+        },
+        {
+            "id": "U09-C034",
+            "zh": "Sanne：有，两个。入职后，我最密切合作的会是谁？另外，你们预计什么时候能够作出招聘决定？",
+            "grammar": "`komme til at + infinitiv` 在这里表示未来将会发生的安排。`tættest` 是最高级副词，修饰 `arbejde sammen med`。第二个问题中 `regne med at + infinitiv` 表示预计；`have truffet en beslutning` 是完成式不定式，强调到了某个未来时间点，作出决定这一动作已经完成。",
+            "vocabulary": [
+                {
+                    "da": "komme til at",
+                    "zh": "将会、预计会"
+                },
+                {
+                    "da": "arbejde tæt sammen med",
+                    "zh": "与……密切合作"
+                },
+                {
+                    "da": "regne med",
+                    "zh": "预计、预期"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定",
+                    "note": "`træffe – traf – truffet`。"
+                }
+            ],
+            "nuance": "这两个提问都非常具体，而且围绕实际工作展开。第一个了解团队合作结构，第二个明确招聘时间线。`regner I med` 比直接追问什么时候必须决定更委婉，适用于面试结束时了解后续安排。",
+            "transfer": [
+                "Hvem kommer jeg til at arbejde tættest sammen med?",
+                "Hvornår forventer I at træffe en beslutning?",
+                "Hvordan er samarbejdet organiseret i teamet?"
+            ],
+            "pitfall": "`regne med` 在这里不是算术计算，而是预计。`have truffet` 不等于现在已经决定，而是从未来某一时点看，该决定预计已经作出。"
+        },
+        {
+            "id": "U09-C035",
+            "zh": "她没有套用那种“我的缺点就是太追求完美”的经典回答，也没有粉饰自己的经历。",
+            "grammar": "`undgik` 是 `undgå` 的过去时，后面直接接名词宾语。`det klassiske svar om at være perfektionist` 是名词短语，说明她避免使用的回答类型。`pynte på noget` 是否定句中的固定搭配，表示对事实进行美化。",
+            "vocabulary": [
+                {
+                    "da": "undgå",
+                    "zh": "避免",
+                    "note": "`undgå – undgik – undgået`。"
+                },
+                {
+                    "da": "en perfektionist",
+                    "zh": "完美主义者"
+                },
+                {
+                    "da": "pynte på",
+                    "zh": "粉饰、美化、添油加醋"
+                },
+                {
+                    "da": "et klassisk svar",
+                    "zh": "典型回答、老套回答"
+                }
+            ],
+            "nuance": "作者批评一种常见的面试策略：表面承认缺点，实际却试图将自己包装成过度优秀的人。Sanne选择说明真实风险及改善措施，因此显得更有自我认识，也更可信。",
+            "transfer": [
+                "Jeg vil hellere være ærlig end pynte på sandheden.",
+                "Jeg prøver at undgå standardsvar.",
+                "Det er vigtigt at give konkrete eksempler."
+            ],
+            "pitfall": "`pynte på` 可以字面表示装饰，但在这里指粉饰事实。`undgå` 后可直接接名词或 `at + infinitiv`。"
+        },
+        {
+            "id": "U09-C036",
+            "zh": "她的回答表明，她了解自己的弱点，也确实已经采取措施解决问题——而这往往正是雇主希望看到的。",
+            "grammar": "`Svaret viste, at … og at …` 包含两个由 `og` 并列的宾语从句。`kendte sig selv` 使用反身结构。`havde gjort noget ved problemet` 是过去完成时，表示在面试之前已经采取行动。破折号后的 `det er ofte det, en arbejdsgiver leder efter` 带有强调意味，末尾为省略关系代词的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "kende sig selv",
+                    "zh": "了解自己、有自我认识"
+                },
+                {
+                    "da": "gøre noget ved et problem",
+                    "zh": "针对问题采取措施"
+                },
+                {
+                    "da": "lede efter",
+                    "zh": "寻找、看重"
+                },
+                {
+                    "da": "en arbejdsgiver",
+                    "zh": "雇主"
+                }
+            ],
+            "nuance": "这句话点明了面试中回答缺点问题的深层逻辑：雇主可能更重视候选人是否具备自我反思能力，以及是否会主动改善问题，而不是期待一个毫无缺点的人。",
+            "transfer": [
+                "Jeg er bevidst om mine svagheder og arbejder aktivt med dem.",
+                "Jeg har gjort noget ved problemet.",
+                "Det viser, at jeg kender mig selv."
+            ],
+            "pitfall": "`kende sig selv` 使用反身代词。`gøre noget ved problemet` 是解决或应对，不是简单地对问题做什么。"
+        },
+        {
+            "id": "U09-C037",
+            "zh": "在作出录用决定前，设计事务所联系了她的两位前主管作为推荐人；她此前已征询过他们是否愿意提供工作推荐。",
+            "grammar": "`Inden de besluttede sig` 是前置时间从句，因此主句形成 `ringede tegnestuen` 的V2语序。`beslutte sig` 是反身动词结构。`som hun på forhånd havde spurgt` 是修饰两位前主管的关系从句，内部再嵌套 `om de ville være referencer` 这一间接是非疑问从句。`havde spurgt` 强调事先征求同意。",
+            "vocabulary": [
+                {
+                    "da": "beslutte sig",
+                    "zh": "作出决定、下定决心"
+                },
+                {
+                    "da": "på forhånd",
+                    "zh": "事先、提前"
+                },
+                {
+                    "da": "en reference",
+                    "zh": "工作推荐人、推荐信息",
+                    "note": "招聘语境中可指接受联系、评价候选人工作表现的人。"
+                },
+                {
+                    "da": "en tidligere chef",
+                    "zh": "前主管、前上司"
+                }
+            ],
+            "nuance": "丹麦招聘中的推荐人核查通常用于了解候选人过往工作表现。文中特别说明Sanne事先征得对方同意，体现了职业礼仪：不能因为某人曾担任自己的主管，就默认可以随意提供其联系方式供新雇主核查。",
+            "transfer": [
+                "Jeg har på forhånd spurgt mine referencer om lov.",
+                "I er velkomne til at kontakte mine tidligere chefer.",
+                "Hvornår forventer I at indhente referencer?"
+            ],
+            "pitfall": "`en reference` 在求职场景不只是论文参考文献。`ringe til nogen` 中使用 `til`，`spørge nogen, om …` 用于询问对方是否愿意。"
+        },
+        {
+            "id": "U09-C038",
+            "zh": "然而，她在面试时提到的那个弱点，最终还是找上了她。",
+            "grammar": "`hun havde nævnt ved samtalen` 是省略关系代词的关系从句，修饰 `Svagheden`。`havde nævnt` 为过去完成时，说明提及弱点先于后来发生的事件。`indhentede hende` 是比喻用法。`alligevel` 表示尽管此前已经意识到问题并采取措施，后果仍然出现。",
+            "vocabulary": [
+                {
+                    "da": "en svaghed",
+                    "zh": "弱点、不足"
+                },
+                {
+                    "da": "indhente nogen",
+                    "zh": "追上某人；某种后果最终影响某人"
+                },
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此、终究还是"
+                }
+            ],
+            "nuance": "作者通过 `indhentede` 将抽象的性格弱点描写成迟早会追上当事人的事物，带有文学性的预示效果。`alligevel` 使语气略带惋惜，因为读者已经知道她曾尝试改善工作边界。",
+            "transfer": [
+                "Problemerne indhentede ham til sidst.",
+                "Selvom jeg havde forberedt mig, gik det galt alligevel.",
+                "Den svaghed arbejder jeg stadig med."
+            ],
+            "pitfall": "`indhente` 的字面意思可以是追赶上，但这里并不是有人在追她，而是过往风险再次产生影响。"
+        },
+        {
+            "id": "U09-C039",
+            "zh": "在设计事务所工作五年后，她同时负责三个建筑项目。有一天三月的早晨，她甚至想不起自己手机的解锁密码。",
+            "grammar": "`Efter fem år på tegnestuen` 为前置时间状语。`have ansvaret for noget` 是固定结构，表示负责某事。`på én gang` 强调同时性。第二分句 `en morgen i marts` 前置，形成 `kunne hun ikke huske` 的V2语序。`ikke` 位于情态动词 `kunne` 后、主要动词 `huske` 前。",
+            "vocabulary": [
+                {
+                    "da": "have ansvaret for",
+                    "zh": "负责……"
+                },
+                {
+                    "da": "et byggeprojekt",
+                    "zh": "建筑项目、建设工程"
+                },
+                {
+                    "da": "på én gang",
+                    "zh": "同时、一次性"
+                },
+                {
+                    "da": "kunne huske",
+                    "zh": "能够记住、想得起来"
+                },
+                {
+                    "da": "en kode",
+                    "zh": "密码、代码"
+                }
+            ],
+            "nuance": "作者没有抽象地说她压力很大，而是用无法想起手机密码这一具体细节呈现问题的严重性。它在故事中说明她当时已经难以正常应对日常事务，但单凭这一症状并不能推断具体医学诊断。",
+            "transfer": [
+                "Jeg har ansvaret for flere projekter på én gang.",
+                "Arbejdsbyrden blev gradvist større.",
+                "Jeg kunne pludselig ikke huske min adgangskode."
+            ],
+            "pitfall": "`have ansvaret for` 使用 `for`。`på én gang` 中的 `én` 强调一个时点，不能直接理解为一次尝试。"
+        },
+        {
+            "id": "U09-C040",
+            "zh": "医生因她的压力问题为她开具了病假证明；最初几个星期，她每天大部分时间都在睡觉。",
+            "grammar": "`sygemelde nogen med + sygdom/tilstand` 表示因为某种健康状况让某人进入病假。第二分句 `de første uger` 是前置时间状语，因此形成 `sov hun` 的V2语序。`det meste af dagen` 是表示一天中大部分时间的名词性时间状语。",
+            "vocabulary": [
+                {
+                    "da": "sygemelde",
+                    "zh": "将某人列为病假、证明某人需要病休"
+                },
+                {
+                    "da": "stress",
+                    "zh": "压力、长期压力反应"
+                },
+                {
+                    "da": "sove",
+                    "zh": "睡觉",
+                    "note": "`sove – sov – sovet`。"
+                },
+                {
+                    "da": "det meste af dagen",
+                    "zh": "一天中的大部分时间"
+                }
+            ],
+            "nuance": "在丹麦日常工作语境中，`sygemeldt med stress` 表示因压力相关健康问题而病休。作者强调她需要真正休息，而不是简单地请几天假。文章没有提供具体医学检查结果，不应进一步推断诊断类型。",
+            "transfer": [
+                "Jeg blev sygemeldt med stress.",
+                "Lægen anbefalede, at jeg tog en pause fra arbejdet.",
+                "I begyndelsen havde jeg brug for meget hvile."
+            ],
+            "pitfall": "`stress` 在丹麦语中既可能指日常压力，也可能指严重的压力相关状态。不能只凭这个词把它等同于某一种明确的精神疾病诊断。"
+        },
+        {
+            "id": "U09-C041",
+            "zh": "雇主应当最迟在员工病假的第一天起四周内，与其进行一次面谈，目的是了解员工能够以何种方式、在什么时候重返工作岗位。",
+            "grammar": "`skal holde en samtale` 使用情态动词表示义务。`senest fire uger efter første sygedag` 明确最晚期限。第二并列主句的骨架是 `formålet er at finde ud af …`。`hvordan og hvornår man kan vende tilbage` 是由两个疑问词共同引导的间接疑问内容，采用从句语序。",
+            "vocabulary": [
+                {
+                    "da": "holde en samtale",
+                    "zh": "举行面谈"
+                },
+                {
+                    "da": "en sygemeldt medarbejder",
+                    "zh": "处于病假状态的员工"
+                },
+                {
+                    "da": "senest",
+                    "zh": "最迟、不晚于"
+                },
+                {
+                    "da": "finde ud af",
+                    "zh": "弄清楚、了解"
+                },
+                {
+                    "da": "vende tilbage",
+                    "zh": "返回、重新开始工作"
+                }
+            ],
+            "nuance": "这里描述的是丹麦工作场所处理病假的一般制度性安排，常与 `sygefraværssamtale` 联系起来。面谈的核心不是质疑员工是否真正生病，而是讨论如何维持联系、是否可能以及如何逐步返岗。实际规定可能存在特殊情况或例外。",
+            "transfer": [
+                "Formålet med samtalen er at finde ud af, hvordan jeg kan vende tilbage.",
+                "Vi skal drøfte mulighederne for en gradvis tilbagevenden.",
+                "Hvornår forventer du at kunne vende tilbage til arbejdet?"
+            ],
+            "pitfall": "`senest fire uger efter` 表示不晚于四周，不意味着必须恰好等到第四周。`finde ud af` 是整体搭配，不能逐词解释为找到某物并离开。"
+        },
+        {
+            "id": "U09-C042",
+            "zh": "对Sanne来说，解决方案是部分恢复工作：起初每周十小时，然后增加到二十小时，三个月后再恢复全职。",
+            "grammar": "`For Sanne` 是前置介词短语，后接 `blev løsningen` 的V2语序。`en delvis raskmelding` 作表语。冒号后的几个时间和工时短语是省略完整谓语的并列阶段说明，依次构成复工计划。",
+            "vocabulary": [
+                {
+                    "da": "en delvis raskmelding",
+                    "zh": "部分复工、部分恢复工作能力后的返岗安排"
+                },
+                {
+                    "da": "en løsning",
+                    "zh": "解决方案"
+                },
+                {
+                    "da": "om ugen",
+                    "zh": "每周"
+                },
+                {
+                    "da": "fuld tid",
+                    "zh": "全职、全工时"
+                }
+            ],
+            "nuance": "这句话体现逐步返岗而不是一次性恢复全部工作时间。`raskmelding` 在行政和就业语境中指结束全部或部分病假状态，不能仅凭字面理解为医学上已经完全康复。这里的三个阶段说明工作时间如何逐步增加。",
+            "transfer": [
+                "Jeg begyndte med ti timer om ugen.",
+                "Efter tre måneder var jeg tilbage på fuld tid.",
+                "Vi aftalte en gradvis tilbagevenden til arbejdet."
+            ],
+            "pitfall": "`delvis raskmelding` 不等于完全康复；`fuld tid` 是全职工时，而不是所有时间都在工作。"
+        },
+        {
+            "id": "U09-C043",
+            "zh": "她接手的项目减少了，主管也开始每个星期五主动询问她的工作负荷。",
+            "grammar": "`Hun fik færre projekter og en chef` 两个名词宾语共用动词 `fik`。`der spurgte ind til hendes arbejdsbyrde hver fredag` 是修饰 `en chef` 的关系从句。`spørge ind til` 表示有针对性地进一步了解。",
+            "vocabulary": [
+                {
+                    "da": "færre",
+                    "zh": "数量更少的",
+                    "note": "用于可数名词，例如项目、任务。"
+                },
+                {
+                    "da": "en arbejdsbyrde",
+                    "zh": "工作负荷、工作量压力"
+                },
+                {
+                    "da": "spørge ind til",
+                    "zh": "主动询问、深入了解"
+                }
+            ],
+            "nuance": "这里强调复工成功不能只靠员工自己调整。主管通过减少项目、定期了解工作负荷，为防止再次过度工作建立支持机制。`spørge ind til` 暗示真正关心具体情况，而非随口问一句近况。",
+            "transfer": [
+                "Min chef spørger jævnligt ind til min arbejdsbyrde.",
+                "Jeg fik færre opgaver i en periode.",
+                "Vi følger op på arbejdsbyrden hver fredag."
+            ],
+            "pitfall": "`færre` 用于可数对象，`mindre` 通常用于不可数的量或程度；可以说 `færre projekter`，也可以说 `mindre arbejde`。"
+        },
+        {
+            "id": "U09-C044",
+            "zh": "这需要员工和工作单位双方都有耐心，也需要双方敢于坦诚讨论究竟哪里出了问题。",
+            "grammar": "`Det kræver tålmodighed fra …` 中 `det` 指前面的逐步复工过程。第二个 `det kræver, at …` 后接宾语从句。`begge parter` 是从句主语，`tør tale` 使用情态动词 `tør` 加不带 `at` 的不定式。`hvad der gik galt` 是间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "tålmodighed",
+                    "zh": "耐心"
+                },
+                {
+                    "da": "begge parter",
+                    "zh": "双方"
+                },
+                {
+                    "da": "turde",
+                    "zh": "敢于",
+                    "note": "现在时 `tør`，过去时 `turde`。"
+                },
+                {
+                    "da": "tale åbent om",
+                    "zh": "坦诚讨论"
+                },
+                {
+                    "da": "gå galt",
+                    "zh": "出错、出问题"
+                }
+            ],
+            "nuance": "这是病假与复工段落的核心观点：工作压力并非只应由个人承担全部责任。员工需要及时表达自己的困难，工作单位也应认真讨论工作安排和环境中可能存在的问题。",
+            "transfer": [
+                "Det kræver tålmodighed fra begge parter.",
+                "Vi skal turde tale åbent om problemerne.",
+                "Det er vigtigt at finde ud af, hvad der gik galt."
+            ],
+            "pitfall": "`tør` 是敢于，不是干燥的形容词 `tør` 在所有语境中的意思。`gå galt` 是出问题，不意味着某人字面上走错路。"
+        },
+        {
+            "id": "U09-C045",
+            "zh": "招聘广告通常遵循固定的结构，仔细阅读很值得——包括那些没有明说、需要从字里行间体会的信息。",
+            "grammar": "`Et stillingsopslag følger …` 说明招聘广告的一般特点。`det kan betale sig at + infinitiv` 表示做某事值得。破折号后 `også det, der står mellem linjerne` 补充阅读对象，`der står …` 是修饰 `det` 的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "et stillingsopslag",
+                    "zh": "招聘广告、职位招聘信息"
+                },
+                {
+                    "da": "følge et mønster",
+                    "zh": "遵循某种模式"
+                },
+                {
+                    "da": "det kan betale sig at",
+                    "zh": "做……值得、划算"
+                },
+                {
+                    "da": "grundigt",
+                    "zh": "仔细地、深入地"
+                },
+                {
+                    "da": "mellem linjerne",
+                    "zh": "字里行间、言外之意"
+                }
+            ],
+            "nuance": "招聘广告既包含明示的工作任务、资格要求和待遇，也包含对组织文化、工作方式和实际期待的暗示。`læse mellem linjerne` 是重要的高级阅读能力，但应避免把所有模糊措辞都当作负面信号。",
+            "transfer": [
+                "Det kan betale sig at læse stillingsopslaget grundigt.",
+                "Prøv at læse mellem linjerne.",
+                "Stillingsopslag følger ofte et nogenlunde fast mønster."
+            ],
+            "pitfall": "`kan betale sig` 不一定表示金钱回报，也可以表示某项行动值得投入时间。`mellem linjerne` 是比喻，不是物理地阅读行距。"
+        },
+        {
+            "id": "U09-C046",
+            "zh": "我们的产品以高品质和使用寿命长而闻名，目前在丹麦和德国北部的市场需求都在持续增长。",
+            "grammar": "`være kendt for + substantiv` 表示因某种特征而知名。`høj kvalitet` 和 `lang levetid` 是并列原因。第二主句 `vi oplever en stigende efterspørgsel` 使用 `opleve` 描述企业正在经历的市场变化。`både … og …` 并列两个地理市场。",
+            "vocabulary": [
+                {
+                    "da": "være kendt for",
+                    "zh": "以……闻名"
+                },
+                {
+                    "da": "høj kvalitet",
+                    "zh": "高品质"
+                },
+                {
+                    "da": "lang levetid",
+                    "zh": "使用寿命长"
+                },
+                {
+                    "da": "en stigende efterspørgsel",
+                    "zh": "不断增长的需求"
+                },
+                {
+                    "da": "Nordtyskland",
+                    "zh": "德国北部"
+                }
+            ],
+            "nuance": "这是典型招聘广告的企业介绍部分，既突出产品优势，也暗示企业正在扩张。`oplever` 比直接声称市场客观上持续增长更贴近企业自身的经营体验。对求职者来说，这些信息有助于判断职位为何被设立。",
+            "transfer": [
+                "Virksomheden er kendt for høj kvalitet.",
+                "Vi oplever stigende efterspørgsel efter vores produkter.",
+                "Markedet vokser både i Danmark og i udlandet."
+            ],
+            "pitfall": "`efterspørgsel efter` 表示对某事物的需求，不是 `efterspørgsel på`。`levetid` 在产品语境是使用寿命，并非人的预期寿命。"
+        },
+        {
+            "id": "U09-C047",
+            "zh": "你的职责将包括维护现有客户关系、开发新客户，以及与我们的技术人员密切合作编制报价。",
+            "grammar": "`Dine opgaver vil blandt andet være at …` 是招聘广告中描述未来工作职责的结构。三个并列的不定式分别为 `pleje`、`finde` 和 `udarbejde`。`finde nye` 省略了上一项中的名词 `kunder`。`i tæt samarbejde med` 修饰编制报价的工作方式。",
+            "vocabulary": [
+                {
+                    "da": "pleje kunder",
+                    "zh": "维护客户关系"
+                },
+                {
+                    "da": "eksisterende kunder",
+                    "zh": "现有客户"
+                },
+                {
+                    "da": "udarbejde tilbud",
+                    "zh": "编制报价或商业提案"
+                },
+                {
+                    "da": "i tæt samarbejde med",
+                    "zh": "与……密切合作"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括、尤其包括"
+                }
+            ],
+            "nuance": "这段工作描述包含客户维护、客户开发和跨职能协作三个层次。`pleje` 原本可以用于护理或照料，但在商业语境中表示持续维护关系。`blandt andet` 提示列出的不是全部职责。",
+            "transfer": [
+                "Mine opgaver omfatter blandt andet kundekontakt og koordinering.",
+                "Jeg har erfaring med at pleje kunderelationer.",
+                "Jeg arbejder tæt sammen med vores tekniske team."
+            ],
+            "pitfall": "`et tilbud` 在销售语境往往是报价或商业方案，不一定表示打折促销。`pleje kunder` 不意味着提供医疗护理。"
+        },
+        {
+            "id": "U09-C048",
+            "zh": "我们希望你具备面向企业客户的销售经验，并且能够用丹麦语和英语进行专业沟通。",
+            "grammar": "`Vi forventer, at … og at …` 是两个由 `og` 并列的宾语从句。`have erfaring med` 表示具备某方面经验。`på både dansk og engelsk` 使用介词 `på` 引出沟通所使用的语言。",
+            "vocabulary": [
+                {
+                    "da": "forvente",
+                    "zh": "期望、要求、预期"
+                },
+                {
+                    "da": "have erfaring med",
+                    "zh": "具备……方面的经验"
+                },
+                {
+                    "da": "en erhvervskunde",
+                    "zh": "企业客户、商业客户"
+                },
+                {
+                    "da": "kommunikere professionelt",
+                    "zh": "进行专业沟通"
+                }
+            ],
+            "nuance": "`Vi forventer` 在招聘广告中通常表示雇主提出的任职期待，力度比简单的 `vi håber` 更强，但不一定意味着缺少其中任意一项就绝对不予考虑。求职者应结合整个广告判断要求的重要程度。",
+            "transfer": [
+                "Jeg har erfaring med salg til erhvervskunder.",
+                "Jeg kan kommunikere professionelt på dansk og engelsk.",
+                "Stillingen kræver erfaring med kundekontakt."
+            ],
+            "pitfall": "`erfaring med` 是经验领域，`erfaring fra` 常用于经验来源，例如某家公司。语言表达一般使用 `på dansk`，而不是 `i dansk`。"
+        },
+        {
+            "id": "U09-C049",
+            "zh": "懂德语是加分项，但不是硬性要求。",
+            "grammar": "`Kendskab til tysk` 是名词短语主语。`er en fordel, men ikke et krav` 为并列对比结构，后半句省略重复的 `er`。`kendskab til` 强调对某个领域或语言有一定了解。",
+            "vocabulary": [
+                {
+                    "da": "kendskab til",
+                    "zh": "对……有所了解、掌握一定知识"
+                },
+                {
+                    "da": "en fordel",
+                    "zh": "优势、加分条件"
+                },
+                {
+                    "da": "et krav",
+                    "zh": "要求、硬性条件"
+                }
+            ],
+            "nuance": "这句话是解读招聘广告的实用线索。`en fordel, men ikke et krav` 清楚区分了加分条件和必备要求。因此，不会德语的候选人并不一定应该放弃申请。",
+            "transfer": [
+                "Kendskab til Python er en fordel, men ikke et krav.",
+                "Erfaring med projektledelse vil være en fordel.",
+                "Det er ikke et krav, at du taler tysk."
+            ],
+            "pitfall": "`kendskab til` 不自动表示达到熟练或母语水平。`krav` 是要求，而不是个人的愿望。"
+        },
+        {
+            "id": "U09-C050",
+            "zh": "我们提供一份自主性较高的工作，配有持续的专业交流与反馈、相关培训课程，以及良好的发展机会，其中包括独立负责自己客户的机会。",
+            "grammar": "`Vi tilbyder` 后接一个以 `en selvstændig stilling` 为中心的复杂名词短语。`med` 引出职位附带的条件与资源。`herunder` 用于从前述发展机会中进一步举例。`ansvar for dine egne kunder` 表示独立承担客户责任。",
+            "vocabulary": [
+                {
+                    "da": "en selvstændig stilling",
+                    "zh": "自主性较高的岗位"
+                },
+                {
+                    "da": "løbende sparring",
+                    "zh": "持续的专业讨论、互相反馈"
+                },
+                {
+                    "da": "relevante kurser",
+                    "zh": "相关培训课程"
+                },
+                {
+                    "da": "muligheder for udvikling",
+                    "zh": "发展机会"
+                },
+                {
+                    "da": "herunder",
+                    "zh": "其中包括"
+                }
+            ],
+            "nuance": "招聘广告借助 `selvstændig` 和 `sparring` 同时强调个人自主性与团队支持。`sparring` 在丹麦职场中常指与同事或主管讨论问题、交换想法、获取反馈，并不是字面意义上的搏击训练。",
+            "transfer": [
+                "Jeg trives i en selvstændig stilling med løbende sparring.",
+                "Jeg lægger vægt på gode muligheder for faglig udvikling.",
+                "Stillingen indebærer ansvar for egne kunder."
+            ],
+            "pitfall": "`selvstændig stilling` 并不是说必须成为自雇人士，而是指受雇岗位有较高自主性。`sparring` 不能直接理解为竞争或冲突。"
+        },
+        {
+            "id": "U09-C051",
+            "zh": "招聘广告里说“højt til loftet”，意思是工作环境能够包容不同意见，而不一定真的表示办公室空间宽敞、天花板很高。",
+            "grammar": "`betyder, at …` 引出表达含义。`der er plads til` 是存在结构，表示有接纳或容纳的空间。破折号后的 `ikke nødvendigvis` 对字面解释进行否定性限制，省略了可以根据前文恢复的谓语结构。",
+            "vocabulary": [
+                {
+                    "da": "højt til loftet",
+                    "zh": "思想开放、氛围宽松、容许不同意见"
+                },
+                {
+                    "da": "der er plads til",
+                    "zh": "有空间容纳、允许"
+                },
+                {
+                    "da": "forskellige meninger",
+                    "zh": "不同意见"
+                },
+                {
+                    "da": "ikke nødvendigvis",
+                    "zh": "不一定、未必"
+                }
+            ],
+            "nuance": "`højt til loftet` 是丹麦职场文化中值得认识的惯用语，通常暗示开放、平等、允许讨论和表达观点。但招聘广告中的这类文化描述属于雇主自我陈述，并不能单凭一句话就证明实际管理氛围如此。",
+            "transfer": [
+                "Der er højt til loftet på vores arbejdsplads.",
+                "Vi har en kultur, hvor der er plads til forskellige meninger.",
+                "Det betyder ikke nødvendigvis, at alle er enige."
+            ],
+            "pitfall": "不要将 `højt til loftet` 直接理解为物理房间的高度。`plads til` 在抽象语境中可以表示包容度，不一定是实际空间。"
+        },
+        {
+            "id": "U09-C052",
+            "zh": "另外，如果招聘面试是陆续进行的，那就很值得尽早申请，不要一直拖到截止日期前的最后一刻。",
+            "grammar": "`når samtalerne bliver afholdt løbende` 是前置时间兼条件从句，随后主句采用 `kan det` 的V2语序。`bliver afholdt` 是 `blive` 被动。`det kan godt betale sig at` 表示确实值得做某事；后面通过 `ikke at vente` 表示不等待。",
+            "vocabulary": [
+                {
+                    "da": "afholde samtaler",
+                    "zh": "举行面试"
+                },
+                {
+                    "da": "løbende",
+                    "zh": "持续地、陆续地"
+                },
+                {
+                    "da": "det kan godt betale sig",
+                    "zh": "确实值得"
+                },
+                {
+                    "da": "sidste øjeblik",
+                    "zh": "最后一刻"
+                }
+            ],
+            "nuance": "`samtaler afholdes løbende` 往往意味着招聘方在申请期内就开始安排面试，而不一定等到截止日期后才统一处理。`godt` 在这里是加强肯定的语气词，并不是将句子变成经济收益的判断。",
+            "transfer": [
+                "Samtalerne afholdes løbende.",
+                "Det kan betale sig at søge stillingen tidligt.",
+                "Vent ikke til sidste øjeblik med at sende din ansøgning."
+            ],
+            "pitfall": "`løbende` 在招聘语境中是陆续进行，不是跑步进行。`kan godt betale sig` 的 `godt` 不等于英语 well 的普通方式副词。"
+        },
+        {
+            "id": "U09-C053",
+            "zh": "对于受丹麦《雇员法》保护的职员，雇主需要给予的解雇预告期会随着员工工龄增加，从最初的一个月逐步延长至六个月；而员工自己辞职时，通常只需提前一个月通知。",
+            "grammar": "`For funktionærer` 是前置范围状语，后接 `vokser arbejdsgiverens opsigelsesvarsel` 的V2语序。`med ancienniteten` 表示随着工龄增加。`fra … til …` 说明期限变化范围。`mens` 引导与雇主通知义务相对照的从句，`sige op med en måneds varsel` 为固定劳动关系表达。",
+            "vocabulary": [
+                {
+                    "da": "en funktionær",
+                    "zh": "受丹麦《雇员法》规定涵盖的职员",
+                    "note": "法律上的特定雇员类别，不等于所有办公室员工。"
+                },
+                {
+                    "da": "et opsigelsesvarsel",
+                    "zh": "辞退或辞职预告期"
+                },
+                {
+                    "da": "anciennitet",
+                    "zh": "工龄、任职年限"
+                },
+                {
+                    "da": "sige op",
+                    "zh": "辞职；解除雇佣关系",
+                    "note": "具体主体决定是员工辞职还是雇主解雇。"
+                },
+                {
+                    "da": "med en måneds varsel",
+                    "zh": "提前一个月通知"
+                }
+            ],
+            "nuance": "这里介绍丹麦雇佣法律中重要的通知期概念。雇主的预告期与雇员任职年限有关，而雇员自行辞职通常适用另一套规则。文章给出的是概括，实际通知期取决于适用法律、具体工龄、合同、集体协议及其他特殊情形，不能直接套用于所有劳动者。",
+            "transfer": [
+                "Mit opsigelsesvarsel afhænger af min anciennitet.",
+                "Jeg kan normalt sige op med en måneds varsel.",
+                "Opsigelsesvarslet vokser med ancienniteten."
+            ],
+            "pitfall": "`opsigelsesvarsel` 是提前通知的期限，不是赔偿金。`funktionær` 是丹麦法律上的就业类别，不能简单等同于所有全职员工。"
+        },
+        {
+            "id": "U09-C054",
+            "zh": "后来，Sanne收到学校的工作邀请后，自己主动提出辞职，并提前一个月通知了原单位。",
+            "grammar": "`Sanne sagde selv op` 中 `selv` 强调辞职是她自己主动决定的。`med en måneds varsel` 表示通知期限。`da hun fik tilbudt jobbet på skolen` 是时间从句，`fik tilbudt` 属于 `få + 过去分词` 的受益或接受结构，表示她获得别人提供的职位。",
+            "vocabulary": [
+                {
+                    "da": "sige op",
+                    "zh": "辞职"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己、亲自",
+                    "note": "此处强调是主动辞职而非被辞退。"
+                },
+                {
+                    "da": "få tilbudt et job",
+                    "zh": "收到工作邀请、获得工作机会"
+                },
+                {
+                    "da": "med en måneds varsel",
+                    "zh": "提前一个月通知"
+                }
+            ],
+            "nuance": "文章再次使用 `selv` 与她早年的被解雇经历形成对照。这一次她不是被动离职，而是在收到新工作邀请后主动转换职业方向。",
+            "transfer": [
+                "Jeg har fået tilbudt et nyt job.",
+                "Jeg har besluttet at sige op med en måneds varsel.",
+                "Jeg sagde først op, da jeg havde fået et nyt job."
+            ],
+            "pitfall": "`få tilbudt` 是收到提议，不是主动提供工作。`sige op` 不能一律译为解雇，必须看主语及上下文。"
+        },
+        {
+            "id": "U09-C055",
+            "zh": "如今，Sanne在一所职业学校教授学徒。",
+            "grammar": "句首 `I dag` 是时间状语，后接限定动词 `underviser`，再接主语 `Sanne`，形成V2语序。`undervise nogen` 可以直接接教学对象。",
+            "vocabulary": [
+                {
+                    "da": "undervise",
+                    "zh": "教授、授课"
+                },
+                {
+                    "da": "en erhvervsskole",
+                    "zh": "职业学校"
+                },
+                {
+                    "da": "en lærling",
+                    "zh": "学徒"
+                }
+            ],
+            "nuance": "文章回到故事开头的现在时。曾经作为学徒进入行业的Sanne，如今成为培养学徒的教师，完成职业生涯的角色转换。",
+            "transfer": [
+                "I dag underviser jeg på en erhvervsskole.",
+                "Jeg underviser voksne i dansk."
+            ],
+            "pitfall": "`undervise nogen i noget` 表示教某人某一科目；`lære nogen noget` 也可以表示教会某人，但两者语体及句法不完全相同。"
+        },
+        {
+            "id": "U09-C056",
+            "zh": "每天早晨七点，她都会和十二名学徒一起站在实训车间里。",
+            "grammar": "`Hver morgen klokken syv` 是前置时间状语，因此主句采用 `står hun` 的V2语序。`i værkstedet` 表示所在场所，`med tolv lærlinge` 表示与她在一起的人。",
+            "vocabulary": [
+                {
+                    "da": "hver morgen",
+                    "zh": "每天早晨"
+                },
+                {
+                    "da": "et værksted",
+                    "zh": "车间、工作坊、实训室"
+                },
+                {
+                    "da": "en lærling",
+                    "zh": "学徒"
+                }
+            ],
+            "nuance": "七点钟、十二名学徒、实训车间，这些具体细节让结尾回到职业教育的日常现场。Sanne不再是等待别人安排任务的年轻学徒，而是负责教学的人。",
+            "transfer": [
+                "Hver morgen klokken otte møder jeg på arbejde.",
+                "Vi arbejder sammen i værkstedet.",
+                "Jeg underviser et hold på tolv lærlinge."
+            ],
+            "pitfall": "`i værkstedet` 强调在车间内部，`på værkstedet` 也可用于表示在某个工作场所；实际选择与地点含义有关。"
+        },
+        {
+            "id": "U09-C057",
+            "zh": "当学徒们问她这一行最重要的是什么时，她的回答既不是精准度，也不是安全。",
+            "grammar": "`Når de spørger …` 是前置时间从句，内部嵌套间接疑问从句 `hvad det vigtigste i faget er`，注意其语序不同于直接疑问句。主句 `svarer hun` 采用V2倒装。`hverken … eller …` 构成并列否定，排除两个可能的答案。",
+            "vocabulary": [
+                {
+                    "da": "det vigtigste",
+                    "zh": "最重要的事情"
+                },
+                {
+                    "da": "et fag",
+                    "zh": "行业、专业、学科"
+                },
+                {
+                    "da": "præcision",
+                    "zh": "精确度、精准性"
+                },
+                {
+                    "da": "sikkerhed",
+                    "zh": "安全、安全性"
+                },
+                {
+                    "da": "hverken … eller …",
+                    "zh": "既不……也不……"
+                }
+            ],
+            "nuance": "作者用一个看似意外的答案为结尾制造悬念。对木工行业而言，精准和安全显然非常重要；Sanne没有否定它们的价值，而是准备提出一种更根本、贯穿职业生涯的能力。",
+            "transfer": [
+                "Hvad er det vigtigste i dit fag?",
+                "Det handler hverken kun om teknik eller om erfaring.",
+                "Når folk spørger mig om det, svarer jeg …"
+            ],
+            "pitfall": "`hverken` 与 `eller` 搭配，不能改成 `hverken … og …`。`fag` 在这里是职业领域，不只是学校里的某一门课程。"
+        },
+        {
+            "id": "U09-C058",
+            "zh": "“要及时开口说出来，”她说，“别等到出了问题、撑不住的时候才说。”",
+            "grammar": "`At sige til` 是名词性不定式短语，作为上一句问题的回答。`før noget knækker` 是时间从句，表示某个问题发展到崩溃或断裂之前。引语中插入 `siger hun`，形成叙述性倒装。`noget` 故意保持模糊，可以涵盖材料、工作过程、个人承受能力或人际协作。",
+            "vocabulary": [
+                {
+                    "da": "sige til",
+                    "zh": "及时开口、主动提醒、反映问题"
+                },
+                {
+                    "da": "knække",
+                    "zh": "折断、崩溃、撑不住",
+                    "note": "`knække – knækkede – knækket`，此处兼具具体和比喻意义。"
+                },
+                {
+                    "da": "før det går galt",
+                    "zh": "在事情出问题之前",
+                    "note": "与本文结尾思想接近的常用表达。"
+                }
+            ],
+            "nuance": "这是全文的点睛之笔，也呼应章节标题。对木工来说，`knækker` 可以让人联想到材料真的断裂；对Sanne的职业人生来说，它也象征工作压力超过承受极限。她从曾经不敢拒绝任务、过度工作而病休的经历中，总结出一条更重要的职业原则：出现风险、困难或过重负担时，要及时让别人知道。这里尤其值得区分 `sige til` 和 `sige fra`：前者强调及时表达和告知，后者强调拒绝、设立边界，两者可以相互配合。",
+            "transfer": [
+                "Det vigtigste er at sige til i tide.",
+                "Sig til, før det bliver for meget.",
+                "Man skal turde sige fra, når arbejdsbyrden bliver for stor."
+            ],
+            "pitfall": "`knække` 可表示具体折断，也可比喻精神或工作系统崩溃。不要把 `sige til` 理解成随便说一句话；它在这里意味着及时沟通问题、寻求支持，防止事态恶化。"
+        }
+    ]
+}

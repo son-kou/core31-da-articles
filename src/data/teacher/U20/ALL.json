@@ -1,0 +1,1109 @@
+{
+    "schema_version": 1,
+    "unit": "U20",
+    "part": "ALL",
+    "source_fingerprint": "U20-ALL-da8e71446033",
+    "sentences": [
+        {
+            "id": "U20-C001",
+            "zh": "大约在公元965年，哈拉尔·蓝牙王在耶灵竖立了那块著名的大型卢恩石碑，以纪念他的父母戈姆和蒂拉。",
+            "grammar": "句首时间状语 `Omkring år 965` 占据首位，后面采用 `rejste kong Harald Blåtand` 的 V2 语序，即限定动词 `rejste` 位于第二位置，主语随后出现。核心结构是 `rejse noget til minde om nogen`，表示竖立某物以纪念某人。`den store runesten i Jelling` 是完整宾语，其中 `i Jelling` 说明石碑的位置。`sine forældre` 使用反身物主代词 `sine`，因为父母属于句子主语哈拉尔。句末的 `Gorm og Thyra` 是对父母姓名的补充说明。",
+            "vocabulary": [
+                {
+                    "da": "rejse en sten",
+                    "zh": "竖立石碑",
+                    "note": "`rejse – rejste – rejst`；这里是竖立，不是旅行"
+                },
+                {
+                    "da": "en runesten",
+                    "zh": "卢恩文字石碑；符文石碑",
+                    "note": "复数 `runesten`；`rune` 指卢恩文字"
+                },
+                {
+                    "da": "til minde om nogen",
+                    "zh": "为了纪念某人",
+                    "note": "纪念碑、仪式、历史文章中的固定搭配"
+                },
+                {
+                    "da": "omkring år 965",
+                    "zh": "大约在公元965年",
+                    "note": "`omkring` 表示时间上的近似"
+                },
+                {
+                    "da": "forældre",
+                    "zh": "父母",
+                    "note": "复数名词；`sine forældre` 指主语自己的父母"
+                }
+            ],
+            "nuance": "文章以一件具体的历史文物开篇，而不是直接概述整个丹麦历史。`den store runesten` 使用确定形式，是因为作者指向耶灵著名的大型石碑。`til minde om` 既说明竖碑目的，也突出了王室家族记忆与早期国家历史之间的联系。`Omkring` 保留了年代上的近似性，符合通俗历史叙述的谨慎语气。哈拉尔的称号 `Blåtand` 对应英语中的 Bluetooth，但这里首先是历史人物的称号。",
+            "transfer": [
+                "I 1900 rejste byen et monument til minde om de omkomne.",
+                "Museet blev grundlagt til minde om en kendt forfatter.",
+                "Omkring år 1000 begyndte samfundet at forandre sig."
+            ],
+            "pitfall": "`rejse` 可以表示旅行，也可以表示竖立，必须根据宾语判断。`til minde om` 中的介词是 `om`，不能省略。`sine forældre` 回指主语自己的父母；如果换成不指向主语的所有者，就不能机械使用 `sine`。"
+        },
+        {
+            "id": "U20-C002",
+            "zh": "这块石碑常被称为丹麦的受洗证明，因为它不仅明确提到了丹麦王国的名字，还记述了人们从信奉古老诸神转向基督教的历史。",
+            "grammar": "主句 `Stenen bliver ofte kaldt Danmarks dåbsattest` 使用 `blive + 过去分词` 构成被动结构，强调石碑被人们如何称呼，而不指出命名者。`fordi` 引导原因从句，解释这一称呼的依据。原因从句中使用 `både … og …` 连接两个并列谓语 `nævner` 和 `fortæller`。`nævne noget ved navn` 表示明确说出某物的名称；`overgangen fra X til Y` 表示由一种状态转向另一种状态。",
+            "vocabulary": [
+                {
+                    "da": "en dåbsattest",
+                    "zh": "洗礼证明；受洗证明",
+                    "note": "本句用于比喻丹麦作为基督教王国的历史标志"
+                },
+                {
+                    "da": "blive kaldt",
+                    "zh": "被称为；被叫作",
+                    "note": "`blive kaldt X` 后直接接称谓"
+                },
+                {
+                    "da": "nævne noget ved navn",
+                    "zh": "明确提及某事物的名称",
+                    "note": "`nævne – nævnte – nævnt`"
+                },
+                {
+                    "da": "en overgang fra X til Y",
+                    "zh": "从X向Y的转变",
+                    "note": "可用于政治、技术、教育和社会变化"
+                },
+                {
+                    "da": "kristendommen",
+                    "zh": "基督教",
+                    "note": "`kristendom`；这里采用确定形式"
+                }
+            ],
+            "nuance": "`Danmarks dåbsattest` 是高度形象化的历史隐喻，并不意味着石碑真的是国家的法律洗礼文件。它同时指向早期丹麦王国的名称记载和基督教化这一重大转变。作者用 `både … og …` 解释石碑为什么具有双重象征意义。`overgangen` 暗示宗教改变是历史过程，不应理解为所有居民在同一天完成信仰转变。",
+            "transfer": [
+                "Dokumentet bliver ofte kaldt begyndelsen på en ny epoke.",
+                "Reformen markerede overgangen fra et gammelt system til et nyt.",
+                "Rapporten nævner både problemet og mulige løsninger."
+            ],
+            "pitfall": "`dåbsattest` 是受洗证明，不等于 `fødselsattest` 出生证明。`blive kaldt` 表示被称为，不能直接理解为接到电话。`fortælle om` 后必须保留介词 `om`。"
+        },
+        {
+            "id": "U20-C003",
+            "zh": "然而，丹麦是如何形成的这段历史，同时也是一部讲述这个国家如何一步步缩小的历史。",
+            "grammar": "句子以转折连词 `Men` 开头，主语是较长的名词短语 `historien om, hvordan Danmark blev til`。其中 `hvordan Danmark blev til` 是间接疑问从句，说明历史叙述的内容。表语部分 `historien om, hvordan landet blev mindre og mindre` 与主语构成平行结构。`blive til` 表示形成、诞生；`blive + 比较级` 表示状态变化；`mindre og mindre` 是比较级重复，表示越来越小。",
+            "vocabulary": [
+                {
+                    "da": "blive til",
+                    "zh": "形成；诞生；产生",
+                    "note": "`Hvordan blev Danmark til?` 丹麦是如何形成的？"
+                },
+                {
+                    "da": "historien om",
+                    "zh": "关于……的历史；……的故事",
+                    "note": "既可用于历史叙述，也可用于个人经历"
+                },
+                {
+                    "da": "mindre og mindre",
+                    "zh": "越来越小",
+                    "note": "比较级重复结构"
+                },
+                {
+                    "da": "et land",
+                    "zh": "国家；土地",
+                    "note": "本句指国家及其疆域"
+                }
+            ],
+            "nuance": "这一句提出全篇的核心叙事视角：丹麦历史不仅是国家建立和发展的故事，也包含领土不断丧失的过程。`Men` 打破上一句建立国家的积极意象，形成历史上的反差。`mindre og mindre` 简洁而有画面感，但这里强调的是后续历史叙述中的疆域缩减，不能理解为每个时期丹麦领土都持续单向减少。",
+            "transfer": [
+                "Historien om, hvordan virksomheden blev til, er også historien om dens udfordringer.",
+                "Problemet blev større og større.",
+                "Danmarks grænser har ændret sig gennem historien."
+            ],
+            "pitfall": "`blive til` 表示形成，`blive mindre` 表示变小，虽然都包含 `blive`，后续结构不同。间接疑问从句 `hvordan Danmark blev til` 不使用直接疑问句倒装。"
+        },
+        {
+            "id": "U20-C004",
+            "zh": "维京时代一般被认为从公元800年前后开始，一直延续到11世纪中叶。",
+            "grammar": "主语 `Vikingetiden` 后接 s-被动动词 `regnes`，表示某一历史时期通常如何划定。`fra … til …` 表示起止范围。`omkring år 800` 是近似起点，`midten af 1000-tallet` 指公元1000年至1099年这一世纪的中期，即11世纪中叶。`normalt` 限定这是通常采用的划分，而非毫无争议的精确日期。",
+            "vocabulary": [
+                {
+                    "da": "vikingetiden",
+                    "zh": "维京时代",
+                    "note": "`en vikingetid`；历史时期名称"
+                },
+                {
+                    "da": "regne noget fra X til Y",
+                    "zh": "把某段时间界定为从X到Y",
+                    "note": "被动式 `regnes fra … til …`"
+                },
+                {
+                    "da": "normalt",
+                    "zh": "通常；一般而言",
+                    "note": "用于说明惯常定义或做法"
+                },
+                {
+                    "da": "midten af",
+                    "zh": "……的中期；中间部分",
+                    "note": "`i midten af århundredet` 在世纪中叶"
+                },
+                {
+                    "da": "1000-tallet",
+                    "zh": "11世纪",
+                    "note": "丹麦语以千位年代命名世纪，与中文世纪编号相差一"
+                }
+            ],
+            "nuance": "历史分期常常是研究和教学中约定俗成的划分，因此 `regnes normalt` 比直接说某时代绝对始于某日更准确。作者同时使用 `omkring` 和 `midten af`，使年代具有合理弹性。这种表达很适合学习如何用丹麦语概述历史时期，而不制造虚假的精确性。",
+            "transfer": [
+                "Perioden regnes normalt fra 1800 til omkring 1850.",
+                "Industrialiseringen begyndte i midten af 1800-tallet.",
+                "Tidsrummet strækker sig fra X til Y."
+            ],
+            "pitfall": "`1000-tallet` 是11世纪，不是中文所说的10世纪；`1800-tallet` 则是19世纪。`regnes` 在这里不是做数学计算，而是被认为、被划定。"
+        },
+        {
+            "id": "U20-C005",
+            "zh": "当时大多数人都是农民，但有些人每年夏天会出海远征，劫掠英格兰、法国和爱尔兰的修道院与城镇。",
+            "grammar": "第一分句 `De fleste var bønder` 以泛指复数短语 `De fleste` 作主语。`men` 引出对照，第二分句中的 `nogle` 指其中一部分人。`drog … på togt` 和 `plyndrede` 是两个并列的过去时谓语，说明远征和劫掠的活动。`hver sommer` 表示过去反复发生的季节性行动，而不是某个夏天只发生一次。",
+            "vocabulary": [
+                {
+                    "da": "de fleste",
+                    "zh": "大多数人；绝大多数",
+                    "note": "不一定需要后接名词"
+                },
+                {
+                    "da": "en bonde",
+                    "zh": "农民",
+                    "note": "复数 `bønder`"
+                },
+                {
+                    "da": "drage på togt",
+                    "zh": "出征；远征；出海劫掠",
+                    "note": "`drage – drog – draget`；`et togt` 远征活动"
+                },
+                {
+                    "da": "plyndre",
+                    "zh": "劫掠；抢掠",
+                    "note": "`plyndre en by` 洗劫一座城市"
+                },
+                {
+                    "da": "et kloster",
+                    "zh": "修道院",
+                    "note": "复数 `klostre`"
+                }
+            ],
+            "nuance": "作者使用 `De fleste … men nogle …` 纠正将所有维京时代居民都想象成海盗或战士的刻板印象。这里先强调农业生活的普遍性，再介绍部分人参与远征和劫掠。`drog på togt` 带有历史叙事色彩，比普通的 `rejste` 更符合军事和远航语境。",
+            "transfer": [
+                "De fleste arbejdede på landet, men nogle rejste til udlandet.",
+                "Hver sommer drog de på lange rejser.",
+                "Hæren plyndrede flere byer under krigen."
+            ],
+            "pitfall": "`bønder` 是 `bonde` 的不规则复数，不是 `bonder`。`drage på togt` 表示远征，不能按普通旅游来理解。`nogle` 指部分人，不能将其扩大为全部维京人。"
+        },
+        {
+            "id": "U20-C006",
+            "zh": "不过，维京人并不只是战士：他们也是商人，在遥远的市场上，用毛皮、琥珀和奴隶换取白银、葡萄酒与武器。",
+            "grammar": "第一部分使用 `ikke kun` 表示并非只有某一种身份，冒号后由 `også` 引出补充身份。`handelsfolk` 后面的 `der byttede …` 是关系从句，说明商人的具体活动。`bytte X for Y` 是固定交换结构，X 表示拿去交换的东西，Y 表示换得的东西。`fra fjerne markeder` 修饰这些交易及其商品的远方来源。",
+            "vocabulary": [
+                {
+                    "da": "en kriger",
+                    "zh": "战士；武士",
+                    "note": "复数 `krigere`"
+                },
+                {
+                    "da": "handelsfolk",
+                    "zh": "商人；从事贸易的人",
+                    "note": "集合性复数表达"
+                },
+                {
+                    "da": "bytte noget for noget",
+                    "zh": "用某物换取另一物",
+                    "note": "介词 `for` 引出换得的东西"
+                },
+                {
+                    "da": "rav",
+                    "zh": "琥珀",
+                    "note": "et rav；常作物质名词使用"
+                },
+                {
+                    "da": "en slave",
+                    "zh": "奴隶；被奴役的人",
+                    "note": "复数 `slaver`；历史语境中的制度性身份"
+                }
+            ],
+            "nuance": "这一句进一步打破单一的维京战士形象，强调贸易也是当时活动的重要组成部分。`dog ikke kun` 是承认前文军事活动之后的补充，而非否定维京劫掠的事实。商品清单中包括奴隶，说明当时的贸易也涉及对人的奴役；这是历史描述，并不表示认可这种制度。",
+            "transfer": [
+                "De var ikke kun krigere, men også dygtige handelsfolk.",
+                "Handelsmændene byttede varer for sølv.",
+                "Byen var et vigtigt handelscentrum med forbindelser til fjerne markeder."
+            ],
+            "pitfall": "`bytte X for Y` 的方向要记清：用X换得Y。`rav` 是琥珀，`ræv` 是狐狸，词形相近但意义不同。`handelsfolk` 不等于 `handelsvarer`，后者指商品。"
+        },
+        {
+            "id": "U20-C007",
+            "zh": "许多维京人后来就在他们曾经袭击过的国家定居了下来。",
+            "grammar": "主干 `Mange vikinger slog sig ned i de lande` 使用过去时 `slog` 和反身结构 `slå sig ned`。后面的 `de havde angrebet` 是省略宾语关系代词 `som` 的关系从句，修饰 `de lande`。`havde angrebet` 是过去完成时，说明袭击发生在定居之前，从而明确两个历史事件的先后关系。",
+            "vocabulary": [
+                {
+                    "da": "slå sig ned",
+                    "zh": "定居；落脚",
+                    "note": "`slå – slog – slået`；反身搭配"
+                },
+                {
+                    "da": "angribe",
+                    "zh": "攻击；袭击",
+                    "note": "`angribe – angreb – angrebet`"
+                },
+                {
+                    "da": "bosætte sig",
+                    "zh": "定居；迁居",
+                    "note": "与 `slå sig ned` 意义接近，语体略正式"
+                }
+            ],
+            "nuance": "作者用一句简短的话揭示维京远征的长期后果：部分参与远征的人最终成为当地定居者。`havde angrebet` 很关键，它突出从先前的袭击者到后来定居者的身份变化。句子没有说所有维京人都定居海外，也没有说明他们与当地社会融合的具体程度。",
+            "transfer": [
+                "Mange danskere slog sig ned i udlandet.",
+                "Familien slog sig ned i en lille landsby.",
+                "De bosatte sig i områder, som de tidligere havde besøgt."
+            ],
+            "pitfall": "`slå sig ned` 不是把自己打倒，而是定居。`havde angrebet` 的过去完成时用于表达更早发生的袭击，不能简单与过去时 `slog` 视为同一时间。"
+        },
+        {
+            "id": "U20-C008",
+            "zh": "1241年，《日德兰法》获得通过。它的序言中有一句名言，如今仍刻在多座法院建筑的外墙上：“国之建设，当以法律为本。”",
+            "grammar": "句首时间状语 `I 1241` 引发 `blev Jyske Lov vedtaget` 的 V2 语序。`blev vedtaget` 是过去时的 `blive + 过去分词` 被动结构，表示法律获得通过。后半句 `dens fortale indeholder en sætning` 是主动结构，`dens` 回指《日德兰法》。`som i dag står på facaden …` 是关系从句，说明该句文字现在出现的位置。引文 `Med lov skal land bygges` 使用句首介词状语 `Med lov` 和 s-被动 `bygges`，语序及无冠词用法具有古老格言的特点。",
+            "vocabulary": [
+                {
+                    "da": "vedtage en lov",
+                    "zh": "通过一项法律",
+                    "note": "`vedtage – vedtog – vedtaget`"
+                },
+                {
+                    "da": "en fortale",
+                    "zh": "序言；前言",
+                    "note": "常用于法律和正式文献"
+                },
+                {
+                    "da": "en facade",
+                    "zh": "建筑物外立面；正面",
+                    "note": "`på facaden af en bygning` 在建筑物外墙上"
+                },
+                {
+                    "da": "en retsbygning",
+                    "zh": "法院建筑",
+                    "note": "`ret` 法律或法院；`bygning` 建筑"
+                },
+                {
+                    "da": "Med lov skal land bygges",
+                    "zh": "国家应以法律为基础来建设",
+                    "note": "历史格言，不能完全按现代日常语法逐词理解"
+                }
+            ],
+            "nuance": "作者通过一部法律和一句广为纪念的格言，展示法律在丹麦历史认同中的重要性。`Med lov skal land bygges` 强调国家和社会秩序需要法律作为基础，不是要求用法律去修建土地。`står på facaden` 表示文字被写在或刻在建筑外墙上，是非常自然的丹麦语表达。引文保留历史语言的凝练形式。",
+            "transfer": [
+                "Loven blev vedtaget i 1241.",
+                "Dokumentets fortale indeholder et vigtigt princip.",
+                "Ordene står på facaden af retsbygningen."
+            ],
+            "pitfall": "`vedtage` 表示正式通过决议或法律，不是接受某人的普通建议。`dens` 指此前出现的非人称通性名词；不能误用 `sin`。格言中的 `land` 不带现代常见冠词，是历史性表达，不宜机械推广到普通句子。"
+        },
+        {
+            "id": "U20-C009",
+            "zh": "这部法律在日德兰半岛和菲英岛实施了四百多年，旨在以共同遵守的规则取代私人复仇和家族纷争。",
+            "grammar": "主语 `Loven` 后接两个并列过去时谓语 `gjaldt` 和 `var`。`gælde` 表示法律在某地区适用，介词分别为 `i Jylland` 和 `på Fyn`。`i over 400 år` 表示法律适用的持续时间。`et forsøg på at + 不定式` 表示试图实现某个目标，`erstatte X med Y` 表示以Y取代X。",
+            "vocabulary": [
+                {
+                    "da": "gælde",
+                    "zh": "适用；有效；生效",
+                    "note": "`gælde – gjaldt – gjaldt`；常用于法律和规则"
+                },
+                {
+                    "da": "et forsøg på at",
+                    "zh": "试图做某事；一项旨在……的尝试",
+                    "note": "适合历史、政策和研究写作"
+                },
+                {
+                    "da": "erstatte noget med noget",
+                    "zh": "用某物取代另一物",
+                    "note": "注意 `med` 引出替代物"
+                },
+                {
+                    "da": "hævn",
+                    "zh": "复仇；报复",
+                    "note": "en hævn；`tage hævn` 实施报复"
+                },
+                {
+                    "da": "en fejde",
+                    "zh": "长期争斗；家族或群体间的仇斗",
+                    "note": "复数 `fejder`"
+                }
+            ],
+            "nuance": "这句不仅说明法律的适用范围与持续时间，还解释其历史目的。`et forsøg på` 特别谨慎：立法旨在用共同规则限制复仇和争斗，但并不意味着这些现象在法律通过后立即消失。`fælles regler` 强调从个人或家族报复转向共同规范，是国家法律秩序发展的重要主题。",
+            "transfer": [
+                "Reglerne gælder i hele landet.",
+                "Reformen var et forsøg på at skabe større retssikkerhed.",
+                "Man ønskede at erstatte gamle regler med nye."
+            ],
+            "pitfall": "`gælde` 在法律语境中是适用，不是值得或计算。`erstatte X med Y` 中，X是被取代的旧事物，Y是新的替代物。注意地理介词：`i Jylland`、`på Fyn`。"
+        },
+        {
+            "id": "U20-C010",
+            "zh": "1349年，鼠疫传入丹麦；这场被称为“黑死病”的瘟疫，可能夺走了全国约三分之一人口的生命。",
+            "grammar": "句首时间状语 `I 1349` 引发 `kom pesten` 的 V2 倒装。第二分句主语 `den sorte død` 是黑死病的历史称谓，谓语 `dræbte` 表示造成死亡。`måske` 插入数量估计前，限定 `en tredjedel af befolkningen`，表明死亡比例具有估计性质。",
+            "vocabulary": [
+                {
+                    "da": "pest",
+                    "zh": "鼠疫；瘟疫",
+                    "note": "en pest；具体医学语境中常指鼠疫"
+                },
+                {
+                    "da": "den sorte død",
+                    "zh": "黑死病",
+                    "note": "中世纪重大瘟疫的历史名称"
+                },
+                {
+                    "da": "dræbe",
+                    "zh": "杀死；夺去生命",
+                    "note": "`dræbe – dræbte – dræbt`"
+                },
+                {
+                    "da": "en tredjedel af",
+                    "zh": "……的三分之一",
+                    "note": "`en tredjedel af befolkningen` 人口的三分之一"
+                },
+                {
+                    "da": "befolkningen",
+                    "zh": "人口；居民总体",
+                    "note": "en befolkning"
+                }
+            ],
+            "nuance": "作者通过简短而沉重的数字说明黑死病对中世纪丹麦社会的冲击。`måske` 是历史叙述中的重要限定，因为古代死亡人数往往难以精确统计。`den sorte død` 是专有的历史称谓，不是对任何严重疫情的普通形容。",
+            "transfer": [
+                "Epidemien kom til landet i midten af 1300-tallet.",
+                "Sygdommen dræbte en stor del af befolkningen.",
+                "Omkring en tredjedel af indbyggerne blev ramt."
+            ],
+            "pitfall": "`en tredjedel` 是三分之一，`tre fjerdedele` 是四分之三。`måske` 表示可能或估计，不应在翻译时删除。`befolkning` 是整体人口，不是某一个居民。"
+        },
+        {
+            "id": "U20-C011",
+            "zh": "1397年，玛格丽特一世女王通过卡尔马联盟，将丹麦、挪威和瑞典联合在同一位君主的统治之下。",
+            "grammar": "句首时间状语 `I 1397` 后采用 `samlede dronning Margrete 1.` 的 V2 语序。`samle X i Y` 表示将多个部分联合到某个组织或整体之中。`Danmark, Norge og Sverige` 是并列宾语，`i Kalmarunionen` 指联合形成的政治安排，`under én konge` 指共享同一位国王。`én` 带重音，特别强调数量只有一位。",
+            "vocabulary": [
+                {
+                    "da": "samle",
+                    "zh": "集合；联合；整合",
+                    "note": "`samle flere lande i en union` 将多个国家联合起来"
+                },
+                {
+                    "da": "en dronning",
+                    "zh": "女王；王后",
+                    "note": "具体称谓取决于历史身份"
+                },
+                {
+                    "da": "en union",
+                    "zh": "联盟；联合体",
+                    "note": "这里指政治联盟"
+                },
+                {
+                    "da": "under én konge",
+                    "zh": "在同一位国王之下",
+                    "note": "`én` 强调只有一位"
+                },
+                {
+                    "da": "Kalmarunionen",
+                    "zh": "卡尔马联盟",
+                    "note": "历史上涉及丹麦、挪威和瑞典的王朝联合"
+                }
+            ],
+            "nuance": "这句以年份、人物、国家和政治安排四个要素构成清楚的历史事件叙述。`samlede` 强调形成联合，而不一定意味着三个国家从此在制度和身份上完全没有区别。`under én konge` 是整个事件的核心，突出了共同君主的政治结构。历史叙述中，作者以玛格丽特一世作为推动者来概括这一过程。",
+            "transfer": [
+                "Flere lande blev samlet i en politisk union.",
+                "Organisationerne blev forenet under én ledelse.",
+                "Dronningen spillede en afgørende rolle i dannelsen af unionen."
+            ],
+            "pitfall": "`samle` 不只是收集物品，也可以表示政治联合。`én` 与普通冠词 `en` 不同，在这里强调数目。`union` 不应自动理解为今天的欧盟，必须根据历史语境判断。"
+        },
+        {
+            "id": "U20-C012",
+            "zh": "建立这一联盟，是为了形成一个强大的北欧王国，以抗衡那些主导波罗的海贸易的德意志商业城市。",
+            "grammar": "主句 `Unionen var et forsøg på at skabe …` 使用名词结构 `et forsøg på at` 表示政治目标。`et stærkt nordisk rige` 是不定式 `skabe` 的宾语。`over for de tyske handelsbyer` 表示面对或抗衡某些外部力量。`som dominerede handelen i Østersøen` 是修饰商业城市的关系从句，说明其影响力来源。",
+            "vocabulary": [
+                {
+                    "da": "skabe et stærkt rige",
+                    "zh": "建立一个强大的王国",
+                    "note": "`skabe` 强调形成新局面"
+                },
+                {
+                    "da": "over for",
+                    "zh": "面对；相对于；在与……的关系中",
+                    "note": "政治和外交语境中含义取决于上下文"
+                },
+                {
+                    "da": "en handelsby",
+                    "zh": "商业城市；贸易城市",
+                    "note": "复数 `handelsbyer`"
+                },
+                {
+                    "da": "dominere",
+                    "zh": "支配；主导",
+                    "note": "`dominere handelen` 主导贸易"
+                },
+                {
+                    "da": "Østersøen",
+                    "zh": "波罗的海",
+                    "note": "专有地名；`i Østersøen` 在波罗的海区域"
+                }
+            ],
+            "nuance": "作者从联盟成立这一事件转向其政治经济动机。`et forsøg på` 强调建立强大北欧王国的目标，而不预设目标完全实现。`over for` 在这里具有力量对抗和平衡的意味，但比直接使用敌对词汇更宽泛。关系从句补充德意志商业城市在波罗的海贸易中的地位，使联合动机更容易理解。",
+            "transfer": [
+                "Samarbejdet var et forsøg på at skabe en stærkere organisation.",
+                "Landene ønskede at stå stærkere over for konkurrenterne.",
+                "Flere virksomheder dominerede handelen i regionen."
+            ],
+            "pitfall": "`over for` 是两个词的固定介词表达，不能简单理解为物理位置上方。`dominere` 是主导，并不一定意味着拥有全部市场。"
+        },
+        {
+            "id": "U20-C013",
+            "zh": "然而，瑞典人常常觉得自己是受哥本哈根支配的；1523年，瑞典最终永久退出了卡尔马联盟。",
+            "grammar": "第一分句主干 `svenskerne følte sig ofte styret fra København` 使用 `føle sig + 过去分词形容词`，表示主观感受或自我处境判断。第二分句以时间状语 `i 1523` 开头，因此采用 `forlod Sverige` 的 V2 倒装。`forlade` 表示离开某个组织或地方，直接接宾语；`for altid` 表示永久性。",
+            "vocabulary": [
+                {
+                    "da": "føle sig styret",
+                    "zh": "感到自己受到控制或支配",
+                    "note": "`føle sig` 强调主观体验"
+                },
+                {
+                    "da": "styre",
+                    "zh": "统治；管理；控制",
+                    "note": "`styre et land` 统治一个国家"
+                },
+                {
+                    "da": "forlade",
+                    "zh": "离开；退出",
+                    "note": "`forlade – forlod – forladt`"
+                },
+                {
+                    "da": "for altid",
+                    "zh": "永远；永久",
+                    "note": "强调不再返回原有状态"
+                }
+            ],
+            "nuance": "作者将联盟瓦解与瑞典一方的政治感受联系起来。`følte sig` 特别值得注意，它表示瑞典人经常感到受哥本哈根支配，而不是将这一描述作为无需分析的客观全貌。`for altid` 为这一事件增加历史转折的终局感，预示此后丹麦与瑞典关系的变化。",
+            "transfer": [
+                "Mange borgere følte sig styret fra hovedstaden.",
+                "Landet forlod unionen efter mange års konflikt.",
+                "Samarbejdet ophørte for altid."
+            ],
+            "pitfall": "`føle sig styret` 与 `blive styret` 不完全相同，前者突出感受，后者描述受支配的状态或过程。`forlade` 直接接宾语，不说 `forlade fra unionen`。"
+        },
+        {
+            "id": "U20-C014",
+            "zh": "从此以后，东边的这个邻国不再属于同一个王国，而是成了丹麦的竞争对手。",
+            "grammar": "句首 `Fra da af` 是时间状语，后面采用 `var nabolandet` 的 V2 语序。`ikke længere … men …` 构成否定旧身份、引出新身份的对照结构。`en del af det samme rige` 表示属于同一个政治整体。第二个表语 `en rival` 省略了重复的系动词 `var`。",
+            "vocabulary": [
+                {
+                    "da": "fra da af",
+                    "zh": "从那时起；从此以后",
+                    "note": "历史叙事中的重要时间衔接词"
+                },
+                {
+                    "da": "et naboland",
+                    "zh": "邻国",
+                    "note": "`nabolandet mod øst` 东边的邻国"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "表示先前状态已经终止"
+                },
+                {
+                    "da": "en del af",
+                    "zh": "……的一部分",
+                    "note": "也可用于组织成员关系"
+                },
+                {
+                    "da": "en rival",
+                    "zh": "竞争对手；对手",
+                    "note": "复数 `rivaler`"
+                }
+            ],
+            "nuance": "这句概括瑞典退出联盟后的身份变化。`Fra da af` 将1523年明确设为叙事分界点。作者没有逐项列举此后所有的外交事件，而是用 `en rival` 简洁概括两国竞争关系。`ikke længere … men …` 在历史分析中很适合说明政治角色或制度性质的转变。",
+            "transfer": [
+                "Fra da af var landene ikke længere allierede, men rivaler.",
+                "Virksomheden var ikke længere en del af koncernen.",
+                "Det tidligere samarbejde blev til konkurrence."
+            ],
+            "pitfall": "`fra da af` 表示从那以后，`indtil da` 表示直到那时，方向相反。`ikke længere` 是不再，不只是时间长度不够长。"
+        },
+        {
+            "id": "U20-C015",
+            "zh": "1536年，克里斯蒂安三世国王推行宗教改革，丹麦由此成为一个信奉路德宗的国家。",
+            "grammar": "句首 `I 1536` 引发 `indførte kong Christian 3.` 的 V2 倒装。`indføre reformationen` 表示将宗教改革作为制度变革推行。第二分句 `Danmark blev et luthersk land` 使用 `blive + 名词短语` 表示国家性质发生变化。`luthersk` 修饰中性名词 `land`，形态不变。",
+            "vocabulary": [
+                {
+                    "da": "indføre",
+                    "zh": "引入；推行；实施",
+                    "note": "`indføre en reform` 推行改革"
+                },
+                {
+                    "da": "reformationen",
+                    "zh": "宗教改革",
+                    "note": "特指欧洲历史上的基督教宗教改革"
+                },
+                {
+                    "da": "luthersk",
+                    "zh": "路德宗的；信义宗的",
+                    "note": "与马丁·路德的宗教改革传统有关"
+                },
+                {
+                    "da": "blive et … land",
+                    "zh": "成为一个具有某种性质的国家",
+                    "note": "可用于政治和社会制度变化"
+                }
+            ],
+            "nuance": "作者用一位君主和一个年份概括丹麦宗教制度上的重要转折。`indførte` 强调改革通过政治权力获得实施，而不仅是宗教观念逐渐传播。`blev` 突出制度身份的改变，不应推断所有居民的个人信仰在这一年完全一致。",
+            "transfer": [
+                "Regeringen indførte en omfattende reform.",
+                "Landet blev et luthersk kongerige.",
+                "Ændringen markerede et religiøst og politisk vendepunkt."
+            ],
+            "pitfall": "`indføre` 表示引进或实施政策，不能按字面理解为向内部运送。`luthersk` 是宗教传统名称，不等于所有基督教派。"
+        },
+        {
+            "id": "U20-C016",
+            "zh": "宗教改革既是一场宗教变革，也是一场政治变革：国王变得更加富有、权力更大，而教会则被纳入国家行政体系。",
+            "grammar": "第一主句使用 `både … og …` 将 `et religiøst` 和 `et politisk skifte` 并列，两个形容词共同修饰 `skifte`。冒号后列出改革的两个政治后果。`blev rigere og mægtigere` 是 `blive + 比较级` 结构，描述国王地位的变化。`blev en del af` 表示教会逐渐成为国家行政机构的一部分。",
+            "vocabulary": [
+                {
+                    "da": "et skifte",
+                    "zh": "转变；变革；更替",
+                    "note": "`et politisk skifte` 政治转变"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……",
+                    "note": "用于强调两个方面同时成立"
+                },
+                {
+                    "da": "mægtig",
+                    "zh": "强大的；有权势的",
+                    "note": "比较级 `mægtigere`"
+                },
+                {
+                    "da": "en del af",
+                    "zh": "……的一部分",
+                    "note": "`blive en del af` 成为……的一部分"
+                },
+                {
+                    "da": "statens administration",
+                    "zh": "国家行政体系",
+                    "note": "`administration` 可指行政管理或行政机构"
+                }
+            ],
+            "nuance": "作者没有把宗教改革仅仅解释成教义变化，而是强调其政治与财政后果。`både … og …` 在这里非常关键，帮助读者建立多维度的历史理解。冒号后的两项变化分别涉及君权增强和教会与国家关系重组，使抽象的 `politisk skifte` 具体化。",
+            "transfer": [
+                "Reformen var både et økonomisk og et politisk skifte.",
+                "Staten blev rigere og mere magtfuld.",
+                "Institutionen blev en del af den offentlige administration."
+            ],
+            "pitfall": "`et skifte` 是转变，不是普通的学校课程安排。`mægtigere` 来自 `mægtig`，表示权力更大，而不只是体积更大。`blive en del af` 与 `være en del af` 分别强调成为和已经属于的区别。"
+        },
+        {
+            "id": "U20-C017",
+            "zh": "在此前几个世纪里，丹麦最重要的收入来源就是厄勒海峡通行税。",
+            "grammar": "主语 `Danmarks største indtægtskilde i disse århundreder` 是较长的名词短语，`Danmarks` 为所有格，修饰 `indtægtskilde`。`største` 是最高级，强调所有收入来源中最重要的一项。`i disse århundreder` 限定这一判断所属的历史时期。谓语 `var` 后的 `Øresundstolden` 是表语。",
+            "vocabulary": [
+                {
+                    "da": "en indtægtskilde",
+                    "zh": "收入来源；财政收入来源",
+                    "note": "`indtægt` 收入；`kilde` 来源"
+                },
+                {
+                    "da": "den største",
+                    "zh": "最大的；最重要的",
+                    "note": "最高级形式"
+                },
+                {
+                    "da": "en told",
+                    "zh": "关税；通行税",
+                    "note": "在本句中指船舶经过海峡所缴纳的税费"
+                },
+                {
+                    "da": "Øresundstolden",
+                    "zh": "厄勒海峡通行税",
+                    "note": "丹麦历史上的重要财政收入制度"
+                },
+                {
+                    "da": "et århundrede",
+                    "zh": "世纪",
+                    "note": "复数 `århundreder`"
+                }
+            ],
+            "nuance": "本句从宗教改革转向丹麦的国家财政和地理优势。`indtægtskilde` 是一个高度可迁移的经济和政策词汇，适用于政府预算、企业收入和个人财务。`i disse århundreder` 将最主要收入来源这一判断限制在文章讨论的历史时期，而不是声称海峡税在丹麦所有历史阶段始终居首。",
+            "transfer": [
+                "Turismen er en vigtig indtægtskilde for kommunen.",
+                "Statens største indtægtskilde var tolden.",
+                "Handelen skabte betydelige indtægter gennem flere århundreder."
+            ],
+            "pitfall": "`told` 是海关税或相关通行税，不等于英语 told 所表示的告诉过。`indtægt` 是收入，`udgift` 是支出，经济讨论中必须区分。"
+        },
+        {
+            "id": "U20-C018",
+            "zh": "凡是驶入或驶出波罗的海的船只，都必须在赫尔辛格向丹麦国王缴纳通行税。",
+            "grammar": "主语 `Alle skibe` 后接关系从句 `der sejlede ind i eller ud af Østersøen`，限定缴税船舶的范围。`sejlede ind i` 与 `sejlede ud af` 是方向对照结构，共享 `Østersøen`。主句谓语 `skulle betale` 中，`skulle` 是过去时情态动词，表示当时存在的缴税义务。`betale told til nogen` 表示向某方缴税，`ved Helsingør` 指缴税地点。",
+            "vocabulary": [
+                {
+                    "da": "sejle ind i",
+                    "zh": "驶入；航入",
+                    "note": "船舶航行的方向表达"
+                },
+                {
+                    "da": "sejle ud af",
+                    "zh": "驶出；航出",
+                    "note": "与 `sejle ind i` 相对"
+                },
+                {
+                    "da": "betale told",
+                    "zh": "缴纳关税或通行税",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "et skib",
+                    "zh": "船舶",
+                    "note": "复数 `skibe`"
+                },
+                {
+                    "da": "ved Helsingør",
+                    "zh": "在赫尔辛格附近；于赫尔辛格一带",
+                    "note": "此处为厄勒海峡征税地点"
+                }
+            ],
+            "nuance": "这句解释厄勒海峡通行税的基本运行机制。通过 `ind i eller ud af`，作者突出这项收费与进出波罗的海的海运通道有关。`skulle` 表示历史上的制度义务，而非今天仍然需要如此缴税。对于历史制度的简要介绍，`Alle skibe` 是文章采用的概括说法，不需要由此推断所有历史时期均完全不存在特殊豁免。",
+            "transfer": [
+                "Alle skibe, der passerede havnen, skulle registreres.",
+                "Varerne blev transporteret ind i og ud af landet.",
+                "Handelsmændene skulle betale told til kongen."
+            ],
+            "pitfall": "`ind i` 表示进入内部，`ud af` 表示从内部出来，不宜混用。`skulle betale` 在这里是过去的义务，不是表示未来计划。`ved Helsingør` 不等于进入赫尔辛格城内。"
+        },
+        {
+            "id": "U20-C019",
+            "zh": "这项通行税让丹麦变得富裕，但同时也使那些强大的贸易国家产生了共同的利益诉求：不愿让厄勒海峡只受一个国家控制。",
+            "grammar": "前半句两次使用使役结构 `gøre X + 形容词`，第一次是 `gjorde Danmark rigt`，第二次是 `gjorde … handelsnationer interesserede i …`。`interesseret i` 后接 `at` 从句，说明这些国家所关心的局面。`at Øresund ikke blev kontrolleret af ét land alene` 中，`ikke` 位于从句主语之后、限定动词之前，`blev kontrolleret` 是过去时被动结构，`af` 引出控制者。`ét` 强调一个国家，`alene` 进一步强调独占。",
+            "vocabulary": [
+                {
+                    "da": "gøre nogen rig",
+                    "zh": "使某人或某国富裕",
+                    "note": "`gøre + 宾语 + 形容词` 表示造成某种结果"
+                },
+                {
+                    "da": "en handelsnation",
+                    "zh": "贸易国家；商业强国",
+                    "note": "复数 `handelsnationer`"
+                },
+                {
+                    "da": "magtfuld",
+                    "zh": "强大的；有影响力的",
+                    "note": "常修饰国家、组织和人物"
+                },
+                {
+                    "da": "interesseret i",
+                    "zh": "对……有兴趣；希望促成某种局面",
+                    "note": "介词 `i` 固定"
+                },
+                {
+                    "da": "kontrollere",
+                    "zh": "控制；掌握",
+                    "note": "`kontrolleres af` 被……控制"
+                }
+            ],
+            "nuance": "作者指出财政收益与地缘政治压力可能同时产生。海峡税让丹麦受益，却也使其他贸易强国产生限制单一国家控制海运通道的动机。这里的 `interesserede i, at …` 不只是对某件事感兴趣，而是涉及现实的战略利益。句子通过两次 `gjorde` 将同一个政策的两种不同后果并列起来，适合在政治经济分析中模仿。",
+            "transfer": [
+                "Afgiften gjorde staten rigere, men skabte også politiske spændinger.",
+                "De andre lande var interesserede i, at handelsruten forblev åben.",
+                "Ingen enkelt stat bør kontrollere hele markedet alene."
+            ],
+            "pitfall": "`gøre X rig` 是使X富裕，形容词需要与宾语对应。`interesseret i` 在本句表达利益关切，不只是个人爱好。`ét land alene` 突出只有一个国家，不等于所有国家。"
+        },
+        {
+            "id": "U20-C020",
+            "zh": "1658年那个异常寒冷的冬天，瑞典国王率领军队踏过结冰的丹麦海峡，向哥本哈根构成威胁。",
+            "grammar": "句首时间状语 `I den usædvanligt kolde vinter 1658` 包含副词 `usædvanligt` 修饰形容词 `kolde`。随后采用 `førte den svenske konge` 的 V2 倒装。主语后接两个并列过去时谓语 `førte` 和 `truede`。`føre sin hær over noget` 表示率军越过某处。`tilfrosne` 是过去分词作形容词，表示已经结冰的状态。",
+            "vocabulary": [
+                {
+                    "da": "usædvanlig",
+                    "zh": "不寻常的；异常的",
+                    "note": "副词 `usædvanligt` 可加强形容词"
+                },
+                {
+                    "da": "en hær",
+                    "zh": "军队；陆军",
+                    "note": "`føre en hær` 率领军队"
+                },
+                {
+                    "da": "tilfrossen",
+                    "zh": "结冰的；封冻的",
+                    "note": "复数确定式 `tilfrosne`"
+                },
+                {
+                    "da": "et bælt",
+                    "zh": "海峡；狭长水道",
+                    "note": "复数 `bælter`；本句指丹麦海峡水域"
+                },
+                {
+                    "da": "true",
+                    "zh": "威胁",
+                    "note": "`true nogen eller noget` 直接接宾语"
+                }
+            ],
+            "nuance": "这句用一个异常的自然条件解释关键军事行动如何成为可能。`usædvanligt kolde` 强调严寒并非普通背景，而是影响战局的条件。`de tilfrosne bælter` 形成鲜明画面：通常需要船舶跨越的水道，在当时能够被军队通过。最后的 `truede København` 直接指出这一行动的政治军事后果。",
+            "transfer": [
+                "I den usædvanligt kolde vinter frøs søerne til.",
+                "Hæren rykkede frem og truede hovedstaden.",
+                "Kongen førte sine soldater gennem området."
+            ],
+            "pitfall": "`et bælt` 在地理语境中是海峡或狭长水道，不是衣服上的腰带。`true` 是威胁，不能与 `tro` 相信混淆。`tilfrosne` 描述已经结冰的状态，不只是天气寒冷。"
+        },
+        {
+            "id": "U20-C021",
+            "zh": "根据同年签订的《罗斯基勒和约》，丹麦被迫割让斯科讷、哈兰和布莱金厄，也就是今天瑞典南部的一部分地区。",
+            "grammar": "句首介词短语 `Ved freden i Roskilde samme år` 说明领土割让与和约的关系。主句 `måtte Danmark afstå …` 使用过去时情态动词 `måtte`，强调丹麦在当时局势下不得不割让领土。破折号后的 `det, man i dag kalder Sydsverige` 是同位补充说明，其中 `man i dag kalder …` 为省略宾语关系代词的关系从句，解释这些地区今天通常如何归类。",
+            "vocabulary": [
+                {
+                    "da": "en fred",
+                    "zh": "和平；和平条约",
+                    "note": "`freden i Roskilde` 特指罗斯基勒和约"
+                },
+                {
+                    "da": "afstå",
+                    "zh": "割让；放弃权利或领土",
+                    "note": "`afstå – afstod – afstået`；`afstå et område` 割让地区"
+                },
+                {
+                    "da": "måtte",
+                    "zh": "不得不；被迫",
+                    "note": "在这里表示受历史条件限制的必要性"
+                },
+                {
+                    "da": "samme år",
+                    "zh": "同一年",
+                    "note": "回指前文1658年"
+                },
+                {
+                    "da": "Sydsverige",
+                    "zh": "瑞典南部",
+                    "note": "地理区域称谓"
+                }
+            ],
+            "nuance": "这一句以和约为标志，交代前一军事事件的领土后果。`måtte afstå` 比中性的 `afstod` 更强调割让并非自愿。`det, man i dag kalder Sydsverige` 从现代读者熟悉的地理概念出发解释历史地区的位置，帮助读者把17世纪的边界变化与今天的地图联系起来。",
+            "transfer": [
+                "Landet måtte afstå flere områder efter krigen.",
+                "Ved fredsaftalen blev grænsen ændret.",
+                "Området ligger i det, man i dag kalder Sydsverige."
+            ],
+            "pitfall": "`afstå` 在领土语境中是割让，不能简单理解为离开某地。`måtte` 表示被迫或不得不，并非普通的许可。`freden` 在这里指和平条约，不只是没有战争的状态。"
+        },
+        {
+            "id": "U20-C022",
+            "zh": "厄勒海峡几乎一夜之间就变成了国界，而生活在海峡另一边的人们，也随着时间的推移逐渐成为瑞典人。",
+            "grammar": "第一分句 `Øresund blev … en grænse` 使用 `blive + 名词` 表示性质或身份变化。`fra den ene dag til den anden` 是固定时间短语，强调变化突然。第二分句的主语 `de mennesker, der boede på den anden side` 包含关系从句。`blev med tiden svenskere` 使用 `med tiden` 表示渐进过程，`svenskere` 是表示民族或国民身份的复数名词。",
+            "vocabulary": [
+                {
+                    "da": "fra den ene dag til den anden",
+                    "zh": "突然之间；几乎一夜之间",
+                    "note": "固定表达，强调迅速变化"
+                },
+                {
+                    "da": "en grænse",
+                    "zh": "边界；国界",
+                    "note": "`en landegrænse` 陆地边界"
+                },
+                {
+                    "da": "på den anden side",
+                    "zh": "在另一边",
+                    "note": "也可用于抽象对比"
+                },
+                {
+                    "da": "med tiden",
+                    "zh": "随着时间推移；逐渐地",
+                    "note": "强调变化需要时间"
+                },
+                {
+                    "da": "svenskere",
+                    "zh": "瑞典人",
+                    "note": "单数 `en svensker`"
+                }
+            ],
+            "nuance": "作者把突然的政治边界变化与缓慢的身份变化放在同一句中。`fra den ene dag til den anden` 和 `med tiden` 形成鲜明对照：条约能够迅速改变主权归属，但居民身份、语言习惯和社会认同的转变通常需要更长时间。这种时间尺度的对比是本句最值得学习的表达技巧。",
+            "transfer": [
+                "Fra den ene dag til den anden ændrede situationen sig.",
+                "Med tiden blev området en del af et andet land.",
+                "Grænsen ændrede sig hurtigt, men identiteten ændrede sig langsomt."
+            ],
+            "pitfall": "`fra den ene dag til den anden` 是突然之间，不一定严格指24小时内。`med tiden` 不是带着时间，而是随着时间推移。`blive svenskere` 在这里是身份变化，不是指人的身体发生变化。"
+        },
+        {
+            "id": "U20-C023",
+            "zh": "接连不断的战争已经耗空了国库；1660年，丹麦转变为实行君主专制的世袭君主国。",
+            "grammar": "第一分句 `Krigene havde tømt statskassen` 使用过去完成时 `havde tømt`，说明国库耗竭发生在随后1660年的政治转变之前。第二分句以时间状语 `i 1660` 开头，因此采用 `blev Danmark` 的 V2 倒装。`blive et arvekongedømme med enevælde` 使用 `blive + 名词短语` 表示政体变化，`med enevælde` 进一步说明君主权力的制度性质。",
+            "vocabulary": [
+                {
+                    "da": "tømme",
+                    "zh": "清空；耗尽",
+                    "note": "`tømme statskassen` 耗空国库"
+                },
+                {
+                    "da": "en statskasse",
+                    "zh": "国库；国家财政储备",
+                    "note": "`stat` 国家与 `kasse` 金库、箱子构成"
+                },
+                {
+                    "da": "et arvekongedømme",
+                    "zh": "世袭君主国；世袭王权制度",
+                    "note": "`arv` 继承；`kongedømme` 王国或君主制度"
+                },
+                {
+                    "da": "enevælde",
+                    "zh": "君主专制；绝对君主制",
+                    "note": "et enevælde；与权力集中于君主相关"
+                },
+                {
+                    "da": "blive til",
+                    "zh": "转变成；形成",
+                    "note": "本句使用 `blive` 直接接政体名词短语"
+                }
+            ],
+            "nuance": "作者先指出战争造成的财政危机，再介绍1660年的政体转变，将政治制度变化置于经济和军事背景之中。过去完成时与普通过去时的对比清楚呈现事件的先后。`arvekongedømme` 说明王位继承方式，`enevælde` 说明君主权力结构，两者不是完全相同的概念。",
+            "transfer": [
+                "Krigene havde tømt statskassen.",
+                "Efter krisen blev landet et arvekongedømme.",
+                "Den økonomiske situation banede vejen for politiske ændringer."
+            ],
+            "pitfall": "`statskassen` 是国库，不是政府办公楼里的普通箱子。`arvekongedømme` 强调世袭，`enevælde` 强调君主权力集中，两者应分开记忆。`havde tømt` 是过去完成时，体现前一事件已经造成的结果。"
+        },
+        {
+            "id": "U20-C024",
+            "zh": "此时，国王独揽大权：他制定法律、任命官员，并且拥有最终裁决权。",
+            "grammar": "第一分句 `Kongen havde nu magten alene` 使用 `have magten` 表示掌握权力，`alene` 强调独自拥有。冒号后出现三个平行过去时谓语 `gav`、`udnævnte` 和 `var`，具体说明国王的权力。`give lovene` 是历史制度语境中的制定或颁布法律，`udnævne embedsmændene` 表示任命官员。`i sidste instans` 是固定表达，指最终审理或最终决定层级。",
+            "vocabulary": [
+                {
+                    "da": "have magten",
+                    "zh": "掌握权力；执政",
+                    "note": "`magten` 是确定形式"
+                },
+                {
+                    "da": "alene",
+                    "zh": "独自；单独",
+                    "note": "这里强调权力不与其他机构分享"
+                },
+                {
+                    "da": "udnævne",
+                    "zh": "任命；指定担任职位",
+                    "note": "`udnævne nogen til minister` 任命某人为部长"
+                },
+                {
+                    "da": "en embedsmand",
+                    "zh": "公务官员；行政官员",
+                    "note": "复数 `embedsmænd`"
+                },
+                {
+                    "da": "i sidste instans",
+                    "zh": "最终；在最终裁决层面",
+                    "note": "法律、行政和抽象论证中常用"
+                }
+            ],
+            "nuance": "这一句以三个具体职权解释抽象的君主专制制度，使读者理解国王如何集中立法、行政和最终司法权力。`nu` 是叙事时间副词，表示历史发展到此时，而不是今天。`dommer i sidste instans` 不意味着国王亲自审理每一件普通案件，而是突出其作为最高权力者的最终裁决地位。",
+            "transfer": [
+                "Efter reformen havde kongen magten alene.",
+                "Ministeren udnævnte nye embedsmænd.",
+                "I sidste instans ligger ansvaret hos ledelsen."
+            ],
+            "pitfall": "`gav lovene` 在这里是制定或颁布法律，不能简单译为把法律送给某人。`embedsmand` 是官员，复数 `embedsmænd` 属于不规则变化。`i sidste instans` 是最终层面，不是最后一个普通实例。"
+        },
+        {
+            "id": "U20-C025",
+            "zh": "按照一个广为流传的故事，海军英雄托登舍尔德曾让同一小批士兵一遍又一遍地列队经过，以此欺骗敌人。",
+            "grammar": "主干 `Søhelten Tordenskjold narrede fjenden` 表示人物欺骗敌人。`ifølge en kendt historie` 是插入式来源状语，限定信息来自一则著名故事。`ved at lade …` 说明达到目的的手段。`lade nogen + 不带 at 的不定式` 是使役结构，`de samme få soldater` 是执行行进动作的人，`marchere forbi` 是其动作。`igen og igen` 强调不断重复。",
+            "vocabulary": [
+                {
+                    "da": "en søhelt",
+                    "zh": "海军英雄；海上战争英雄",
+                    "note": "`sø` 海与 `helt` 英雄构成"
+                },
+                {
+                    "da": "narre",
+                    "zh": "欺骗；戏弄；智胜",
+                    "note": "`narre fjenden` 欺骗敌人"
+                },
+                {
+                    "da": "ifølge",
+                    "zh": "根据；按照……的说法",
+                    "note": "必须后接消息来源或依据"
+                },
+                {
+                    "da": "lade nogen gøre noget",
+                    "zh": "让某人做某事；使某人采取行动",
+                    "note": "`lade` 后通常直接接不定式，不加 `at`"
+                },
+                {
+                    "da": "igen og igen",
+                    "zh": "一遍又一遍；反复地",
+                    "note": "强调重复发生"
+                }
+            ],
+            "nuance": "`ifølge en kendt historie` 是全句最重要的历史真实性限定。作者讲述的是一则流传的故事，而不是将所有细节作为已经独立证实的史实。重复让同一批士兵经过，意在使敌人误以为兵力更多。这个生动故事为下一句解释现代丹麦语中的文化典故作铺垫。",
+            "transfer": [
+                "Ifølge en kendt historie narrede han fjenden.",
+                "Han lod soldaterne marchere forbi igen og igen.",
+                "Hun løste problemet ved at bruge den samme metode flere gange."
+            ],
+            "pitfall": "`ifølge` 表示根据某个来源，不自动证明内容真实。`lade nogen gøre` 不需要在 `gøre` 前加 `at`。`forbi` 表示经过某处，不等于向前的 `frem`。"
+        },
+        {
+            "id": "U20-C026",
+            "zh": "丹麦语中“托登舍尔德的士兵们”这个说法便源于此，用来形容那些人数不多、却总是出现在各种活动中的热心骨干——无论是社团活动、会议，还是志愿工作，总能见到他们。",
+            "grammar": "句首 `Derfra` 表示来源，因此后面采用 `stammer udtrykket` 的 V2 倒装。`stamme fra` 是说明来源的固定搭配。`om de få ildsjæle` 说明这一表达所指的人群。`der dukker op til alting` 是修饰 `ildsjæle` 的关系从句。破折号后通过 `i foreninger`、`til møder` 和 `ved frivilligt arbejde` 三个介词短语列举这些人经常参与的场合。",
+            "vocabulary": [
+                {
+                    "da": "stamme fra",
+                    "zh": "源于；来自",
+                    "note": "`stammer fra` 用于词语、传统和信息来源"
+                },
+                {
+                    "da": "Tordenskjolds soldater",
+                    "zh": "托登舍尔德的士兵们；到处都是同一批熟面孔",
+                    "note": "丹麦文化典故，常指反复参与各种活动的少数人"
+                },
+                {
+                    "da": "en ildsjæl",
+                    "zh": "热心骨干；充满热情的积极分子",
+                    "note": "复数 `ildsjæle`；带有积极评价"
+                },
+                {
+                    "da": "dukke op",
+                    "zh": "出现；到场",
+                    "note": "`dukke op til et møde` 出席会议"
+                },
+                {
+                    "da": "frivilligt arbejde",
+                    "zh": "志愿工作",
+                    "note": "常用于社团和公益活动"
+                }
+            ],
+            "nuance": "这是整篇文章中最有文化迁移价值的一句。`Tordenskjolds soldater` 在现代丹麦语中通常不再指真正的历史士兵，而是形容各种会议、社团和活动中总能见到的那几个熟面孔。语气可以带一点打趣，暗示参与者总是同一小群人；同时也可以表达对这些热心骨干的认可。`ildsjæle` 尤其具有积极色彩，强调他们的热情与投入。",
+            "transfer": [
+                "Det er altid de samme mennesker, der dukker op til møderne.",
+                "Foreningen er afhængig af nogle få ildsjæle.",
+                "Vi er efterhånden blevet lidt af Tordenskjolds soldater."
+            ],
+            "pitfall": "`Tordenskjolds soldater` 是文化典故，不能只按字面理解为某位将军的真实部队。`ildsjæl` 字面包含火与灵魂，但实际表示热情投入的人。`dukke op` 是出现或到场，与正式参加的 `deltage i` 侧重点不同。"
+        },
+        {
+            "id": "U20-C027",
+            "zh": "要回答丹麦为什么最终变得这么小，就必须看到它历史上接连失去领土的一系列事件。",
+            "grammar": "主语是较长的名词短语 `Svaret på spørgsmålet om, hvorfor Danmark blev så lille`，核心为 `Svaret`。`på spørgsmålet` 说明答案针对的问题，`om, hvorfor …` 进一步引出问题内容。`hvorfor Danmark blev så lille` 是间接疑问从句，采用陈述式语序。表语 `en kæde af tab` 是比喻性名词短语，表示多个损失事件相互连接。",
+            "vocabulary": [
+                {
+                    "da": "svaret på spørgsmålet",
+                    "zh": "这个问题的答案",
+                    "note": "`svar på` 是固定介词搭配"
+                },
+                {
+                    "da": "spørgsmålet om, hvorfor",
+                    "zh": "关于为什么……的问题",
+                    "note": "可引出复杂研究问题"
+                },
+                {
+                    "da": "en kæde af",
+                    "zh": "一连串；一系列",
+                    "note": "原义为链条，这里是历史因果与事件序列的比喻"
+                },
+                {
+                    "da": "et tab",
+                    "zh": "损失；丧失",
+                    "note": "复数 `tab`；可指领土、经济或人员损失"
+                }
+            ],
+            "nuance": "作者在最后一章重新回答开头提出的问题，并以 `en kæde af tab` 将此前的历史事件概括为一个清楚的叙事框架。这种表达并不意味着所有领土损失都有相同原因，而是强调它们合在一起解释了国家疆域的缩减。句式 `Svaret på spørgsmålet om, hvorfor …` 很适合用于学术写作中的问题陈述与总结。",
+            "transfer": [
+                "Svaret på spørgsmålet om, hvorfor projektet mislykkedes, er komplekst.",
+                "Udviklingen skyldes en kæde af historiske begivenheder.",
+                "For at forstå resultatet må man se på flere tab over tid."
+            ],
+            "pitfall": "`svar på` 是回答某个问题，不能直接套用汉语使用 `til`。`om` 在这里引出问题内容，而 `hvorfor` 才表示为什么。`en kæde af tab` 是一系列损失，不是实物链条。"
+        },
+        {
+            "id": "U20-C028",
+            "zh": "1523年，瑞典退出联盟；1658年，丹麦失去了斯科讷；1814年，又失去了挪威；1864年，石勒苏益格和荷尔斯泰因两个公国也相继丧失。",
+            "grammar": "这一句是高度压缩的历史事件列表。第一个分句完整使用 `Sverige forlod unionen`，第二个分句 `Skåne gik tabt` 使用固定搭配 `gå tabt`。后面的 `Norge i 1814` 和 `hertugdømmerne Slesvig og Holsten i 1864` 省略重复的谓语 `gik tabt`，通过平行结构列出不同年份的损失。理解时需要恢复省略成分，但不应因此认为各次领土变化具有完全相同的政治机制。",
+            "vocabulary": [
+                {
+                    "da": "forlade en union",
+                    "zh": "退出联盟",
+                    "note": "`forlade` 直接接宾语"
+                },
+                {
+                    "da": "gå tabt",
+                    "zh": "失去；丧失；遗失",
+                    "note": "`gå – gik – gået`；常见于领土、机会和信息"
+                },
+                {
+                    "da": "et hertugdømme",
+                    "zh": "公国；公爵领地",
+                    "note": "复数 `hertugdømmer`"
+                },
+                {
+                    "da": "Slesvig",
+                    "zh": "石勒苏益格",
+                    "note": "历史地区名称"
+                },
+                {
+                    "da": "Holsten",
+                    "zh": "荷尔斯泰因",
+                    "note": "历史地区名称"
+                }
+            ],
+            "nuance": "作者用四组年份和事件，把长达数百年的疆域变化浓缩在一句话里，形成强烈的历史纵深感。`gik tabt` 是从丹麦历史叙事立场出发的概括，表示失去某个地区。瑞典退出联盟、挪威的分离以及19世纪公国问题的历史背景并不相同，作者在下一句也明确指出每次损失各有原因。",
+            "transfer": [
+                "Landet mistede flere områder i løbet af 1800-tallet.",
+                "En vigtig mulighed gik tabt under forhandlingerne.",
+                "Unionen blev opløst, og flere områder gik tabt."
+            ],
+            "pitfall": "`gå tabt` 是失去、丧失，不能理解为走向损失的地方。`hertugdømme` 是历史政治实体名称，不等于现代行政意义上的普通省份。后半句省略谓语是书面列表的凝练手法，日常叙述可恢复完整动词。"
+        },
+        {
+            "id": "U20-C029",
+            "zh": "每一次领土损失都有各自不同的原因，但这些事件共同作用，最终使一个横跨北欧的王国转变成了一个小国。",
+            "grammar": "第一分句 `Hvert tab havde sine egne årsager` 中，`hvert` 修饰中性单数名词 `tab`，表示每一次损失。`sine egne` 是反身物主结构，回指主语 `hvert tab`，强调每次事件有自身的原因。第二分句 `tilsammen forvandlede de et nordeuropæisk rige til en lille stat` 以方式副词 `tilsammen` 开头，因此采用 `forvandlede de` 的 V2 倒装。`forvandle X til Y` 表示将X转变为Y；`de` 回指前面列举的多次领土损失或事件。",
+            "vocabulary": [
+                {
+                    "da": "hver",
+                    "zh": "每个；每一",
+                    "note": "修饰中性单数名词时用 `hvert`"
+                },
+                {
+                    "da": "sine egne årsager",
+                    "zh": "各自的原因",
+                    "note": "反身物主代词与强调词 `egne` 搭配"
+                },
+                {
+                    "da": "tilsammen",
+                    "zh": "合在一起；共同作用",
+                    "note": "总结多个因素的综合影响"
+                },
+                {
+                    "da": "forvandle noget til noget",
+                    "zh": "将某物转变为另一种状态",
+                    "note": "固定搭配，介词为 `til`"
+                },
+                {
+                    "da": "et nordeuropæisk rige",
+                    "zh": "一个北欧地区的王国；一个北欧强国",
+                    "note": "`rige` 强调王国或统治疆域"
+                }
+            ],
+            "nuance": "最后一句在历史因果关系上作出重要区分：各次损失的具体原因不同，但其长期累计结果改变了丹麦的国家规模。`Hvert tab … men tilsammen …` 是非常成熟的分析句型，既避免把复杂历史简化为单一原因，又清楚指出多个事件的共同效果。`rige` 与 `stat` 的对照也强化了从较大王国到较小现代国家的历史叙事。整篇由耶灵石碑上的国家形成故事开始，以疆域缩小作结，形成首尾呼应。",
+            "transfer": [
+                "Hver beslutning havde sine egne årsager, men tilsammen ændrede de hele organisationen.",
+                "Flere faktorer forvandlede samfundet til en moderne industristat.",
+                "Begivenhederne havde forskellige årsager, men førte tilsammen til det samme resultat."
+            ],
+            "pitfall": "`tilsammen` 强调共同作用，不等于所有事件的原因相同。`forvandle X til Y` 中的 `til` 不可省略。`hvert tab` 是中性单数，不能写成 `hver tab`；`sine egne` 回指主语，而非其他事件的原因。"
+        }
+    ]
+}

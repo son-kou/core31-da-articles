@@ -1,0 +1,1874 @@
+{
+    "schema_version": 1,
+    "unit": "U24",
+    "part": "ALL",
+    "source_fingerprint": "U24-ALL-facf3fd3a4f3",
+    "sentences": [
+        {
+            "id": "U24-C001",
+            "zh": "星期二早上八点半，地区报社的记者劳拉在编辑部接到了一通电话。",
+            "grammar": "`Tirsdag morgen klokken halv ni` 是置于句首的时间状语，因此限定动词 `får` 紧随其后，主语 `journalisten Laura` 后移，符合 V2 语序。`få et opkald` 表示接到电话。`på redaktionen af en regional avis` 交代地点及其所属机构。",
+            "vocabulary": [
+                {
+                    "da": "halv ni",
+                    "zh": "八点半",
+                    "note": "丹麦语 `halv + 下一个整点` 表示距离下一个整点还有半小时"
+                },
+                {
+                    "da": "få et opkald",
+                    "zh": "接到电话",
+                    "note": "`et opkald` 一通来电；也可说 `modtage et opkald`"
+                },
+                {
+                    "da": "en redaktion",
+                    "zh": "编辑部；新闻编辑室"
+                },
+                {
+                    "da": "en regional avis",
+                    "zh": "地区性报纸",
+                    "note": "区别于全国性报纸 `en landsdækkende avis`"
+                }
+            ],
+            "nuance": "作者以精确的星期、时间和工作场所开篇，采用典型的新闻叙事手法：先建立可信而具体的日常场景，再引出事件。`får et opkald` 暗示新闻线索来自外部，而不是记者主动从公开发布的信息中发现。",
+            "transfer": [
+                "Tirsdag morgen klokken halv ni fik jeg et opkald.",
+                "Journalisten arbejder på en regional avis.",
+                "Der kom et opkald til redaktionen."
+            ],
+            "pitfall": "`halv ni` 是8:30，不是9:30。`på redaktionen` 通常表示在编辑部工作场所，不能因为中文是在里面就机械改成 `i redaktionen`。"
+        },
+        {
+            "id": "U24-C002",
+            "zh": "一名家长透露，市政府计划关闭一所拥有140名学生的乡村学校，而家长们要等到两周后的一场会议上才会得知此事。",
+            "grammar": "主句骨架是 `En forælder fortæller`，后接两个由 `og` 连接的 `at` 宾语从句：第一个交代关校计划，第二个交代家长获知信息的时间。`have planer om at + 不定式` 表示计划做某事。`først` 在第二个从句中表示直到那时才，突出消息告知的延迟。`om to uger` 表示从现在起两周后。",
+            "vocabulary": [
+                {
+                    "da": "have planer om at",
+                    "zh": "计划；打算做某事",
+                    "note": "固定搭配，不能省略 `om`"
+                },
+                {
+                    "da": "lukke en skole",
+                    "zh": "关闭学校；撤销学校"
+                },
+                {
+                    "da": "en landsbyskole",
+                    "zh": "乡村学校；村镇学校",
+                    "note": "`en landsby` 村庄 + `en skole` 学校"
+                },
+                {
+                    "da": "først",
+                    "zh": "直到……才；首先",
+                    "note": "此处表示时间比预期晚"
+                },
+                {
+                    "da": "om to uger",
+                    "zh": "两周后",
+                    "note": "区别于 `i to uger` 持续两周"
+                }
+            ],
+            "nuance": "新闻价值不仅在于学校可能关闭，更在于政府已经讨论重大决定，而直接受影响的家长尚未收到信息。`har planer om` 谨慎地表示计划，并不等于已经正式决定。`først` 是制造新闻张力的关键词，暗示信息透明度和公众参与的问题。",
+            "transfer": [
+                "Kommunen har planer om at lukke skolen.",
+                "Borgerne får først besked om to uger.",
+                "En forælder fortæller, at der er planer om ændringer."
+            ],
+            "pitfall": "`have planer om at` 与 `planlægge at` 都表示计划。`om to uger` 是两周后，`for to uger siden` 是两周前。`først` 在这里不能简单译成首先。"
+        },
+        {
+            "id": "U24-C003",
+            "zh": "劳拉记下了来电者的姓名，道了谢，随即开始调查。",
+            "grammar": "三个并列的现在时谓语 `noterer`、`takker` 和 `går` 共用主语 Laura。`gå i gang` 是动词与介词短语构成的固定表达，表示着手开始。`straks` 修饰动作，强调不拖延。",
+            "vocabulary": [
+                {
+                    "da": "notere",
+                    "zh": "记下；记录",
+                    "note": "较 `skrive` 更强调记录信息"
+                },
+                {
+                    "da": "takke",
+                    "zh": "感谢；道谢"
+                },
+                {
+                    "da": "gå i gang",
+                    "zh": "开始动手；着手行动",
+                    "note": "`gå i gang med noget` 开始做某事"
+                },
+                {
+                    "da": "straks",
+                    "zh": "立即；马上",
+                    "note": "比一般的 `snart` 更强调即时性"
+                }
+            ],
+            "nuance": "连续三个短动作展现职业记者收到线索后的基本反应：记录来源、礼貌结束联系、立即核查。作者没有让劳拉直接发布消息，而是突出调查过程，这为后文的新闻核实原则作铺垫。",
+            "transfer": [
+                "Jeg noterer lige dit navn.",
+                "Vi går straks i gang med undersøgelsen.",
+                "Hun takkede for oplysningerne og gik i gang."
+            ],
+            "pitfall": "`gå i gang` 不是走进走廊，而是开始行动。`straks` 是立即，`snart` 则是很快、不久之后，两者不完全相同。"
+        },
+        {
+            "id": "U24-C004",
+            "zh": "她打电话给学校董事会主席，对方证实了这一传闻，却不愿意在报道中被直接引用。",
+            "grammar": "`ringer til` 是联系某人的固定搭配。`som bekræfter rygtet, men ikke vil citeres` 是修饰主席的关系从句，其中两个谓语共用主语 `som`。`vil` 表示意愿，`citeres` 是 s-被动，表示其言论被引用。",
+            "vocabulary": [
+                {
+                    "da": "en bestyrelsesformand",
+                    "zh": "董事会主席；理事会主席",
+                    "note": "学校语境中指相关管理或治理机构的主席"
+                },
+                {
+                    "da": "bekræfte",
+                    "zh": "证实；确认"
+                },
+                {
+                    "da": "et rygte",
+                    "zh": "传闻；未经正式确认的消息",
+                    "note": "复数 `rygter`"
+                },
+                {
+                    "da": "citere",
+                    "zh": "引用；引述",
+                    "note": "`blive citeret` 或 `citeres` 表示被引用"
+                }
+            ],
+            "nuance": "主席的确认让最初的匿名来电获得第二个信息来源，但对方不愿意被公开引用，意味着记者仍需要寻找可公开使用的证据。`bekræfte` 不等于允许记者披露其身份或逐字引述。新闻实践中，信息能否使用、如何署名及是否公开引用，需要分别处理。",
+            "transfer": [
+                "Formanden bekræftede oplysningerne.",
+                "Kilden ønsker ikke at blive citeret.",
+                "Jeg har talt med en person, som bekræfter rygtet."
+            ],
+            "pitfall": "`bekræfte` 是证实，`afkræfte` 是否认或驳斥。`vil ikke citeres` 表示不愿被引用，不等于这位消息来源否认消息内容。"
+        },
+        {
+            "id": "U24-C005",
+            "zh": "她申请查阅市政府的相关文件，并在一份预算草案中发现，关闭学校已经被列为一项节省开支的措施。",
+            "grammar": "`søger om aktindsigt i` 是正式行政法律搭配，表示申请查阅政府文件。第二主句的主语 `et udkast til budgettet` 是书面证据，谓语 `viser` 后接 `at` 宾语从句。`lukningen allerede står som en besparelse` 中 `stå som` 表示在文件中被列为某个项目或类别。",
+            "vocabulary": [
+                {
+                    "da": "søge om aktindsigt",
+                    "zh": "申请政府信息公开；申请查阅官方文件",
+                    "note": "`aktindsigt i dokumenter` 查阅有关文件"
+                },
+                {
+                    "da": "et udkast",
+                    "zh": "草案；初稿",
+                    "note": "`et udkast til budgettet` 预算草案"
+                },
+                {
+                    "da": "en besparelse",
+                    "zh": "节省开支；削减支出",
+                    "note": "公共预算中常指削减财政支出的措施"
+                },
+                {
+                    "da": "stå som",
+                    "zh": "被列为；以……形式出现"
+                },
+                {
+                    "da": "en lukning",
+                    "zh": "关闭；停办",
+                    "note": "动词 `lukke` 的名词形式"
+                }
+            ],
+            "nuance": "这一句体现调查报道从消息来源走向书面证据的关键步骤。`allerede` 强调关校措施已经出现在正式的工作文件中，而非仅停留在传闻阶段。然而 `udkast` 同样重要：预算草案不是最终批准的预算，不能据此断言学校已经确定关闭。",
+            "transfer": [
+                "Journalisten har søgt om aktindsigt i sagen.",
+                "Det fremgår af et udkast til budgettet.",
+                "Forslaget står som en besparelse i budgettet."
+            ],
+            "pitfall": "`aktindsigt` 是查阅公共行政文件的权利或程序，不是一般的观察行为。`udkast` 与 `endelig beslutning` 必须区分。`søge om` 表示申请，不等于已经获批。"
+        },
+        {
+            "id": "U24-C006",
+            "zh": "上午十一点，编辑部召开选题会议。",
+            "grammar": "`Klokken elleve` 作句首时间状语，随后采用 `er der` 存在结构，介绍一项正在举行的活动。`redaktionsmøde` 是复合名词，指编辑部内部的工作会议。",
+            "vocabulary": [
+                {
+                    "da": "et redaktionsmøde",
+                    "zh": "编辑部会议；新闻选题会",
+                    "note": "`redaktion` 编辑部 + `møde` 会议"
+                },
+                {
+                    "da": "der er møde",
+                    "zh": "有会议；正在开会"
+                }
+            ],
+            "nuance": "时间从早上八点半推进到十一点，展示新闻线索在数小时内进入集体编辑决策的过程。句子采用简洁的新闻叙事风格。",
+            "transfer": [
+                "Klokken elleve er der møde.",
+                "Vi har redaktionsmøde hver tirsdag.",
+                "Der er møde på redaktionen."
+            ],
+            "pitfall": "`redaktionsmøde` 指编辑工作会议，不要与企业的一般员工大会或出版发行会议混为一谈。"
+        },
+        {
+            "id": "U24-C007",
+            "zh": "编辑：你手上有什么新闻线索？",
+            "grammar": "`Hvad har du?` 是非常简短的疑问句。在编辑部语境中省略了 `af historier eller oplysninger` 一类的内容，询问记者目前掌握了什么新闻素材。",
+            "vocabulary": [
+                {
+                    "da": "hvad har du?",
+                    "zh": "你有什么？你掌握了什么？",
+                    "note": "具体对象取决于场景"
+                }
+            ],
+            "nuance": "编辑不是询问劳拉随身携带的东西，而是在选题会上要求她汇报已经核实的新闻线索。语气直接、高效，适合同事之间的工作交流。",
+            "transfer": [
+                "Hvad har du af historier?",
+                "Har du noget interessant til mødet?",
+                "Hvilke oplysninger har du?"
+            ],
+            "pitfall": "`have` 在这里表示掌握信息，不应简单译为拥有某件物品。"
+        },
+        {
+            "id": "U24-C008",
+            "zh": "劳拉：市政府打算关闭新拉文斯特鲁普的学校。我拿到的一份预算草案里就写着这项计划。",
+            "grammar": "第一句 `Kommunen vil lukke` 中 `vil` 表示意图或计划，不是已经实施的事实。第二句采用 `Det fremgår af ...`，表示信息可以从某个文件中看出。`jeg har fået aktindsigt i` 是省略宾语关系代词的关系从句，修饰 `et budgetudkast`；介词 `i` 留在从句末尾。",
+            "vocabulary": [
+                {
+                    "da": "fremgå af",
+                    "zh": "从……可以看出；……显示",
+                    "note": "正式新闻和行政写作中非常常见"
+                },
+                {
+                    "da": "et budgetudkast",
+                    "zh": "预算草案"
+                },
+                {
+                    "da": "få aktindsigt i",
+                    "zh": "获准查阅；获得官方文件查阅权限"
+                },
+                {
+                    "da": "ville lukke",
+                    "zh": "打算关闭",
+                    "note": "原文 `vil lukke` 表示当前计划或意图"
+                }
+            ],
+            "nuance": "劳拉先概述新闻事实，再立即说明证据来源，体现专业报道的基本表达方式。`Det fremgår af` 比 `Jeg tror` 更具证据导向，但 `budgetudkast` 仍说明这是预算草案中的安排，尚不等于正式关校决定。",
+            "transfer": [
+                "Det fremgår af dokumentet, at ...",
+                "Jeg har fået aktindsigt i budgetudkastet.",
+                "Kommunen har planer om at lukke skolen."
+            ],
+            "pitfall": "`fremgå af` 是固定搭配，不能误写成 `fremgå fra`。关系从句末尾的 `i` 不可漏掉。`vil` 在这里不等于未来必然发生。"
+        },
+        {
+            "id": "U24-C009",
+            "zh": "编辑：你联系过市政府了吗？",
+            "grammar": "`Har du talt med ...?` 是现在完成时的一般疑问句：助动词 `Har` 前置，主语 `du` 随后，过去分词 `talt` 放在后面。`tale med` 表示与某方交谈或取得联系。",
+            "vocabulary": [
+                {
+                    "da": "tale med nogen",
+                    "zh": "与某人交谈；联系某人",
+                    "note": "介词 `med`"
+                }
+            ],
+            "nuance": "编辑在意的并不是记者是否知道市政府的电话号码，而是报道对象有没有机会回应。这是新闻核实和给予被报道方回应机会的重要程序。",
+            "transfer": [
+                "Har du talt med borgmesteren?",
+                "Har du kontaktet kommunen?",
+                "Jeg har endnu ikke talt med dem."
+            ],
+            "pitfall": "`tale med` 强调双方交谈，`tale om` 表示谈论某个话题。"
+        },
+        {
+            "id": "U24-C010",
+            "zh": "劳拉：我给市长留了言。他还没有回电话。",
+            "grammar": "`har lagt en besked` 使用现在完成时，强调留言已经留下。`har ikke ringet tilbage endnu` 也是现在完成时，`ikke ... endnu` 表示截至当前尚未完成，但仍可能发生。`ringe tilbage` 是带方向小品词的固定表达。",
+            "vocabulary": [
+                {
+                    "da": "lægge en besked",
+                    "zh": "留言；留下口信"
+                },
+                {
+                    "da": "en borgmester",
+                    "zh": "市长；市镇行政首长"
+                },
+                {
+                    "da": "ringe tilbage",
+                    "zh": "回电话"
+                },
+                {
+                    "da": "ikke ... endnu",
+                    "zh": "还没有……",
+                    "note": "暗示将来仍有可能发生"
+                }
+            ],
+            "nuance": "劳拉已经尝试联系，但并未获得市政府正式回应。`endnu` 让表达保持开放，不等于市长拒绝回应。报道中的未回复与拒绝评论应当严格区分。",
+            "transfer": [
+                "Jeg har lagt en besked til borgmesteren.",
+                "Han har ikke ringet tilbage endnu.",
+                "Kan du bede ham om at ringe tilbage?"
+            ],
+            "pitfall": "`ringe tilbage` 是回电话，不能只使用 `tilbage` 而省略动词。`ikke endnu` 不等于永远不会。"
+        },
+        {
+            "id": "U24-C011",
+            "zh": "编辑：那我们先暂缓刊发，等他们有机会对此作出回应后再说。",
+            "grammar": "`Så` 表示依据前述情况作出决定，句首后接 `venter vi`，体现 V2。`vente med at + 不定式` 表示暂缓做某事。`til de har haft mulighed for at ...` 是时间从句，使用现在完成时表示在发表之前，对方已经获得回应机会。`kommentere på` 是固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "vente med at",
+                    "zh": "暂缓做某事；稍后再做"
+                },
+                {
+                    "da": "trykke",
+                    "zh": "印刷；刊发",
+                    "note": "新闻语境可指将稿件正式发表"
+                },
+                {
+                    "da": "have mulighed for at",
+                    "zh": "有机会做某事"
+                },
+                {
+                    "da": "kommentere på",
+                    "zh": "评论；对……作出回应"
+                }
+            ],
+            "nuance": "编辑强调的是给予被报道方合理回应机会，而不是让市政府拥有新闻的批准权。`har haft mulighed` 不要求市政府一定回复，只要求报道前给予其适当机会。这样的区别对理解新闻独立性非常重要。",
+            "transfer": [
+                "Vi venter med at offentliggøre historien.",
+                "De skal have mulighed for at kommentere på kritikken.",
+                "Vi venter, til vi har fået svar."
+            ],
+            "pitfall": "`vente med at` 是推迟行动，`vente på` 是等待某人或某物。`kommentere på` 不应误写为 `kommentere til`。"
+        },
+        {
+            "id": "U24-C012",
+            "zh": "劳拉：那如果他们一直不回复呢？",
+            "grammar": "`Og hvis de ikke svarer?` 是口语中独立使用的条件从句，省略了主句，完整语义为如果他们不回复，我们该怎么办。`Og` 承接前面的编辑决定。",
+            "vocabulary": [
+                {
+                    "da": "hvis ... ikke svarer",
+                    "zh": "如果……不回复"
+                }
+            ],
+            "nuance": "劳拉提出实践中的关键难题：给予回应机会不能演变成让被报道对象无限期拖延新闻发布。简短的省略问句在职场讨论中很自然。",
+            "transfer": [
+                "Hvad gør vi, hvis de ikke svarer?",
+                "Og hvis planen ændrer sig?",
+                "Hvis vi ikke får svar, må vi gå videre."
+            ],
+            "pitfall": "这里虽然只有一个 `hvis` 从句，却可在口语中独立构成完整的交际行为。不要误认为所有这种省略问句都必须补出主句才能自然。"
+        },
+        {
+            "id": "U24-C013",
+            "zh": "编辑：那我们就在报道中说明已经尝试联系过他们。你准备从什么角度切入这条新闻？",
+            "grammar": "`Så skriver vi` 中 `Så` 引出假设条件下的处理方式，限定动词紧随其后。`at vi har forsøgt` 是宾语从句，省略的具体行动根据上下文是联系市政府并请求回应。`Hvad er vinklen?` 中 `vinklen` 是新闻专业术语。",
+            "vocabulary": [
+                {
+                    "da": "forsøge",
+                    "zh": "尝试；努力做某事",
+                    "note": "`forsøge at + 不定式`"
+                },
+                {
+                    "da": "en vinkel",
+                    "zh": "角度；新闻切入点",
+                    "note": "新闻工作中指报道的核心视角或重点"
+                },
+                {
+                    "da": "skrive, at ...",
+                    "zh": "在报道中写明……"
+                }
+            ],
+            "nuance": "编辑说明了专业而可执行的处理方式：若被报道方不回复，报道可以如实说明曾尝试取得回应。随后询问 `vinklen`，把讨论从证据与程序推进到新闻叙事的重点选择。",
+            "transfer": [
+                "Vi skriver, at vi har forsøgt at kontakte kommunen.",
+                "Hvad er vinklen på historien?",
+                "Artiklen har en tydelig politisk vinkel."
+            ],
+            "pitfall": "`vinkel` 的字面意思是角度，但这里并非几何角度，而是新闻选题切入点。`har forsøgt` 不能被夸大为已经取得联系。"
+        },
+        {
+            "id": "U24-C014",
+            "zh": "劳拉：重点是，市政府手里已经有一份存在了一个月、明确涉及此事的文件，家长们却一直没有被告知。",
+            "grammar": "这是承接上一句提问的省略回答，以 `At` 引出的内容从句直接说明新闻角度。`ikke er blevet informeret om` 使用现在完成时的 `blive` 被动态，突出家长至今没有被告知。`noget, der står i et dokument` 包含关系从句；`kommunen har haft i en måned` 是省略宾语关系代词的第二个关系从句，修饰文件。",
+            "vocabulary": [
+                {
+                    "da": "blive informeret om",
+                    "zh": "被告知；获知某事",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "stå i et dokument",
+                    "zh": "写在文件里；载于文件中"
+                },
+                {
+                    "da": "i en måned",
+                    "zh": "长达一个月",
+                    "note": "表示持续时间"
+                }
+            ],
+            "nuance": "劳拉没有把报道重点放在关校已成定局，而是放在信息透明度：行政部门已经持有相关文件一段时间，受影响家庭却尚未得到通知。这是更有根据、也更难被简单否认的新闻角度。",
+            "transfer": [
+                "Forældrene er ikke blevet informeret om forslaget.",
+                "Det står i et dokument, som kommunen har haft længe.",
+                "Historien handler om manglende information til borgerne."
+            ],
+            "pitfall": "`i en måned` 表示持续一个月，不能与 `for en måned siden` 一个月前混淆。`er blevet informeret` 是被告知，`har informeret` 是主动告知。"
+        },
+        {
+            "id": "U24-C015",
+            "zh": "编辑：好。找一位愿意公开姓名、站出来接受采访的家长，再找一位学校布局方面的专家，帮助读者把这件事放到更广泛的背景中理解。",
+            "grammar": "`Find` 是命令式，后接两个并列的寻找对象。`der vil stå frem med navn` 是修饰家长的关系从句，`vil` 表示自愿。第二个关系从句 `der kan sætte det i perspektiv` 修饰专家。`sætte noget i perspektiv` 是固定表达，表示提供背景与分析框架。",
+            "vocabulary": [
+                {
+                    "da": "stå frem",
+                    "zh": "公开站出来；主动现身",
+                    "note": "`stå frem med navn` 公开具名"
+                },
+                {
+                    "da": "en ekspert i",
+                    "zh": "某领域的专家",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "skolestruktur",
+                    "zh": "学校布局；学校组织结构"
+                },
+                {
+                    "da": "sætte noget i perspektiv",
+                    "zh": "将某事放入更广泛背景加以理解",
+                    "note": "分析、研究和新闻写作中的重要搭配"
+                }
+            ],
+            "nuance": "编辑要求补充两类不同证据：能够具名陈述亲身经历的家长，以及能够提供专业分析的专家。这体现新闻报道既需要具体人物，也需要结构性背景。`stå frem med navn` 表示公开身份，不是仅向记者私下提供姓名。",
+            "transfer": [
+                "Vi søger en ekspert, der kan sætte sagen i perspektiv.",
+                "Kilden ønsker at stå frem med navn.",
+                "Find en person, der kan forklare konsekvenserne."
+            ],
+            "pitfall": "`stå frem` 不是简单向前站一步，而是公开现身或表明身份。`sætte i perspektiv` 不只是表达个人观点，而是提供更全面的背景与尺度。"
+        },
+        {
+            "id": "U24-C016",
+            "zh": "下午三点，市长回了电话，表示关于关校一事目前还没有作出任何决定。",
+            "grammar": "`Klokken tre` 是句首时间状语，后接 `ringer borgmesteren tilbage` 的 V2 语序。`siger, at ...` 后接宾语从句。`der endnu ikke er truffet nogen beslutning` 使用现在完成时的被动结果结构，`truffet` 来自固定搭配 `træffe en beslutning`。`endnu ikke` 表示截至目前尚未。",
+            "vocabulary": [
+                {
+                    "da": "ringe tilbage",
+                    "zh": "回电话"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定",
+                    "note": "`træffe – traf – truffet`"
+                },
+                {
+                    "da": "endnu ikke",
+                    "zh": "尚未；还没有"
+                },
+                {
+                    "da": "nogen beslutning",
+                    "zh": "任何决定",
+                    "note": "在否定语境中表示不存在相关决定"
+                }
+            ],
+            "nuance": "市长的表述经过精心限定：没有作出正式决定，并不等于没有研究关校方案，更不等于保证学校不会关闭。新闻报道必须准确呈现这种区别。直接引语中的措辞具有证据意义，不能随意改写为政府否认关校计划。",
+            "transfer": [
+                "Der er endnu ikke truffet nogen beslutning.",
+                "Borgmesteren ringede tilbage klokken tre.",
+                "Kommunen har endnu ikke taget endelig stilling."
+            ],
+            "pitfall": "`træffe en beslutning` 是作出决定，不是遇见一个决定。`endnu ikke` 留有将来可能变化的空间，不能等同于永远不会。"
+        },
+        {
+            "id": "U24-C017",
+            "zh": "第二天早上，这条新闻登上了报纸头版，标题是：市政府拟关闭学校，家长却毫不知情。",
+            "grammar": "`Næste morgen` 置于句首，后接 `ligger historien` 的 V2 语序。`ligge på forsiden` 在新闻语境中表示报道刊登在头版。冒号后是新闻标题，使用高度压缩的新闻标题句式，将政府计划与家长不知情并列。",
+            "vocabulary": [
+                {
+                    "da": "næste morgen",
+                    "zh": "第二天早上"
+                },
+                {
+                    "da": "ligge på forsiden",
+                    "zh": "刊登在头版；登上头版"
+                },
+                {
+                    "da": "en forside",
+                    "zh": "封面；报纸头版"
+                },
+                {
+                    "da": "vide intet",
+                    "zh": "一无所知；完全不知道",
+                    "note": "标题中简洁有力的否定表达"
+                }
+            ],
+            "nuance": "标题运用对照形成冲突感：行政部门已经规划，家长却不知道。`planlægger` 保留了计划阶段的准确性，没有写成已经关闭学校。新闻标题的短促措辞服务于吸引注意，但仍必须尊重事实与证据。",
+            "transfer": [
+                "Historien kom på forsiden næste morgen.",
+                "Avisen bragte historien på forsiden.",
+                "Forældrene ved endnu ikke noget om planen."
+            ],
+            "pitfall": "`ligge på forsiden` 不表示一张实体纸平躺在封面上，而是新闻刊登位置。`planlægge` 与 `beslutte` 不能混淆。"
+        },
+        {
+            "id": "U24-C018",
+            "zh": "新闻专业的学生会学习一系列新闻价值判断标准，记者用这些标准来评估一件事是否值得报道。",
+            "grammar": "`Journalister lærer ... en række nyhedskriterier` 是主句。`som bruges til at vurdere` 是关系从句，其中 `bruges` 为 s-被动，说明标准的用途。`om noget er en historie` 是间接的是非疑问从句，询问某事是否具有新闻报道价值。",
+            "vocabulary": [
+                {
+                    "da": "et nyhedskriterium",
+                    "zh": "新闻价值判断标准",
+                    "note": "复数 `nyhedskriterier`"
+                },
+                {
+                    "da": "en række",
+                    "zh": "一系列；若干",
+                    "note": "常用于正式书面语"
+                },
+                {
+                    "da": "vurdere",
+                    "zh": "评估；判断",
+                    "note": "`vurdere, om ...` 评估是否……"
+                },
+                {
+                    "da": "en historie",
+                    "zh": "新闻报道；新闻选题",
+                    "note": "新闻语境不一定指虚构故事"
+                }
+            ],
+            "nuance": "这一句从具体故事转向新闻专业知识。`historie` 在新闻行业并非小说或编造的故事，而是值得形成一篇报道的事件或议题。作者采用教学式说明，解释为何普通的学校预算文件可能成为新闻。",
+            "transfer": [
+                "Journalister bruger nyhedskriterier til at vurdere historier.",
+                "Vi skal vurdere, om sagen har nyhedsværdi.",
+                "Der findes en række kriterier for ..."
+            ],
+            "pitfall": "`en historie` 在新闻语境可以是完全真实的报道，不等于杜撰。`vurdere, om` 使用间接疑问从句，不能改为主句疑问语序。"
+        },
+        {
+            "id": "U24-C019",
+            "zh": "一条新闻应当具有时效性，也要足够重要，也就是说，它应当对许多人或整个社会产生实际影响。",
+            "grammar": "三个并列分句重复 `skal`，体现新闻价值标准中的规范性要求。`være aktuel` 表示具有当前相关性或时效性，`være væsentlig` 表示具有实质重要性。破折号后通过 `have betydning for` 解释重要性的具体含义。",
+            "vocabulary": [
+                {
+                    "da": "aktuel",
+                    "zh": "当前相关的；具有时效性的",
+                    "note": "新闻语境不等于单纯正在发生"
+                },
+                {
+                    "da": "væsentlig",
+                    "zh": "重要的；实质性的；重大的"
+                },
+                {
+                    "da": "have betydning for",
+                    "zh": "对……有意义或影响",
+                    "note": "正式分析中的常用搭配"
+                }
+            ],
+            "nuance": "作者区分了两种新闻价值：时间上的当前性，以及社会影响上的重要性。`væsentlig` 比一般的 `interessant` 更强调公共意义。并不是只有影响极大人口的事件才能报道，但在这里作者用其解释重大地方新闻的标准。",
+            "transfer": [
+                "Historien er både aktuel og væsentlig.",
+                "Sagen har betydning for mange familier.",
+                "Det er vigtigt at vurdere nyhedens relevans."
+            ],
+            "pitfall": "`aktuel` 在丹麦语中是当前相关、现实的，不是英语 actual 所表示的实际的。`væsentlig` 也不能简单等同于 `stor`。"
+        },
+        {
+            "id": "U24-C020",
+            "zh": "关闭学校的计划同时满足多项新闻标准：它具有时效性，涉及许多家庭，而且还包含家长与市政府之间的利益冲突。",
+            "grammar": "`opfylder flere kriterier` 是主句核心，表示符合多项标准。`på én gang` 强调这些条件同时成立。冒号后用三个并列主句逐项解释。`vedrører` 表示与某群体直接相关，`rummer en konflikt` 表示事件本身包含冲突。",
+            "vocabulary": [
+                {
+                    "da": "opfylde et kriterium",
+                    "zh": "满足一项标准",
+                    "note": "`opfylde krav` 满足要求也很常用"
+                },
+                {
+                    "da": "på én gang",
+                    "zh": "同时；一次性"
+                },
+                {
+                    "da": "vedrøre",
+                    "zh": "涉及；与……有关",
+                    "note": "正式语体常用"
+                },
+                {
+                    "da": "rumme",
+                    "zh": "包含；容纳；蕴含",
+                    "note": "可用于抽象意义上的内容和可能性"
+                }
+            ],
+            "nuance": "作者直接把前面讲解的抽象标准应用到学校关闭案。`rummer en konflikt` 并非必须存在公开争吵才算冲突，而是各方利益和立场可能发生对立。这种通过实例检验理论的结构很适合考试论述。",
+            "transfer": [
+                "Sagen opfylder flere kriterier på én gang.",
+                "Beslutningen vedrører mange borgere.",
+                "Forslaget rummer en konflikt mellem forskellige interesser."
+            ],
+            "pitfall": "`vedrøre` 是与某事有关，不能按字面理解为触摸。`rumme` 在这里是包含抽象冲突，而不是实际容纳某件物品。"
+        },
+        {
+            "id": "U24-C021",
+            "zh": "不过，媒体也并不是想写什么就能写什么。",
+            "grammar": "`dog` 是让步转折副词，用来限制前文所讨论的媒体选择新闻的自由。`kan ikke skrive, hvad de vil` 包含情态动词与间接疑问从句。`hvad de vil` 是省略结构，完整含义是他们想写的内容。",
+            "vocabulary": [
+                {
+                    "da": "dog",
+                    "zh": "不过；然而；尽管如此",
+                    "note": "正式书面语中常用于温和的转折"
+                },
+                {
+                    "da": "hvad man vil",
+                    "zh": "自己想要的任何东西或内容",
+                    "note": "可用于讨论自由及其限制"
+                }
+            ],
+            "nuance": "作者从新闻价值转向新闻伦理。`dog` 承认媒体拥有独立报道空间，同时指出这种空间受到专业伦理与法律责任约束。语气克制，不是在否认新闻自由。",
+            "transfer": [
+                "Man kan ikke gøre, hvad man vil.",
+                "Medierne har dog også et ansvar.",
+                "Ytringsfrihed betyder ikke, at alt er tilladt."
+            ],
+            "pitfall": "`dog` 在这里是转折，而不是英语 dog。`hvad de vil` 不应误解为未来将要发生什么。"
+        },
+        {
+            "id": "U24-C022",
+            "zh": "新闻职业伦理规则规定，其中包括：记者必须在发布信息之前核实其准确性，而受到批评的一方也必须获得在报道发表时作出回应的机会。",
+            "grammar": "`De presseetiske regler siger ...` 是用规则作主语的规范性表达。后面由两个 `at` 宾语从句并列。第一个使用 `skal kontrollere` 表示记者的义务，并通过 `før de bliver offentliggjort` 规定核实发生在发布之前。第二个包含名词化关系结构 `den, der bliver kritiseret`，并使用 `skal have mulighed for at svare` 表示被批评者的回应机会。",
+            "vocabulary": [
+                {
+                    "da": "presseetiske regler",
+                    "zh": "新闻职业伦理规则",
+                    "note": "`presseetik` 新闻伦理"
+                },
+                {
+                    "da": "kontrollere oplysninger",
+                    "zh": "核实信息"
+                },
+                {
+                    "da": "offentliggøre",
+                    "zh": "公布；公开发布"
+                },
+                {
+                    "da": "have mulighed for at svare",
+                    "zh": "有机会回应"
+                },
+                {
+                    "da": "samtidig",
+                    "zh": "同时；在同一时间",
+                    "note": "这里强调回应应与相关报道相衔接"
+                }
+            ],
+            "nuance": "这一句概括两个新闻伦理原则：事实核查和让被批评者有机会回应。`samtidig` 体现回应的及时性，避免媒体先发表重大指控，过很久才让被报道对象发声。`blandt andet` 表明所列要求并非全部新闻伦理规则。",
+            "transfer": [
+                "Journalister skal kontrollere oplysninger, før de offentliggøres.",
+                "Den kritiserede part skal have mulighed for at svare.",
+                "De presseetiske regler stiller krav til dokumentation."
+            ],
+            "pitfall": "`kontrollere` 在这里是核实，不是控制公众。`den, der bliver kritiseret` 是受到批评的人或机构，不是主动批评者。`skal` 表示规则要求，而非预测未来。"
+        },
+        {
+            "id": "U24-C023",
+            "zh": "如果你认为某家媒体发布了关于自己的错误或侵害人格权益的内容，可以向丹麦新闻申诉委员会投诉；该委员会有权要求媒体公开刊登委员会作出的裁决。",
+            "grammar": "`Mener man, at ...` 是省略 `hvis` 的条件倒装，相当于如果某人认为……。条件部分前置后，主句使用 `kan man klage` 的 V2 语序。`noget forkert eller krænkende om én` 中 `én` 泛指受到报道影响的个人。`som kan pålægge mediet at ...` 是关系从句，说明申诉委员会的权限。`pålægge nogen at + 不定式` 表示正式命令某人履行义务。",
+            "vocabulary": [
+                {
+                    "da": "krænkende",
+                    "zh": "冒犯性的；侵害权益或尊严的",
+                    "note": "具体法律和伦理含义取决于情境"
+                },
+                {
+                    "da": "klage til",
+                    "zh": "向……投诉；向……申诉",
+                    "note": "这里使用介词 `til`"
+                },
+                {
+                    "da": "Pressenævnet",
+                    "zh": "丹麦新闻申诉委员会",
+                    "note": "处理特定新闻伦理和更正、答复相关申诉的机构"
+                },
+                {
+                    "da": "pålægge nogen at",
+                    "zh": "责令某人做某事",
+                    "note": "正式法律和行政用语"
+                },
+                {
+                    "da": "en afgørelse",
+                    "zh": "裁决；决定",
+                    "note": "行政与法律语境常见"
+                }
+            ],
+            "nuance": "这句话展示媒体监督机制的另一面：媒体可以监督公共权力，但媒体自身同样可能受到新闻伦理审查。`kan pålægge` 说明委员会有作出特定命令的权力，并不意味着所有投诉都会成立，也不能直接推断其拥有任何形式的处罚权。",
+            "transfer": [
+                "Mener man, at oplysningerne er forkerte, kan man klage.",
+                "Nævnet kan pålægge mediet at offentliggøre afgørelsen.",
+                "Borgeren har indgivet en klage til Pressenævnet."
+            ],
+            "pitfall": "`pålægge` 不是把东西放在上面，而是正式责令。`afgørelse` 与法院的 `dom` 不完全相同。条件倒装 `Mener man ...` 不是疑问句。"
+        },
+        {
+            "id": "U24-C024",
+            "zh": "如今，很多人，尤其是年轻人，通过社交媒体和视频平台获取相当大一部分新闻资讯。",
+            "grammar": "`I dag` 是句首时间状语，后接 `får mange` 的 V2 语序。`især unge` 是插入性补充，强调年轻群体。`en stor del af deres nyheder` 表示新闻来源中的很大一部分。`gennem` 说明获取新闻的渠道。",
+            "vocabulary": [
+                {
+                    "da": "især",
+                    "zh": "尤其；特别是"
+                },
+                {
+                    "da": "en stor del af",
+                    "zh": "……的很大一部分"
+                },
+                {
+                    "da": "sociale medier",
+                    "zh": "社交媒体",
+                    "note": "常用复数"
+                },
+                {
+                    "da": "en videotjeneste",
+                    "zh": "视频服务；视频平台"
+                },
+                {
+                    "da": "gennem",
+                    "zh": "通过；经由",
+                    "note": "在这里说明信息传播渠道"
+                }
+            ],
+            "nuance": "作者从传统编辑部转向算法驱动的信息环境。`får` 不等于主动搜索新闻，也可以表示被动接收到平台推荐的内容，这恰好为后文的算法讨论铺垫。",
+            "transfer": [
+                "Mange får deres nyheder gennem sociale medier.",
+                "Unge bruger i høj grad digitale platforme.",
+                "Jeg får en stor del af mine nyheder online."
+            ],
+            "pitfall": "`gennem` 在这里是通过某渠道，不是物理上穿过社交媒体。`en stor del af` 需要注意后面名词的所有格或限定形式。"
+        },
+        {
+            "id": "U24-C025",
+            "zh": "在这些平台上，决定信息呈现顺序的不是编辑，而是算法；算法会优先推送那些能够引发用户反应和转发的内容。",
+            "grammar": "`det er ikke X, men Y, der ...` 是强调句结构，专门突出作出排序决定的主体。`Her` 指社交媒体和视频服务。第二分句的 `den` 回指 `en algoritme`。`det, der får folk til at reagere og dele` 是名词化关系结构；`få nogen til at + 不定式` 表示促使某人采取行动。",
+            "vocabulary": [
+                {
+                    "da": "en algoritme",
+                    "zh": "算法"
+                },
+                {
+                    "da": "bestemme rækkefølgen",
+                    "zh": "决定排列顺序"
+                },
+                {
+                    "da": "prioritere",
+                    "zh": "优先考虑；优先排序"
+                },
+                {
+                    "da": "få nogen til at",
+                    "zh": "促使某人做某事"
+                },
+                {
+                    "da": "reagere og dele",
+                    "zh": "作出反应并分享内容",
+                    "note": "在社交媒体语境中通常指互动与转发"
+                }
+            ],
+            "nuance": "强调句把传统新闻把关人与算法排序机制鲜明对照。`prioriterer` 不是说算法一定喜欢具有某种政治立场的内容，而是强调高互动内容可能获得排序优势。作者关注的是信息可见度由谁决定。",
+            "transfer": [
+                "Det er algoritmen, der bestemmer rækkefølgen.",
+                "Platformen prioriterer indhold, der skaber engagement.",
+                "Overskriften får folk til at reagere."
+            ],
+            "pitfall": "`den` 指算法，而不是前面的编辑。`dele` 在这里是分享内容，不是数学除法。`få nogen til at` 表示促使，不是给某人某件物品。"
+        },
+        {
+            "id": "U24-C026",
+            "zh": "一种普遍的担忧是：算法可能把人们困在所谓的信息茧房里，使他们只能看到那些自己原本就赞同的内容。",
+            "grammar": "`Der er en udbredt frygt for, at ...` 是介绍社会担忧的存在结构。`lukke nogen inde i` 表示把某人关在某种空间中，此处用于隐喻。`hvor de kun ser det, de i forvejen er enige i` 是嵌套关系从句：`hvor` 修饰过滤气泡，`det` 指所看到的内容，后面的关系从句省略了关系代词，介词 `i` 留在句末。",
+            "vocabulary": [
+                {
+                    "da": "udbredt",
+                    "zh": "广泛存在的；普遍的"
+                },
+                {
+                    "da": "en frygt for",
+                    "zh": "对……的担忧；害怕……"
+                },
+                {
+                    "da": "lukke nogen inde",
+                    "zh": "把某人关起来；使某人局限其中"
+                },
+                {
+                    "da": "en filterboble",
+                    "zh": "过滤气泡；信息茧房"
+                },
+                {
+                    "da": "i forvejen",
+                    "zh": "本来就；事先已经",
+                    "note": "表示在当前事件发生前已经如此"
+                }
+            ],
+            "nuance": "关键是 `en udbredt frygt`：作者描述的是一种广泛存在的担忧，而不是直接宣告算法必然把所有人困在信息茧房中。这种归属判断的措辞对于分析研究结论和社会舆论很重要。",
+            "transfer": [
+                "Der er en udbredt frygt for, at ...",
+                "Algoritmer kan lukke brugere inde i filterbobler.",
+                "Folk ser ofte indhold, de i forvejen er enige i."
+            ],
+            "pitfall": "`i forvejen` 不是提前排在前面，而是本来就。`være enig i` 表示赞同某个观点；不能遗漏句末的 `i`。"
+        },
+        {
+            "id": "U24-C027",
+            "zh": "不过，研究并没有给出一个简单明确的答案：过滤气泡现象似乎没有人们担心的那么非黑即白；与此同时，算法仍然可能加剧政治立场的两极分化。",
+            "grammar": "`dog` 标记对前文担忧的审慎修正。`ikke ét enkelt svar` 中重音符号 `ét` 强调单一答案。`ser ud til at være` 是表示根据证据作出暂时判断的结构。`mindre entydige end frygtet` 使用比较级与省略比较结构。`mens` 引出对照，`kan forstærke` 表示可能增强某种现象，而非必然导致。",
+            "vocabulary": [
+                {
+                    "da": "et entydigt svar",
+                    "zh": "明确无歧义的答案"
+                },
+                {
+                    "da": "se ud til at",
+                    "zh": "似乎；看来有……迹象",
+                    "note": "学术和新闻写作中用于审慎表达"
+                },
+                {
+                    "da": "entydig",
+                    "zh": "明确的；单一明确的；不含歧义的"
+                },
+                {
+                    "da": "forstærke",
+                    "zh": "加强；放大；加剧"
+                },
+                {
+                    "da": "politisk polarisering",
+                    "zh": "政治两极分化"
+                }
+            ],
+            "nuance": "这是本篇最值得学习的研究报道语气之一。作者没有在算法有害与算法无害之间作简单二选一，而是同时保留两种研究判断。`ser ud til` 和 `kan` 都限制断言强度，`mens` 则说明一个现象可能不如想象中明确，但另一种风险仍值得关注。",
+            "transfer": [
+                "Forskningen giver ikke ét enkelt svar.",
+                "Resultaterne ser ud til at være mindre entydige end forventet.",
+                "Teknologien kan samtidig forstærke eksisterende problemer."
+            ],
+            "pitfall": "`ser ud til at` 不是眼睛往外看，而是似乎。`mindre entydig` 不等于完全不存在。`kan forstærke` 表示可能加剧，不能改写成已经证明必然导致。"
+        },
+        {
+            "id": "U24-C028",
+            "zh": "研究人员会区分无意传播的错误信息和有意制造、传播的虚假信息。",
+            "grammar": "`skelne mellem A og B` 是固定搭配，表示在两种概念之间作出区分。主语 `Forskere` 使用复数，谓语 `skelner` 是一般现在时，表示学术领域中的常规概念划分。",
+            "vocabulary": [
+                {
+                    "da": "skelne mellem",
+                    "zh": "区分；辨别……和……",
+                    "note": "固定介词 `mellem`"
+                },
+                {
+                    "da": "misinformation",
+                    "zh": "错误信息；非故意传播的不实信息",
+                    "note": "本篇定义强调传播者并不认为它是假的"
+                },
+                {
+                    "da": "desinformation",
+                    "zh": "蓄意虚假信息；有意误导的信息",
+                    "note": "区别核心在于欺骗或误导意图"
+                }
+            ],
+            "nuance": "作者先建立两个专业术语的区别，为后文讨论传播者动机和深度伪造打基础。关键不只是信息真假，还有传播时是否知道信息虚假、是否意图误导。区分这两个概念能显著提高媒体分析的准确性。",
+            "transfer": [
+                "Forskere skelner mellem to typer falske oplysninger.",
+                "Det er vigtigt at skelne mellem fejl og bevidst manipulation.",
+                "Der er forskel på misinformation og desinformation."
+            ],
+            "pitfall": "`misinformation` 和 `desinformation` 不能简单当作完全同义词。`skelne mellem` 不要误写为 `skelne fra` 来表达这里的双项区分。"
+        },
+        {
+            "id": "U24-C029",
+            "zh": "错误信息是由那些自己也相信内容真实的人传播出去的不实消息；而蓄意虚假信息则是为了误导他人而故意制造或传播的假信息。",
+            "grammar": "分号连接两个定义性主句。第一个定义中 `der bliver spredt af folk` 是 `blive` 被动态关系从句，`som selv tror på dem` 又进一步修饰传播者。`dem` 回指不实信息。第二个定义中 `der skal vildlede` 是关系从句，`skal` 在这里表达预期目的或设计用途。",
+            "vocabulary": [
+                {
+                    "da": "forkerte oplysninger",
+                    "zh": "错误信息；不准确的消息"
+                },
+                {
+                    "da": "sprede oplysninger",
+                    "zh": "传播信息；散布消息",
+                    "note": "`blive spredt` 被传播"
+                },
+                {
+                    "da": "tro på noget",
+                    "zh": "相信某事物或信息是真的"
+                },
+                {
+                    "da": "bevidst",
+                    "zh": "故意地；有意识地"
+                },
+                {
+                    "da": "vildlede",
+                    "zh": "误导；欺骗",
+                    "note": "正式语体中常见"
+                }
+            ],
+            "nuance": "两个定义形成精确对照：错误信息的传播者可能真诚地相信内容，而蓄意虚假信息具有误导意图。`selv` 突出传播者本人也相信信息，`bevidst` 则强调故意性。文章把这种意图差异作为分类关键。",
+            "transfer": [
+                "Oplysningerne blev spredt på sociale medier.",
+                "Personen troede selv på historien.",
+                "Desinformation har til formål at vildlede modtageren."
+            ],
+            "pitfall": "`forkert` 表示内容错误，不自动意味着传播者撒谎。`bevidst` 在这里是故意，不是清醒。`vildlede` 是误导，与一般解释 `vejlede` 方向相反。"
+        },
+        {
+            "id": "U24-C030",
+            "zh": "蓄意虚假信息可能来自个人、想推销产品的企业，或者试图在其他国家制造社会分裂的国家行为体。",
+            "grammar": "`kan komme fra` 表示可能来自某种来源。句中重复三个 `fra`，平行列举信息的潜在发出方。`der vil sælge noget` 和 `der vil skabe splid ...` 分别是修饰企业和国家的关系从句。`vil` 表示意图或目的。",
+            "vocabulary": [
+                {
+                    "da": "en enkeltperson",
+                    "zh": "个人；单个行为人"
+                },
+                {
+                    "da": "komme fra",
+                    "zh": "来自；源于"
+                },
+                {
+                    "da": "sælge noget",
+                    "zh": "销售某物"
+                },
+                {
+                    "da": "skabe splid",
+                    "zh": "制造分裂；挑拨不和",
+                    "note": "`splid` 通常指人与群体之间的不和"
+                },
+                {
+                    "da": "en stat",
+                    "zh": "国家；国家政权",
+                    "note": "政治语境中与 `land` 的地理和社会含义有所不同"
+                }
+            ],
+            "nuance": "作者强调虚假信息的动机具有多样性：个人、商业机构和国家行为体都可能参与传播。`kan` 是可能性判断，不意味着所有企业或国家都会这样做。`skabe splid` 特别适合描述意图破坏社会凝聚力或国家间关系的信息行动。",
+            "transfer": [
+                "Desinformation kan komme fra mange forskellige aktører.",
+                "Nogle virksomheder vil sælge produkter gennem vildledende reklamer.",
+                "Formålet kan være at skabe splid i samfundet."
+            ],
+            "pitfall": "`splid` 指不和或分裂，不是把某个物体劈开。`komme fra` 在这里是信息来源，不能只理解为人的出生地。"
+        },
+        {
+            "id": "U24-C031",
+            "zh": "借助人工智能，制作所谓的深度伪造内容已经变得很容易：这类视频或音频会让人看起来或听起来说出了某些话，而事实上当事人从未说过那些话。",
+            "grammar": "`Med kunstig intelligens` 是句首手段状语，后接 `er det blevet let`，使用现在完成时表示技术发展带来的状态变化。`at lave såkaldte deepfakes` 是真正的逻辑内容。冒号后用同位说明解释概念。`hvor en person tilsyneladende siger noget` 是关系从句，`vedkommende aldrig har sagt` 是省略宾语关系代词的第二层关系从句。",
+            "vocabulary": [
+                {
+                    "da": "kunstig intelligens",
+                    "zh": "人工智能"
+                },
+                {
+                    "da": "såkaldt",
+                    "zh": "所谓的；被称为……的",
+                    "note": "可引入专业术语，不一定具有讽刺意味"
+                },
+                {
+                    "da": "et lydklip",
+                    "zh": "音频片段"
+                },
+                {
+                    "da": "tilsyneladende",
+                    "zh": "表面上；看起来似乎",
+                    "note": "强调外观与事实可能不同"
+                },
+                {
+                    "da": "vedkommende",
+                    "zh": "当事人；该人",
+                    "note": "正式语体中可避免重复性别化代词"
+                }
+            ],
+            "nuance": "`tilsyneladende` 是理解深度伪造的关键：听众或观众接收到的是貌似真实的声画表现，但这不能保证所见内容实际发生。`såkaldte` 主要用于引入术语，而不是否认这一技术存在。作者通过具体的视频和音频案例解释抽象概念。",
+            "transfer": [
+                "Med kunstig intelligens er det blevet lettere at skabe realistiske videoer.",
+                "Personen siger tilsyneladende noget, som aldrig er blevet sagt.",
+                "Det er svært at afgøre, om klippet er ægte."
+            ],
+            "pitfall": "`tilsyneladende` 不等于已被证实，而是看起来如此。`vedkommende` 在这里指此前提到的人，不是表示事件的重要性。`er blevet let` 强调变化结果，而不只是当前简单。"
+        },
+        {
+            "id": "U24-C032",
+            "zh": "没有人能核实所有信息，但只要问自己三个简单的问题，大多数人就能在辨别信息可靠性方面前进一大步。",
+            "grammar": "`Ingen kan tjekke alt` 是全称否定句，`ingen` 表示没有任何人。后半句 `tre enkle spørgsmål kan hjælpe de fleste langt` 使用 `hjælpe nogen langt`，表示让某人在解决问题上取得显著进展。`de fleste` 是名词化数量表达，表示大多数人。",
+            "vocabulary": [
+                {
+                    "da": "tjekke",
+                    "zh": "检查；核实",
+                    "note": "较口语化，对应较正式的 `kontrollere`"
+                },
+                {
+                    "da": "et spørgsmål",
+                    "zh": "问题；提问",
+                    "note": "复数 `spørgsmål`"
+                },
+                {
+                    "da": "hjælpe nogen langt",
+                    "zh": "对某人非常有帮助；帮助某人取得很大进展"
+                }
+            ],
+            "nuance": "这句话采用务实而非完美主义的态度：个人不可能逐条核实全部互联网信息，但仍可通过简单的核查习惯提高判断质量。`hjælpe ... langt` 强调实际成效，不意味着三个问题足以解决所有虚假信息问题。",
+            "transfer": [
+                "Ingen kan kontrollere alle oplysninger.",
+                "Tre enkle spørgsmål kan hjælpe os langt.",
+                "En god metode kan hjælpe dig langt."
+            ],
+            "pitfall": "`hjælpe nogen langt` 中 `langt` 是抽象意义上的帮助很大，不是帮助某人走很远的实际距离。"
+        },
+        {
+            "id": "U24-C033",
+            "zh": "是谁发布的？背后是谁？",
+            "grammar": "`Hvem` 作疑问代词，询问信息背后的主体。`stå bag` 是固定动词搭配，表示作为某事的发起者、负责人或实际推动者。被省略的对象由上下文提供，即待核实的信息或内容。",
+            "vocabulary": [
+                {
+                    "da": "stå bag noget",
+                    "zh": "是……的幕后发起者；负责某事；支持某事",
+                    "note": "可用于作品、声明、机构、活动和信息传播"
+                }
+            ],
+            "nuance": "这是信息核查的第一步：确定来源身份。重点不是只看谁转发，而是追溯内容最初来自什么机构、个人或账号。简短问句有很强的记忆价值。",
+            "transfer": [
+                "Hvem står bag hjemmesiden?",
+                "Hvem har offentliggjort oplysningerne?",
+                "Virksomheden står bag kampagnen."
+            ],
+            "pitfall": "`stå bag` 不是简单的站在后面，而是承担来源、发起或支持关系。不同语境下不一定具有阴谋意味。"
+        },
+        {
+            "id": "U24-C034",
+            "zh": "他们凭什么知道这件事是真的？",
+            "grammar": "`Hvordan` 询问获取知识或证据的方法。`ved` 是不规则动词 `vide` 的现在时。`det` 回指待核实的具体信息。",
+            "vocabulary": [
+                {
+                    "da": "vide",
+                    "zh": "知道；掌握事实",
+                    "note": "`ved – vidste – vidst`"
+                },
+                {
+                    "da": "hvordan ved man ...?",
+                    "zh": "人们如何知道……？依据是什么？"
+                }
+            ],
+            "nuance": "第二个问题把判断重点从来源身份转向证据依据。即使来源看起来可信，也需要知道其信息来自文件、数据、目击还是推测。这里的 `Hvordan` 不是问消息通过哪个软件发送，而是问知道的根据。",
+            "transfer": [
+                "Hvordan ved du, at det er rigtigt?",
+                "Hvad bygger oplysningerne på?",
+                "Hvilken dokumentation har de?"
+            ],
+            "pitfall": "`vide` 与 `kende` 不同：前者通常指知道事实，后者常指熟悉人或事物。`Hvordan ved du det?` 是询问依据，不一定带有不礼貌的质疑。"
+        },
+        {
+            "id": "U24-C035",
+            "zh": "那么，其他来源又是怎么说的？",
+            "grammar": "`Og` 用于承接前两项核查问题，表示最后还要进行横向比较。`hvad siger andre` 使用特殊疑问句结构，`andre` 是形容词名词化，泛指其他人或来源。",
+            "vocabulary": [
+                {
+                    "da": "andre",
+                    "zh": "其他人；其他来源",
+                    "note": "实际指代由上下文决定"
+                }
+            ],
+            "nuance": "重点不是寻找更多重复同一说法的人，而是比较独立来源是否支持同一事实。`Og` 让三个问题形成容易记忆的连贯核查流程。",
+            "transfer": [
+                "Hvad mener andre eksperter?",
+                "Hvad siger de øvrige medier?",
+                "Har andre kilder bekræftet oplysningerne?"
+            ],
+            "pitfall": "多个账号说同一件事，不自动代表多个独立来源；它们可能都在复制同一个原始消息。"
+        },
+        {
+            "id": "U24-C036",
+            "zh": "第一个问题关注信息发布者及其利益关系：发布内容的是媒体、政府机关、企业，还是一个匿名账号？",
+            "grammar": "`Det første spørgsmål handler om` 是说明主题的固定结构。`dennes interesser` 使用较正式的指示代词属格 `dennes`，回指 `afsenderen`。冒号后是一般疑问句，多个并列名词构成可供判断的来源类型。",
+            "vocabulary": [
+                {
+                    "da": "en afsender",
+                    "zh": "发送者；发布者；信息来源"
+                },
+                {
+                    "da": "dennes",
+                    "zh": "此人的；该方的",
+                    "note": "正式书面语中回指前述单数人物或主体"
+                },
+                {
+                    "da": "en myndighed",
+                    "zh": "政府机关；公共主管部门"
+                },
+                {
+                    "da": "en anonym profil",
+                    "zh": "匿名账号；匿名用户资料"
+                },
+                {
+                    "da": "en interesse",
+                    "zh": "利益；关注点；动机",
+                    "note": "这里偏向潜在利益关系"
+                }
+            ],
+            "nuance": "核查来源不只是看名称是否熟悉，还包括判断其可能的商业、政治或组织利益。`dennes interesser` 比口语中的 `hans eller hendes interesser` 更简洁、正式，也避免限定具体性别。",
+            "transfer": [
+                "Det første spørgsmål handler om afsenderen.",
+                "Hvilke interesser har virksomheden?",
+                "Er oplysningerne offentliggjort af en myndighed?"
+            ],
+            "pitfall": "`afsender` 不只用于邮寄信件，也可指数字信息的发布者。`dennes` 是属格回指，不等于 `deres` 的一般复数所有格。"
+        },
+        {
+            "id": "U24-C037",
+            "zh": "第二个问题关注证据：这一说法究竟建立在数据、文件和具名消息来源之上，还是仅仅来自大家都这么说的传闻和一段孤立的视频？",
+            "grammar": "`Det andet` 省略前文已知的 `spørgsmål`。`bygge på` 是核心搭配，表示某个主张以什么为依据。问句使用 `Bygger påstanden på ... eller på ...?`，两个 `på` 对应两类证据。`navngivne kilder` 是过去分词形容词，表示已公开姓名或身份的来源。`man siger` 被引号化，代表模糊的传闻式归属。",
+            "vocabulary": [
+                {
+                    "da": "dokumentation",
+                    "zh": "证据材料；证明文件；证据支持"
+                },
+                {
+                    "da": "bygge på",
+                    "zh": "建立在……基础上；依据……",
+                    "note": "研究、论证和政策写作中非常常见"
+                },
+                {
+                    "da": "en påstand",
+                    "zh": "主张；断言；说法",
+                    "note": "未必表示该说法一定错误"
+                },
+                {
+                    "da": "en navngiven kilde",
+                    "zh": "具名消息来源"
+                },
+                {
+                    "da": "en enkelt video",
+                    "zh": "单独一段视频"
+                }
+            ],
+            "nuance": "作者将可追溯的材料与模糊传闻相对照。`man siger` 常见于未经核实的转述，无法明确知道最初是谁说的。单独一段视频即使真实，也可能缺少时间、上下文或事件全貌，因此不一定构成完整证据。",
+            "transfer": [
+                "Påstanden bygger på dokumenter og data.",
+                "Hvilken dokumentation bygger konklusionen på?",
+                "Vi skal bruge flere uafhængige kilder."
+            ],
+            "pitfall": "`en påstand` 不是天然的谎言，而是尚需评估依据的主张。`bygge på` 在这里不是实际施工建造，而是论证基础。"
+        },
+        {
+            "id": "U24-C038",
+            "zh": "第三个问题是进行交叉比对：是否有其他相互独立的消息来源证实了同样的事实？",
+            "grammar": "`handle om at + 不定式` 表示问题的核心在于采取某种行动。`Har andre, uafhængige kilder bekræftet ...?` 是现在完成时的一般疑问句，询问核实行为是否已经完成。`uafhængige` 是补充性的形容词，强调来源之间的独立性。",
+            "vocabulary": [
+                {
+                    "da": "sammenligne",
+                    "zh": "比较；比对"
+                },
+                {
+                    "da": "uafhængig",
+                    "zh": "独立的；不受其他来源控制的"
+                },
+                {
+                    "da": "bekræfte",
+                    "zh": "证实；确认"
+                },
+                {
+                    "da": "det samme",
+                    "zh": "相同的事情；同一事实"
+                }
+            ],
+            "nuance": "独立性是这里最重要的限定：三个媒体转发同一匿名帖文，不等于三个独立核实。作者强调应寻找来源不同、证据路径不同的信息来进行交叉验证。",
+            "transfer": [
+                "Vi skal sammenligne oplysninger fra flere kilder.",
+                "Uafhængige eksperter har bekræftet resultatet.",
+                "Andre medier har endnu ikke bekræftet historien."
+            ],
+            "pitfall": "`uafhængig` 强调来源独立，不一定表示中立或绝对正确。`bekræfte` 是证实，而不是简单地重复传播。"
+        },
+        {
+            "id": "U24-C039",
+            "zh": "约纳斯：你看到那段市长冲着一位家长大喊的视频了吗？",
+            "grammar": "`Har du set ...?` 使用现在完成时询问对方是否已有观看经历。`den video med borgmesteren` 表示那段以市长为人物的视频。`der råber ad en forælder` 是关系从句，修饰市长。`råbe ad` 是对某人喊叫、呵斥的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "en video med nogen",
+                    "zh": "出现某人的视频"
+                },
+                {
+                    "da": "råbe ad nogen",
+                    "zh": "冲某人大喊；呵斥某人",
+                    "note": "与一般的 `råbe` 不同，带有明确针对对象"
+                },
+                {
+                    "da": "en forælder",
+                    "zh": "家长；父亲或母亲"
+                }
+            ],
+            "nuance": "约纳斯引用的是网络传播中的视频描述，听上去市长似乎是冲突的主动一方。然而文章后面将揭示片段的选择性剪辑，因此此处应理解为视频呈现出的印象，而不是完整事件已经核实的经过。",
+            "transfer": [
+                "Har du set videoen med borgmesteren?",
+                "Han begyndte at råbe ad journalisten.",
+                "Videoen viser en konflikt mellem to personer."
+            ],
+            "pitfall": "`råbe ad nogen` 是冲某人叫喊，`råbe til nogen` 可以是大声对某人说话，后者不一定具有责骂意味。"
+        },
+        {
+            "id": "U24-C040",
+            "zh": "伊达：看了，到处都在传。他看起来简直太离谱了。",
+            "grammar": "`den er overalt` 是夸张性的口语表达，指视频在各个平台广泛传播。`virke + 形容词` 表示给人某种印象。`helt` 是程度副词，强化 `vanvittig` 的评价。",
+            "vocabulary": [
+                {
+                    "da": "være overalt",
+                    "zh": "到处都是；广泛传播"
+                },
+                {
+                    "da": "virke",
+                    "zh": "显得；给人……印象"
+                },
+                {
+                    "da": "vanvittig",
+                    "zh": "疯狂的；荒唐的；离谱的",
+                    "note": "口语中可用于强烈评价，未必涉及医学意义"
+                }
+            ],
+            "nuance": "伊达已经依据短视频形成了强烈判断。`virker` 虽然在语法上保留了看起来的主观性，但 `helt vanvittig` 的情绪强度很高，展示碎片化内容如何迅速影响对人物的评价。",
+            "transfer": [
+                "Videoen er overalt på sociale medier.",
+                "Han virker meget vred.",
+                "Det virker helt vanvittigt."
+            ],
+            "pitfall": "`vanvittig` 在这里是情绪化口语评价，不应译成正式精神医学诊断。`virke` 与 `være` 的判断强度不同。"
+        },
+        {
+            "id": "U24-C041",
+            "zh": "约纳斯：这段视频最初是谁发出来的？",
+            "grammar": "`Hvem` 是疑问主语。`har lagt ... op` 是现在完成时，其中 `lægge op` 是上传或发布内容的动词小品词结构，`den` 指视频。",
+            "vocabulary": [
+                {
+                    "da": "lægge noget op",
+                    "zh": "上传；发布内容",
+                    "note": "社交媒体与网站语境中常用"
+                },
+                {
+                    "da": "hvem har ...?",
+                    "zh": "是谁已经……？",
+                    "note": "当 `hvem` 充当主语时，后面直接接限定动词"
+                }
+            ],
+            "nuance": "约纳斯没有先争论市长是否真的愤怒，而是检查传播链的起点。这体现从情绪反应转向来源核查的关键步骤。",
+            "transfer": [
+                "Hvem har lagt videoen op?",
+                "Hvornår blev klippet offentliggjort?",
+                "Hvilken konto står bag opslaget?"
+            ],
+            "pitfall": "`lægge op` 在社交媒体中表示上传或发布，不能与 `lægge en plan` 制定计划混淆。"
+        },
+        {
+            "id": "U24-C042",
+            "zh": "伊达：我不知道啊。它就是自己出现在我的信息流里了。",
+            "grammar": "`Det ved jeg ikke` 将宾语 `Det` 前置，限定动词 `ved` 位于第二位置。`bare` 表示只是、反正就这样，强调伊达没有主动追溯来源。`i mit feed` 是说明内容出现位置的介词短语。",
+            "vocabulary": [
+                {
+                    "da": "et feed",
+                    "zh": "信息流；平台动态流",
+                    "note": "来自英语的数字媒体用语"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是；就这么",
+                    "note": "此处强调被动接收内容"
+                }
+            ],
+            "nuance": "伊达的话准确体现算法推荐环境中的被动接触：用户看到了内容，却不一定知道来源是谁。`bare` 让她的回答显得随意，也暴露出尚未核查的信息缺口。",
+            "transfer": [
+                "Jeg så den bare i mit feed.",
+                "Det ved jeg faktisk ikke.",
+                "Videoen dukkede op på min forside."
+            ],
+            "pitfall": "`feed` 在这里不是喂养，而是平台内容流。`Det ved jeg ikke` 是宾语前置句，不要误认为 `det` 是主语。"
+        },
+        {
+            "id": "U24-C043",
+            "zh": "约纳斯：那段视频被剪辑过。如果你去市政府网站看完整的会议录像，就会发现其实是那位家长先开始大喊大叫的。",
+            "grammar": "`Den er klippet` 使用 `være + 过去分词` 描述视频处于已剪辑状态。`Hvis man ser ...` 是条件从句，前置后主句采用 `er det` 的 V2 语序。`det er faktisk forælderen, der ...` 是强调句，焦点落在首先开始喊叫的人是谁。`begynde at + 不定式` 表示动作开始。",
+            "vocabulary": [
+                {
+                    "da": "klippe en video",
+                    "zh": "剪辑视频",
+                    "note": "不一定表示伪造画面，也可能是选取片段"
+                },
+                {
+                    "da": "hele mødet",
+                    "zh": "整场会议"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "实际上；其实"
+                },
+                {
+                    "da": "begynde at råbe",
+                    "zh": "开始大声喊叫"
+                }
+            ],
+            "nuance": "这是全篇信息核查的具体示范。完整录像可能改变观看者对事件先后顺序的理解。`faktisk` 明确纠正前面由短视频形成的印象。作者没有说原片段的画面本身被伪造，而是说明通过截取片段，真实内容也可能造成误导。",
+            "transfer": [
+                "Videoen er klippet, så man mangler konteksten.",
+                "Hvis man ser hele optagelsen, får man et andet indtryk.",
+                "Det var faktisk den anden person, der begyndte."
+            ],
+            "pitfall": "`klippet` 是剪辑过，不自动等于深度伪造。`det er X, der ...` 是强调句，不要把形式主语 `det` 误认为真正开始喊叫的人。"
+        },
+        {
+            "id": "U24-C044",
+            "zh": "伊达：真的假的？光看那段视频，完全看不出这一点啊。",
+            "grammar": "`Seriøst?` 是独立的口语感叹或质疑。`Det fremgik slet ikke af klippet` 使用 `fremgå af`，表示信息能否从某材料中看出来。`slet ikke` 强化否定，`fremgik` 是 `fremgå` 的过去时。",
+            "vocabulary": [
+                {
+                    "da": "seriøst?",
+                    "zh": "真的吗？真的假的？",
+                    "note": "口语中表示惊讶、怀疑或难以置信"
+                },
+                {
+                    "da": "fremgå af",
+                    "zh": "从……可以看出；由……表明"
+                },
+                {
+                    "da": "slet ikke",
+                    "zh": "完全不；一点也不"
+                }
+            ],
+            "nuance": "伊达意识到自己先前作出的判断建立在不完整材料之上。`slet ikke` 突出原片段没有提供决定性背景，而 `Seriøst?` 表现出真实的惊讶。",
+            "transfer": [
+                "Seriøst? Det vidste jeg ikke.",
+                "Det fremgår ikke af videoen.",
+                "Det fremgik slet ikke af opslaget."
+            ],
+            "pitfall": "`seriøst` 在这里不是要求对方认真一点，而是表达真的吗。`fremgå af` 与 `stå i` 都可以描述文件内容，但前者更强调从材料中能够得知的信息。"
+        },
+        {
+            "id": "U24-C045",
+            "zh": "约纳斯：是啊。人家就是故意剪成这样的。",
+            "grammar": "`Det er derfor, ...` 是解释原因的强调性结构，`derfor` 回指前文所说的信息缺失：正因为要使这一背景不被看见，才进行了这样的剪辑。后面的 `det er klippet` 使用被动状态描述。",
+            "vocabulary": [
+                {
+                    "da": "det er derfor, at ...",
+                    "zh": "这就是为什么……",
+                    "note": "`at` 可以在这种结构中省略"
+                },
+                {
+                    "da": "derfor",
+                    "zh": "因此；正因如此"
+                }
+            ],
+            "nuance": "约纳斯用一句简短的话完成反转：在他的判断中，遗漏重要背景不是偶然，而正是剪辑选择的目的。这里表达的是对剪辑意图的推断，不能仅凭片段存在就当作已独立证明发布者具有恶意。",
+            "transfer": [
+                "Det er derfor, videoen er blevet klippet sådan.",
+                "Det er netop derfor, man skal se hele optagelsen.",
+                "Derfor bør man kontrollere kilden."
+            ],
+            "pitfall": "`derfor` 是因此或正因如此。这里涉及对发布者动机的推断，需要区分已观察到的剪辑事实与尚需证实的主观意图。"
+        },
+        {
+            "id": "U24-C046",
+            "zh": "报道刊出后的那个星期，市长召集记者在市政厅举行了一场新闻发布会。",
+            "grammar": "`Ugen efter artiklen` 是表示时间的名词短语，置于句首，因此主句采用 `indkalder borgmesteren` 的 V2 语序。`indkalde til` 表示召集举行某种正式会议或活动。`på rådhuset` 交代地点。",
+            "vocabulary": [
+                {
+                    "da": "ugen efter",
+                    "zh": "下一周；……之后的那个星期"
+                },
+                {
+                    "da": "indkalde til",
+                    "zh": "召集；通知举行",
+                    "note": "常用于会议、谈判或新闻发布会"
+                },
+                {
+                    "da": "et pressemøde",
+                    "zh": "新闻发布会；记者会"
+                },
+                {
+                    "da": "et rådhus",
+                    "zh": "市政厅"
+                }
+            ],
+            "nuance": "报道促使相关政治人物公开回应。`indkalder til pressemøde` 是正式行政与政治新闻中的常见措辞，说明市长主动组织了一场面对媒体的说明活动。",
+            "transfer": [
+                "Borgmesteren indkaldte til pressemøde.",
+                "Ugen efter artiklen kom der en officiel udmelding.",
+                "Pressemødet blev holdt på rådhuset."
+            ],
+            "pitfall": "`indkalde til` 后面接活动或会议，不能机械省略 `til`。`ugen efter artiklen` 指报道发表之后的那一周，不是文章内部的下一周。"
+        },
+        {
+            "id": "U24-C047",
+            "zh": "市长：谢谢各位到场。首先我想说明，目前还没有就新拉文斯特鲁普学校作出任何正式决定。",
+            "grammar": "`Tak, fordi I kom` 使用 `fordi` 从句说明感谢的原因。`Lad mig starte med at sige` 是 `lade` 的命令式加不定式结构，用于礼貌地引出正式声明。`der ikke er truffet nogen beslutning` 是完成时被动结构，强调截至目前没有形成正式决定。",
+            "vocabulary": [
+                {
+                    "da": "tak, fordi ...",
+                    "zh": "谢谢你们……",
+                    "note": "后接说明感谢原因的从句"
+                },
+                {
+                    "da": "lad mig starte med at",
+                    "zh": "让我首先……；我先……",
+                    "note": "演讲、会议和发布会常用开场句型"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定"
+                }
+            ],
+            "nuance": "市长使用礼貌、正式而可控的发言方式。先强调尚未正式决定，可以降低关校报道引发的紧张情绪，但这并未回答为什么关闭学校已经被写入预算草案。",
+            "transfer": [
+                "Tak, fordi I kom i dag.",
+                "Lad mig starte med at forklare situationen.",
+                "Der er endnu ikke truffet en endelig beslutning."
+            ],
+            "pitfall": "`Tak, fordi ...` 是感谢已经发生的事情，`Tak for ...` 后面通常接名词。`ingen beslutning er truffet` 不意味着没有任何方案或讨论。"
+        },
+        {
+            "id": "U24-C048",
+            "zh": "电视记者：但预算草案明明把关校列为一项节支措施。这两种说法怎么解释得通呢？",
+            "grammar": "`stå som en besparelse` 表示某项措施以预算节支项目的形式列在文件中。`Hvordan hænger det sammen?` 是固定疑问句，字面上询问事物如何连接，实际表示两个事实或说法如何能够同时成立。",
+            "vocabulary": [
+                {
+                    "da": "stå som en besparelse",
+                    "zh": "作为节省开支的措施列出"
+                },
+                {
+                    "da": "hænge sammen",
+                    "zh": "相互关联；逻辑上说得通",
+                    "note": "常用于询问原因和解释矛盾"
+                },
+                {
+                    "da": "et budgetudkast",
+                    "zh": "预算草案"
+                }
+            ],
+            "nuance": "记者没有直接指责市长撒谎，而是将其公开声明与预算文件中的事实并列，要求解释两者之间的关系。`Hvordan hænger det sammen?` 既可以保持专业礼貌，也能形成有力的追问。",
+            "transfer": [
+                "Hvordan hænger de to oplysninger sammen?",
+                "Det hænger ikke helt sammen.",
+                "Hvordan kan det være, at forslaget allerede står i budgettet?"
+            ],
+            "pitfall": "`hænge sammen` 在这里不是物理上挂在一起，而是逻辑一致。预算草案列有节支项目与最终决定已作出是两回事，追问必须保留这一区别。"
+        },
+        {
+            "id": "U24-C049",
+            "zh": "市长：行政部门已经对一系列不同的方案进行了测算。这在预算编制过程中是完全正常的。",
+            "grammar": "`Forvaltningen har regnet på ...` 使用现在完成时说明行政部门已经进行测算。`regne på` 是固定搭配，表示对成本、收益或各种方案进行计算分析。`en lang række` 表示大量、一系列。第二句以 `Det` 回指测算多种方案这一做法。",
+            "vocabulary": [
+                {
+                    "da": "forvaltningen",
+                    "zh": "行政部门；公共行政机构"
+                },
+                {
+                    "da": "regne på",
+                    "zh": "对……进行测算；计算某方案的成本和影响"
+                },
+                {
+                    "da": "en lang række",
+                    "zh": "一长串；许多；一系列"
+                },
+                {
+                    "da": "et scenarie",
+                    "zh": "情景；假设方案",
+                    "note": "复数 `scenarier`"
+                },
+                {
+                    "da": "en budgetproces",
+                    "zh": "预算编制程序；预算流程"
+                }
+            ],
+            "nuance": "市长通过把具体关校方案放入一般预算流程之中，降低该方案的特殊性和确定性。`helt normalt` 是典型的制度性解释，强调行政部门对各种可能方案进行测算本身并不异常，但尚未回应家长为何没有被及时告知。",
+            "transfer": [
+                "Forvaltningen har regnet på forskellige scenarier.",
+                "Det er en normal del af budgetprocessen.",
+                "Vi er nødt til at regne på konsekvenserne."
+            ],
+            "pitfall": "`regne på` 表示针对某方案进行测算，`regne med` 则通常表示预计、指望或把某因素计算在内。`scenarie` 不是已经决定执行的政策。"
+        },
+        {
+            "id": "U24-C050",
+            "zh": "劳拉：一个月前，这项关校提案就已经形成书面文件，为什么当时没有通知家长？",
+            "grammar": "`Hvorfor blev forældrene ikke orienteret` 使用过去时 `blive` 被动态，询问未发生的通知行为。`da forslaget kom på papiret` 是由 `da` 引出的过去时间从句，说明应当通知的时点。`for en måned siden` 表示一个月前。",
+            "vocabulary": [
+                {
+                    "da": "orientere nogen",
+                    "zh": "向某人通报情况；告知某人",
+                    "note": "被动形式 `blive orienteret`"
+                },
+                {
+                    "da": "et forslag",
+                    "zh": "提案；建议；方案"
+                },
+                {
+                    "da": "komme på papiret",
+                    "zh": "形成书面文件；被正式写下来",
+                    "note": "可表示想法从口头讨论进入书面方案阶段"
+                },
+                {
+                    "da": "for en måned siden",
+                    "zh": "一个月前"
+                }
+            ],
+            "nuance": "劳拉把焦点拉回最初的新闻角度：家长的知情权与政府的信息公开。`kom på papiret` 表明方案至少已经进入书面记录，而不是只有模糊的口头想法。她追问的是通知时机，并不需要先证明关校已经最终获批。",
+            "transfer": [
+                "Hvorfor blev borgerne ikke orienteret tidligere?",
+                "Forslaget kom på papiret for en måned siden.",
+                "Kommunen burde have informeret de berørte familier."
+            ],
+            "pitfall": "`for en måned siden` 是一个月前，`i en måned` 是持续一个月。`orientere nogen` 不是指引地理方向，而是通报信息。"
+        },
+        {
+            "id": "U24-C051",
+            "zh": "市长：这是一个合理的问题。我们确实应该更早通知家长，这一点批评我接受并会认真对待。",
+            "grammar": "`burde have informeret` 是情态动词 `burde` 加完成不定式，表示过去本应该做却没有充分做到的事情。`den kritik tager jeg til efterretning` 将宾语 `den kritik` 前置，因此限定动词 `tager` 位于第二位置。`tage noget til efterretning` 是固定的正式行政表达。",
+            "vocabulary": [
+                {
+                    "da": "et fair spørgsmål",
+                    "zh": "合理的问题；问得有道理的问题",
+                    "note": "`fair` 带有英语借词色彩，口语和公共讨论中常见"
+                },
+                {
+                    "da": "burde have gjort noget",
+                    "zh": "本应该做某事",
+                    "note": "通常暗示实际没有做或做得不够"
+                },
+                {
+                    "da": "informere tidligere",
+                    "zh": "更早通报信息"
+                },
+                {
+                    "da": "tage noget til efterretning",
+                    "zh": "知悉并记下；接受某项意见作为正式信息",
+                    "note": "不自动构成具体改进承诺"
+                }
+            ],
+            "nuance": "这一句兼有承认不足和控制承诺范围的作用。`burde have informeret tidligere` 明确认可通知不及时；`tage kritikken til efterretning` 则是政治和行政交流中比较谨慎的措辞，可以表示认真听取，但不具体说明下一步如何纠正。这个区别是后面作者评析政治语言的重点。",
+            "transfer": [
+                "Vi burde have informeret borgerne tidligere.",
+                "Det er et fair spørgsmål.",
+                "Jeg tager kritikken til efterretning."
+            ],
+            "pitfall": "`burde have + 过去分词` 表示过去本应做，不是简单的现在义务。`tage til efterretning` 不能自动译成承诺整改，它只明确表达知悉或接受批评。"
+        },
+        {
+            "id": "U24-C052",
+            "zh": "广播记者：您能保证这所学校不会关闭吗？",
+            "grammar": "`Kan du garantere` 使用情态动词提出直接询问。`at skolen ikke lukker` 是宾语从句，其中 `ikke` 位于主语 `skolen` 与限定动词 `lukker` 之间，符合从句语序。`garantere` 的语义强于普通的 `tro` 或 `forvente`。",
+            "vocabulary": [
+                {
+                    "da": "garantere, at ...",
+                    "zh": "保证……",
+                    "note": "表示较强的承诺或确定性"
+                },
+                {
+                    "da": "lukke",
+                    "zh": "关闭；停办",
+                    "note": "学校作主语时可表示停止运营"
+                }
+            ],
+            "nuance": "记者将市长此前的程序性陈述推进到结果承诺：没有作出决定，是否就意味着可以保证不会关闭？这个问题有意提高承诺标准，测试市长愿意承担多大政治责任。",
+            "transfer": [
+                "Kan du garantere, at det ikke sker?",
+                "Regeringen kan ikke garantere resultatet.",
+                "Der er ingen garanti for, at skolen forbliver åben."
+            ],
+            "pitfall": "`garantere` 不只是认为某事很有可能，而是作出保证。`ikke lukker` 否定关校行为，不是说学校现在没有开门。"
+        },
+        {
+            "id": "U24-C053",
+            "zh": "市长：我不想猜测市议会最终会作出什么决定。但我可以保证，家长们一定会有机会表达意见。",
+            "grammar": "`vil ikke spekulere i` 使用意愿动词 `vil`，表示拒绝就某个结果作推测。`hvad kommunalbestyrelsen ender med at beslutte` 是间接疑问从句，`ende med at` 表示最终做出某事。第二句 `kan love, at ...` 是承诺结构，`forældrene bliver hørt` 使用被动态，表示家长的意见将被听取。",
+            "vocabulary": [
+                {
+                    "da": "spekulere i",
+                    "zh": "猜测；推测；揣测",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "ende med at",
+                    "zh": "最终……；结果做了某事"
+                },
+                {
+                    "da": "kommunalbestyrelsen",
+                    "zh": "市镇议会；市镇民选议事机构"
+                },
+                {
+                    "da": "love, at ...",
+                    "zh": "承诺……",
+                    "note": "这里不是英语 love 的喜欢"
+                },
+                {
+                    "da": "blive hørt",
+                    "zh": "意见得到听取；有机会陈述意见"
+                }
+            ],
+            "nuance": "市长拒绝保证学校一定保留，却愿意保证家长可以发声。这是从结果承诺转向程序承诺的典型政治回应。`bliver hørt` 听起来积极，但是否真正有意义，还取决于意见是在最终决定前还是之后被听取。",
+            "transfer": [
+                "Jeg vil ikke spekulere i den endelige beslutning.",
+                "Det afhænger af, hvad kommunalbestyrelsen ender med at beslutte.",
+                "Vi kan love, at borgerne bliver hørt."
+            ],
+            "pitfall": "`spekulere i` 在这里是推测，另一些语境也可表示投机。`blive hørt` 不等于意见一定被采纳。`love` 是承诺，必须根据上下文判断承诺的具体内容。"
+        },
+        {
+            "id": "U24-C054",
+            "zh": "劳拉：家长们是在作出决定之前被听取意见，还是决定已经作出以后才被听取？",
+            "grammar": "`Bliver de hørt` 是被动态的一般疑问句。`før eller efter` 构成明确的二选一时间对照。`beslutningen er truffet` 是 `være + 过去分词` 的结果状态结构，表示决定已经作出。整个时间从句限定家长参与发生的时点。",
+            "vocabulary": [
+                {
+                    "da": "blive hørt",
+                    "zh": "有机会被听取意见"
+                },
+                {
+                    "da": "før eller efter",
+                    "zh": "之前还是之后"
+                },
+                {
+                    "da": "være truffet",
+                    "zh": "已经作出",
+                    "note": "用于决定等抽象事项"
+                }
+            ],
+            "nuance": "劳拉的追问抓住了政治声明中的关键模糊点。家长若只能在决定之后表达意见，参与的实际影响力可能很有限。问题极短，却使市长必须明确程序顺序，是专业记者通过精准提问提高问责力度的范例。",
+            "transfer": [
+                "Bliver borgerne hørt, før beslutningen træffes?",
+                "Skal høringen finde sted før eller efter mødet?",
+                "Beslutningen er allerede truffet."
+            ],
+            "pitfall": "`blive hørt` 是被听取意见，不是单纯声音被人听见。`er truffet` 强调已经形成的决定，不能与 `bliver truffet` 正在或将被作出混淆。"
+        },
+        {
+            "id": "U24-C055",
+            "zh": "市长：当然是在决定之前。",
+            "grammar": "`Før` 是省略式回答，省去前一句中已明确的谓语结构。`naturligvis` 是强调答案理所当然的副词。",
+            "vocabulary": [
+                {
+                    "da": "naturligvis",
+                    "zh": "当然；自然是",
+                    "note": "可以表示真诚确认，也可能用于强化公开表态"
+                }
+            ],
+            "nuance": "市长以简短而确定的答复结束追问。`naturligvis` 把在决定前听取意见呈现为不言自明的原则，也为其公开承诺增加了可以被后续检验的明确性。",
+            "transfer": [
+                "Før beslutningen, naturligvis.",
+                "Ja, naturligvis.",
+                "Det skal ske, før der træffes en beslutning."
+            ],
+            "pitfall": "`naturligvis` 是当然，并不是自然界意义上的自然。"
+        },
+        {
+            "id": "U24-C056",
+            "zh": "新闻发言人：我们还有时间接受最后一个问题。",
+            "grammar": "`have tid til` 表示有时间做某事。`et sidste spørgsmål` 是名词短语，表示最后一个问题。`sidste` 为序列中的最后一项，不一定意味着最重要。",
+            "vocabulary": [
+                {
+                    "da": "en pressemedarbejder",
+                    "zh": "新闻联络人员；媒体事务工作人员"
+                },
+                {
+                    "da": "have tid til",
+                    "zh": "有时间做某事"
+                },
+                {
+                    "da": "et sidste spørgsmål",
+                    "zh": "最后一个问题"
+                }
+            ],
+            "nuance": "发言人通过宣布剩余提问数量来控制发布会节奏。这是正式会议和媒体活动中的常见主持表达，语气礼貌但具有结束讨论的程序性作用。",
+            "transfer": [
+                "Vi har tid til ét spørgsmål mere.",
+                "Er der nogen, der har et sidste spørgsmål?",
+                "Vi må afslutte mødet nu."
+            ],
+            "pitfall": "`sidste` 是最后一个，`seneste` 是最近的或最新的，不能混淆。"
+        },
+        {
+            "id": "U24-C057",
+            "zh": "新闻发布会持续了十五分钟。当天晚上，多家当地媒体都引用了市长表示接受批评、认真记下意见的那番话。",
+            "grammar": "`varer et kvarter` 中时间长度直接作状语，不需要介词。第二主句以 `om aftenen` 开头，后接 `bliver ... citeret` 的被动结构。`borgmesterens ord om at tage kritikken til efterretning` 使用属格和 `om at` 不定式结构，说明被引用的是哪一番话。",
+            "vocabulary": [
+                {
+                    "da": "vare",
+                    "zh": "持续；历时",
+                    "note": "如 `Mødet varer en time.`"
+                },
+                {
+                    "da": "et kvarter",
+                    "zh": "十五分钟；一刻钟"
+                },
+                {
+                    "da": "citere",
+                    "zh": "引用；引述"
+                },
+                {
+                    "da": "lokale medier",
+                    "zh": "当地媒体；地方媒体"
+                },
+                {
+                    "da": "tage kritik til efterretning",
+                    "zh": "知悉并接受批评意见"
+                }
+            ],
+            "nuance": "作者把记者会长度与媒体后续报道并列，显示一次简短的政治活动也可以产生大量新闻内容。被广泛引用的不是关校方案的最终结论，而是市长对批评的回应措辞，下一句将揭示其政治语言特点。",
+            "transfer": [
+                "Pressemødet varede et kvarter.",
+                "Borgmesterens udtalelse blev citeret i flere medier.",
+                "Om aftenen bragte aviserne historien."
+            ],
+            "pitfall": "`vare et kvarter` 表示持续十五分钟，`et kvarter` 也可用于钟表时间。`bliver citeret` 表示被引用，不意味着媒体赞同所引用的内容。"
+        },
+        {
+            "id": "U24-C058",
+            "zh": "这种说法是政治人物的一种典型回应：它向外界传递出已经认真听取意见的信号，却并不让说话者承担任何明确的后续行动义务。",
+            "grammar": "`Udtrykket er et klassisk politisk svar` 是定义与评价。冒号后用 `Det signalerer, at ...` 解释语言传递出的信息。`uden at det forpligter én til noget bestemt` 是由 `uden at` 引导的否定伴随结果结构。`forpligte nogen til noget` 表示使某人承担某种义务，`én` 是泛指某个人。",
+            "vocabulary": [
+                {
+                    "da": "signalere",
+                    "zh": "传递信号；表明某种态度"
+                },
+                {
+                    "da": "have lyttet",
+                    "zh": "已经认真听取",
+                    "note": "完成不定式或完成时表达之前已发生的倾听行为"
+                },
+                {
+                    "da": "forpligte nogen til",
+                    "zh": "使某人有义务做某事；约束某人"
+                },
+                {
+                    "da": "noget bestemt",
+                    "zh": "某项明确具体的事情"
+                },
+                {
+                    "da": "uden at",
+                    "zh": "而不……；在没有……的情况下"
+                }
+            ],
+            "nuance": "这是理解丹麦政治和行政语言的重要一句。`tage til efterretning` 可能是一种有礼貌的承认和回应，但它本身不包含明确期限、责任人或整改措施。`signalerer` 与 `forpligter` 的对比，精准区分政治沟通中的态度表达和可执行的实际承诺。",
+            "transfer": [
+                "Udtalelsen signalerer, at regeringen har lyttet.",
+                "Det forpligter ikke myndighederne til konkrete ændringer.",
+                "Man kan anerkende kritikken uden at love noget bestemt."
+            ],
+            "pitfall": "`forpligte` 表示产生义务或约束，不只是让人感到需要做某事。`uden at` 后接从句或不定式结构时，要区分是否有明确主语。`tage til efterretning` 不等于承诺采取行动。"
+        },
+        {
+            "id": "U24-C059",
+            "zh": "对民主社会而言，如果公民不再拥有一套共同认可的事实基础，无法以此展开讨论，那就会成为一个严重问题。",
+            "grammar": "`For et demokrati` 是句首立场状语，因此主句使用 `er det et problem` 的 V2 语序。`hvis borgerne ikke længere har ...` 是条件从句，`ikke længere` 表示不再。`et fælles grundlag af fakta at diskutere ud fra` 中不定式结构进一步限定事实基础的用途；`diskutere ud fra` 表示以某种前提或材料为基础展开讨论。",
+            "vocabulary": [
+                {
+                    "da": "et demokrati",
+                    "zh": "民主制度；民主社会"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "强调过去可能存在的状态已经改变"
+                },
+                {
+                    "da": "et fælles grundlag",
+                    "zh": "共同基础；共同依据"
+                },
+                {
+                    "da": "fakta",
+                    "zh": "事实；事实信息",
+                    "note": "与个人观点 `holdninger` 区分"
+                },
+                {
+                    "da": "diskutere ud fra",
+                    "zh": "以……为依据展开讨论"
+                }
+            ],
+            "nuance": "作者把媒体识读从个人避免被骗提升到民主制度的共同条件。民主社会允许甚至需要意见分歧，但讨论仍需要一定的共同事实基础。`ikke længere` 强调这种基础可能遭到削弱，而不是说社会成员必须在所有政治判断上达成一致。",
+            "transfer": [
+                "Demokratiet kræver et fælles grundlag af fakta.",
+                "Vi skal have noget fælles at diskutere ud fra.",
+                "Det er et problem, hvis borgerne ikke længere stoler på oplysningerne."
+            ],
+            "pitfall": "`diskutere ud fra` 的 `ud fra` 不能随意省略，它表达依据或出发点。`ikke længere` 是不再，不等于 `ikke endnu` 尚未。"
+        },
+        {
+            "id": "U24-C060",
+            "zh": "如果没有媒体对掌权者进行严格监督，直到有关关校的决定已经作出之前，恐怕都不会有人知道新拉文斯特鲁普学校曾被列入预算削减名单。",
+            "grammar": "`Uden medier` 引出假设性的缺失条件，主句使用 `ville ingen vide` 的反事实结构，表示假如没有媒体监督，将会发生什么。`der kigger magthaverne efter i sømmene` 是关系从句，包含固定习语 `kigge nogen efter i sømmene`。`at skolen ... stod på listen` 是宾语从句。`før beslutningen var truffet` 使用过去完成时的被动结果结构，表达在最终决定形成之前的时间界限。",
+            "vocabulary": [
+                {
+                    "da": "en magthaver",
+                    "zh": "掌权者；权力拥有者"
+                },
+                {
+                    "da": "kigge nogen efter i sømmene",
+                    "zh": "仔细审查某人；对掌权者严格监督",
+                    "note": "形象习语，可用于审查行为、决定或管理"
+                },
+                {
+                    "da": "uden",
+                    "zh": "没有；如果缺少",
+                    "note": "可引出反事实条件"
+                },
+                {
+                    "da": "stå på listen over",
+                    "zh": "被列入……名单"
+                },
+                {
+                    "da": "en besparelse",
+                    "zh": "节支措施；削减开支"
+                }
+            ],
+            "nuance": "这是全文对监督性新闻价值的集中论证。作者通过假设没有媒体监督，突出调查报道可能产生的公共影响。`kigge efter i sømmene` 原本带有仔细检查细节的形象意义，在政治新闻中可表示对掌权者的言行、文件和决策过程进行严格审查。`ville` 说明这是反事实推论，不是对实际历史的独立验证。",
+            "transfer": [
+                "Medierne skal kigge magthaverne efter i sømmene.",
+                "Uden uafhængig journalistik ville borgerne vide mindre.",
+                "Forslaget stod på listen over besparelser.",
+                "Beslutningen var endnu ikke truffet."
+            ],
+            "pitfall": "`kigge nogen efter i sømmene` 不是去检查人的衣服接缝，而是严格审视。`ville` 在这里构成假设推论，不是普通的过去将来时。`før beslutningen var truffet` 强调决定形成前的界限。"
+        },
+        {
+            "id": "U24-C061",
+            "zh": "报道发表三周后，市镇议会决定将有关这所学校的决议推迟到下一年再作出。",
+            "grammar": "`Tre uger efter artiklen` 是句首时间状语，后接 `udsatte kommunalbestyrelsen` 的 V2 语序。`udsætte noget til` 是固定结构，表示把某事推迟到某个时间。`beslutningen om skolen` 是被推迟的对象。",
+            "vocabulary": [
+                {
+                    "da": "udsætte noget",
+                    "zh": "推迟；延期",
+                    "note": "也可表示使某人暴露于某种风险，具体按语境区分"
+                },
+                {
+                    "da": "kommunalbestyrelsen",
+                    "zh": "市镇议会；市镇民选议事机构"
+                },
+                {
+                    "da": "en beslutning om",
+                    "zh": "关于……的决定"
+                },
+                {
+                    "da": "til næste år",
+                    "zh": "推迟到明年",
+                    "note": "强调新的目标时间"
+                }
+            ],
+            "nuance": "文章交代了报道之后的政治进展，但措辞非常重要：`udsatte` 表示延期，不是取消关闭学校的计划，也不直接证明报道是延期的唯一原因。作者将结果留在一个尚未结束的政策过程中。",
+            "transfer": [
+                "Kommunalbestyrelsen udsatte beslutningen til næste år.",
+                "Mødet blev udsat til næste uge.",
+                "Beslutningen om skolen er endnu ikke truffet."
+            ],
+            "pitfall": "`udsætte` 不是取消 `aflyse`，也不是放弃 `opgive`。`til næste år` 表示目标时间延后，不能与 `i næste år` 混用。"
+        },
+        {
+            "id": "U24-C062",
+            "zh": "而劳拉已经开始着手调查下一条新闻了。",
+            "grammar": "`være i gang med` 是表示正在进行某项活动的固定结构。`allerede` 表示已经，强调劳拉并未停留在上一条报道的后续影响中。`den næste historie` 在新闻语境指下一个选题或报道。",
+            "vocabulary": [
+                {
+                    "da": "være i gang med",
+                    "zh": "正在进行；正在忙于"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经；早已"
+                },
+                {
+                    "da": "den næste historie",
+                    "zh": "下一条新闻；下一个报道选题"
+                }
+            ],
+            "nuance": "结尾与开篇形成循环：从接到一条线索，到核实、发表、追问和观察政治后续，再转入新的报道。`allerede` 使收尾轻快，也强调新闻监督不是一次性事件，而是一项持续进行的工作。",
+            "transfer": [
+                "Jeg er allerede i gang med det næste projekt.",
+                "Journalisten arbejder på sin næste historie.",
+                "Vi er i gang med at undersøge sagen."
+            ],
+            "pitfall": "`være i gang med` 后接名词或 `at` 不定式时，结构分别为 `i gang med projektet` 和 `i gang med at arbejde`。`historie` 在这里指新闻报道，不是虚构故事。"
+        }
+    ]
+}

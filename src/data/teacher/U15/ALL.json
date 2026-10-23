@@ -1,0 +1,1678 @@
+{
+    "schema_version": 1,
+    "unit": "U15",
+    "part": "ALL",
+    "source_fingerprint": "U15-ALL-3c73feaa717f",
+    "sentences": [
+        {
+            "id": "U15-C001",
+            "zh": "星期六凌晨三点一刻，奥尔堡的约姆弗鲁·阿讷街上，热狗摊前排着长长的队伍。",
+            "grammar": "由两个并列主句组成：`Klokken er ...` 说明时间，`køen ... er lang` 描述现场。`en lørdag nat` 是不带介词的时间状语，表示某个星期六的深夜。`ved pølsevognen` 修饰队伍的位置，`på Jomfru Ane Gade` 进一步定位。",
+            "vocabulary": [
+                {
+                    "da": "kvart over tre",
+                    "zh": "三点一刻",
+                    "note": "`kvart over` 表示过一刻钟；`kvart i tre` 则是差一刻三点"
+                },
+                {
+                    "da": "en kø",
+                    "zh": "队伍；排队的人群",
+                    "note": "`stå i kø` 排队，`køen er lang` 队伍很长"
+                },
+                {
+                    "da": "en pølsevogn",
+                    "zh": "热狗摊车",
+                    "note": "复合词 `pølse` 香肠 + `vogn` 车；丹麦街头常见"
+                }
+            ],
+            "nuance": "用精确时间、具体街道和热狗摊构成富有现场感的叙事开头。`en lørdag nat` 在日常叙事中可以指星期六晚间延续到深夜的时段；这里配合凌晨三点一刻，强调夜生活尚未结束。`Jomfru Ane Gade` 是奥尔堡著名的酒吧与夜生活街区，为后续冲突提供背景。",
+            "transfer": [
+                "Klokken er kvart over X, og ...",
+                "Der er lang kø ved ...",
+                "En lørdag nat i ..."
+            ],
+            "pitfall": "`kvart over tre` 是 3:15，不是 3:45；`kvart i fire` 才是 3:45。`stå i kø` 用介词 `i`，不是 `på`。"
+        },
+        {
+            "id": "U15-C002",
+            "zh": "突然，两群年轻男子发生了争吵。片刻之后，一名22岁的年轻人已经倒在鹅卵石铺成的路面上，满脸是血。",
+            "grammar": "`Pludselig opstår der et skænderi` 使用存在呈现结构 `der`，把新出现的事件引入叙事。`et øjeblik senere` 置于第二个主句句首，因此限定动词 `ligger` 紧跟其后，主语 `en 22-årig` 后移，体现 V2 语序。`med blod i ansigtet` 是描述身体状态的伴随状语。",
+            "vocabulary": [
+                {
+                    "da": "opstå",
+                    "zh": "发生；产生；出现",
+                    "note": "不规则变化：`opstår – opstod – opstået`；常用于问题、冲突或困难"
+                },
+                {
+                    "da": "et skænderi",
+                    "zh": "争吵；口角",
+                    "note": "`et skænderi mellem A og B`；动词 `skændes`"
+                },
+                {
+                    "da": "en brosten",
+                    "zh": "铺路石；鹅卵石状石块",
+                    "note": "复数 `brosten`；`på brostenene` 指铺石路面上"
+                },
+                {
+                    "da": "et øjeblik senere",
+                    "zh": "片刻之后",
+                    "note": "叙事中过渡时间的常用表达"
+                }
+            ],
+            "nuance": "`Pludselig` 与 `et øjeblik senere` 形成急剧推进的节奏。作者没有直接说年轻人被谁打倒，而只描写他已经躺在地上的状态，既制造悬念，也避免在证据出现之前认定施暴者。",
+            "transfer": [
+                "Pludselig opstår der et problem.",
+                "Et øjeblik senere + 动词 + 主语 ...",
+                "Der opstod et skænderi mellem X og Y."
+            ],
+            "pitfall": "`opstå` 是不及物动词，表示事件自行发生；不要套用英语表达而随意添加直接宾语。`en 22-årig` 可独立名词化，意为一名22岁的人。"
+        },
+        {
+            "id": "U15-C003",
+            "zh": "一名路人拨打了112报警。几分钟后，救护车和警车都赶到了现场。",
+            "grammar": "第一主句采用普通的主语—动词—宾语结构：`En forbipasserende ringer 112`。第二主句以 `få minutter efter` 开头，形成 `时间状语 + er + 主语 + 地点状语` 的倒装结构。`både ... og ...` 把两项并列为共同主语。",
+            "vocabulary": [
+                {
+                    "da": "en forbipasserende",
+                    "zh": "路人；经过的人",
+                    "note": "由动词 `passere forbi` 的现在分词名词化"
+                },
+                {
+                    "da": "ringe 112",
+                    "zh": "拨打112紧急电话",
+                    "note": "丹麦紧急求助号码；拨打某个号码可以直接用 `ringe`"
+                },
+                {
+                    "da": "en patruljevogn",
+                    "zh": "巡逻警车",
+                    "note": "`patrulje` 巡逻 + `vogn` 车辆"
+                },
+                {
+                    "da": "på stedet",
+                    "zh": "在现场；到场",
+                    "note": "`være på stedet` 表示已经到场"
+                }
+            ],
+            "nuance": "文章用 `få minutter efter` 强调紧急服务迅速到场。`på stedet` 属于中性、正式与新闻报道中都很自然的表达，不一定表示某人此刻正站在事发的精确位置。",
+            "transfer": [
+                "En forbipasserende ringede efter hjælp.",
+                "Få minutter efter var politiet på stedet.",
+                "Både X og Y var til stede."
+            ],
+            "pitfall": "`ringe 112` 是拨打号码；`ringe til nogen` 是打电话给某人；`ringe efter en ambulance` 是打电话叫救护车。三个搭配不要机械混用。"
+        },
+        {
+            "id": "U15-C004",
+            "zh": "受害者鼻梁骨折，还出现了脑震荡，但他说不出是谁动的手。",
+            "grammar": "`har brækket` 和 `har fået` 是两个并列的现在完成时，突出过去事件造成的当前伤情。`kan ikke sige` 使用情态动词 `kan` 表示无法提供信息。`hvem der slog` 是间接疑问从句，采用 `疑问代词 + der + 动词` 的结构，`hvem` 指未知的施暴者。",
+            "vocabulary": [
+                {
+                    "da": "et offer",
+                    "zh": "受害者；牺牲品",
+                    "note": "定冠词形式 `offeret`；法律和新闻语境常见"
+                },
+                {
+                    "da": "brække næsen",
+                    "zh": "鼻子骨折；打断鼻梁",
+                    "note": "`brække – brækkede – brækket`"
+                },
+                {
+                    "da": "en hjernerystelse",
+                    "zh": "脑震荡",
+                    "note": "常说 `få en hjernerystelse`"
+                },
+                {
+                    "da": "hvem der ...",
+                    "zh": "是谁……",
+                    "note": "主语身份未知的间接疑问结构"
+                }
+            ],
+            "nuance": "`han kan ikke sige` 这里并非说受害人失去了说话能力，而是不能说明施暴者身份。作者刻意把伤势已确认与行凶者尚未确认放在一起，建立后文法律审理的关键问题。",
+            "transfer": [
+                "Han har fået en hjernerystelse.",
+                "Jeg kan ikke sige, hvem der gjorde det.",
+                "Det er uklart, hvem der ..."
+            ],
+            "pitfall": "`hvem der slog` 不是直接疑问句，不应改为 `hvem slog` 来嵌入此处的从句。`få en hjernerystelse` 不宜直译为主动制造脑震荡。"
+        },
+        {
+            "id": "U15-C005",
+            "zh": "两天后，一名24岁的男子在自己的公寓中被警方逮捕。本文暂且称他为肯尼斯。",
+            "grammar": "`To dage senere` 作句首时间状语，后接限定动词 `bliver`，再接主语，遵守 V2。`bliver anholdt` 是 `blive` 被动态，强调逮捕这一动作。`som vi her kalder Kenneth` 是插入性的关系从句，补充说明文中使用的称呼。",
+            "vocabulary": [
+                {
+                    "da": "anholde",
+                    "zh": "逮捕；拘捕",
+                    "note": "法律术语；`blive anholdt af politiet` 被警方逮捕"
+                },
+                {
+                    "da": "en lejlighed",
+                    "zh": "公寓；住房",
+                    "note": "`i sin lejlighed` 在他自己的公寓里"
+                },
+                {
+                    "da": "kalde nogen noget",
+                    "zh": "称某人为某个名字或称谓",
+                    "note": "如 `Vi kalder ham Peter.`"
+                }
+            ],
+            "nuance": "`som vi her kalder Kenneth` 是一种叙事上的身份保护或匿名化表达，仅表示在这篇文章中采用这一名字，不能据此认定真实姓名。`bliver anholdt` 只说明警方采取拘捕措施，不意味着已经判定有罪。",
+            "transfer": [
+                "To dage senere blev han anholdt.",
+                "En person, som vi her kalder X, ...",
+                "Han blev anholdt i sin lejlighed."
+            ],
+            "pitfall": "`anholdt` 不等于 `dømt`（被判有罪），也不等于 `fængslet`（被羁押或监禁）。法律报道必须区分程序阶段。"
+        },
+        {
+            "id": "U15-C006",
+            "zh": "他否认打过任何人。",
+            "grammar": "`nægter + at + 完成不定式` 是核心：`at have slået nogen` 表示被否认的击打行为发生在否认之前。主句采用现在时 `nægter`，呈现当前的否认立场。`nogen` 在这里受否定意义的 `nægter` 影响，可译作任何人。",
+            "vocabulary": [
+                {
+                    "da": "nægte at gøre noget",
+                    "zh": "拒绝做某事；否认做过某事",
+                    "note": "具体译法由后面的不定式时态和语境决定"
+                },
+                {
+                    "da": "at have gjort noget",
+                    "zh": "已经做过某事",
+                    "note": "完成不定式，表示动作早于主句所述时间"
+                }
+            ],
+            "nuance": "`nægter at have slået` 比简单的 `nægter at slå` 更准确，因为争议的是过去是否实施了暴力行为，而不是现在是否愿意打人。这个句子正式、简洁，适合法律与新闻叙述。",
+            "transfer": [
+                "Han nægter at have gjort det.",
+                "Hun nægter at have modtaget pengene.",
+                "De nægter at have kendt til problemet."
+            ],
+            "pitfall": "`nægte at gøre` 可以表示拒绝做，`nægte at have gjort` 表示否认做过。不要忽略 `have` 造成的时间关系差异。"
+        },
+        {
+            "id": "U15-C007",
+            "zh": "逮捕之后，警方最多只有24小时的时间，必须在这一期限内将被捕者带到法官面前。",
+            "grammar": "`Efter en anholdelse` 是句首介词短语，主句仍为 `politiet har ...`。核心结构是 `have + 时间 + til at + 不定式`，表示完成某事的可用时间。`den anholdte` 由过去分词形容词名词化而来，特指被逮捕的人。",
+            "vocabulary": [
+                {
+                    "da": "højst",
+                    "zh": "最多；至多",
+                    "note": "强调上限；相对词 `mindst` 至少"
+                },
+                {
+                    "da": "et døgn",
+                    "zh": "24小时；一昼夜",
+                    "note": "比 `en dag` 更精确地强调连续24小时"
+                },
+                {
+                    "da": "bringe nogen for en dommer",
+                    "zh": "将某人带到法官面前",
+                    "note": "法律程序中的正式表达"
+                },
+                {
+                    "da": "den anholdte",
+                    "zh": "被捕者",
+                    "note": "名词化的过去分词；`de anholdte` 为复数"
+                }
+            ],
+            "nuance": "`højst et døgn` 是法律时限的严格上限，而不是警方通常会花上一天时间。这里引出对国家拘捕权的司法约束，说明即使已经被警方逮捕，也并不意味着可以未经审查而无限期拘留。",
+            "transfer": [
+                "Man har højst X dage til at ...",
+                "Efter en anholdelse skal ...",
+                "Sagen skal bringes for en dommer."
+            ],
+            "pitfall": "`højst` 与 `mindst` 恰好相反。`døgn` 是24小时，`dag` 可以指日历日或白天，不要在法律时限中随意互换。"
+        },
+        {
+            "id": "U15-C008",
+            "zh": "这一程序称为宪法规定的初次司法审查听证，因为相关要求写在宪法之中，其目的就是确保任何人都不会在未经法院监督的情况下被关押。",
+            "grammar": "全句分三层：`Det kaldes ...` 定义程序；`fordi kravet står ...` 解释名称与法律依据；`formålet er at sikre, at ...` 解释制度目的。`kaldes` 是 s-被动。`at ingen bliver holdt indespærret` 是 `sikre` 的宾语从句，`bliver holdt` 表示被保持在某种状态，`indespærret` 描述被关押的状态。",
+            "vocabulary": [
+                {
+                    "da": "et grundlovsforhør",
+                    "zh": "宪法规定的初次司法审查听证",
+                    "note": "逮捕后由法官审查继续羁押等问题的程序"
+                },
+                {
+                    "da": "grundloven",
+                    "zh": "宪法",
+                    "note": "`en grundlov`；特指丹麦宪法时常用定冠词"
+                },
+                {
+                    "da": "at sikre, at ...",
+                    "zh": "确保……",
+                    "note": "正式论述中的高频句型"
+                },
+                {
+                    "da": "holde nogen indespærret",
+                    "zh": "将某人关押起来",
+                    "note": "着重持续限制人身自由的状态"
+                },
+                {
+                    "da": "en domstol",
+                    "zh": "法院；司法机关",
+                    "note": "`en domstols kontrol` 为属格结构"
+                }
+            ],
+            "nuance": "这是典型的制度解释型书面语言，从定义、法律根据到制度保障功能层层展开。`står i grundloven` 不是字面上的站在宪法里，而是相关规定载明于宪法。`ingen` 体现保护原则适用于所有人，包括受到犯罪嫌疑的人。",
+            "transfer": [
+                "Det kaldes X, fordi ...",
+                "Formålet er at sikre, at ...",
+                "Kravet står i loven.",
+                "Ingen må holdes indespærret uden ..."
+            ],
+            "pitfall": "`grundlovsforhør` 不是最终审判，也不等于宣判有罪。`forhør` 在这里有正式司法程序的含义，不能仅理解为警方审讯。"
+        },
+        {
+            "id": "U15-C009",
+            "zh": "肯尼斯获释，但仍因涉嫌暴力犯罪而受到正式指控。",
+            "grammar": "`bliver løsladt, men sigtet for vold` 是并列的两个被动描述，后半句省略重复的 `bliver`。`løsladt` 指解除拘押状态，`sigtet for` 表示警方已正式将其列为某项犯罪的嫌疑人。",
+            "vocabulary": [
+                {
+                    "da": "løslade",
+                    "zh": "释放；解除拘押",
+                    "note": "`blive løsladt` 被释放"
+                },
+                {
+                    "da": "sigte nogen for noget",
+                    "zh": "就某罪名对某人提出正式嫌疑指控",
+                    "note": "`være sigtet for` 表示具有被正式列为嫌疑人的程序身份"
+                },
+                {
+                    "da": "vold",
+                    "zh": "暴力；暴力犯罪",
+                    "note": "`vold` 在法律语境可作为犯罪类型"
+                }
+            ],
+            "nuance": "这句话通过 `men` 突出两个可以同时成立的状态：人身自由得到恢复，刑事调查却仍在继续。此处的释放并不等于无罪判决，也不是警方撤销嫌疑。",
+            "transfer": [
+                "Han blev løsladt, men er stadig sigtet.",
+                "Politiet har sigtet ham for vold.",
+                "Hun blev løsladt efter afhøringen."
+            ],
+            "pitfall": "重点区分 `sigtet`（调查阶段的正式嫌疑身份）、`tiltalt`（受到起诉）与 `dømt`（被判有罪）。"
+        },
+        {
+            "id": "U15-C010",
+            "zh": "最终，检察机关决定正式提起公诉。",
+            "grammar": "`Til sidst` 是句首时间或进程状语，随后出现限定动词 `beslutter`，主语 `anklagemyndigheden` 后移。`beslutte at + 不定式` 表示决定采取某项行动；`rejse tiltale` 是固定法律搭配。",
+            "vocabulary": [
+                {
+                    "da": "anklagemyndigheden",
+                    "zh": "检察机关；公诉机关",
+                    "note": "`en anklagemyndighed`；集合性的机构名称"
+                },
+                {
+                    "da": "rejse tiltale",
+                    "zh": "提起公诉；正式起诉",
+                    "note": "固定法律表达，不是把指控举起来"
+                },
+                {
+                    "da": "til sidst",
+                    "zh": "最后；最终",
+                    "note": "强调经过一系列事件之后的结果"
+                }
+            ],
+            "nuance": "`Til sidst` 表示经过调查和程序推进，案件进入新的阶段。`rejse tiltale` 比一般的 `anklage nogen` 具有更明确的刑事诉讼程序含义，意味着案件正式进入起诉阶段。",
+            "transfer": [
+                "Til sidst besluttede vi at ...",
+                "Anklagemyndigheden besluttede at rejse tiltale.",
+                "Der blev rejst tiltale mod ham."
+            ],
+            "pitfall": "`rejse tiltale` 中不加 `en`。与 `sigtelse` 相比，`tiltale` 对应后续正式起诉阶段，不可简单视为同义词。"
+        },
+        {
+            "id": "U15-C011",
+            "zh": "半年后，这起案件在地方法院开庭审理。",
+            "grammar": "`Sagen bliver behandlet` 使用 `blive + 过去分词` 构成被动，突出案件作为程序对象。`i byretten` 表示在地方法院审理；`et halvt år senere` 置于句末交代时间。",
+            "vocabulary": [
+                {
+                    "da": "behandle en sag",
+                    "zh": "审理案件；处理事项",
+                    "note": "`behandle` 在行政、医疗和法律语境中都有处理之义"
+                },
+                {
+                    "da": "byretten",
+                    "zh": "地方法院",
+                    "note": "丹麦普通法院体系中的一审法院"
+                },
+                {
+                    "da": "et halvt år senere",
+                    "zh": "半年后",
+                    "note": "`et halvt år` 半年"
+                }
+            ],
+            "nuance": "使用被动句把注意力集中在案件进程，而不是哪位法官审理。`behandle en sag` 的语体比口语中的 `tage sig af en sag` 更符合司法程序介绍。",
+            "transfer": [
+                "Sagen bliver behandlet i retten.",
+                "Sagen blev behandlet et halvt år senere.",
+                "Myndighederne behandler sagen."
+            ],
+            "pitfall": "`byret` 虽含 `by`（城市），但不能简单翻译为市政府法院；它是特定层级的司法机关。"
+        },
+        {
+            "id": "U15-C012",
+            "zh": "检察官宣读并说明起诉书的内容，而肯尼斯表示不认罪。",
+            "grammar": "两个主句由 `og` 连接。`gennemgår anklageskriftet` 指依次讲述或审阅起诉书；`nægter sig skyldig` 是法庭语境中的固定反身结构，表示不承认有罪。`sig` 与主语 Kenneth 对应。",
+            "vocabulary": [
+                {
+                    "da": "en anklager",
+                    "zh": "检察官；公诉人",
+                    "note": "与 `en forsvarer` 辩护律师相对"
+                },
+                {
+                    "da": "gennemgå",
+                    "zh": "逐项讲解；审阅；检查",
+                    "note": "常见于报告、文件、流程与教学"
+                },
+                {
+                    "da": "et anklageskrift",
+                    "zh": "起诉书",
+                    "note": "列明具体指控的正式法律文件"
+                },
+                {
+                    "da": "nægte sig skyldig",
+                    "zh": "不认罪",
+                    "note": "与 `erklære sig skyldig`、`erkende sig skyldig` 对照记忆"
+                }
+            ],
+            "nuance": "`nægter sig skyldig` 是正式法庭表达，而不是一般意义上拒绝承担责任。它表明被告对犯罪指控的立场，不预先说明法院最终将如何认定事实。",
+            "transfer": [
+                "Lad os gennemgå dokumentet.",
+                "Han nægtede sig skyldig.",
+                "Hun erklærede sig ikke skyldig."
+            ],
+            "pitfall": "`skyldig` 是有罪的，`uskyldig` 是无罪的。`nægte sig skyldig` 整体表示不认罪，不要将其中的 `skyldig` 单独误译为认罪。"
+        },
+        {
+            "id": "U15-C013",
+            "zh": "最重要的证人是一名年轻女子。事发当时，她也在热狗摊前排队。",
+            "grammar": "`Det vigtigste vidne` 使用中性定冠词 `det` 和最高级形容词 `vigtigste`，因为 `vidne` 是 et 词。`der stod i køen ...` 是关系从句，`der` 充当主语，补充证人在案发现场的位置。",
+            "vocabulary": [
+                {
+                    "da": "et vidne",
+                    "zh": "证人；目击者",
+                    "note": "复数 `vidner`"
+                },
+                {
+                    "da": "det vigtigste",
+                    "zh": "最重要的",
+                    "note": "修饰特指的 et 词时使用 `det + 最高级`"
+                },
+                {
+                    "da": "stå i kø",
+                    "zh": "排队",
+                    "note": "固定介词 `i`"
+                }
+            ],
+            "nuance": "作者先交代证人的身份与位置，再进入证人证词。`Det vigtigste vidne` 是相对于本案其他证据或证人而言的关键证人，不表示其陈述天然可信。",
+            "transfer": [
+                "Det vigtigste vidne er ...",
+                "En kvinde, der stod i kø, ...",
+                "Han var til stede, da det skete."
+            ],
+            "pitfall": "`et vidne` 属于中性名词，所以是 `det vigtigste vidne`，而非 `den vigtigste vidne`。"
+        },
+        {
+            "id": "U15-C014",
+            "zh": "检察官：你能说说你当时看到了什么吗？",
+            "grammar": "主句是以情态动词 `Kan` 开头的一般疑问句。`hvad du så` 是间接疑问从句，采用 `疑问词 + 主语 + 动词` 的语序。`så` 是 `se` 的过去时，而不是表示于是的副词。",
+            "vocabulary": [
+                {
+                    "da": "fortælle, hvad ...",
+                    "zh": "讲述……的情况",
+                    "note": "后接间接疑问从句"
+                },
+                {
+                    "da": "se – så – set",
+                    "zh": "看见",
+                    "note": "不规则动词三形式"
+                }
+            ],
+            "nuance": "`Kan du fortælle ...?` 在这里是礼貌地邀请证人陈述，而非质疑证人有没有说话能力。法庭询问从开放式问题开始，有利于让证人用自己的话描述所见。",
+            "transfer": [
+                "Kan du fortælle, hvad der skete?",
+                "Kan du fortælle, hvad du så?",
+                "Kan du beskrive, hvad du oplevede?"
+            ],
+            "pitfall": "不能将间接疑问从句写成主句倒装语序 `hvad så du`。`så` 既可能是 `se` 的过去式，也可能表示于是，需要根据句法判断。"
+        },
+        {
+            "id": "U15-C015",
+            "zh": "证人：当时有几个人在大喊大叫，接着一个穿深色夹克的人朝后来倒地的那个人挥了一拳。",
+            "grammar": "`Der var nogle, der råbte` 包含两个作用不同的 `der`：第一个引出存在的人，第二个是关系代词，指那些喊叫的人。`og så slog en ... ud efter ham` 中 `så` 是时间连接副词，所以后面的限定动词 `slog` 位于第二位置。`en i en mørk jakke` 是省略中心名词的口语表达，指一名穿深色夹克的人。",
+            "vocabulary": [
+                {
+                    "da": "råbe",
+                    "zh": "喊叫；大声叫嚷",
+                    "note": "`råbte` 为过去时"
+                },
+                {
+                    "da": "slå ud efter nogen",
+                    "zh": "朝某人挥拳；试图打某人",
+                    "note": "强调挥击动作，不必然意味着打中"
+                },
+                {
+                    "da": "en mørk jakke",
+                    "zh": "一件深色夹克"
+                },
+                {
+                    "da": "falde",
+                    "zh": "跌倒；落下",
+                    "note": "`falder – faldt – faldet`"
+                }
+            ],
+            "nuance": "证人的叙述带有典型现场口语特征：`nogle`、`en`、`ham` 都是不完全明确的指称。尤其 `slog ud efter` 只保证证人看到了挥拳动作，不能自动推定击中了对方。这个细节对后面的证据评估十分重要。",
+            "transfer": [
+                "Der var nogle, der råbte.",
+                "En mand slog ud efter ham.",
+                "Og så skete der noget uventet."
+            ],
+            "pitfall": "`slå ud efter` 不完全等同于 `slå nogen`。前者可指挥拳或试图击打，后者通常表示实际打到某人。"
+        },
+        {
+            "id": "U15-C016",
+            "zh": "检察官：你能在这间法庭里认出那个人吗？",
+            "grammar": "`Kan du se ...?` 使用情态动词询问当前是否能够辨认。`ham` 指此前证词中穿深色夹克的男子；`her i retssalen` 把识别范围限定为眼前的法庭。",
+            "vocabulary": [
+                {
+                    "da": "en retssal",
+                    "zh": "法庭审判室",
+                    "note": "`i retssalen` 在法庭内"
+                },
+                {
+                    "da": "kunne se nogen",
+                    "zh": "能看见或辨认某人",
+                    "note": "此处按语境理解为辨认"
+                }
+            ],
+            "nuance": "检察官把证人从对过去事件的叙述引向当庭身份辨认。`se ham` 字面为看到他，但在当前司法语境中的实际问题是能否指出被告就是她当时所见的人。",
+            "transfer": [
+                "Kan du se ham her?",
+                "Kan du genkende personen?",
+                "Kan du pege på den person, du så?"
+            ],
+            "pitfall": "`se` 与 `genkende` 不完全相同：前者强调看到，后者强调认出。这里需要通过上下文把 `se` 理解为辨认身份。"
+        },
+        {
+            "id": "U15-C017",
+            "zh": "证人：我觉得是他。但我不能完全确定。",
+            "grammar": "`Jeg tror, det er ham` 是主句加省略连接词 `at` 的宾语从句：完整形式可写为 `Jeg tror, at det er ham`。`ikke helt sikker` 使用程度副词 `helt` 修饰 `sikker`，表示不完全确定，而不是完全否定判断。",
+            "vocabulary": [
+                {
+                    "da": "tro, at ...",
+                    "zh": "认为；相信……",
+                    "note": "表示判断而不是确定的知识"
+                },
+                {
+                    "da": "være sikker på noget",
+                    "zh": "对某事有把握",
+                    "note": "后接宾语时常使用 `på`"
+                },
+                {
+                    "da": "ikke helt",
+                    "zh": "不完全；并不十分",
+                    "note": "柔化或限定判断"
+                }
+            ],
+            "nuance": "`Jeg tror` 与 `ikke helt sikker` 两次降低证词的确定程度。证人并没有明确否认，但也没有作出毫无保留的肯定辨认。这种不确定性后来直接影响能否达到刑事定罪的证明标准。",
+            "transfer": [
+                "Jeg tror, det er ham.",
+                "Jeg er ikke helt sikker.",
+                "Jeg er ret sikker, men ikke hundrede procent."
+            ],
+            "pitfall": "`Jeg tror` 在这里是我认为，不是宗教意义上的信仰。`ikke helt sikker` 不等于 `helt usikker`；否定作用于程度，表达的是不完全确定。"
+        },
+        {
+            "id": "U15-C018",
+            "zh": "辩护律师：那天晚上你喝了不少酒，对吧？",
+            "grammar": "`havde drukket` 是过去完成时，强调饮酒发生在事后法庭询问以前，并相对于案发时的观察能力构成相关背景。`en del` 修饰饮酒量，表示相当一些或不少。句末 `ikke sandt?` 是确认性附加问句。",
+            "vocabulary": [
+                {
+                    "da": "en forsvarer",
+                    "zh": "辩护律师",
+                    "note": "刑事案件中为被告辩护的人"
+                },
+                {
+                    "da": "en del",
+                    "zh": "不少；相当多",
+                    "note": "可修饰数量或程度"
+                },
+                {
+                    "da": "ikke sandt?",
+                    "zh": "对吧？是不是？",
+                    "note": "带有寻求确认甚至预设答案的语气"
+                }
+            ],
+            "nuance": "辩护律师并不直接否定证人，而是通过饮酒情况削弱其观察和记忆可靠性。`ikke sandt?` 暗示提问者预期对方承认前面的说法，具有明显的引导性。在普通交谈中也能使用，但正式交叉询问中的压力更强。",
+            "transfer": [
+                "Du var der den aften, ikke sandt?",
+                "Du havde allerede hørt om det, ikke sandt?",
+                "Hun havde drukket en del."
+            ],
+            "pitfall": "`havde drukket` 不等于 `drak`：前者从一个过去参考点回看更早发生的饮酒行为。`ikke sandt?` 不能按字面拆译成不是真的。"
+        },
+        {
+            "id": "U15-C019",
+            "zh": "证人：喝了两三杯啤酒吧。",
+            "grammar": "省略回答句，只保留数量名词短语 `Et par øl`，完整语义可理解为 `Jeg havde drukket et par øl`。丹麦语对话中，回答明确的问题时经常省去已经给出的主语和动词。",
+            "vocabulary": [
+                {
+                    "da": "et par",
+                    "zh": "两个左右；两三个",
+                    "note": "可以精确指两个，也可以在口语中作近似数量"
+                },
+                {
+                    "da": "en øl",
+                    "zh": "一杯或一瓶啤酒",
+                    "note": "复数 `øl`"
+                }
+            ],
+            "nuance": "`Et par øl` 显得轻描淡写，可能让听者先理解为喝得并不多。结合后续追问，这里逐渐显露证人在酒量陈述上的不够准确。",
+            "transfer": [
+                "Jeg drak et par øl.",
+                "Bare et par stykker.",
+                "Vi ventede et par minutter."
+            ],
+            "pitfall": "`et par` 不一定在所有口语情境中都是严格的两个，但也不意味着可以随意表示五六个；应结合说话人的语气和上下文判断。"
+        },
+        {
+            "id": "U15-C020",
+            "zh": "辩护律师：两三杯？",
+            "grammar": "典型的省略疑问句，只重复对方回答中的数量短语，并通过疑问语调表达质疑。省略了完整问句中的动词和主语。",
+            "vocabulary": [],
+            "nuance": "表面只是重复两个词，实际上是在逼证人重新核实或修正刚才的说法。相比直接问 `Er du sikker?`，这样的回声式追问更简短，也可能制造更强的对话压力。",
+            "transfer": [
+                "Et par?",
+                "Kun to?",
+                "Er du sikker på det?"
+            ],
+            "pitfall": "不要把这里当作没有信息量的重复。法庭对话中的简短反问常常承担质疑可信度的功能。"
+        },
+        {
+            "id": "U15-C021",
+            "zh": "证人：五杯吧，也可能六杯。",
+            "grammar": "再次采用省略式回答，省去 `Jeg havde drukket` 和名词 `øl`，只保留修正后的数量及不确定副词 `måske`。",
+            "vocabulary": [
+                {
+                    "da": "måske",
+                    "zh": "也许；可能",
+                    "note": "表示说话人对具体数字没有完全把握"
+                }
+            ],
+            "nuance": "从先前的 `et par` 改口到五六杯，令证人的陈述显得不够准确。作者通过极短的问答，让读者自行意识到证人观察能力和证词可信度存在问题。",
+            "transfer": [
+                "Fem, måske seks.",
+                "Det var måske omkring seks.",
+                "Jeg kan ikke huske det præcist."
+            ],
+            "pitfall": "这里的 `måske` 主要修饰六这个可能数字，不代表整句中饮酒这件事也不确定。"
+        },
+        {
+            "id": "U15-C022",
+            "zh": "辩护律师：那么，你当时看清他的脸了吗？",
+            "grammar": "`Og` 放在问句开头，承担衔接和推进询问的作用。`kunne du se` 使用过去时情态动词 `kunne`，关注证人在过去特定情况下是否具备看清的条件，而非询问许可。",
+            "vocabulary": [
+                {
+                    "da": "et ansigt",
+                    "zh": "脸；面孔",
+                    "note": "`hans ansigt` 他的脸"
+                },
+                {
+                    "da": "kunne se",
+                    "zh": "能够看见；看得清",
+                    "note": "结合上下文可强调视觉条件或辨认能力"
+                }
+            ],
+            "nuance": "辩护律师把注意力从饮酒量转移到身份辨认的另一个关键前提：是否实际看清了面孔。问句开头的 `Og` 不是简单增加一条信息，而有继续施压、逐步追问的效果。",
+            "transfer": [
+                "Og kunne du se ham tydeligt?",
+                "Kunne du se, hvad der skete?",
+                "Kunne du genkende hans ansigt?"
+            ],
+            "pitfall": "`kunne` 在这里是过去的能力或条件，不宜译为你当时被允许看吗。"
+        },
+        {
+            "id": "U15-C023",
+            "zh": "证人：没完全看清。他当时戴着兜帽。",
+            "grammar": "`Ikke helt` 省略主语和谓语，否定观察的完整程度。`Han havde hætte på` 使用固定结构 `have + 衣物 + på`，表示身上穿着或戴着某物；`på` 放在句末。",
+            "vocabulary": [
+                {
+                    "da": "en hætte",
+                    "zh": "兜帽；帽兜",
+                    "note": "区别于独立帽子 `en hat`"
+                },
+                {
+                    "da": "have noget på",
+                    "zh": "穿着；戴着",
+                    "note": "口语常见；`have hætte på` 戴着兜帽"
+                },
+                {
+                    "da": "ikke helt",
+                    "zh": "不完全；没完全……"
+                }
+            ],
+            "nuance": "这段回答进一步降低证人辨认被告的可靠性。`Ikke helt` 的克制表达与兜帽遮挡面孔的客观事实结合，形成比单纯说不记得更具体的证据缺口。",
+            "transfer": [
+                "Han havde hætte på.",
+                "Hun havde en jakke på.",
+                "Jeg kunne ikke se det helt tydeligt."
+            ],
+            "pitfall": "`hætte` 是衣物上的兜帽，不是一般的帽子。`have ... på` 应整体记忆，不能把 `på` 理解成一个可以随便省略的地点介词。"
+        },
+        {
+            "id": "U15-C024",
+            "zh": "监控录像拍到了一名穿深色夹克的男子，但画面模糊不清，他的面孔又被兜帽遮住了。",
+            "grammar": "三个事实性分句依次排列：录像显示某人，画面模糊，面孔被遮挡。`ansigtet er skjult af hætten` 使用 `være + 过去分词` 描述既成的遮挡状态，`af hætten` 说明造成遮挡的事物。",
+            "vocabulary": [
+                {
+                    "da": "en videooptagelse",
+                    "zh": "视频录像；录像资料",
+                    "note": "复数定冠词 `videooptagelserne`"
+                },
+                {
+                    "da": "sløret",
+                    "zh": "模糊的；不清晰的",
+                    "note": "可描述照片、视频或视觉感受"
+                },
+                {
+                    "da": "skjult",
+                    "zh": "被隐藏的；被遮住的",
+                    "note": "来自动词 `skjule`"
+                }
+            ],
+            "nuance": "录像原本可能成为比证词更客观的证据，但作者用 `men` 指出其实际局限。深色夹克虽与证词相符，模糊画质和被遮挡的面孔却不足以完成身份确认。",
+            "transfer": [
+                "Videooptagelserne viser ...",
+                "Billedet er for sløret til at ...",
+                "Ansigtet er skjult af ..."
+            ],
+            "pitfall": "`sløret` 表示影像模糊，不是说录像必然遭到人为篡改。`er skjult` 强调状态，与 `bliver skjult` 所突出的一次遮挡过程不同。"
+        },
+        {
+            "id": "U15-C025",
+            "zh": "肯尼斯确实有一件深色夹克，可在二月的某个星期六深夜，奥尔堡的年轻男子恐怕有一半都穿着类似的夹克。",
+            "grammar": "后半句的 `det har halvdelen ...` 值得重点掌握：`det` 指前面提到的深色夹克，并作为前置宾语；限定动词 `har` 位于第二位置；主语 `halvdelen af de unge mænd` 后置。这里不是形式主语 `det`。末尾时间地点状语强化具体情境。",
+            "vocabulary": [
+                {
+                    "da": "halvdelen af ...",
+                    "zh": "……的一半",
+                    "note": "`halvdelen af de unge mænd` 年轻男子中的一半"
+                },
+                {
+                    "da": "en mørk jakke",
+                    "zh": "深色夹克",
+                    "note": "与前文证词形成重复指向"
+                },
+                {
+                    "da": "det har ... også",
+                    "zh": "……也有这个",
+                    "note": "以 `det` 回指已经提到的物品或特征"
+                }
+            ],
+            "nuance": "作者以略带幽默的夸张提醒读者：拥有深色夹克并不是足够独特的身份特征。`halvdelen` 不应被理解为经过调查统计得到的精确比例，而是突出这种衣着十分普通。",
+            "transfer": [
+                "Han har en bil, og det har jeg også.",
+                "Hun har erfaring, og det har mange andre også.",
+                "Halvdelen af deltagerne ..."
+            ],
+            "pitfall": "这里的 `det` 是宾语，不是主语。不能把 `det har halvdelen` 理解为它拥有一半；真正的主语是 `halvdelen af ...`。"
+        },
+        {
+            "id": "U15-C026",
+            "zh": "法院判决他无罪。",
+            "grammar": "普通主动句：`Retten` 是作出裁判的主语，`frifinder` 是限定动词，`ham` 是直接宾语。这里使用主动语态突出法院的裁判行为。",
+            "vocabulary": [
+                {
+                    "da": "frifinde",
+                    "zh": "判无罪；宣告无罪",
+                    "note": "`frifinder – frifandt – frifundet`"
+                },
+                {
+                    "da": "retten",
+                    "zh": "法院；法庭",
+                    "note": "此处指行使司法裁判权的法院"
+                }
+            ],
+            "nuance": "极短的陈述使判决显得果断明确，与此前复杂且不确定的证据形成对照。但法院判无罪不意味着已经证明事件没有发生，后文将专门解释这一逻辑。",
+            "transfer": [
+                "Retten frifandt ham.",
+                "Han blev frifundet.",
+                "Retten valgte at frifinde den tiltalte."
+            ],
+            "pitfall": "`frifinde` 是判无罪，不是 `løslade`（释放）。一个人可能先被释放，后来才正式获得无罪判决。"
+        },
+        {
+            "id": "U15-C027",
+            "zh": "判决书指出，现有证据尚不足以排除一切合理怀疑，证明当时动手的人就是肯尼斯。",
+            "grammar": "主句 `I dommen står der` 使用地点前置与呈现性 `der`。后接 `at` 宾语从句，其内部又包含 `at det var Kenneth, der slog`。最内层是强调句 `Det var X, der ...`，专门突出施暴者的身份。`ikke er bevist ud over enhver rimelig tvivl` 是全句最关键的证明标准表达。",
+            "vocabulary": [
+                {
+                    "da": "en dom",
+                    "zh": "判决；判决书",
+                    "note": "`i dommen står der ...` 判决书写道"
+                },
+                {
+                    "da": "bevise",
+                    "zh": "证明；证实",
+                    "note": "`bevise – beviste – bevist`"
+                },
+                {
+                    "da": "ud over enhver rimelig tvivl",
+                    "zh": "排除一切合理怀疑",
+                    "note": "刑事司法中的重要证明标准表达"
+                },
+                {
+                    "da": "rimelig tvivl",
+                    "zh": "合理怀疑",
+                    "note": "`rimelig` 在此强调有理据、合理，而不是程度适中"
+                }
+            ],
+            "nuance": "这句话不是说法官确信肯尼斯绝对没有动手，而是说控方未能达到刑事定罪所要求的证明程度。`det var Kenneth, der slog` 的强调结构把焦点精确落在是谁实施了击打行为，而不是是否发生过击打。",
+            "transfer": [
+                "I dommen står der, at ...",
+                "Det er ikke bevist, at ...",
+                "Det kan ikke bevises ud over enhver rimelig tvivl.",
+                "Det var X, der gjorde det."
+            ],
+            "pitfall": "`ud over enhver rimelig tvivl` 是法律证明标准，不能直译成超出每一种合理疑问而不理解其法律含义。尤其注意 `ikke er bevist` 的否定范围：未得到充分证明，不等于反面事实已被证明。"
+        },
+        {
+            "id": "U15-C028",
+            "zh": "对受害者及其家人来说，这样的判决很难接受。",
+            "grammar": "`For offeret og hans familie` 是句首立场或视角状语，后接限定动词 `er`，随后才是主语 `dommen`，符合 V2 语序。`svær at acceptere` 为 `形容词 + at + 不定式` 结构，逻辑上表示判决难以被接受。",
+            "vocabulary": [
+                {
+                    "da": "for nogen",
+                    "zh": "对某人而言",
+                    "note": "常用于限定判断所依据的立场或感受"
+                },
+                {
+                    "da": "svær at acceptere",
+                    "zh": "难以接受",
+                    "note": "也可以说 `vanskelig at acceptere`"
+                },
+                {
+                    "da": "en dom",
+                    "zh": "判决"
+                }
+            ],
+            "nuance": "文章从法院的证明标准转换到受害者及家属的情绪体验。`For ...` 明确这是特定当事人的感受，不是作者直接否定判决的法律正当性。",
+            "transfer": [
+                "For mig er det svært at acceptere.",
+                "Beslutningen er svær at forstå.",
+                "For familien var situationen meget belastende."
+            ],
+            "pitfall": "`For familien er det svært ...` 中句首 `For familien` 不改变 V2 规则。不要写成英语式的 `For familien det er ...`。"
+        },
+        {
+            "id": "U15-C029",
+            "zh": "明明有人打伤了他，却没有任何人为这件事受到惩罚。",
+            "grammar": "两句通过 `og` 并列。`Nogen` 是肯定性不定代词，表示有人确实实施了行为；`ingen` 是否定性不定代词，表示没有任何人。`bliver straffet for det` 是被动态，`for det` 说明受到惩罚的原因。",
+            "vocabulary": [
+                {
+                    "da": "nogen",
+                    "zh": "某人；有人",
+                    "note": "此处表示身份不明但确实存在的行为人"
+                },
+                {
+                    "da": "ingen",
+                    "zh": "没有人",
+                    "note": "表示零数量的人"
+                },
+                {
+                    "da": "straffe nogen for noget",
+                    "zh": "因为某事惩罚某人",
+                    "note": "固定介词 `for`"
+                }
+            ],
+            "nuance": "简单的 `nogen` 对 `ingen` 形成强烈反差：暴力事件确实发生，法律却没有惩罚任何人。这准确表现受害者的挫败感，也为下一句对法治原则的辩护制造张力。",
+            "transfer": [
+                "Nogen må have gjort det.",
+                "Ingen blev straffet for det.",
+                "Han blev straffet for sin handling."
+            ],
+            "pitfall": "`nogen` 与 `ingen` 不仅形式不同，含义也相反。`bliver straffet` 是被惩罚，而非主动惩罚别人。"
+        },
+        {
+            "id": "U15-C030",
+            "zh": "然而，这项无罪判决恰恰体现了法治社会的一项基本原则：无罪推定。",
+            "grammar": "`Alligevel` 置于句首，表示与前述失望情绪形成让步转折。谓语结构 `være udtryk for` 表示体现、反映。`et af retssamfundets grundprincipper` 使用 `et af + 复数名词` 表达多个原则中的一个；冒号后给出具体名称。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；然而",
+                    "note": "常用于承认前文事实后提出不同结论"
+                },
+                {
+                    "da": "være udtryk for",
+                    "zh": "体现；反映；表明",
+                    "note": "适合 C1 议论文和分析性写作"
+                },
+                {
+                    "da": "et grundprincip",
+                    "zh": "基本原则"
+                },
+                {
+                    "da": "uskyldsformodningen",
+                    "zh": "无罪推定原则",
+                    "note": "`uskyld` 无罪 + `formodning` 推定"
+                }
+            ],
+            "nuance": "这是全文核心论证的转折点。作者并未否认受害者受到的伤害，而是说明司法制度有时必须接受令人遗憾的个案结果，以守住更普遍的程序保障。`Alligevel` 正是这种价值张力的语言标记。",
+            "transfer": [
+                "Alligevel er det vigtigt at ...",
+                "Det er udtryk for et grundlæggende problem.",
+                "X er et af samfundets grundprincipper."
+            ],
+            "pitfall": "`være udtryk for` 不等于字面上的成为一个表达，而是体现某种原则、态度或趋势。`uskyldsformodning` 也不是已经证明无罪，而是法律对被告作出的初始推定。"
+        },
+        {
+            "id": "U15-C031",
+            "zh": "一个人在被证明有罪之前，应被视为无罪。而且，承担证明有罪这一责任的是检察机关，而不是由被告来证明自己无罪。",
+            "grammar": "`Man er uskyldig, indtil det modsatte er bevist` 用 `indtil` 引出时间界限，`det modsatte` 指前面无罪状态的反面。后半句以强调句 `det er X, der skal ...` 分配举证责任，再以破折号引入否定对照 `ikke den tiltalte, der ...`，省略重复的 `det er`。",
+            "vocabulary": [
+                {
+                    "da": "uskyldig",
+                    "zh": "无罪的；无辜的",
+                    "note": "反义词 `skyldig`"
+                },
+                {
+                    "da": "det modsatte",
+                    "zh": "相反的情况；反面",
+                    "note": "指代前文命题的反面"
+                },
+                {
+                    "da": "bevise skylden",
+                    "zh": "证明有罪",
+                    "note": "此处 `skylden` 指刑事罪责"
+                },
+                {
+                    "da": "den tiltalte",
+                    "zh": "被告人",
+                    "note": "名词化过去分词，指已经受到起诉的人"
+                },
+                {
+                    "da": "anklagemyndigheden",
+                    "zh": "检察机关；公诉机关"
+                }
+            ],
+            "nuance": "这句话把无罪推定拆成两个层面：初始法律地位与举证责任归属。强调结构刻意突出由谁证明，而不是仅仅说需要证明什么。`ikke den tiltalte` 对中国学习者理解法治论证尤其重要：被告没有义务先证明自己无辜。",
+            "transfer": [
+                "Man er uskyldig, indtil det modsatte er bevist.",
+                "Det er X, der skal bevise Y.",
+                "Det er ikke borgeren, der skal ..."
+            ],
+            "pitfall": "`indtil` 是直到……为止，不表示只要……就。`den tiltalte` 与 `den sigtede` 程序身份不同。`det modsatte` 在这里指有罪这一反面事实，不应机械译为相反的东西。"
+        },
+        {
+            "id": "U15-C032",
+            "zh": "只要存在合理怀疑，就必须作出有利于被告的判断。",
+            "grammar": "`Er der rimelig tvivl` 是省略 `hvis` 的条件从句，通过限定动词前置构成条件倒装。后面的主句采用 `skal + 主语 + 不定式`：`skal tvivlen komme ...`。核心习语 `komme nogen til gode` 表示使某人受益。",
+            "vocabulary": [
+                {
+                    "da": "rimelig tvivl",
+                    "zh": "合理怀疑"
+                },
+                {
+                    "da": "komme nogen til gode",
+                    "zh": "对某人有利；使某人受益",
+                    "note": "固定搭配；`nogen` 可换成名词"
+                },
+                {
+                    "da": "den tiltalte",
+                    "zh": "被告人"
+                }
+            ],
+            "nuance": "这是高度凝练的法律原则表达，体现疑罪从无、存疑有利于被告的思路。`skal` 表示规范性必须，而非对未来的普通预测。句型短而有力，适合背诵并用于正式论证。",
+            "transfer": [
+                "Er der tvivl, må vi undersøge sagen nærmere.",
+                "Er betingelserne opfyldt, kan man ansøge.",
+                "Tvivlen skal komme den tiltalte til gode."
+            ],
+            "pitfall": "不要将 `komme til gode` 逐词译为来到好处。条件倒装 `Er der ...` 不是疑问句；它相当于 `Hvis der er ...`。"
+        },
+        {
+            "id": "U15-C033",
+            "zh": "因此，法院作出无罪判决，并不等于已经证实这个人确实无辜。",
+            "grammar": "`At blive frifundet` 是以不定式短语作主语的名词化结构。`ikke det samme som` 表示并不等同于。`at være bevist uskyldig` 强调无辜本身已获得证明，与仅因证据不足而被判无罪构成逻辑区分。`derfor` 表示从前文原则推出结论。",
+            "vocabulary": [
+                {
+                    "da": "blive frifundet",
+                    "zh": "被判无罪"
+                },
+                {
+                    "da": "være det samme som",
+                    "zh": "等同于；相当于",
+                    "note": "否定形式 `ikke være det samme som` 尤其常用"
+                },
+                {
+                    "da": "derfor",
+                    "zh": "因此；所以",
+                    "note": "强调逻辑推论"
+                }
+            ],
+            "nuance": "这是法律推理中的关键区分：法院不能证明有罪，与事实上已证明无罪，是两种不同的命题。作者通过 `ikke det samme som` 阻止读者把程序性裁判误理解为对全部历史事实的最终确定。",
+            "transfer": [
+                "At være uenig er ikke det samme som at tage fejl.",
+                "Det er ikke det samme som at ...",
+                "At blive frifundet betyder ikke nødvendigvis, at ..."
+            ],
+            "pitfall": "`frifundet` 本身并不保证被告在事实层面已被证明清白。`det samme som` 搭配 `som`，不要使用 `end` 来表示同一性。"
+        },
+        {
+            "id": "U15-C034",
+            "zh": "这些原则共同构成了所谓的法律权利保障，也就是公民免受国家任意和不公正干预的保护机制。",
+            "grammar": "`Tilsammen` 置于句首，限定动词 `udgør` 随后出现，主语 `disse principper` 后置。`det, man kalder retssikkerhed` 通过关系从句解释一个抽象概念。冒号后是名词性定义。`fra statens side` 表示行为来自国家这一方，修饰国家干预。",
+            "vocabulary": [
+                {
+                    "da": "tilsammen",
+                    "zh": "共同；合在一起"
+                },
+                {
+                    "da": "udgøre",
+                    "zh": "构成；组成",
+                    "note": "正式写作中常见"
+                },
+                {
+                    "da": "retssikkerhed",
+                    "zh": "法律权利保障；法律程序保障",
+                    "note": "侧重个人受法律保护并免于国家任意行权"
+                },
+                {
+                    "da": "vilkårlig",
+                    "zh": "任意的；武断的",
+                    "note": "法律、行政、政治评论常用"
+                },
+                {
+                    "da": "et indgreb",
+                    "zh": "干预；干涉措施",
+                    "note": "复数 `indgreb`；`indgreb i borgernes rettigheder`"
+                }
+            ],
+            "nuance": "这一句把前文的无罪推定、举证责任和疑罪从无提升为更广泛的 `retssikkerhed` 概念。重点不是让社会免于犯罪的一般治安，而是通过法律程序约束国家对个人权利的干预。这是理解丹麦政治与法学论述的重要区分。",
+            "transfer": [
+                "Tilsammen udgør X og Y grundlaget for ...",
+                "Det er det, man kalder ...",
+                "Borgerne skal beskyttes mod vilkårlige indgreb.",
+                "Fra statens side ..."
+            ],
+            "pitfall": "`retssikkerhed` 不应直接等同于 `offentlig sikkerhed`（公共安全）。`vilkårlig` 在这里是任意行权，并非随意、轻松等中性含义。"
+        },
+        {
+            "id": "U15-C035",
+            "zh": "宪法禁止事先审查与限制言论的审查制度，人们可以自由地通过口头或书面方式表达意见，但事后仍可能因言论承担法律责任。",
+            "grammar": "两个主句用 `og` 连接，然后以 `men` 引出限制条件。`ytre sig` 是反身动词结构，`i tale og på skrift` 指口头和书面两种表达方式。`kan stilles til ansvar` 使用情态动词加被动态，表示可能被追究责任。`bagefter` 把责任追究定位在表达行为发生之后。",
+            "vocabulary": [
+                {
+                    "da": "forbyde",
+                    "zh": "禁止",
+                    "note": "`forbyder – forbød – forbudt`"
+                },
+                {
+                    "da": "censur",
+                    "zh": "审查制度；言论审查"
+                },
+                {
+                    "da": "ytre sig",
+                    "zh": "表达意见；发表言论",
+                    "note": "反身动词；`ytringsfrihed` 言论自由"
+                },
+                {
+                    "da": "i tale og på skrift",
+                    "zh": "以口头和书面形式",
+                    "note": "两个介词不同"
+                },
+                {
+                    "da": "stille nogen til ansvar",
+                    "zh": "追究某人的责任；要求某人承担责任"
+                }
+            ],
+            "nuance": "作者用 `men` 区分言论表达的自由与违法言论的事后责任。宪法禁止审查，并不等于一切言论都免于法律后果。`bagefter` 是理解这种区分的关键词；但它也不意味着所有不受欢迎的言论都会受到处罚。",
+            "transfer": [
+                "Alle har ret til at ytre sig frit.",
+                "Man kan stilles til ansvar for sine handlinger.",
+                "Både i tale og på skrift.",
+                "Frihed indebærer også ansvar."
+            ],
+            "pitfall": "`ytre sig` 必须保留反身代词。`stille til ansvar` 不等于仅仅批评某人，在这里强调可以追究责任。特别记住 `i tale` 与 `på skrift` 的不同介词。"
+        },
+        {
+            "id": "U15-C036",
+            "zh": "例如，发出严重威胁、侵害他人的名誉，或者公开因肤色、宗教、性取向等因素而嘲辱、贬低某个群体，都可能构成刑事犯罪。",
+            "grammar": "`Det er ... strafbart at + 不定式` 使用形式主语 `Det`，真正说明违法行为的是后面并列的不定式结构。核心动词依次为 `fremsætte`、`krænke`、`forhåne` 和 `nedværdige`。`på grund af` 引出歧视性行为所针对的原因或特征，`blandt andet` 表示列举并未穷尽。",
+            "vocabulary": [
+                {
+                    "da": "strafbar",
+                    "zh": "可依法处罚的；构成刑事违法的",
+                    "note": "此处为中性形式 `strafbart`"
+                },
+                {
+                    "da": "fremsætte en trussel",
+                    "zh": "发出威胁",
+                    "note": "常用 `fremsætte alvorlige trusler`"
+                },
+                {
+                    "da": "krænke en andens ære",
+                    "zh": "侵害他人名誉"
+                },
+                {
+                    "da": "forhåne",
+                    "zh": "侮辱；嘲辱",
+                    "note": "正式、法律色彩较强"
+                },
+                {
+                    "da": "nedværdige",
+                    "zh": "贬低；侮辱人格或尊严",
+                    "note": "比一般批评更强烈"
+                }
+            ],
+            "nuance": "这段采用法律说明文体，以多个并列行为展示言论自由可能受到的限制。`for eksempel` 与 `blandt andet` 都表示这里只是在列举相关情形，而不是完整复述刑法全部构成要件。`offentligt` 还限定了后面针对群体的侮辱或贬低行为的公开性。",
+            "transfer": [
+                "Det er strafbart at ...",
+                "Det er ulovligt at fremsætte trusler.",
+                "På grund af blandt andet X og Y ...",
+                "Man må ikke krænke andres rettigheder."
+            ],
+            "pitfall": "`strafbart` 不等于所有行为一定受到刑罚，具体仍取决于是否满足法律构成要件。`på grund af` 是因为，不能机械省去 `af`。"
+        },
+        {
+            "id": "U15-C037",
+            "zh": "如果自行车被偷了，或者度假屋遭了贼，人们就会通过警方的网站报案。",
+            "grammar": "句首包含两个并列的条件倒装：`Bliver cyklen stjålet` 相当于 `Hvis cyklen bliver stjålet`；`er der indbrud ...` 相当于 `hvis der er indbrud ...`。整个条件部分结束后，主句以 `anmelder man` 开始，限定动词位于第二位置。`det` 回指所发生的犯罪事件。",
+            "vocabulary": [
+                {
+                    "da": "stjæle",
+                    "zh": "偷窃",
+                    "note": "`stjæler – stjal – stjålet`"
+                },
+                {
+                    "da": "et indbrud",
+                    "zh": "入室盗窃；非法闯入",
+                    "note": "`der er indbrud i ...` 某处遭到入室盗窃"
+                },
+                {
+                    "da": "anmelde noget til politiet",
+                    "zh": "向警方报案",
+                    "note": "`anmelde` 也可以指正式举报或登记"
+                },
+                {
+                    "da": "et sommerhus",
+                    "zh": "度假屋；夏季度假住宅"
+                }
+            ],
+            "nuance": "从抽象的宪法与刑事诉讼原则切换到日常法律实践，作者用被盗自行车和度假屋作为丹麦生活中容易理解的例子。条件倒装使句子紧凑，接近行政说明和新闻文章的表达方式。",
+            "transfer": [
+                "Bliver din cykel stjålet, skal du anmelde det.",
+                "Er der problemer, kan du kontakte os.",
+                "Du kan anmelde tyveriet på politiets hjemmeside."
+            ],
+            "pitfall": "这里的 `Bliver ...` 不是独立疑问句，而是条件从句。主句必须说 `anmelder man`，不能写成 `man anmelder` 而忽略前置条件对 V2 的影响。"
+        },
+        {
+            "id": "U15-C038",
+            "zh": "许多盗窃案最终都没能侦破，但如果想让保险公司赔偿损失，报案是必不可少的。",
+            "grammar": "`Mange tyverier bliver aldrig opklaret` 使用 `blive` 被动态与否定时间副词 `aldrig`。`hvis forsikringen skal dække tabet` 是条件从句，内部为 `主语 + skal + 不定式` 的从句结构；`skal` 在此表示获得赔偿所需要满足的条件。",
+            "vocabulary": [
+                {
+                    "da": "opklare en sag",
+                    "zh": "侦破案件；查明真相",
+                    "note": "`blive opklaret` 被侦破"
+                },
+                {
+                    "da": "en anmeldelse",
+                    "zh": "报案；正式申报",
+                    "note": "动词 `anmelde`"
+                },
+                {
+                    "da": "en forsikring",
+                    "zh": "保险；保险保障"
+                },
+                {
+                    "da": "dække et tab",
+                    "zh": "赔偿损失；承担损失",
+                    "note": "`dække` 在保险语境是承保或赔付"
+                }
+            ],
+            "nuance": "作者用 `men` 把警方未必破案与报案仍有实际作用并列。报案不仅是为了追究刑事责任，也可能是保险索赔需要履行的手续。这反映法律程序与日常经济利益的联系。",
+            "transfer": [
+                "Sagen er endnu ikke blevet opklaret.",
+                "Forsikringen dækker ikke hele tabet.",
+                "Anmeldelsen er nødvendig, hvis ..."
+            ],
+            "pitfall": "`opklare` 不是打开案件，而是调查并查明。`forsikringen dækker` 不能理解成保险单把物品盖住；这里的 `dække` 是经济赔偿或承保。"
+        },
+        {
+            "id": "U15-C039",
+            "zh": "大多数人一生中可能从未接触过刑事案件，但很多人迟早会成为某起民事诉讼的当事人。",
+            "grammar": "`komme i nærheden af` 原本表示接近某物，此处是抽象意义上的接触或卷入。`blive part i` 表示成为某事的当事一方。`på et tidspunkt` 是不确定时间状语，指人生中的某个阶段。",
+            "vocabulary": [
+                {
+                    "da": "komme i nærheden af",
+                    "zh": "靠近；接触到；涉及"
+                },
+                {
+                    "da": "en straffesag",
+                    "zh": "刑事案件",
+                    "note": "`straf` 刑罚 + `sag` 案件"
+                },
+                {
+                    "da": "en civil sag",
+                    "zh": "民事案件",
+                    "note": "区别于刑事诉讼"
+                },
+                {
+                    "da": "være part i en sag",
+                    "zh": "是案件的当事人"
+                },
+                {
+                    "da": "på et tidspunkt",
+                    "zh": "在某个时候；迟早"
+                }
+            ],
+            "nuance": "作者把法律从少数人可能遇到的刑事案件扩展到大众生活中的民事纠纷。`på et tidspunkt` 不指定具体时间，而突出这种经历有可能在人生中的某个阶段发生。",
+            "transfer": [
+                "De fleste kommer aldrig i nærheden af ...",
+                "Mange oplever på et tidspunkt, at ...",
+                "Han blev part i en civil sag."
+            ],
+            "pitfall": "`en part` 在法律语境是当事方，不是部分。`en civil sag` 不是文明的案件，而是民事案件。"
+        },
+        {
+            "id": "U15-C040",
+            "zh": "比如，租房押金引发的争议、装修工人没有把活儿做好，或者兄弟姐妹因遗产分配谈不拢，都可能导致民事纠纷。",
+            "grammar": "`Det kan være ...` 用来列举前句所说民事案件的具体类型。三个例子由逗号与 `eller` 串联。第二项包含关系从句 `der ikke har gjort sit arbejde ordentligt`；第三项包含关系从句 `som søskende ikke kan blive enige om`，介词 `om` 留在从句末尾，属于丹麦语自然的介词后置。",
+            "vocabulary": [
+                {
+                    "da": "en strid om noget",
+                    "zh": "关于某事的争议；纠纷",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "et depositum",
+                    "zh": "押金；保证金",
+                    "note": "租房语境常见"
+                },
+                {
+                    "da": "en håndværker",
+                    "zh": "工匠；装修或维修技工"
+                },
+                {
+                    "da": "gøre sit arbejde ordentligt",
+                    "zh": "把工作做好；认真履职"
+                },
+                {
+                    "da": "blive enige om noget",
+                    "zh": "就某事达成一致意见",
+                    "note": "`enige` 为复数形式"
+                }
+            ],
+            "nuance": "列举特意选择了日常生活中常见的民事争议：租赁关系、服务质量和遗产。`ordentligt` 在此强调工作是否达到合理的质量标准，而不只是做事态度是否礼貌。",
+            "transfer": [
+                "Det kan være en strid om ...",
+                "Vi kan ikke blive enige om prisen.",
+                "Håndværkeren har ikke gjort arbejdet ordentligt.",
+                "Det kan handle om X, Y eller Z."
+            ],
+            "pitfall": "`blive enige om` 是达成一致，不能说 `blive enige med noget`。`som ... om` 的介词后置正确自然，不要因为中文语序而漏掉句末 `om`。"
+        },
+        {
+            "id": "U15-C041",
+            "zh": "在民事案件中，并不是由国家来指控某人，而是由争议的一方向另一方提起诉讼，例如要求对方付款或者赔偿损失。",
+            "grammar": "`I civile sager` 是句首范围状语。后面连续使用两个强调句：`det er ikke staten, der ...` 与 `det er den ene part, der ...`，形成强烈的排除与肯定对照。第二个强调句内部有两个并列谓语 `sagsøger` 和 `kræver`。",
+            "vocabulary": [
+                {
+                    "da": "en civil sag",
+                    "zh": "民事案件"
+                },
+                {
+                    "da": "sagsøge nogen",
+                    "zh": "起诉某人；对某人提起民事诉讼",
+                    "note": "与刑事公诉中的 `rejse tiltale` 区分"
+                },
+                {
+                    "da": "kræve",
+                    "zh": "要求；索取；主张",
+                    "note": "法律和行政语境常见"
+                },
+                {
+                    "da": "en erstatning",
+                    "zh": "赔偿；赔偿金",
+                    "note": "`kræve erstatning` 要求赔偿"
+                },
+                {
+                    "da": "den ene part ... den anden",
+                    "zh": "一方……另一方",
+                    "note": "常用于双方争议或比较"
+                }
+            ],
+            "nuance": "这是刑事诉讼与民事诉讼之间的核心制度性对比。强调句的重复有清晰的教学功能：不是国家作为公诉方，而是民事当事方提出请求。`kræver` 只表示提出法律请求，不等于法院已经支持该请求。",
+            "transfer": [
+                "Det er ikke X, der ..., men Y.",
+                "Den ene part sagsøger den anden.",
+                "Hun kræver erstatning for skaden.",
+                "I civile sager handler det ofte om ..."
+            ],
+            "pitfall": "`sagsøge` 表示起诉，不是已经胜诉。`kræve erstatning` 是索赔；`få erstatning` 才表示实际获得赔偿。"
+        },
+        {
+            "id": "U15-C042",
+            "zh": "许多法院提供司法调解服务，由一名中立的调解员帮助双方找到一个彼此都能够接受的解决方案。",
+            "grammar": "`hvor` 引导关系从句，说明司法调解这一程序中会发生什么。`hjælpe nogen med at + 不定式` 表示帮助某人做某事。`en løsning, de begge kan leve med` 使用省略关系代词的限定性关系从句；`leve med` 必须整体理解为接受或容忍。",
+            "vocabulary": [
+                {
+                    "da": "retsmægling",
+                    "zh": "司法调解；法院调解"
+                },
+                {
+                    "da": "en mægler",
+                    "zh": "调解员；中间人",
+                    "note": "`mægle mellem parterne` 在双方之间调解"
+                },
+                {
+                    "da": "neutral",
+                    "zh": "中立的"
+                },
+                {
+                    "da": "finde en løsning",
+                    "zh": "找到解决方案"
+                },
+                {
+                    "da": "kunne leve med noget",
+                    "zh": "能够接受或容忍某事",
+                    "note": "并不要求完全满意"
+                }
+            ],
+            "nuance": "`de begge kan leve med` 比 `de begge er glade for` 更务实。调解不一定使双方都觉得自己获得最佳结果，而是寻找双方能够接受的妥协方案。这种措辞十分适合讨论谈判、工作安排和社会政策。",
+            "transfer": [
+                "Vi skal finde en løsning, alle kan leve med.",
+                "En neutral person kan hjælpe parterne med at ...",
+                "Domstolen tilbyder mægling."
+            ],
+            "pitfall": "`leve med` 在这里不是和某人共同居住，而是心理或实际层面的接受。`hjælpe nogen med at gøre noget` 要保留 `med at`。"
+        },
+        {
+            "id": "U15-C043",
+            "zh": "许多邻里纠纷，例如一棵挡住阳光的树，或是一排长得过高的树篱引起的争执，最后根本不会闹到法院，因为双方往往就在自家餐桌旁谈妥了。",
+            "grammar": "破折号中插入两个以 `om` 引出的具体争议对象。`der skygger` 和 `der er vokset for højt` 分别修饰树与树篱。后者采用现在完成时，强调树篱长高后的当前状态。`fordi parterne når til enighed ...` 是原因从句。",
+            "vocabulary": [
+                {
+                    "da": "en nabostridighed",
+                    "zh": "邻里纠纷",
+                    "note": "复数 `nabostridigheder`"
+                },
+                {
+                    "da": "skygge",
+                    "zh": "遮挡阳光；投下阴影"
+                },
+                {
+                    "da": "en hæk",
+                    "zh": "树篱；绿篱"
+                },
+                {
+                    "da": "nå til enighed",
+                    "zh": "达成一致",
+                    "note": "正式与日常谈判都可使用"
+                },
+                {
+                    "da": "ved køkkenbordet",
+                    "zh": "在厨房餐桌旁",
+                    "note": "可象征私人、非正式的直接协商"
+                }
+            ],
+            "nuance": "`ved køkkenbordet` 既是具体场景，也是家庭式、邻里间私下商量的形象表达。作者把庄重的法院与平凡的厨房餐桌形成对照，说明解决纠纷未必需要诉讼。`ender aldrig i retten` 强调许多争议最终没有进入司法程序。",
+            "transfer": [
+                "Parterne nåede til enighed.",
+                "Konflikten endte aldrig i retten.",
+                "Vi løste problemet ved køkkenbordet.",
+                "En hæk, der er vokset for højt, ..."
+            ],
+            "pitfall": "`nå til enighed` 是固定搭配，不是 `nå enighed til`。`for højt` 中 `højt` 作程度副词，不能因为修饰阴性名词 `hæk` 就机械改为 `høj`。"
+        },
+        {
+            "id": "U15-C044",
+            "zh": "奥登塞发生的一起入室盗窃案过去半年后，一名16岁少年与一位78岁老妇人坐在彼此对面，参加一场由调解员主持的冲突调解会。这是一次自愿参加的会面。",
+            "grammar": "`Et halvt år efter et indbrud i Odense` 是置于句首的长时间状语，因此 `sidder` 紧跟其后。主语由两个名词短语并列组成。`over for hinanden` 表示双方相对而坐；冒号后的 `et frivilligt møde med en mægler` 用同位说明解释 `konfliktråd`。",
+            "vocabulary": [
+                {
+                    "da": "et konfliktråd",
+                    "zh": "冲突调解会；刑事案件冲突调解机制",
+                    "note": "在这里指受害人与涉事少年参与的调解场合"
+                },
+                {
+                    "da": "over for hinanden",
+                    "zh": "面对面；彼此相对"
+                },
+                {
+                    "da": "frivillig",
+                    "zh": "自愿的",
+                    "note": "`et frivilligt møde` 一次自愿会面"
+                },
+                {
+                    "da": "en mægler",
+                    "zh": "调解员"
+                }
+            ],
+            "nuance": "作者将年龄差距悬殊的少年与老妇人安排在同一场景中，立即突出了冲突的两方。`frivilligt` 是核心信息：这种会面通过当事人自愿参与展开，而不是法庭强制命令双方坐下来。",
+            "transfer": [
+                "De sad over for hinanden.",
+                "Et halvt år efter hændelsen ...",
+                "Begge parter deltog i et frivilligt møde."
+            ],
+            "pitfall": "`over for` 表示面对、相对于，通常分写；不要与 `overfor` 的其他用法混淆。`en 16-årig dreng` 中年龄作复合形容词，不写成 `16 årig`。"
+        },
+        {
+            "id": "U15-C045",
+            "zh": "调解员：英格，你愿意先说说这件事对你造成了什么影响吗？",
+            "grammar": "`vil du begynde med at fortælle` 使用 `ville` 的现在时 `vil`，在问句中表达邀请和意愿。`begynde med at + 不定式` 表示从某项行动开始。`hvordan det har været for dig` 是间接疑问从句，内部使用现在完成时，连接过去事件与当前感受。",
+            "vocabulary": [
+                {
+                    "da": "begynde med at",
+                    "zh": "先从……开始",
+                    "note": "固定结构"
+                },
+                {
+                    "da": "hvordan det har været for dig",
+                    "zh": "这件事对你来说是什么样的经历",
+                    "note": "询问体验与感受，不只是客观经过"
+                }
+            ],
+            "nuance": "`vil du` 在这里是尊重当事人意愿的温和邀请。调解员没有首先追问损失金额或犯罪细节，而是邀请受害者叙述个人经历，有助于建立以当事人感受为中心的对话。",
+            "transfer": [
+                "Vil du begynde med at fortælle ...?",
+                "Hvordan har det været for dig?",
+                "Kan du fortælle lidt om din oplevelse?"
+            ],
+            "pitfall": "`vil du` 不总表示将来时，很多情况下表示是否愿意。`begynde med at` 中的介词 `med` 不要遗漏。"
+        },
+        {
+            "id": "U15-C046",
+            "zh": "英格：最可怕的并不是那些被偷走的东西，而是从那以后，我连在自己家里都睡不安稳了。我整夜躺在床上，竖着耳朵听周围的任何动静。",
+            "grammar": "前两句形成焦点对照：`Det værste var ikke ...` 与 `Det var, at ...`，强调真正的伤害是什么。`de ting, der forsvandt` 包含关系从句。`kunne sove` 表示当时无法入睡。`Jeg lå og lyttede` 是 `姿态动词 + og + 动词` 结构，表示躺着持续进行某个动作。",
+            "vocabulary": [
+                {
+                    "da": "det værste",
+                    "zh": "最糟糕的事；最难受的部分"
+                },
+                {
+                    "da": "forsvinde",
+                    "zh": "消失；不见",
+                    "note": "`forsvinder – forsvandt – forsvundet`"
+                },
+                {
+                    "da": "ligge og lytte",
+                    "zh": "躺着一直听；躺着留意声音",
+                    "note": "表示伴随姿态的持续动作"
+                },
+                {
+                    "da": "lytte efter noget",
+                    "zh": "留神听某种声音",
+                    "note": "固定介词 `efter`"
+                },
+                {
+                    "da": "hele natten",
+                    "zh": "整整一夜"
+                }
+            ],
+            "nuance": "这段话将犯罪造成的损害从财产损失转向安全感的丧失。`mit eget hus` 特别强调本应最有安全感的私人空间。`lå og lyttede efter lyde` 通过具体的身体行为呈现持续警觉，而不是抽象地说她非常害怕，因而更有情感力量。",
+            "transfer": [
+                "Det værste var ikke X, men Y.",
+                "Jeg kunne ikke sove bagefter.",
+                "Jeg lå og lyttede efter lyde.",
+                "Det værste var, at ..."
+            ],
+            "pitfall": "`lytte efter` 是主动留神听，`høre` 是听见。`ligge og + 动词` 中的 `og` 不是简单列举两个互不相关的动作，而可表示一边保持姿态一边持续做某事。"
+        },
+        {
+            "id": "U15-C047",
+            "zh": "调解员：诺亚，听到这些之后，你心里有什么想法？",
+            "grammar": "`hvad tænker du` 询问想法或即时反应。`når du hører det` 使用 `når` 引导时间从句，表示听到这些话时产生的感受；从句采用正常陈述语序。",
+            "vocabulary": [
+                {
+                    "da": "hvad tænker du?",
+                    "zh": "你怎么看？你有什么想法？",
+                    "note": "询问观点或情绪反应"
+                },
+                {
+                    "da": "når du hører det",
+                    "zh": "当你听到这些时",
+                    "note": "`det` 指对方刚刚说的内容"
+                }
+            ],
+            "nuance": "调解员没有立即要求诺亚道歉，也没有直接斥责他，而是引导他回应受害者的叙述。这种问题让施害一方主动思考行为的实际后果，符合修复性对话的沟通方式。",
+            "transfer": [
+                "Hvad tænker du om det?",
+                "Hvad tænker du, når du hører det?",
+                "Hvordan reagerer du på det?"
+            ],
+            "pitfall": "`tænke på` 是想到、想着，`tænke om` 是对某事怎么看。`hvad tænker du` 在这个语境中不是单纯询问脑中出现了哪个对象。"
+        },
+        {
+            "id": "U15-C048",
+            "zh": "诺亚：我当时根本没想过那里还住着人。怎么说呢，我其实知道有人住在那里，可我脑子里只想着那时候家里没人。",
+            "grammar": "第一句 `tænkte slet ikke på, at ...` 使用 `tænke på` 加宾语从句，`slet ikke` 强化否定。第二句以话语标记 `Altså` 开头，用于补充或修正先前的表述。`jeg vidste det godt` 中 `godt` 强化自己确实知道这一事实，`men ... bare` 则限定当时的注意力。",
+            "vocabulary": [
+                {
+                    "da": "slet ikke",
+                    "zh": "完全不；根本没有",
+                    "note": "否定强于普通 `ikke`"
+                },
+                {
+                    "da": "tænke på noget",
+                    "zh": "想到；考虑某事",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "altså",
+                    "zh": "也就是说；怎么说呢；我是说",
+                    "note": "这里主要用于口语中的自我修正"
+                },
+                {
+                    "da": "vide noget godt",
+                    "zh": "其实很清楚某事",
+                    "note": "`det ved jeg godt` 表示我知道这一点"
+                },
+                {
+                    "da": "være hjemme",
+                    "zh": "在家"
+                }
+            ],
+            "nuance": "这一段话具有明显的口语自我纠正特征。诺亚先说根本没想到有人住，接着意识到这不够准确，于是用 `Altså` 承认自己其实知道有人居住，却没有考虑到对方之后会承受的恐惧。`bare` 带出当时狭隘的关注点，也多少有为自己解释的意味。",
+            "transfer": [
+                "Jeg tænkte slet ikke på, at ...",
+                "Altså, jeg vidste det godt, men ...",
+                "Jeg tænkte bare på, at ...",
+                "Der var ikke nogen hjemme."
+            ],
+            "pitfall": "`der boede nogen` 表示有人居住，`der var nogen hjemme` 表示当时有人在家，两者不同。`Altså` 不是所有场合都译为所以；在此是解释和修正语气。"
+        },
+        {
+            "id": "U15-C049",
+            "zh": "英格：为什么偏偏是我家？",
+            "grammar": "高度省略的口语疑问句，完整意思可由上下文补足，例如为什么选择我的房子。`lige` 置于疑问词之后、名词短语之前，用于突出选择的特殊性或出乎意料。",
+            "vocabulary": [
+                {
+                    "da": "hvorfor lige ...?",
+                    "zh": "为什么偏偏是……？",
+                    "note": "用于表达不解、委屈或质疑"
+                }
+            ],
+            "nuance": "`lige` 不是表示恰好、刚才的时间含义，而是将情绪焦点放在我身上。受害者真正想知道的不是犯罪的技术原因，而是为什么自己的生活会遭受这样的侵害。",
+            "transfer": [
+                "Hvorfor lige mig?",
+                "Hvorfor lige nu?",
+                "Hvorfor valgte du lige det hus?"
+            ],
+            "pitfall": "不要把这里的 `lige` 译为刚刚。`Hvorfor lige mig?` 是日常生活中非常自然的情绪表达。"
+        },
+        {
+            "id": "U15-C050",
+            "zh": "诺亚：窗户当时开着一条缝。我并不是专门针对你的。",
+            "grammar": "`Vinduet stod på klem` 采用 `stå + 状态表达` 描述窗户当时所处的状态。`Det var ikke noget personligt` 是 `det` 指代整件事的判断句，`noget personligt` 表示带有针对个人性质的行为。",
+            "vocabulary": [
+                {
+                    "da": "stå på klem",
+                    "zh": "虚掩着；开着一道缝",
+                    "note": "常用于门窗"
+                },
+                {
+                    "da": "personlig",
+                    "zh": "个人的；针对个人的",
+                    "note": "此处 `personligt` 为中性形式"
+                },
+                {
+                    "da": "ikke noget personligt",
+                    "zh": "不是针对个人的；没有私人恩怨",
+                    "note": "固定口语表达"
+                }
+            ],
+            "nuance": "诺亚试图解释自己的作案选择具有偶然性，并不存在针对英格本人的私人动机。但这只是在解释动机，不代表对英格造成的伤害不具有个人性。下一句正是对这种说法的反驳。",
+            "transfer": [
+                "Døren stod på klem.",
+                "Det var ikke noget personligt.",
+                "Jeg havde ikke noget imod dig personligt."
+            ],
+            "pitfall": "`stå på klem` 不是站在夹子上，而是门窗半开。`Det er ikke noget personligt` 在社交语境中可缓和冒犯，但不能因此否认对方实际感受到的伤害。"
+        },
+        {
+            "id": "U15-C051",
+            "zh": "英格：可对我来说，这件事实在太切身了。",
+            "grammar": "`Det føltes ...` 使用 `føles` 的过去时 `føltes` 描述当时的主观体验。`meget personligt` 是表语性形容词短语，用来评价这件事在情感层面的性质。",
+            "vocabulary": [
+                {
+                    "da": "føles",
+                    "zh": "感觉起来；给人……的感受",
+                    "note": "过去时 `føltes`"
+                },
+                {
+                    "da": "meget personligt",
+                    "zh": "非常切身；有很强的个人针对性感",
+                    "note": "具体含义由语境决定"
+                }
+            ],
+            "nuance": "这是一句非常有力的回应。诺亚说行为并非针对她，英格则指出，不论动机如何，结果都直接侵入了她自己的安全空间。两句中重复 `personligt`，形成动机与受害体验之间的鲜明对照。",
+            "transfer": [
+                "Det føltes meget personligt.",
+                "For mig føltes det som et angreb.",
+                "Det føltes ubehageligt."
+            ],
+            "pitfall": "`Det føltes` 描述主观体验，不是断言对方客观上具有私人报复动机。`føles` 与 `føle` 用法不同：`Jeg føler mig utryg`，但 `Det føles utrygt`。"
+        },
+        {
+            "id": "U15-C052",
+            "zh": "诺亚：现在我明白你的感受了。我真的很对不起。",
+            "grammar": "`Det forstår jeg godt nu` 把宾语 `Det` 前置，所以限定动词 `forstår` 紧随其后，主语 `jeg` 后移，符合 V2。`godt` 强化理解程度；`nu` 标记认识发生变化。`være ked af det` 是表示难过或歉意的固定结构。",
+            "vocabulary": [
+                {
+                    "da": "forstå noget godt",
+                    "zh": "很能理解某事",
+                    "note": "`Det forstår jeg godt` 是常见回应"
+                },
+                {
+                    "da": "være ked af det",
+                    "zh": "难过；抱歉",
+                    "note": "在道歉语境中表示后悔或歉意"
+                },
+                {
+                    "da": "virkelig",
+                    "zh": "真的；确实",
+                    "note": "强化情感表达"
+                }
+            ],
+            "nuance": "与前面的自我解释相比，诺亚现在直接承认理解了英格的体验。`nu` 非常关键，表示经过倾听后的认识转变。`Jeg er virkelig ked af det` 在此是真诚致歉，而不是单纯说自己情绪低落。",
+            "transfer": [
+                "Det forstår jeg godt nu.",
+                "Jeg er virkelig ked af det.",
+                "Nu kan jeg bedre forstå, hvordan du har det."
+            ],
+            "pitfall": "`ked af det` 要整体理解，具体可表示难过或抱歉，由语境决定。不要误以为 `ked` 单独就等同于英语 sorry。"
+        },
+        {
+            "id": "U15-C053",
+            "zh": "肯尼斯最终没有被定罪，恢复了自由。",
+            "grammar": "`gik fri` 是 `gå fri` 的过去时形式，表示逃过处罚、没有被定罪或摆脱追责等，具体取决于上下文。本句承接先前的无罪判决，强调案件的最终结果。",
+            "vocabulary": [
+                {
+                    "da": "gå fri",
+                    "zh": "未被定罪；免受处罚；脱身",
+                    "note": "固定搭配；`gik fri` 为过去时"
+                }
+            ],
+            "nuance": "这是刻意简短的收束语。相较正式的 `Retten frifinder ham`，`Kenneth gik fri` 更具有叙事性，也可能唤起读者复杂的情绪：从法律程序看他没有被定罪，但从受害者角度看，打人者仍未受到处罚。",
+            "transfer": [
+                "Han gik fri.",
+                "Han gik fri på grund af manglende beviser.",
+                "Den tiltalte blev frifundet."
+            ],
+            "pitfall": "`gå fri` 不是走得自由，也不能自动译为犯罪后逍遥法外。这里应保留因证据不足而未被定罪的法律背景。"
+        },
+        {
+            "id": "U15-C054",
+            "zh": "那个二月的夜晚，究竟是谁把那名22岁的年轻人打倒在地，我们至今仍不知道。",
+            "grammar": "全句最重要的是把完整的间接疑问从句 `Hvem der slog den 22-årige ned den nat i februar` 前置作宾语，然后主句以 `ved vi ikke` 收束。整个从句占据主句首位，因此限定动词 `ved` 必须紧随其后，主语 `vi` 后移。`slå nogen ned` 是动词小品词结构，表示将某人打倒。",
+            "vocabulary": [
+                {
+                    "da": "slå nogen ned",
+                    "zh": "把某人打倒；袭击并击倒某人",
+                    "note": "`ned` 是动词小品词"
+                },
+                {
+                    "da": "den 22-årige",
+                    "zh": "那名22岁的年轻人",
+                    "note": "形容词名词化后使用定冠词"
+                },
+                {
+                    "da": "vide, hvem der ...",
+                    "zh": "知道是谁……",
+                    "note": "用于间接疑问或信息性从句"
+                }
+            ],
+            "nuance": "把是谁动手这一未知问题放到句首，让整句的焦点落在仍未解决的身份问题上，而不是简单地说我们不知道。`ved vi ikke` 的后置产生一种最终留白效果，适合文章结尾进行总结。",
+            "transfer": [
+                "Hvem der gjorde det, ved vi ikke.",
+                "Hvorfor det skete, ved vi endnu ikke.",
+                "Hvad der sker næste gang, kan ingen sige.",
+                "Han slog manden ned."
+            ],
+            "pitfall": "必须区分从句内部 `hvem der slog` 和主句 `ved vi ikke` 的语序。不能写成 `Hvem slog ..., vi ved ikke`。`slå ned` 的 `ned` 不可随意删除，否则可能失去击倒的含义。"
+        },
+        {
+            "id": "U15-C055",
+            "zh": "这就是这种司法制度必须付出的代价：它宁愿接受真相尚未查明的不确定性，也不愿让一个无辜的人身陷囹圄。",
+            "grammar": "`Det er prisen for et system` 是定义性判断，后接关系从句 `der hellere vil ... end ...`。`hellere ... end ...` 表示宁愿选择前者而非后者。`leve med den uvished` 是接受某种难以消除的不确定性。第二个 `med` 与前面的 `leve med` 对应，省略重复的不定式，使两个选择形成简洁对照。",
+            "vocabulary": [
+                {
+                    "da": "prisen for noget",
+                    "zh": "某事的代价",
+                    "note": "此处为抽象、道德或制度性代价"
+                },
+                {
+                    "da": "hellere ... end ...",
+                    "zh": "宁愿……也不愿……",
+                    "note": "比较两种不理想选择时非常有用"
+                },
+                {
+                    "da": "leve med noget",
+                    "zh": "接受；容忍；带着某种情况继续生活"
+                },
+                {
+                    "da": "uvished",
+                    "zh": "不确定性；对真相的不知情",
+                    "note": "与 `vished` 确信相对"
+                },
+                {
+                    "da": "en uskyldig",
+                    "zh": "一个无辜的人",
+                    "note": "形容词名词化"
+                }
+            ],
+            "nuance": "这是整篇文章的价值判断和最终论点。`prisen` 并非金钱上的费用，而是法治制度为了降低冤判风险而可能承担的代价。作者没有粉饰问题：受害者可能得不到期待的结果，事实也可能无法查明。但在这两种代价之间，制度优先避免让无辜者入狱。`hellere ... end ...` 将复杂的司法价值取舍浓缩为一个易于记忆的句型。",
+            "transfer": [
+                "Det er prisen for ...",
+                "Jeg vil hellere vente end tage en unødvendig risiko.",
+                "Vi må lære at leve med usikkerhed.",
+                "Et system, der hellere vil X end Y, ..."
+            ],
+            "pitfall": "`hellere ... end ...` 不能理解为时间上的先后。第二个 `med` 承接 `leve med`，这里对照的是容忍不确定性与容忍无辜者被关进监狱两种结果。`uvished` 强调不知道真相，`usikkerhed` 则具有更广泛的不确定或缺乏安全感的含义。"
+        }
+    ]
+}

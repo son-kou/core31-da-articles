@@ -1,0 +1,1559 @@
+{
+    "schema_version": 1,
+    "unit": "U18",
+    "part": "ALL",
+    "source_fingerprint": "U18-ALL-96d8831f4810",
+    "sentences": [
+        {
+            "id": "U18-C001",
+            "zh": "商店里飘散着热红酒和丹麦传统小圆饼的香气，而各个工作单位早在十一月就已经开始举办圣诞聚餐了。",
+            "grammar": "第一分句以地点状语 `I butikkerne` 开头，后接 `dufter der af ...`，属于非人称存在式结构，描述某种气味弥漫在空间里。第二分句同样以地点状语 `på arbejdspladserne` 开头，因此采用V2倒装 `begynder julefrokosterne`。`allerede i november` 中的 `allerede` 强调活动开始得比读者可能预期的更早。",
+            "vocabulary": [
+                {
+                    "da": "dufte af noget",
+                    "zh": "散发某种香味、闻起来有……的味道",
+                    "note": "固定介词 `af`；一般用于令人愉悦的气味"
+                },
+                {
+                    "da": "gløgg",
+                    "zh": "北欧热香料红酒",
+                    "note": "丹麦圣诞季常见饮品，也有无酒精版本"
+                },
+                {
+                    "da": "æbleskiver",
+                    "zh": "丹麦传统球形小圆饼",
+                    "note": "通常撒糖粉、搭配果酱；名称虽然含 `æble`，现代常见版本不一定有苹果"
+                },
+                {
+                    "da": "en julefrokost",
+                    "zh": "圣诞聚餐、圣诞年会",
+                    "note": "既可以是家庭聚会，也可以是单位聚餐，不一定发生在午餐时间"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "早在……就、已经",
+                    "note": "常强调事情发生得比预期更早"
+                }
+            ],
+            "nuance": "作者通过香味与聚会时间营造丹麦圣诞季的生活氛围。`julefrokost` 是重要的文化词，虽然字面包含午餐 `frokost`，公司圣诞聚餐经常持续到晚上。`allerede` 让读者感受到圣诞庆祝活动在正式节日前很久就开始了。",
+            "transfer": [
+                "Der dufter af friskbagt brød i køkkenet.",
+                "På mange arbejdspladser holder man julefrokost i november.",
+                "Forberedelserne begynder allerede i oktober."
+            ],
+            "pitfall": "`dufte af` 强调闻起来有某种香味，`lugte af` 更中性，也可用于难闻的气味。`julefrokost` 不等于平常工作日的午餐。"
+        },
+        {
+            "id": "U18-C002",
+            "zh": "圣诞聚餐通常是一个热热闹闹的长夜，餐桌上有腌鲱鱼、烈酒、热菜，还少不了唱歌。正如人们开玩笑说的：圣诞聚餐上发生的事，就让它留在圣诞聚餐上吧。",
+            "grammar": "第一分句以 `Julefrokosten er ...` 定义庆祝活动，`med` 后面列举食物、饮品和活动。`som man siger` 是插入性的引述表达，相当于“俗话说”。冒号后的 `Det, der sker ...` 使用带关系从句的名词性结构，`der` 在关系从句中充当主语。需要特别辨析 `bliver til`：通常表示“变成、形成”，并非标准的“留在某处”表达；这里结合语境应理解为模仿保密式玩笑的特殊说法。",
+            "vocabulary": [
+                {
+                    "da": "sild",
+                    "zh": "鲱鱼、腌鲱鱼",
+                    "note": "丹麦传统冷餐中的常见食材"
+                },
+                {
+                    "da": "snaps",
+                    "zh": "北欧烈酒、小杯烈酒",
+                    "note": "常见于传统节庆聚餐"
+                },
+                {
+                    "da": "lune retter",
+                    "zh": "温热菜肴",
+                    "note": "`lun` 是温热的，不等于非常烫的 `varm`"
+                },
+                {
+                    "da": "som man siger",
+                    "zh": "正如人们常说的",
+                    "note": "用于引出俗语、常见说法或玩笑"
+                },
+                {
+                    "da": "blive til noget",
+                    "zh": "变成某物、形成某事",
+                    "note": "与表示停留的 `blive ved`、`blive hos` 不同"
+                }
+            ],
+            "nuance": "最后一句明显借用了“某个场合发生的事情就留在那个场合”的幽默模式，暗示圣诞聚餐可能发生平时不会发生的趣事，而参与者最好不要到处宣扬。但原文的 `bliver til julefrokosten` 并不是这一含义最自然、规范的丹麦语表达；更明确的说法可以是 `Det, der sker til julefrokosten, bliver mellem os.`。学习时要掌握幽默意图，同时避免把原句当作成熟固定习语。",
+            "transfer": [
+                "Som man siger, skal der være plads til lidt sjov.",
+                "Det, der blev sagt på mødet, bliver mellem os.",
+                "Vi holder julefrokost med både kolleger og deres partnere."
+            ],
+            "pitfall": "`blive til` 通常是“变成”，不能普遍当作英语 `stay` 使用。`lun` 与 `varm` 都与温度有关，但 `lun` 往往强调适度的温热。"
+        },
+        {
+            "id": "U18-C003",
+            "zh": "十二月初，阿米尔受邀参加同事汉娜在家举办的圣诞聚餐。",
+            "grammar": "`I begyndelsen af december` 是句首时间状语，后面采用V2倒装 `bliver Amir`。`bliver inviteret` 是 `blive` 被动，突出阿米尔受到邀请，而不是邀请者的动作。`til julefrokost` 表示受邀参加的活动，`hos sin kollega Hanne` 说明活动在同事汉娜那里举行。`sin` 回指阿米尔。",
+            "vocabulary": [
+                {
+                    "da": "i begyndelsen af",
+                    "zh": "在……初、……开始的时候",
+                    "note": "适用于月份、年份和其他时间段"
+                },
+                {
+                    "da": "blive inviteret til noget",
+                    "zh": "受邀参加某项活动",
+                    "note": "被动结构；固定介词 `til`"
+                },
+                {
+                    "da": "hos nogen",
+                    "zh": "在某人家里、在某人那里",
+                    "note": "用于拜访、做客和接受个人服务"
+                },
+                {
+                    "da": "en kollega",
+                    "zh": "同事",
+                    "note": "复数 `kolleger`"
+                }
+            ],
+            "nuance": "从前面的节日概述转入具体人物故事。`hos sin kollega` 表明这不是公司会议室里举行的官方活动，而是同事之间的私人聚会。丹麦语用 `hos` 很自然地表达在某人家里或由某人接待的场合。",
+            "transfer": [
+                "Jeg er blevet inviteret til julefrokost hos en kollega.",
+                "I begyndelsen af december holder vi en lille fest.",
+                "Hun blev inviteret til middag hos sin chef."
+            ],
+            "pitfall": "`inviteret til` 引出活动，`hos` 引出接待者或地点。不要把 `hos` 与普通表示城市、建筑物位置的 `i` 混用。"
+        },
+        {
+            "id": "U18-C004",
+            "zh": "汉娜：我们这周六要办圣诞聚餐。你想来吗？",
+            "grammar": "`holde julefrokost` 是动词加活动名词的固定搭配。`på lørdag` 表示即将到来的星期六。`Har du lyst til at komme?` 使用 `have lyst til at + 不定式`，询问对方的意愿，比直接要求对方参加更礼貌。",
+            "vocabulary": [
+                {
+                    "da": "holde julefrokost",
+                    "zh": "举办圣诞聚餐",
+                    "note": "`holde` 可用于举办会议、聚会、生日等"
+                },
+                {
+                    "da": "på lørdag",
+                    "zh": "这周六、即将到来的星期六",
+                    "note": "具体日期依说话时间确定"
+                },
+                {
+                    "da": "have lyst til at gøre noget",
+                    "zh": "想做某事、有兴趣做某事",
+                    "note": "固定结构，`lyst` 前通常不加冠词"
+                }
+            ],
+            "nuance": "`Har du lyst til ...?` 是非常自然的私人邀请方式，给对方留下拒绝空间。这里不是在询问阿米尔有没有空，而是询问他是否愿意参加。",
+            "transfer": [
+                "Vi holder fest på fredag.",
+                "Har du lyst til at komme forbi?",
+                "Har du lyst til at spise middag sammen på lørdag?"
+            ],
+            "pitfall": "`have lyst til` 后接名词或 `at` 不定式，不能漏掉 `til`。`på lørdag` 与 `om lørdagen` 不同，后者通常描述每周六的习惯。"
+        },
+        {
+            "id": "U18-C005",
+            "zh": "阿米尔：好啊，我很乐意！我需要带点什么过去吗？",
+            "grammar": "`Ja, gerne!` 是省略完整谓语的肯定回答，相当于愿意接受邀请。`Skal jeg tage noget med?` 使用情态动词 `skal` 主语倒装构成疑问句。`tage noget med` 是动词小品词结构，表示随身带上某物。",
+            "vocabulary": [
+                {
+                    "da": "Ja, gerne!",
+                    "zh": "好啊，乐意！",
+                    "note": "自然接受邀请的口语回答"
+                },
+                {
+                    "da": "tage noget med",
+                    "zh": "带某物过去、随身携带某物",
+                    "note": "固定动词小品词结构"
+                },
+                {
+                    "da": "Skal jeg ...?",
+                    "zh": "我要不要……？需要我……吗？",
+                    "note": "询问对方是否希望自己做某件事"
+                }
+            ],
+            "nuance": "阿米尔不仅接受邀请，还主动询问是否需要带东西。这是参加私人聚会时很实用的礼貌表达。`Ja, gerne` 比单独的 `Ja` 更热情，但并不过度正式。",
+            "transfer": [
+                "Ja, det vil jeg meget gerne!",
+                "Skal jeg tage noget mad med?",
+                "Er der noget, jeg skal medbringe?"
+            ],
+            "pitfall": "`tage med` 与 `tage på`、`tage af` 含义不同。这里的 `skal` 不是说话人已经被规定必须带东西，而是在询问主人的期待。"
+        },
+        {
+            "id": "U18-C006",
+            "zh": "汉娜：带个五十克朗左右的小礼物就行。我们要玩交换礼物的游戏。",
+            "grammar": "`Bare en lille gave ...` 是口语省略句，完整意思相当于 `Du skal bare tage en lille gave med`。`bare` 强调要求不多。`til omkring halvtreds kroner` 表示礼物大致对应的价格。`Vi laver pakkeleg` 使用 `lave` 表示进行某项活动。",
+            "vocabulary": [
+                {
+                    "da": "bare",
+                    "zh": "只要、仅仅、就",
+                    "note": "这里使要求显得简单、轻松"
+                },
+                {
+                    "da": "en gave",
+                    "zh": "礼物",
+                    "note": "复数 `gaver`"
+                },
+                {
+                    "da": "omkring halvtreds kroner",
+                    "zh": "五十克朗左右",
+                    "note": "`omkring` 表示近似数量"
+                },
+                {
+                    "da": "pakkeleg",
+                    "zh": "丹麦节庆交换礼物游戏",
+                    "note": "常涉及礼物、骰子和按规则交换或争夺礼物；具体玩法因家庭而异"
+                }
+            ],
+            "nuance": "`pakkeleg` 是重要的丹麦聚会文化词。主人没有解释复杂规则，只告诉客人准备一份价格不高的小礼物。`bare` 既说明礼物要求，也减轻客人的心理负担。",
+            "transfer": [
+                "Du skal bare tage en lille gave med.",
+                "Vi har aftalt et budget på omkring halvtreds kroner.",
+                "Har du prøvet at være med til pakkeleg?"
+            ],
+            "pitfall": "`pakke` 在这里是礼物包裹，不是行李打包。`halvtreds` 是五十，注意丹麦语数词形式。"
+        },
+        {
+            "id": "U18-C007",
+            "zh": "阿米尔：交换礼物游戏？那你可得给我解释一下这是什么玩法。",
+            "grammar": "先重复新听到的词，形成确认式疑问。`Det må du forklare mig` 将宾语 `Det` 前置，后接情态动词 `må` 和主语 `du`，保持V2语序。`forklare nogen noget` 可以直接接人和所解释的内容。",
+            "vocabulary": [
+                {
+                    "da": "forklare nogen noget",
+                    "zh": "向某人解释某事",
+                    "note": "也可使用 `forklare noget for nogen`"
+                },
+                {
+                    "da": "det må du ...",
+                    "zh": "那你可得……",
+                    "note": "口语中可表达友好的要求或期待"
+                }
+            ],
+            "nuance": "阿米尔的语气带着好奇，而不是严厉要求。`Det må du forklare mig` 比简单的 `Hvad betyder det?` 更突出“你需要告诉我具体怎么回事”的期待。",
+            "transfer": [
+                "Det må du forklare lidt nærmere.",
+                "Kan du forklare mig, hvordan det fungerer?",
+                "Det har jeg aldrig hørt om før."
+            ],
+            "pitfall": "`må` 在这里不是单纯的“被允许”，而是带有期待和要求意味。`forklare` 不等于 `fortælle`，前者更强调解释规则或原因。"
+        },
+        {
+            "id": "U18-C008",
+            "zh": "汉娜：你直接参与进来就知道了，那样才更有意思呢。",
+            "grammar": "`Det er sjovere, hvis ...` 是评价主句加条件从句。`sjovere` 是 `sjov` 的比较级。`kaste sig ud i noget` 是反身固定习语，主语 `du` 对应反身代词 `dig`。`bare` 表示干脆去做，不必事先弄清全部细节。",
+            "vocabulary": [
+                {
+                    "da": "kaste sig ud i noget",
+                    "zh": "大胆尝试、放手去做",
+                    "note": "比喻性反身动词短语"
+                },
+                {
+                    "da": "sjovere",
+                    "zh": "更有趣",
+                    "note": "`sjov` 的比较级"
+                },
+                {
+                    "da": "bare",
+                    "zh": "干脆、直接",
+                    "note": "在鼓励中可减轻犹豫"
+                }
+            ],
+            "nuance": "汉娜故意不提前解释游戏规则，认为亲身参与更好玩。`kaste dig ud i det` 有鼓励冒险尝试的意味，但语气轻松，适合日常活动，不代表真正危险的行为。",
+            "transfer": [
+                "Nogle gange skal man bare kaste sig ud i det.",
+                "Det er sjovere, hvis alle deltager.",
+                "Du lærer det hurtigere ved at prøve selv."
+            ],
+            "pitfall": "`kaste sig ud i` 不是实际跳进某处，而是比喻勇于尝试。反身代词必须随主语变化：`jeg kaster mig`、`du kaster dig`。"
+        },
+        {
+            "id": "U18-C009",
+            "zh": "到了聚会后的那个星期一，两人站在咖啡机旁聊天。",
+            "grammar": "`Mandagen efter` 是完整的前置时间状语，意思是紧接上述事件之后的星期一。主句采用V2语序 `står de`。`ved kaffemaskinen` 是位置状语，`ved` 表示在咖啡机旁边。",
+            "vocabulary": [
+                {
+                    "da": "mandagen efter",
+                    "zh": "之后的那个星期一",
+                    "note": "参照时间由前文提供"
+                },
+                {
+                    "da": "en kaffemaskine",
+                    "zh": "咖啡机",
+                    "note": "复数 `kaffemaskiner`"
+                },
+                {
+                    "da": "stå ved noget",
+                    "zh": "站在某物旁边",
+                    "note": "`ved` 表示临近的位置"
+                }
+            ],
+            "nuance": "作者通过非常简短的场景转换，省略整个聚会过程，直接让读者看到聚会后的同事交流。办公室咖啡机旁是自然的非正式交谈场景。",
+            "transfer": [
+                "Dagen efter talte vi om festen.",
+                "Mandagen efter mødtes vi igen.",
+                "Vi stod og snakkede ved kaffemaskinen."
+            ],
+            "pitfall": "`mandagen efter` 是特定事件之后的星期一，不是每个星期一的习惯表达 `om mandagen`。"
+        },
+        {
+            "id": "U18-C010",
+            "zh": "阿米尔：谢谢你上次的招待！那天晚上真的特别温馨、特别开心。",
+            "grammar": "`Tak for sidst!` 是固定的社交礼貌表达，用于再次见到上次聚会的参与者。第二句 `Det var en rigtig hyggelig aften` 使用过去时回顾已经结束的活动。`rigtig` 在这里作程度副词，修饰 `hyggelig`。",
+            "vocabulary": [
+                {
+                    "da": "Tak for sidst!",
+                    "zh": "谢谢上次的聚会／招待！",
+                    "note": "丹麦人再次见到共同参加活动的人时使用的固定寒暄"
+                },
+                {
+                    "da": "hyggelig",
+                    "zh": "温馨的、令人愉快的、相处舒服的",
+                    "note": "意义由社交场景决定"
+                },
+                {
+                    "da": "rigtig",
+                    "zh": "非常、真的",
+                    "note": "在这里不是形容词“正确的”"
+                }
+            ],
+            "nuance": "`Tak for sidst` 是非常值得主动使用的丹麦社交表达，不一定只对主人说，也可以对上次一起参加活动的人说。`hyggelig` 传达的是气氛愉快、相处舒适，而不只是活动内容有趣。",
+            "transfer": [
+                "Tak for sidst! Det var virkelig hyggeligt.",
+                "Vi havde en rigtig hyggelig aften.",
+                "Tak for en dejlig middag."
+            ],
+            "pitfall": "`Tak for sidst` 不是感谢“最后一次”，而是感谢上一次共同经历。`hyggelig` 与 `sjov` 不完全等同，前者更注重舒适和融洽的氛围。"
+        },
+        {
+            "id": "U18-C011",
+            "zh": "汉娜：也谢谢你。你能来真是太好了。",
+            "grammar": "`Selv tak` 是对感谢的固定回应。`Godt, du kunne komme` 是省略形式，完整可理解为 `Det var godt, at du kunne komme`。`kunne` 是 `kan` 的过去时，指阿米尔当时能够到场。",
+            "vocabulary": [
+                {
+                    "da": "Selv tak",
+                    "zh": "也谢谢你；不客气",
+                    "note": "双方都有理由表示感谢时尤其自然"
+                },
+                {
+                    "da": "Godt, du kunne komme",
+                    "zh": "你能来真好",
+                    "note": "自然口语省略句"
+                }
+            ],
+            "nuance": "主人用简短而温暖的话结束聚会后的寒暄。`Godt, du kunne komme` 强调对方的出席受到欢迎，不只是客套地说“没关系”。",
+            "transfer": [
+                "Selv tak, det var hyggeligt.",
+                "Hvor var det godt, at du kunne komme!",
+                "Dejligt at se dig igen."
+            ],
+            "pitfall": "`Selv tak` 不必在任何感谢场景中机械使用，也可以根据情况说 `Det var så lidt`。`kunne` 在这里不是假设语气，而是回顾过去能够出席。"
+        },
+        {
+            "id": "U18-C012",
+            "zh": "丹麦人主要在十二月二十四日晚上，也就是平安夜，庆祝圣诞节。",
+            "grammar": "主句 `Danskerne fejrer jul` 后接具体时间状语 `om aftenen den 24. december`。末尾 `juleaften` 是同位语，用来说明这一日期的名称。`fejre jul` 不需要冠词。",
+            "vocabulary": [
+                {
+                    "da": "fejre jul",
+                    "zh": "庆祝圣诞节",
+                    "note": "`fejre` 可用于生日、节日和纪念日"
+                },
+                {
+                    "da": "juleaften",
+                    "zh": "平安夜、圣诞前夜",
+                    "note": "丹麦传统家庭庆祝的重要晚上"
+                },
+                {
+                    "da": "den 24. december",
+                    "zh": "十二月二十四日",
+                    "note": "日期中序数词常用数字加句点"
+                }
+            ],
+            "nuance": "这里强调丹麦圣诞庆祝的时间特点：传统的主要家庭聚会和交换礼物常集中在十二月二十四日晚上，而不是二十五日上午。`juleaften` 在文化上具有很明确的场景含义。",
+            "transfer": [
+                "Vi fejrer jul hos mine forældre.",
+                "Juleaften falder den 24. december.",
+                "Hvordan plejer I at fejre jul?"
+            ],
+            "pitfall": "`juleaften` 是十二月二十四日晚，`juledag` 是十二月二十五日。不要把丹麦的主要家庭庆祝时间直接套用其他国家的习惯。"
+        },
+        {
+            "id": "U18-C013",
+            "zh": "玛雅和约纳斯家摆好了十个人的餐具，而外婆还特意带来了自己做的肉汁，因为她信不过别人做的。",
+            "grammar": "`Hos Maja og Jonas` 前置为地点状语，后面采用 `er der dækket op til ti` 的存在式结构，表示已经摆好十人份餐具。`dække op til` 是固定搭配。第二分句使用现在完成时 `har taget ... med`。`fordi hun ikke stoler på andres` 是原因从句，`andres` 是所有格名词化表达，省略了上下文明确的 `sovs`。",
+            "vocabulary": [
+                {
+                    "da": "dække op til nogen",
+                    "zh": "为若干人摆好餐具",
+                    "note": "`dække op til ti` 表示摆十个人的餐位"
+                },
+                {
+                    "da": "sovs",
+                    "zh": "肉汁、酱汁",
+                    "note": "en sovs；丹麦传统节日餐食中的常见部分"
+                },
+                {
+                    "da": "tage noget med",
+                    "zh": "带来某物",
+                    "note": "固定小品词结构"
+                },
+                {
+                    "da": "stole på nogen/noget",
+                    "zh": "信任某人、相信某事可靠",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "andres",
+                    "zh": "其他人的",
+                    "note": "所有格形式，这里省略了被拥有的东西"
+                }
+            ],
+            "nuance": "外婆自带酱汁是一个带有家庭幽默感的细节：她对自己的厨艺更有信心，不愿依赖别人做的。`ikke stoler på andres` 听起来略显固执，但在亲密家庭环境里也可能是一种可爱的性格描写。",
+            "transfer": [
+                "Der er dækket op til otte.",
+                "Jeg tager min egen mad med.",
+                "Han stoler ikke på andres vurderinger."
+            ],
+            "pitfall": "`til ti` 在此指十个人，不是十点钟。`stole på` 的介词不能省略。`andres` 是其他人的，不是直接表示其他东西的 `andre`。"
+        },
+        {
+            "id": "U18-C014",
+            "zh": "甜点里藏着一颗完整的杏仁，谁找到它，谁就能得到一份小礼物。",
+            "grammar": "`I desserten` 前置，引出 `er der gemt en hel mandel`，表示某物被藏在甜点里的结果状态。后半句 `den, der finder den, får ...` 使用泛指人的关系结构：第一个 `den` 指找到杏仁的人，第二个 `den` 指杏仁。`der` 在关系从句中充当主语。",
+            "vocabulary": [
+                {
+                    "da": "en dessert",
+                    "zh": "甜点",
+                    "note": "复数 `desserter`"
+                },
+                {
+                    "da": "gemme noget",
+                    "zh": "藏起某物",
+                    "note": "过去时 `gemte`，过去分词 `gemt`"
+                },
+                {
+                    "da": "en hel mandel",
+                    "zh": "一颗完整的杏仁",
+                    "note": "`en mandel` 为普通性别名词"
+                },
+                {
+                    "da": "den, der ...",
+                    "zh": "那个……的人；凡是……的人",
+                    "note": "非常实用的泛指关系结构"
+                }
+            ],
+            "nuance": "这里描写丹麦圣诞甜点的杏仁游戏，常与圣诞米布丁 `risalamande` 联系在一起。`en hel mandel` 强调完整的杏仁，因为游戏中可能出现其他切碎的杏仁，完整的一颗才是寻找目标。",
+            "transfer": [
+                "Der er gemt en lille overraskelse i kagen.",
+                "Den, der finder mandlen, vinder en gave.",
+                "Den, der kommer først, får den bedste plads."
+            ],
+            "pitfall": "`hel` 是完整的，不能只理解为健康的英语 `healthy`。`den, der` 指人，而后一个 `den` 指物，两者需要结合指代关系判断。"
+        },
+        {
+            "id": "U18-C015",
+            "zh": "不过按照传统，找到杏仁的幸运儿必须先把它藏好，直到所有人都吃完为止。",
+            "grammar": "`Traditionen tro` 是固定的句首副词性表达，表示遵照传统。后面主句采用V2倒装 `skal den heldige`。`den heldige` 是形容词名词化，指幸运的人。`holde mandlen skjult` 使用宾语加形容词性补足语，表示让杏仁一直处于隐藏状态。`til alle har spist op` 是时间从句，表示直到所有人完成进食。",
+            "vocabulary": [
+                {
+                    "da": "traditionen tro",
+                    "zh": "按照传统、依照惯例",
+                    "note": "固定表达，书面叙事和文化介绍中常见"
+                },
+                {
+                    "da": "den heldige",
+                    "zh": "幸运的那个人",
+                    "note": "形容词名词化"
+                },
+                {
+                    "da": "holde noget skjult",
+                    "zh": "把某事或某物隐藏起来",
+                    "note": "也可用于隐藏信息或身份"
+                },
+                {
+                    "da": "spise op",
+                    "zh": "吃完、吃光",
+                    "note": "动词小品词结构"
+                }
+            ],
+            "nuance": "这项规则让杏仁游戏变得更有悬念：找到杏仁的人不能立即宣布，而要等待其他人吃完。`dog` 表示虽然幸运儿已经找到了奖品，却仍需要遵守额外规则。",
+            "transfer": [
+                "Traditionen tro mødes familien juleaften.",
+                "Han holdt nyheden skjult indtil næste dag.",
+                "Vi venter, til alle har spist op."
+            ],
+            "pitfall": "`Traditionen tro` 是整体固定表达，不需要再添加 `i` 或 `på`。`til` 在此表示直到某个时间点，不是方向介词。"
+        },
+        {
+            "id": "U18-C016",
+            "zh": "外婆：有人找到那颗杏仁了吗？",
+            "grammar": "`Er der nogen, der ...?` 是存在式疑问句加关系从句，表示询问是否有人满足某个条件。`der` 在关系从句中充当主语。`har fundet` 是现在完成时，强调到目前为止是否有人已经找到。",
+            "vocabulary": [
+                {
+                    "da": "Er der nogen, der ...?",
+                    "zh": "有没有人……？",
+                    "note": "非常常用的口语询问结构"
+                },
+                {
+                    "da": "finde",
+                    "zh": "找到、发现",
+                    "note": "过去时 `fandt`，过去分词 `fundet`"
+                }
+            ],
+            "nuance": "外婆的提问推动了杏仁游戏的悬念。她并不是问谁正在寻找，而是询问是否已经有人成功找到。",
+            "transfer": [
+                "Er der nogen, der har set mine nøgler?",
+                "Er der nogen, der ved det?",
+                "Har nogen fundet gaven?"
+            ],
+            "pitfall": "`nogen` 用于询问是否存在某个人；`nogle` 通常指若干人。关系结构中的 `der` 不能随意省略。"
+        },
+        {
+            "id": "U18-C017",
+            "zh": "奥利弗：反正不是我。",
+            "grammar": "这是简短的否定省略句。`Ikke` 否定代词 `mig`，完整含义由前一句寻找杏仁的问题提供。",
+            "vocabulary": [
+                {
+                    "da": "ikke mig",
+                    "zh": "不是我、我没有",
+                    "note": "口语中可独立作答"
+                }
+            ],
+            "nuance": "奥利弗直接否认自己是找到杏仁的人。简短回应符合家庭餐桌上多人轮流回答的自然节奏。",
+            "transfer": [
+                "Det var ikke mig.",
+                "Nej, jeg har ikke fundet noget."
+            ],
+            "pitfall": "`mig` 是宾格代词，在这种独立回应中自然；不要按完整主语句机械改为 `jeg`。"
+        },
+        {
+            "id": "U18-C018",
+            "zh": "伊达：我也没有！我都已经吃了三份了！",
+            "grammar": "`Heller ikke mig` 承接上一句的否定，表示自己也没有找到。`har spist` 使用现在完成时，强调截至现在已经吃掉的数量。`tre portioner` 是直接宾语。",
+            "vocabulary": [
+                {
+                    "da": "heller ikke",
+                    "zh": "也没有、同样不",
+                    "note": "用于承接前面的否定"
+                },
+                {
+                    "da": "en portion",
+                    "zh": "一份食物",
+                    "note": "复数 `portioner`"
+                },
+                {
+                    "da": "have spist",
+                    "zh": "已经吃了",
+                    "note": "现在完成时"
+                }
+            ],
+            "nuance": "伊达不仅没有找到杏仁，还已经吃了三份甜点，带有孩子式的兴奋和一点点抱怨。感叹句让场景显得热闹。",
+            "transfer": [
+                "Jeg har heller ikke fundet den.",
+                "Jeg har allerede spist to portioner.",
+                "Jeg kan ikke spise mere."
+            ],
+            "pitfall": "`heller ikke` 用于否定呼应，不能用普通的 `også` 直接替换。`portion` 是食物份量，不是餐具。"
+        },
+        {
+            "id": "U18-C019",
+            "zh": "外婆：那看来我们只好再来一份啦。约纳斯，你觉得怎么样？",
+            "grammar": "`Så må vi have ...` 中 `så` 根据前面的情况引出结果，`må` 在这里表示带玩笑意味的必要性。`en portion mere` 表示再多一份。`Hvad siger du til det?` 是征求意见的固定结构，`til` 不能省略。",
+            "vocabulary": [
+                {
+                    "da": "en portion mere",
+                    "zh": "再来一份",
+                    "note": "`mere` 后置表示额外增加的数量"
+                },
+                {
+                    "da": "Hvad siger du til det?",
+                    "zh": "你觉得怎么样？",
+                    "note": "自然的口语征询意见表达"
+                },
+                {
+                    "da": "så må vi ...",
+                    "zh": "那我们只好……",
+                    "note": "根据上下文可带认真或玩笑语气"
+                }
+            ],
+            "nuance": "外婆半开玩笑地提出继续吃甜点，以便寻找杏仁。`må` 把多吃一份说成不得不做的事，正是幽默所在。后一句点名约纳斯，让他加入餐桌上的玩笑。",
+            "transfer": [
+                "Så må vi prøve igen.",
+                "Hvad siger du til en portion mere?",
+                "Vi må hellere vente lidt."
+            ],
+            "pitfall": "`må` 在这里不代表法律义务或强制要求，而是带有轻松的情境推论。`Hvad siger du til` 要整体掌握。"
+        },
+        {
+            "id": "U18-C020",
+            "zh": "约纳斯：不行了，我实在吃不下了，肚子都快撑爆了。",
+            "grammar": "`Jeg kan ikke` 是省略句，具体指不能再吃。`Jeg er ved at revne` 使用 `være ved at + 不定式`，表示某事即将发生。`revne` 原意是裂开、爆裂，在此夸张表达吃得非常饱。",
+            "vocabulary": [
+                {
+                    "da": "være ved at gøre noget",
+                    "zh": "正要、眼看就要做某事",
+                    "note": "常表示动作正在临近或发生过程中"
+                },
+                {
+                    "da": "revne",
+                    "zh": "裂开、爆裂",
+                    "note": "过去时 `revnede`"
+                },
+                {
+                    "da": "være ved at revne",
+                    "zh": "快撑爆了",
+                    "note": "形象的口语夸张表达"
+                }
+            ],
+            "nuance": "约纳斯并非真的会爆裂，而是用夸张的身体感觉拒绝再吃。`Jeg kan ikke` 在此无需补充 `spise mere`，因为上下文已经非常明确。",
+            "transfer": [
+                "Jeg kan ikke spise mere.",
+                "Jeg er ved at revne.",
+                "Jeg er simpelthen alt for mæt."
+            ],
+            "pitfall": "`være ved at` 不等于 `være nødt til at`：前者表示即将或正在发生，后者表示不得不。"
+        },
+        {
+            "id": "U18-C021",
+            "zh": "伊达：妈妈，是你找到杏仁了，对不对？你都笑出来了！",
+            "grammar": "`du har den, ikke?` 是陈述句加尾部确认问句，`ikke?` 表示期待对方确认。`den` 回指杏仁。`Du griner!` 使用现在时，描述正在发生的动作。",
+            "vocabulary": [
+                {
+                    "da": "have den",
+                    "zh": "拿着它、拥有它",
+                    "note": "具体指代由前文确定"
+                },
+                {
+                    "da": "ikke?",
+                    "zh": "对吧？是不是？",
+                    "note": "口语中的确认式尾问"
+                },
+                {
+                    "da": "grine",
+                    "zh": "笑、发笑",
+                    "note": "过去时 `grinede`"
+                }
+            ],
+            "nuance": "伊达通过妈妈的表情怀疑她已经找到杏仁。`ikke?` 不是中性的询问信息，而是带有“我猜到了”的期待。`Du griner!` 让揭晓答案的气氛更加活泼。",
+            "transfer": [
+                "Du ved det allerede, ikke?",
+                "Du har fundet den, ikke?",
+                "Hvorfor griner du?"
+            ],
+            "pitfall": "`grine` 是笑出声或发笑，`smile` 更偏向微笑。`ikke?` 在这里是确认尾问，不是普通的句中否定词。"
+        },
+        {
+            "id": "U18-C022",
+            "zh": "玛雅：我才没有笑呢！……好吧，好吧。喏，在这儿。",
+            "grammar": "`Jeg griner skam ikke` 中 `skam` 是语气小品词，强调说话人否认对方的判断。`Her er den` 将地点副词 `Her` 前置，后接V2倒装 `er den`。`den` 仍指杏仁。",
+            "vocabulary": [
+                {
+                    "da": "skam",
+                    "zh": "可真是、其实、才没有呢",
+                    "note": "语气小品词，常带轻微坚持、辩解或纠正意味"
+                },
+                {
+                    "da": "Okay, okay",
+                    "zh": "好吧，好吧",
+                    "note": "重复可表达认输、妥协或结束争辩"
+                },
+                {
+                    "da": "Her er den",
+                    "zh": "喏，在这里",
+                    "note": "展示找到的物品时常用"
+                }
+            ],
+            "nuance": "玛雅先假装否认，随后忍不住承认自己藏着杏仁。`skam` 在这里使否认带有玩笑意味，不是严肃地指责孩子说谎。前后的语气反转是场景的趣味所在。",
+            "transfer": [
+                "Jeg er skam ikke sur.",
+                "Okay, okay, du har ret.",
+                "Her er det, du leder efter."
+            ],
+            "pitfall": "`skam` 在这里不是名词 `en skam`（遗憾、羞耻），而是语气副词。两者形式相同但用法不同。"
+        },
+        {
+            "id": "U18-C023",
+            "zh": "伊达：你藏了多久啦？",
+            "grammar": "`Hvor længe` 询问持续时间。`har du haft` 是现在完成时，表示从过去某个时刻开始直到现在一直持有。`den` 指杏仁。",
+            "vocabulary": [
+                {
+                    "da": "hvor længe",
+                    "zh": "多久、多长时间",
+                    "note": "询问时间长度"
+                },
+                {
+                    "da": "have haft",
+                    "zh": "一直持有、已经拥有",
+                    "note": "`have` 的现在完成时"
+                }
+            ],
+            "nuance": "伊达关心的并不是杏仁在哪里，而是妈妈究竟什么时候就已经找到了。现在完成时很自然，因为杏仁直到刚才揭晓之前一直被她藏着。",
+            "transfer": [
+                "Hvor længe har du vidst det?",
+                "Hvor længe har du haft den?",
+                "Har du haft den hele tiden?"
+            ],
+            "pitfall": "询问从过去持续到现在的状态时，常用现在完成时。不要一律因为中文出现“了”就使用简单过去时。"
+        },
+        {
+            "id": "U18-C024",
+            "zh": "玛雅：从第一口开始就藏着了。",
+            "grammar": "`Siden første skefuld` 是省略句，完整含义由上一句的 `har haft den` 补足。`siden` 引出持续状态的起点，`første skefuld` 指第一勺食物。",
+            "vocabulary": [
+                {
+                    "da": "siden",
+                    "zh": "自从……以来",
+                    "note": "表示状态或事件持续的起点"
+                },
+                {
+                    "da": "en skefuld",
+                    "zh": "一勺的量",
+                    "note": "复合词，由 `ske`（勺子）与 `fuld` 构成"
+                }
+            ],
+            "nuance": "答案揭示玛雅很早就找到了杏仁，却一直让大家继续猜测、甚至继续吃甜点。简短的回答形成幽默的收尾。",
+            "transfer": [
+                "Jeg har vidst det siden i morges.",
+                "Allerede fra første skefuld.",
+                "Jeg fandt den med det samme."
+            ],
+            "pitfall": "`siden` 表示从过去某时持续到后来或现在，`for ... siden` 才表示多久以前，例如 `for to timer siden`。"
+        },
+        {
+            "id": "U18-C025",
+            "zh": "之后，许多家庭会围着圣诞树边走边唱歌，而礼物通常要等大家围树唱完歌之后才拆开。",
+            "grammar": "`Bagefter` 是句首时间副词，触发V2倒装 `danser mange familier`。`danser ... og synger` 是并列动作。第二分句 `gaverne bliver ... ikke pakket op` 使用 `blive` 被动，表示礼物被拆开。`før dansen er slut` 是时间从句，配合否定形成“直到……才”的意思。",
+            "vocabulary": [
+                {
+                    "da": "bagefter",
+                    "zh": "之后、随后",
+                    "note": "表示事件的先后顺序"
+                },
+                {
+                    "da": "danse rundt om noget",
+                    "zh": "围着某物跳舞或走动",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "et juletræ",
+                    "zh": "圣诞树",
+                    "note": "复数 `juletræer`"
+                },
+                {
+                    "da": "pakke noget op",
+                    "zh": "拆开包装、拆礼物",
+                    "note": "与 `pakke noget ind`（包装）相对"
+                },
+                {
+                    "da": "være slut",
+                    "zh": "已经结束",
+                    "note": "状态表达"
+                }
+            ],
+            "nuance": "这句话描写丹麦圣诞夜的重要家庭仪式：大家通常围绕圣诞树唱歌，再拆礼物。`som regel` 表示常见习惯，而不是所有家庭必须遵守的规则。",
+            "transfer": [
+                "Bagefter pakker vi gaverne op.",
+                "Vi danser rundt om juletræet.",
+                "Vi åbner først gaverne, når alle er klar."
+            ],
+            "pitfall": "`pakke op` 是拆开包装，`pakke ind` 是包起来。否定词 `ikke` 与 `før` 合用时，中文通常需要译成“直到……才”。"
+        },
+        {
+            "id": "U18-C026",
+            "zh": "十二月二十五日和二十六日都是法定节假日，接下来大家又要去另一边亲戚家参加圣诞聚餐了。",
+            "grammar": "第一分句直接陈述日期与节日身份。第二分句 `så går turen til ...` 是固定表达，主语 `turen` 字面为行程，但整体表示下一站要去某处。`hos den anden side af familien` 指另一支家庭亲属或另一方亲戚。",
+            "vocabulary": [
+                {
+                    "da": "en helligdag",
+                    "zh": "法定宗教节日、公共节假日",
+                    "note": "复数 `helligdage`"
+                },
+                {
+                    "da": "så går turen til",
+                    "zh": "接下来就前往……",
+                    "note": "自然的行程转换表达"
+                },
+                {
+                    "da": "den anden side af familien",
+                    "zh": "家庭另一边的亲属、另一方亲戚",
+                    "note": "例如伴侣一方或另一支亲属"
+                }
+            ],
+            "nuance": "作者用 `går turen til` 展现节日期间在不同亲属之间走访的生活节奏。`den anden side af familien` 不是严格固定的亲属法律分类，而是根据具体家庭情况理解的日常表达。",
+            "transfer": [
+                "Så går turen videre til mine svigerforældre.",
+                "Den 25. december besøger vi familien.",
+                "I år holder vi jul hos den anden side af familien."
+            ],
+            "pitfall": "`går turen til` 不意味着一定步行，通常只表示下一站或目的地。`helligdag` 与普通周末休息日不是完全相同的概念。"
+        },
+        {
+            "id": "U18-C027",
+            "zh": "十二月三十一日的跨年夜则更加热闹喧嚣。",
+            "grammar": "`Nytårsaften den 31. december` 是名词加日期同位说明，作主语。`mere støjende` 是形容词比较级，比较对象由上下文的圣诞庆祝氛围提供，未在本句再次明说。",
+            "vocabulary": [
+                {
+                    "da": "nytårsaften",
+                    "zh": "跨年夜、除夕夜",
+                    "note": "丹麦语通常指十二月三十一日晚"
+                },
+                {
+                    "da": "støjende",
+                    "zh": "喧闹的、吵闹的",
+                    "note": "与名词 `støj`（噪声）相关"
+                },
+                {
+                    "da": "mere",
+                    "zh": "更……",
+                    "note": "与形容词构成比较级"
+                }
+            ],
+            "nuance": "作者把相对注重家庭团聚的圣诞夜与更加喧闹的跨年庆祝形成对照。`mere støjende` 主要突出声音和活动强度，不一定是负面评价。",
+            "transfer": [
+                "Nytårsaften er ofte mere livlig end juleaften.",
+                "Festen var mere støjende end forventet.",
+                "Vi holder en stille nytårsaften derhjemme."
+            ],
+            "pitfall": "`nytårsaften` 是十二月三十一日晚，`nytårsdag` 是一月一日。`støjende` 不总是表示令人讨厌，也可以描述节日的喧闹。"
+        },
+        {
+            "id": "U18-C028",
+            "zh": "午夜时分，许多人会站到椅子上。等市政厅的钟敲完十二下，他们便在烟花声中从椅子上跳下来，象征着跳进新的一年。",
+            "grammar": "`Ved midnat` 前置，后接V2结构 `står mange`。第二分句以 `når` 时间从句开头，`klokkerne ... har slået tolv slag` 使用现在完成时，表示钟声敲完后才进行下一动作。主句 `hopper de` 保持V2语序。`ned i det nye år` 结合方向副词 `ned` 和介词 `i`，表达象征性地跳入新年。",
+            "vocabulary": [
+                {
+                    "da": "ved midnat",
+                    "zh": "午夜时分",
+                    "note": "时间表达"
+                },
+                {
+                    "da": "slå et slag",
+                    "zh": "敲一下、发出一次钟声",
+                    "note": "钟声语境中 `slå tolv slag` 表示敲十二下"
+                },
+                {
+                    "da": "hoppe ned",
+                    "zh": "跳下来",
+                    "note": "方向副词 `ned` 表示向下"
+                },
+                {
+                    "da": "fyrværkeri",
+                    "zh": "烟花、烟火",
+                    "note": "et fyrværkeri；常作为集合概念使用"
+                },
+                {
+                    "da": "Rådhuset",
+                    "zh": "市政厅",
+                    "note": "这里与跨年钟声的仪式场景相联系"
+                }
+            ],
+            "nuance": "跳下椅子象征从旧年迈入新年，是丹麦跨年习俗中富有画面感的动作。`har slået tolv slag` 的完成时突出钟声敲毕这一先决事件。`under fyrværkeriet` 描写烟花正在燃放的背景，不需要理解为人真的位于烟花正下方。",
+            "transfer": [
+                "Ved midnat ønsker vi hinanden godt nytår.",
+                "Når klokken har slået tolv, begynder festen.",
+                "Vi hopper ind i det nye år."
+            ],
+            "pitfall": "`hoppe ned` 是向下跳，`hoppe op` 是向上跳。`når` 从句前置后，主句必须使用 `hopper de` 的V2语序。"
+        },
+        {
+            "id": "U18-C029",
+            "zh": "接着，人们会吃丹麦杏仁圈蛋糕，互相祝福新年快乐；回家穿过街道时，就连素不相识的路人也会彼此道贺。",
+            "grammar": "`Bagefter` 前置，引起V2倒装 `spiser man`。`ønske hinanden godt nytår` 使用相互代词 `hinanden`，表示彼此祝福。`også dem man ikke kender` 是补充性名词短语，内部省略了宾语关系代词。`på vej hjem gennem gaderne` 表示回家途中穿过街道的情境。",
+            "vocabulary": [
+                {
+                    "da": "kransekage",
+                    "zh": "丹麦杏仁圈蛋糕、塔状杏仁糕点",
+                    "note": "跨年等庆祝活动中的传统甜点"
+                },
+                {
+                    "da": "ønske hinanden godt nytår",
+                    "zh": "互相祝福新年快乐",
+                    "note": "`hinanden` 表示彼此"
+                },
+                {
+                    "da": "på vej hjem",
+                    "zh": "在回家路上",
+                    "note": "方向副词 `hjem`"
+                },
+                {
+                    "da": "gennem gaderne",
+                    "zh": "穿过街道",
+                    "note": "`gennem` 表示经过或穿过某个范围"
+                }
+            ],
+            "nuance": "作者强调跨年夜具有暂时打破陌生人界限的社交氛围。平时不认识的人也可能相互说 `Godt nytår!`。`også dem man ikke kender` 让这个文化特征格外鲜明。",
+            "transfer": [
+                "Vi ønsker hinanden godt nytår ved midnat.",
+                "På vej hjem mødte vi flere venner.",
+                "Vi sagde godt nytår til folk på gaden."
+            ],
+            "pitfall": "`hinanden` 表示双方或多人相互进行某动作，不等于反身代词 `sig selv`。`på vej hjem` 不需要写成 `på vej til hjem`。"
+        },
+        {
+            "id": "U18-C030",
+            "zh": "复活节前七个星期，丹麦人会庆祝传统的忏悔节狂欢活动Fastelavn。",
+            "grammar": "`Syv uger før påske` 是前置时间状语，后接V2倒装 `fejrer man`。`man` 泛指人们，说明一般性的节日习俗。",
+            "vocabulary": [
+                {
+                    "da": "syv uger før",
+                    "zh": "……之前七个星期",
+                    "note": "时间间隔表达"
+                },
+                {
+                    "da": "påske",
+                    "zh": "复活节",
+                    "note": "节日名称"
+                },
+                {
+                    "da": "fastelavn",
+                    "zh": "丹麦传统忏悔节前狂欢节",
+                    "note": "常见儿童装扮和击桶活动，时间与复活节日期相关"
+                }
+            ],
+            "nuance": "`fastelavn` 不能简单等同于万圣节。虽然现代活动也有服装扮演和儿童参与，但历史背景、举办时间和相关习俗都不同。作者使用相对复活节的时间表达，因为这一节日日期并不固定。",
+            "transfer": [
+                "Fastelavn fejres nogle uger før påske.",
+                "Vi fejrer fastelavn på skolen.",
+                "Hvad plejer børnene at lave til fastelavn?"
+            ],
+            "pitfall": "`før påske` 是复活节之前，不能把 `fastelavn` 误记成十月份的万圣节。"
+        },
+        {
+            "id": "U18-C031",
+            "zh": "孩子们会装扮成女巫、公主、海盗或超级英雄，而不少成年人也会在单位的Fastelavn聚会上穿上各种服装。",
+            "grammar": "`klæde sig ud som` 是反身动词短语，表示装扮成某个角色。主语 `Børnene` 对应反身代词 `sig`。第二分句 `mange voksne gør det samme` 中 `det samme` 回指前面整项装扮活动。`til fastelavnsfester på arbejdet` 表示发生的场合。",
+            "vocabulary": [
+                {
+                    "da": "klæde sig ud som",
+                    "zh": "打扮成、装扮成",
+                    "note": "反身动词结构；固定介词 `som`"
+                },
+                {
+                    "da": "en heks",
+                    "zh": "女巫",
+                    "note": "复数 `hekse`"
+                },
+                {
+                    "da": "en pirat",
+                    "zh": "海盗",
+                    "note": "复数 `pirater`"
+                },
+                {
+                    "da": "en superhelt",
+                    "zh": "超级英雄",
+                    "note": "复数 `superhelte`"
+                },
+                {
+                    "da": "gøre det samme",
+                    "zh": "做同样的事",
+                    "note": "避免重复前面的动词短语"
+                }
+            ],
+            "nuance": "句子表明Fastelavn不只属于儿童。一些工作场所也会安排成人装扮活动，形成轻松的社交氛围。`gør det samme` 非常自然地避免了重复完整的装扮描述。",
+            "transfer": [
+                "Børnene klæder sig ud som deres yndlingsfigurer.",
+                "Vi gør det samme på arbejdet.",
+                "Hun klædte sig ud som en pirat."
+            ],
+            "pitfall": "`klæde sig ud` 是化装，`klæde sig på` 是穿衣服。反身代词不能省略。"
+        },
+        {
+            "id": "U18-C032",
+            "zh": "孩子们轮流敲打一只装满糖果的木桶，直到木桶被打破。这项游戏就叫作“把猫打出桶”。",
+            "grammar": "`på skift` 表示轮流，后面的 `slå på en tønde` 使用介词 `på` 表示敲打目标。`til den går i stykker` 是结果终点性质的时间从句，说明一直持续到木桶破裂。破折号后的 `det kaldes at ...` 使用s-被动，说明活动的名称。",
+            "vocabulary": [
+                {
+                    "da": "på skift",
+                    "zh": "轮流、依次",
+                    "note": "固定副词短语"
+                },
+                {
+                    "da": "slå på noget",
+                    "zh": "敲打、击打某物",
+                    "note": "这里的 `på` 表示被敲打的目标"
+                },
+                {
+                    "da": "en tønde",
+                    "zh": "桶、木桶",
+                    "note": "复数 `tønder`"
+                },
+                {
+                    "da": "gå i stykker",
+                    "zh": "损坏、破裂、碎掉",
+                    "note": "非常常用的固定短语"
+                },
+                {
+                    "da": "slå katten af tønden",
+                    "zh": "Fastelavn传统击桶游戏",
+                    "note": "字面为把猫打出木桶，现代通常是敲打装糖果的桶"
+                }
+            ],
+            "nuance": "这项活动的名称保留了历史传统，但现代儿童游戏通常围绕木桶和糖果展开。`til den går i stykker` 强调重复击打直至出现结果，而不只是敲一下。",
+            "transfer": [
+                "Børnene slår på tønden på skift.",
+                "Vi fortsætter, til den går i stykker.",
+                "Det kaldes en traditionel fastelavnsleg."
+            ],
+            "pitfall": "`på skift` 是轮流，`skifte` 是更换、改变。`gå i stykker` 表示损坏，不能逐字译成“走进碎片”。"
+        },
+        {
+            "id": "U18-C033",
+            "zh": "这个名字源自很久以前的一种习俗：当时木桶里真的会放一只活猫。",
+            "grammar": "`stamme fra` 表示来源。`en tid, hvor ...` 是名词加关系从句，`hvor` 在这里表示特定的历史时期。`der faktisk var en levende kat` 是存在句。`faktisk` 强调与现代读者的预期相反。",
+            "vocabulary": [
+                {
+                    "da": "stamme fra noget",
+                    "zh": "源自、起源于",
+                    "note": "常用于词语、传统、家庭和文化起源"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "实际上、确实",
+                    "note": "强调事实与预期之间的差异"
+                },
+                {
+                    "da": "levende",
+                    "zh": "活着的、有生命的",
+                    "note": "与 `død`（死的）相对"
+                }
+            ],
+            "nuance": "作者通过过去与现代的鲜明反差说明传统会发生变化。`faktisk` 用来强调这个听起来奇怪的历史背景，而不是为过去的做法作价值辩护。",
+            "transfer": [
+                "Traditionen stammer fra middelalderen.",
+                "Navnet stammer fra en gammel skik.",
+                "Der var faktisk engang en helt anden tradition."
+            ],
+            "pitfall": "`stamme fra` 是源自，不能与 `komme fra` 在所有语境中机械替换。`levende` 在这里确实表示活着的动物。"
+        },
+        {
+            "id": "U18-C034",
+            "zh": "复活节让许多丹麦人拥有连续五天的假期，而对不少人来说，复活节聚餐——吃鸡蛋、鲱鱼、羊肉，喝复活节啤酒——与教会的宗教仪式同样重要。",
+            "grammar": "第一分句 `Påsken giver mange danskere fem fridage` 使用双宾语结构，表示节日为许多人带来假期。第二分句中，`for mange` 是评价对象状语。`lige så vigtig som` 是同级比较结构，表示两件事在重要程度上相当。",
+            "vocabulary": [
+                {
+                    "da": "en fridag",
+                    "zh": "休息日、假日",
+                    "note": "复数 `fridage`"
+                },
+                {
+                    "da": "en påskefrokost",
+                    "zh": "复活节聚餐",
+                    "note": "与圣诞聚餐类似，也常包含多种传统菜肴"
+                },
+                {
+                    "da": "påskeøl",
+                    "zh": "复活节季节啤酒",
+                    "note": "节庆相关饮品"
+                },
+                {
+                    "da": "et kirkeligt ritual",
+                    "zh": "教会宗教仪式",
+                    "note": "`kirkelig` 表示与教会有关"
+                },
+                {
+                    "da": "lige så ... som",
+                    "zh": "和……一样……",
+                    "note": "同级比较固定结构"
+                }
+            ],
+            "nuance": "句子强调复活节既有宗教意义，也有家庭与饮食文化意义。`for mange` 避免把所有丹麦人的价值观说成完全相同。五天假期通常包含公共假日与周末，并不意味着所有人额外获得五个工作日假期。",
+            "transfer": [
+                "Påskefrokosten er lige så vigtig som selve højtiden for nogle familier.",
+                "Vi har flere fridage omkring påske.",
+                "Familietraditioner spiller en stor rolle i påsken."
+            ],
+            "pitfall": "`lige så vigtig som` 表示同等程度，不能漏掉 `så`。`påske` 是复活节，`pinse` 是圣灵降临节，两者不是同一个节日。"
+        },
+        {
+            "id": "U18-C035",
+            "zh": "六月二十三日晚上，丹麦人庆祝仲夏节Sankthans，以纪念一年中白昼最长的时节。",
+            "grammar": "`Om aftenen den 23. juni` 是前置时间状语，后接V2倒装 `holder man`。`som markerer ...` 是非限制性关系从句，补充说明Sankthans的文化意义。`årets længste dag` 使用最高级 `længste` 和所有格 `årets`。",
+            "vocabulary": [
+                {
+                    "da": "holde sankthans",
+                    "zh": "庆祝丹麦仲夏节",
+                    "note": "六月二十三日晚上举行的传统庆祝活动"
+                },
+                {
+                    "da": "markere",
+                    "zh": "纪念、标志、庆祝某个时刻",
+                    "note": "常用于节日、周年纪念和重要事件"
+                },
+                {
+                    "da": "omkring",
+                    "zh": "在……前后、接近",
+                    "note": "在这里表示时间接近"
+                },
+                {
+                    "da": "årets længste dag",
+                    "zh": "一年中白昼最长的一天",
+                    "note": "`lang` 的最高级 `længst`"
+                }
+            ],
+            "nuance": "`sankthans` 是丹麦仲夏传统的重要名称，虽然庆祝活动与夏至接近，但日期并不等于天文学意义上的夏至。`omkring` 正好保留了这一时间差异。",
+            "transfer": [
+                "Vi holder sankthans ved stranden.",
+                "Højtiden markerer begyndelsen på en ny årstid.",
+                "Det sker omkring årets længste dag."
+            ],
+            "pitfall": "`sankthans` 通常在六月二十三日晚庆祝，而不是六月二十四日晚上。`omkring` 表示大约在某个时间附近，不等于准确当天。"
+        },
+        {
+            "id": "U18-C036",
+            "zh": "人们会点起篝火，通常是在海边，还会焚烧一个用稻草扎成的女巫人偶；按照传统说法，这个女巫会飞往布洛克斯山。",
+            "grammar": "主语 `Man` 后面并列两个谓语 `tænder` 和 `brænder`。`ofte ved stranden` 是插入性地点状语。`en heks af halm` 中 `af` 表示制作材料。`som ifølge traditionen flyver til Bloksbjerg` 是关系从句，`ifølge traditionen` 说明这是传统传说，而不是事实陈述。",
+            "vocabulary": [
+                {
+                    "da": "tænde bål",
+                    "zh": "点燃篝火",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "brænde noget af",
+                    "zh": "烧掉、焚烧某物",
+                    "note": "动词小品词结构"
+                },
+                {
+                    "da": "halm",
+                    "zh": "稻草、麦秆",
+                    "note": "通常作为不可数材料名词"
+                },
+                {
+                    "da": "ifølge traditionen",
+                    "zh": "按照传统说法",
+                    "note": "用于引述习俗、传说或惯例"
+                },
+                {
+                    "da": "Bloksbjerg",
+                    "zh": "布洛克斯山、传说中的女巫聚集之地",
+                    "note": "与中欧女巫传说相关"
+                }
+            ],
+            "nuance": "这里描述的是象征性的稻草女巫人偶，而不是真人。`ifølge traditionen` 明确告诉读者，飞往Bloksbjerg属于民俗传说。整句采用客观介绍节庆习俗的口吻。",
+            "transfer": [
+                "Man tænder bål ved stranden.",
+                "Figuren er lavet af halm.",
+                "Ifølge traditionen flyver heksen til Bloksbjerg."
+            ],
+            "pitfall": "`brænde af` 在这里是焚烧，不应与普通的 `brænde` 在所有语境中混同。`ifølge` 后可直接接名词，不需要再加 `af`。"
+        },
+        {
+            "id": "U18-C037",
+            "zh": "许多传统并不随着日历上的节日而来，而是伴随着人的一生。",
+            "grammar": "句子使用对比结构 `ikke X, men Y`。`følge` 在这里不是物理意义上的跟随，而是表示传统与某种时间或人生进程相联系。`kalenderen` 与 `livet` 形成两个抽象概念的对照。",
+            "vocabulary": [
+                {
+                    "da": "følge",
+                    "zh": "跟随、伴随、按照……发展",
+                    "note": "既可以用于人和事物，也可以用于时间、规则和趋势"
+                },
+                {
+                    "da": "ikke ..., men ...",
+                    "zh": "不是……而是……",
+                    "note": "高频对比结构"
+                }
+            ],
+            "nuance": "这一句是段落转折：前面介绍每年固定日期发生的节庆，后面转向出生、成年、婚姻和死亡等人生仪式。语言简洁，但 `kalenderen` 与 `livet` 的对比具有很强的概括力。",
+            "transfer": [
+                "Nogle traditioner følger årets gang, andre følger livet.",
+                "Det handler ikke kun om højtider, men også om livets milepæle.",
+                "Traditionerne ændrer sig gennem livet."
+            ],
+            "pitfall": "`følge` 在这里是比喻性用法，不应机械翻译成“走在日历后面”。"
+        },
+        {
+            "id": "U18-C038",
+            "zh": "大多数丹麦孩子会接受洗礼，许多人在十四岁左右还会到教堂参加坚信礼。之后，家人通常会举办一场盛大的庆祝聚会，有致辞、歌曲和礼物，礼物往往是现金。",
+            "grammar": "前半句通过两个 `bliver + 过去分词` 结构 `bliver døbt` 和 `bliver konfirmeret` 描述宗教仪式。`omkring 14-årsalderen` 表示大约十四岁时。`efterfulgt af ...` 是过去分词短语，补充说明仪式后接着举行的庆祝活动。破折号后的 `ofte i form af penge` 解释礼物的常见形式。",
+            "vocabulary": [
+                {
+                    "da": "blive døbt",
+                    "zh": "接受洗礼",
+                    "note": "宗教仪式；`døbe` 是施洗"
+                },
+                {
+                    "da": "blive konfirmeret",
+                    "zh": "接受坚信礼",
+                    "note": "丹麦青少年传统宗教成长仪式"
+                },
+                {
+                    "da": "i 14-årsalderen",
+                    "zh": "在十四岁左右",
+                    "note": "表达大致年龄范围"
+                },
+                {
+                    "da": "efterfulgt af",
+                    "zh": "随后是、后接……",
+                    "note": "书面说明中常见的过去分词结构"
+                },
+                {
+                    "da": "i form af",
+                    "zh": "以……的形式",
+                    "note": "可用于礼物、支持和资源"
+                }
+            ],
+            "nuance": "句子介绍洗礼和坚信礼这两种与人生阶段相联系的宗教传统。`konfirmation` 在丹麦也具有重要的家庭和社会庆祝意义。作者通过致辞、歌曲和现金礼物，说明仪式之外还有丰富的世俗社交内容。",
+            "transfer": [
+                "Mange unge bliver konfirmeret omkring 14-årsalderen.",
+                "Ceremonien efterfølges af en stor fest.",
+                "Gaverne gives ofte i form af penge."
+            ],
+            "pitfall": "`dåb` 是洗礼，`konfirmation` 是坚信礼，二者不应混为一谈。`efterfulgt af` 表示后面接着发生什么，不等于前面的活动由后者执行。"
+        },
+        {
+            "id": "U18-C039",
+            "zh": "过生日时，人们会升起国旗；而在儿童生日会上，通常会有奶油水果蛋糕，或者一个人形蛋糕。寿星会在大家的尖叫和欢呼声中把人形蛋糕的头切下来。",
+            "grammar": "两个 `Til ...` 介词短语分别引出普通生日与儿童生日的习俗。第二分句使用存在句 `er der`。`som fødselaren skærer hovedet af` 是关系从句，`som` 指人形蛋糕。`skære hovedet af noget` 中 `af` 留在从句末尾。`under skrig og jubel` 描述切蛋糕时的伴随声音。",
+            "vocabulary": [
+                {
+                    "da": "hejse flaget",
+                    "zh": "升旗",
+                    "note": "`hejse` 指升起旗帜"
+                },
+                {
+                    "da": "en lagkage",
+                    "zh": "夹层奶油蛋糕",
+                    "note": "丹麦生日常见蛋糕"
+                },
+                {
+                    "da": "en kagemand",
+                    "zh": "人形生日蛋糕",
+                    "note": "也有其他人形版本"
+                },
+                {
+                    "da": "en fødselar",
+                    "zh": "寿星、过生日的人",
+                    "note": "日常生日祝福与庆祝中的常用词"
+                },
+                {
+                    "da": "skære hovedet af noget",
+                    "zh": "切下某物的头部",
+                    "note": "这里指切人形蛋糕"
+                }
+            ],
+            "nuance": "儿童生日会上切下人形蛋糕头部，大家会配合尖叫和欢呼，是一种带戏剧性的游戏式习俗。`under skrig og jubel` 不表示真实伤害，而是描写现场的热闹气氛。",
+            "transfer": [
+                "Vi hejser flaget på fødselsdagen.",
+                "Der er lagkage til børnefødselsdagen.",
+                "Fødselaren skærer det første stykke kage."
+            ],
+            "pitfall": "`en fødselar` 是过生日的人，不是生日聚会本身。`skære ... af` 是切下，介词 `af` 在关系从句中也不能遗漏。"
+        },
+        {
+            "id": "U18-C040",
+            "zh": "婚礼上会有致辞、专门为新人写的歌曲，以及午夜时分跳的新人华尔兹；而当宾客敲击酒杯时，新郎新娘就要亲吻。",
+            "grammar": "第一部分 `Til bryllupper er der ...` 以场合状语开头，采用V2语序。`sange skrevet til lejligheden` 中 `skrevet` 是过去分词作后置定语，表示专门为这个场合写的歌曲。第二分句以 `når` 时间从句开头，主句 `skal brudeparret kysse` 采用倒装，`skal` 表示习俗上的期待。",
+            "vocabulary": [
+                {
+                    "da": "et bryllup",
+                    "zh": "婚礼",
+                    "note": "复数 `bryllupper`"
+                },
+                {
+                    "da": "til lejligheden",
+                    "zh": "专门为这个场合",
+                    "note": "这里的 `lejlighed` 是场合，不是公寓"
+                },
+                {
+                    "da": "en brudevals",
+                    "zh": "新人华尔兹、婚礼华尔兹",
+                    "note": "丹麦婚礼传统舞蹈"
+                },
+                {
+                    "da": "et brudepar",
+                    "zh": "新婚夫妇、新郎新娘",
+                    "note": "一个整体的中性名词"
+                },
+                {
+                    "da": "slå på glassene",
+                    "zh": "敲击酒杯",
+                    "note": "在婚礼场景中可能用于示意新人接吻"
+                }
+            ],
+            "nuance": "作者列举丹麦婚礼的典型互动习俗。`sange skrevet til lejligheden` 体现宾客为新人创作歌曲的个人化庆祝方式。`skal` 在这里不是国家法律义务，而是参与婚礼游戏时的传统期待。",
+            "transfer": [
+                "Vi har skrevet en sang til lejligheden.",
+                "Brudeparret danser brudevals.",
+                "Når gæsterne slår på glassene, skal brudeparret kysse."
+            ],
+            "pitfall": "`lejlighed` 既可表示公寓，也可表示场合，`til lejligheden` 在此只能理解为专门为此场合。`slå på glassene` 是敲杯子，不是把杯子打碎。"
+        },
+        {
+            "id": "U18-C041",
+            "zh": "逢十的大生日通常会举办招待会或聚会；而在葬礼之后，人们会聚在一起喝咖啡、吃三明治，分享关于逝者的回忆。",
+            "grammar": "`Runde fødselsdage fejres ...` 使用s-被动，描述一般习俗。第二分句以 `ved begravelser` 开头，后接V2倒装 `samles man`。`samles` 是s-形式动词，表示人们聚集。`deler minder om` 使用固定介词 `om` 指明回忆涉及的对象。`den afdøde` 是形容词名词化，指逝者。",
+            "vocabulary": [
+                {
+                    "da": "en rund fødselsdag",
+                    "zh": "逢十的大生日、整十岁生日",
+                    "note": "通常指30岁、40岁、50岁等重要生日"
+                },
+                {
+                    "da": "en reception",
+                    "zh": "招待会",
+                    "note": "可能比正式晚宴更自由、简短"
+                },
+                {
+                    "da": "en begravelse",
+                    "zh": "葬礼",
+                    "note": "复数 `begravelser`"
+                },
+                {
+                    "da": "samles",
+                    "zh": "聚集、聚在一起",
+                    "note": "s-形式动词，不宜在这里机械当作被动"
+                },
+                {
+                    "da": "den afdøde",
+                    "zh": "逝者、已故的人",
+                    "note": "较正式、尊重的说法"
+                }
+            ],
+            "nuance": "句子把重要生日与葬礼并列，说明传统不仅用于欢乐庆祝，也用于悲伤和共同纪念。`deler minder om den afdøde` 强调亲友之间通过分享回忆建立联系。",
+            "transfer": [
+                "Vi holder en stor fest til min runde fødselsdag.",
+                "Efter ceremonien samles familien.",
+                "Vi delte minder om vores gamle ven."
+            ],
+            "pitfall": "`rund fødselsdag` 不是形状为圆形的生日，而是逢十的重要年龄。`samles` 虽然以-s结尾，但在这里表示主动聚集，不是一般的被动语态。"
+        },
+        {
+            "id": "U18-C042",
+            "zh": "所谓hygge，可以是捧着一杯茶读一本书，可以是和好友边打牌边聊天，也可以是星期五晚上和家人一起坐在电视机前。",
+            "grammar": "`Man kan hygge sig` 是反身动词结构，后面三个并列的 `med` 短语分别给出不同的活动与陪伴对象。`over et spil kort` 表示在打牌这个活动过程中。`foran fjernsynet` 是地点状语，`en fredag aften` 是时间状语。",
+            "vocabulary": [
+                {
+                    "da": "hygge sig",
+                    "zh": "悠闲舒适地享受时光、惬意相处",
+                    "note": "反身动词结构，不能省略 `sig`"
+                },
+                {
+                    "da": "over et spil kort",
+                    "zh": "边打牌边相处",
+                    "note": "`over` 表示围绕某个活动进行交流"
+                },
+                {
+                    "da": "foran fjernsynet",
+                    "zh": "在电视机前",
+                    "note": "`foran` 表示空间位置"
+                },
+                {
+                    "da": "en fredag aften",
+                    "zh": "某个星期五晚上",
+                    "note": "自然的时间状语"
+                }
+            ],
+            "nuance": "`hygge` 不是单一活动，也不必依赖昂贵消费。作者通过独处、朋友相聚和家庭生活三个场景，表现它更侧重舒适、放松与令人愉悦的氛围。这个词的具体中文翻译应根据情境调整。",
+            "transfer": [
+                "Jeg hygger mig med en god bog.",
+                "Vi hyggede os over et spil kort.",
+                "Vi skal bare hygge os derhjemme i aften."
+            ],
+            "pitfall": "`hygge sig` 是反身动词，不能写成 `Jeg hygger med en bog` 来替代所有情况。`over et spil kort` 不是空间意义上的牌局上方。"
+        },
+        {
+            "id": "U18-C043",
+            "zh": "不过，hygge这种温馨融洽的氛围，也有它不那么美好的一面。",
+            "grammar": "`Hyggen` 是名词 `hygge` 的确定形式，指前面介绍的整个社会文化概念。`dog` 是转折副词。`en skyggeside` 是比喻性名词，表示某种事物不被注意的消极面。",
+            "vocabulary": [
+                {
+                    "da": "en skyggeside",
+                    "zh": "阴暗面、负面的一面",
+                    "note": "常用比喻性表达"
+                },
+                {
+                    "da": "dog",
+                    "zh": "然而、不过",
+                    "note": "正式或半正式说明中常用的转折副词"
+                },
+                {
+                    "da": "hygge",
+                    "zh": "温馨、惬意、舒适融洽的氛围",
+                    "note": "en hygge；也可使用动词 `hygge sig`"
+                }
+            ],
+            "nuance": "这是一个明显的篇章转折。作者先介绍hygge带来的舒适感，再指出它也可能形成社会边界。`skyggeside` 比直接说 `problem` 更有修辞表现力，强调积极文化现象内部潜藏的负面影响。",
+            "transfer": [
+                "Teknologien har også en skyggeside.",
+                "Det lyder positivt, men der er også ulemper.",
+                "Fællesskabet kan dog have en skyggeside."
+            ],
+            "pitfall": "`skyggeside` 不能只理解为物理阴影面。它常用于讨论制度、技术、文化和社会现象的潜在缺点。"
+        },
+        {
+            "id": "U18-C044",
+            "zh": "这种温馨氛围往往有一个前提：所有人都懂得其中不成文的规则。对于刚搬来的人来说，要融入一个建立在共同回忆和心照不宣的默契之上的亲密圈子，可能并不容易。",
+            "grammar": "`Den forudsætter, at ...` 中 `Den` 回指前句的 `hyggen`，`forudsætte` 后接宾语从句。后半句使用 `det kan være svært for nogen at ...`，其中 `det` 是形式主语，真正的内容是 `at blive lukket ind i ...`。`blive lukket ind` 是被动，强调外来者被允许进入群体。`der bygger på ...` 是关系从句，修饰这种hygge关系。",
+            "vocabulary": [
+                {
+                    "da": "forudsætte",
+                    "zh": "以……为前提、预设",
+                    "note": "过去时 `forudsatte`；可接 `at` 从句"
+                },
+                {
+                    "da": "en nytilflytter",
+                    "zh": "新搬来的人、新居民",
+                    "note": "不一定特指外国移民"
+                },
+                {
+                    "da": "blive lukket ind i",
+                    "zh": "被接纳进入、获准融入",
+                    "note": "可指实际空间，也可指社交圈"
+                },
+                {
+                    "da": "fælles erindringer",
+                    "zh": "共同回忆",
+                    "note": "`en erindring` 是记忆、回忆"
+                },
+                {
+                    "da": "uudtalte koder",
+                    "zh": "不成文的社交规则、心照不宣的默契",
+                    "note": "`uudtalt` 表示未明说的"
+                }
+            ],
+            "nuance": "这是全文最值得深入理解的社会文化分析之一。`hygge` 对圈内人可能意味着亲密与放松，但对不熟悉共同经历的人，也可能意味着无法理解的暗示和排他性。`blive lukket ind` 强调能否被群体接纳，并非只靠外来者个人努力就能决定。",
+            "transfer": [
+                "Det forudsætter, at alle kender reglerne.",
+                "Det kan være svært for nytilflyttere at komme ind i fællesskabet.",
+                "Samarbejdet bygger på fælles erfaringer og tillid."
+            ],
+            "pitfall": "`forudsætte` 与 `forvente` 不同：前者强调必要前提，后者表示期待或预期。`lukket ind` 在这里是社交意义上的接纳，不是打开实体房门。"
+        },
+        {
+            "id": "U18-C045",
+            "zh": "如果有人在餐桌上提出一个让大家感到棘手或扫兴的话题，很快就可能受到一句看似温和的提醒：“我们就不能好好享受一下吗？”",
+            "grammar": "`Den, der ...` 是泛指人的关系结构，表示凡是做某事的人。`bringe et emne op` 是动词小品词结构，表示提出话题。`kan blive mødt med` 为情态动词加被动，说明可能受到某种回应。引语 `Skal vi ikke bare ...?` 使用否定疑问句提出建议，`bare` 表面上使语气轻松，实际可能暗示不要继续讨论争议。",
+            "vocabulary": [
+                {
+                    "da": "bringe et emne op",
+                    "zh": "提出一个话题",
+                    "note": "常用于会议、聚会和讨论"
+                },
+                {
+                    "da": "besværlig",
+                    "zh": "麻烦的、棘手的、难处理的",
+                    "note": "这里描述可能破坏轻松气氛的话题"
+                },
+                {
+                    "da": "blive mødt med noget",
+                    "zh": "受到某种回应或对待",
+                    "note": "被动固定搭配"
+                },
+                {
+                    "da": "en irettesættelse",
+                    "zh": "训诫、责备、提醒",
+                    "note": "这里由 `mild` 修饰，表示措辞温和"
+                },
+                {
+                    "da": "Skal vi ikke bare ...?",
+                    "zh": "我们就……不好吗？",
+                    "note": "可作友好建议，也可用于委婉制止"
+                }
+            ],
+            "nuance": "这是对hygge文化的细腻批评。同一句 `Skal vi ikke bare hygge os?` 在某些情况下是真诚邀请大家放松，但在这个场景里却带有压制不舒服话题的作用。`den milde irettesættelse` 突出一种表面温柔、实际维持群体规范的社交压力。",
+            "transfer": [
+                "Jeg vil gerne bringe et vigtigt emne op.",
+                "Han blev mødt med kritik, da han stillede spørgsmålet.",
+                "Skal vi ikke bare tage det roligt?"
+            ],
+            "pitfall": "`bringe op` 是提出话题，不等于物理搬上来。`Skal vi ikke ...?` 虽然语法上是否定疑问句，但通常是建议，不是单纯询问是否不做某事。"
+        },
+        {
+            "id": "U18-C046",
+            "zh": "传统的具体内容也在变化：如今，许多家庭的圣诞餐桌上既有烤鸭，也有坚果烘烤主菜；父母离异的孩子则会轮流在妈妈和爸爸家度过平安夜。",
+            "grammar": "`Traditionerne skifter også indhold` 表示传统的具体内容发生改变。冒号后列举例子。`I mange familier` 前置，后接存在句 `står der ...`。`både ... og ...` 表示两种菜肴同时出现。`hos skiftevis mor og far` 中 `skiftevis` 表示交替，修饰家庭安排。",
+            "vocabulary": [
+                {
+                    "da": "skifte indhold",
+                    "zh": "内容发生变化",
+                    "note": "`skifte` 在这里表示改变，而不是单纯交换物品"
+                },
+                {
+                    "da": "både ... og ...",
+                    "zh": "既……又……",
+                    "note": "连接同等层次的成分"
+                },
+                {
+                    "da": "and",
+                    "zh": "鸭肉、鸭子",
+                    "note": "圣诞餐食语境中通常指鸭肉菜肴"
+                },
+                {
+                    "da": "en nøddesteg",
+                    "zh": "坚果烘烤主菜、坚果素食烤肉替代品",
+                    "note": "常作为植物性节庆主菜"
+                },
+                {
+                    "da": "skiftevis",
+                    "zh": "轮流地、交替地",
+                    "note": "可用于时间安排、任务和居住安排"
+                }
+            ],
+            "nuance": "作者通过饮食选择和离异家庭的安排说明传统并非一成不变。`både and og en nøddesteg` 表现传统餐食与新的饮食偏好可以共存；`skiftevis mor og far` 则说明家庭结构变化会影响节日安排。句子的主旨是传统在延续中适应新生活。",
+            "transfer": [
+                "Traditioner ændrer sig med tiden.",
+                "Vi serverer både kød og vegetariske retter.",
+                "Børnene holder jul skiftevis hos deres mor og far."
+            ],
+            "pitfall": "`skiftevis` 是轮流，不是“同时”。`nøddesteg` 不是传统意义上的肉类烤肉，而是以坚果等材料制作的菜肴。"
+        },
+        {
+            "id": "U18-C047",
+            "zh": "伊达已经提出，希望明年由她来当那个藏杏仁的人。",
+            "grammar": "`Næste år` 放在句首，指请求所涉及的未来时间，而 `har Ida bedt om` 是现在完成时，表示提出请求这个动作已经发生。`bede om at gøre noget` 表示请求做某事。`at være den, der skjuler mandlen` 中 `den, der ...` 是泛指或特指某个角色的关系结构，`skjuler` 为现在时，描述该角色要承担的任务。",
+            "vocabulary": [
+                {
+                    "da": "bede om at gøre noget",
+                    "zh": "请求做某事、提出希望做某事",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "skjule",
+                    "zh": "藏起、隐瞒",
+                    "note": "过去时 `skjulte`，过去分词 `skjult`"
+                },
+                {
+                    "da": "næste år",
+                    "zh": "明年",
+                    "note": "表示未来的时间"
+                },
+                {
+                    "da": "være den, der ...",
+                    "zh": "成为那个负责……的人",
+                    "note": "用于角色或职责分配"
+                }
+            ],
+            "nuance": "故事回到前面的杏仁游戏，并展示传统如何在下一代人身上传承。伊达不再只是寻找杏仁的孩子，而是希望主动承担设计悬念的角色。`har bedt om` 强调请求已经提出，不能理解为明年才会提出请求。",
+            "transfer": [
+                "Jeg har bedt om at få lov til at arrangere festen.",
+                "Næste år vil jeg gerne være den, der står for legen.",
+                "Hun har allerede planlagt næste års juleaften."
+            ],
+            "pitfall": "`bede om at` 是请求自己做某事；`bede nogen om at` 是请求别人做某事。`Næste år` 修饰未来的角色安排，而不是把现在完成时的请求动作放到明年。"
+        },
+        {
+            "id": "U18-C048",
+            "zh": "她甚至已经开始练习怎样不露声色了。",
+            "grammar": "`øver sig på at ...` 是反身动词结构，表示练习某项技能。`allerede` 表示早已、已经开始，突出行动比预期更早。`holde masken` 是固定习语，表示保持面部表情不变、不让真实想法显露出来。",
+            "vocabulary": [
+                {
+                    "da": "øve sig på at gøre noget",
+                    "zh": "练习做某事",
+                    "note": "反身代词必须与主语呼应；也常说 `øve sig i at`"
+                },
+                {
+                    "da": "holde masken",
+                    "zh": "保持面不改色、不露声色、忍住不笑",
+                    "note": "固定习语，适用于需要隐藏情绪的场合"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经、早就",
+                    "note": "强调事情提前发生"
+                }
+            ],
+            "nuance": "这是轻松而巧妙的结尾。伊达已经理解了杏仁游戏的关键：不仅要藏好杏仁，还要控制表情，让其他人猜不出来。`holde masken` 与前面妈妈忍不住笑的情节形成呼应，也表现出传统在家庭中代代传承的趣味。",
+            "transfer": [
+                "Jeg prøvede at holde masken, men kom til at grine.",
+                "Hun øver sig på at holde masken.",
+                "Det var svært ikke at afsløre overraskelsen."
+            ],
+            "pitfall": "`holde masken` 不是一直戴着面具，而是隐藏真实表情。`øve sig på at` 中反身代词不可省略；`allerede` 在这里强调她现在就开始准备明年的游戏。"
+        }
+    ]
+}

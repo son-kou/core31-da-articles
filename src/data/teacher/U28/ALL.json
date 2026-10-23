@@ -1,0 +1,2093 @@
+{
+    "schema_version": 1,
+    "unit": "U28",
+    "part": "ALL",
+    "source_fingerprint": "U28-ALL-2ca19e8f0b2a",
+    "sentences": [
+        {
+            "id": "U28-C001",
+            "zh": "现在是早上八点一刻。阿玛莉从哥本哈根诺雷布罗区的家中骑车出发，包放在自行车前面的车筐里。",
+            "grammar": "两个并列主句由 `og` 连接。`Klokken er kvart over otte` 说明时间。第二主句以 `Amalie` 为主语，`cykler hjemmefra` 表示从家骑车出发。`på Nørrebro` 说明居住或出发的城区，`med sin taske i cykelkurven` 是伴随状语。`sin` 为反身物主代词，回指阿玛莉。",
+            "vocabulary": [
+                {
+                    "da": "kvart over otte",
+                    "zh": "八点一刻",
+                    "note": "`kvart over` 表示过了十五分钟"
+                },
+                {
+                    "da": "cykle hjemmefra",
+                    "zh": "从家里骑自行车出发",
+                    "note": "`hjemmefra` 表示出发点是家"
+                },
+                {
+                    "da": "en cykelkurv",
+                    "zh": "自行车车筐",
+                    "note": "`en cykel` 自行车 + `en kurv` 篮子"
+                },
+                {
+                    "da": "på Nørrebro",
+                    "zh": "在诺雷布罗区",
+                    "note": "哥本哈根城区名称，常用介词 `på`"
+                }
+            ],
+            "nuance": "作者通过具体时间、城区和车筐里的包构成典型的丹麦城市通勤场景。`cykler hjemmefra` 很自然地表达从家中出发，而不必使用冗长的出门然后骑车。现在时营造出跟随人物行动的现场感。",
+            "transfer": [
+                "Jeg cykler hjemmefra klokken otte.",
+                "Jeg bor på Nørrebro og cykler på arbejde.",
+                "Jeg har min taske i cykelkurven."
+            ],
+            "pitfall": "`kvart over otte` 是8:15，`kvart i otte` 是7:45。`hjemmefra` 表示从家出发，`hjem` 表示朝家去，`hjemme` 表示在家，三者不能混用。"
+        },
+        {
+            "id": "U28-C002",
+            "zh": "她转入宽阔的自行车道。这条车道与机动车道之间隔着路缘石，她随即融入了数百名骑车人组成的车流。",
+            "grammar": "主句有两个共用主语 `Hun` 的谓语：`drejer ud på` 和 `glider ind i`。关系从句 `som er adskilt fra bilerne af en kantsten` 修饰自行车道，使用 `være + 过去分词` 描述隔离状态。`en strøm af hundredvis af andre cyklister` 使用两个 `af`，分别说明人流的构成和人数规模。",
+            "vocabulary": [
+                {
+                    "da": "dreje ud på",
+                    "zh": "转入；拐上某条道路",
+                    "note": "强调从原来的路线进入新道路"
+                },
+                {
+                    "da": "en cykelsti",
+                    "zh": "自行车专用道",
+                    "note": "复数 `cykelstier`"
+                },
+                {
+                    "da": "være adskilt fra",
+                    "zh": "与……隔开；分离",
+                    "note": "固定介词 `fra`"
+                },
+                {
+                    "da": "en kantsten",
+                    "zh": "路缘石；路沿石"
+                },
+                {
+                    "da": "glide ind i",
+                    "zh": "平顺地进入；融入",
+                    "note": "可用于车流、人群或其他连续流动的场景"
+                }
+            ],
+            "nuance": "`glider ind i` 比简单的 `kører ind i` 更有画面感，暗示她自然、顺畅地融入早高峰的自行车交通。作者还通过路缘石这一具体细节，呈现自行车基础设施与机动车交通的空间分隔。",
+            "transfer": [
+                "Hun drejer ud på cykelstien.",
+                "Cykelstien er adskilt fra bilerne.",
+                "Han glider ind i strømmen af cyklister."
+            ],
+            "pitfall": "`glide ind i` 在此不是撞进某物，而是顺畅融入。`være adskilt fra` 的介词是 `fra`，不要误用 `med`。"
+        },
+        {
+            "id": "U28-C003",
+            "zh": "到了交通信号灯路口，她伸出左臂，示意自己要左转；她身后的男子则在刹车时举起一只手，示意准备停车。",
+            "grammar": "`Ved lyskrydset` 是句首地点状语，因此主句采用 `rækker hun` 的 V2 语序。`række ... ud` 表示伸出肢体。`for at vise, at ...` 是目的不定式加宾语从句。后半句 `da han bremser` 是时间从句，说明后方男子举手与刹车同时发生。",
+            "vocabulary": [
+                {
+                    "da": "et lyskryds",
+                    "zh": "有交通信号灯的交叉路口"
+                },
+                {
+                    "da": "række armen ud",
+                    "zh": "伸出手臂",
+                    "note": "`række ud` 强调向外伸出的动作"
+                },
+                {
+                    "da": "dreje til venstre",
+                    "zh": "左转",
+                    "note": "对应 `dreje til højre` 右转"
+                },
+                {
+                    "da": "bremse",
+                    "zh": "刹车；减速制动"
+                },
+                {
+                    "da": "løfte en hånd",
+                    "zh": "举起一只手",
+                    "note": "骑行时可用于示意减速或停车"
+                }
+            ],
+            "nuance": "作者通过具体手势而不是抽象规则，展示丹麦骑行文化中的非语言交通沟通。阿玛莉伸左臂明确表示转弯，后方骑车人举手则提示减速或停车。这样写为后面的骑车规则介绍提供了自然铺垫。",
+            "transfer": [
+                "Ræk venstre arm ud, når du drejer til venstre.",
+                "Husk at signalere, før du stopper.",
+                "Han løftede hånden, da han bremsede."
+            ],
+            "pitfall": "`række ... ud` 不等于 `løfte`：前者是伸出，后者是举起。`for at vise` 表示目的，不能漏掉 `at`。"
+        },
+        {
+            "id": "U28-C004",
+            "zh": "到了诺尔波特，她下了自行车，把车锁在一个停车架上，周围停着成千上万辆自行车，然后步行穿过步行街，走完最后一百米。",
+            "grammar": "`Ved Nørreport` 前置后，限定动词 `springer` 位于第二位置。三个并列谓语 `springer af`、`låser ... fast`、`går` 共用主语。`låse noget fast i` 表示把某物固定锁在某处。`de sidste hundrede meter` 是不带介词的距离状语，`til fods` 表示步行。",
+            "vocabulary": [
+                {
+                    "da": "springe af",
+                    "zh": "跳下；下车",
+                    "note": "此处指从自行车上下来"
+                },
+                {
+                    "da": "låse cyklen fast",
+                    "zh": "把自行车锁牢；固定锁住"
+                },
+                {
+                    "da": "et cykelstativ",
+                    "zh": "自行车停车架",
+                    "note": "原文 `et stativ` 根据上下文指车架"
+                },
+                {
+                    "da": "til fods",
+                    "zh": "步行；徒步",
+                    "note": "固定表达"
+                },
+                {
+                    "da": "en gågade",
+                    "zh": "步行街",
+                    "note": "复数 `gågader`"
+                }
+            ],
+            "nuance": "这一句把骑车、停车、步行三个交通环节无缝连接，呈现多方式结合的城市通勤。`springer af` 比 `står af cyklen` 更生动，显示阿玛莉动作熟练。句末的步行距离也突出了自行车与行人空间之间的衔接。",
+            "transfer": [
+                "Jeg låser cyklen fast ved stationen.",
+                "Derfra går jeg resten af vejen til fods.",
+                "Hun gik de sidste hundrede meter."
+            ],
+            "pitfall": "`til fods` 是固定表达，不是 `på fødder`。`låse fast` 强调固定锁住，区别于只锁住车轮。`de sidste hundrede meter` 可直接作距离状语，不必加 `i`。"
+        },
+        {
+            "id": "U28-C005",
+            "zh": "丹麦地势平坦，城市之间的距离相对较短，而且几十年来，丹麦各城市持续建设自行车道。",
+            "grammar": "三个并列主句构成原因列举。`Danmark er fladt` 中 `fladt` 是中性形容词形式。第三分句以 `i byerne` 开头，采用 `er der bygget cykelstier` 的非人称被动结构，强调自行车道的建设而非具体建设者。`i årtier` 表示持续数十年。",
+            "vocabulary": [
+                {
+                    "da": "flad",
+                    "zh": "平坦的",
+                    "note": "中性 `fladt`"
+                },
+                {
+                    "da": "en afstand",
+                    "zh": "距离",
+                    "note": "复数 `afstande`"
+                },
+                {
+                    "da": "bygge cykelstier",
+                    "zh": "修建自行车道"
+                },
+                {
+                    "da": "i årtier",
+                    "zh": "数十年来；持续几十年",
+                    "note": "`et årti` 十年"
+                }
+            ],
+            "nuance": "作者用地理条件、出行距离和基础设施三项因素解释骑行普及，而不是简单归因于丹麦人喜欢骑自行车。`er der bygget` 将重点放在长期的公共建设成果，适合用于城市规划与政策分析。",
+            "transfer": [
+                "Danmark er et forholdsvis fladt land.",
+                "Afstandene mellem byerne er korte.",
+                "Der er blevet bygget cykelstier i mange år."
+            ],
+            "pitfall": "`fladt` 是 `flad` 的中性形式，不能因为地理面积很大就使用复数。`i årtier` 表示一段长期持续过程，`for årtier siden` 才是几十年前。"
+        },
+        {
+            "id": "U28-C006",
+            "zh": "许多小学生自己骑车上学，即使下雨天，也经常能看见企业高管骑自行车出行，这在丹麦并不稀奇。",
+            "grammar": "`cykler selv i skole` 中 `selv` 强调孩子独立完成通学。后半句采用形式主语 `det` 加评价形容词 `usædvanligt`，真正说明被评价内容的是后面的不定式 `at se en direktør ...`。`i regnvejr` 是天气条件状语。",
+            "vocabulary": [
+                {
+                    "da": "cykle i skole",
+                    "zh": "骑车上学",
+                    "note": "目的地用 `i skole`"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己；独立地",
+                    "note": "这里强调没有成年人代为接送"
+                },
+                {
+                    "da": "usædvanlig",
+                    "zh": "不寻常的；少见的",
+                    "note": "`ikke usædvanligt` 表示并不少见"
+                },
+                {
+                    "da": "en direktør",
+                    "zh": "主管；高管；企业负责人"
+                },
+                {
+                    "da": "i regnvejr",
+                    "zh": "在雨天；下雨时"
+                }
+            ],
+            "nuance": "作者通过小学生和高管两个不同社会群体，突出骑车不是某个收入阶层专属的交通方式。`ikke usædvanligt` 是比较克制的表达，相当于并不少见，而不是夸张地说每位高管都骑车。",
+            "transfer": [
+                "Mange børn cykler selv i skole.",
+                "Det er ikke usædvanligt at cykle i regnvejr.",
+                "Det er almindeligt at se folk på cykel."
+            ],
+            "pitfall": "`ikke usædvanligt` 是双重否定形式，但语义为并不罕见，不等于非常普遍。`i regnvejr` 是雨天，不必加定冠词。"
+        },
+        {
+            "id": "U28-C007",
+            "zh": "法律并不强制骑车人佩戴头盔，但很多人还是会戴，尤其是儿童，通常会被鼓励戴头盔。",
+            "grammar": "`Det er ikke lovpligtigt at ...` 使用形式主语 `Det`，不定式短语 `at bære cykelhjelm` 是实际被评价的行为。`mange gør det` 中 `gør det` 回指戴头盔。`børn bliver opfordret til det` 使用 `blive` 被动态，表示儿童受到鼓励。",
+            "vocabulary": [
+                {
+                    "da": "lovpligtig",
+                    "zh": "法律强制要求的",
+                    "note": "`lovpligtigt` 为中性形式"
+                },
+                {
+                    "da": "bære cykelhjelm",
+                    "zh": "佩戴自行车头盔",
+                    "note": "`bære` 可用于佩戴衣物或防护装备"
+                },
+                {
+                    "da": "opfordre nogen til noget",
+                    "zh": "鼓励；劝导某人做某事",
+                    "note": "也可接 `til at + 不定式`"
+                }
+            ],
+            "nuance": "句子明确区分法律义务与社会倡导。`ikke lovpligtigt` 只说明法律未普遍强制，并非意味着头盔没有安全价值。`bliver opfordret` 是鼓励性规范，而不是法律处罚机制。",
+            "transfer": [
+                "Det er ikke lovpligtigt at bære cykelhjelm.",
+                "Mange vælger alligevel at gøre det.",
+                "Børn bliver opfordret til at bruge hjelm."
+            ],
+            "pitfall": "`lovpligtigt` 指法律强制，`anbefalet` 指推荐，含义不同。`gør det` 此处指戴头盔，不能孤立译成做那个东西。"
+        },
+        {
+            "id": "U28-C008",
+            "zh": "骑车人也有自己约定俗成的规矩：靠右行驶以便别人超车；转弯或停车时打手势；不得骑上人行道。",
+            "grammar": "冒号后连续使用泛指主语 `man`，说明普遍行为规范。`så andre kan overhale` 是表示目的或结果的从句。`når man drejer eller stopper` 是时间从句。最后的 `man kører ikke` 是主句否定语序，`ikke` 位于限定动词之后。",
+            "vocabulary": [
+                {
+                    "da": "uskrevne regler",
+                    "zh": "不成文的规则；约定俗成的规矩"
+                },
+                {
+                    "da": "holde til højre",
+                    "zh": "靠右行驶；靠右侧"
+                },
+                {
+                    "da": "overhale",
+                    "zh": "超车；超过前方行进者"
+                },
+                {
+                    "da": "signalere",
+                    "zh": "打信号；发出示意"
+                },
+                {
+                    "da": "et fortov",
+                    "zh": "人行道",
+                    "note": "`på fortovet` 在人行道上"
+                }
+            ],
+            "nuance": "作者先用 `uskrevne regler` 引出骑行群体的行为默契，但后面的具体做法还可能涉及正式交通规则。它们共同反映城市自行车交通对可预测行为的依赖。连续重复 `man` 使整段具有交通指南的说明语气。",
+            "transfer": [
+                "Man holder til højre, så andre kan overhale.",
+                "Husk at signalere, når du drejer.",
+                "Man må ikke cykle på fortovet."
+            ],
+            "pitfall": "`holde til højre` 不表示向右转，而是靠右行驶；右转是 `dreje til højre`。`fortov` 是人行道，不是自行车道。"
+        },
+        {
+            "id": "U28-C009",
+            "zh": "对骑车人来说，最危险的情况之一就是：卡车在路口右转时，没有看到旁边的骑车人。",
+            "grammar": "主句 `Den farligste situation ... er` 后接由 `når` 引导的情境从句，说明何种情况下会产生危险。`svinger til højre` 与 `ikke ser` 是共用主语 `en lastbil` 的并列谓语。`ved siden af sig` 使用反身代词 `sig`，回指卡车这一语法主语所代表的车辆位置。",
+            "vocabulary": [
+                {
+                    "da": "en lastbil",
+                    "zh": "卡车；货车"
+                },
+                {
+                    "da": "svinge til højre",
+                    "zh": "向右转弯"
+                },
+                {
+                    "da": "et kryds",
+                    "zh": "交叉路口"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在……旁边"
+                },
+                {
+                    "da": "farlig",
+                    "zh": "危险的",
+                    "note": "最高级 `farligst`"
+                }
+            ],
+            "nuance": "这里描述的是骑行安全中具有代表性的右转冲突风险，尤其涉及大型车辆驾驶员的视野限制。`ikke ser` 强调危险可能来自驾驶员没有注意到骑车人，而不一定是故意侵害。作者通过具体场景解释为何路口观察与让行很重要。",
+            "transfer": [
+                "Lastbilen svinger til højre i krydset.",
+                "Chaufføren så ikke cyklisten ved siden af sig.",
+                "Det er farligt, når en lastbil drejer."
+            ],
+            "pitfall": "`svinge til højre` 是转弯，`holde til højre` 是靠右行驶。`sig` 在这里回指从句主语，而不是指骑车人。"
+        },
+        {
+            "id": "U28-C010",
+            "zh": "一旦离开那些最大的城市，不开车生活就会困难得多。",
+            "grammar": "`Uden for de største byer` 是前置地点状语，随后出现限定动词 `er`，主语 `det` 后移。`det er sværere at + 不定式` 是形式主语结构。`sværere` 为比较级，暗示与大城市相比，其他地区更难不依赖汽车。`undvære` 表示在缺少某物的情况下生活或应付。",
+            "vocabulary": [
+                {
+                    "da": "uden for",
+                    "zh": "在……之外"
+                },
+                {
+                    "da": "undvære noget",
+                    "zh": "没有某物也能应付；不依赖某物"
+                },
+                {
+                    "da": "sværere",
+                    "zh": "更困难的",
+                    "note": "`svær – sværere – sværest`"
+                }
+            ],
+            "nuance": "这句话把焦点从哥本哈根式的骑行生活转向城乡交通差异。`sværere` 不是说乡村完全没有公共交通，而是说没有汽车时生活安排受到的限制往往更大。",
+            "transfer": [
+                "Uden for storbyerne er det svært at undvære en bil.",
+                "Jeg kan godt undvære bilen i København.",
+                "Det er sværere at komme rundt i landdistrikterne."
+            ],
+            "pitfall": "`undvære` 不是失去某物的被动动作，而是能够或不得不在没有某物的情况下生活。`uden for` 表示空间上的外部，区别于 `uden` 后直接接名词。"
+        },
+        {
+            "id": "U28-C011",
+            "zh": "火车连接着丹麦较大的城市，在长途线路上，每小时通常有好几班列车；但在许多乡村地区，公交车一天可能只开寥寥几班。",
+            "grammar": "三个主句分别说明城市间连接、干线频次和乡村公交频次。第二分句以 `på de lange strækninger` 前置，采用 `kører der tog` 的存在结构。第三分句以 `i mange landdistrikter` 开头，因此出现 `går bussen` 的 V2 语序。`flere gange i timen` 与 `nogle få gange om dagen` 形成频率对照。",
+            "vocabulary": [
+                {
+                    "da": "forbinde",
+                    "zh": "连接；联通"
+                },
+                {
+                    "da": "en strækning",
+                    "zh": "路段；线路区间；一段距离"
+                },
+                {
+                    "da": "flere gange i timen",
+                    "zh": "每小时好几次"
+                },
+                {
+                    "da": "et landdistrikt",
+                    "zh": "乡村地区；农村区域"
+                },
+                {
+                    "da": "nogle få gange",
+                    "zh": "仅有几次；寥寥几次"
+                }
+            ],
+            "nuance": "作者不使用抽象的公共交通覆盖率，而是通过班次密度的鲜明对比说明城乡出行体验。`går bussen` 是交通工具按线路运行的常见表达，不表示公交车像人一样步行。",
+            "transfer": [
+                "Togene forbinder de større byer.",
+                "Der kører tog flere gange i timen.",
+                "Bussen går kun tre gange om dagen."
+            ],
+            "pitfall": "`gå` 在公交和列车时刻表语境可表示运行、发车。`i timen` 表示每小时，`om dagen` 表示每天，不能把它们都机械处理为相同的时间介词。"
+        },
+        {
+            "id": "U28-C012",
+            "zh": "在首都哥本哈根，地铁全天24小时无人驾驶运行；此外，丹麦一些较大的城市也通过地铁或轻轨进一步扩展了公共交通系统。",
+            "grammar": "`I hovedstaden` 作句首地点状语，随后 `kører metroen` 遵守 V2。`døgnet rundt` 表示全天运行，`uden fører` 表示没有驾驶员。第二主句 `har udbygget` 使用现在完成时，强调基础设施扩建已经取得的成果。`med metro eller letbane` 表示扩展公共交通的方式。",
+            "vocabulary": [
+                {
+                    "da": "hovedstaden",
+                    "zh": "首都"
+                },
+                {
+                    "da": "døgnet rundt",
+                    "zh": "全天24小时；昼夜不停"
+                },
+                {
+                    "da": "uden fører",
+                    "zh": "无人驾驶；没有驾驶员"
+                },
+                {
+                    "da": "udbygge",
+                    "zh": "扩建；进一步完善"
+                },
+                {
+                    "da": "kollektiv trafik",
+                    "zh": "公共交通",
+                    "note": "丹麦交通规划中的常用表达"
+                },
+                {
+                    "da": "en letbane",
+                    "zh": "轻轨；现代有轨电车系统"
+                }
+            ],
+            "nuance": "作者把高度发达的首都地铁与其他城市的公共交通建设并列，突出不同城市规模下的交通解决方案。`udbygge` 强调在既有系统基础上继续扩展，而不是从零开始建立。",
+            "transfer": [
+                "Metroen kører døgnet rundt.",
+                "Byen har udbygget den kollektive trafik.",
+                "Letbanen forbinder centrum med forstæderne."
+            ],
+            "pitfall": "`letbane` 不是轻便的普通火车，而是特定的城市轨道交通形式。`kollektiv trafik` 指公共交通，不能直译为集体交通。"
+        },
+        {
+            "id": "U28-C013",
+            "zh": "大多数公共交通行程可以使用电子交通卡或手机应用付款；但如果忘了办理乘车登记，就可能收到查票罚款。",
+            "grammar": "第一主句使用泛指主语 `Man` 说明一般购票方式。第二部分 `glemmer man at checke ind` 是省略 `hvis` 的条件倒装，表示如果忘记登记乘车。主句 `risikerer man en kontrolafgift` 采用 V2 语序。`risikere` 强调可能出现不利后果。",
+            "vocabulary": [
+                {
+                    "da": "et rejsekort",
+                    "zh": "公共交通乘车卡"
+                },
+                {
+                    "da": "checke ind",
+                    "zh": "办理乘车登记；刷卡或在应用中确认上车",
+                    "note": "也可见拼写 `tjekke ind`"
+                },
+                {
+                    "da": "en kontrolafgift",
+                    "zh": "查票附加费；未有效购票的处罚性收费"
+                },
+                {
+                    "da": "risikere",
+                    "zh": "面临……风险；可能遭遇不利后果"
+                }
+            ],
+            "nuance": "此处介绍日常公共交通的票务责任：付款或登记方式可以不同，但乘客仍需确保乘车资格有效。`risikerer` 没有说每一次忘记登记都必然以相同方式处罚，重点在于存在收费风险。",
+            "transfer": [
+                "Husk at checke ind, før du stiger på.",
+                "Glemmer man at checke ind, kan man få en kontrolafgift.",
+                "Jeg betaler med en app."
+            ],
+            "pitfall": "`checke ind` 与 `checke ud` 分别表示登记开始与结束，具体要求依票务产品而定。`kontrolafgift` 不等于普通车票价格。"
+        },
+        {
+            "id": "U28-C014",
+            "zh": "列车工作人员：请出示车票。",
+            "grammar": "`Billetter, tak` 是省略了动词的服务场景固定表达，完整意思可以理解为请把车票拿出来供查验。复数 `Billetter` 面向多名乘客。",
+            "vocabulary": [
+                {
+                    "da": "en billet",
+                    "zh": "车票；门票",
+                    "note": "复数 `billetter`"
+                },
+                {
+                    "da": "billetter, tak",
+                    "zh": "请出示车票",
+                    "note": "列车查票中的简短礼貌表达"
+                }
+            ],
+            "nuance": "这种省略式表达直接、高效，`tak` 使要求保持礼貌，而不需要完整说出请您向我展示车票。",
+            "transfer": [
+                "Billetter, tak.",
+                "Må jeg se din billet?",
+                "Har du din billet klar?"
+            ],
+            "pitfall": "`tak` 不只用于表达已经受到帮助后的感谢，也可以放在请求后表达礼貌。"
+        },
+        {
+            "id": "U28-C015",
+            "zh": "雅各布：呃，我觉得我的手机应用可能没来得及记录我在罗斯基勒上车这件事。",
+            "grammar": "`Øh` 是表示迟疑的口语填充词。`jeg tror ikke, at ...` 表达不太确定的否定判断。`nåede at registrere` 使用 `nå at + 不定式`，表示及时完成某动作。内层 `at jeg steg på i Roskilde` 是 `registrere` 的宾语从句，`steg på` 为 `stige på` 的过去时。",
+            "vocabulary": [
+                {
+                    "da": "øh",
+                    "zh": "呃；嗯",
+                    "note": "表示思考、迟疑或不确定"
+                },
+                {
+                    "da": "nå at gøre noget",
+                    "zh": "来得及做某事；及时完成某事"
+                },
+                {
+                    "da": "registrere",
+                    "zh": "记录；登记；识别"
+                },
+                {
+                    "da": "stige på",
+                    "zh": "上车",
+                    "note": "`stiger på – steg på – steget på`"
+                }
+            ],
+            "nuance": "雅各布没有直接说应用失效，而用 `jeg tror ikke` 表示自己的推测，语气较谨慎。`nåede at` 指时间窗口内是否完成了登记，为后面列车已经开动但应用尚未打开的解释作铺垫。",
+            "transfer": [
+                "Jeg tror ikke, appen nåede at registrere rejsen.",
+                "Jeg nåede ikke at checke ind.",
+                "Jeg steg på toget i Roskilde."
+            ],
+            "pitfall": "`nå at` 表示来得及做，不能只当作到达某地。`stige på toget` 是登上火车，`stige af toget` 是下车。"
+        },
+        {
+            "id": "U28-C016",
+            "zh": "列车工作人员：我先看一下。……不行，你这里确实没有成功登记乘车。",
+            "grammar": "`Lad mig lige se` 使用 `lade` 的命令式引出温和请求，`lige` 使动作显得简短、不打扰。`du er ikke checket ind` 使用 `være + 过去分词` 描述目前尚未登记成功的状态。",
+            "vocabulary": [
+                {
+                    "da": "lad mig se",
+                    "zh": "让我看看"
+                },
+                {
+                    "da": "lige",
+                    "zh": "稍微；一下",
+                    "note": "此处柔化请求"
+                },
+                {
+                    "da": "være checket ind",
+                    "zh": "已完成乘车登记"
+                }
+            ],
+            "nuance": "工作人员先查看系统，再依据显示结果作出判断。`du er ikke checket ind` 说明登记状态没有生效，并没有直接指控雅各布故意逃票。",
+            "transfer": [
+                "Lad mig lige se din billet.",
+                "Du er ikke checket ind.",
+                "Systemet viser, at du ikke er registreret."
+            ],
+            "pitfall": "`Lad mig lige se` 不宜生硬译为允许我立刻看，而应理解为我看一下。`er checket ind` 强调当前登记状态。"
+        },
+        {
+            "id": "U28-C017",
+            "zh": "雅各布：我当时还在等那个应用打开，火车就已经开走了。",
+            "grammar": "`Toget kørte` 根据场景表示列车发车或开动。`mens jeg stod og ventede på, at ...` 是时间从句，`stod og ventede` 使用姿态动词加 `og` 表示站着持续等待。`vente på, at ...` 后接宾语从句，`den` 根据上下文指应用。",
+            "vocabulary": [
+                {
+                    "da": "stå og vente",
+                    "zh": "站着等；一直等候"
+                },
+                {
+                    "da": "vente på, at ...",
+                    "zh": "等待……发生"
+                },
+                {
+                    "da": "åbne",
+                    "zh": "打开；启动",
+                    "note": "数字应用语境可指程序打开"
+                },
+                {
+                    "da": "mens",
+                    "zh": "当……的时候；与此同时"
+                }
+            ],
+            "nuance": "雅各布想说明自己并非故意不登记，而是应用打开速度与列车发车时间发生了冲突。`stod og ventede` 将等待过程描写得更具体，也暗示自己确实采取了尝试。",
+            "transfer": [
+                "Jeg stod og ventede på, at appen skulle åbne.",
+                "Toget kørte, før jeg nåede at checke ind.",
+                "Jeg ventede på, at systemet skulle reagere."
+            ],
+            "pitfall": "`vente på, at ...` 中的 `på` 不可省略。`den` 指前文应用，而不是火车；丹麦语代词指代需要结合语境判断。"
+        },
+        {
+            "id": "U28-C018",
+            "zh": "列车工作人员：我看得出来，你确实尝试过。我会写一条备注，这样你之后可以提出申诉。但我还是必须向你开具这笔查票附加费。",
+            "grammar": "`kan godt se` 表示承认或理解某一事实，`godt` 强化认可语气。`har prøvet` 使用现在完成时表示曾尝试操作。`så kan du klage bagefter` 是结果或后续安排，`så` 置于句首引起 V2。`er nødt til at` 表示由于职责或规则而不得不采取行动。",
+            "vocabulary": [
+                {
+                    "da": "kunne godt se",
+                    "zh": "能够理解；看得出来",
+                    "note": "可用于承认对方处境"
+                },
+                {
+                    "da": "en note",
+                    "zh": "备注；记录",
+                    "note": "此处为工作人员留下的情况说明"
+                },
+                {
+                    "da": "klage",
+                    "zh": "投诉；申诉",
+                    "note": "`klage over en afgift` 对收费提出申诉"
+                },
+                {
+                    "da": "være nødt til at",
+                    "zh": "不得不；必须"
+                },
+                {
+                    "da": "give nogen en afgift",
+                    "zh": "向某人开具处罚性收费"
+                }
+            ],
+            "nuance": "工作人员区分对个人处境的理解和正式票务职责。`Jeg kan godt se` 体现同理心，`men jeg er nødt til` 表示即使理解，也不能自行免除收费。提出备注和事后申诉则提供了程序性解决途径。",
+            "transfer": [
+                "Jeg kan godt se, at du har prøvet.",
+                "Jeg er nødt til at følge reglerne.",
+                "Du kan klage over afgiften bagefter."
+            ],
+            "pitfall": "`være nødt til` 与 `skulle` 都可表达必须，但前者更强调情势所迫。`klage` 不表示申诉一定成功。"
+        },
+        {
+            "id": "U28-C019",
+            "zh": "雅各布：我现在能不能马上做点什么来解决这个问题？",
+            "grammar": "`gøre noget ved noget` 是固定习语，表示对某个问题采取措施。`med det samme` 是时间副词短语，表示立即。问句使用情态动词 `Kan` 开头，询问是否存在可采取的补救措施。",
+            "vocabulary": [
+                {
+                    "da": "gøre noget ved",
+                    "zh": "采取措施解决；设法改善"
+                },
+                {
+                    "da": "med det samme",
+                    "zh": "立即；马上"
+                }
+            ],
+            "nuance": "雅各布关注的是眼下能否补救，而不仅是未来申诉。`gøre noget ved det` 在日常生活和工作中非常实用，可以指解决技术故障、错误或实际麻烦。",
+            "transfer": [
+                "Kan vi gøre noget ved problemet?",
+                "Kan jeg gøre noget ved det med det samme?",
+                "Der er ikke meget, vi kan gøre ved det."
+            ],
+            "pitfall": "`gøre noget ved` 不能逐词理解为在某个东西旁边做事。`med det samme` 是立刻，不是用同样的方式。"
+        },
+        {
+            "id": "U28-C020",
+            "zh": "列车工作人员：可以。你现在可以在这里买一张覆盖剩余路程的车票。下次一定要在火车到站前就在站台上完成乘车登记。",
+            "grammar": "`til resten af turen` 表示车票适用于剩余旅程。`næste gang` 是句首时间状语，随后采用 `skal du` 的 V2 语序。`før toget kommer` 是时间从句，明确登记必须先于列车到来。",
+            "vocabulary": [
+                {
+                    "da": "resten af turen",
+                    "zh": "剩余的行程"
+                },
+                {
+                    "da": "en perron",
+                    "zh": "火车站台",
+                    "note": "`på perronen` 在站台上"
+                },
+                {
+                    "da": "checke ind",
+                    "zh": "登记乘车；刷卡进站或确认行程"
+                },
+                {
+                    "da": "næste gang",
+                    "zh": "下次"
+                }
+            ],
+            "nuance": "工作人员给出两个不同时间层面的建议：立即购买后续行程车票，以及下次提前登记。购买新车票并不自动消除之前的查票收费，原文也没有承诺撤销。",
+            "transfer": [
+                "Du kan købe en billet til resten af turen.",
+                "Næste gang skal du checke ind i god tid.",
+                "Husk at være klar, før toget kommer."
+            ],
+            "pitfall": "`før toget kommer` 指列车到达之前。`resten af turen` 不是整段旅程，也不等于之前未有效登记的路段。"
+        },
+        {
+            "id": "U28-C021",
+            "zh": "列车晚点是一个反复被人们谈起的话题。",
+            "grammar": "`Forsinkelser` 是复数主语，`et tilbagevendende emne` 是单数表语，表示各种晚点情况共同构成一个反复出现的话题。`tilbagevendende` 是现在分词形式的形容词，表示经常再次出现。",
+            "vocabulary": [
+                {
+                    "da": "en forsinkelse",
+                    "zh": "延误；晚点"
+                },
+                {
+                    "da": "tilbagevendende",
+                    "zh": "反复出现的；周期性发生的"
+                },
+                {
+                    "da": "et emne",
+                    "zh": "话题；主题"
+                }
+            ],
+            "nuance": "作者从单个查票事件转向乘客共同经历的交通问题。`tilbagevendende emne` 带有轻微的日常抱怨意味，但又比直接说火车总是晚点更谨慎。",
+            "transfer": [
+                "Forsinkelser er et tilbagevendende problem.",
+                "Det er et emne, der ofte bliver diskuteret.",
+                "Trafikproblemer er et tilbagevendende tema."
+            ],
+            "pitfall": "`tilbagevendende` 是反复发生，不是单纯返回某地。复数主语与单数分类表语可以自然搭配。"
+        },
+        {
+            "id": "U28-C022",
+            "zh": "信号故障、轨道施工和暴风天气，都可能让整张列车时刻表陷入混乱。",
+            "grammar": "三个名词构成并列主语。`kan få hele køreplanen til at bryde sammen` 使用使役结构 `få + 宾语 + til at + 不定式`，表示造成某种结果。`bryde sammen` 是动词小品词结构，原义为崩溃，这里指运行安排失效。",
+            "vocabulary": [
+                {
+                    "da": "en signalfejl",
+                    "zh": "铁路信号故障"
+                },
+                {
+                    "da": "sporarbejde",
+                    "zh": "轨道维修或施工"
+                },
+                {
+                    "da": "stormvejr",
+                    "zh": "暴风天气"
+                },
+                {
+                    "da": "en køreplan",
+                    "zh": "交通时刻表；运行计划"
+                },
+                {
+                    "da": "bryde sammen",
+                    "zh": "崩溃；瘫痪；失去正常运作"
+                }
+            ],
+            "nuance": "作者用三个典型外部原因解释铁路运行中断，不把延误单纯归咎于个人。`hele køreplanen` 带有强调效果，说明一个故障可能产生连锁影响，而非只影响单趟列车。",
+            "transfer": [
+                "Signalfejl kan føre til store forsinkelser.",
+                "Sporarbejde kan få køreplanen til at bryde sammen.",
+                "Systemet brød sammen under belastningen."
+            ],
+            "pitfall": "`få nogen til at` 是使某人做某事；这里的宾语是时刻表。`bryde sammen` 不一定是物理损坏，也可表示系统运作失败。"
+        },
+        {
+            "id": "U28-C023",
+            "zh": "大多数通勤者大概都有过这样的经历：站在寒冷的站台上，听着广播通知说列车取消了，改由铁路接驳巴士代运。",
+            "grammar": "`har prøvet at + 不定式` 表示经历过某种情况。`stå ... og lytte` 共用前面的 `at`，描述两个伴随发生的动作。`en meddelelse om, at ...` 使用介词 `om` 引出通知内容。`toget er aflyst og erstattet af togbusser` 包含两个并列的被动结果描述。",
+            "vocabulary": [
+                {
+                    "da": "en pendler",
+                    "zh": "通勤者",
+                    "note": "动词 `pendle` 通勤"
+                },
+                {
+                    "da": "en perron",
+                    "zh": "铁路站台"
+                },
+                {
+                    "da": "en meddelelse",
+                    "zh": "通知；公告"
+                },
+                {
+                    "da": "aflyse",
+                    "zh": "取消",
+                    "note": "如 `aflyse et tog` 取消一班列车"
+                },
+                {
+                    "da": "en togbus",
+                    "zh": "铁路替代巴士；列车停运时的接驳巴士"
+                }
+            ],
+            "nuance": "作者使用通勤者熟悉的寒冷站台和广播通知场景，唤起共同体验。`har prøvet` 强调人生经历，而不是主动想尝试站在寒冷的站台上。`togbusser` 是铁路中断时的替代交通安排，不是普通公交线路的同义词。",
+            "transfer": [
+                "Jeg har prøvet at vente på et aflyst tog.",
+                "Toget er erstattet af togbusser.",
+                "Vi fik en meddelelse om, at toget var forsinket."
+            ],
+            "pitfall": "`prøve at` 可以表示尝试，也可表示经历过，具体取决于上下文。`aflyst` 是取消，`forsinket` 只是晚点，不要混淆。"
+        },
+        {
+            "id": "U28-C024",
+            "zh": "高速公路的限速通常是每小时130公里，城市道路通常是每小时50公里；警方会使用移动测速车辆和测速摄像头检查车辆是否超速。",
+            "grammar": "`På motorvejene` 是句首地点状语，后接 `er hastighedsgrænsen` 的 V2 语序。`i byerne 50` 省略重复的 `er hastighedsgrænsen` 和速度单位。`som regel` 表示通常情况，并非绝对无例外。`kontrollere farten med` 表示利用某种设备检查车速。",
+            "vocabulary": [
+                {
+                    "da": "en hastighedsgrænse",
+                    "zh": "最高限速；速度限制"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常；一般情况下"
+                },
+                {
+                    "da": "kilometer i timen",
+                    "zh": "公里每小时",
+                    "note": "常缩写为 `km/t`"
+                },
+                {
+                    "da": "en fotovogn",
+                    "zh": "移动测速车"
+                },
+                {
+                    "da": "et fartkamera",
+                    "zh": "测速摄像头"
+                }
+            ],
+            "nuance": "`som regel` 保留了限速因具体路段与交通标志而变化的可能。作者采用交通常识介绍的书面语风格，将道路限速与执法方式放在一起，说明规则不仅存在于法条，也有实际检查机制。",
+            "transfer": [
+                "Hastighedsgrænsen er som regel 50 kilometer i timen.",
+                "Politiet kontrollerer farten med kameraer.",
+                "Man skal altid følge den skiltede hastighedsgrænse."
+            ],
+            "pitfall": "`fart` 在交通语境指速度，不是英语 fart。`som regel` 不表示所有道路都适用同一限速，实际驾驶要遵守现场标志。"
+        },
+        {
+            "id": "U28-C025",
+            "zh": "一般酒驾血液酒精浓度上限为0.5‰，酒后驾驶会受到严厉处罚，包括可能被吊销驾驶资格。",
+            "grammar": "`Promillegrænsen er 0,5` 是法律数值说明。第二主句 `spritkørsel bliver straffet hårdt` 使用 `blive` 被动态，突出违法行为的处罚结果。`også med frakendelse af kørekortet` 是补充性方式状语，说明处罚可能包括失去驾驶资格。",
+            "vocabulary": [
+                {
+                    "da": "en promillegrænse",
+                    "zh": "血液酒精浓度上限；酒驾千分比限值"
+                },
+                {
+                    "da": "spritkørsel",
+                    "zh": "酒后驾驶；酒驾"
+                },
+                {
+                    "da": "straffe hårdt",
+                    "zh": "严厉处罚"
+                },
+                {
+                    "da": "frakendelse af kørekortet",
+                    "zh": "吊销或剥夺驾驶资格"
+                },
+                {
+                    "da": "et kørekort",
+                    "zh": "驾驶执照"
+                }
+            ],
+            "nuance": "这是一种法律和安全规范说明。`også med` 说明吊销驾驶资格是可能采用的处罚类型之一，不意味着所有案件处罚完全相同。原文给的是一般限值，特殊驾驶人群可能适用更严格的规定。",
+            "transfer": [
+                "Spritkørsel bliver straffet hårdt.",
+                "Man kan miste kørekortet ved alvorlige overtrædelser.",
+                "Promillegrænsen skal overholdes."
+            ],
+            "pitfall": "`promille` 是千分比，不是百分比，0.5‰ 与0.5%绝不相同。`frakendelse` 表示失去资格，不等于自己主动归还证件。"
+        },
+        {
+            "id": "U28-C026",
+            "zh": "许多地方停车时需要使用停车计时盘，由驾驶人自行调好到达时间；而在大城市，停车位既少又贵。",
+            "grammar": "`Mange steder` 是句首地点范围状语。`skal man bruge` 中 `skal` 表示规则要求。`hvor man selv stiller ankomsttidspunktet ind` 是关系从句，解释停车盘如何使用。`stille ... ind` 是动词小品词结构。后半句 `både få og dyre` 使用并列结构，强调数量少、费用高。",
+            "vocabulary": [
+                {
+                    "da": "en parkeringsskive",
+                    "zh": "停车计时盘",
+                    "note": "也常称 `en p-skive`"
+                },
+                {
+                    "da": "stille noget ind",
+                    "zh": "设置；调节",
+                    "note": "可用于时钟、设备或停车盘"
+                },
+                {
+                    "da": "et ankomsttidspunkt",
+                    "zh": "到达时间"
+                },
+                {
+                    "da": "en parkeringsplads",
+                    "zh": "停车位；停车场",
+                    "note": "需按上下文区分"
+                },
+                {
+                    "da": "både ... og ...",
+                    "zh": "既……又……"
+                }
+            ],
+            "nuance": "文章把停车规则和城市停车成本放在一起，展示拥有汽车还意味着需要处理停车手续与费用。`selv` 提醒驾驶人负有正确设置停车盘的责任，而不是由停车管理人员代为操作。",
+            "transfer": [
+                "Husk at stille p-skiven korrekt.",
+                "Parkeringspladserne er både få og dyre.",
+                "Mange steder skal man bruge en parkeringsskive."
+            ],
+            "pitfall": "`stille ind` 是调整设置，不是把某物摆进里面。停车盘标记时间的具体规则需要按照当地指示，不可简单假定所有车位要求一致。"
+        },
+        {
+            "id": "U28-C027",
+            "zh": "汽车必须定期接受车辆检验；如果有人使用轮胎磨损过度或车灯损坏的汽车上路，就可能被罚款。",
+            "grammar": "`Bilerne skal til syn` 中 `skal til` 表示必须前往某项检查或活动，省略了更完整的接受检验表达。`med jævne mellemrum` 表示定期。`den, der kører ...` 是名词化关系结构，泛指符合后面条件的驾驶人。`kan få en bøde` 表示可能受到罚款处罚。",
+            "vocabulary": [
+                {
+                    "da": "til syn",
+                    "zh": "接受车辆年检或定期检验",
+                    "note": "`et bilsyn` 车辆技术检验"
+                },
+                {
+                    "da": "med jævne mellemrum",
+                    "zh": "定期；每隔一段时间"
+                },
+                {
+                    "da": "slidte dæk",
+                    "zh": "磨损的轮胎"
+                },
+                {
+                    "da": "defekte lygter",
+                    "zh": "故障车灯"
+                },
+                {
+                    "da": "få en bøde",
+                    "zh": "被罚款；收到罚单"
+                }
+            ],
+            "nuance": "这一句把车辆技术状况与道路安全责任联系起来。`for slidte` 中 `for` 表示过度，说明轮胎不是只要有磨损就违法，而是磨损程度超出可接受限度。`kan få` 说明存在罚款可能性。",
+            "transfer": [
+                "Bilen skal til syn med jævne mellemrum.",
+                "Man kan få en bøde for defekte lygter.",
+                "Dækkene er for slidte og skal skiftes."
+            ],
+            "pitfall": "`til syn` 在这里指车辆检验，不是一般的看见。`for slidte` 是磨损过度，`for` 不是表示为了。"
+        },
+        {
+            "id": "U28-C028",
+            "zh": "阿斯塔正在参加驾驶路考，坐在她旁边的是一名考官，膝上放着一个记录本。",
+            "grammar": "`være til køreprøve` 是固定表达，表示正在参加驾驶考试。第二主句以 `ved siden af hende` 开头，限定动词 `sidder` 随后出现，主语 `en sagkyndig` 后置。`med en blok på skødet` 是伴随状语，描写考官姿态。",
+            "vocabulary": [
+                {
+                    "da": "en køreprøve",
+                    "zh": "驾驶考试；驾驶路考"
+                },
+                {
+                    "da": "en sagkyndig",
+                    "zh": "专业考官；技术评估人员",
+                    "note": "此处专指驾驶考试考官"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在……旁边"
+                },
+                {
+                    "da": "en blok",
+                    "zh": "便签本；记录本"
+                },
+                {
+                    "da": "et skød",
+                    "zh": "膝上；大腿上方的位置",
+                    "note": "`på skødet` 放在膝上"
+                }
+            ],
+            "nuance": "作者通过考官的记录本和坐在副驾驶位置的细节营造考试紧张感。`sagkyndig` 在这里不是一般懂技术的人，而是承担正式评估职责的考官。",
+            "transfer": [
+                "Hun er til køreprøve i dag.",
+                "Den sagkyndige sidder ved siden af hende.",
+                "Han har en blok på skødet."
+            ],
+            "pitfall": "`sagkyndig` 可作形容词或名词，此处名词化指专业人员。`på skødet` 不表示在裙子上，而是膝上。"
+        },
+        {
+            "id": "U28-C029",
+            "zh": "考官：从停车场开出去，在下一个可以右转的地方向右转。",
+            "grammar": "`Kør` 和 `drej` 是两个并列的命令式动词。`ud fra parkeringspladsen` 表示离开停车场。`ved næste mulighed` 是省略性交通指令，指下一个允许或能够转弯的位置。",
+            "vocabulary": [
+                {
+                    "da": "køre ud fra",
+                    "zh": "从……驶出"
+                },
+                {
+                    "da": "en parkeringsplads",
+                    "zh": "停车场；停车位"
+                },
+                {
+                    "da": "dreje til højre",
+                    "zh": "向右转"
+                },
+                {
+                    "da": "ved næste mulighed",
+                    "zh": "在下一个可行的位置",
+                    "note": "驾驶指令中的自然省略表达"
+                }
+            ],
+            "nuance": "考官使用直接而标准的交通指令，没有加入不必要的客套。`ved næste mulighed` 比指定某条道路更灵活，要求考生自己判断安全、合法的转弯位置。",
+            "transfer": [
+                "Kør ud fra parkeringspladsen.",
+                "Drej til højre ved næste mulighed.",
+                "Fortsæt ligeud, indtil du kan dreje."
+            ],
+            "pitfall": "`ved næste mulighed` 并不是任何看到的路口都必须转，而是下一个允许且可行的地点。`kør ud` 与 `kør ind` 方向相反。"
+        },
+        {
+            "id": "U28-C030",
+            "zh": "阿斯塔：向右转。好的。",
+            "grammar": "简短的省略式复述，阿斯塔重复考官的方向指令以确认自己听清楚。`Ja` 表示接受并准备执行。",
+            "vocabulary": [
+                {
+                    "da": "til højre",
+                    "zh": "向右；右侧"
+                }
+            ],
+            "nuance": "这不是询问路线，而是考生在紧张状态下重复指令，自我确认操作方向。短句很符合驾驶考试现场。",
+            "transfer": [
+                "Til højre. Ja.",
+                "Okay, jeg drejer til højre."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U28-C031",
+            "zh": "考官：转弯之前，记得先让骑自行车的人通过。",
+            "grammar": "`Husk at + 不定式` 是提醒对方采取某项行动的固定结构。`holde tilbage for` 表示让行。`inden du svinger` 是时间从句，强调让行必须先于转弯发生。",
+            "vocabulary": [
+                {
+                    "da": "huske at",
+                    "zh": "记得做某事"
+                },
+                {
+                    "da": "holde tilbage for",
+                    "zh": "为……让行；停车或减速等待",
+                    "note": "交通规则中的重要搭配"
+                },
+                {
+                    "da": "svinge",
+                    "zh": "转弯"
+                },
+                {
+                    "da": "inden",
+                    "zh": "在……之前"
+                }
+            ],
+            "nuance": "考官强调机动车转弯时与自行车交通的冲突点。这是丹麦城市驾驶中非常重要的实际判断。`Husk` 表达明确提醒，语气直接但不等于责骂。",
+            "transfer": [
+                "Husk at holde tilbage for cyklisterne.",
+                "Se dig godt for, inden du svinger.",
+                "Du skal holde tilbage for trafikken."
+            ],
+            "pitfall": "`holde tilbage for` 不能直译成向后保持，而是交通上的让行。`inden` 强调时间顺序，不是因为。"
+        },
+        {
+            "id": "U28-C032",
+            "zh": "阿斯塔：好的，对不起。我其实看到他们了。",
+            "grammar": "`Jeg så dem godt` 中 `så` 是 `se` 的过去时，`dem` 指骑车人。`godt` 在这里强调确实看到了，而不是评价视力好坏。第一部分用 `undskyld` 表达歉意。",
+            "vocabulary": [
+                {
+                    "da": "undskyld",
+                    "zh": "对不起；抱歉"
+                },
+                {
+                    "da": "se nogen",
+                    "zh": "看见某人",
+                    "note": "`ser – så – set`"
+                },
+                {
+                    "da": "godt",
+                    "zh": "确实；明明",
+                    "note": "与感知动词搭配时可强化肯定"
+                }
+            ],
+            "nuance": "阿斯塔用 `godt` 强调自己不是没有注意到骑车人，但考官真正关注的是她是否正确让行。看到危险与采取安全行动并不是一回事，正是这个简短回答中的隐含张力。",
+            "transfer": [
+                "Jeg så dem godt.",
+                "Undskyld, jeg havde ikke tænkt mig at gøre det.",
+                "Jeg ved det godt."
+            ],
+            "pitfall": "`så` 在这里是看见的过去时，不是于是。`Jeg så dem godt` 不保证她已经履行正确的让行义务。"
+        },
+        {
+            "id": "U28-C033",
+            "zh": "考官：好。前面那个鲨鱼齿形让行标线处，你必须无条件让行。",
+            "grammar": "`Ved hajtænderne derhenne` 是句首地点状语，后接 `har du` 的 V2 语序。`have vigepligt` 表示负有让行义务。`ubetinget` 修饰让行义务，表示无需等待其他附加条件就必须按照规则让行。",
+            "vocabulary": [
+                {
+                    "da": "hajtænder",
+                    "zh": "鲨鱼齿标线；三角形让行线",
+                    "note": "丹麦道路上用于提示让行义务的白色三角标记"
+                },
+                {
+                    "da": "derhenne",
+                    "zh": "那边；前面那里"
+                },
+                {
+                    "da": "ubetinget vigepligt",
+                    "zh": "无条件让行义务",
+                    "note": "重要的丹麦驾驶理论术语"
+                },
+                {
+                    "da": "vige",
+                    "zh": "让开；让行",
+                    "note": "`vigepligt` 让行义务"
+                }
+            ],
+            "nuance": "`hajtænder` 是丹麦驾驶教学中非常形象的日常术语，来源于道路标线的三角形形状。`ubetinget vigepligt` 是正式交通规则术语，在驾驶考试中需要清楚理解，而不仅仅是口语表达。",
+            "transfer": [
+                "Ved hajtænderne har du ubetinget vigepligt.",
+                "Du skal holde tilbage for den krydsende trafik.",
+                "Der er hajtænder ved krydset."
+            ],
+            "pitfall": "`hajtænder` 不是路上真的有鲨鱼牙齿，而是交通标线。`ubetinget` 不等于无论如何都必须停车；重点是必须按规则让有优先权的交通先行。"
+        },
+        {
+            "id": "U28-C034",
+            "zh": "阿斯塔：有辆卡车过来了，我先等等。",
+            "grammar": "`Der kommer en lastbil` 使用呈现结构，介绍有一辆车正在驶近。`så` 连接原因与结果，后面的 `jeg venter` 表示阿斯塔据此决定等待。",
+            "vocabulary": [
+                {
+                    "da": "der kommer",
+                    "zh": "有……过来了；……正在接近"
+                },
+                {
+                    "da": "en lastbil",
+                    "zh": "卡车"
+                },
+                {
+                    "da": "vente",
+                    "zh": "等待"
+                }
+            ],
+            "nuance": "阿斯塔把观察和决策说出来，显示她已理解考官前一句关于让行义务的指令。`så` 在这里是所以，突出先观察再行动的逻辑。",
+            "transfer": [
+                "Der kommer en bil, så jeg venter.",
+                "Jeg holder tilbage, indtil vejen er fri.",
+                "Der kommer trafik fra højre."
+            ],
+            "pitfall": "`Der kommer ...` 的 `der` 是呈现结构的一部分，不是指那个地方。"
+        },
+        {
+            "id": "U28-C035",
+            "zh": "考官：好。找个地方，沿着路缘石，把车停在那辆白色旅行车后面。",
+            "grammar": "`Find` 是命令式，`et sted at parkere` 使用不定式修饰地点，表示可以停车的位置。`langs kantstenen` 表示沿路缘石一侧，`bag den hvide stationcar` 进一步限定停车位置。",
+            "vocabulary": [
+                {
+                    "da": "finde et sted at",
+                    "zh": "找到一个可以……的地方"
+                },
+                {
+                    "da": "parkere",
+                    "zh": "停车"
+                },
+                {
+                    "da": "langs kantstenen",
+                    "zh": "沿着路缘石"
+                },
+                {
+                    "da": "en stationcar",
+                    "zh": "旅行车；旅行版轿车",
+                    "note": "汽车车身类型名称"
+                }
+            ],
+            "nuance": "考官通过具体的白色旅行车确定停车参照位置，而不是抽象地要求完成侧方停车。`langs kantstenen` 说明车身应沿道路边缘停放，为后面的倒车操作提供背景。",
+            "transfer": [
+                "Find et sted at parkere.",
+                "Parker langs kantstenen.",
+                "Parkér bag den hvide bil."
+            ],
+            "pitfall": "`langs` 是沿着，`bag` 是在后方。`stationcar` 是车型，不是车站用车。"
+        },
+        {
+            "id": "U28-C036",
+            "zh": "阿斯塔：倒着停吗？",
+            "grammar": "`Baglæns?` 是只保留方式副词的省略疑问句，完整意思是是否需要倒车进入停车位。对话语境使主语、动词和停车动作都可以省略。",
+            "vocabulary": [
+                {
+                    "da": "baglæns",
+                    "zh": "向后；倒着；倒车方式",
+                    "note": "反义词 `forlæns` 向前"
+                }
+            ],
+            "nuance": "阿斯塔想确认停车操作方式，而不是停车位置。紧张考试中这种单词式反问非常自然。",
+            "transfer": [
+                "Skal jeg parkere baglæns?",
+                "Vil du have, at jeg bakker ind?",
+                "Baglæns eller forlæns?"
+            ],
+            "pitfall": "`baglæns` 是向后移动，`bag` 是在某物后面，不能混淆。"
+        },
+        {
+            "id": "U28-C037",
+            "zh": "考官：对，请倒车停进去。",
+            "grammar": "`Ja tak` 是肯定回答加礼貌性 `tak`，表示确认对方提议的动作。具体动作由上一句补足。",
+            "vocabulary": [
+                {
+                    "da": "ja tak",
+                    "zh": "好的；是的，请这样做",
+                    "note": "可用于接受提议，也可用于礼貌确认要求"
+                }
+            ],
+            "nuance": "这里的 `Ja tak` 不是在接受食物或饮料，而是对考生提出的操作方式予以确认。简短而职业化。",
+            "transfer": [
+                "Ja tak, parkér baglæns.",
+                "Ja tak, det er fint."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U28-C038",
+            "zh": "阿斯塔：好。看后视镜，打转向灯，转头检查盲区……",
+            "grammar": "三个名词依次排列，省略了动词，形成自我提醒式的操作清单。`spejl`、`blink` 和 `skulderkig` 分别指查看镜子、打转向灯和转头检查肩侧盲区。",
+            "vocabulary": [
+                {
+                    "da": "et spejl",
+                    "zh": "镜子；车辆后视镜"
+                },
+                {
+                    "da": "et blink",
+                    "zh": "闪烁；转向灯动作",
+                    "note": "驾驶语境常与 `blinke` 联系"
+                },
+                {
+                    "da": "et skulderkig",
+                    "zh": "转头回看盲区；肩侧观察",
+                    "note": "驾驶训练中的重要术语"
+                }
+            ],
+            "nuance": "阿斯塔把驾驶要点念出来，表明她正在紧张地按照学过的步骤操作。省略动词使话语像脑中的安全检查清单，而不是正式完整的句子。",
+            "transfer": [
+                "Husk spejl, blink og skulderkig.",
+                "Jeg skal lige tjekke den blinde vinkel.",
+                "Husk at orientere dig, før du bakker."
+            ],
+            "pitfall": "`skulderkig` 是越过肩膀观察盲区，不是检查自己的肩膀。`blink` 在这里指转向灯信号，不是眨眼。"
+        },
+        {
+            "id": "U28-C039",
+            "zh": "考官：你也可以顺便喘口气，不用这么紧张。",
+            "grammar": "`må gerne + 不定式` 表示允许、可以做某事。`trække vejret` 是固定搭配，表示呼吸。`imens` 表示在做前述动作的同时，即倒车操作过程中。",
+            "vocabulary": [
+                {
+                    "da": "må gerne",
+                    "zh": "可以；允许做某事",
+                    "note": "常比简单的命令更温和"
+                },
+                {
+                    "da": "trække vejret",
+                    "zh": "呼吸；喘口气",
+                    "note": "固定表达"
+                },
+                {
+                    "da": "imens",
+                    "zh": "与此同时；在此期间"
+                }
+            ],
+            "nuance": "考官用带有幽默意味的提醒缓和考试气氛。他当然不是说阿斯塔真的被禁止呼吸，而是调侃她过于紧绷。`må gerne` 让这句玩笑显得温和、友善。",
+            "transfer": [
+                "Du må gerne trække vejret.",
+                "Tag det roligt.",
+                "Du må gerne tage dig god tid."
+            ],
+            "pitfall": "`må gerne` 表示许可，不是必须。`trække vejret` 要整体理解为呼吸。"
+        },
+        {
+            "id": "U28-C040",
+            "zh": "阿斯塔通过了路考，不过考官还是指出了一个小问题：她在高速公路上开得稍微有点太慢。",
+            "grammar": "`har bestået` 使用现在完成时，强调考试已通过的结果。`får en enkelt bemærkning om, at ...` 表示收到一条具体反馈。`lidt for langsomt` 中 `for` 表示超过合适程度，`lidt` 则缓和批评力度。",
+            "vocabulary": [
+                {
+                    "da": "bestå",
+                    "zh": "通过考试；及格",
+                    "note": "`består – bestod – bestået`"
+                },
+                {
+                    "da": "en bemærkning",
+                    "zh": "评语；意见；提醒"
+                },
+                {
+                    "da": "en enkelt",
+                    "zh": "仅仅一个；单独的一项"
+                },
+                {
+                    "da": "lidt for langsomt",
+                    "zh": "稍微太慢"
+                }
+            ],
+            "nuance": "作者以通过考试作为积极结果，同时保留一个小小的专业反馈。`en enkelt bemærkning` 表明问题数量有限，`lidt` 使批评显得轻微，而不是严重失误。",
+            "transfer": [
+                "Hun har bestået køreprøven.",
+                "Jeg fik en enkelt bemærkning om min hastighed.",
+                "Du kører lidt for langsomt."
+            ],
+            "pitfall": "`bestå` 表示通过考试，`stå` 单独并不表示考试成功。`for langsomt` 是过慢，`meget langsomt` 只是很慢，评价含义不同。"
+        },
+        {
+            "id": "U28-C041",
+            "zh": "对许多丹麦小岛来说，渡轮至今仍是通往外界的唯一交通连接。对岛民而言，渡轮时刻表直接决定着他们能否赶上本土的看病预约或晚班工作。",
+            "grammar": "两个并列主句均以前置的 `for` 介词短语说明受影响对象。`afgørende for, om ...` 使用形容词加介词及间接疑问从句，表示某事对能否实现目标具有决定性影响。`nå et lægebesøg eller en aftenvagt` 中 `nå` 表示来得及参加。",
+            "vocabulary": [
+                {
+                    "da": "en færge",
+                    "zh": "渡轮"
+                },
+                {
+                    "da": "en øbo",
+                    "zh": "岛民；岛上居民"
+                },
+                {
+                    "da": "afgørende for",
+                    "zh": "对……至关重要；具有决定性作用"
+                },
+                {
+                    "da": "nå et lægebesøg",
+                    "zh": "赶上看病预约"
+                },
+                {
+                    "da": "en aftenvagt",
+                    "zh": "晚班工作；晚间值班"
+                },
+                {
+                    "da": "fastlandet",
+                    "zh": "大陆本土；主陆地"
+                }
+            ],
+            "nuance": "作者从旅游中的渡轮转向岛民的日常生活。对游客而言，时刻表可能只是旅行安排；对岛民而言，它关系到医疗和工作机会。`afgørende` 特别突出公共交通作为社会基础设施的作用。",
+            "transfer": [
+                "Færgen er den eneste forbindelse til øen.",
+                "Køreplanen er afgørende for øboerne.",
+                "Jeg skal nå en aftale på fastlandet."
+            ],
+            "pitfall": "`nå et lægebesøg` 不是达到一次看病，而是赶得上预约。`for øboerne` 在这里是对岛民而言，不是为了岛民而建造。"
+        },
+        {
+            "id": "U28-C042",
+            "zh": "下午四点刚过，从斯文堡驶来的渡轮缓缓靠近埃勒斯克宾港，最终停靠在码头边。",
+            "grammar": "`Klokken er lidt over fire` 说明当前时间。`da færgen ... glider ind mod ...` 是时间从句，描述此时正在发生的靠港动作。`glide ind mod` 强调平稳靠近，`lægge til kaj` 表示最终靠泊，两个动词共同推进动作。",
+            "vocabulary": [
+                {
+                    "da": "lidt over fire",
+                    "zh": "四点刚过"
+                },
+                {
+                    "da": "glide ind mod",
+                    "zh": "平稳驶向；缓缓靠近"
+                },
+                {
+                    "da": "en havn",
+                    "zh": "港口"
+                },
+                {
+                    "da": "lægge til kaj",
+                    "zh": "靠码头；停靠"
+                },
+                {
+                    "da": "en kaj",
+                    "zh": "码头；岸边泊位"
+                }
+            ],
+            "nuance": "`glider` 赋予渡轮靠港过程一种平稳、安静的画面感。`lægger til kaj` 则是准确的航运动作术语。作者用现在时增强现场叙述感。",
+            "transfer": [
+                "Færgen lægger til kaj klokken fire.",
+                "Skibet glider langsomt ind mod havnen.",
+                "Vi ankommer til Ærøskøbing om lidt."
+            ],
+            "pitfall": "`lægge til kaj` 是固定航运搭配，不是把某物放在码头上。`lidt over fire` 是四点多一点，不是四点差一点。"
+        },
+        {
+            "id": "U28-C043",
+            "zh": "妈妈：大家的东西都带齐了吗？行李箱、背包，还有装着午餐便当的袋子？",
+            "grammar": "`Har alle deres ting?` 使用一般疑问句结构，意思是每个人是否都带好了自己的物品。后面的三个名词短语是省略式列举，用来核对具体行李。`med madpakker` 修饰袋子里的内容。",
+            "vocabulary": [
+                {
+                    "da": "have sine ting",
+                    "zh": "带好自己的东西"
+                },
+                {
+                    "da": "en kuffert",
+                    "zh": "行李箱"
+                },
+                {
+                    "da": "en rygsæk",
+                    "zh": "双肩背包"
+                },
+                {
+                    "da": "en pose",
+                    "zh": "袋子"
+                },
+                {
+                    "da": "en madpakke",
+                    "zh": "自带便当；打包好的午餐"
+                }
+            ],
+            "nuance": "这是非常典型的家庭旅行场景。妈妈用一个总括问题加几个具体物品进行检查，体现准备下船时的忙乱。`madpakker` 具有丹麦日常生活特色，通常指事先准备并带在身边的餐食。",
+            "transfer": [
+                "Har alle deres ting?",
+                "Husk kufferten og rygsækkene.",
+                "Hvor er posen med madpakker?"
+            ],
+            "pitfall": "`madpakke` 不等于外卖，也不一定是需要加热的盒饭。`deres` 此处表示大家各自的物品。"
+        },
+        {
+            "id": "U28-C044",
+            "zh": "儿子：从斯文堡出发以后，我就一直没看到我的夹克了。",
+            "grammar": "`har ikke set` 是现在完成时，否定过去某个时间点以来一直未发生的看见行为。`siden Svendborg` 是省略性的时间起点表达，实际指从斯文堡出发之后。",
+            "vocabulary": [
+                {
+                    "da": "ikke have set",
+                    "zh": "一直没有看到"
+                },
+                {
+                    "da": "siden",
+                    "zh": "自……以来"
+                },
+                {
+                    "da": "en jakke",
+                    "zh": "夹克；外套"
+                }
+            ],
+            "nuance": "儿子并没有直接断言衣服丢了，而是描述自己最后一次见到衣服的时间地点。这样的表达在寻找遗失物品时更加准确。",
+            "transfer": [
+                "Jeg har ikke set min jakke siden i morges.",
+                "Hvornår så du den sidst?",
+                "Jeg tror, jeg har glemt min jakke."
+            ],
+            "pitfall": "`siden` 表示从某个时间起持续到现在，常与现在完成时搭配。`har ikke set` 不等于衣服已经确定遗失。"
+        },
+        {
+            "id": "U28-C045",
+            "zh": "爸爸：就在后座上。快点，我们得下去到车那边了。",
+            "grammar": "`Den` 回指夹克，`ligger på bagsædet` 表示位置。`Kom nu` 是命令式加语气小品词 `nu`，催促对方行动。`skal ned til bilen` 中 `ned` 表示向较低位置移动，结合渡轮场景可理解为前往下层车辆甲板。",
+            "vocabulary": [
+                {
+                    "da": "et bagsæde",
+                    "zh": "后座"
+                },
+                {
+                    "da": "kom nu",
+                    "zh": "快点；来吧",
+                    "note": "`nu` 可增强催促或劝说"
+                },
+                {
+                    "da": "ned til",
+                    "zh": "下去到……；往下方某处去"
+                }
+            ],
+            "nuance": "爸爸先解决夹克位置的问题，再催促大家前往汽车。`Kom nu` 是家庭成员之间自然的口语催促，具体可能显得耐心或不耐烦，取决于语调。",
+            "transfer": [
+                "Den ligger på bagsædet.",
+                "Kom nu, vi skal afsted.",
+                "Vi skal ned til bilen."
+            ],
+            "pitfall": "`ned til bilen` 中的 `ned` 有具体空间方向，不能理解为汽车往下行驶。`kom nu` 的 `nu` 并不总表示精确的此刻。"
+        },
+        {
+            "id": "U28-C046",
+            "zh": "女儿：离度假屋还有多远？",
+            "grammar": "`Hvor langt er der til ...?` 是询问距离的固定句型。`der` 属于表示距离存在的结构，不指某个具体地点。",
+            "vocabulary": [
+                {
+                    "da": "hvor langt er der til ...?",
+                    "zh": "到……还有多远？"
+                },
+                {
+                    "da": "et sommerhus",
+                    "zh": "度假屋"
+                }
+            ],
+            "nuance": "在旅行对话中，这个问题既可以询问实际公里数，也可以期待对方回答大约需要多长时间。",
+            "transfer": [
+                "Hvor langt er der til stationen?",
+                "Hvor langt er der til sommerhuset?",
+                "Hvor lang tid tager det at køre derhen?"
+            ],
+            "pitfall": "`Hvor langt` 询问距离，`Hvor lang tid` 询问耗时，二者不能混用。"
+        },
+        {
+            "id": "U28-C047",
+            "zh": "妈妈：不算远。整座岛也就大约30公里长。",
+            "grammar": "`Ikke så langt` 是省略式回答，完整含义为距离并不是特别远。`Hele øen` 强调整座岛。`omkring 30 kilometer lang` 使用数量加形容词结构说明长度。",
+            "vocabulary": [
+                {
+                    "da": "ikke så langt",
+                    "zh": "不算太远"
+                },
+                {
+                    "da": "hele øen",
+                    "zh": "整座岛"
+                },
+                {
+                    "da": "omkring",
+                    "zh": "大约；左右"
+                },
+                {
+                    "da": "kilometer lang",
+                    "zh": "长……公里"
+                }
+            ],
+            "nuance": "妈妈没有给出从港口到度假屋的精确路线距离，而是用整座岛的长度安慰孩子，暗示接下来不会有特别漫长的车程。`kun` 表示只有，带有轻描淡写的安抚作用。",
+            "transfer": [
+                "Det er ikke så langt.",
+                "Øen er omkring 30 kilometer lang.",
+                "Der er kun ti kilometer tilbage."
+            ],
+            "pitfall": "`30 kilometer lang` 是长度，不是面积。整座岛长约30公里，并不意味着港口到度假屋恰好有30公里。"
+        },
+        {
+            "id": "U28-C048",
+            "zh": "学校假期期间，机场通常格外繁忙；只要有一班飞机延误，就可能让几百名度假旅客滞留在出发大厅里。",
+            "grammar": "`i skoleferierne` 是时间状语。第二主句采用 `en forsinket afgang kan sende ...`，其中 `sende nogen ud på gulvet` 在此描写旅客被迫聚集或滞留在候机区域的结果。`hundredvis af` 表示数以百计的数量。",
+            "vocabulary": [
+                {
+                    "da": "en skoleferie",
+                    "zh": "学校假期"
+                },
+                {
+                    "da": "en afgang",
+                    "zh": "出发班次；航班起飞",
+                    "note": "相对词 `en ankomst` 到达"
+                },
+                {
+                    "da": "forsinket",
+                    "zh": "延误的；晚点的"
+                },
+                {
+                    "da": "hundredvis af",
+                    "zh": "数以百计的"
+                },
+                {
+                    "da": "en afgangshal",
+                    "zh": "机场出发大厅"
+                }
+            ],
+            "nuance": "作者通过单个航班延误影响数百名旅客，突出节假日机场运行的连锁效应。`ud på gulvet` 具有形象化效果，描写旅客被迫聚集在候机大厅的公共空间，并不意味着他们真的被推倒在地。",
+            "transfer": [
+                "Lufthavnene er travle i skoleferierne.",
+                "Flyafgangen er forsinket.",
+                "Hundredvis af passagerer venter i afgangshallen."
+            ],
+            "pitfall": "`afgang` 是出发，`ankomst` 是到达。`hundredvis af` 表示大致规模，不是精确的一百人。"
+        },
+        {
+            "id": "U28-C049",
+            "zh": "广播通知：飞往马拉加的航班预计延误约45分钟。由此给您带来的不便，我们深表歉意。",
+            "grammar": "`være forsinket med + 时间` 表示延误了多长时间。`beklage ulejligheden` 是正式服务场景中的固定致歉表达。两句均采用简洁、标准的公共广播语体。",
+            "vocabulary": [
+                {
+                    "da": "være forsinket med",
+                    "zh": "延误了……时间"
+                },
+                {
+                    "da": "cirka",
+                    "zh": "大约",
+                    "note": "常缩写为 `ca.`"
+                },
+                {
+                    "da": "beklage",
+                    "zh": "表示遗憾；致歉"
+                },
+                {
+                    "da": "en ulejlighed",
+                    "zh": "不便；麻烦",
+                    "note": "`Vi beklager ulejligheden` 是正式致歉套语"
+                }
+            ],
+            "nuance": "这是机场、铁路和其他公共服务中常见的标准公告风格。`cirka` 说明延误时长仍是估计值，而不是保证飞机恰好晚45分钟。",
+            "transfer": [
+                "Flyet er forsinket med 45 minutter.",
+                "Vi beklager ulejligheden.",
+                "Afgangen forventes forsinket."
+            ],
+            "pitfall": "`forsinket med 45 minutter` 是延误45分钟，不能与 `afgår om 45 minutter` 再过45分钟出发混淆。"
+        },
+        {
+            "id": "U28-C050",
+            "zh": "另一些人则选择在丹麦国内度假：他们会在西海岸租一间度假屋、带着帐篷去露营，或骑自行车环游博恩霍尔姆岛。",
+            "grammar": "`Andre` 是形容词名词化，指其他人。`holde ferie i Danmark` 是固定表达。冒号后有三个并列谓语 `lejer`、`tager` 和 `cykler`，列举不同度假方式。`rundt på Bornholm` 表示在博恩霍尔姆岛各处骑行。",
+            "vocabulary": [
+                {
+                    "da": "holde ferie",
+                    "zh": "度假；休假"
+                },
+                {
+                    "da": "leje et sommerhus",
+                    "zh": "租一间度假屋"
+                },
+                {
+                    "da": "Vestkysten",
+                    "zh": "西海岸",
+                    "note": "在丹麦旅游语境中通常指日德兰半岛的西部海岸"
+                },
+                {
+                    "da": "tage på campingtur",
+                    "zh": "去露营"
+                },
+                {
+                    "da": "cykle rundt",
+                    "zh": "四处骑车；骑车游览"
+                }
+            ],
+            "nuance": "作者通过三个具体例子展示丹麦国内度假方式的多样性。相比国际航班旅行，这些活动更加突出自然风景、短途出行和户外体验。`Andre` 连接上一段出国度假的旅客，形成对照。",
+            "transfer": [
+                "Vi holder ferie i Danmark i år.",
+                "Vi har lejet et sommerhus ved Vestkysten.",
+                "Vi vil cykle rundt på Bornholm."
+            ],
+            "pitfall": "`holde ferie` 不是把假期握住。`på Bornholm` 使用 `på`，因为 Bornholm 是岛屿。`tage på campingtur` 不等于仅仅携带帐篷。"
+        },
+        {
+            "id": "U28-C051",
+            "zh": "来丹麦旅游的人也越来越多。到了夏天，在首都最热门的几条街道上，有时甚至很难穿过拥挤的人群。",
+            "grammar": "`Der kommer ... turister` 使用存在呈现结构，强调游客数量增加。`flere og flere` 是递增比较表达。第二主句以地点状语 `i de mest populære gader ...` 开头，后接 `kan det ... være svært`，其中 `det` 是形式主语，真正被评价的行为是 `at komme frem`。",
+            "vocabulary": [
+                {
+                    "da": "flere og flere",
+                    "zh": "越来越多的"
+                },
+                {
+                    "da": "populær",
+                    "zh": "受欢迎的；热门的"
+                },
+                {
+                    "da": "komme frem",
+                    "zh": "通过；前进；抵达目的地",
+                    "note": "这里强调在人群中向前移动"
+                },
+                {
+                    "da": "om sommeren",
+                    "zh": "在夏季；每逢夏天"
+                }
+            ],
+            "nuance": "作者从旅游经济的积极一面转向热门城市空间中的拥挤问题。`komme frem` 是非常实用的交通表达，可用于道路受阻、行人拥挤或交通延误，并不总表示抵达最终目的地。",
+            "transfer": [
+                "Der kommer flere og flere turister til byen.",
+                "Det er svært at komme frem i myldretiden.",
+                "Om sommeren er gaderne fulde af mennesker."
+            ],
+            "pitfall": "`komme frem` 不是单纯向前走，而是成功通过或到达。`flere og flere` 修饰可数名词；不可数名词通常使用 `mere og mere`。"
+        },
+        {
+            "id": "U28-C052",
+            "zh": "游客：不好意思，请问去火车站怎么走？",
+            "grammar": "`Undskyld` 用于礼貌地引起陌生人注意。`Hvordan kommer jeg til ...?` 是询问路线的固定句型，`komme til` 表示到达某个目的地。",
+            "vocabulary": [
+                {
+                    "da": "undskyld",
+                    "zh": "不好意思；打扰一下"
+                },
+                {
+                    "da": "hvordan kommer jeg til ...?",
+                    "zh": "我怎么去……？"
+                },
+                {
+                    "da": "en banegård",
+                    "zh": "火车站；铁路车站"
+                }
+            ],
+            "nuance": "这是陌生人问路时非常自然、礼貌的开场。`Undskyld` 在这里不是因为做错事而道歉，而是表示打扰一下。",
+            "transfer": [
+                "Undskyld, hvordan kommer jeg til stationen?",
+                "Kan du fortælle mig vejen til banegården?",
+                "Er der langt til stationen?"
+            ],
+            "pitfall": "`Undskyld` 可用于道歉，也可用于引起注意。`hvordan kommer jeg til` 是路线问题，不是询问怎样才能获得火车站。"
+        },
+        {
+            "id": "U28-C053",
+            "zh": "阿玛莉：一直往前走，到红绿灯路口左转，然后再走大约200米，火车站就在右手边。",
+            "grammar": "`Gå` 和 `drej` 是两个并列命令式，依次说明行动步骤。`og så ligger den` 中 `så` 表示接下来，触发主句 V2 语序。`den` 回指 `banegården`。`på højre hånd` 是固定方位表达。`efter cirka 200 meter` 表示走过约200米之后。",
+            "vocabulary": [
+                {
+                    "da": "gå ligeud",
+                    "zh": "一直往前走"
+                },
+                {
+                    "da": "et lyskryds",
+                    "zh": "红绿灯路口"
+                },
+                {
+                    "da": "dreje til venstre",
+                    "zh": "向左转"
+                },
+                {
+                    "da": "på højre hånd",
+                    "zh": "在右手边"
+                },
+                {
+                    "da": "efter cirka 200 meter",
+                    "zh": "约200米之后"
+                }
+            ],
+            "nuance": "整句话是实用性很高的丹麦语指路模板：先走多远、在哪里转弯、最终目标位于哪一侧。`og så` 让步骤衔接自然。`ligger` 用于描述建筑或地点位置，而不是表示某人躺着。",
+            "transfer": [
+                "Gå ligeud til lyskrydset.",
+                "Drej til venstre, og så ligger stationen på højre hånd.",
+                "Efter cirka 200 meter kan du se bygningen."
+            ],
+            "pitfall": "`på højre hånd` 是固定方位表达，不能机械译成站在右手上。`og så ligger den` 需要 V2 语序，不能写成 `og så den ligger`。"
+        },
+        {
+            "id": "U28-C054",
+            "zh": "游客：走过去远吗？",
+            "grammar": "`Er det langt at gå?` 使用形式主语 `det`，后面的 `at gå` 说明所评估的活动。`langt` 在这里表示步行距离或实际步行负担。",
+            "vocabulary": [
+                {
+                    "da": "være langt at gå",
+                    "zh": "步行距离远；走起来远"
+                }
+            ],
+            "nuance": "游客没有要求精确的公里数，只想判断是否适合步行。丹麦语中这种以 `det` 开头的简短询问十分自然。",
+            "transfer": [
+                "Er det langt at gå?",
+                "Kan man gå derhen?",
+                "Hvor lang tid tager det at gå?"
+            ],
+            "pitfall": "`langt` 表示距离远，`længe` 表示持续时间长。"
+        },
+        {
+            "id": "U28-C055",
+            "zh": "阿玛莉：五分钟吧。要是走快点，三分钟就到了。",
+            "grammar": "`Fem minutter` 是省略式回答，省去完整谓语。`hvis du skynder dig` 是条件从句，表示如果你加快行动。第二句省略了 `det tager` 等可从上下文恢复的内容。",
+            "vocabulary": [
+                {
+                    "da": "skynde sig",
+                    "zh": "赶快；加快速度",
+                    "note": "反身动词"
+                },
+                {
+                    "da": "hvis du skynder dig",
+                    "zh": "如果你走快一点；如果你赶时间"
+                }
+            ],
+            "nuance": "阿玛莉给出了两个不同的步行时间，语气轻松，稍带幽默。`hvis du skynder dig` 暗示三分钟属于快步走的估计，而不是一般步行速度。",
+            "transfer": [
+                "Det tager fem minutter at gå.",
+                "Du kan nå det på tre minutter, hvis du skynder dig.",
+                "Skynd dig, hvis du vil nå toget."
+            ],
+            "pitfall": "`skynde sig` 必须保留反身代词。`på tre minutter` 表示三分钟内完成，`i tre minutter` 通常表示持续三分钟。"
+        },
+        {
+            "id": "U28-C056",
+            "zh": "游客：谢谢！",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "tak",
+                    "zh": "谢谢"
+                }
+            ],
+            "nuance": "简单自然的感谢，在得到问路帮助后使用即可，不需要更复杂的正式措辞。",
+            "transfer": [
+                "Tak for hjælpen!",
+                "Mange tak!"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U28-C057",
+            "zh": "阿玛莉：不客气。一路顺利！",
+            "grammar": "`Selv tak` 是固定礼貌回应。`God tur` 是省略式祝愿句，完整含义为祝你旅途愉快或一路顺利。",
+            "vocabulary": [
+                {
+                    "da": "selv tak",
+                    "zh": "不客气；彼此彼此"
+                },
+                {
+                    "da": "god tur",
+                    "zh": "一路顺利；旅途愉快"
+                }
+            ],
+            "nuance": "`Selv tak` 是丹麦人回应感谢时很自然的说法。`God tur` 不仅适用于长途旅游，也可以在别人即将继续步行、骑车或乘车时使用。",
+            "transfer": [
+                "Selv tak. God tur!",
+                "God rejse!",
+                "Hav en god dag!"
+            ],
+            "pitfall": "`Selv tak` 不应按字面译为自己谢谢。"
+        },
+        {
+            "id": "U28-C058",
+            "zh": "许多乘飞机抵达比隆的旅客，会租一辆车继续接下来的行程。",
+            "grammar": "`Mange, der lander i Billund` 是泛指人群加关系从句的结构。`kører videre` 表示继续行程。`i en lejet bil` 说明所使用的交通工具，`lejet` 是过去分词作形容词。",
+            "vocabulary": [
+                {
+                    "da": "lande",
+                    "zh": "降落；抵达机场"
+                },
+                {
+                    "da": "køre videre",
+                    "zh": "继续开车；继续行程"
+                },
+                {
+                    "da": "en lejet bil",
+                    "zh": "租来的汽车"
+                },
+                {
+                    "da": "leje en bil",
+                    "zh": "租车"
+                }
+            ],
+            "nuance": "作者从公共交通和步行转向机场租车场景。比隆作为抵达地点，与之后继续驾车形成衔接。`videre` 强调旅程尚未结束，机场只是中转节点。",
+            "transfer": [
+                "Vi lander i Billund og kører videre.",
+                "Mange vælger at leje en bil i lufthavnen.",
+                "Vi fortsætter turen i en lejet bil."
+            ],
+            "pitfall": "`lande` 在航空语境是降落，不是获得土地。`videre` 表示继续向后进行，不等于返回。"
+        },
+        {
+            "id": "U28-C059",
+            "zh": "工作人员：欢迎来到比隆。您有预订吗？",
+            "grammar": "`Velkommen til` 是固定欢迎表达。`Har du en reservation?` 是一般疑问句，确认顾客是否事先预订。",
+            "vocabulary": [
+                {
+                    "da": "velkommen til",
+                    "zh": "欢迎来到……"
+                },
+                {
+                    "da": "en reservation",
+                    "zh": "预订；预留记录"
+                }
+            ],
+            "nuance": "工作人员的语气专业而友好。丹麦服务业中使用 `du` 对顾客说话通常是正常、自然的，并不必然表示不够礼貌。",
+            "transfer": [
+                "Velkommen til Billund.",
+                "Har du en reservation?",
+                "Har du reserveret en bil?"
+            ],
+            "pitfall": "`reservation` 是预订，不是表示保留意见的抽象态度；虽同源，具体含义依场景而定。"
+        },
+        {
+            "id": "U28-C060",
+            "zh": "莫滕：有的，预订人是莫滕·汉森。一辆旅行车，租五天。",
+            "grammar": "`i navnet Morten Hansen` 是省略式说明，表示预订登记在这个名字下。`En stationcar i fem dage` 省略了动词，可理解为预订了一辆旅行车，租期五天。`i fem dage` 表示持续五天的租赁期限。",
+            "vocabulary": [
+                {
+                    "da": "i navnet",
+                    "zh": "以……的名字；登记在……名下"
+                },
+                {
+                    "da": "en stationcar",
+                    "zh": "旅行车"
+                },
+                {
+                    "da": "i fem dage",
+                    "zh": "连续五天；租期五天"
+                }
+            ],
+            "nuance": "这种高度省略的回答在租车、酒店入住和服务柜台十分自然，因为工作人员已经知道询问的是预订信息。顾客只需提供姓名、车型和期限。",
+            "transfer": [
+                "Jeg har en reservation i navnet Hansen.",
+                "Jeg har bestilt en stationcar i fem dage.",
+                "Reservationen står i mit navn."
+            ],
+            "pitfall": "`i fem dage` 表示持续五天，不能与 `om fem dage` 五天后混淆。`i navnet` 在此不表示代表某个人发言。"
+        },
+        {
+            "id": "U28-C061",
+            "zh": "工作人员：请稍等一下。找到了，在这里。您要不要购买全额保险保障？这样如果出了什么意外，就没有需要自行承担的免赔额。",
+            "grammar": "`Lige et øjeblik` 是省略式服务用语。`Vil du have ...?` 使用 `vil` 询问顾客意愿。`Så er der ingen selvrisiko` 中 `Så` 表示如果选择该保险，随之产生的结果。`hvis der sker noget` 是条件从句，以委婉方式表示可能发生事故或损失。",
+            "vocabulary": [
+                {
+                    "da": "lige et øjeblik",
+                    "zh": "请稍等一下"
+                },
+                {
+                    "da": "fuld forsikring",
+                    "zh": "全面保险保障；全额保险方案"
+                },
+                {
+                    "da": "en selvrisiko",
+                    "zh": "免赔额；保险事故中由投保人自行承担的金额"
+                },
+                {
+                    "da": "hvis der sker noget",
+                    "zh": "如果发生意外；如果出了什么事"
+                }
+            ],
+            "nuance": "这是典型的租车柜台保险销售话术。`ingen selvrisiko` 对顾客有吸引力，但并不等于保险在任何情况下、对任何损失都无限赔付。`hvis der sker noget` 是比较委婉的风险表达。",
+            "transfer": [
+                "Vil du have den fulde forsikring?",
+                "Så er der ingen selvrisiko.",
+                "Hvad sker der, hvis bilen bliver beskadiget?"
+            ],
+            "pitfall": "`selvrisiko` 不是驾驶人自己冒险的意愿，而是保险合同中的自付额。`fuld forsikring` 仍需查看具体保障和除外条款。"
+        },
+        {
+            "id": "U28-C062",
+            "zh": "莫滕：这要多少钱？",
+            "grammar": "`Hvad koster det?` 是询问价格的固定句型，`det` 指前面提出的保险方案。",
+            "vocabulary": [
+                {
+                    "da": "hvad koster det?",
+                    "zh": "这个多少钱？"
+                },
+                {
+                    "da": "koste",
+                    "zh": "花费；价格为"
+                }
+            ],
+            "nuance": "顾客没有直接接受或拒绝保险，而是先询问额外费用。这是正常的购买决策顺序。",
+            "transfer": [
+                "Hvad koster det om dagen?",
+                "Hvor meget koster forsikringen?",
+                "Er der ekstra gebyrer?"
+            ],
+            "pitfall": "`koste` 的主语通常是商品或服务，不能机械按英语花钱的主语方式翻译。"
+        },
+        {
+            "id": "U28-C063",
+            "zh": "工作人员：每天额外120丹麦克朗。",
+            "grammar": "省略式报价，省略了完整的 `Det koster ...`。`ekstra` 表示在原价格基础上增加，`om dagen` 表示每天。",
+            "vocabulary": [
+                {
+                    "da": "ekstra",
+                    "zh": "额外的；另外"
+                },
+                {
+                    "da": "om dagen",
+                    "zh": "每天；按天计算"
+                }
+            ],
+            "nuance": "工作人员直接给出每天的增量价格，而不是整个五天租期的总价。租车时这一点具有实际意义，因为附加保险通常按天计费。",
+            "transfer": [
+                "Det koster 120 kroner ekstra om dagen.",
+                "Er prisen inklusive forsikring?",
+                "Hvad bliver det i alt?"
+            ],
+            "pitfall": "`om dagen` 是每天，不是一天以后。`ekstra` 表示额外费用，不能误认为已包含在基础租金中。"
+        },
+        {
+            "id": "U28-C064",
+            "zh": "莫滕：不用了，谢谢，我的信用卡已经提供这方面的保险保障。还车时必须把油箱加满吗？",
+            "grammar": "`Nej tak` 是礼貌拒绝。`det dækker mit kreditkort` 将宾语 `det` 前置，因此采用 `dækker mit kreditkort` 的 V2 语序；这里 `dække` 指保险保障。`Skal den afleveres med fuld tank?` 使用情态动词与被动不定式，`den` 回指租来的汽车。",
+            "vocabulary": [
+                {
+                    "da": "nej tak",
+                    "zh": "不用了，谢谢"
+                },
+                {
+                    "da": "dække",
+                    "zh": "承保；提供保险保障"
+                },
+                {
+                    "da": "et kreditkort",
+                    "zh": "信用卡"
+                },
+                {
+                    "da": "aflevere bilen",
+                    "zh": "归还汽车"
+                },
+                {
+                    "da": "med fuld tank",
+                    "zh": "油箱加满的状态"
+                }
+            ],
+            "nuance": "莫滕说明自己已有信用卡保险，因此礼貌地拒绝额外保障，随后转向还车条件。`det dækker mit kreditkort` 是口语中简洁的表达，但现实中信用卡保险是否覆盖免赔额、何种车辆和哪些损失，需要依具体条款确认。",
+            "transfer": [
+                "Nej tak, det er dækket af mit kreditkort.",
+                "Skal bilen afleveres med fuld tank?",
+                "Jeg vil gerne vide, hvad forsikringen dækker."
+            ],
+            "pitfall": "`dækker` 不是信用卡把汽车盖住，而是保险保障。`med fuld tank` 指燃油加满，不等于电动车的充电要求。"
+        },
+        {
+            "id": "U28-C065",
+            "zh": "工作人员：是的。您开出停车场后，经过出口旁边那个环岛，右手边就有一座加油站。从加油站开回这里大概五分钟。",
+            "grammar": "`Når du passerer rundkørslen ved udkørslen` 是时间从句，说明经过某个地点时会看到什么。主句 `ligger der en tankstation` 使用地点呈现结构。`på højre hånd` 是方位状语。`Derfra er der fem minutter hertil` 用距离时间结构说明从加油站返回当前地点的行车时间。",
+            "vocabulary": [
+                {
+                    "da": "passere",
+                    "zh": "经过；通过"
+                },
+                {
+                    "da": "en rundkørsel",
+                    "zh": "环岛；环形交叉路口"
+                },
+                {
+                    "da": "en udkørsel",
+                    "zh": "出口；驶出通道"
+                },
+                {
+                    "da": "en tankstation",
+                    "zh": "加油站"
+                },
+                {
+                    "da": "derfra",
+                    "zh": "从那里"
+                },
+                {
+                    "da": "hertil",
+                    "zh": "到这里来；返回此处"
+                }
+            ],
+            "nuance": "工作人员不仅确认油箱必须加满，还主动提供附近加油站的路线。`Derfra ... hertil` 是很有价值的空间指向表达，明确以工作人员现在所在位置为返回终点。",
+            "transfer": [
+                "Når du passerer rundkørslen, ligger tankstationen på højre hånd.",
+                "Derfra tager det fem minutter at køre hertil.",
+                "Tank bilen op, før du afleverer den."
+            ],
+            "pitfall": "`derfra` 是从那里出发，`derhen` 是去那里，`hertil` 是到这里来。方向性副词必须分清。`rundkørsel` 是环岛，不是普通十字路口。"
+        },
+        {
+            "id": "U28-C066",
+            "zh": "莫滕：太好了。对了，如果我发现车身有一道划痕，该怎么办？",
+            "grammar": "`Perfekt` 是独立评价词，表示满意。`Og hvis jeg finder en ridse?` 是省略主句的条件问句，完整语义为如果发现划痕应该怎么处理。`finde` 在这里指发现某种问题，不是寻找并捡到物品。",
+            "vocabulary": [
+                {
+                    "da": "perfekt",
+                    "zh": "太好了；非常合适"
+                },
+                {
+                    "da": "en ridse",
+                    "zh": "划痕；刮痕",
+                    "note": "常用于汽车、玻璃、家具表面"
+                },
+                {
+                    "da": "finde",
+                    "zh": "发现；找到",
+                    "note": "此处强调检查时发现损伤"
+                }
+            ],
+            "nuance": "莫滕从加油问题转向车辆既有损伤记录，这是租车时很实际的风险意识。`Og hvis ...?` 作为单独条件问句在自然口语中十分常见。",
+            "transfer": [
+                "Hvad gør jeg, hvis jeg finder en ridse?",
+                "Der er en ridse på døren.",
+                "Jeg vil gerne dokumentere skaden."
+            ],
+            "pitfall": "`en ridse` 是划痕，不等于较严重的 `en bule` 凹痕。这里的 `finder` 是发现，不是捡拾。"
+        },
+        {
+            "id": "U28-C067",
+            "zh": "工作人员：那就在开车离开之前先拍张照片，等您回来以后我们再处理。",
+            "grammar": "`Så tag` 中 `Så` 表示在这种情况下，后接命令式 `tag`。`før du kører afsted` 是时间从句，限定拍照必须发生在出发之前。第二个 `så` 引出后续处理安排，主句采用 `ordner vi` 的 V2 语序。`når du kommer tilbage` 是时间从句。",
+            "vocabulary": [
+                {
+                    "da": "tage et billede af",
+                    "zh": "给……拍照"
+                },
+                {
+                    "da": "køre afsted",
+                    "zh": "开车出发；驶离"
+                },
+                {
+                    "da": "ordne noget",
+                    "zh": "处理；安排妥当；解决"
+                },
+                {
+                    "da": "komme tilbage",
+                    "zh": "回来；返回"
+                }
+            ],
+            "nuance": "工作人员建议在取车之前记录已有划痕，核心目的是保留车辆交接时的证据，避免之后出现损伤责任争议。`så ordner vi det` 是比较宽泛的处理承诺，并没有具体说明将采取什么操作。",
+            "transfer": [
+                "Tag et billede af skaden, før du kører.",
+                "Så ordner vi det, når du kommer tilbage.",
+                "Det er vigtigt at dokumentere ridser på forhånd."
+            ],
+            "pitfall": "`tage et billede af` 的介词是 `af`。`ordne` 可以表示处理事务，但并不自动意味着免费维修或承认责任。"
+        },
+        {
+            "id": "U28-C068",
+            "zh": "居家办公让一些人减少了通勤次数；而另一些人则搬到了离城市更远的地方，因为他们每周只需要去办公室两三天。",
+            "grammar": "`Hjemmearbejde har fået nogle til at pendle sjældnere` 使用现在完成时的使役结构 `få nogen til at + 不定式`，表示居家办公导致部分人改变行为。`sjældnere` 是频率比较级。`mens` 引出另一群人的不同反应，`fordi` 进一步解释他们搬远的原因。`kun skal på kontoret` 中 `kun` 限定到办公室的频率。",
+            "vocabulary": [
+                {
+                    "da": "hjemmearbejde",
+                    "zh": "居家办公；在家工作"
+                },
+                {
+                    "da": "pendle",
+                    "zh": "通勤；往返居住地与工作地"
+                },
+                {
+                    "da": "sjældnere",
+                    "zh": "更少发生；频率更低",
+                    "note": "`sjældent` 的比较级"
+                },
+                {
+                    "da": "flytte længere væk",
+                    "zh": "搬到更远的地方"
+                },
+                {
+                    "da": "et par dage om ugen",
+                    "zh": "每周两三天左右",
+                    "note": "`et par` 通常指两个，也可在口语中作近似数量"
+                }
+            ],
+            "nuance": "作者指出远程办公可能带来两种不同效果：有人减少通勤，另一些人则因为不再需要每天进城而选择住得更远。这体现交通需求与居住区位选择之间的双向关系。`mens` 在这里不是单纯表示同时发生，而是强调不同人群的行为对照。",
+            "transfer": [
+                "Hjemmearbejde har fået mange til at pendle sjældnere.",
+                "Vi skal kun på kontoret et par dage om ugen.",
+                "Nogle flytter længere væk fra byen, fordi de arbejder hjemme."
+            ],
+            "pitfall": "`sjældnere` 表示频率降低，不一定表示每次通勤距离缩短。`længere væk` 表示距离更远，不能与 `længere tid` 更长时间混淆。"
+        },
+        {
+            "id": "U28-C069",
+            "zh": "这其中的一个原因是，交通不仅仅关乎如何从A地到达B地，更关乎我们希望过一种怎样的生活。",
+            "grammar": "`Det hænger blandt andet sammen med, at ...` 是正式说明原因或关联的固定结构。宾语从句内部使用 `ikke kun ... men ...`，将狭义的位移功能与更广泛的生活方式选择对照。`handle om` 在两处并列出现：`om at komme fra A til B` 和 `om, hvordan vi vil leve`。后一部分包含间接疑问从句 `hvordan vi vil leve`。",
+            "vocabulary": [
+                {
+                    "da": "hænge sammen med",
+                    "zh": "与……有关；与……存在联系"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括；部分原因是",
+                    "note": "表示解释并不穷尽"
+                },
+                {
+                    "da": "handle om",
+                    "zh": "关于；核心在于"
+                },
+                {
+                    "da": "fra A til B",
+                    "zh": "从A点到B点",
+                    "note": "可用于抽象或具体的出发点与目的地"
+                },
+                {
+                    "da": "hvordan vi vil leve",
+                    "zh": "我们想要怎样生活",
+                    "note": "适合城市规划、住房与社会政策讨论"
+                }
+            ],
+            "nuance": "这是全文的总结性论点。作者将骑行、公共交通、汽车、渡轮、旅游和居家办公统合为一个更广泛的问题：交通系统不仅是基础设施安排，也塑造居住地点、工作模式、日常时间分配和生活质量。`blandt andet` 使因果判断保持审慎，`ikke kun ... men ...` 则完成从技术问题到社会价值问题的提升。",
+            "transfer": [
+                "Det hænger blandt andet sammen med, at vores behov har ændret sig.",
+                "Transport handler ikke kun om at komme fra A til B.",
+                "Byplanlægning handler også om, hvordan vi vil leve.",
+                "Det er ikke kun et teknisk spørgsmål, men også et spørgsmål om livskvalitet."
+            ],
+            "pitfall": "`hænge sammen med` 不表示物理上挂在一起，而是存在关联。`handle om` 后可接名词、`at` 不定式或间接疑问从句。这里强调交通与生活方式的关系，不能简化成交通只用于提高出行效率。"
+        }
+    ]
+}

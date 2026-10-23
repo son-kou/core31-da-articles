@@ -1,0 +1,1133 @@
+{
+    "schema_version": 1,
+    "unit": "U21",
+    "part": "ALL",
+    "source_fingerprint": "U21-ALL-e6fba039d867",
+    "sentences": [
+        {
+            "id": "U21-C001",
+            "zh": "1800年前后，丹麦—挪威联合王国仍然是一个幅员辽阔的国家，在西印度群岛、印度和非洲拥有殖民地，还拥有欧洲规模最大的商船队之一。",
+            "grammar": "句首时间状语 `Omkring år 1800` 后接V2倒装 `var Danmark-Norge`。`stadig` 表示当时仍然保持着某种状态，为后文的衰落埋下伏笔。`et stort rige med ...` 使用 `med` 引出该国家拥有的殖民地和商船队。`en af Europas største handelsflåder` 是最高级集合结构，表示欧洲最大商船队中的一支，而非唯一最大者。",
+            "vocabulary": [
+                {
+                    "da": "omkring år 1800",
+                    "zh": "1800年前后",
+                    "note": "`omkring` 表示大约，不限定于1800年这一个年份"
+                },
+                {
+                    "da": "et rige",
+                    "zh": "王国、国家、疆域",
+                    "note": "常用于历史和君主制语境；复数 `riger`"
+                },
+                {
+                    "da": "en koloni",
+                    "zh": "殖民地",
+                    "note": "复数 `kolonier`；相关动词 `kolonisere`"
+                },
+                {
+                    "da": "en handelsflåde",
+                    "zh": "商船队、商船总队",
+                    "note": "由 `handel`（贸易）与 `flåde`（船队）构成"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、依旧",
+                    "note": "强调某种状态在特定时间点尚未改变"
+                }
+            ],
+            "nuance": "这是一种典型的历史叙述开场：先展示国家曾经的疆域、殖民地和海上贸易实力，再与随后发生的危机形成对比。`stadig` 是关键的篇章信号，暗示这种强盛状态即将终结。`Vestindien` 在这里指丹麦曾经拥有殖民地的加勒比地区，不是现代印度的西部。",
+            "transfer": [
+                "Omkring år 1900 var byen stadig et vigtigt handelscentrum.",
+                "Landet havde en af Europas største handelsflåder.",
+                "Dengang var Danmark et langt større rige end i dag."
+            ],
+            "pitfall": "`år 1800` 是公元1800年，不是19世纪的全部时间。`en af Europas største` 后接复数集合的含义，不要误译为欧洲唯一最大的。历史上的 `Vestindien` 与 `Indien` 是不同地理区域。"
+        },
+        {
+            "id": "U21-C002",
+            "zh": "然而，仅仅几十年后，这一切就几乎要土崩瓦解了。",
+            "grammar": "`Få årtier senere` 是前置时间状语，后接V2倒装 `var det hele`。核心结构 `være ved at + 不定式` 表示某事即将发生或正处于发生的边缘。`falde fra hinanden` 是固定动词短语，表示整体分崩离析。`det hele` 回指前句描述的国家实力与政治经济体系。",
+            "vocabulary": [
+                {
+                    "da": "få årtier senere",
+                    "zh": "仅仅几十年后",
+                    "note": "`et årti` 是十年；`få` 强调数量不多"
+                },
+                {
+                    "da": "være ved at gøre noget",
+                    "zh": "正要、眼看就要做某事",
+                    "note": "可用于正在发生或即将发生的变化"
+                },
+                {
+                    "da": "falde fra hinanden",
+                    "zh": "分崩离析、瓦解、散架",
+                    "note": "既能形容物体，也能形容组织、国家或关系"
+                },
+                {
+                    "da": "det hele",
+                    "zh": "这一切、整个局面",
+                    "note": "整体指代前文提到的多个方面"
+                }
+            ],
+            "nuance": "短句与上一句的宏大历史图景形成强烈反差。`det hele` 有意不重复殖民地、贸易、政治联合等细节，而是把它们概括为一个即将瓦解的整体。`var ved at` 比简单说 `faldt fra hinanden` 更有悬念，因为它描述的是濒临崩溃的局面，而不直接断言整个国家已经消失。",
+            "transfer": [
+                "Få år senere var situationen helt anderledes.",
+                "Samarbejdet var ved at falde fra hinanden.",
+                "Det hele var ved at gå galt."
+            ],
+            "pitfall": "`falde fra hinanden` 不是单纯的 `falde`（跌倒），而是整体失去凝聚力。`være ved at` 不表示有义务做某事，不能与 `være nødt til at` 混淆。"
+        },
+        {
+            "id": "U21-C003",
+            "zh": "1807年，英国人炮轰哥本哈根；1813年，丹麦国家财政破产；而在1814年签订的《基尔和约》中，国王被迫割让挪威。",
+            "grammar": "三个独立分句按照历史时间顺序并列。前两部分分别采用 `Englænderne bombarderede` 和 `staten gik bankerot` 的主谓结构。第三部分以 `ved freden i Kiel i 1814` 开头，因此采用V2倒装 `måtte kongen`。`måtte` 是 `må` 的过去时，在这里表示迫于外部形势不得不做某事。`afstå Norge` 是主动词组，表示放弃或割让领土。",
+            "vocabulary": [
+                {
+                    "da": "bombardere",
+                    "zh": "炮轰、轰炸",
+                    "note": "过去时 `bombarderede`；军事历史用语"
+                },
+                {
+                    "da": "gå bankerot",
+                    "zh": "破产、财政崩溃",
+                    "note": "固定搭配；用于国家时可指国家财政破产"
+                },
+                {
+                    "da": "en fred",
+                    "zh": "和平；和平协议",
+                    "note": "`freden i Kiel` 在这里指《基尔和约》"
+                },
+                {
+                    "da": "afstå noget",
+                    "zh": "放弃、割让某物",
+                    "note": "正式用语，常用于领土、权利和财产"
+                },
+                {
+                    "da": "måtte",
+                    "zh": "不得不、被迫",
+                    "note": "情态动词 `må` 的过去时，此处表达历史处境造成的必要性"
+                }
+            ],
+            "nuance": "作者将三个重大事件压缩成一个紧凑的历史年表：军事打击、财政危机和领土丧失。`måtte kongen afstå` 不只是说国王作出了一项选择，而是强调丹麦在战败和外交压力下不得不接受的结果。此类写法常见于历史教科书和背景介绍。",
+            "transfer": [
+                "Staten gik bankerot efter flere års krise.",
+                "Landet måtte afstå en del af sit territorium.",
+                "Ved fredsaftalen mistede landet store områder."
+            ],
+            "pitfall": "`gå bankerot` 是固定搭配，不能逐词理解为“走向银行”。`afstå` 在这里是割让、放弃，不等于一般的 `give`（给予）。`måtte` 并不总表示许可的过去时，也经常表示不得不。"
+        },
+        {
+            "id": "U21-C004",
+            "zh": "然而，偏偏就是这些动荡的年代，却成就了丹麦文化史上的黄金时代。",
+            "grammar": "`Alligevel` 前置，触发主句V2倒装 `blev netop disse år`。`blive + 名词短语` 在这里表示发展成为某种阶段或状态，并非被动。`netop` 强调“恰恰是这些年代”，突出时间上的反差。`en kulturel guldalder` 是表语，说明这一时期的文化性质。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此、然而还是",
+                    "note": "引出与前文预期相反的结果"
+                },
+                {
+                    "da": "netop",
+                    "zh": "恰恰、正是",
+                    "note": "用于强调某个具体对象或时间"
+                },
+                {
+                    "da": "en guldalder",
+                    "zh": "黄金时代",
+                    "note": "历史与文化艺术领域常用的比喻性术语"
+                },
+                {
+                    "da": "kulturel",
+                    "zh": "文化的、文化领域的",
+                    "note": "与政治、经济或军事领域区分"
+                }
+            ],
+            "nuance": "作者故意制造历史反讽：国家政治和经济不断受挫，文化领域却出现高度繁荣。`alligevel` 与 `netop` 相互配合，使转折尤其有力。这里的文化黄金时代并不是说这些年份在所有社会领域都值得赞美，而是专指文化艺术发展的突出成就。",
+            "transfer": [
+                "Alligevel blev perioden en kulturel guldalder.",
+                "Det var netop i denne periode, at nye ideer opstod.",
+                "På trods af krisen blomstrede kulturlivet."
+            ],
+            "pitfall": "`blev en guldalder` 是“成为黄金时代”，不是 `blive` 被动。`netop` 在这里不应简单译为时间副词“刚刚”，而是强调“恰恰”。"
+        },
+        {
+            "id": "U21-C005",
+            "zh": "在哥本哈根，安徒生创作了他的童话故事，而索伦·克尔凯郭尔则写下了自己的哲学著作。",
+            "grammar": "`I København` 作句首地点状语，后接V2倒装 `skrev H.C. Andersen`。后半部分 `Søren Kierkegaard sine filosofiske værker` 省略了与前面重复的谓语 `skrev`，属于并列结构中的动词省略。`sine` 是反身所有格，分别与两位作者各自的作品发生所有关系。",
+            "vocabulary": [
+                {
+                    "da": "et eventyr",
+                    "zh": "童话、奇幻故事",
+                    "note": "复数 `eventyr`，形式不变"
+                },
+                {
+                    "da": "et filosofisk værk",
+                    "zh": "哲学著作",
+                    "note": "`et værk` 指作品、著作；复数 `værker`"
+                },
+                {
+                    "da": "skrive",
+                    "zh": "写作、创作",
+                    "note": "过去时 `skrev`，过去分词 `skrevet`"
+                },
+                {
+                    "da": "sin / sit / sine",
+                    "zh": "自己的",
+                    "note": "反身所有格，按被拥有名词的性数选择形式"
+                }
+            ],
+            "nuance": "作者用两位极具代表性的文化人物说明上一句的文化黄金时代。一个代表文学童话创作，一个代表哲学思想。省略第二个 `skrev` 使表达更加凝练，具有书面历史叙述的节奏。",
+            "transfer": [
+                "H.C. Andersen skrev eventyr, og Kierkegaard skrev filosofiske værker.",
+                "Forfatteren udgav sine første værker i København.",
+                "I denne periode skrev han flere af sine vigtigste bøger."
+            ],
+            "pitfall": "`eventyr` 可以是童话，也可以是冒险经历，具体由语境决定。注意 `sine` 指各自主语的作品，不是两人共同拥有的作品。"
+        },
+        {
+            "id": "U21-C006",
+            "zh": "与此同时，丹麦农村也已经悄然经历了一场革命性的变革。",
+            "grammar": "`På landet` 是句首地点状语，后接V2结构 `var der ... sket`。`var sket` 是过去完成时，表示相对于叙述中的另一个过去时间点，变革已经发生。`der` 是形式主语，真正引入的新信息是 `en stille revolution`。`samtidig` 强调农村变化与前面描述的历史发展处于相近时期。",
+            "vocabulary": [
+                {
+                    "da": "på landet",
+                    "zh": "在乡村、农村地区",
+                    "note": "固定地点表达，与 `i byen` 对照"
+                },
+                {
+                    "da": "samtidig",
+                    "zh": "与此同时、同时",
+                    "note": "可用于时间上的并行，也可用于观点上的补充"
+                },
+                {
+                    "da": "ske",
+                    "zh": "发生",
+                    "note": "过去时 `skete`，过去分词 `sket`"
+                },
+                {
+                    "da": "en stille revolution",
+                    "zh": "一场悄然发生的革命性变革",
+                    "note": "比喻性表达，不一定涉及武装革命"
+                }
+            ],
+            "nuance": "`stille revolution` 是富有表现力的历史概括：变化虽然不像战争或政变那样剧烈可见，却深刻改变了社会结构。作者通过 `På landet` 将视角从哥本哈根的文化生活转向农村的土地和社会关系。",
+            "transfer": [
+                "På landet skete der store forandringer.",
+                "Der var samtidig sket en stille revolution.",
+                "Digitaliseringen har skabt en stille revolution i hverdagen."
+            ],
+            "pitfall": "`på landet` 是在农村，不能写成表示国家内部的普通 `i landet` 来表达相同意思。`var sket` 是过去完成时，不能简单当作被动语态。"
+        },
+        {
+            "id": "U21-C007",
+            "zh": "从十八世纪末开始，限制农民迁徙自由的农民束缚制度被废除，村庄原先共同耕作的田地得到重新划分，许多租佃农民也逐渐成为拥有自己土地的农场主。",
+            "grammar": "`Fra slutningen af 1700-tallet` 是前置时间状语。句子由三个并列分句构成：`blev stavnsbåndet ophævet`、`marker blev delt op` 和 `fæstebønder blev selvejere`。前两个是 `blive` 被动，强调制度被废除、土地被划分；第三个是 `blive + 名词`，表示身份转变，并非被动。`landsbyernes fælles marker` 使用复数所有格。",
+            "vocabulary": [
+                {
+                    "da": "stavnsbåndet",
+                    "zh": "农民束缚制度、限制部分农民迁徙的制度",
+                    "note": "丹麦历史上的特定制度，主要涉及一定年龄范围内的男性农村人口"
+                },
+                {
+                    "da": "ophæve",
+                    "zh": "废除、取消",
+                    "note": "常搭配法律、制度和禁令"
+                },
+                {
+                    "da": "dele noget op",
+                    "zh": "划分、分割某物",
+                    "note": "固定动词小品词结构"
+                },
+                {
+                    "da": "en fæstebonde",
+                    "zh": "租佃农民、佃农",
+                    "note": "在租佃关系下经营土地的农民"
+                },
+                {
+                    "da": "en selvejer",
+                    "zh": "自有产权者、自耕农",
+                    "note": "复数 `selvejere`；强调土地或农场归自己所有"
+                }
+            ],
+            "nuance": "三个并列结构展示农业改革的不同层面：人身与迁徙限制、土地经营方式以及土地所有权。`blev selvejere` 不应理解成所有农民在同一时间都成为土地所有者，而是概括改革推动的社会变化。`stavnsbåndet` 与十八世纪丹麦农村社会结构密切相关，是历史阅读中的专门词。",
+            "transfer": [
+                "Loven blev ophævet efter mange års debat.",
+                "Området blev delt op i mindre enheder.",
+                "Mange tidligere lejere blev senere selvejere."
+            ],
+            "pitfall": "`1700-tallet` 指十八世纪，不是十七世纪。`blev ophævet` 是被动，但 `blev selvejere` 是“成为自有产权者”，不能把所有 `blev` 都理解为被动。"
+        },
+        {
+            "id": "U21-C008",
+            "zh": "这些改革催生了一个由独立自耕农组成的社会阶层，而这个阶层后来将在丹麦政治中发挥重要作用。",
+            "grammar": "主句 `Reformerne skabte en klasse af ...` 说明改革所产生的社会结果。`der senere skulle få stor politisk betydning` 是关系从句，修饰前面的农民阶层。`skulle få` 属于从过去视角看未来的表达，表示当时尚未发生、后来才实现的政治影响，并非这里的义务或命令。",
+            "vocabulary": [
+                {
+                    "da": "en reform",
+                    "zh": "改革",
+                    "note": "复数 `reformer`"
+                },
+                {
+                    "da": "skabe",
+                    "zh": "创造、形成、催生",
+                    "note": "过去时 `skabte`，过去分词 `skabt`"
+                },
+                {
+                    "da": "en klasse",
+                    "zh": "阶层、社会阶级",
+                    "note": "本句是社会结构概念，不是学校班级"
+                },
+                {
+                    "da": "selvstændig",
+                    "zh": "独立的、自主经营的",
+                    "note": "用于农民时强调相对独立的经济地位"
+                },
+                {
+                    "da": "få stor politisk betydning",
+                    "zh": "获得重要政治影响力",
+                    "note": "固定搭配 `få betydning` 表示产生影响"
+                }
+            ],
+            "nuance": "作者不仅说明农业改革带来的经济变化，还为后面丹麦民主发展与合作社运动提供社会基础。`senere skulle få` 是历史叙述中很值得掌握的回顾式预示结构：站在过去的时间点，提前提示读者某种结果将在未来出现。",
+            "transfer": [
+                "Reformerne skabte nye muligheder for befolkningen.",
+                "Denne gruppe skulle senere få stor betydning.",
+                "Uddannelse fik stor politisk og økonomisk betydning."
+            ],
+            "pitfall": "`skulle` 不总是“应该、必须”。`skulle senere få` 在历史叙述中经常表示“后来将会产生”。`en klasse` 在这里是社会阶层，不是教室里的班级。"
+        },
+        {
+            "id": "U21-C009",
+            "zh": "1849年6月5日，弗雷德里克七世签署了丹麦宪法，至此，君主专制制度宣告结束。",
+            "grammar": "`Den 5. juni 1849` 前置为时间状语，后接V2倒装 `underskrev Frederik 7.`。`underskrive noget` 直接带宾语。第二分句以 `dermed` 开头，引出前一事件的制度性结果，并采用V2倒装 `var enevælden slut`。`slut` 是表语，表示一种状态已经结束。",
+            "vocabulary": [
+                {
+                    "da": "underskrive",
+                    "zh": "签署、签字",
+                    "note": "过去时 `underskrev`，过去分词 `underskrevet`"
+                },
+                {
+                    "da": "Grundloven",
+                    "zh": "丹麦宪法",
+                    "note": "丹麦宪法的正式称谓"
+                },
+                {
+                    "da": "enevælde",
+                    "zh": "君主专制、绝对君主制",
+                    "note": "en enevælde；历史政治制度用语"
+                },
+                {
+                    "da": "dermed",
+                    "zh": "由此、从而、至此",
+                    "note": "强调前述事件带来的结果"
+                },
+                {
+                    "da": "være slut",
+                    "zh": "结束、终结",
+                    "note": "状态性表达"
+                }
+            ],
+            "nuance": "这句话以具体日期和国王姓名标记丹麦宪政史上的转折。`dermed` 把签署宪法与君主专制结束建立直接的历史联系。作者没有在这里详细讨论新制度的民主参与范围，而是留待下一句指出其局限。",
+            "transfer": [
+                "Loven blev underskrevet den 5. juni.",
+                "Dermed var en vigtig periode i landets historie slut.",
+                "Grundloven markerede overgangen fra enevælde til konstitutionelt styre."
+            ],
+            "pitfall": "`Frederik 7.` 是弗雷德里克七世，不能按普通小数或日期读。`dermed` 表示结果，不能与单纯表示时间先后的 `derefter` 完全等同。"
+        },
+        {
+            "id": "U21-C010",
+            "zh": "但远不是所有人都获得了投票权：妇女、佣工，以及没有独立家庭户籍的贫困人口，都被排除在选举之外。",
+            "grammar": "`langt fra alle` 是强调性否定数量结构，表示远非所有人。`få lov til at stemme` 表示获准投票。冒号后具体列出被排除的群体。`var holdt ude` 是 `være + 过去分词` 的结果状态表达，说明这些群体处于被排除的状态；对应的主动表达是 `holde nogen ude`。",
+            "vocabulary": [
+                {
+                    "da": "langt fra alle",
+                    "zh": "远非所有人、绝不是人人",
+                    "note": "强烈限定范围的常见表达"
+                },
+                {
+                    "da": "få lov til at gøre noget",
+                    "zh": "获准做某事、得到做某事的许可",
+                    "note": "在政治制度语境中可涉及法定资格"
+                },
+                {
+                    "da": "tjenestefolk",
+                    "zh": "佣工、受雇于他人家庭或农场的仆役",
+                    "note": "历史社会阶层用语"
+                },
+                {
+                    "da": "en husstand",
+                    "zh": "家庭户、共同生活的住户",
+                    "note": "不完全等于家庭成员之间的亲属关系"
+                },
+                {
+                    "da": "holde nogen ude",
+                    "zh": "将某人排除在外",
+                    "note": "可用于制度、群体和社会参与"
+                }
+            ],
+            "nuance": "这一句对上一句的宪政胜利作出必要限定：君主专制结束不等于现代意义上的普遍选举权立即实现。`langt fra alle` 是作者最关键的修辞选择，既承认改革意义，也揭示当时的社会排斥。`var holdt ude` 比简单的 `kunne ikke stemme` 更突出制度性的排除。",
+            "transfer": [
+                "Langt fra alle havde stemmeret på det tidspunkt.",
+                "Mange grupper blev holdt ude af det politiske system.",
+                "Det var ikke alle, der fik lov til at deltage."
+            ],
+            "pitfall": "`langt fra alle` 不是“所有人都离得很远”，而是“远非所有人”。`få lov til` 表示获得许可，不一定表示个人愿意这样做。"
+        },
+        {
+            "id": "U21-C011",
+            "zh": "十五年后，丹麦与普鲁士和奥地利交战，并在1864年4月的迪伯尔战役中遭受了惨重失败。",
+            "grammar": "`Femten år senere` 前置，后接V2倒装 `førte Danmark`。`føre krig mod` 是正式的战争叙述表达。第二个并列谓语 `led` 与第一个共享主语 `Danmark`。`lide et nederlag` 是固定搭配，`knusende` 强调失败程度。`ved Dybbøl` 指具体战役地点。",
+            "vocabulary": [
+                {
+                    "da": "føre krig mod nogen",
+                    "zh": "与某方交战、对某方进行战争",
+                    "note": "历史、政治和军事语境中的正式表达"
+                },
+                {
+                    "da": "lide et nederlag",
+                    "zh": "遭受失败、战败",
+                    "note": "`lide` 过去时 `led`，过去分词 `lidt`"
+                },
+                {
+                    "da": "et knusende nederlag",
+                    "zh": "惨败、压倒性的失败",
+                    "note": "`knusende` 原本具有压碎、摧毁的形象意味"
+                },
+                {
+                    "da": "Dybbøl",
+                    "zh": "迪伯尔",
+                    "note": "1864年丹麦战争史上的重要战役地点"
+                },
+                {
+                    "da": "Preussen",
+                    "zh": "普鲁士",
+                    "note": "历史国家名称，不等同于现代德国的全部疆域"
+                }
+            ],
+            "nuance": "作者通过 `Femten år senere` 将1849年的宪政改革与1864年的军事危机连接起来，使历史叙述形成鲜明反差。`et knusende nederlag` 是强烈的评价性搭配，突显迪伯尔战败在丹麦集体历史记忆中的分量。",
+            "transfer": [
+                "Landet førte krig mod en stærkere modstander.",
+                "Hæren led et knusende nederlag.",
+                "Femten år senere ændrede situationen sig dramatisk."
+            ],
+            "pitfall": "`lede`（领导）的过去时是 `ledede`，而这里的 `led` 来自 `lide`（遭受）。两者形式相近，容易混淆。`føre krig mod` 的介词是 `mod`。"
+        },
+        {
+            "id": "U21-C012",
+            "zh": "在随后签订的和平协议中，丹麦被迫割让石勒苏益格、荷尔斯泰因和劳恩堡，从而失去了很大一部分领土和人口。",
+            "grammar": "`Ved freden` 前置为事件背景状语，后接V2倒装 `måtte landet`。`måtte afgive` 表示被迫交出或割让。随后并列的 `mistede` 与前面的情态动词结构共享主语。`dermed` 引出领土割让造成的结果。`en stor del af` 是数量范围结构，后面接两个并列名词 `sit område` 和 `sin befolkning`。",
+            "vocabulary": [
+                {
+                    "da": "afgive",
+                    "zh": "交出、让出、割让",
+                    "note": "过去时 `afgav`，过去分词 `afgivet`；可用于领土、权力、声明等"
+                },
+                {
+                    "da": "miste",
+                    "zh": "失去、丧失",
+                    "note": "过去时 `mistede`"
+                },
+                {
+                    "da": "dermed",
+                    "zh": "从而、由此",
+                    "note": "表达因果结果"
+                },
+                {
+                    "da": "et område",
+                    "zh": "地区、区域、领域",
+                    "note": "本句指国家领土"
+                },
+                {
+                    "da": "en befolkning",
+                    "zh": "人口、居民群体",
+                    "note": "可指一国、一个地区的居民整体"
+                }
+            ],
+            "nuance": "本句强调1864年失败带来的政治与人口后果。`måtte` 明确传达丹麦是在战败压力下接受条款，而不是自愿赠予领土。`dermed` 将三个地区的割让与国家规模缩减联系起来，体现历史说明文的因果组织方式。",
+            "transfer": [
+                "Landet måtte afgive store landområder.",
+                "Dermed mistede staten en betydelig del af sin befolkning.",
+                "Efter fredsaftalen blev grænsen ændret."
+            ],
+            "pitfall": "`afgive` 与 `opgive` 不同：前者可指交出或割让，后者通常表示放弃努力、计划或权利。`en stor del af` 是很大一部分，不等于全部。"
+        },
+        {
+            "id": "U21-C013",
+            "zh": "当时有一句广为人知的格言：“对外失去的，要从内部重新赢回来。”这句话后来尤其与日德兰荒原的开垦事业联系在一起。",
+            "grammar": "`Et kendt motto ... lyder` 用 `lyde` 引出格言的具体措辞。格言内部有省略性的被动对比结构：`Hvad udad tabes` 表示在外部失去的东西，`skal indad vindes` 表示应当在内部重新获得。`tabes` 和 `vindes` 都是s-被动，`udad` 与 `indad` 构成方向上的对偶。后半句 `det blev ... forbundet med` 使用 `blive` 被动，说明格言被赋予的历史关联。",
+            "vocabulary": [
+                {
+                    "da": "et motto",
+                    "zh": "格言、座右铭、口号",
+                    "note": "复数 `mottoer`"
+                },
+                {
+                    "da": "udad / indad",
+                    "zh": "向外／向内",
+                    "note": "抽象表达中可指对外关系与内部建设"
+                },
+                {
+                    "da": "forbinde noget med noget",
+                    "zh": "把某事与另一事联系起来",
+                    "note": "被动形式 `blive forbundet med`"
+                },
+                {
+                    "da": "opdyrkning",
+                    "zh": "开垦、将荒地开发为耕地",
+                    "note": "en opdyrkning；动词 `opdyrke`"
+                },
+                {
+                    "da": "en hede",
+                    "zh": "荒原、石南灌丛荒地",
+                    "note": "复数 `heder`；日德兰历史地貌与农业开发中的重要概念"
+                }
+            ],
+            "nuance": "格言利用 `udad` 与 `indad` 的对称关系，将军事领土损失转化为发展国内资源、经济和社会的动员思想。句中的 `blandt andet` 表明荒原开垦只是这一口号所关联的历史活动之一。格言本身具有浓厚的十九世纪修辞色彩，不能当作普通日常口语直接套用。",
+            "transfer": [
+                "Mottoet blev forbundet med en ny national strategi.",
+                "Efter nederlaget rettede landet opmærksomheden mod udvikling derhjemme.",
+                "Projektet blev blandt andet forbundet med opdyrkning af nye områder."
+            ],
+            "pitfall": "`hede` 在这里是荒原，不是形容词 `hed`（热的）的变化形式。`indad` 和 `udad` 属于方向副词，不能机械地理解成单纯的室内、室外位置。"
+        },
+        {
+            "id": "U21-C014",
+            "zh": "合作社运动从乳品加工厂扩展到屠宰厂、饲料合作组织和消费合作社；与此同时，丹麦农民也调整了农业生产结构，从以谷物为主转向生产黄油、培根和鸡蛋，并把这些产品出口到英国。",
+            "grammar": "第一分句 `Andelsbevægelsen bredte sig fra X til Y` 使用反身动词 `brede sig`，描述运动扩展的范围。第二分句 `danske bønder lagde om fra X til Y` 使用固定小品词结构 `lægge om`，表示改变生产方向。`som blev solgt til England` 是关系从句，主要指前面列举的农产品，使用 `blive` 被动说明销售目的地。",
+            "vocabulary": [
+                {
+                    "da": "andelsbevægelsen",
+                    "zh": "合作社运动",
+                    "note": "由成员共同拥有和经营的合作组织构成的重要历史经济运动"
+                },
+                {
+                    "da": "brede sig",
+                    "zh": "扩展、传播、蔓延",
+                    "note": "反身动词；过去时 `bredte sig`"
+                },
+                {
+                    "da": "et mejeri",
+                    "zh": "乳品加工厂、乳品企业",
+                    "note": "复数 `mejerier`"
+                },
+                {
+                    "da": "en brugsforening",
+                    "zh": "消费合作社",
+                    "note": "成员共同组织的零售或消费合作形式"
+                },
+                {
+                    "da": "lægge om fra X til Y",
+                    "zh": "从X转向Y、改变生产或经营模式",
+                    "note": "常用于农业、能源、经济结构和工作方式"
+                }
+            ],
+            "nuance": "这一句是理解丹麦农业现代化的重要材料。作者同时介绍了组织形式的改变与生产结构的调整：一方面合作社跨行业扩展，另一方面农业从谷物生产转向面向出口的畜产品。`lægge om` 在公共政策、产业转型和企业管理中都非常实用。这里不是说谷物可以直接变成黄油，而是指农业生产重点发生改变。",
+            "transfer": [
+                "Bevægelsen bredte sig fra landbruget til andre brancher.",
+                "Virksomheden lagde om fra traditionelle produkter til nye løsninger.",
+                "Produkterne blev solgt til udlandet."
+            ],
+            "pitfall": "`lægge om` 是调整方式或结构，`lægge op` 则有完全不同的含义。`en brugsforening` 不等于普通慈善协会，而是具有消费与经营合作性质的组织。"
+        },
+        {
+            "id": "U21-C015",
+            "zh": "1915年，妇女和佣工获得了选举权，宪法也随之修订，使得几乎所有成年人都有了投票资格。",
+            "grammar": "`I 1915` 前置为时间状语，后接V2倒装 `fik kvinder og tjenestefolk`。第二分句 `grundloven blev ændret` 是 `blive` 被动，突出宪法受到修改。`så næsten alle voksne kunne stemme` 是结果从句，说明修宪带来的权利变化。",
+            "vocabulary": [
+                {
+                    "da": "få valgret",
+                    "zh": "获得选举权",
+                    "note": "政治制度史中的核心搭配"
+                },
+                {
+                    "da": "ændre grundloven",
+                    "zh": "修改宪法",
+                    "note": "被动可说 `grundloven blev ændret`"
+                },
+                {
+                    "da": "næsten alle",
+                    "zh": "几乎所有人",
+                    "note": "保留尚有例外的含义"
+                },
+                {
+                    "da": "stemme",
+                    "zh": "投票",
+                    "note": "具体投票支持谁使用 `stemme på`"
+                }
+            ],
+            "nuance": "本句与1849年宪法确立时排除妇女和佣工的情形构成直接呼应，展示民主权利的逐步扩展。`næsten alle` 是重要限定：作者没有把1915年描写成所有成年人立即无条件获得完全相同的选举权。",
+            "transfer": [
+                "Kvinder fik valgret i 1915.",
+                "Grundloven blev ændret, så flere kunne stemme.",
+                "Reformen gav nye grupper politiske rettigheder."
+            ],
+            "pitfall": "`valgret` 是选举权，`stemmepligt` 是投票义务，不能混淆。`så` 在这里引导结果，不是表示“然后”的普通时间副词。"
+        },
+        {
+            "id": "U21-C016",
+            "zh": "1920年，原石勒苏益格公国的北部地区重新归入丹麦，今天被称为南日德兰；而南部地区则继续留在德国。",
+            "grammar": "`I 1920` 置于句首，主句采用V2倒装 `blev den nordlige del`。`blev genforenet med` 是 `blive` 被动，强调重新统一的历史事件；随后 `kaldes i dag` 使用s-被动，表达今天的名称。`mens den sydlige del forblev tysk` 是对比从句，此处 `mens` 不只是“与此同时”，还突出南北两部分的不同结果。",
+            "vocabulary": [
+                {
+                    "da": "et hertugdømme",
+                    "zh": "公国",
+                    "note": "历史政治实体"
+                },
+                {
+                    "da": "genforene",
+                    "zh": "重新统一、重新合并",
+                    "note": "过去分词 `genforenet`"
+                },
+                {
+                    "da": "kaldes",
+                    "zh": "被称为",
+                    "note": "s-被动形式"
+                },
+                {
+                    "da": "forblive",
+                    "zh": "继续保持、仍然处于某种状态",
+                    "note": "过去时 `forblev`，过去分词 `forblevet`"
+                },
+                {
+                    "da": "Sønderjylland",
+                    "zh": "南日德兰",
+                    "note": "丹麦南部与1920年重新统一历史密切相关的地区名称"
+                }
+            ],
+            "nuance": "作者用 `genforenet` 与 `forblev` 构成历史结果的鲜明对照：北部重新归入丹麦，南部仍属于德国。`mens` 在这里是C1阶段需要熟练掌握的对比性连接词。原文是简化的地区历史叙述，不应把今天的整个行政区划与1920年的历史边界完全等同。",
+            "transfer": [
+                "Den nordlige del blev genforenet med Danmark.",
+                "Området kaldes i dag Sønderjylland.",
+                "Den ene del blev dansk, mens den anden forblev tysk."
+            ],
+            "pitfall": "`genforene` 比 `forene` 多出“重新”的含义。`mens` 既能表示时间并行，也能表示对比，本句属于后者。`forblev` 是保持原状态，不是变成某种新状态。"
+        },
+        {
+            "id": "U21-C017",
+            "zh": "1940年4月9日，丹麦遭到德国占领，这场占领持续了五年。",
+            "grammar": "`Den 9. april 1940` 为前置时间状语，后接V2倒装 `blev Danmark`。`blev besat af Tyskland` 是过去时的 `blive` 被动，`af` 引出实施占领的国家。第二分句 `besættelsen varede i fem år` 用 `vare` 表示持续时间，并以 `i fem år` 说明历时五年。",
+            "vocabulary": [
+                {
+                    "da": "besætte",
+                    "zh": "占领、占据",
+                    "note": "过去时 `besatte`，过去分词 `besat`"
+                },
+                {
+                    "da": "en besættelse",
+                    "zh": "军事占领、占领时期",
+                    "note": "复数 `besættelser`"
+                },
+                {
+                    "da": "vare",
+                    "zh": "持续、历时",
+                    "note": "过去时 `varede`"
+                },
+                {
+                    "da": "i fem år",
+                    "zh": "持续五年",
+                    "note": "`i` 表示一段持续时间"
+                }
+            ],
+            "nuance": "这是一句简洁的历史事件说明。`blev besat` 强调占领的发生，而 `besættelsen varede` 将焦点转向整个占领时期。学习时应把 `besættelsen` 作为丹麦二战历史中的重要文化和政治关键词掌握。",
+            "transfer": [
+                "Landet blev besat under Anden Verdenskrig.",
+                "Besættelsen varede i fem år.",
+                "Krigen varede længere end forventet."
+            ],
+            "pitfall": "`besætte` 在军事语境中是占领，但在就业语境中 `en besat stilling` 可以指已经有人任职的岗位。`i fem år` 是持续五年，`om fem år` 是五年以后。"
+        },
+        {
+            "id": "U21-C018",
+            "zh": "战斗只持续了几个小时，丹麦政府选择继续留任，并与占领当局合作，以防止占领方完全接管国家的统治权。",
+            "grammar": "第一分句 `Kampene varede ...` 交代战斗时长。第二分句 `regeringen valgte at fortsætte og samarbejde` 中，两个不定式共享 `valgte at` 所表达的选择。`for at forhindre den i at overtage ...` 是目的结构，包含 `forhindre nogen i at gøre noget`。其中 `den` 回指 `besættelsesmagten`，`overtage styret` 表示接管治理权。",
+            "vocabulary": [
+                {
+                    "da": "vælge at gøre noget",
+                    "zh": "选择做某事",
+                    "note": "强调决策或采取某种路线"
+                },
+                {
+                    "da": "en besættelsesmagt",
+                    "zh": "占领国、占领当局",
+                    "note": "历史政治语境中的正式名词"
+                },
+                {
+                    "da": "forhindre nogen i at gøre noget",
+                    "zh": "阻止某人做某事",
+                    "note": "固定结构，介词 `i` 不能省略"
+                },
+                {
+                    "da": "overtage styret",
+                    "zh": "接管政权、全面掌握治理权",
+                    "note": "`overtage` 指接手、接管"
+                },
+                {
+                    "da": "helt",
+                    "zh": "完全、彻底",
+                    "note": "在这里限定接管的程度"
+                }
+            ],
+            "nuance": "这里概述丹麦二战初期的合作政策及其所宣称或追求的目标。`for at` 明确表达目的，但不能据此断言这一政策在所有方面均达成目标，也不能抹去其历史争议。语言学习上最重要的是 `forhindre nogen i at`，它可以用于公共政策、法律、工程和项目管理。",
+            "transfer": [
+                "Regeringen valgte at fortsætte samarbejdet.",
+                "Formålet var at forhindre modparten i at overtage kontrollen.",
+                "Vi forsøger at forhindre problemet i at udvikle sig."
+            ],
+            "pitfall": "`forhindre nogen i at` 的介词是 `i`，不是英语式的 `fra`。`den` 在这里指占领方，不是丹麦政府。`fortsætte` 在本句结合上下文表示政府继续留任。"
+        },
+        {
+            "id": "U21-C019",
+            "zh": "1943年10月，当丹麦境内的犹太人即将被驱逐出境的计划曝光后，成千上万名普通丹麦民众帮助他们横渡厄勒海峡，逃往瑞典。",
+            "grammar": "`Da ... kom frem` 是表示过去特定事件的时间从句。`det kom frem, at ...` 使用形式主语 `det`，后面的 `at` 从句才是真正被揭露的信息。`skulle deporteres` 是情态动词加s-被动，表示计划中的驱逐行为。整个时间从句前置后，主句采用V2倒装 `hjalp tusindvis af ...`。`hjælpe nogen over ... til ...` 表示帮助某人越过某个地理障碍到达目的地。",
+            "vocabulary": [
+                {
+                    "da": "komme frem",
+                    "zh": "被揭露、传出、为人所知",
+                    "note": "在 `det kom frem, at ...` 中表示某项信息曝光"
+                },
+                {
+                    "da": "deportere",
+                    "zh": "强制遣送、驱逐出境",
+                    "note": "过去分词 `deporteret`；历史和法律领域用语"
+                },
+                {
+                    "da": "tusindvis af",
+                    "zh": "成千上万的",
+                    "note": "表示数量级，而不是精确数字"
+                },
+                {
+                    "da": "almindelige danskere",
+                    "zh": "普通丹麦民众",
+                    "note": "`almindelig` 强调不是特殊身份的精英或官员"
+                },
+                {
+                    "da": "Øresund",
+                    "zh": "厄勒海峡",
+                    "note": "丹麦与瑞典之间的重要海峡"
+                }
+            ],
+            "nuance": "这是丹麦二战历史中的重要叙述。`tusindvis af almindelige danskere` 强调参与援助的不只是官方机构，也有大量普通民众。`skulle deporteres` 指当时计划实施的驱逐，而不是说所有人当时已经被驱逐。作者通过时间从句和随后的援助行动，将威胁与应对紧密联系起来。",
+            "transfer": [
+                "Det kom frem, at myndighederne havde planlagt en ny ordning.",
+                "Tusindvis af mennesker hjalp flygtningene.",
+                "De hjalp familierne over grænsen til et sikkert land."
+            ],
+            "pitfall": "`komme frem` 在这里是消息曝光，不是单纯向前移动。`skulle deporteres` 不能译成已经遭到驱逐。`tusindvis af` 后接复数名词，是不精确的大数量表达。"
+        },
+        {
+            "id": "U21-C020",
+            "zh": "1945年5月4日晚，当广播中传来丹麦获得解放的消息时，人们纷纷在窗前点起蜡烛。时至今日，许多人仍然保留着这一习俗。",
+            "grammar": "`Da befrielsen blev meddelt ...` 是前置时间从句，其中 `blev meddelt` 为 `blive` 被动，表示解放消息被宣布。主句采用V2倒装 `satte folk`。第二分句 `den skik holder mange fast i` 将宾语 `den skik` 前置，`holder` 位于主句第二位置；`holde fast i noget` 的介词 `i` 保留在句末。`den dag i dag` 是固定时间表达，表示直到今天。",
+            "vocabulary": [
+                {
+                    "da": "befrielse",
+                    "zh": "解放",
+                    "note": "en befrielse；丹麦二战历史中的重要概念"
+                },
+                {
+                    "da": "meddele",
+                    "zh": "宣布、通知",
+                    "note": "过去分词 `meddelt`；语体比 `fortælle` 更正式"
+                },
+                {
+                    "da": "levende lys",
+                    "zh": "点燃的蜡烛、烛光",
+                    "note": "常用于表达真实火焰的蜡烛，与电灯区分"
+                },
+                {
+                    "da": "holde fast i noget",
+                    "zh": "坚持、保留、不放弃某事",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "den dag i dag",
+                    "zh": "直到今天、时至今日",
+                    "note": "固定时间短语"
+                }
+            ],
+            "nuance": "句子说明一个历史时刻如何转化成持续至今的纪念传统。窗边点燃蜡烛既是当时庆祝解放的行为，也成为后来纪念解放的象征。`holder mange fast i` 重点在于人们主动延续这种做法，而非习俗自动存在。五月四日晚广播宣布解放消息与五月五日通常被称为解放日，是需要区分的两个时间点。",
+            "transfer": [
+                "Da nyheden blev meddelt, fejrede folk begivenheden.",
+                "Mange holder stadig fast i den gamle tradition.",
+                "Den skik lever videre den dag i dag."
+            ],
+            "pitfall": "`levende lys` 在这里是蜡烛，不是“活着的光”。`holde fast i` 是坚持保留，而 `holde fast ved` 也可表示坚持某观点或决定，但不能随意混用所有语境。"
+        },
+        {
+            "id": "U21-C021",
+            "zh": "战后，丹麦加入北约，在接下来的几十年里，丹麦经济迅速增长。",
+            "grammar": "`Efter krigen` 是前置时间状语，后接V2倒装 `gik Danmark`。`gå med i` 是固定短语，表示加入组织。第二分句 `i de næste årtier voksede økonomien hurtigt` 再次以时间状语开头，采用V2倒装。`voksede` 是 `vokse` 的过去时，表示经济增长。",
+            "vocabulary": [
+                {
+                    "da": "gå med i noget",
+                    "zh": "加入某个组织、联盟或合作",
+                    "note": "既可用于正式组织，也可用于共同活动"
+                },
+                {
+                    "da": "NATO",
+                    "zh": "北大西洋公约组织、北约",
+                    "note": "军事与安全合作组织"
+                },
+                {
+                    "da": "i de næste årtier",
+                    "zh": "在此后的几十年里",
+                    "note": "从前文特定时间点向后延伸"
+                },
+                {
+                    "da": "vokse hurtigt",
+                    "zh": "快速增长",
+                    "note": "可用于经济、人口和市场规模"
+                }
+            ],
+            "nuance": "作者从战争与占领时期转向战后国际安全和经济发展。`gik med i` 是比正式的 `tiltrådte` 更易理解的说法，强调丹麦成为联盟成员。`i de næste årtier` 将视角从单一事件扩展为持续的长期变化。",
+            "transfer": [
+                "Danmark gik med i NATO efter krigen.",
+                "Økonomien voksede hurtigt i de følgende årtier.",
+                "Landet blev medlem af en international organisation."
+            ],
+            "pitfall": "`gå med i` 并不是实际走进某个地方，而是加入组织或活动。`vokse` 是不及物动词，不能在需要直接宾语时机械代替 `øge`（提高、增加）。"
+        },
+        {
+            "id": "U21-C022",
+            "zh": "丹麦福利国家体系不断扩展，逐步建立起面向全民的公共养老金、免费教育、医院和日托机构等服务，而这些公共支出由大幅提高的税收提供资金支持。",
+            "grammar": "`Velfærdsstaten blev bygget ud med ...` 使用 `blive` 被动加动词小品词 `bygge ud`，表示福利体系得到扩展。`finansieret af skatter` 是过去分词短语，补充说明资金来源。`der steg kraftigt` 是修饰 `skatter` 的关系从句，`steg` 是 `stige` 的过去时。",
+            "vocabulary": [
+                {
+                    "da": "en velfærdsstat",
+                    "zh": "福利国家",
+                    "note": "复数 `velfærdsstater`；指以公共制度提供社会保障和服务的国家模式"
+                },
+                {
+                    "da": "bygge noget ud",
+                    "zh": "扩建、扩展、完善某个体系",
+                    "note": "可用于基础设施、公共服务和制度"
+                },
+                {
+                    "da": "folkepension",
+                    "zh": "公共老年养老金、国民养老金",
+                    "note": "丹麦社会保障制度的重要组成部分"
+                },
+                {
+                    "da": "en daginstitution",
+                    "zh": "日托机构、儿童日间照护机构",
+                    "note": "涵盖幼儿托育等机构类型"
+                },
+                {
+                    "da": "finansiere noget",
+                    "zh": "为某事提供资金、资助",
+                    "note": "被动形式常见 `finansieret af`"
+                }
+            ],
+            "nuance": "作者用一系列公共服务概括丹麦福利国家的战后扩展，并明确指出福利体系需要税收提供资金。`bygget ud` 强调在原有基础上逐步发展，而不是从零开始建立。`finansieret af skatter` 将社会福利与公共财政联系起来，适合用于政策和经济讨论。",
+            "transfer": [
+                "Velfærdsstaten blev bygget ud efter krigen.",
+                "De offentlige tjenester finansieres af skatter.",
+                "Systemet blev udvidet med nye sociale ydelser."
+            ],
+            "pitfall": "`bygge ud` 是扩展，`bygge op` 更强调逐步建立，`bygge ned` 可表示缩减。`gratis uddannelse` 不意味着整个教育过程中所有生活和相关费用都由政府无条件承担。"
+        },
+        {
+            "id": "U21-C023",
+            "zh": "在20世纪60年代和70年代，来自土耳其、南斯拉夫和巴基斯坦等国家的外来劳工来到丹麦工厂工作，其中许多人后来留在丹麦定居。",
+            "grammar": "`I 1960'erne og 70'erne` 是前置时间状语。第一分句使用存在句 `kom der fremmedarbejdere`，突出当时出现的劳工流入现象。`fra blandt andet ...` 列举来源国家。`for at arbejde` 是目的不定式。第二分句 `mange af dem blev i landet` 中 `blev` 是 `blive` 表示停留、留下的过去时，不是被动。",
+            "vocabulary": [
+                {
+                    "da": "fremmedarbejdere",
+                    "zh": "外来劳工、外国劳工",
+                    "note": "历史语境中的称谓，现代讨论中常使用更具体或更中性的表达"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括、例如",
+                    "note": "表示列举不完整"
+                },
+                {
+                    "da": "for at arbejde",
+                    "zh": "为了工作",
+                    "note": "`for at` 表示目的"
+                },
+                {
+                    "da": "blive i landet",
+                    "zh": "留在这个国家",
+                    "note": "`blive` 在这里表示继续停留"
+                },
+                {
+                    "da": "en fabrik",
+                    "zh": "工厂",
+                    "note": "复数 `fabrikker`"
+                }
+            ],
+            "nuance": "`fremmedarbejdere` 是特定时代的历史用语，反映丹麦工业增长时期引进外国劳动力的社会背景。作者先说明这些人为何来到丹麦，再通过 `mange af dem blev i landet` 展示原本以工作为目的的迁移如何转化为长期的人口和社会变化。历史上的南斯拉夫与现代各继承国家不同。",
+            "transfer": [
+                "I 1960'erne kom mange udenlandske arbejdere til Danmark.",
+                "De kom for at arbejde på fabrikkerne.",
+                "Mange af dem valgte senere at blive i landet."
+            ],
+            "pitfall": "`fremmedarbejder` 是具有时代背景的历史称谓，不宜不加区分地用于今天所有移民劳动者。`blev i landet` 表示留在国内，不是“被国家怎么样”。"
+        },
+        {
+            "id": "U21-C024",
+            "zh": "1972年，丹麦人需要通过全民公投决定，丹麦是否应当加入欧洲共同体。",
+            "grammar": "`I 1972` 前置，后接V2倒装 `skulle danskerne`。`skulle` 在这里表示当时面临的政治决定或需要完成的投票任务。`tage stilling til` 是固定习语，表示对某事作出立场判断。`om landet skulle melde sig ind i ...` 是间接是非疑问从句，说明公投所要决定的具体问题。",
+            "vocabulary": [
+                {
+                    "da": "en folkeafstemning",
+                    "zh": "全民公投、公民投票",
+                    "note": "与议会内部投票不同"
+                },
+                {
+                    "da": "tage stilling til noget",
+                    "zh": "对某事表态、作出决定",
+                    "note": "极具迁移价值的固定搭配"
+                },
+                {
+                    "da": "melde sig ind i noget",
+                    "zh": "加入某个组织",
+                    "note": "反身动词，固定介词 `i`"
+                },
+                {
+                    "da": "Det Europæiske Fællesskab",
+                    "zh": "欧洲共同体",
+                    "note": "本文使用当时加入的欧洲一体化组织名称，与今天的欧盟制度阶段不同"
+                },
+                {
+                    "da": "om",
+                    "zh": "是否",
+                    "note": "在这里引导间接疑问从句"
+                }
+            ],
+            "nuance": "本句使用 `tage stilling til` 将全民公投描述为需要公民明确表达立场的政治选择。它比简单的 `vælge` 更适合公共辩论、政策和价值判断。`Det Europæiske Fællesskab` 属于当时的历史制度背景，不能直接把1972年投票描述为加入今天意义上的欧盟。",
+            "transfer": [
+                "Borgerne skulle tage stilling til forslaget ved en folkeafstemning.",
+                "Jeg har endnu ikke taget stilling til spørgsmålet.",
+                "Landet overvejede at melde sig ind i organisationen."
+            ],
+            "pitfall": "`tage stilling til` 不是“采取一个位置”，而是形成或表达立场。`melde sig ind i` 的反身代词和介词都要掌握。间接疑问句 `om landet skulle ...` 不使用直接问句倒装。"
+        },
+        {
+            "id": "U21-C025",
+            "zh": "将近三分之二的投票者投了赞成票，丹麦随后于1973年1月1日正式成为成员国。",
+            "grammar": "`Næsten to ud af tre` 是比例表达，字面为每三人中将近两人，在上下文中指投票者的比例。`stemme ja` 表示投赞成票。第二分句以 `den 1. januar 1973` 开头，后接V2倒装 `blev Danmark medlem`。`blive medlem` 表示成为成员。",
+            "vocabulary": [
+                {
+                    "da": "to ud af tre",
+                    "zh": "三分之二、每三人中两人",
+                    "note": "常用于描述人数或比例"
+                },
+                {
+                    "da": "stemme ja",
+                    "zh": "投赞成票",
+                    "note": "反义表达 `stemme nej`"
+                },
+                {
+                    "da": "blive medlem",
+                    "zh": "成为成员、加入组织",
+                    "note": "`et medlem` 是成员"
+                },
+                {
+                    "da": "næsten",
+                    "zh": "将近、几乎",
+                    "note": "表示尚未完全达到某个数量或程度"
+                }
+            ],
+            "nuance": "这句话把1972年公投结果与1973年正式加入的日期区分开来。`Næsten to ud af tre` 是直观、容易理解的比例表达，适合公共新闻和统计报道。句中未重新说明分母，读者需要从前文公投语境理解为参与投票的人，而非丹麦全部人口。",
+            "transfer": [
+                "Næsten to ud af tre stemte ja.",
+                "Et flertal stemte for forslaget.",
+                "Landet blev medlem den 1. januar 1973."
+            ],
+            "pitfall": "`to ud af tre` 是三分之二，不是三分之二的全体人口，具体分母由语境决定。`stemme ja` 是投赞成票，而 `sige ja` 只是一般性答应。"
+        },
+        {
+            "id": "U21-C026",
+            "zh": "难民与移民使丹麦社会的人口构成更加多元，而如何实现社会融入，也成为丹麦政治中争论最为激烈的议题之一。",
+            "grammar": "第一分句 `Flygtninge og indvandrere gjorde befolkningen mere mangfoldig` 使用 `gøre + 宾语 + 形容词` 结构，表示使某个对象产生新的性质。第二分句 `spørgsmålet om integration blev ...` 中 `blive` 表示变成。`et af de mest omdiskuterede` 是形容词最高级名词化结构，省略了由前文提供的 `spørgsmål` 或 `emner` 等概念。",
+            "vocabulary": [
+                {
+                    "da": "en flygtning",
+                    "zh": "难民",
+                    "note": "复数 `flygtninge`；与一般移民身份不同"
+                },
+                {
+                    "da": "en indvandrer",
+                    "zh": "移民、迁入本国的人",
+                    "note": "复数 `indvandrere`"
+                },
+                {
+                    "da": "mangfoldig",
+                    "zh": "多元的、多样化的",
+                    "note": "可用于人口、文化、观点和组织构成"
+                },
+                {
+                    "da": "integration",
+                    "zh": "社会融入、融合",
+                    "note": "en integration；政治与社会政策中的重要概念"
+                },
+                {
+                    "da": "omdiskuteret",
+                    "zh": "备受争论的、有争议的",
+                    "note": "`de mest omdiskuterede` 表示争论最激烈的一类议题"
+                }
+            ],
+            "nuance": "本句先描述人口结构发生的变化，再说明由此形成的政治讨论。`mangfoldig` 主要是描述多样性，`omdiskuterede` 则反映议题受到广泛且存在分歧的讨论。作者并未直接评价移民政策的成败，而是说明相关问题在丹麦政治中的显著地位。",
+            "transfer": [
+                "Indvandring har gjort befolkningen mere mangfoldig.",
+                "Integration er et af de mest omdiskuterede emner i dansk politik.",
+                "Spørgsmålet om integration spiller en stor rolle i den offentlige debat."
+            ],
+            "pitfall": "`flygtning` 与 `indvandrer` 不应完全等同，前者有特定的逃离危险和寻求保护背景。`omdiskuteret` 表示受到争议性讨论，不等于简单的“经常谈到”。"
+        },
+        {
+            "id": "U21-C027",
+            "zh": "一个曾经战败、国土不大的国家，究竟是如何发展成为世界上最富裕的福利社会之一的？",
+            "grammar": "`Hvordan` 位于直接疑问句句首，后接动词 `blev` 与主语 `et lille, besejret land`，符合疑问句语序。`blive til noget` 表示逐渐变成某种新的事物或状态。`et af verdens rigeste velfærdssamfund` 是最高级集合结构，强调成为全球最富裕的福利社会中的一个。",
+            "vocabulary": [
+                {
+                    "da": "besejret",
+                    "zh": "被击败的、战败的",
+                    "note": "来自 `besejre`（击败）的过去分词"
+                },
+                {
+                    "da": "blive til noget",
+                    "zh": "发展成为、转变成某种事物",
+                    "note": "强调形成或变化过程"
+                },
+                {
+                    "da": "et velfærdssamfund",
+                    "zh": "福利社会",
+                    "note": "强调社会整体的福利安排；与 `velfærdsstat` 的制度侧重点略有区别"
+                },
+                {
+                    "da": "verdens rigeste",
+                    "zh": "世界上最富裕的",
+                    "note": "所有格 `verdens` 加形容词最高级"
+                }
+            ],
+            "nuance": "这一问句是全篇的核心总结性问题，把前面战争失败、领土缩减、政治改革和经济发展重新组织为一个需要解释的历史转型过程。`Hvordan blev ... til ...?` 很适合用于论文引言、纪录片和历史讨论，用一个问题引出成因分析。",
+            "transfer": [
+                "Hvordan blev Danmark til et moderne velfærdssamfund?",
+                "Hvordan blev en lille virksomhed til en global succes?",
+                "Hvordan lykkedes det landet at komme sig efter nederlaget?"
+            ],
+            "pitfall": "`blive til` 是发展形成，不是普通的 `blive` 被动。`rigeste` 是富裕程度的最高级，不应自动等同于所有生活质量指标都排名第一。"
+        },
+        {
+            "id": "U21-C028",
+            "zh": "历史学家认为，关键因素包括拥有自有土地的农民与合作社运动、教育发展与早期民主化，以及社会各方达成广泛妥协的能力。",
+            "grammar": "主句骨架为 `Historikerne peger på ...`，后面使用三个并列的 `på` 结构组织原因：农民与合作社、教育与民主化、达成妥协的能力。重复介词 `på` 使长列举具有清晰的层次。`evnen til at indgå brede kompromiser` 使用 `evnen til at + 不定式` 结构，说明能力所涉及的行为。",
+            "vocabulary": [
+                {
+                    "da": "pege på noget",
+                    "zh": "指出、认为某事是重要因素",
+                    "note": "历史、科学和政策分析中常用于提出解释"
+                },
+                {
+                    "da": "en selvejende bonde",
+                    "zh": "拥有自己土地的农民、自耕农",
+                    "note": "`selvejende` 强调自行拥有资产"
+                },
+                {
+                    "da": "demokratisering",
+                    "zh": "民主化",
+                    "note": "en demokratisering；表示制度和参与权逐渐民主化的过程"
+                },
+                {
+                    "da": "evnen til at gøre noget",
+                    "zh": "做某事的能力",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "indgå brede kompromiser",
+                    "zh": "达成广泛妥协、形成跨群体折中方案",
+                    "note": "`indgå` 常与协议、和解和妥协搭配"
+                }
+            ],
+            "nuance": "`peger på` 比直接说 `beviser` 更审慎，表示历史学家指出了若干具有解释力的因素，而不是声称存在一个已被完全证明的唯一原因。句子也呼应全文多个阶段：农业改革、合作社、教育、民主发展与政治协商。重复使用 `på` 体现成熟书面丹麦语处理复杂并列信息的能力。",
+            "transfer": [
+                "Forskere peger på flere mulige forklaringer.",
+                "Det skyldes blandt andet uddannelse og tidlig demokratisering.",
+                "Evnen til at indgå kompromiser har stor betydning."
+            ],
+            "pitfall": "`pege på` 不是只能用手指向某物，也可表示指出某种原因或证据。`indgå et kompromis` 是达成妥协，而 `gå på kompromis med noget` 可表示在某项原则或要求上作出让步，语义不完全相同。"
+        },
+        {
+            "id": "U21-C029",
+            "zh": "运气同样发挥了作用：丹麦在两次世界大战中遭受的损失相对有限，而且还在北海发现了石油和天然气资源。",
+            "grammar": "`Heldet har også spillet en rolle` 使用现在完成时，表示某种因素在历史发展过程中发挥了作用，并与当前的历史评价相关。冒号后列举两个例子。`slippe forholdsvis billigt gennem noget` 是习语性结构，表示在经历困难后付出的代价相对较小。`fandt` 是 `finde` 的过去时，表示发现资源。",
+            "vocabulary": [
+                {
+                    "da": "spille en rolle",
+                    "zh": "发挥作用、具有影响",
+                    "note": "政治、经济和社会分析中的高频搭配"
+                },
+                {
+                    "da": "slippe billigt gennem noget",
+                    "zh": "经历某事而付出较小代价、相对幸运地渡过难关",
+                    "note": "习语性表达，不能逐词理解"
+                },
+                {
+                    "da": "forholdsvis",
+                    "zh": "相对而言、比较起来",
+                    "note": "表示与其他对象或情况相比"
+                },
+                {
+                    "da": "en verdenskrig",
+                    "zh": "世界大战",
+                    "note": "复数 `verdenskrige`"
+                },
+                {
+                    "da": "Nordsøen",
+                    "zh": "北海",
+                    "note": "丹麦近海能源资源的重要地理区域"
+                }
+            ],
+            "nuance": "这一句对前面强调制度、教育和社会组织的解释作出补充：国家发展不仅由内部政策和能力决定，也受到历史机遇与自然资源影响。`forholdsvis billigt` 是典型的相对性表述，不意味着丹麦在战争中没有遭受严重损失，尤其不能抹去占领、迫害和其他战争苦难。`Heldet` 体现作者避免把经济成功全部归功于人为决策。",
+            "transfer": [
+                "Heldet har også spillet en rolle.",
+                "Landet slap forholdsvis billigt gennem krisen.",
+                "Opdagelsen af naturressourcer fik stor økonomisk betydning."
+            ],
+            "pitfall": "`billigt` 在这里是代价较小，不是商品价格便宜。`forholdsvis` 强调相对比较，不能省略后把句子理解成绝对没有重大损失。"
+        },
+        {
+            "id": "U21-C030",
+            "zh": "如果要概括这一百五十年的历史，可以说，1864年的战败迫使丹麦将目光转向国内，重新着力于自身的发展。",
+            "grammar": "句首 `Hvis man skal samle op på 150 år` 是条件从句，主句后接V2语序 `kan man sige`。`samle op på noget` 是固定短语，表示回顾并总结。`at nederlaget ... tvang landet til at ...` 是 `sige` 的宾语从句。`tvinge nogen til at gøre noget` 表示迫使某人采取行动。`vende blikket indad` 是比喻性表达，表示从关注外部转向审视和发展内部。",
+            "vocabulary": [
+                {
+                    "da": "samle op på noget",
+                    "zh": "总结、回顾某事",
+                    "note": "适用于课程、会议、项目和历史叙述"
+                },
+                {
+                    "da": "et nederlag",
+                    "zh": "失败、战败",
+                    "note": "既可指军事失败，也可指政治或个人挫折"
+                },
+                {
+                    "da": "tvinge nogen til at gøre noget",
+                    "zh": "迫使某人做某事",
+                    "note": "过去时 `tvang`，过去分词 `tvunget`"
+                },
+                {
+                    "da": "vende blikket indad",
+                    "zh": "把目光转向内部、转而关注自身发展",
+                    "note": "比喻性表达，可用于国家、组织和个人"
+                },
+                {
+                    "da": "indad",
+                    "zh": "向内、朝内部",
+                    "note": "与 `udad`（向外）相对"
+                }
+            ],
+            "nuance": "结尾用 `Hvis man skal samle op på ...` 明确标示这是对复杂历史的一种概括，而不是唯一可能的解释。`vende blikket indad` 与前文的历史格言形成呼应：外部战争与领土损失促使国家更加重视内部资源、农业、社会组织和制度建设。`tvang` 强调历史压力的强度，但不意味着丹麦此后完全停止对外贸易、外交或国际合作。这个句型非常适合C1写作中的总结段落。",
+            "transfer": [
+                "Hvis man skal samle op på udviklingen, kan man sige, at reformerne ændrede samfundet.",
+                "Krisen tvang virksomheden til at ændre strategi.",
+                "Efter nederlaget vendte landet blikket indad."
+            ],
+            "pitfall": "`samle op på` 是总结回顾，不是物理地把东西捡起来。`tvinge nogen til at` 必须保留 `til at`。`vende blikket indad` 不等于孤立主义，而是强调关注方向的转变。"
+        }
+    ]
+}

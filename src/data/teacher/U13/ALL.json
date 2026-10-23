@@ -1,0 +1,1712 @@
+{
+    "schema_version": 1,
+    "unit": "U13",
+    "part": "ALL",
+    "source_fingerprint": "U13-ALL-e1236dfb2e4f",
+    "sentences": [
+        {
+            "id": "U13-C001",
+            "zh": "“Dannelse”（人格与文化素养的养成）这个词，在英语中没有一个完全准确的对应词。",
+            "grammar": "主语是 `Ordet dannelse`，谓语是 `har ikke`，宾语是 `noget præcist modstykke`，最后用 `på engelsk` 限定语言。`ikke noget` 是常见否定结构，表示“没有任何……”。`dannelse` 与前面的 `ordet` 构成同位说明，解释所指的是哪个词。",
+            "vocabulary": [
+                {
+                    "da": "dannelse",
+                    "zh": "文化修养、人格养成、公民素养",
+                    "note": "en dannelse；在教育与文化讨论中具有特殊内涵，不能简单等同于学历或知识积累"
+                },
+                {
+                    "da": "et modstykke",
+                    "zh": "对应物、对等概念",
+                    "note": "常见搭配 `et modstykke til noget`，但谈某种语言中的对应词时也可说 `et modstykke på engelsk`"
+                },
+                {
+                    "da": "præcis",
+                    "zh": "准确的、精确的",
+                    "note": "这里是形容词中性形式 `præcist`，修饰 `modstykke`"
+                }
+            ],
+            "nuance": "作者以翻译困难开篇，强调 `dannelse` 是一个带有丹麦文化背景的概念。英语的 `education`、`formation`、`cultivation` 或德语的 `Bildung` 都能涵盖其中部分意义，但不能在所有语境中完全替换。中文也宜根据语境采用解释性翻译，而不是机械对应为“教育”。",
+            "transfer": [
+                "Der findes ikke noget præcist modstykke til X på dansk.",
+                "X er svært at oversætte direkte til engelsk."
+            ],
+            "pitfall": "`dannelse` 与 `uddannelse` 不同。前者侧重人的修养和形成过程，后者通常侧重教育、培训和学历资格。`modstykke` 是 `et` 词。"
+        },
+        {
+            "id": "U13-C002",
+            "zh": "所谓 `uddannelse`，就是那些可以写进简历的东西：考试成绩与资格、修读的课程以及获得的学位。",
+            "grammar": "这是定义性结构 `X er det, man kan ...`。`det` 后面的 `man kan skrive på sit cv` 是省略关系代词的限定关系从句，完整理解为“人们能够写在简历上的那些内容”。`man` 是泛指主语，`sit` 与同一从句中的 `man` 呼应。冒号后列举具体实例。",
+            "vocabulary": [
+                {
+                    "da": "uddannelse",
+                    "zh": "教育、学历教育、职业培训",
+                    "note": "en uddannelse；`tage en uddannelse` 表示接受某种教育或取得某项学历资格"
+                },
+                {
+                    "da": "et cv",
+                    "zh": "简历",
+                    "note": "常说 `skrive noget på sit cv` 或 `have noget på sit cv`"
+                },
+                {
+                    "da": "en eksamen",
+                    "zh": "考试；考试资格",
+                    "note": "复数 `eksamener`；`bestå en eksamen` 是通过考试"
+                },
+                {
+                    "da": "en grad",
+                    "zh": "学位、等级",
+                    "note": "复数 `grader`；此处指教育资格中的学位"
+                }
+            ],
+            "nuance": "这里的定义是为了与下一句的 `dannelse` 对照，具有刻意简化的修辞效果，而不是声称教育只包含简历上能够量化的成果。`uddannelse` 是丹麦教育制度、求职与职业发展讨论中的核心词。",
+            "transfer": [
+                "X er det, man kan dokumentere med et eksamensbevis.",
+                "Det er noget, man kan skrive på sit cv."
+            ],
+            "pitfall": "`en uddannelse` 可以是一整段教育经历或一个完整培养项目，不等于单门课程 `et kursus`。`uddannelse` 也不只指大学教育。"
+        },
+        {
+            "id": "U13-C003",
+            "zh": "而 `dannelse`，则是那些不会写在简历上的东西：理解他人的能力、参与共同体生活的能力，以及形成独立见解的能力。",
+            "grammar": "沿用上一句的定义框架，但用 `der ikke står på et cv` 构成关系从句。此处 `der` 在关系从句中充当主语，不能像上一句宾语位置的关系代词那样省略。冒号后的 `evnen til at ...` 引出三个并列的不定式结构：`forstå`、`tage del`、`danne sig`，都在说明能力的具体内容。",
+            "vocabulary": [
+                {
+                    "da": "evnen til at gøre noget",
+                    "zh": "做某事的能力",
+                    "note": "`evne` 是 en 词；介词固定为 `til`"
+                },
+                {
+                    "da": "tage del i noget",
+                    "zh": "参与某事；成为某个活动或共同体的一员",
+                    "note": "通常带介词 `i`，比简单的 `være med` 更正式"
+                },
+                {
+                    "da": "et fællesskab",
+                    "zh": "共同体、群体归属、集体关系",
+                    "note": "既可指实际群体，也可指人与人之间的共同联系"
+                },
+                {
+                    "da": "danne sig sin egen mening",
+                    "zh": "形成自己的独立看法",
+                    "note": "`danne sig` 表示为自己形成某种认识；`sin egen` 强调独立性"
+                }
+            ],
+            "nuance": "句子通过三个并列能力，把抽象的 `dannelse` 落实到社会理解、共同体参与和独立判断。这里并不是简单赞美“有文化”，而是强调受教育者如何与他人和社会发生关系。丹麦教育话语中，`fællesskab` 和自主表达意见往往相互补充。",
+            "transfer": [
+                "Det handler om evnen til at forstå andre mennesker.",
+                "Det er vigtigt at kunne danne sig sin egen mening.",
+                "Alle skal have mulighed for at tage del i fællesskabet."
+            ],
+            "pitfall": "`danne sig en mening` 是形成看法，`give sin mening til kende` 是表达看法，`ændre mening` 是改变主意。三者不可混为一谈。"
+        },
+        {
+            "id": "U13-C004",
+            "zh": "19世纪，牧师兼诗人N.F.S.格伦特维梦想建立一种面向人生的学校，在那里，对话和讲述故事比考试更加重要。",
+            "grammar": "主句骨架为 `Præsten og digteren N.F.S. Grundtvig drømte ... om en skole`。两个职业称谓共同修饰同一人物。`drømme om noget` 是固定搭配。`hvor ... var vigtigere end ...` 为地点关系从句，修饰 `en skole`。比较级 `vigtigere end` 表示“比……更重要”。过去时 `drømte`、`var` 将叙述置于历史背景中。",
+            "vocabulary": [
+                {
+                    "da": "en præst",
+                    "zh": "牧师、神职人员",
+                    "note": "与 `en digter`（诗人）并列"
+                },
+                {
+                    "da": "drømme om noget",
+                    "zh": "梦想、向往某事",
+                    "note": "过去时 `drømte`；既能指睡梦，也能指人生理想"
+                },
+                {
+                    "da": "i 1800-tallet",
+                    "zh": "在19世纪",
+                    "note": "丹麦语的 `1800-tallet` 指1800年至1899年"
+                },
+                {
+                    "da": "en fortælling",
+                    "zh": "故事、叙述",
+                    "note": "与动词 `fortælle` 相关"
+                }
+            ],
+            "nuance": "`en skole for livet` 是具有思想象征性的表达，强调教育服务于整个人生和公民生活，而非仅仅为考试服务。`samtalen og fortællingen` 用确定形式将对话和叙事提升为教育理念中的核心活动。句子采用介绍思想史的书面叙述风格。",
+            "transfer": [
+                "Han drømte om et samfund, hvor alle havde lige muligheder.",
+                "X er vigtigere end Y.",
+                "Ideen opstod i 1800-tallet."
+            ],
+            "pitfall": "不要把 `1800-tallet` 理解为18世纪。`drømme om` 表示梦想或向往，而 `drømme, at ...` 可用于描述梦中的具体情节。"
+        },
+        {
+            "id": "U13-C005",
+            "zh": "这一理念至今仍延续于丹麦的民众高等学校：成年人在那里共同生活数月，学习从哲学到陶艺的各种内容，而且不设成绩评分。",
+            "grammar": "主句为 `Tanken lever videre på folkehøjskolerne`。`hvor` 引导地点关系从句，其中 `bor` 和 `lærer` 共享主语 `voksne`。`alt fra X til Y` 表示覆盖广泛领域。破折号后的 `uden karakterer` 是省略谓语的补充说明，突出这类学习环境的特殊性。",
+            "vocabulary": [
+                {
+                    "da": "leve videre",
+                    "zh": "继续存在、传承下去",
+                    "note": "既可用于生命，也可用于传统、思想和影响"
+                },
+                {
+                    "da": "en folkehøjskole",
+                    "zh": "丹麦民众高等学校",
+                    "note": "通常提供非学历导向的成人寄宿式学习与共同生活"
+                },
+                {
+                    "da": "alt fra X til Y",
+                    "zh": "从X到Y的各种内容",
+                    "note": "用于强调覆盖范围广"
+                },
+                {
+                    "da": "keramik",
+                    "zh": "陶艺、陶瓷艺术",
+                    "note": "通常作为不可数领域名称使用"
+                },
+                {
+                    "da": "en karakter",
+                    "zh": "分数、成绩等级；性格特征",
+                    "note": "本句取考试评分的意思"
+                }
+            ],
+            "nuance": "`Tanken lever videre` 把历史理念与当代实践连接起来。`bor sammen` 强调学习不只发生在教室，也发生在共同生活之中。末尾的 `uden karakterer` 与传统教育的评价体系构成鲜明对比，是句子的强调重点。",
+            "transfer": [
+                "Traditionen lever videre i dag.",
+                "Kurset dækker alt fra teori til praksis.",
+                "Man kan lære meget uden at få karakterer."
+            ],
+            "pitfall": "`folkehøjskole` 不应直接理解为普通大学；这里的 `højskole` 不等于授予大学学位的 `universitet`。"
+        },
+        {
+            "id": "U13-C006",
+            "zh": "同样的教育传统也是丹麦寄宿学校制度的思想基础：许多青少年会去寄宿学校读一年，通常是在九年级或十年级。",
+            "grammar": "主句 `Samme tradition ligger bag efterskolerne` 使用固定结构 `ligge bag`，表示成为某事背后的原因或基础。冒号后具体说明其表现。`tage et år på efterskole` 中 `tage` 表示选择并度过一段学习时间，而不是字面上的“拿走”。`typisk i 9. eller 10. klasse` 补充常见年级。",
+            "vocabulary": [
+                {
+                    "da": "ligge bag noget",
+                    "zh": "是某事背后的原因、基础或推动力",
+                    "note": "适用于思想、政策、决定和现象"
+                },
+                {
+                    "da": "en efterskole",
+                    "zh": "丹麦青少年寄宿学校",
+                    "note": "常面向义务教育后期的学生，突出共同生活和个人成长"
+                },
+                {
+                    "da": "tage et år på efterskole",
+                    "zh": "去寄宿学校学习一年",
+                    "note": "固定而自然的教育生活表达"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "通常、典型情况下",
+                    "note": "在这里是副词"
+                }
+            ],
+            "nuance": "句子通过 `Samme tradition` 延续上一段的历史线索，却引入不同的学校形式。`efterskole` 的受众通常是青少年，`folkehøjskole` 则主要面向成年人，不能因为两者都涉及寄宿和共同生活就混同。",
+            "transfer": [
+                "Hvad ligger bag denne beslutning?",
+                "Mange unge vælger at tage et år på efterskole.",
+                "Det sker typisk i slutningen af skoleåret."
+            ],
+            "pitfall": "`ligge bag` 不是物理意义上的“躺在后面”。`på efterskole` 是惯用介词结构，不能机械替换为 `i efterskole`。"
+        },
+        {
+            "id": "U13-C007",
+            "zh": "在那里，他们住在学校里，变得更加独立，也有机会尝试一些不同于家中熟悉生活的新事物。",
+            "grammar": "地点副词 `Her` 置于句首，触发主句V2语序：`Her bor de ...`。随后 `bliver` 和 `prøver` 与 `bor` 并列，共享同一主语。`noget andet end det, de kender hjemmefra` 中，`det, de kender hjemmefra` 是省略宾语关系代词的关系结构，指他们原来熟悉的事物。",
+            "vocabulary": [
+                {
+                    "da": "selvstændig",
+                    "zh": "独立的、自主的",
+                    "note": "`blive mere selvstændig` 表示变得更独立"
+                },
+                {
+                    "da": "prøve kræfter med noget",
+                    "zh": "尝试有挑战性的事情、锻炼自己的能力",
+                    "note": "固定习语，通常指面对新的任务或领域"
+                },
+                {
+                    "da": "hjemmefra",
+                    "zh": "从家里；源于家中的生活经验",
+                    "note": "在本句中强调原来的家庭环境"
+                }
+            ],
+            "nuance": "`prøve kræfter med` 比 `prøve noget` 更强调挑战和能力的拓展。作者把住宿、独立性和尝试新事物并列，体现寄宿教育在社会化和人格发展方面的意义，而不是单纯罗列住宿安排。",
+            "transfer": [
+                "Jeg vil gerne prøve kræfter med noget nyt.",
+                "Man bliver mere selvstændig af at bo alene.",
+                "Det er anderledes end det, jeg kender hjemmefra."
+            ],
+            "pitfall": "`prøve kræfter med` 要整体记忆，不是“测试力量”。`hjemmefra` 与 `derhjemme` 不同，前者含“从家里、来自家庭背景”的方向或来源意味。"
+        },
+        {
+            "id": "U13-C008",
+            "zh": "在丹麦，儿童有接受十年教育的义务，但并没有必须到学校上学的义务。",
+            "grammar": "`I Danmark` 作句首地点状语，随后是V2结构 `er der`。`der er` 为存在句，用来陈述制度的存在。`men ikke skolepligt` 省略了重复的 `der er`。两个并列的制度名词通过否定形成核心对比。",
+            "vocabulary": [
+                {
+                    "da": "undervisningspligt",
+                    "zh": "接受教育的法定义务",
+                    "note": "由 `undervisning`（教学）与 `pligt`（义务）构成"
+                },
+                {
+                    "da": "skolepligt",
+                    "zh": "到学校就读的法定义务",
+                    "note": "强调是否必须通过学校这一机构接受教育"
+                },
+                {
+                    "da": "en pligt",
+                    "zh": "义务、职责",
+                    "note": "常见搭配 `have pligt til at gøre noget`"
+                }
+            ],
+            "nuance": "这是典型的制度解释句，用非常短的对比突出两个容易混淆的法律概念。关键不是否定教育的强制性，而是说明教育义务不必然等于必须在普通学校出勤。",
+            "transfer": [
+                "Der er pligt til at følge reglerne.",
+                "Der er forskel på X og Y.",
+                "Man har pligt til at sørge for, at børn får undervisning."
+            ],
+            "pitfall": "不要把 `undervisningspligt` 和 `skolepligt` 都翻译为“义务教育”而抹去区别。`undervisning` 是教学活动，`skole` 是学校机构。"
+        },
+        {
+            "id": "U13-C009",
+            "zh": "这一区别很重要：法律强制要求的是接受教育本身，因此父母可以选择自由学校或私立学校，原则上也可以在家教育自己的孩子。",
+            "grammar": "冒号后使用强调分裂句 `Det er undervisningen, der er obligatorisk`，突出真正具有强制性的对象是 `undervisningen`。`så` 引出结果分句，随后 `forældre kan vælge ... og ... undervise`，两个动词不定式共享情态动词 `kan`。`i princippet` 是插入性状语，表示原则上的可能性。",
+            "vocabulary": [
+                {
+                    "da": "obligatorisk",
+                    "zh": "强制性的、必修的",
+                    "note": "常用于课程、出勤和制度要求"
+                },
+                {
+                    "da": "en friskole",
+                    "zh": "自由学校、独立办学的学校",
+                    "note": "在丹麦制度中具有具体含义，不应简单等同于免费学校"
+                },
+                {
+                    "da": "en privatskole",
+                    "zh": "私立学校",
+                    "note": "与 `friskole` 有制度和历史上的区别，日常表述中有时并列"
+                },
+                {
+                    "da": "i princippet",
+                    "zh": "原则上、从制度上说",
+                    "note": "不保证实际操作没有其他条件"
+                },
+                {
+                    "da": "undervise nogen hjemme",
+                    "zh": "在家教授某人、实施家庭教育",
+                    "note": "`undervise` 可直接接受教育者作宾语"
+                }
+            ],
+            "nuance": "作者采用先强调原则、再说明实际选择的论证顺序。`i princippet` 很重要：它使语气保持审慎，表示制度允许这一选择，并不等于无需履行监督、教育质量等相关要求。`fri- eller privatskole` 是共享后部成分的协调写法。",
+            "transfer": [
+                "Det er kvaliteten, der er afgørende.",
+                "I princippet kan man vælge mellem flere løsninger.",
+                "Det betyder, at forældrene selv kan træffe beslutningen."
+            ],
+            "pitfall": "`fri- eller privatskole` 实际代表 `friskole eller privatskole`，前面的连字符不能忽略。`obligatorisk` 表示法定或制度要求，不等于“重要”或“推荐”。"
+        },
+        {
+            "id": "U13-C010",
+            "zh": "大多数孩子从市立公立学校的学前班开始上学，一直读到九年级，并在完成毕业考试后结束这一阶段的学校教育。",
+            "grammar": "主语 `De fleste` 泛指大多数学生，后接并列谓语 `begynder` 与 `fortsætter`。`begynde i ...` 指进入某个班级或教育阶段。`hvor skolen slutter med afgangsprøver` 为关系从句，`hvor` 在这里指代前面的九年级这一阶段，说明结束时的考试安排。",
+            "vocabulary": [
+                {
+                    "da": "den kommunale folkeskole",
+                    "zh": "由市镇负责的公立基础学校",
+                    "note": "`kommunal` 表示市镇层面的；`folkeskole` 是丹麦基础教育的制度名称"
+                },
+                {
+                    "da": "børnehaveklassen",
+                    "zh": "学前班、零年级",
+                    "note": "通常称 `0. klasse`，不要与普通幼儿园混淆"
+                },
+                {
+                    "da": "fortsætte til",
+                    "zh": "持续到、继续至",
+                    "note": "用于时间、阶段或终点"
+                },
+                {
+                    "da": "en afgangsprøve",
+                    "zh": "毕业考试、结业考试",
+                    "note": "复数 `afgangsprøver`，对应动词 `afslutte` 等结束概念"
+                }
+            ],
+            "nuance": "这里介绍的是丹麦基础教育的典型路径，而 `De fleste` 刻意避免把所有孩子的经历说成完全相同。丹麦的 `folkeskole` 包含与中文语境下小学、初中相关的多个年级，因此不能直接译为“小学”。",
+            "transfer": [
+                "De fleste børn begynder i skole som seksårige.",
+                "Hun fortsatte til 9. klasse.",
+                "Uddannelsen slutter med en afsluttende prøve."
+            ],
+            "pitfall": "`børnehaveklasse` 不是幼儿园 `børnehave`。`kommunal` 是“市镇管理的”，不能仅凭字面译为“社区的”。"
+        },
+        {
+            "id": "U13-C011",
+            "zh": "九年级之后，年轻人可以选择普通高中教育或职业教育；在职业教育中，学生会交替在学校上课和到企业进行实践培训。",
+            "grammar": "`Efter 9. klasse` 为句首时间状语，后接V2结构 `vælger de unge`。`enten ... eller ...` 列出两条选择路径。关系从句 `hvor man skiftevis ...` 紧接 `en erhvervsuddannelse`，因此主要解释职业教育的学习模式。`går i skole` 和 `er i praktik` 是并列谓语。",
+            "vocabulary": [
+                {
+                    "da": "en gymnasial uddannelse",
+                    "zh": "普通高中阶段教育、升学预备型中等教育",
+                    "note": "覆盖不同的丹麦高中教育路径"
+                },
+                {
+                    "da": "en erhvervsuddannelse",
+                    "zh": "职业教育、职业资格教育",
+                    "note": "常缩写为 EUD"
+                },
+                {
+                    "da": "skiftevis",
+                    "zh": "轮流地、交替地",
+                    "note": "常与两个交替进行的活动连用"
+                },
+                {
+                    "da": "være i praktik",
+                    "zh": "实习、参加实践培训",
+                    "note": "固定搭配，介词是 `i`"
+                },
+                {
+                    "da": "enten ... eller ...",
+                    "zh": "要么……要么……",
+                    "note": "连接同等语法层次的选择项"
+                }
+            ],
+            "nuance": "句子没有将职业教育描述成低一级的教育，而是作为与普通高中教育并列的路径介绍。`skiftevis` 凸显丹麦职业培养中理论学习与企业实践的结合。",
+            "transfer": [
+                "Man kan enten vælge X eller Y.",
+                "Eleverne arbejder skiftevis med teori og praksis.",
+                "Han er i praktik hos en virksomhed."
+            ],
+            "pitfall": "`gymnasial` 不等于大学教育，`erhvervsuddannelse` 也不等于普通的短期企业培训。注意 `være i praktik`，不要套用英语介词。"
+        },
+        {
+            "id": "U13-C012",
+            "zh": "当高中最后几门考试全部结束后，新毕业的学生便戴上白色毕业帽，乘坐装饰一新的卡车，从一家到另一家走访庆祝。",
+            "grammar": "`Når ... er overstået` 是时间从句，表示某个阶段已经结束。主句有两个并列谓语：`får ... på hovedet` 和 `kører rundt`。句首时间从句占据主句首位，所以主句从 `får de nye studenter` 开始，保持V2语序。`fra hjem til hjem` 表示连续移动于各个家庭之间。",
+            "vocabulary": [
+                {
+                    "da": "være overstået",
+                    "zh": "已经结束、已经完成",
+                    "note": "常用于考试、困难时期和重要活动"
+                },
+                {
+                    "da": "en student",
+                    "zh": "高中毕业生；大学生",
+                    "note": "在丹麦毕业庆祝语境下通常指通过高中毕业考试的学生"
+                },
+                {
+                    "da": "en studenterhue",
+                    "zh": "丹麦高中毕业帽",
+                    "note": "是高中毕业庆祝活动的文化象征"
+                },
+                {
+                    "da": "en pyntet lastbil",
+                    "zh": "装饰过的卡车",
+                    "note": "`pyntet` 是 `pynte` 的过去分词"
+                },
+                {
+                    "da": "køre rundt",
+                    "zh": "开车到处转、乘车巡游",
+                    "note": "`rundt` 强调在不同地点之间移动"
+                }
+            ],
+            "nuance": "这里描写的是丹麦具有代表性的高中毕业庆祝活动。作者没有直接使用节庆专名，而是通过白帽子和装饰卡车呈现文化场景。`de nye studenter` 在此不能直接理解为刚入大学的新生。",
+            "transfer": [
+                "Når eksamenerne er overstået, holder vi fest.",
+                "De kører rundt i byen og fejrer afslutningen.",
+                "Han fik en hue på hovedet."
+            ],
+            "pitfall": "`få en hue på hovedet` 是戴上帽子，不是把帽子“收到头上”。`student` 的实际含义高度依赖教育阶段和语境。"
+        },
+        {
+            "id": "U13-C013",
+            "zh": "丹麦的成绩评分标准分为七个等级，从负三分到十二分，其中02是能够通过考试的最低成绩。",
+            "grammar": "前半句 `Karakterskalaen har syv trin` 陈述等级数量，`fra -3 til 12` 给出范围。后半句 `02 er det laveste, man kan bestå med` 中，`det laveste` 是形容词最高级的名词化用法；`man kan bestå med` 是省略关系代词的关系从句，介词 `med` 保留在句末。",
+            "vocabulary": [
+                {
+                    "da": "en karakterskala",
+                    "zh": "成绩评分等级表",
+                    "note": "由 `karakter` 与 `skala` 构成"
+                },
+                {
+                    "da": "et trin",
+                    "zh": "等级、级别；台阶",
+                    "note": "复数 `trin`，形式不变"
+                },
+                {
+                    "da": "bestå",
+                    "zh": "通过考试、达到合格标准",
+                    "note": "过去时 `bestod`，过去分词 `bestået`"
+                },
+                {
+                    "da": "det laveste",
+                    "zh": "最低的一个、最低等级",
+                    "note": "`lav` 的最高级名词化形式"
+                }
+            ],
+            "nuance": "丹麦的七级评分制并非从0到12的连续整数，而是由几个特定等级组成。`02` 是惯用的成绩书写形式。句子既给出等级上限，也突出通过与不通过的分界。",
+            "transfer": [
+                "Man skal mindst have 02 for at bestå.",
+                "Skalaen går fra X til Y.",
+                "Hvad er den laveste karakter, man kan bestå med?"
+            ],
+            "pitfall": "不要把 `02` 改写为普通意义上的2分制成绩，也不要推断所有整数都是合法成绩等级。`bestå med` 中的 `med` 在这一结构中不能随意省略。"
+        },
+        {
+            "id": "U13-C014",
+            "zh": "大学教育通常由三年制学士阶段和之后的硕士阶段组成，而丹麦学生在读书期间可以领取SU国家助学金。",
+            "grammar": "`bestå af noget` 表示“由……组成”。`en bachelor på tre år` 用介词 `på` 指明教育阶段的时长；`en kandidat ovenpå` 中 `ovenpå` 表示在前一学历之上继续攻读。`mens de læser` 是时间从句，`læser` 在教育语境中指接受高等教育、攻读学业。",
+            "vocabulary": [
+                {
+                    "da": "bestå af noget",
+                    "zh": "由……组成",
+                    "note": "与表示考试合格的 `bestå` 是同一动词的不同搭配"
+                },
+                {
+                    "da": "en bachelor",
+                    "zh": "学士学位；本科阶段",
+                    "note": "可指学位资格，也可指整个培养阶段"
+                },
+                {
+                    "da": "en kandidat",
+                    "zh": "硕士学位；硕士毕业生；候选人",
+                    "note": "具体意思由教育、招聘或选举语境决定"
+                },
+                {
+                    "da": "ovenpå",
+                    "zh": "在此基础上、随后再加上",
+                    "note": "本句为抽象的递进关系"
+                },
+                {
+                    "da": "SU",
+                    "zh": "丹麦国家学生助学金",
+                    "note": "`Statens Uddannelsesstøtte` 的简称，领取需要符合相关资格条件"
+                }
+            ],
+            "nuance": "这里以典型的学士加硕士结构概括高等教育，并不意味着所有专业都采用相同学制。`kan få SU` 表示存在获得助学支持的可能，而不是每位在丹麦读书的人都无条件享有SU。",
+            "transfer": [
+                "Uddannelsen består af tre moduler.",
+                "Hun tog en bachelor og derefter en kandidat.",
+                "Jeg arbejder ved siden af studiet, mens jeg læser."
+            ],
+            "pitfall": "`kandidat` 在丹麦大学语境中通常对应硕士，不是博士，也不只是“候选人”。`læse` 除“阅读”外，还可以表示攻读一个专业。"
+        },
+        {
+            "id": "U13-C015",
+            "zh": "因此，与许多其他国家相比，丹麦年轻人通常不太需要为了读书而借下大笔钱。",
+            "grammar": "比较状语 `I modsætning til i mange andre lande` 放在句首，主句因此采用V2语序 `behøver unge`。`behøver ... at låne` 为表示必要性的结构。`sjældent` 修饰这种需要发生的频率，`derfor` 连接前句的SU信息，`for at studere` 表示借款的目的。",
+            "vocabulary": [
+                {
+                    "da": "i modsætning til",
+                    "zh": "与……相反；不同于……",
+                    "note": "固定介词表达，用于对比"
+                },
+                {
+                    "da": "behøve at gøre noget",
+                    "zh": "需要做某事",
+                    "note": "否定句和表达较少必要性时尤其常见"
+                },
+                {
+                    "da": "låne penge",
+                    "zh": "借钱",
+                    "note": "`låne` 也可以表示借给别人，需根据句型判断方向"
+                },
+                {
+                    "da": "store summer",
+                    "zh": "大笔金额",
+                    "note": "`en sum` 指一笔款项，复数 `summer`"
+                }
+            ],
+            "nuance": "通过 `derfor`，作者将学生资助与降低教育债务需求建立因果联系。`sjældent` 保留了例外空间，而不是绝对宣称学生从不需要贷款。这是一种有节制的概括。",
+            "transfer": [
+                "I modsætning til i Danmark skal studerende i nogle lande betale studieafgift.",
+                "Jeg behøver ikke at låne penge.",
+                "Derfor vælger mange at læse videre."
+            ],
+            "pitfall": "`i modsætning til i mange andre lande` 中的两个 `i` 都有作用：第一个属于固定搭配，第二个引出“在其他国家”这一地点状语。不能简单因为重复而删除。"
+        },
+        {
+            "id": "U13-C016",
+            "zh": "课间不时会有休息时间，学生们在操场上踢足球，或者三三两两坐在一起聊天。",
+            "grammar": "`Ind imellem` 是句首频率状语，后接存在句 `er der frikvarterer`。`hvor` 引导修饰 `frikvarterer` 的关系从句，说明课间活动。`spiller` 与 `sidder ... og snakker` 并列，后一个结构表达坐着进行聊天的持续活动。",
+            "vocabulary": [
+                {
+                    "da": "ind imellem",
+                    "zh": "不时、偶尔、间或",
+                    "note": "常用于表示事情在其他活动之间发生"
+                },
+                {
+                    "da": "et frikvarter",
+                    "zh": "课间休息",
+                    "note": "复数 `frikvarterer`"
+                },
+                {
+                    "da": "en skolegård",
+                    "zh": "校园操场、学校庭院",
+                    "note": "`i skolegården` 是常见地点搭配"
+                },
+                {
+                    "da": "sidde og snakke",
+                    "zh": "坐着聊天",
+                    "note": "典型的姿态动词加 `og` 结构"
+                }
+            ],
+            "nuance": "句子从制度介绍转向学生的日常生活。`sidder ... og snakker` 比单独说 `snakker` 更有画面感，描写一群学生坐在一起悠闲交谈。`snakke` 在日常口语中十分自然。",
+            "transfer": [
+                "Ind imellem holder vi en kort pause.",
+                "Eleverne sidder i grupper og arbejder.",
+                "I frikvarteret går børnene ud i skolegården."
+            ],
+            "pitfall": "`frikvarter` 是学校课间，而 `fritid` 泛指空闲时间。`sidde og + 动词` 中用 `og`，不是英语式的直接动词-ing结构。"
+        },
+        {
+            "id": "U13-C017",
+            "zh": "除了丹麦语、数学和外语，学生还上体育、美术、烹饪与饮食知识，以及手工与设计等课程；在这些课上，他们会做饭、缝纫和锯木料。",
+            "grammar": "`Ud over dansk, matematik og sprog` 放在句首，作补充性状语，主句因此采用 `har eleverne` 的倒装。破折号后的 `fag, hvor ...` 对前面的实践类学科作进一步解释。`laver mad, syr og saver` 是三个共享主语的并列动词。",
+            "vocabulary": [
+                {
+                    "da": "ud over noget",
+                    "zh": "除……之外，还……",
+                    "note": "表示在已有内容上增加其他内容"
+                },
+                {
+                    "da": "idræt",
+                    "zh": "体育",
+                    "note": "学校学科名称"
+                },
+                {
+                    "da": "billedkunst",
+                    "zh": "视觉艺术、美术",
+                    "note": "既可指学科，也可指艺术领域"
+                },
+                {
+                    "da": "madkundskab",
+                    "zh": "饮食知识与烹饪课程",
+                    "note": "包含食物、营养、烹饪等实践内容"
+                },
+                {
+                    "da": "sy / save",
+                    "zh": "缝纫／锯切",
+                    "note": "`sy` 过去时 `syede`；`save` 过去时 `savede`"
+                }
+            ],
+            "nuance": "作者通过这些课程说明教育并不只覆盖传统学术科目，也包括创造力、生活技能和实际动手能力。`håndværk og design` 是一个组合学科名称，不宜随意理解成两个互不相关的课程。",
+            "transfer": [
+                "Ud over teori arbejder vi også med praksis.",
+                "Eleverne har fag, hvor de lærer at bruge hænderne.",
+                "Vi lærer både at planlægge og at udføre arbejdet."
+            ],
+            "pitfall": "`ud over` 在这里是“除此以外”，不要误解成空间意义上的“向外越过”。`save` 是锯木料，不能与 `sove`（睡觉）混淆。"
+        },
+        {
+            "id": "U13-C018",
+            "zh": "班主任会关注整个班级的身心状态和相处情况，通常每年还会与家长见面一到两次，举行家校沟通会。",
+            "grammar": "主语 `Klasselæreren` 有两个并列谓语：`holder øje med` 和 `mødes`。`klassens trivsel` 是所有格结构。`en eller to gange om året` 表示年度频率。`mødes med forældrene til en skole-hjem-samtale` 中，`med` 指会面对象，`til` 指参加的活动。",
+            "vocabulary": [
+                {
+                    "da": "en klasselærer",
+                    "zh": "班主任、主要负责班级事务的教师",
+                    "note": "具体职责依学校组织方式而有所不同"
+                },
+                {
+                    "da": "holde øje med",
+                    "zh": "关注、留意、监测",
+                    "note": "整体固定搭配"
+                },
+                {
+                    "da": "trivsel",
+                    "zh": "身心福祉、生活状态、在群体中的适应与幸福感",
+                    "note": "en trivsel；教育与职场中常见"
+                },
+                {
+                    "da": "en skole-hjem-samtale",
+                    "zh": "家校面谈、家长与学校的沟通会",
+                    "note": "复合词，核心是 `samtale`"
+                },
+                {
+                    "da": "en gang om året",
+                    "zh": "每年一次",
+                    "note": "也可说 `to gange om året`、`flere gange om året`"
+                }
+            ],
+            "nuance": "`trivsel` 是理解丹麦教育文化的重要关键词，涉及学生是否感到安全、被接纳、能够健康参与集体生活，而不只是学业成绩。句子为下一章的家校对话建立背景。",
+            "transfer": [
+                "Læreren holder øje med elevernes trivsel.",
+                "Vi mødes to gange om året.",
+                "Skolen inviterer forældrene til en samtale."
+            ],
+            "pitfall": "`holde øje med` 不是“把眼睛保持在某处”。`mødes med nogen` 表示与某人会面，而 `møde nogen` 可以直接表示遇见某人。"
+        },
+        {
+            "id": "U13-C019",
+            "zh": "十一月的一个晚上，马兹、他的母亲和班主任围坐在教室里的一张小桌旁。",
+            "grammar": "句首时间状语 `En aften i november` 后接V2结构 `sidder Mads, hans mor og klasselæreren`。`omkring et lille bord` 描写围坐的位置，`i klasselokalet` 补充场所。现在时 `sidder` 用于场景化叙事，让读者仿佛置身正在发生的家校会谈。",
+            "vocabulary": [
+                {
+                    "da": "en aften i november",
+                    "zh": "十一月的一个晚上",
+                    "note": "叙事中常见的时间开场"
+                },
+                {
+                    "da": "sidde omkring et bord",
+                    "zh": "围坐在一张桌子旁",
+                    "note": "常用于会议、家庭聚餐等场景"
+                },
+                {
+                    "da": "et klasselokale",
+                    "zh": "教室",
+                    "note": "复数 `klasselokaler`"
+                }
+            ],
+            "nuance": "简单的时间、人物和空间描写营造了一种相对平等、日常化的沟通氛围。这里采用现在时叙事，使后面的对话更有现场感。",
+            "transfer": [
+                "En eftermiddag i oktober mødes vi på skolen.",
+                "Vi sidder omkring bordet og taler sammen."
+            ],
+            "pitfall": "`en aften` 前置后，谓语动词必须占主句第二位置。不要按中文顺序写成 `En aften i november Mads sidder ...`。"
+        },
+        {
+            "id": "U13-C020",
+            "zh": "老师：马兹，你数学学得特别好。每次遇到新知识，你都是理解得最快的学生之一。",
+            "grammar": "`være dygtig til noget` 是能力评价结构。第二句 `en af dem, der hurtigst forstår nye ting` 是 `en af dem, der ...` 关系结构。关系代词 `der` 指向复数集合 `dem`，因此强调他属于理解新知识最快的那一群人。",
+            "vocabulary": [
+                {
+                    "da": "være dygtig til noget",
+                    "zh": "擅长某事、某方面能力强",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "rigtig",
+                    "zh": "非常、确实；正确的",
+                    "note": "这里作为程度副词修饰 `dygtig`"
+                },
+                {
+                    "da": "hurtigst",
+                    "zh": "最快地",
+                    "note": "`hurtigt` 的最高级副词用法"
+                },
+                {
+                    "da": "en af dem, der ...",
+                    "zh": "那些……的人之一",
+                    "note": "非常实用的评价和分类结构"
+                }
+            ],
+            "nuance": "老师先肯定学生的优势，再提出参与课堂的建议，是一种以积极反馈开场的沟通方式。`rigtig dygtig` 是自然、亲切的赞扬，不是形式化的夸奖套话。",
+            "transfer": [
+                "Du er rigtig dygtig til at forklare svære ting.",
+                "Hun er en af dem, der arbejder mest selvstændigt.",
+                "Han forstår nye begreber meget hurtigt."
+            ],
+            "pitfall": "`dygtig til` 与 `god til` 都能表达擅长，前者稍强调能力和熟练程度。不要写成 `dygtig i matematik` 来机械对应英语的介词。"
+        },
+        {
+            "id": "U13-C021",
+            "zh": "马兹：谢谢。",
+            "grammar": "",
+            "vocabulary": [],
+            "nuance": "简短的礼貌回应。马兹没有进一步解释自己的数学能力，也没有主动展开话题，与后面表现出的内向性格相呼应。",
+            "transfer": [
+                "Tak for de pæne ord.",
+                "Mange tak."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U13-C022",
+            "zh": "老师：但是，你在课堂上不怎么发言。我们上丹麦语课讨论问题的时候，你经常只是坐在那里，低头看着桌面。",
+            "grammar": "`ikke så meget` 表示数量或程度不高，语气比完全否定温和。第二句以 `Når vi diskuterer i dansk` 时间从句开头，主句随后采用V2语序 `sidder du`。`sidder ... og kigger` 是姿态动词结构，表达持续的动作或姿态。`ned i bordet` 描写视线朝下。",
+            "vocabulary": [
+                {
+                    "da": "ikke så meget",
+                    "zh": "不怎么、不太多",
+                    "note": "常用于温和地指出某种不足"
+                },
+                {
+                    "da": "i timerne",
+                    "zh": "在课堂上、上课期间",
+                    "note": "学校语境中 `en time` 也表示一节课"
+                },
+                {
+                    "da": "diskutere",
+                    "zh": "讨论、辩论",
+                    "note": "`diskutere noget` 可直接带宾语"
+                },
+                {
+                    "da": "kigge ned",
+                    "zh": "低头看、向下看",
+                    "note": "小品词 `ned` 表示方向"
+                }
+            ],
+            "nuance": "老师先用 `Men` 从肯定转向需要改进的方面，但没有给马兹贴上“能力不足”的标签，而是描述可以观察到的课堂行为。`ikke så meget` 是缓和语气的重要表达。",
+            "transfer": [
+                "Du siger ikke så meget til møderne.",
+                "Når vi diskuterer, vil jeg gerne høre din mening.",
+                "Han sidder ofte og kigger ned i bordet."
+            ],
+            "pitfall": "`i dansk` 在这里表示丹麦语课上，不是“用丹麦语”这一方式；后者常说 `på dansk`。`i timerne` 也不要机械理解成钟表上的小时。"
+        },
+        {
+            "id": "U13-C023",
+            "zh": "母亲：他可能就是有点害羞吧。他从小就一直这样。",
+            "grammar": "`nok` 是表达推测的语气副词，`bare` 表示“只是”，`lidt` 进一步弱化程度。第二句 `Det har han altid været` 使用现在完成时，描述从过去延续至今的特征。表语代词 `Det` 前置，引发主句倒装，`været` 呼应前句的 `genert`。",
+            "vocabulary": [
+                {
+                    "da": "nok",
+                    "zh": "大概、应该、恐怕",
+                    "note": "表示说话人的推测或判断"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是、不过",
+                    "note": "在这里有淡化问题的作用"
+                },
+                {
+                    "da": "genert",
+                    "zh": "害羞的、腼腆的",
+                    "note": "形容词；`være genert`"
+                },
+                {
+                    "da": "altid have været",
+                    "zh": "一直以来都是",
+                    "note": "用于描述持续至今的状态"
+                }
+            ],
+            "nuance": "母亲的回答带有解释和维护孩子的意味。`nok bare lidt` 连续三个词让评价显得更加温和：她不是否认老师的观察，而是认为这是性格使然。`Det har han altid været` 表示这种特征并非最近才出现。",
+            "transfer": [
+                "Han er nok bare lidt træt.",
+                "Sådan har hun altid været.",
+                "Det har ikke ændret sig."
+            ],
+            "pitfall": "`nok` 在这里不是“足够”，而是表示推测。`Det har han altid været` 不等于“他曾经如此”，它强调直到现在仍是这样。"
+        },
+        {
+            "id": "U13-C024",
+            "zh": "老师：害羞完全没关系。不过，我希望你练习表达自己的看法，即使你还没有十足把握，也试着说出来。",
+            "grammar": "`Det er helt i orden at ...` 是表示许可或接受的评价结构。`jeg vil gerne have, at du ...` 以从句说明说话人的期望；`øver dig i at sige` 含反身代词 `dig`，并用 `i at` 引出练习内容。`også når du ikke er helt sikker` 是带让步意味的时间从句，表示即便在没有把握的情况下也要练习。",
+            "vocabulary": [
+                {
+                    "da": "være i orden",
+                    "zh": "没问题、可以接受",
+                    "note": "`helt i orden` 进一步加强肯定"
+                },
+                {
+                    "da": "ville gerne have, at ...",
+                    "zh": "希望……",
+                    "note": "常用于表达期待或温和要求"
+                },
+                {
+                    "da": "øve sig i at gøre noget",
+                    "zh": "练习做某事",
+                    "note": "反身代词和介词 `i` 都要保留"
+                },
+                {
+                    "da": "sige sin mening",
+                    "zh": "表达自己的观点",
+                    "note": "与 `have en mening`、`danne sig en mening` 区分"
+                },
+                {
+                    "da": "være sikker",
+                    "zh": "有把握、确信",
+                    "note": "可接 `på` 或 `at` 从句表达确信的具体内容"
+                }
+            ],
+            "nuance": "老师首先承认害羞是可以接受的，再明确鼓励马兹跨出舒适区。这里的重点并非让学生改变性格，而是让他培养主动发言的能力。`jeg vil gerne have` 形式温和，但仍然是教师提出的明确期待。",
+            "transfer": [
+                "Det er helt i orden at lave fejl.",
+                "Jeg vil gerne have, at du deltager mere aktivt.",
+                "Du skal øve dig i at sige din mening, også når du er usikker."
+            ],
+            "pitfall": "`øve sig i at` 与 `øve noget` 不同。可以说 `øve sig i at tale dansk`，但不能省略反身代词写成 `jeg øver i at tale dansk`。"
+        },
+        {
+            "id": "U13-C025",
+            "zh": "马兹：可万一我说错了怎么办？",
+            "grammar": "`Hvad nu, hvis ...?` 是固定的假设性疑问结构，用来询问某种令人担忧的情况如果发生该怎么办。`hvis det er forkert` 是条件从句，主语 `det` 指代自己可能说出的答案或观点。",
+            "vocabulary": [
+                {
+                    "da": "Hvad nu, hvis ...?",
+                    "zh": "万一……怎么办？",
+                    "note": "日常口语里常用于担忧或预想风险"
+                },
+                {
+                    "da": "forkert",
+                    "zh": "错误的、不正确的",
+                    "note": "既可指答案错误，也可用于行为不合适"
+                }
+            ],
+            "nuance": "这一句明确暴露了马兹不愿发言的原因：担心自己的答案错误。`nu` 在这里不是单纯的“现在”，而是构成一个自然的口语疑问表达，使焦虑和犹豫更加鲜明。",
+            "transfer": [
+                "Hvad nu, hvis jeg tager fejl?",
+                "Hvad nu, hvis det ikke virker?",
+                "Hvad gør vi, hvis noget går galt?"
+            ],
+            "pitfall": "`Hvad nu, hvis ...?` 不要逐词译为“现在是什么，如果……”。`tage fejl` 是“犯错、判断错误”，也是表达类似担忧的常用搭配。"
+        },
+        {
+            "id": "U13-C026",
+            "zh": "老师：那你就学到了新东西，说不定你的同学也有所收获。你觉得怎么样？要不从每节丹麦语课发言一次开始？",
+            "grammar": "开头的 `Så` 承接上一句假设，表示如果答案错了，结果仍有学习价值。`det har dine kammerater måske også` 中，`det` 前置指代前面所说的学习收获，后面的 `lært noget` 语义上被省略。`Hvad siger du til, at ...?` 是征求意见的固定结构，介词 `til` 后接 `at` 从句。`starte med at ...` 表示从某件事开始。",
+            "vocabulary": [
+                {
+                    "da": "Hvad siger du til ...?",
+                    "zh": "你觉得……怎么样？",
+                    "note": "用于温和提出建议、邀请或方案"
+                },
+                {
+                    "da": "starte med at gøre noget",
+                    "zh": "从做某事开始",
+                    "note": "固定结构，介词 `med` 后接不定式"
+                },
+                {
+                    "da": "en kammerat",
+                    "zh": "同学、伙伴、朋友",
+                    "note": "在学校语境下常指同学"
+                },
+                {
+                    "da": "en dansktime",
+                    "zh": "一节丹麦语课",
+                    "note": "复合词，`dansk` 加 `time`"
+                }
+            ],
+            "nuance": "老师重新定义错误：错误不一定意味着失败，还可以帮助全班学习。随后她没有要求马兹突然变得健谈，而是提出每节课只发言一次这一具体、可执行的小目标。`Hvad siger du til` 体现协商而非单向命令。",
+            "transfer": [
+                "Hvad siger du til, at vi mødes på fredag?",
+                "Vi kan starte med at løse én opgave.",
+                "Så har vi lært noget af fejlen."
+            ],
+            "pitfall": "`Hvad siger du til, at ...` 中必须保留介词 `til`。`én ting` 通过重音符号强调“一个”，不同于不强调数量的普通冠词 `en`。"
+        },
+        {
+            "id": "U13-C027",
+            "zh": "马兹：就说一次。嗯，这个我能做到。",
+            "grammar": "第一部分是省略句，重复老师提出的目标以确认数量。第二句 `Det kan jeg godt` 将宾语 `Det` 前置，构成V2语序。情态动词 `kan` 后的具体动词由语境省略；`godt` 在这里加强对可行性的肯定。",
+            "vocabulary": [
+                {
+                    "da": "kunne godt",
+                    "zh": "能够做到、可以",
+                    "note": "肯定语境中表达能力或接受某项安排"
+                },
+                {
+                    "da": "én",
+                    "zh": "一个，强调数量",
+                    "note": "与非强调性的冠词形式 `en` 区分"
+                }
+            ],
+            "nuance": "马兹通过重复 `Én ting` 确认任务足够小，然后答应尝试。`Det kan jeg godt` 比单说 `ja` 多了一层“这在我的能力范围内”的意味，符合老师循序渐进的教育方式。",
+            "transfer": [
+                "Det kan jeg godt klare.",
+                "Én opgave ad gangen.",
+                "Det kan jeg godt prøve."
+            ],
+            "pitfall": "`godt` 在这里不是形容词“好的”，而是与情态动词配合表示肯定、可行。不要把整个短语直接等同于 `Jeg er god`。"
+        },
+        {
+            "id": "U13-C028",
+            "zh": "母亲：我们在家吃饭的时候也可以一起练习呀。",
+            "grammar": "`Og` 开头承接老师与孩子的约定，在口语对话中很自然。`øve os` 是 `øve sig` 的第一人称复数形式，反身代词随主语变为 `os`。`derhjemme` 和 `ved middagsbordet` 共同限定练习场景。",
+            "vocabulary": [
+                {
+                    "da": "øve sig",
+                    "zh": "练习、训练",
+                    "note": "反身代词随主语变化：`jeg øver mig`、`vi øver os`"
+                },
+                {
+                    "da": "derhjemme",
+                    "zh": "在家里",
+                    "note": "静态地点副词"
+                },
+                {
+                    "da": "ved middagsbordet",
+                    "zh": "在餐桌旁、吃饭时",
+                    "note": "既可以指具体位置，也能指家庭用餐场景"
+                }
+            ],
+            "nuance": "母亲主动把学校目标延伸到家庭生活。`ved middagsbordet` 体现一种日常、自然的口语练习，而不是额外安排正式课程。句首 `Og` 带有积极附和老师建议的感觉。",
+            "transfer": [
+                "Vi kan øve os derhjemme.",
+                "Lad os tale om det ved middagsbordet.",
+                "Vi kan også gøre det sammen."
+            ],
+            "pitfall": "`derhjemme` 指在家，不是“从家里”，后者常用 `hjemmefra`。`øve os` 中的 `os` 不能省略。"
+        },
+        {
+            "id": "U13-C029",
+            "zh": "马兹：哎呀，你们真不用这样啦。",
+            "grammar": "`Det behøver I altså ikke` 是宾语 `Det` 前置的V2句，`behøver` 后隐含由上下文确定的不定式动作，即在家额外练习或帮助他练习。`I` 是第二人称复数“你们”。`altså` 在这里作语气副词，强化说话人的反对或澄清态度。",
+            "vocabulary": [
+                {
+                    "da": "det behøver I ikke",
+                    "zh": "你们不必那样做",
+                    "note": "省略的动作由前文提供"
+                },
+                {
+                    "da": "altså",
+                    "zh": "哎呀、我说、真的",
+                    "note": "在这里带有强调和轻微抗议的语气"
+                }
+            ],
+            "nuance": "这是很生动的亲子对话。马兹已经答应课堂上发言，但不太愿意让父母再介入。`altså` 使他的回应带着少年人的尴尬、坚持和轻微抗议，不是正式或激烈的拒绝。",
+            "transfer": [
+                "Det behøver du altså ikke.",
+                "Det klarer jeg selv.",
+                "I behøver ikke at hjælpe mig."
+            ],
+            "pitfall": "`altså` 不一定等于逻辑连接词“因此”。在口语里经常表达解释、强调、无奈或抗议，必须结合语气理解。"
+        },
+        {
+            "id": "U13-C030",
+            "zh": "这场谈话只持续了十五分钟。离开时，马兹带走的是一项小而可行的任务，而不是一长串需要改进的地方。",
+            "grammar": "`vare et kvarter` 表示持续十五分钟。第二分句 `Mads går derfra med ...` 使用 `gå derfra med noget`，可表示离开某处时带着某种收获。`i stedet for` 构成对比。`ting, han skal blive bedre til` 是省略关系代词的关系从句，介词 `til` 留在句末。",
+            "vocabulary": [
+                {
+                    "da": "vare",
+                    "zh": "持续、历时",
+                    "note": "过去时 `varede`；常与时间长度直接搭配"
+                },
+                {
+                    "da": "et kvarter",
+                    "zh": "一刻钟、十五分钟",
+                    "note": "固定时间单位"
+                },
+                {
+                    "da": "overkommelig",
+                    "zh": "能够应付的、负担得起的、可以完成的",
+                    "note": "常用于任务、工作量、价格和挑战"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "而不是、代替",
+                    "note": "固定介词短语"
+                },
+                {
+                    "da": "blive bedre til noget",
+                    "zh": "在某方面有所提高",
+                    "note": "固定介词 `til`"
+                }
+            ],
+            "nuance": "这一句是整场会谈的总结。重点不在会谈时间短，而在教师没有把学生的问题变成令人沮丧的缺点清单，而是给出可完成的微小行动。`overkommelig` 是描述学习计划和工作目标时非常实用的词。",
+            "transfer": [
+                "Mødet varer cirka et kvarter.",
+                "Vi skal sætte os et overkommeligt mål.",
+                "Han gik derfra med en klar plan."
+            ],
+            "pitfall": "`overkommelig` 不等于“普通的”，而是强调任务在能力、时间或资源范围内可以应付。`blive bedre til` 的介词不要误写成 `i`。"
+        },
+        {
+            "id": "U13-C031",
+            "zh": "许多外国留学生都会对丹麦学生在课堂上如此积极发言感到惊讶。",
+            "grammar": "主句 `Mange udenlandske studerende bliver overraskede over ...` 是表达感受变化的结构。`hvor meget danske elever siger` 是间接疑问从句，表示发言的数量或程度。间接从句采用陈述语序：`danske elever siger`，不使用直接疑问句的倒装。",
+            "vocabulary": [
+                {
+                    "da": "blive overrasket over noget",
+                    "zh": "对某事感到惊讶",
+                    "note": "复数形式 `overraskede` 与主语呼应"
+                },
+                {
+                    "da": "udenlandsk",
+                    "zh": "外国的、来自国外的",
+                    "note": "`udenlandske studerende` 指外国学生或留学生"
+                },
+                {
+                    "da": "hvor meget",
+                    "zh": "有多少、多大程度",
+                    "note": "可引导直接疑问或间接疑问"
+                }
+            ],
+            "nuance": "这里的 `hvor meget ... siger` 主要不是谈学生说了什么内容，而是强调学生愿意发言、讨论和表达意见的程度。作者借外国学生的惊讶，引出丹麦课堂文化与部分其他教育文化之间的差异。",
+            "transfer": [
+                "Jeg blev overrasket over, hvor åbne de var.",
+                "Mange undrer sig over, hvor meget eleverne deltager.",
+                "Det overrasker mig, hvor hurtigt børnene lærer."
+            ],
+            "pitfall": "不要在间接疑问从句中倒装成 `hvor meget siger danske elever`。另外，`overrasket over` 中的介词通常是 `over`。"
+        },
+        {
+            "id": "U13-C032",
+            "zh": "老师希望学生积极参与讨论、表达自己的意见，即使与老师意见不同也没关系；而且学生不会用“先生”或“女士”这样的敬称称呼老师。",
+            "grammar": "`forventer, at ...` 引导宾语从句，其中 `deltager` 和 `siger` 共用主语 `eleverne`。`også når de er uenige med læreren` 表达即便存在分歧也应参与的意思。最后用并列分句 `og ingen kalder ...` 增加另一项文化特征。`kalde nogen noget` 是双宾语式的命名或称呼结构。",
+            "vocabulary": [
+                {
+                    "da": "forvente, at ...",
+                    "zh": "期望、预期……",
+                    "note": "后接完整从句"
+                },
+                {
+                    "da": "deltage i noget",
+                    "zh": "参与某事",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "være uenig med nogen",
+                    "zh": "与某人意见不一致",
+                    "note": "对具体观点有异议可说 `være uenig i noget`"
+                },
+                {
+                    "da": "kalde nogen noget",
+                    "zh": "称呼某人为……",
+                    "note": "无需额外介词"
+                },
+                {
+                    "da": "hr. / fru",
+                    "zh": "先生／女士",
+                    "note": "传统正式称谓，现代丹麦日常校园交流中通常不使用"
+                }
+            ],
+            "nuance": "作者把课堂讨论和称呼方式放在一起，强调较为平等的师生互动。这里的平等不是教师没有教学权威，而是学生可以提出不同看法，并通常无需使用正式敬称。`også når` 对培养独立思考的教育理念尤为关键。",
+            "transfer": [
+                "Vi forventer, at alle deltager aktivt.",
+                "Man må gerne være uenig med læreren.",
+                "De fleste kalder hinanden ved fornavn."
+            ],
+            "pitfall": "`være uenig med nogen` 和 `være uenig i noget` 的宾语不同。`kalde nogen noget` 不需要添加英语式的 `som`。"
+        },
+        {
+            "id": "U13-C033",
+            "zh": "高中二年级的艾玛拿回了自己的丹麦语作业，下课后走到老师面前。",
+            "grammar": "`Emma i 2.g` 中的 `i 2.g` 指明年级。`har fået sin danskopgave tilbage` 使用现在完成时，突出已经拿回作业这一当前状态；`går op til læreren` 用现在时推动叙事。`sin` 指向主语Emma，表示她自己的作业。",
+            "vocabulary": [
+                {
+                    "da": "2.g",
+                    "zh": "丹麦普通高中二年级",
+                    "note": "常见于stx等高中教育路径的年级标记"
+                },
+                {
+                    "da": "få noget tilbage",
+                    "zh": "拿回某物、收回某物",
+                    "note": "动词小品词 `tilbage` 表示返回"
+                },
+                {
+                    "da": "en danskopgave",
+                    "zh": "丹麦语课作业、丹麦语学科任务",
+                    "note": "复合词，`dansk` 加 `opgave`"
+                },
+                {
+                    "da": "gå op til nogen",
+                    "zh": "走到某人面前",
+                    "note": "强调主动接近某人"
+                }
+            ],
+            "nuance": "这是第二个校园对话场景，从中学低年级家校谈话转到高中学生直接与老师讨论成绩。`går op til læreren` 暗示艾玛主动寻求反馈，符合前文强调的参与和提出问题的教育氛围。",
+            "transfer": [
+                "Jeg har fået min opgave tilbage.",
+                "Hun gik op til læreren efter timen.",
+                "Han ville gerne spørge om sin karakter."
+            ],
+            "pitfall": "`2.g` 不是小学二年级，也不是大学二年级。`få tilbage` 表示物品或结果返还，与 `komme tilbage`（人或事物回来）不同。"
+        },
+        {
+            "id": "U13-C034",
+            "zh": "艾玛：我能问一下，为什么我得了7分，而不是10分吗？",
+            "grammar": "`Må jeg spørge ...?` 是礼貌请求许可的主句。`hvorfor jeg fik 7 og ikke 10` 是间接疑问从句，采用主语 `jeg` 加谓语 `fik` 的陈述语序。`fik` 是 `få` 的过去时，表示获得成绩。",
+            "vocabulary": [
+                {
+                    "da": "Må jeg spørge ...?",
+                    "zh": "我可以问一下……吗？",
+                    "note": "礼貌而自然的提问开场"
+                },
+                {
+                    "da": "få en karakter",
+                    "zh": "获得一个成绩等级",
+                    "note": "可直接说 `få 7`、`få 10`"
+                },
+                {
+                    "da": "og ikke",
+                    "zh": "而不是……",
+                    "note": "用于对比实际结果与其他可能性"
+                }
+            ],
+            "nuance": "艾玛没有直接质疑老师“不公平”，而是询问评分依据。`Må jeg spørge` 使问题显得礼貌，也为接下来的教学性反馈创造空间。丹麦评分中的7和10是两个不同的具体等级。",
+            "transfer": [
+                "Må jeg spørge, hvorfor jeg fik denne karakter?",
+                "Må jeg spørge, hvad jeg kunne have gjort bedre?",
+                "Hvorfor fik jeg 7 og ikke 10?"
+            ],
+            "pitfall": "直接疑问句是 `Hvorfor fik jeg 7?`，但嵌入 `Må jeg spørge` 后必须改为 `hvorfor jeg fik 7`。"
+        },
+        {
+            "id": "U13-C035",
+            "zh": "老师：当然可以。确实，你的分析写得不错，但你几乎没有引用原文中的具体内容。",
+            "grammar": "`Det er rigtigt, at ...` 先承认某个事实或评价，随后由 `men` 引出限制和不足。`din analyse er god` 是 `at` 宾语从句内容。`næsten ingen citater` 是数量否定，表示引用几乎没有，不是完全断言零引用。",
+            "vocabulary": [
+                {
+                    "da": "selvfølgelig",
+                    "zh": "当然、自然可以",
+                    "note": "用于肯定答复或表达显而易见"
+                },
+                {
+                    "da": "Det er rigtigt, at ...",
+                    "zh": "确实……、……是对的",
+                    "note": "常用于先认可对方观点再补充限定"
+                },
+                {
+                    "da": "en analyse",
+                    "zh": "分析",
+                    "note": "学术写作和文学课程中的常用词"
+                },
+                {
+                    "da": "et citat",
+                    "zh": "引文、引用内容",
+                    "note": "复数 `citater`"
+                },
+                {
+                    "da": "næsten ingen",
+                    "zh": "几乎没有",
+                    "note": "用于可数名词复数"
+                }
+            ],
+            "nuance": "老师首先肯定分析本身，再指出缺乏文本证据的问题。`Det er rigtigt, at ..., men ...` 既能避免完全否定学生努力，又能清楚说明为什么不能获得更高分，是课堂反馈和职场沟通中都值得掌握的结构。",
+            "transfer": [
+                "Det er rigtigt, at ideen er god, men vi mangler dokumentation.",
+                "Du bruger næsten ingen eksempler.",
+                "Analysen skal understøttes af konkrete citater."
+            ],
+            "pitfall": "`ingen citater` 用于可数复数；`intet bevis` 可用于中性单数。`næsten` 不能直接理解成“所有”，它表示接近某种程度。"
+        },
+        {
+            "id": "U13-C036",
+            "zh": "艾玛：所以您的意思是，我当时应该拿出更多证据来说明自己的分析？",
+            "grammar": "`Så` 用于根据老师的反馈作出推论。`skulle have vist` 是 `skulle + have + 过去分词`，表达过去本应做到但未充分做到的事情。`det` 指代她提出的分析或判断，`mere` 修饰展示和论证的程度。",
+            "vocabulary": [
+                {
+                    "da": "skulle have gjort noget",
+                    "zh": "本来应该做某事",
+                    "note": "对过去行为的反思、批评或建议"
+                },
+                {
+                    "da": "vise",
+                    "zh": "展示、说明、证明",
+                    "note": "过去分词 `vist`"
+                },
+                {
+                    "da": "mere",
+                    "zh": "更多、更充分",
+                    "note": "可以修饰数量，也可以修饰程度"
+                }
+            ],
+            "nuance": "艾玛没有反驳，而是尝试用自己的话复述老师的评价，确认是否理解正确。这里的 `Så` 带“那么，也就是说”的口语推论语气。`skulle have vist` 表示事后认识，而不是将来必须完成的任务。",
+            "transfer": [
+                "Så jeg skulle have forklaret det tydeligere?",
+                "Jeg skulle have brugt flere eksempler.",
+                "Betyder det, at jeg burde have dokumenteret min påstand?"
+            ],
+            "pitfall": "`skulle have + 过去分词` 与 `skal + 不定式` 不同：前者通常回顾过去本应做的事，后者表达当前或未来的义务。"
+        },
+        {
+            "id": "U13-C037",
+            "zh": "老师：对。你不能只对诗歌内容提出自己的判断，还得指出原文中具体哪些地方能支持这些判断。",
+            "grammar": "核心结构是 `ikke bare X - Y`，对不充分的方法与应采取的方法进行对照。两个分句都由情态动词 `skal` 表达要求。`de steder, hvor det står` 中的 `hvor` 引导地点关系从句，指向诗歌文本中的相关位置。",
+            "vocabulary": [
+                {
+                    "da": "påstå noget",
+                    "zh": "断言、声称某事",
+                    "note": "不一定表示错误，但常暗示需要证据支持"
+                },
+                {
+                    "da": "pege på noget",
+                    "zh": "指出、指向、提请注意",
+                    "note": "固定介词 `på`；既可指实体，也可指证据"
+                },
+                {
+                    "da": "et digt",
+                    "zh": "诗、诗歌作品",
+                    "note": "复数 `digte`"
+                },
+                {
+                    "da": "et sted i teksten",
+                    "zh": "文本中的一处",
+                    "note": "适用于引用原文依据"
+                },
+                {
+                    "da": "ikke bare ...",
+                    "zh": "不能只是……",
+                    "note": "后面通常补充更充分的要求"
+                }
+            ],
+            "nuance": "这句话明确区分观点与论证：文学分析不仅需要提出解释，还必须展示文本根据。`påstå` 在这里略带批评意味，强调没有证据的判断不足以支撑高质量的学术写作。",
+            "transfer": [
+                "Du skal ikke bare påstå noget, du skal dokumentere det.",
+                "Kan du pege på et konkret eksempel?",
+                "Hvor i teksten finder du belæg for det?"
+            ],
+            "pitfall": "`pege på` 可以是抽象的“指出”，不是只能用手指某物。`hvor det står` 中的 `står` 指内容写在文本中，并非“站立”。"
+        },
+        {
+            "id": "U13-C038",
+            "zh": "艾玛：明白了。那我可以重新交一个修改后的版本吗？",
+            "grammar": "`Kan jeg ...?` 用情态动词 `kan` 提出请求或询问可能性。`aflevere en ny version` 是动词加宾语结构，表示提交新的版本。前面的 `Okay` 是口语中表示理解、接受或话题转接的回应。",
+            "vocabulary": [
+                {
+                    "da": "aflevere",
+                    "zh": "提交、交上去；交还",
+                    "note": "作业、文件和申请材料中常见"
+                },
+                {
+                    "da": "en version",
+                    "zh": "版本",
+                    "note": "`en ny version` 指修改或更新后的版本"
+                },
+                {
+                    "da": "Okay",
+                    "zh": "好的、明白了",
+                    "note": "在这里表示接受老师的说明并继续提问"
+                }
+            ],
+            "nuance": "艾玛的回应体现了把反馈转化为进一步行动的积极态度。她没有继续争论已经得到的分数，而是主动提出修改作品。",
+            "transfer": [
+                "Kan jeg aflevere en revideret version?",
+                "Må jeg sende en ny udgave?",
+                "Jeg vil gerne rette opgaven og aflevere den igen."
+            ],
+            "pitfall": "`aflevere` 强调交付或提交，`levere` 更广泛地指运送、提供或交付。正式作业提交通常用 `aflevere`。"
+        },
+        {
+            "id": "U13-C039",
+            "zh": "老师：成绩我不能改。不过，你可以把修改后的版本发给我，我会帮你看一看。",
+            "grammar": "`Karakteren` 被前置以突出讨论对象，主句保持V2语序 `kan jeg`。`lave om` 是动词小品词结构，表示修改。`send den gerne` 是祈使句加 `gerne`，用来友好地邀请对方发送。`så kigger jeg på den` 表示前一个动作完成之后的后续行动。",
+            "vocabulary": [
+                {
+                    "da": "lave noget om",
+                    "zh": "修改、改变某物",
+                    "note": "可用于安排、决定、成绩等"
+                },
+                {
+                    "da": "gerne",
+                    "zh": "乐意地、欢迎这样做",
+                    "note": "在祈使句中常使邀请显得友好"
+                },
+                {
+                    "da": "kigge på noget",
+                    "zh": "看一看、检查、查看",
+                    "note": "通常比 `gennemgå grundigt` 更轻松"
+                },
+                {
+                    "da": "sende noget",
+                    "zh": "发送某物",
+                    "note": "过去时 `sendte`，过去分词 `sendt`"
+                }
+            ],
+            "nuance": "老师明确区分正式评分与学习反馈：成绩已经确定，但学生仍可以通过修改获得指导。`Men send den gerne` 既维持制度边界，又表明愿意继续提供帮助。`kigger jeg på den` 给出友好的承诺，但并没有保证再次正式评分。",
+            "transfer": [
+                "Beslutningen kan jeg ikke lave om.",
+                "Send mig gerne den nye version.",
+                "Så kigger jeg på det, når jeg har tid."
+            ],
+            "pitfall": "`lave om` 不等于 `lave`（制作）。`gerne` 在祈使句中通常不是命令加强词，而是表示对方这样做会受到欢迎。"
+        },
+        {
+            "id": "U13-C040",
+            "zh": "关于记忆的研究表明，从长期效果来看，主动尝试回忆学习内容，比只是重新阅读一遍，能让人记住更多。",
+            "grammar": "主句 `Forskningen i hukommelse viser` 后接 `at` 宾语从句。宾语从句内部包含比较结构 `husker mere ... når X, end når Y`，比较两种学习方法的长期记忆效果。`prøver at genkalde sig stoffet` 是尝试加反身动词的结构；`på lang sigt` 限定效果的时间范围。",
+            "vocabulary": [
+                {
+                    "da": "forskning i noget",
+                    "zh": "关于某领域的研究",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "hukommelse",
+                    "zh": "记忆、记忆力",
+                    "note": "en hukommelse"
+                },
+                {
+                    "da": "på lang sigt",
+                    "zh": "从长期来看",
+                    "note": "与 `på kort sigt` 相对"
+                },
+                {
+                    "da": "genkalde sig noget",
+                    "zh": "主动回忆起某事",
+                    "note": "反身动词，学习科学中对应 retrieval 的概念"
+                },
+                {
+                    "da": "stof / stoffet",
+                    "zh": "学习材料、课程内容",
+                    "note": "此处不是化学物质，而是需要掌握的知识内容"
+                }
+            ],
+            "nuance": "本句从教育文化转向学习科学。作者对比的是主动提取记忆与单纯重新阅读，而不是说阅读本身没有价值。`blot` 比 `bare` 稍有书面语色彩，表示“仅仅”，突出第二种学习方法的局限。",
+            "transfer": [
+                "Forskning viser, at aktiv genkaldelse styrker hukommelsen.",
+                "På lang sigt giver det bedre resultater.",
+                "Det er bedre at teste sig selv end blot at læse teksten igen."
+            ],
+            "pitfall": "`genkalde sig` 必须保留反身代词。`stoffet` 在教育语境中通常是教材或知识内容，不要直译为“物质”。"
+        },
+        {
+            "id": "U13-C041",
+            "zh": "另一个规律是：如果把复习分散安排在不同时间进行，效果会比集中在一次完成更好。",
+            "grammar": "`Det gælder også, at ...` 引出另一条同样成立的结论。`gentagelser virker bedre` 为核心命题，后面由 `når ... end når ...` 比较不同条件下的效果。`bliver fordelt` 和 `bliver samlet` 均为 `blive` 被动结构，强调复习安排所受到的处理，而非具体安排者。",
+            "vocabulary": [
+                {
+                    "da": "Det gælder, at ...",
+                    "zh": "……这一点也成立；规律是……",
+                    "note": "适用于一般原则或适用条件"
+                },
+                {
+                    "da": "en gentagelse",
+                    "zh": "重复、复习",
+                    "note": "复数 `gentagelser`"
+                },
+                {
+                    "da": "virke",
+                    "zh": "起作用、有效果",
+                    "note": "过去时 `virkede`"
+                },
+                {
+                    "da": "fordele noget over tid",
+                    "zh": "把某事分散安排在一段时间内",
+                    "note": "常用于任务、练习和资源分配"
+                },
+                {
+                    "da": "på én gang",
+                    "zh": "一次性、同时、一下子",
+                    "note": "`én` 在这里强调只集中在一次"
+                }
+            ],
+            "nuance": "这句话表达学习科学中的间隔复习原则。前一句讨论主动回忆，后一句讨论复习的时间分布，两者属于不同但可以结合的学习策略。`Det gælder også` 使两项研究发现自然衔接。",
+            "transfer": [
+                "Det gælder også, at pauser kan forbedre koncentrationen.",
+                "Det er bedre at fordele arbejdet over flere dage.",
+                "Man lærer ikke nødvendigvis bedst ved at gøre alt på én gang."
+            ],
+            "pitfall": "`gentagelse` 可以是一般重复，也可以是学习复习；`over tid` 指跨越一段时间，不是“超过规定时间”。"
+        },
+        {
+            "id": "U13-C042",
+            "zh": "所以，每天练习一点点，比考试前一晚才临时抱佛脚更有收获。",
+            "grammar": "`Derfor` 放在句首作因果连接副词，引起主句倒装 `giver det`。结构 `Det giver mere at X end at Y` 是用形式主语 `det` 引出不定式活动的比较。`læse op til eksamen` 是固定表达，表示为考试复习准备。`natten før` 指前一天晚上。",
+            "vocabulary": [
+                {
+                    "da": "give mere",
+                    "zh": "带来更多收获、更有价值",
+                    "note": "在这里并非物质上的给予"
+                },
+                {
+                    "da": "øve sig",
+                    "zh": "练习",
+                    "note": "可与频率状语搭配"
+                },
+                {
+                    "da": "læse op til eksamen",
+                    "zh": "为考试复习、备考",
+                    "note": "整体固定搭配"
+                },
+                {
+                    "da": "natten før",
+                    "zh": "前一天夜里、前一晚",
+                    "note": "常用于叙述临近事件的时间"
+                }
+            ],
+            "nuance": "这是上一段学习研究的实际结论。`lidt hver dag` 与 `natten før` 构成鲜明对照，强调学习的规律性优于突击复习。`giver det mere` 非常口语化，也适用于描述时间投入是否值得。",
+            "transfer": [
+                "Det giver mere at træne regelmæssigt end at træne meget én gang.",
+                "Jeg læser op til eksamen i næste uge.",
+                "Derfor prøver jeg at øve mig lidt hver dag."
+            ],
+            "pitfall": "`læse op` 不等于普通的 `læse`，在教育语境中常特指为考试复习；`læse højt` 才是朗读。"
+        },
+        {
+            "id": "U13-C043",
+            "zh": "学习动机同样起着重要作用：真正对某个主题感兴趣的人，即使遇到困难，也更能坚持下去。",
+            "grammar": "`spille en stor rolle` 是固定习语。冒号后 `Den, der er optaget af et emne` 是泛指人的关系结构，相当于“凡是对某主题投入心力的人”。主句谓语 `holder fast ved det` 表示坚持。`også når det bliver svært` 是带让步意义的时间从句。",
+            "vocabulary": [
+                {
+                    "da": "spille en stor rolle",
+                    "zh": "发挥重要作用",
+                    "note": "抽象讨论中非常常用"
+                },
+                {
+                    "da": "være optaget af noget",
+                    "zh": "对某事十分关注、投入、感兴趣",
+                    "note": "不要与“正忙于某事”的意义完全混同"
+                },
+                {
+                    "da": "holde fast ved noget",
+                    "zh": "坚持某事、不轻易放弃",
+                    "note": "固定介词 `ved`"
+                },
+                {
+                    "da": "et emne",
+                    "zh": "主题、课题、话题",
+                    "note": "复数 `emner`"
+                }
+            ],
+            "nuance": "`optaget af` 比简单的 `interesseret i` 更能体现一个人对主题的持续关注和投入。句子从记忆方法转向动力来源，强调学习不仅依赖技术，也取决于是否愿意在困难面前坚持。",
+            "transfer": [
+                "Motivation spiller en afgørende rolle.",
+                "Hun er meget optaget af klimaforskning.",
+                "Det er vigtigt at holde fast ved sine mål, også når det bliver svært."
+            ],
+            "pitfall": "`holde fast ved` 是坚持，`holde øje med` 是关注，`holde op med` 是停止。三个固定搭配含义完全不同。"
+        },
+        {
+            "id": "U13-C044",
+            "zh": "教育并不会随着最后一场考试的结束而终止。",
+            "grammar": "主句以抽象名词 `Uddannelse` 作主语。`slutte med noget` 表示随着某件事结束，否定词 `ikke` 否定将教育终点限定于最后一场考试的想法。`den sidste eksamen` 是确定形式，突出正式学历教育的终点。",
+            "vocabulary": [
+                {
+                    "da": "slutte med noget",
+                    "zh": "以某事结束；随着某事告一段落",
+                    "note": "也可说 `slutte med at gøre noget`"
+                },
+                {
+                    "da": "den sidste",
+                    "zh": "最后的那一个",
+                    "note": "与确定名词搭配"
+                }
+            ],
+            "nuance": "这是一句简短有力的段落转折句。作者从正规学校教育过渡到成年后的持续学习，为章节标题 `Livslang læring` 铺垫。否定句并不是否认毕业，而是重新定义教育的时间边界。",
+            "transfer": [
+                "Læring stopper ikke, når man er færdig med skolen.",
+                "Udvikling slutter ikke med den første succes.",
+                "Man kan lære nyt hele livet."
+            ],
+            "pitfall": "`slutte med` 在这里表示“以……为终点”，但 `slutte med at gøre noget` 也可能表示“最后做某事”，需要根据上下文判断。"
+        },
+        {
+            "id": "U13-C045",
+            "zh": "丹麦是欧洲成年人参与教育学习比例最高的国家之一。学习形式十分多样，从面向技术工人的短期课程，到成人教育中心开设的高中程度科目，再到夜校语言课程，都包括在内。",
+            "grammar": "`et af de lande i Europa, hvor ...` 是典型的集合加关系从句结构。`hvor flest voksne deltager i undervisning` 说明丹麦在欧洲国家中的特征。后半句 `fra ... til ... og ...` 用并列列举扩展 `undervisning` 的范围。`på gymnasieniveau` 修饰所学课程的教育水平。",
+            "vocabulary": [
+                {
+                    "da": "et af de lande, hvor ...",
+                    "zh": "那些……的国家之一",
+                    "note": "非常适合国家、地区和机构比较"
+                },
+                {
+                    "da": "faglært",
+                    "zh": "受过职业培训并取得技能资格的",
+                    "note": "`faglærte` 可名词化表示技术工人、持职业资格的人员"
+                },
+                {
+                    "da": "gymnasieniveau",
+                    "zh": "高中教育水平",
+                    "note": "`på gymnasieniveau` 是固定程度表达"
+                },
+                {
+                    "da": "et voksenuddannelsescenter",
+                    "zh": "成人教育中心",
+                    "note": "常缩写为 VUC"
+                },
+                {
+                    "da": "en aftenskole",
+                    "zh": "成人夜校、业余教育机构",
+                    "note": "不意味着所有课程一定安排在晚上"
+                }
+            ],
+            "nuance": "作者通过欧洲范围内的比较，强调丹麦成人继续教育的普及程度。列举内容跨越职业技能、普通学科与个人兴趣，体现 `livslang læring` 不只属于大学毕业生，也覆盖不同职业和生活阶段的人。",
+            "transfer": [
+                "Danmark er et af de lande, hvor mange voksne deltager i efteruddannelse.",
+                "Kurserne spænder fra grundlæggende færdigheder til avanceret specialisering.",
+                "Man kan tage fag på gymnasieniveau som voksen."
+            ],
+            "pitfall": "`faglært` 是已具备特定职业技能资格的人，不是所有“专业人士”。`flest` 是数量最高级，表示最多，而不是“很多”。"
+        },
+        {
+            "id": "U13-C046",
+            "zh": "对于许多新移居丹麦的人来说，语言中心往往是他们第一个真正走进去、并从内部了解其运作方式的丹麦机构。",
+            "grammar": "`For mange tilflyttere` 前置为对象范围状语，主句采用V2语序 `er sprogcentret`。`den første danske institution, de lærer at kende indefra` 是含省略宾语关系代词的关系结构。`lære noget at kende` 表示逐渐熟悉、了解，`indefra` 强调从内部亲身接触。",
+            "vocabulary": [
+                {
+                    "da": "en tilflytter",
+                    "zh": "新迁入某地的人、新居民",
+                    "note": "既可指跨国移民，也可指从另一城市搬来的人"
+                },
+                {
+                    "da": "et sprogcenter",
+                    "zh": "语言中心",
+                    "note": "在丹麦常涉及成人丹麦语教学"
+                },
+                {
+                    "da": "en institution",
+                    "zh": "机构、制度性组织",
+                    "note": "不限于学校，也可以指其他公共机构"
+                },
+                {
+                    "da": "lære noget at kende",
+                    "zh": "逐渐熟悉、了解某事物",
+                    "note": "强调认识过程，而非单纯获得知识"
+                },
+                {
+                    "da": "indefra",
+                    "zh": "从内部、以亲身参与者的视角",
+                    "note": "与 `udefra`（从外部）相对"
+                }
+            ],
+            "nuance": "这句话把语言中心描述为新居民进入丹麦社会的一扇门。`indefra` 尤其重要：学习语言也意味着亲自体验本地教育机构的互动方式、规则和文化，而不只是从外部了解丹麦制度。",
+            "transfer": [
+                "For mange nytilflyttede er skolen et vigtigt mødested.",
+                "Jeg lærte det danske arbejdsliv at kende indefra.",
+                "Det var min første erfaring med en dansk institution."
+            ],
+            "pitfall": "`lære at kende` 是逐渐熟悉，而 `kende` 是已经认识或熟悉的状态。`tilflytter` 不一定专指外国移民，也可指国内迁居者。"
+        },
+        {
+            "id": "U13-C047",
+            "zh": "在这里，学生要做家庭作业、参加模块测试；老师还会坚持要求大家开口说话，即使说得不完全正确也没关系。",
+            "grammar": "`Her er der` 是句首地点副词加存在句结构。破折号后加入 `en lærer, der insisterer på, at ...`，关系从句修饰老师。`insistere på, at` 引出坚持要求的内容。`også selvom det ikke er helt rigtigt` 是让步从句，表示即便回答不完全正确，也不能因此停止发言。",
+            "vocabulary": [
+                {
+                    "da": "lektier",
+                    "zh": "家庭作业、课后学习任务",
+                    "note": "常见复数形式；`lave lektier` 表示做作业"
+                },
+                {
+                    "da": "en modultest",
+                    "zh": "模块测试",
+                    "note": "语言课程分模块考核的语境用词"
+                },
+                {
+                    "da": "insistere på noget",
+                    "zh": "坚持、坚决要求某事",
+                    "note": "可接名词、`at` 从句或 `at` 不定式结构"
+                },
+                {
+                    "da": "også selvom",
+                    "zh": "即使、哪怕",
+                    "note": "比单独的 `selvom` 具有更明显的让步强调"
+                },
+                {
+                    "da": "ikke helt rigtigt",
+                    "zh": "不完全正确",
+                    "note": "较温和地描述错误或不准确"
+                }
+            ],
+            "nuance": "这一句与前文老师鼓励马兹大胆发言构成呼应，也把同样的教育理念带入成人语言学习。`insisterer på` 语气较坚定，但结合上下文，老师坚持的是学习者必须参与，而不是要求他们毫无错误。",
+            "transfer": [
+                "Læreren insisterer på, at alle deltager.",
+                "Du skal prøve at sige noget, også selvom du laver fejl.",
+                "Det er ikke nødvendigt at tale helt korrekt fra starten."
+            ],
+            "pitfall": "`insistere på` 的介词是 `på`。`også selvom` 后面接完整从句，不要把它与 `på trods af` 加名词的结构混用。"
+        },
+        {
+            "id": "U13-C048",
+            "zh": "许多雇主都很看重愿意学习新知识的员工，而在不少工作场所，继续教育和职业培训也是集体劳动协议规定的内容之一。",
+            "grammar": "第一分句 `Mange arbejdsgivere sætter pris på medarbejdere` 后接关系从句 `der lærer nyt`，限定受重视的员工类型。第二分句由地点状语 `på mange arbejdspladser` 开头，后接V2语序 `er efteruddannelse`。`en del af` 表示属于某一整体或制度安排。",
+            "vocabulary": [
+                {
+                    "da": "en arbejdsgiver",
+                    "zh": "雇主",
+                    "note": "与 `en arbejdstager` 或 `en medarbejder` 区分"
+                },
+                {
+                    "da": "sætte pris på noget",
+                    "zh": "重视、欣赏、珍惜",
+                    "note": "非常常见的固定搭配"
+                },
+                {
+                    "da": "en medarbejder",
+                    "zh": "员工、工作人员",
+                    "note": "复数 `medarbejdere`"
+                },
+                {
+                    "da": "efteruddannelse",
+                    "zh": "继续教育、在职进修、职业再培训",
+                    "note": "指原有教育资格之后的进一步培养"
+                },
+                {
+                    "da": "en overenskomst",
+                    "zh": "集体劳动协议",
+                    "note": "通常由工会与雇主或雇主组织协商达成"
+                }
+            ],
+            "nuance": "这里把终身学习与劳动市场制度联系起来。`sætte pris på` 不一定意味着金钱奖励，而是表达雇主对学习能力的认可。`overenskomst` 则体现丹麦劳资集体协商在职业培训和员工权益中的作用。",
+            "transfer": [
+                "Arbejdsgivere sætter pris på medarbejdere, der tager ansvar.",
+                "Efteruddannelse er en vigtig del af arbejdslivet.",
+                "Retten til kurser kan være fastlagt i en overenskomst."
+            ],
+            "pitfall": "`overenskomst` 在这里是劳动关系中的集体协议，不是普通个人雇佣合同 `ansættelseskontrakt`。`sætte pris på` 不能拆开逐词理解为“给某物标价格”。"
+        },
+        {
+            "id": "U13-C049",
+            "zh": "在日德兰半岛西部的一所民众高等学校里，一位74岁的退休渔民正坐在那里，写下自己人生中的第一首诗。",
+            "grammar": "`På en højskole i Vestjylland` 是句首地点状语，后接V2倒装 `sidder en tidligere fisker`。`sidder ... og skriver` 是姿态动词结构，强调坐着进行写作这一持续动作。`på 74 år` 表示年龄，`sit første digt` 中的反身所有格 `sit` 指向主语渔民。",
+            "vocabulary": [
+                {
+                    "da": "Vestjylland",
+                    "zh": "日德兰半岛西部",
+                    "note": "丹麦地区名称"
+                },
+                {
+                    "da": "en tidligere fisker",
+                    "zh": "以前当过渔民的人、前渔民",
+                    "note": "`tidligere` 表示以前的身份，不必然说明目前是否正式退休"
+                },
+                {
+                    "da": "på 74 år",
+                    "zh": "74岁",
+                    "note": "介绍某人年龄时的常见表达"
+                },
+                {
+                    "da": "sit første digt",
+                    "zh": "他自己的第一首诗",
+                    "note": "`sit` 与中性单数名词 `digt` 呼应"
+                }
+            ],
+            "nuance": "作者在结尾再次回到民众高等学校，将抽象的终身学习理念浓缩为一个具体的人物场景：一位年长、曾从事体力劳动的人开始尝试文学创作。年龄、职业与第一首诗之间形成富有感染力的对照。",
+            "transfer": [
+                "På et kursus i Aarhus sidder en ældre mand og lærer dansk.",
+                "Hun skrev sit første digt som 70-årig.",
+                "Det er aldrig for sent at lære noget nyt."
+            ],
+            "pitfall": "`tidligere fisker` 只表明以前做过渔民，不能严格等同于已正式退休。`sit` 必须与主语的所有关系及被修饰名词的性数一致。"
+        },
+        {
+            "id": "U13-C050",
+            "zh": "他不会得到任何成绩评分，也不需要把这首诗用于什么实际目的。",
+            "grammar": "两个并列谓语 `får` 与 `skal` 共用主语 `Han`。`ingen karakter` 是否定数量表达。`skal ikke bruge digtet til noget` 使用 `bruge noget til noget`，表示将某物用于某种目的。`til noget` 在否定语境中强调不存在必须达到的实用用途。",
+            "vocabulary": [
+                {
+                    "da": "få en karakter",
+                    "zh": "获得成绩或等级评价",
+                    "note": "常见于学校评分场景"
+                },
+                {
+                    "da": "bruge noget til noget",
+                    "zh": "把某物用于某种目的",
+                    "note": "介词 `til` 表示用途"
+                },
+                {
+                    "da": "skulle",
+                    "zh": "必须、应当；将要",
+                    "note": "这里的 `skal ikke` 表示没有必要承担某种要求"
+                }
+            ],
+            "nuance": "这一句强调创作不以考试成绩、证书或经济回报为目标。`skal ikke bruge digtet til noget` 不是说这首诗没有价值，而是说明作者没有外在的功利性任务。",
+            "transfer": [
+                "Du behøver ikke at bruge det til noget bestemt.",
+                "Kurset afsluttes uden karakterer.",
+                "Man kan gøre noget, bare fordi man har lyst."
+            ],
+            "pitfall": "`skal ikke` 表示不必或不应做某事，具体取决于语境；这里不是禁止使用诗歌，而是说没有必须使用它的要求。"
+        },
+        {
+            "id": "U13-C051",
+            "zh": "可即便如此，他还是把这首诗反反复复修改了四遍。",
+            "grammar": "`Alligevel` 是让步连接副词，位于句首，后面采用V2语序 `har han`。`har skrevet` 为现在完成时，`skrevet ... om` 属于可分离的动词小品词结构 `skrive noget om`，意为重新写、修改。`fire gange` 表示动作重复发生四次。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此、然而还是",
+                    "note": "承接与预期相反的事实"
+                },
+                {
+                    "da": "skrive noget om",
+                    "zh": "重写、修改某物",
+                    "note": "如 `skrive teksten om`、`skrive den om`"
+                },
+                {
+                    "da": "fire gange",
+                    "zh": "四次、四遍",
+                    "note": "`gang` 的复数 `gange` 用于次数表达"
+                }
+            ],
+            "nuance": "这是整篇文章精心安排的收束句。老人既不需要分数，也不需要拿诗歌换取实际回报，却仍然自发地反复修改。`Alligevel` 制造与功利性预期相反的转折，呼应开头的 `dannelse`：真正的学习、创造与自我发展可以源于内在兴趣，而非外在评价。最后一句通过具体行动收束主题，比直接宣称终身学习的重要性更有表现力。",
+            "transfer": [
+                "Alligevel valgte han at fortsætte.",
+                "Jeg har skrevet teksten om flere gange.",
+                "Selvom ingen krævede det, gjorde hun sig umage."
+            ],
+            "pitfall": "`skrive noget om`（重写某物）与 `skrive om noget`（写关于某事的文章）非常容易混淆。比较 `Jeg skrev digtet om`（我修改了这首诗）和 `Jeg skrev om digtet`（我写了一篇关于这首诗的文章）。词序决定意义。"
+        }
+    ]
+}

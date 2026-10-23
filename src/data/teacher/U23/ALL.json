@@ -1,0 +1,1691 @@
+{
+    "schema_version": 1,
+    "unit": "U23",
+    "part": "ALL",
+    "source_fingerprint": "U23-ALL-113cb068cb10",
+    "sentences": [
+        {
+            "id": "U23-C001",
+            "zh": "Mei 已经在奥胡斯生活了半年，丹麦语也渐渐说得相当不错了。",
+            "grammar": "主语 `Mei` 后接两个并列谓语：现在完成时 `har boet` 和一般现在时 `taler`。`har boet … i et halvt år` 表示从半年前开始居住，且这一状态持续到现在；`efterhånden` 表示能力经过一段时间逐渐发展。`et godt dansk` 中，`dansk` 被用作中性名词，表示丹麦语的语言水平或使用方式，而不只是形容词。",
+            "vocabulary": [
+                {
+                    "da": "efterhånden",
+                    "zh": "逐渐地；慢慢地；随着时间推移",
+                    "note": "常用于描述能力、习惯或状况的渐进变化"
+                },
+                {
+                    "da": "tale et godt dansk",
+                    "zh": "丹麦语说得很好",
+                    "note": "`dansk` 在这一表达中名词化，前面可用 `et`"
+                },
+                {
+                    "da": "et halvt år",
+                    "zh": "半年",
+                    "note": "`et år` 为中性名词，所以使用 `halvt`"
+                }
+            ],
+            "nuance": "作者开篇就把 Mei 设定为已有一定丹麦语能力的学习者，暗示后面的误会并不是简单的词汇或语法不足。`efterhånden` 比直接说她丹麦语很好更有过程感，体现能力随着在丹麦生活而提高。`et godt dansk` 是评价语言表达水平的自然说法，语气正面，但并未暗示她已经完全掌握丹麦人的交际习惯。",
+            "transfer": [
+                "Jeg har boet i Danmark i et halvt år.",
+                "Mit dansk er efterhånden blevet meget bedre.",
+                "Hun taler et rigtig godt dansk."
+            ],
+            "pitfall": "`i et halvt år` 表示持续半年，`om et halvt år` 表示半年以后。`efterhånden` 不等于 `bagefter` 后来或之后，而强调逐步变化。"
+        },
+        {
+            "id": "U23-C002",
+            "zh": "一个星期五，在办公室里，她邀请同事 Anders 晚上一起出去吃饭。",
+            "grammar": "句首 `En fredag på kontoret` 是时间与地点状语，随后采用 `inviterer hun` 的 V2 倒装。核心结构是 `invitere nogen med ud at spise`，表示邀请某人一起外出用餐。`sin kollega` 中的反身物主代词 `sin` 回指主语 Mei；`Anders` 是对同事身份的补充说明。作者使用叙事现在时 `inviterer`，使场景显得即时、鲜活。",
+            "vocabulary": [
+                {
+                    "da": "invitere nogen med",
+                    "zh": "邀请某人一起参加",
+                    "note": "`invitere nogen med til noget` 或 `med ud`"
+                },
+                {
+                    "da": "tage med ud at spise",
+                    "zh": "一起出去吃饭",
+                    "note": "`tage med` 强调同行；`ud at spise` 表示外出用餐"
+                },
+                {
+                    "da": "en kollega",
+                    "zh": "同事",
+                    "note": "复数 `kolleger`"
+                },
+                {
+                    "da": "på kontoret",
+                    "zh": "在办公室",
+                    "note": "工作场所的常见介词搭配"
+                }
+            ],
+            "nuance": "这句以普通的同事邀约建立轻松的职场背景，为随后出现的跨文化误解作铺垫。`invitere … med ud at spise` 听起来是自然的社交邀请，并不自动说明由邀请者付账。丹麦语中 `tage med` 的重点是跟某人一起参与，而不仅是前往某个地点。",
+            "transfer": [
+                "Jeg vil gerne invitere dig med ud at spise.",
+                "En dag efter arbejde inviterede hun sine kolleger med.",
+                "Har du lyst til at tage med ud at spise?"
+            ],
+            "pitfall": "`sin kollega` 指 Mei 自己的同事；如果写成 `hendes kollega`，通常会让人理解为另一位女性的同事。`invitere nogen med` 的 `med` 不宜遗漏，否则同行的意思会减弱。"
+        },
+        {
+            "id": "U23-C003",
+            "zh": "你今晚想不想和我一起出去吃个饭？",
+            "grammar": "`Kunne du tænke dig at …?` 使用情态动词 `kunne` 的过去式构成委婉请求，并不表示过去的能力。`tænke sig at + 不定式` 是表达愿望或意愿的固定结构。`tage med ud og spise` 中，`tage med` 表示同行，`ud` 表示外出，`og spise` 补充活动内容。",
+            "vocabulary": [
+                {
+                    "da": "Kunne du tænke dig at …?",
+                    "zh": "你愿不愿意……？你想不想……？",
+                    "note": "非常自然、礼貌的邀请方式"
+                },
+                {
+                    "da": "tage med",
+                    "zh": "一起去；同行",
+                    "note": "与某人一起参加活动"
+                },
+                {
+                    "da": "ud og spise",
+                    "zh": "出去吃饭",
+                    "note": "口语中常见的活动表达"
+                },
+                {
+                    "da": "i aften",
+                    "zh": "今晚",
+                    "note": "区别于 `i går aftes` 昨晚"
+                }
+            ],
+            "nuance": "Mei 使用的邀请其实相当礼貌。`Kunne du tænke dig …?` 比直接命令对方一起去吃饭柔和得多，也给对方留下拒绝的空间。后续误会恰恰说明：即使学习者已经掌握礼貌的丹麦语句型，也可能因为对方的口语回应而误判其态度。",
+            "transfer": [
+                "Kunne du tænke dig at tage en kop kaffe?",
+                "Kunne du tænke dig at komme med i morgen?",
+                "Har du lyst til at spise sammen i aften?"
+            ],
+            "pitfall": "`kunne` 在这里表示委婉，不是询问身体能力。`tænke sig` 是固定反身结构，不能直接将 `tænke` 按思考来翻译。"
+        },
+        {
+            "id": "U23-C004",
+            "zh": "啊？你说什么？",
+            "grammar": "这是极度简短的口语追问，来源于疑问词 `hvad` 的弱化发音形式。说话人省略了完整表达中的谓语和主语，依靠语境及语调表达没有听清、请求重复的意思。",
+            "vocabulary": [
+                {
+                    "da": "hva'",
+                    "zh": "啊？什么？你说什么？",
+                    "note": "`hvad` 的常见口语缩略形式；语调和场合决定礼貌效果"
+                }
+            ],
+            "nuance": "这是整篇文章的核心语用问题。Anders 的目的只是让 Mei 重复刚才的话，但在某些语言文化中，单独用一个什么来回应邀请可能显得粗鲁、不耐烦。丹麦朋友和同事之间的非正式交谈中，这种极简回应却未必带有负面态度。真正需要学的是结合关系、语气和场景判断，而非仅记住它的字面意思。",
+            "transfer": [
+                "Hva' var det, du sagde?",
+                "Undskyld, jeg hørte ikke, hvad du sagde."
+            ],
+            "pitfall": "不要把 `hva'` 自动理解为生气或不耐烦，也不要认为它在所有场合都同样得体。对陌生人或正式场合，使用更完整的追问通常更稳妥。"
+        },
+        {
+            "id": "U23-C005",
+            "zh": "不好意思……我只是问你想不想一起出去吃饭。",
+            "grammar": "第一部分 `Undskyld` 是独立的礼貌表达。主句 `Jeg spurgte bare` 使用过去时，回指刚刚提出的问题；`bare` 限定所做的事不过是简单地邀请。`om du ville med ud at spise` 是间接是否疑问从句，`om` 表示是否，内部采用主语 `du` 加限定动词 `ville` 的从句语序。`ville med` 省略了可以从语境恢复的完整动作表达。",
+            "vocabulary": [
+                {
+                    "da": "undskyld",
+                    "zh": "不好意思；对不起；劳驾",
+                    "note": "既可用于道歉，也可用于打断或请求重复"
+                },
+                {
+                    "da": "spørge, om …",
+                    "zh": "询问是否……",
+                    "note": "`om` 引导间接是否疑问从句"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是；不过",
+                    "note": "这里淡化自己行为的重要性"
+                },
+                {
+                    "da": "ville med",
+                    "zh": "想不想一起去",
+                    "note": "口语省略表达，具体活动由上下文补足"
+                }
+            ],
+            "nuance": "Mei 听到简短的追问后，误以为自己打扰或冒犯了对方，因此先说 `Undskyld`。`bare` 带有轻微的自我辩解意味，像中文的我不过就是问了一下。这一回应说明她已经开始为自己的邀请感到不自在，而 Anders 实际上并无不满。",
+            "transfer": [
+                "Jeg spurgte bare, om du havde tid.",
+                "Undskyld, jeg ville bare høre, om du kunne komme.",
+                "Jeg spurgte, om hun ville med."
+            ],
+            "pitfall": "`om du ville …` 是间接问句，不能使用直接问句的 `ville du` 语序。`bare` 在这里是只是，而不是光着或单独。"
+        },
+        {
+            "id": "U23-C006",
+            "zh": "哦，原来是这样！当然愿意啊！我刚才只是没听见。有人在那边弄咖啡机，声音太吵了。",
+            "grammar": "开头 `Nå, jo, gerne!` 由三个口语回应成分构成，表示理解情况并接受邀请。`Jeg hørte det bare ikke` 中，`hørte` 是过去时，`bare` 用来解释而非强调拒绝。`Der var en, der larmede med kaffemaskinen` 使用存在结构 `der var`，后面再由关系从句 `der larmede …` 说明某个人正在制造噪音。",
+            "vocabulary": [
+                {
+                    "da": "nå",
+                    "zh": "哦；原来如此",
+                    "note": "常表示突然理解、意识到新信息"
+                },
+                {
+                    "da": "jo, gerne",
+                    "zh": "当然愿意；好啊",
+                    "note": "`gerne` 表示乐意，`jo` 在此加强肯定回应"
+                },
+                {
+                    "da": "larm",
+                    "zh": "噪音；吵闹",
+                    "note": "en larm；动词 `larme`"
+                },
+                {
+                    "da": "larme med noget",
+                    "zh": "使用某物发出噪音",
+                    "note": "这里指操作咖啡机时很吵"
+                },
+                {
+                    "da": "en kaffemaskine",
+                    "zh": "咖啡机",
+                    "note": "复数 `kaffemaskiner`"
+                }
+            ],
+            "nuance": "`Nå` 表示 Anders 终于理解 Mei 刚才说了什么。`jo, gerne` 语气积极、随和，立即澄清他愿意接受邀请。`Jeg hørte det bare ikke` 说明没有听见，与有意无视对方完全不同。最后补充咖啡机的噪音，是为自己的简短回应提供具体解释，让误会自然化解。",
+            "transfer": [
+                "Nå, det var det, du mente!",
+                "Jo, gerne! Det lyder hyggeligt.",
+                "Jeg hørte dig ikke, fordi der var så meget larm."
+            ],
+            "pitfall": "`nå` 不等于简单的否定词 `nej`。这里的 `jo` 不是英语 yes 的机械对应，而是语境中的肯定回应。`høre` 是听见，`høre efter` 则更强调注意听。"
+        },
+        {
+            "id": "U23-C007",
+            "zh": "哦，好吧。我刚才还以为你生气了呢。",
+            "grammar": "主句 `Jeg troede` 使用过去时，表示先前曾有某种判断。`at du blev sur` 是宾语从句，`blev sur` 使用 `blive + 形容词`，强调变得生气，而不是单纯处于生气状态。两个过去时共同描写刚才发生的误解。",
+            "vocabulary": [
+                {
+                    "da": "tro",
+                    "zh": "以为；相信；认为",
+                    "note": "`tro – troede – troet`"
+                },
+                {
+                    "da": "blive sur",
+                    "zh": "生气；变得不高兴",
+                    "note": "`sur` 也可表示酸的"
+                },
+                {
+                    "da": "Jeg troede, at …",
+                    "zh": "我原以为……",
+                    "note": "适合澄清误解"
+                }
+            ],
+            "nuance": "Mei 终于明确说出自己的误判。`Jeg troede` 暗示这个判断现在已经被纠正，因此非常适合解释刚才的误会。`sur` 在人际交往中通常是生气、闹情绪，比某些强烈愤怒词汇更生活化。",
+            "transfer": [
+                "Jeg troede, at du var sur på mig.",
+                "Jeg misforstod vist din reaktion.",
+                "Jeg troede, at du ikke havde lyst."
+            ],
+            "pitfall": "`blive sur` 是变得生气，`være sur` 是处于生气状态。`sur` 修饰食物时可以表示酸，不要把所有用法混在一起。"
+        },
+        {
+            "id": "U23-C008",
+            "zh": "生气？就因为我说了句“啊”？",
+            "grammar": "`Sur?` 是重复对方关键词的省略式疑问，表达惊讶。`Fordi jeg sagde …?` 则是独立使用的原因从句片段，完整意思相当于你认为我生气，就因为我说了这个吗。口语中，这类片段可以直接作为追问，而无需补出完整主句。",
+            "vocabulary": [
+                {
+                    "da": "sur",
+                    "zh": "生气的；不高兴的",
+                    "note": "日常口语常见"
+                },
+                {
+                    "da": "fordi",
+                    "zh": "因为",
+                    "note": "引导原因从句"
+                },
+                {
+                    "da": "sige",
+                    "zh": "说",
+                    "note": "`sige – sagde – sagt`"
+                }
+            ],
+            "nuance": "Anders 通过重复 `Sur?` 表达出乎意料的反应。他此前没有意识到简短的追问可能被理解为不礼貌。第二个问题不是要求复杂解释，而是在确认 Mei 是否真的把那个词与生气联系起来，语气带有轻微的惊讶。",
+            "transfer": [
+                "Sur? Det var slet ikke min mening.",
+                "Blev du ked af det, fordi jeg sagde det?",
+                "Fordi jeg kom for sent?"
+            ],
+            "pitfall": "口语中的 `Fordi …?` 可以作为独立追问，但正式书面语通常需要完整主句。不要把这种对话省略当作所有文章都适用的规范。"
+        },
+        {
+            "id": "U23-C009",
+            "zh": "对啊。在我来的地方，这样说听起来会挺不礼貌的。",
+            "grammar": "句首 `Hvor jeg kommer fra` 是地点从句，表示在我出身的地方。整个从句占据主句第一位置，因此后面采用 `ville det lyde` 的 V2 倒装。`ville` 表示假设性的情境判断，`lyde + 形容词` 表示听起来给人的印象。`ret` 在这里是程度副词，表示相当、挺。",
+            "vocabulary": [
+                {
+                    "da": "hvor jeg kommer fra",
+                    "zh": "在我的家乡；在我来自的地方",
+                    "note": "可用于谈文化习惯和成长背景"
+                },
+                {
+                    "da": "lyde uhøfligt",
+                    "zh": "听起来不礼貌",
+                    "note": "`lyde` 后接形容词性表语"
+                },
+                {
+                    "da": "ret",
+                    "zh": "相当；挺；比较",
+                    "note": "此处是程度副词，不是正确或法律"
+                },
+                {
+                    "da": "uhøflig",
+                    "zh": "不礼貌的",
+                    "note": "与 `høflig` 礼貌的相对"
+                }
+            ],
+            "nuance": "Mei 不是断言丹麦人客观上不礼貌，而是说明自己的文化经验如何影响解读。`Hvor jeg kommer fra` 是很自然的跨文化解释开场，避免直接把自己的习惯说成普遍标准。`ville lyde` 也保留情境性，表示在她熟悉的文化环境里，这样的回应通常会给人不礼貌的印象。",
+            "transfer": [
+                "Hvor jeg kommer fra, ville det virke uhøfligt.",
+                "I mit hjemland siger man det lidt anderledes.",
+                "Det lyder ret direkte for mig."
+            ],
+            "pitfall": "`Hvor jeg kommer fra` 是地点或文化背景表达，不应机械理解为询问交通出发点。`ret` 在这里是程度副词，不是 `have ret` 中的正确。"
+        },
+        {
+            "id": "U23-C010",
+            "zh": "在我们这里，那不过就是说我刚才没听清。要是我妈妈，她会说“你刚才说什么？”，不过现在也没多少别人这么说了。",
+            "grammar": "第一句 `Her betyder det bare, at …` 以地点副词 `Her` 开头，触发 `betyder det` 的 V2 语序。`at jeg ikke hørte efter` 是说明这种说法含义的内容从句。第二句 `Min mor ville sige …` 中的 `ville` 表示假设情境下的惯常选择。最后 `det er der ikke mange andre, der gør` 使用存在式框架和关系从句，`der gør` 中的 `gør` 替代前面重复的说法行为。",
+            "vocabulary": [
+                {
+                    "da": "betyde, at …",
+                    "zh": "意味着……",
+                    "note": "后接内容从句"
+                },
+                {
+                    "da": "høre efter",
+                    "zh": "认真听；留心听",
+                    "note": "比单独的 `høre` 更强调注意力"
+                },
+                {
+                    "da": "ville sige",
+                    "zh": "会说；可能会采用某种说法",
+                    "note": "在本句中表达假设性的习惯"
+                },
+                {
+                    "da": "ikke mange andre",
+                    "zh": "没有多少其他人",
+                    "note": "描述某种习惯相对少见"
+                }
+            ],
+            "nuance": "Anders 用 `Her` 与 Mei 的 `Hvor jeg kommer fra` 形成直接呼应，把误会归结为不同交际习惯。`bare` 强调自己原本没有恶意。提到母亲会使用更完整的表达，暗示不同年龄或个人语言习惯可能存在差异，但并不能据此断言所有老一辈丹麦人都这样说。最后的结构属于自然但较复杂的口语表达。",
+            "transfer": [
+                "Her betyder det bare, at jeg ikke hørte dig.",
+                "Min mor ville nok formulere det anderledes.",
+                "Det er der ikke mange, der gør længere."
+            ],
+            "pitfall": "`høre efter` 通常是注意听，`høre` 是听到声音；两者不能完全互换。`ville` 在这里并非将来时，而是表示某人在假设情境下会怎么说。"
+        },
+        {
+            "id": "U23-C011",
+            "zh": "对许多外国人而言，丹麦人那声简短、语调平平的“啊？”，往往是与丹麦人打交道时最早遇到的文化冲击之一。",
+            "grammar": "句首 `For mange udlændinge` 表示从某类人群的角度来看，随后主句采用 `er det korte, flade …` 的 V2 语序。`et af de første chok` 使用 `et af de + 最高级或序数词 + 复数名词` 的部分结构。`i mødet med danskerne` 表示在接触丹麦人的过程中。",
+            "vocabulary": [
+                {
+                    "da": "en udlænding",
+                    "zh": "外国人",
+                    "note": "复数 `udlændinge`"
+                },
+                {
+                    "da": "flad",
+                    "zh": "平的；缺乏明显起伏的",
+                    "note": "这里形容语气或语调"
+                },
+                {
+                    "da": "et chok",
+                    "zh": "震惊；冲击",
+                    "note": "可用于心理上的意外感受"
+                },
+                {
+                    "da": "i mødet med",
+                    "zh": "在接触……的过程中",
+                    "note": "文化、社会和人际关系讨论中常用"
+                }
+            ],
+            "nuance": "作者把一声很短的口语回应提升为跨文化交际案例。`korte, flade` 描述声音的形式，也解释为什么学习者可能觉得它缺少礼貌修饰。`For mange` 明确限定为许多人的体验，而不是所有外国人的共同反应。`chok` 在这里可理解为令人意外的文化碰撞，不必夸大成严重心理创伤。",
+            "transfer": [
+                "For mange udlændinge er det en overraskelse.",
+                "Det er et af de første kulturelle chok, man oplever.",
+                "I mødet med nye kolleger lærer man hurtigt de lokale vaner."
+            ],
+            "pitfall": "`flad` 修饰语调时不是说声音真的具有平面的形状。`et af de første chok` 是最早的几种冲击之一，不是第一个且唯一的冲击。"
+        },
+        {
+            "id": "U23-C012",
+            "zh": "在许多语言里，人们可能会说“不好意思，你刚才说什么？”，或者至少把表达方式稍微调整得更客气一些。",
+            "grammar": "句首 `I mange sprog` 是领域状语，因此后面采用 `ville man sige` 的 V2 倒装。`ville` 表示一般假设或跨文化比较中的预期说法。`eller` 连接两个选择：使用完整的礼貌追问，或者 `skrue lidt op for høfligheden`。后者是动词短语 `skrue op for` 的比喻用法。",
+            "vocabulary": [
+                {
+                    "da": "i det mindste",
+                    "zh": "至少；最起码",
+                    "note": "用于提出最低限度的要求或做法"
+                },
+                {
+                    "da": "skrue op for noget",
+                    "zh": "调高；加强",
+                    "note": "原用于调高音量，这里比喻提高礼貌程度"
+                },
+                {
+                    "da": "høflighed",
+                    "zh": "礼貌；礼貌程度",
+                    "note": "en høflighed"
+                },
+                {
+                    "da": "hvad sagde du?",
+                    "zh": "你刚才说什么？",
+                    "note": "完整的请求重复表达"
+                }
+            ],
+            "nuance": "作者没有宣称其他语言都比丹麦语更礼貌，而是指出不同语言常有不同的惯用礼貌策略。`skrue lidt op for høfligheden` 是形象又稍带幽默的比喻，像调整音量一样调整礼貌强度。`i det mindste` 突出即使不使用完整句子，也可能添加一些客气成分。",
+            "transfer": [
+                "I mange kulturer ville man formulere spørgsmålet mere høfligt.",
+                "Vi bør skrue lidt op for høfligheden i formelle samtaler.",
+                "Man kunne i det mindste sige undskyld først."
+            ],
+            "pitfall": "`skrue op for` 在这里不是实际拧旋钮，而是增加某种程度。`ville man sige` 不一定表示将来会说，而是某种情境下通常会怎么说。"
+        },
+        {
+            "id": "U23-C013",
+            "zh": "在非正式交谈中，朋友和同事之间单说一声“啊？”，完全可能只是中性的回应。",
+            "grammar": "句首 `I uformelle samtaler` 是场景状语，后接 `kan … være` 的 V2 结构。`kan` 表示可能性而不是无条件的普遍规则。`helt neutralt` 中的 `helt` 加强形容词程度，`mellem venner og kolleger` 限定适用的人际关系范围。",
+            "vocabulary": [
+                {
+                    "da": "uformel",
+                    "zh": "非正式的；随意的",
+                    "note": "与 `formel` 正式的相对"
+                },
+                {
+                    "da": "helt neutral",
+                    "zh": "完全中性的；不带明显态度的",
+                    "note": "中性形式 `neutralt`"
+                },
+                {
+                    "da": "mellem venner og kolleger",
+                    "zh": "在朋友和同事之间",
+                    "note": "`mellem` 用于描述人际关系范围"
+                }
+            ],
+            "nuance": "这里最值得注意的是三个限定：非正式场景、朋友与同事的关系，以及 `kan` 所表达的可能性。作者并没有给出任何场合都可以简短回应的绝对规则，而是在解释为什么 Anders 的反应在特定社交环境里并不必然失礼。",
+            "transfer": [
+                "I uformelle samtaler kan tonen være mere direkte.",
+                "Mellem venner kan det være helt neutralt.",
+                "Det afhænger af situationen og forholdet mellem personerne."
+            ],
+            "pitfall": "`neutral` 不等于冷漠，而是没有明显的正面或负面态度。切勿把非正式场景中的用法直接推广到正式面试或公共服务场合。"
+        },
+        {
+            "id": "U23-C014",
+            "zh": "在日常丹麦语中，人们使用的固定礼貌套语相对较少，但这并不意味着丹麦语因此就不礼貌——礼貌更多体现在说话的语气和遣词用字之中。",
+            "grammar": "第一分句以 `På dansk` 开头，后面采用 `bruger man` 的 V2 倒装。`relativt få` 表示相对较少。第二分句 `det er ikke af den grund uhøfligt` 使用 `af den grund` 表示由于这个原因。破折号后的 `høfligheden ligger i tonen og ordvalget` 使用 `ligge i` 的抽象意义，说明礼貌体现在哪里。整个句子形成先陈述特点、再澄清误解、最后说明替代机制的三步论证。",
+            "vocabulary": [
+                {
+                    "da": "en høflighedsformel",
+                    "zh": "礼貌套语；固定礼貌表达",
+                    "note": "复数 `høflighedsformler`"
+                },
+                {
+                    "da": "relativt få",
+                    "zh": "相对较少",
+                    "note": "常用于比较分析"
+                },
+                {
+                    "da": "af den grund",
+                    "zh": "因此；出于这个原因",
+                    "note": "`ikke af den grund` 表示不能仅凭这个原因得出结论"
+                },
+                {
+                    "da": "ligge i noget",
+                    "zh": "体现在；关键在于",
+                    "note": "抽象搭配"
+                },
+                {
+                    "da": "et ordvalg",
+                    "zh": "用词；遣词",
+                    "note": "可用于评价语体和交际效果"
+                }
+            ],
+            "nuance": "这是第一章最重要的跨文化交际总结。作者反对把礼貌简单等同于固定礼貌词出现的次数。`ikke af den grund` 是很成熟的论证表达，意思是即使某个现象存在，也不能直接得出负面结论。`tonen og ordvalget` 使礼貌从词汇清单转向语气、表达方式和人际情境。",
+            "transfer": [
+                "Det er ikke af den grund en dårlig løsning.",
+                "Høfligheden ligger ofte i tonen og måden, man spørger på.",
+                "På dansk bruger man relativt få faste udtryk i denne situation."
+            ],
+            "pitfall": "`ligge i` 在这里不是躺在某个东西里面，而是体现在。`af den grund` 表示原因，不能与 `på grund af` 的具体句法结构混用。"
+        },
+        {
+            "id": "U23-C015",
+            "zh": "英语中常用而丹麦语中较少出现的“请”也是同样的道理：英语有 please，而丹麦语往往只需加一个 lige，或者把命令改成问句，就能表达礼貌。",
+            "grammar": "主句 `Det samme gælder …` 使用固定搭配 `gælde noget`，表示同一道理也适用于某事。冒号后由 `Hvor engelsk har …` 引出对比从句，这里的 `Hvor` 具有而、相比之下的书面语功能，并非单纯询问地点。主句 `nøjes dansk ofte med …` 使用 `nøjes med` 表示只使用某种方式就足够。`i stedet for` 表示用一种表达方式替代另一种。",
+            "vocabulary": [
+                {
+                    "da": "Det samme gælder …",
+                    "zh": "同样的道理也适用于……",
+                    "note": "非常实用的论述衔接句型"
+                },
+                {
+                    "da": "nøjes med",
+                    "zh": "只用……就满足；仅采用……",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "vær så venlig",
+                    "zh": "请；劳驾",
+                    "note": "较明确或正式的礼貌表达，不能机械对应所有英语 please"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下；稍微",
+                    "note": "请求中的语气小品词，可降低直接感"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "代替；而不是",
+                    "note": "可后接名词或不定式结构"
+                }
+            ],
+            "nuance": "这一句特别适合英语或中文背景的丹麦语学习者。英语 `please` 并没有在丹麦语中一个可以无条件逐句替换的对应词。丹麦语常通过疑问句、语调以及 `lige` 等小品词调节请求语气。`nøjes med` 突出表达方式可以简洁而依然得体，但具体礼貌效果仍取决于说话者态度与场合。",
+            "transfer": [
+                "Det samme gælder i mange andre situationer.",
+                "Hvor engelsk ofte bruger please, kan dansk bruge et spørgsmål.",
+                "Man kan nøjes med at spørge lidt mere venligt."
+            ],
+            "pitfall": "`Hvor` 在这里表示对照，不能理解为哪里。`lige` 不总是正好或立即，在请求中经常具有语气缓和作用。`nøjes med` 不等于勉强忍受，它也可以中性地表示只需采用某种方式。"
+        },
+        {
+            "id": "U23-C016",
+            "zh": "例如，“你能把盐递给我一下吗？”在丹麦语中就是一句完全礼貌、自然的话。",
+            "grammar": "引文内部使用 `Kan du …?` 的一般疑问句语序，情态动词 `kan` 位于主语之前。`række nogen noget` 是双宾语结构，表示把某物递给某人。`lige` 插入请求中，柔化语气。引文整体作为外层句子的主语，后接 `er en … sætning`。`helt` 加强对礼貌程度的肯定。",
+            "vocabulary": [
+                {
+                    "da": "række nogen noget",
+                    "zh": "把某物递给某人",
+                    "note": "`række mig saltet` 把盐递给我"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下；劳驾",
+                    "note": "这里是请求中的语气小品词"
+                },
+                {
+                    "da": "helt høflig",
+                    "zh": "完全礼貌的；十分得体的",
+                    "note": "本句中的形容词修饰通性名词 `sætning`"
+                }
+            ],
+            "nuance": "作者用一句普通餐桌请求证明，不一定非要使用明确的请字才能表现礼貌。疑问句给对方留下回应空间，`lige` 进一步让动作显得简单、自然。不过，它并不是放在任何命令前都能自动消除不礼貌效果的万能词。",
+            "transfer": [
+                "Kan du lige åbne vinduet?",
+                "Vil du række mig vandet?",
+                "Kunne du lige hjælpe mig med det?"
+            ],
+            "pitfall": "`række` 是递给、伸出，不能与 `række op` 举手完全混同。`saltet` 是盐的确定形式，通常指餐桌上双方都知道的那份盐。"
+        },
+        {
+            "id": "U23-C017",
+            "zh": "许多学习丹麦语的人都发现，听懂丹麦语口语比读懂丹麦语文字要难得多。",
+            "grammar": "主语 `Mange, der lærer dansk` 包含关系从句，`der` 修饰 `Mange`。谓语 `oplever` 后接 `at` 内容从句。该从句采用形式主语 `det` 加形容词比较级的结构：`det er sværere at X end at Y`。两个不定式分别表示理解口头丹麦语和阅读文字丹麦语，`talt dansk` 是过去分词作定语。",
+            "vocabulary": [
+                {
+                    "da": "opleve, at …",
+                    "zh": "发现；体验到；感受到……",
+                    "note": "强调来自个人经历的认识"
+                },
+                {
+                    "da": "talt dansk",
+                    "zh": "口头丹麦语；实际说出来的丹麦语",
+                    "note": "`talt` 是 `tale` 的过去分词"
+                },
+                {
+                    "da": "sværere … end …",
+                    "zh": "比……更难……",
+                    "note": "比较级结构"
+                },
+                {
+                    "da": "forstå",
+                    "zh": "理解；听懂",
+                    "note": "`forstå – forstod – forstået`"
+                }
+            ],
+            "nuance": "作者从礼貌习惯转向丹麦语学习者另一个典型困难：听力。`oplever` 而不是直接说客观上一定更难，保留了学习者体验的角度。这里比较的是口头语音输入与书面文字阅读，不意味着丹麦语阅读必然容易，只是强调两者难度可能不对称。",
+            "transfer": [
+                "Jeg oplever, at det er sværere at forstå dansk end at læse det.",
+                "Mange synes, at talt dansk er svært at forstå.",
+                "Det er lettere at læse teksten end at følge samtalen."
+            ],
+            "pitfall": "`opleve` 不只指经历重大事件，也可表示主观感受到某种规律。`talt dansk` 是口语，不能误认为丹麦语说话这个动作本身。"
+        },
+        {
+            "id": "U23-C018",
+            "zh": "原因之一是，丹麦语拥有异常丰富的元音音值，而且许多辅音在实际发音中会弱化，甚至完全消失；比如 mad 一词中的 d，就发成一种很软的辅音。",
+            "grammar": "主句 `Det skyldes blandt andet` 引出原因，后面并列两个由 `at` 引导的内容从句，分别说明元音多与辅音弱化。第二个从句中，`bliver svækket` 是 `blive` 被动结构，`forsvinder` 则是主动不及物动词。`som når …` 引出具体例子。`d'et` 将字母名称名词化，表示单词里的那个字母，`bliver blødt` 描述发音性质的变化。",
+            "vocabulary": [
+                {
+                    "da": "Det skyldes blandt andet, at …",
+                    "zh": "原因之一是……",
+                    "note": "正式解释中非常有用"
+                },
+                {
+                    "da": "en vokallyd",
+                    "zh": "元音音值；元音语音",
+                    "note": "`vokal` 元音；`lyd` 声音"
+                },
+                {
+                    "da": "en konsonant",
+                    "zh": "辅音",
+                    "note": "与 `vokal` 对应"
+                },
+                {
+                    "da": "svække",
+                    "zh": "弱化；减弱",
+                    "note": "`blive svækket` 被弱化"
+                },
+                {
+                    "da": "en udtale",
+                    "zh": "发音；读音",
+                    "note": "`i udtalen` 在实际发音中"
+                }
+            ],
+            "nuance": "作者用两种语音现象解释为什么丹麦语听力对学习者具有挑战性：一方面元音区别丰富，另一方面书面辅音与实际发音可能差距较大。`blandt andet` 保留其他原因的可能性，不把复杂听力问题归结为单一因素。`blødt d` 是丹麦语教学中的传统名称，它不是普通的英语 d，也不能简单当作英语 th 的完全等价音。",
+            "transfer": [
+                "Det skyldes blandt andet, at udtalen er svær at genkende.",
+                "Mange konsonanter bliver svækket i hurtigt talesprog.",
+                "Der er stor forskel på stavning og udtale."
+            ],
+            "pitfall": "`blødt d` 是专门的语音学教学名称，不表示字母 d 本身像物体一样柔软。`forsvinde` 是消失，`svække` 是减弱，两种发音现象不要混为一谈。"
+        },
+        {
+            "id": "U23-C019",
+            "zh": "此外，还有丹麦语特有的喉塞式声门化现象 stød——声音中仿佛有一个轻微的顿挫；有时甚至仅靠这一点，就能区分像 hun 和 hund 这样的两个词。",
+            "grammar": "句首 `Hertil` 表示除此之外，后面采用 `kommer stødet` 的倒装结构。`et lille knæk i stemmen` 是对 `stødet` 的同位解释。`som kan være det eneste` 是修饰该语音现象的关系从句，进一步包含 `der skiller … ad`。`skille X og Y ad` 表示将两者区分开来。`det eneste` 是形容词名词化结构，表示唯一的区别因素。",
+            "vocabulary": [
+                {
+                    "da": "hertil kommer",
+                    "zh": "此外还有；再加上",
+                    "note": "书面分析中常用于添加一个因素"
+                },
+                {
+                    "da": "stødet",
+                    "zh": "丹麦语的声门化或喉塞音特征",
+                    "note": "et stød；在语音学中指特定的发声现象"
+                },
+                {
+                    "da": "et knæk i stemmen",
+                    "zh": "声音中的短促顿挫",
+                    "note": "用于形象描述发声变化"
+                },
+                {
+                    "da": "skille noget ad",
+                    "zh": "把……区分开；将……分开",
+                    "note": "也可表示拆开物体"
+                },
+                {
+                    "da": "det eneste",
+                    "zh": "唯一的东西；唯一的区别",
+                    "note": "形容词名词化"
+                }
+            ],
+            "nuance": "这是本篇最有丹麦语语音特色的一句。`stød` 并不是普通的重音，而是一种与声门活动相关的语音特征；在某些词对中，它可以承担辨义作用。作者用 `et lille knæk i stemmen` 向非专业读者提供可感知的类比。学习时应把这个比喻作为入门说明，而不把所有 stød 都理解成完整、独立的喉塞爆破。",
+            "transfer": [
+                "Hertil kommer, at mange ord udtales forskelligt.",
+                "Stødet kan være afgørende for betydningen.",
+                "Det er undertiden kun én lyd, der skiller ordene ad."
+            ],
+            "pitfall": "`stød` 在日常语言中还可指撞击，但此处是丹麦语语音术语。`skille ad` 在这里是辨别两个词，不是把实物拆散。`hun` 和 `hund` 的拼写差异不能直接等同于听觉上的辅音差异。"
+        },
+        {
+            "id": "U23-C020",
+            "zh": "丹麦语有许多不同的方言，尽管在20世纪期间，各地方言之间的差异已经有所缩小。",
+            "grammar": "主句 `Dansk tales med mange forskellige dialekter` 使用 s-被动 `tales`，表示丹麦语以各种方言形式被人们使用。`selvom` 引导让步从句。`forskellene er blevet mindre` 是现在完成时，描述差异在过去一段时间里逐渐缩小、并延续到现在的结果。`i løbet af det 20. århundrede` 给出变化所发生的历史时期。",
+            "vocabulary": [
+                {
+                    "da": "en dialekt",
+                    "zh": "方言",
+                    "note": "复数 `dialekter`"
+                },
+                {
+                    "da": "selvom",
+                    "zh": "尽管；虽然",
+                    "note": "引导让步从句"
+                },
+                {
+                    "da": "en forskel",
+                    "zh": "差异；区别",
+                    "note": "复数 `forskelle`"
+                },
+                {
+                    "da": "i løbet af",
+                    "zh": "在……期间；随着……的推移",
+                    "note": "可接时间段"
+                },
+                {
+                    "da": "blive mindre",
+                    "zh": "变小；缩小",
+                    "note": "比较级与 `blive` 组合"
+                }
+            ],
+            "nuance": "作者同时承认丹麦语内部的多样性和现代方言差异缩小的趋势。`selvom` 将两个看似矛盾的现象并置：差异减少并不意味着方言消失。历史表达 `det 20. århundrede` 指1901至2000年，不能简单地与 `2000-tallet` 混同。",
+            "transfer": [
+                "Dansk tales med forskellige dialekter.",
+                "Forskellene er blevet mindre i løbet af de sidste hundrede år.",
+                "Dialekterne findes stadig, selvom de har ændret sig."
+            ],
+            "pitfall": "`tales` 是 s-被动，不是普通现在时 `taler`。`det 20. århundrede` 是20世纪，而 `1900-tallet` 也指20世纪；丹麦语年代词需要特别注意。"
+        },
+        {
+            "id": "U23-C021",
+            "zh": "在南日德兰，人们用一句 mojn 打招呼；不管是见面还是告别，都可以这样说。",
+            "grammar": "句首地点状语 `I Sønderjylland` 引发 `hilser man` 的 V2 倒装。`hilse med noget` 表示用某种表达问候。`både når … og når …` 并列两个时间情境：相见与离开。`mødes` 是相互性动词表达，`går` 在这里根据上下文表示离开。",
+            "vocabulary": [
+                {
+                    "da": "Sønderjylland",
+                    "zh": "南日德兰",
+                    "note": "丹麦南部的历史文化区域"
+                },
+                {
+                    "da": "hilse",
+                    "zh": "打招呼；问候",
+                    "note": "`hilse på nogen` 向某人问好"
+                },
+                {
+                    "da": "mojn",
+                    "zh": "你好；再见",
+                    "note": "南日德兰地区具有代表性的地方问候语"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……；无论……还是……",
+                    "note": "本句连接两种使用场景"
+                }
+            ],
+            "nuance": "`mojn` 不只是一个词汇知识点，也承载鲜明的地域身份。作者特意说明它既用于见面，也用于告别，提醒读者地方口语的使用规则可能与标准教材中的问候语不同。实际使用时，地域、年龄和个人习惯都会影响其自然程度。",
+            "transfer": [
+                "I Sønderjylland siger mange mojn.",
+                "Man kan bruge hilsenen både ved ankomst og ved afsked.",
+                "Hvordan hilser man på hinanden i din region?"
+            ],
+            "pitfall": "`hilse på` 是向某人打招呼，`hilse med` 在这里是用某个词问候，介词随结构改变。`mojn` 不是全丹麦各地同样普遍的问候语。"
+        },
+        {
+            "id": "U23-C022",
+            "zh": "不过，广播、电视、学校教育以及人口迁移，已经促使大多数年轻人使用一种接近哥本哈根标准丹麦语的说法；许多传统方言则正逐渐衰退。",
+            "grammar": "主语由四个并列名词构成，核心谓语 `har fået de fleste unge til at tale …` 使用 `få nogen til at + 不定式` 的使役结构。`noget, der minder om …` 是带关系从句的名词性表达，`minde om` 表示与某物相似。第二分句 `er ved at svinde ind` 使用 `være ved at + 不定式` 表示变化正在进行，`svinde ind` 表示缩减或逐渐消退。",
+            "vocabulary": [
+                {
+                    "da": "få nogen til at",
+                    "zh": "促使某人做某事",
+                    "note": "表示因果影响，不必意味着强迫"
+                },
+                {
+                    "da": "minde om noget",
+                    "zh": "与某物相似；让人想起某物",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "rigsdansk",
+                    "zh": "标准丹麦语；通用丹麦语",
+                    "note": "描述超越地区方言的标准化语言形式"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正在；正处于某变化过程中",
+                    "note": "常用于渐进发生的动作"
+                },
+                {
+                    "da": "svinde ind",
+                    "zh": "缩减；逐渐减少；衰退",
+                    "note": "可用于人口、资源、方言使用范围"
+                }
+            ],
+            "nuance": "作者把方言趋同与大众传媒、教育和人口流动联系起来。`noget, der minder om` 是谨慎表述，表示年轻人的语言接近某种标准形式，而非人人说得完全一样。`er ved at svinde ind` 描写传统方言在使用范围上的渐进变化，不意味着它们已经全部消失。",
+            "transfer": [
+                "Medierne har fået mange unge til at ændre deres sprog.",
+                "Deres udtale minder om rigsdansk.",
+                "Flere traditionelle dialekter er ved at svinde ind."
+            ],
+            "pitfall": "`minde om` 是相似或让人想起，不是提醒某人做某事的 `minde nogen om at`。`være ved at` 不能直接理解为在某物旁边。"
+        },
+        {
+            "id": "U23-C023",
+            "zh": "尽管如此，人们往往仍能从一个人的语调和个别用词听出他来自哪里；而许多人也以自己的地域口音能被辨认出来为荣。",
+            "grammar": "句首 `Alligevel` 表示尽管如此，后面采用 `kan man` 的 V2 倒装。`høre, hvor en person kommer fra` 包含间接地点疑问从句。`på tonefaldet og på enkelte ord` 表示判断依据。第二分句 `mange er stolte af at kunne høres` 使用 `være stolt af` 加不定式，`kunne høres` 是情态动词加 s-被动，指其说话方式能被听出来或辨认出来。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；然而还是",
+                    "note": "承认前文事实后引出相反或补充情况"
+                },
+                {
+                    "da": "et tonefald",
+                    "zh": "语调；说话腔调",
+                    "note": "描述地域口音和表达语气"
+                },
+                {
+                    "da": "enkelte ord",
+                    "zh": "个别词语；少数词汇",
+                    "note": "`enkelte` 不等于一个整体"
+                },
+                {
+                    "da": "være stolt af",
+                    "zh": "以……为荣",
+                    "note": "后接名词或 `at` 不定式"
+                },
+                {
+                    "da": "kunne høres",
+                    "zh": "能够被听出来；能够被辨认出来",
+                    "note": "此处指地域语言特征能被识别"
+                }
+            ],
+            "nuance": "这句从方言衰退转向方言认同。即使各地方言越来越接近标准语，人们仍可能通过语调和少数特色词辨认地域背景。破折号后的部分很有意思：某些人并不想掩盖地方口音，反而为别人能听出自己的家乡感到自豪。`kunne høres` 因此不只是声音可被听见，而是身份特征可被识别。",
+            "transfer": [
+                "Man kan ofte høre, hvor folk kommer fra, på deres tonefald.",
+                "Hun er stolt af sin dialekt.",
+                "Alligevel findes der stadig tydelige regionale forskelle."
+            ],
+            "pitfall": "`høre på tonefaldet` 中的 `på` 引出判断依据。`kunne høres` 是被动表达，在这里不要仅译为声音足够大、可以听见。"
+        },
+        {
+            "id": "U23-C024",
+            "zh": "此外，在较大的城市里，拥有不同语言背景的年轻人还发展出新的说话方式，其中会把阿拉伯语、土耳其语和英语的词汇融入丹麦语。",
+            "grammar": "句首 `I de større byer` 是地点状语，随后采用存在结构 `er der opstået`，表示某种语言形式已经出现。`nye måder at tale på` 中，不定式末尾的 `på` 与名词 `måder` 对应，表示说话的方式。`blandt unge med forskellige sproglige baggrunde` 限定使用者群体。`hvor ord … blandes ind i dansk` 是关系性说明从句，使用 s-被动 `blandes`。",
+            "vocabulary": [
+                {
+                    "da": "opstå",
+                    "zh": "产生；出现；形成",
+                    "note": "`opstå – opstod – opstået`"
+                },
+                {
+                    "da": "en sproglig baggrund",
+                    "zh": "语言背景",
+                    "note": "可涉及家庭语言、成长环境等"
+                },
+                {
+                    "da": "en måde at tale på",
+                    "zh": "一种说话方式",
+                    "note": "介词 `på` 留在不定式末尾"
+                },
+                {
+                    "da": "blande noget ind i noget",
+                    "zh": "把某物掺入或融入另一物",
+                    "note": "这里指词汇进入另一种语言的表达"
+                },
+                {
+                    "da": "desuden",
+                    "zh": "此外；另外",
+                    "note": "用于添加信息"
+                }
+            ],
+            "nuance": "作者指出语言变化不仅表现为传统方言的衰退，也表现为多语言城市环境中新型表达方式的出现。`opstået` 强调这些形式是在社会互动中发展出来的。`forskellige sproglige baggrunde` 是中性描述，没有把青年语言简单归类为错误丹麦语。借入其他语言词汇也不意味着整个句子因此失去丹麦语的语法结构。",
+            "transfer": [
+                "Der er opstået nye måder at tale på blandt unge.",
+                "Mange låneord bliver blandet ind i hverdagssproget.",
+                "Byen har beboere med forskellige sproglige baggrunde."
+            ],
+            "pitfall": "`en måde at tale på` 中的 `på` 是搭配的一部分，不应省略。`opstå` 表示产生，不等于有人有意创造或正式规定。"
+        },
+        {
+            "id": "U23-C025",
+            "zh": "许多丹麦姓氏都以 -sen 结尾，比如 Jensen、Nielsen、Hansen 和 Pedersen，都是最常见的姓氏之一。",
+            "grammar": "第一分句 `Mange danske efternavne ender på …` 使用 `ende på` 表示词语以某种形式结尾。冒号后列举四个姓氏，主句谓语 `er blandt de mest udbredte` 表示属于最常见的一组。`blandt` 强调其中之一，而不是某个单独的最高排名。",
+            "vocabulary": [
+                {
+                    "da": "et efternavn",
+                    "zh": "姓氏",
+                    "note": "与 `et fornavn` 名字相对"
+                },
+                {
+                    "da": "ende på",
+                    "zh": "以……结尾",
+                    "note": "讨论拼写、词尾和形式时常用"
+                },
+                {
+                    "da": "udbredt",
+                    "zh": "普遍的；广泛分布的",
+                    "note": "`de mest udbredte` 最常见的一批"
+                },
+                {
+                    "da": "-sen",
+                    "zh": "传统丹麦姓氏常见的词尾",
+                    "note": "历史上与某人的儿子这一父名构词方式有关"
+                }
+            ],
+            "nuance": "这一句通过熟悉的姓氏进入丹麦姓名文化。`-sen` 不只是随意的字母组合，而有历史上的父名构词背景。作者选用几个常见例子，让学习者能够在真实生活中识别这种模式。现代拥有这些姓氏的人，其姓氏通常是稳定的家族姓氏，并不需要与其父亲的实际名字对应。",
+            "transfer": [
+                "Mange danske efternavne ender på -sen.",
+                "Mit efternavn er blandt de mest almindelige i landet.",
+                "Ordet ender på en konsonant."
+            ],
+            "pitfall": "`efternavn` 是姓，`fornavn` 是名。`ende på` 是以某种字母或音结尾，不应使用表示地点的 `ende i` 来机械替代。"
+        },
+        {
+            "id": "U23-C026",
+            "zh": "这些姓氏源于这样一个时代：彼得的儿子会姓 Pedersen；而到了下一代，如果孩子的父亲名叫 Hans，他的儿子就可能姓 Hansen。",
+            "grammar": "主句 `Navnene stammer fra en tid` 使用 `stamme fra` 表示历史来源。`hvor …` 是修饰 `en tid` 的关系从句。`Peders søn` 使用专有名词所有格，表示 Peder 的儿子。`hed` 是 `hedde` 的过去时，表示名叫。后半部分 `hans søn igen kunne hedde Hansen` 使用 `kunne` 表示某种可能的命名情况，`hvis faren hed Hans` 是条件从句。",
+            "vocabulary": [
+                {
+                    "da": "stamme fra",
+                    "zh": "源于；来自",
+                    "note": "固定介词 `fra`"
+                },
+                {
+                    "da": "hedde",
+                    "zh": "名叫；名字是",
+                    "note": "`hedde – hed – heddet`"
+                },
+                {
+                    "da": "en søn",
+                    "zh": "儿子",
+                    "note": "复数 `sønner`"
+                },
+                {
+                    "da": "igen",
+                    "zh": "又；再；到了下一次",
+                    "note": "这里用于说明下一代可能再次按父亲名字命名"
+                }
+            ],
+            "nuance": "作者解释的是历史上的父名姓氏制度：人的姓可以根据父亲的名字形成，而不一定世代固定。`hvor` 在这里引导对某个时代的具体说明。后面的 Hansen 例子必须结合 `hvis faren hed Hans` 理解：只有父亲名叫 Hans，才会形成这样的父名姓氏，不能认为 Pedersen 的儿子会自动姓 Hansen。",
+            "transfer": [
+                "Efternavnet stammer fra en tid, hvor navne blev dannet på en anden måde.",
+                "Han hedder Jensen, men hans far hedder Nielsen.",
+                "Barnets efternavn kunne afhænge af farens fornavn."
+            ],
+            "pitfall": "`hed` 是 `hedde` 的过去时，不是英语 head。`Peders` 是名字 Peder 的所有格；`Pedersen` 是姓氏形式，两者不能混淆。"
+        },
+        {
+            "id": "U23-C027",
+            "zh": "如今，许多人希望拥有更有个性的姓氏；如果想创造一个丹麦此前尚无人使用的新姓，也可以提出申请，争取获得批准。",
+            "grammar": "第一分句 `I dag ønsker mange …` 以时间状语开头，因此采用 `ønsker mange` 的 V2 倒装。`et mere særpræget navn` 使用比较级，表示更具特色。第二分句 `man kan søge om at få godkendt …` 包含连续结构：`søge om at` 申请做某事，`få + 过去分词` 表示某项申请获得处理或批准。`som ikke allerede findes som efternavn i Danmark` 是修饰新姓氏的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "særpræget",
+                    "zh": "独特的；具有鲜明特色的",
+                    "note": "可修饰名字、风格和个人特点"
+                },
+                {
+                    "da": "søge om",
+                    "zh": "申请；提出申请",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "få noget godkendt",
+                    "zh": "使某事获得批准",
+                    "note": "`få + 过去分词` 表示获得某项处理结果"
+                },
+                {
+                    "da": "et efternavn",
+                    "zh": "姓氏",
+                    "note": "区别于 `fornavn` 名字"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经；早已",
+                    "note": "这里与否定一起说明此前尚未存在"
+                }
+            ],
+            "nuance": "作者从传统姓氏转向现代个性化命名。`mere særpræget` 带有追求独特性的意味，不一定意味着原来的姓不好。`søge om at få godkendt` 明确指出改名需要经过申请与审批，而不是任何想出来的新姓都自动获得许可。具体是否批准还取决于实际姓名法规。",
+            "transfer": [
+                "Man kan søge om at få et nyt efternavn godkendt.",
+                "Mange ønsker et mere personligt navn.",
+                "Ansøgningen skal godkendes af myndighederne."
+            ],
+            "pitfall": "`søge om` 表示申请，`søge efter` 表示寻找。`få godkendt` 是获得批准，不是自己批准自己。"
+        },
+        {
+            "id": "U23-C028",
+            "zh": "如今，许多新词来自英语；你会听到丹麦年轻人说某件事很 nice，或者说他们周末打算 chille，也就是放松一下。",
+            "grammar": "第一分句 `Mange nye ord kommer i dag fra engelsk` 使用 `komme fra` 表示词汇来源。第二分句 `man kan høre unge danskere sige …` 使用感知动词结构 `høre nogen + 不带 at 的不定式`。`sige` 后接两个并列 `at` 内容从句，分别描述年轻人如何使用外来词。`skal` 在周末活动语境中表示计划安排。",
+            "vocabulary": [
+                {
+                    "da": "komme fra",
+                    "zh": "来自；源于",
+                    "note": "既可用于人的来源，也可用于词汇来源"
+                },
+                {
+                    "da": "et låneord",
+                    "zh": "外来词；借词",
+                    "note": "复数 `låneord`"
+                },
+                {
+                    "da": "nice",
+                    "zh": "不错的；很棒的",
+                    "note": "来自英语，常见于非正式口语"
+                },
+                {
+                    "da": "chille",
+                    "zh": "放松；悠闲地待着",
+                    "note": "来自英语 chill，丹麦语中可按本国语法变位"
+                },
+                {
+                    "da": "i weekenden",
+                    "zh": "在周末",
+                    "note": "丹麦语常用的时间表达"
+                }
+            ],
+            "nuance": "作者通过年轻人的日常表达展示英语借词如何进入丹麦语。`man kan høre` 表明这是一种现实语言使用现象，而不是在规定所有丹麦人都应该这么说。`nice` 和 `chille` 带有非正式、年轻化的风格；在正式公文或学术论文中通常需要考虑是否改用更中性的表达。",
+            "transfer": [
+                "Mange nye ord kommer fra engelsk.",
+                "Man kan høre unge sige, at festen var nice.",
+                "Vi skal bare chille derhjemme i weekenden."
+            ],
+            "pitfall": "`chille` 在丹麦语中是动词，可以使用丹麦语时态词尾。`skal` 在这里表示周末计划，不一定是外部强制义务。"
+        },
+        {
+            "id": "U23-C029",
+            "zh": "丹麦语委员会持续关注语言的发展，并制定官方拼写规范，但它无权禁止人们使用某个词。",
+            "grammar": "主语 `Dansk Sprognævn` 后接两个并列现在时谓语 `følger` 和 `fastlægger`。`men` 引出制度权力的边界。`kan ikke forbyde nogen at bruge et ord` 使用 `forbyde nogen at + 不定式`，表示禁止某人做某事；否定词 `ikke` 放在情态动词之后。",
+            "vocabulary": [
+                {
+                    "da": "Dansk Sprognævn",
+                    "zh": "丹麦语委员会",
+                    "note": "负责丹麦语相关规范与语言发展工作的机构"
+                },
+                {
+                    "da": "følge udviklingen",
+                    "zh": "跟踪发展；关注变化趋势",
+                    "note": "研究与政策工作中常用"
+                },
+                {
+                    "da": "fastlægge",
+                    "zh": "确定；制定；确立",
+                    "note": "`fastlægge regler` 确定规则"
+                },
+                {
+                    "da": "retskrivning",
+                    "zh": "正字法；规范拼写",
+                    "note": "en retskrivning"
+                },
+                {
+                    "da": "forbyde nogen at",
+                    "zh": "禁止某人做某事",
+                    "note": "`forbyde – forbød – forbudt`"
+                }
+            ],
+            "nuance": "这句区分官方拼写规范和普通人实际使用语言的自由。`følger udviklingen` 表明委员会观察语言变化，而不仅是静态维护规则。`men` 是全句关键：制定正字规范并不等于能直接控制所有人的词汇选择。作者借此说明语言既有规范层面，也有社会实际使用层面。",
+            "transfer": [
+                "Myndigheden følger udviklingen og fastlægger reglerne.",
+                "Sprognævnet kan ikke forbyde folk at bruge bestemte ord.",
+                "Der er forskel på officiel retskrivning og daglig sprogbrug."
+            ],
+            "pitfall": "`retskrivning` 是正确拼写规范，不是法律写作。`forbyde nogen at` 后接不定式，不能省略行为的结构。"
+        },
+        {
+            "id": "U23-C030",
+            "zh": "外来词本身并不是一种威胁：多数外来词都会逐渐适应丹麦语的发音和词形变化，因此人们会说 flere computere，也会说 jeg chillede。",
+            "grammar": "第一分句 `Lånene er ikke en trussel i sig selv` 中，`i sig selv` 表示就其本身而言。冒号后使用 s-被动或被动状态表达 `bliver tilpasset`，说明外来词经历适应过程。`så man siger …` 是结果从句。`flere computere` 展示名词复数变化，`jeg chillede` 展示动词过去时变化。",
+            "vocabulary": [
+                {
+                    "da": "et lån",
+                    "zh": "借入的事物；借词",
+                    "note": "这里是语言学意义上的借词，而非金融贷款"
+                },
+                {
+                    "da": "en trussel",
+                    "zh": "威胁",
+                    "note": "`en trussel mod noget` 对某事物的威胁"
+                },
+                {
+                    "da": "i sig selv",
+                    "zh": "就其本身而言",
+                    "note": "用于区分事物自身与其他相关问题"
+                },
+                {
+                    "da": "tilpasse noget til noget",
+                    "zh": "使某物适应另一种规范",
+                    "note": "`blive tilpasset` 被调整以适应"
+                },
+                {
+                    "da": "bøjning",
+                    "zh": "词形变化；屈折变化",
+                    "note": "en bøjning；包括复数、时态等形式"
+                }
+            ],
+            "nuance": "作者反驳外来词会自动破坏丹麦语的简单化观点。`i sig selv` 非常重要，它没有说任何语言变化都绝不会引起争议，而是指出借词这一现象本身不应直接等同于威胁。两个例子展示借词融入本国语法的具体方式：名词接受丹麦语复数形式，动词接受丹麦语过去时变化。",
+            "transfer": [
+                "Låneord er ikke nødvendigvis en trussel i sig selv.",
+                "Mange engelske ord bliver tilpasset dansk grammatik.",
+                "Nye ord kan få danske bøjningsformer."
+            ],
+            "pitfall": "`lån` 在此指语言中的借词，不是向银行借的钱。`bøjning` 在语言学中是词形变化，不是身体弯曲。`tilpasse til` 的介词是 `til`。"
+        },
+        {
+            "id": "U23-C031",
+            "zh": "如今，丹麦有相当一部分人口具有移民背景；而在许多丹麦家庭里，人们围坐餐桌吃饭时，说的并不是丹麦语，而是另一种语言。",
+            "grammar": "第一分句以 `I dag` 开头，采用 `har en betydelig del af befolkningen` 的 V2 语序。第二分句以地点状语 `i mange danske hjem` 开头，随后出现 `tales der` 的无人称 s-被动结构。`et andet sprog end dansk` 使用 `andet … end …` 表示不同于丹麦语的另一种语言。`ved middagsbordet` 是具体的家庭交际场景。",
+            "vocabulary": [
+                {
+                    "da": "en betydelig del af",
+                    "zh": "相当一部分",
+                    "note": "正式说明中常用，未指明具体百分比"
+                },
+                {
+                    "da": "indvandrerbaggrund",
+                    "zh": "移民背景",
+                    "note": "en indvandrerbaggrund"
+                },
+                {
+                    "da": "et hjem",
+                    "zh": "家；家庭生活环境",
+                    "note": "复数 `hjem`"
+                },
+                {
+                    "da": "ved middagsbordet",
+                    "zh": "在餐桌旁；在家庭用餐时",
+                    "note": "也具有家庭交流场景的象征意义"
+                },
+                {
+                    "da": "et andet sprog end",
+                    "zh": "不同于……的另一种语言",
+                    "note": "比较结构 `andet … end …`"
+                }
+            ],
+            "nuance": "文章从语言借词转向人口多样性和家庭语言实践。`en betydelig del` 是定性数量表达，不能擅自换算成具体比例。`ved middagsbordet` 特别生动：家庭饭桌是语言习惯、亲密关系和文化传承的重要场景。句子没有暗示所有移民背景家庭只说一种非丹麦语，也没有将移民背景与丹麦身份对立起来。",
+            "transfer": [
+                "En betydelig del af befolkningen taler flere sprog.",
+                "I mange hjem tales der mere end ét sprog.",
+                "Vi taler ofte vores modersmål ved middagsbordet."
+            ],
+            "pitfall": "`tales der` 是无人称被动结构，不是有人在那里讲话的普通主动句。`indvandrerbaggrund` 是移民背景，不等于该人本人一定是第一代移民。"
+        },
+        {
+            "id": "U23-C032",
+            "zh": "在欧登塞的 Haddad 一家，父母彼此之间说阿拉伯语，而孩子们则更喜欢用丹麦语回答。",
+            "grammar": "句首 `Hos familien Haddad i Odense` 表示在某个家庭中，后接 `taler forældrene` 的 V2 倒装。`med hinanden` 表示彼此之间交流。`mens` 在这里引出对照分句，比较父母和孩子的语言偏好。`helst` 表示更愿意、最倾向于，`svare på dansk` 使用 `på` 表示回答所使用的语言。",
+            "vocabulary": [
+                {
+                    "da": "hos familien",
+                    "zh": "在某一家人家里；在某个家庭中",
+                    "note": "`hos` 常用于表示某人的住处或家庭场景"
+                },
+                {
+                    "da": "med hinanden",
+                    "zh": "彼此之间",
+                    "note": "表达双方或多方的相互交流"
+                },
+                {
+                    "da": "helst",
+                    "zh": "最愿意；更倾向于",
+                    "note": "常用于表达偏好"
+                },
+                {
+                    "da": "svare på dansk",
+                    "zh": "用丹麦语回答",
+                    "note": "语言选择常用 `på + 语言名称`"
+                }
+            ],
+            "nuance": "这一句呈现双语家庭很常见的交流模式：家长使用一种语言，孩子却用另一种语言回答。`helst` 很重要，因为它反映的是孩子的偏好，不直接说明孩子完全不懂阿拉伯语。`mens` 强调代际之间的语言选择差异，为后面的家庭对话建立背景。",
+            "transfer": [
+                "Hjemme hos os taler vi flere sprog.",
+                "Forældrene taler arabisk med hinanden.",
+                "Børnene svarer helst på dansk."
+            ],
+            "pitfall": "`hos familien` 是在某家庭中，不是表示姓氏归属的 `fra familien`。`svare på dansk` 是用丹麦语回答，不能机械说成 `svare i dansk`。"
+        },
+        {
+            "id": "U23-C033",
+            "zh": "Rami，你能把面包递给我吗？",
+            "grammar": "`Kan du …?` 是情态动词 `kan` 引导的一般疑问句。`sende mig brødet` 使用双宾语结构，`mig` 是接受者，`brødet` 是递交的物品。这里的 `sende` 在餐桌场景中可以自然理解为递过来。",
+            "vocabulary": [
+                {
+                    "da": "sende nogen noget",
+                    "zh": "把某物递给某人；把某物发送给某人",
+                    "note": "实际意义由场景决定"
+                },
+                {
+                    "da": "et brød",
+                    "zh": "面包",
+                    "note": "`brødet` 是确定形式，指桌上的面包"
+                }
+            ],
+            "nuance": "父亲使用普通的家庭餐桌请求，语气自然，没有特别正式的礼貌套语。这与前面关于丹麦语请求方式的讨论形成呼应。同时，文章的家庭背景说明父母可能在不同语境中选择不同语言，但这句本身展示的是丹麦语表达。",
+            "transfer": [
+                "Kan du sende mig vandet?",
+                "Vil du række mig brødet?"
+            ],
+            "pitfall": "`sende` 不只表示寄信或发送电子邮件，也可以在具体场景中表示把物品递给别人。"
+        },
+        {
+            "id": "U23-C034",
+            "zh": "给你。妈妈，我能再要一点米饭吗？",
+            "grammar": "`Her` 是高度省略的交物回应，相当于东西在这里、给你。第二句 `må jeg få …?` 使用 `må` 请求许可。`noget mere ris` 中 `noget mere` 表示再多一点，`ris` 是在这里作为食物整体使用的名词。",
+            "vocabulary": [
+                {
+                    "da": "her",
+                    "zh": "给你；在这里",
+                    "note": "递交物品时可独立使用"
+                },
+                {
+                    "da": "Må jeg få …?",
+                    "zh": "我可以要……吗？",
+                    "note": "餐桌、商店和家庭中常用"
+                },
+                {
+                    "da": "noget mere",
+                    "zh": "再多一点",
+                    "note": "后接食物或其他不可数数量表达"
+                },
+                {
+                    "da": "ris",
+                    "zh": "米饭；大米",
+                    "note": "这里指作为食物的米饭"
+                }
+            ],
+            "nuance": "Rami 一边把面包递给父亲，一边自然地用丹麦语向母亲继续提出请求。`Må jeg få …?` 表示礼貌地征求许可，符合家庭用餐场景。这个细节也让读者看到：孩子在家庭中优先使用丹麦语，可能已经形成非常自然的习惯。",
+            "transfer": [
+                "Må jeg få lidt mere ris?",
+                "Her er brødet.",
+                "Kan jeg få noget mere vand?"
+            ],
+            "pitfall": "`må` 在这里表示允许、许可，不是必须。`noget mere ris` 指再多一些米饭，不能用可数名词的复数结构机械替换。"
+        },
+        {
+            "id": "U23-C035",
+            "zh": "用阿拉伯语问。",
+            "grammar": "祈使式动词 `Spørg` 位于句首，省略主语 `du`。`på arabisk` 是方式状语，表示使用阿拉伯语来完成提问。",
+            "vocabulary": [
+                {
+                    "da": "spørge på et sprog",
+                    "zh": "用某种语言提问",
+                    "note": "`på dansk`、`på arabisk` 等"
+                },
+                {
+                    "da": "arabisk",
+                    "zh": "阿拉伯语",
+                    "note": "作为语言名称使用"
+                }
+            ],
+            "nuance": "母亲的指示简短直接，符合亲密家庭环境中的教育口吻。她并非拒绝给孩子米饭，而是利用日常交流鼓励孩子主动使用阿拉伯语。此时语言选择具有家庭语言传承的意义。",
+            "transfer": [
+                "Prøv at spørge på arabisk.",
+                "Kan du sige det på dansk?"
+            ],
+            "pitfall": "表示用某种语言说话，通常使用 `på`，如 `på dansk`。不要因为汉语说用阿拉伯语就直接套用 `med arabisk`。"
+        },
+        {
+            "id": "U23-C036",
+            "zh": "妈……",
+            "grammar": "只有称呼语，没有完整谓语。省略号表示说话人拖长声音、犹豫或带着不情愿的情绪，具体感受由对话语境决定。",
+            "vocabulary": [],
+            "nuance": "Rami 的这一声呼唤带着轻微抗议或撒娇意味：他可能觉得母亲提出的语言要求有些麻烦。作者没有让孩子作长篇反驳，而是通过一个称呼和省略号表现真实的家庭互动。这里的语调比词汇和语法更重要。",
+            "transfer": [
+                "Mor, behøver jeg virkelig det?",
+                "Åh, mor, ikke nu."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U23-C037",
+            "zh": "就两秒钟的事。你奶奶不会丹麦语，你得能用电话跟她说话呀。",
+            "grammar": "第一句 `Det tager to sekunder` 使用 `tage + 时间` 表示某项行动所需时间，这里带有夸张效果。第二句包含两个并列分句：`Din farmor forstår ikke dansk` 和 `du skal kunne tale med hende i telefonen`。`skal kunne` 连用两个情态动词，表示必须具备某种能力；`tale med nogen` 表示与某人交谈。",
+            "vocabulary": [
+                {
+                    "da": "Det tager …",
+                    "zh": "这需要花费……时间",
+                    "note": "`Det tager kun et øjeblik` 只要一会儿"
+                },
+                {
+                    "da": "en farmor",
+                    "zh": "奶奶；父亲的母亲",
+                    "note": "区别于 `mormor` 外婆"
+                },
+                {
+                    "da": "skal kunne",
+                    "zh": "必须能够；需要具备……能力",
+                    "note": "情态动词连用"
+                },
+                {
+                    "da": "tale med nogen i telefonen",
+                    "zh": "通过电话与某人交谈",
+                    "note": "固定介词搭配"
+                }
+            ],
+            "nuance": "母亲先以 `Det tager to sekunder` 淡化孩子的不情愿，再给出真正理由：阿拉伯语关系到与奶奶之间的亲情联系。这里的语言学习并非为了考试，而是为了维持跨代家庭交流。`skal kunne` 强调的是长期能力，而不只是当下重复一次问句。",
+            "transfer": [
+                "Det tager kun et par sekunder.",
+                "Min farmor forstår ikke dansk.",
+                "Jeg vil gerne kunne tale med min familie på deres modersmål."
+            ],
+            "pitfall": "`farmor` 是父亲的母亲，`mormor` 是母亲的母亲。`skal kunne` 不是单纯的必须做，而是必须有能力做。"
+        },
+        {
+            "id": "U23-C038",
+            "zh": "好啦，好啦。",
+            "grammar": "重复同一个应答词，构成口语中的强调或情绪表达。没有显性的主谓结构。",
+            "vocabulary": [
+                {
+                    "da": "okay",
+                    "zh": "好；行；知道了",
+                    "note": "重复时可以表达轻微的不耐烦或无奈"
+                }
+            ],
+            "nuance": "Rami 最终答应母亲，但重复两遍带着一点无奈，像中文的好啦好啦。它并非激烈反抗，也不完全等同于热情赞同。这里的意义很大程度依赖语调。",
+            "transfer": [
+                "Okay, jeg gør det.",
+                "Ja ja, jeg har forstået det."
+            ],
+            "pitfall": "重复的 `okay` 不一定比说一次更积极，也可能表示勉强接受。"
+        },
+        {
+            "id": "U23-C039",
+            "zh": "Rami 改用阿拉伯语问了一遍，妈妈笑了。",
+            "grammar": "两个并列主句使用叙事现在时：`Rami spørger` 和 `hans mor smiler`。`på arabisk` 表示提问使用的语言。虽然前后对话具有过去的故事背景，作者继续使用现在时，让读者仿佛正在观看家庭场景。",
+            "vocabulary": [
+                {
+                    "da": "spørge på arabisk",
+                    "zh": "用阿拉伯语提问",
+                    "note": "语言方式使用介词 `på`"
+                },
+                {
+                    "da": "smile",
+                    "zh": "微笑",
+                    "note": "`smile – smilede – smilet`"
+                }
+            ],
+            "nuance": "作者没有提供 Rami 实际说出的阿拉伯语句子，因为这一情节的重点不是阿拉伯语语法，而是孩子确实能够使用这门语言，以及母亲对他愿意使用母语的满意。`smiler` 是一种温和的正面反馈。",
+            "transfer": [
+                "Barnet svarede på sit modersmål.",
+                "Hans mor smilede, da han begyndte at tale arabisk."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U23-C040",
+            "zh": "你看，这不是会说嘛！",
+            "grammar": "句首 `Se` 是祈使式，用来提醒对方注意已经显现的事实。`det kunne du jo godt` 将宾语 `det` 前置，因此后面采用 `kunne du` 的 V2 倒装。`kunne` 在这里回顾刚刚证明的能力，`jo` 表示这一事实现在已显而易见，`godt` 加强肯定。",
+            "vocabulary": [
+                {
+                    "da": "se",
+                    "zh": "你看；瞧",
+                    "note": "此处为话语提示词，不一定要求实际看某个物体"
+                },
+                {
+                    "da": "kunne godt",
+                    "zh": "确实能做到；其实有能力",
+                    "note": "用于肯定某人的能力"
+                },
+                {
+                    "da": "jo",
+                    "zh": "本来就；你看嘛",
+                    "note": "强调说话双方现在可以共同确认的事实"
+                }
+            ],
+            "nuance": "母亲的话带着满意与一点善意的打趣。`jo` 是关键：她的意思是孩子明明能够用阿拉伯语表达，只是刚才不愿意。`godt` 也不是单纯评价说得好，而是强调能够做到。整句非常适合学习丹麦语中语气小品词如何传递亲密关系中的情绪。",
+            "transfer": [
+                "Se, det gik jo fint.",
+                "Det kunne du jo sagtens.",
+                "Du kan jo godt, når du prøver."
+            ],
+            "pitfall": "`jo` 不是所有句子中都表示因为或当然；这里表达显而易见、说话双方共享的认识。`kunne` 是过去式，但语境中强调刚才已经证明的能力。"
+        },
+        {
+            "id": "U23-C041",
+            "zh": "关于多语言能力的研究表明，儿童完全能够同时学习两种或更多语言。",
+            "grammar": "主句 `Forskning i flersprogethed viser` 后接 `at` 内容从句。`børn sagtens kan lære …` 是从句语序，副词 `sagtens` 位于主语之后、限定动词 `kan` 之前。`to eller flere sprog` 表示两种或更多语言。`på samme tid` 表示在同一时期学习。",
+            "vocabulary": [
+                {
+                    "da": "flersprogethed",
+                    "zh": "多语言能力；多语现象",
+                    "note": "en flersprogethed；语言学与教育讨论中的术语"
+                },
+                {
+                    "da": "forskning i",
+                    "zh": "关于……的研究",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "vise, at …",
+                    "zh": "表明；显示……",
+                    "note": "用于介绍研究发现"
+                },
+                {
+                    "da": "sagtens",
+                    "zh": "完全能够；没问题地",
+                    "note": "强调事情可以顺利做到"
+                },
+                {
+                    "da": "på samme tid",
+                    "zh": "同时；在同一时期",
+                    "note": "可用于多项活动并行"
+                }
+            ],
+            "nuance": "作者借助研究结论回应双语家庭常见的顾虑。`sagtens` 表达明确的肯定：学习两种语言本身不构成儿童无法应对的障碍。但这一表述不等于保证每个孩子在所有语言上的水平、发展速度都完全相同。`Forskning … viser` 具有较正式的知识说明语体。",
+            "transfer": [
+                "Forskning viser, at børn sagtens kan lære flere sprog.",
+                "Det er muligt at lære to sprog på samme tid.",
+                "Flersprogethed er en naturlig del af mange børns hverdag."
+            ],
+            "pitfall": "`sagtens` 不是 `sagt` 说过的简单延伸，在这里表示完全可以。`flersprogethed` 是多语现象，`tosprogethed` 特指双语现象，两者范围不同。"
+        },
+        {
+            "id": "U23-C042",
+            "zh": "在家说另一种语言，也不会因此损害孩子们的丹麦语能力。",
+            "grammar": "主句 `Det skader heller ikke deres dansk` 使用形式主语 `Det`，真正表达行为内容的是句末不定式结构 `at tale et andet sprog derhjemme`。`heller ikke` 承接前一句的肯定，进一步否定另一种担忧。`deres dansk` 将语言名称名词化，表示孩子们的丹麦语水平。",
+            "vocabulary": [
+                {
+                    "da": "skade",
+                    "zh": "损害；伤害",
+                    "note": "`skade noget` 直接接宾语"
+                },
+                {
+                    "da": "heller ikke",
+                    "zh": "也不；同样不会",
+                    "note": "用于否定语境中的补充"
+                },
+                {
+                    "da": "derhjemme",
+                    "zh": "在家里",
+                    "note": "常与 `hjemme` 接近，但作为地点副词有固定用法"
+                },
+                {
+                    "da": "deres dansk",
+                    "zh": "他们的丹麦语水平",
+                    "note": "`dansk` 在这里名词化"
+                }
+            ],
+            "nuance": "本句继续纠正认为家庭使用其他语言必然妨碍丹麦语学习的误解。`heller ikke` 与上一句形成连贯论证：孩子能够同时学习多门语言，而且在家使用另一门语言本身也不必然伤害丹麦语。作者下一句进一步补充足够使用两种语言的重要性，使论述保持完整。",
+            "transfer": [
+                "Det skader ikke deres dansk at tale arabisk derhjemme.",
+                "Det er ikke nødvendigvis et problem at bruge flere sprog.",
+                "Børn kan udvikle deres dansk, selvom de også taler et andet sprog hjemme."
+            ],
+            "pitfall": "`skade` 是损害，不能把它与 `skabe` 创造混淆。`heller ikke` 在这里表示也不会，不是简单的 `også ikke`。"
+        },
+        {
+            "id": "U23-C043",
+            "zh": "不过，这有一个前提：两种语言都必须有足够的使用机会。许多父母也发现，孩子开始上学之后，家庭母语的使用会慢慢减少，逐渐失去原有的地位。",
+            "grammar": "第一分句 `Det kræver dog, at …` 使用形式主语和内容从句，表达某种结果所需的条件。`begge sprog bliver brugt nok` 是 `blive + 过去分词` 被动结构，`nok` 表示足够。第二分句 `mange forældre oplever, at …` 后接内容从句，`modersmålet langsomt taber terræn` 使用固定比喻。`når børnene begynder i skole` 是时间从句，说明这种变化出现的阶段。",
+            "vocabulary": [
+                {
+                    "da": "Det kræver, at …",
+                    "zh": "这需要……；其前提是……",
+                    "note": "适合条件分析与建议"
+                },
+                {
+                    "da": "begge",
+                    "zh": "两者都",
+                    "note": "严格对应两个对象"
+                },
+                {
+                    "da": "bruge noget nok",
+                    "zh": "充分使用某物",
+                    "note": "`nok` 表示足够"
+                },
+                {
+                    "da": "et modersmål",
+                    "zh": "母语；家庭传承语言",
+                    "note": "复数 `modersmål`"
+                },
+                {
+                    "da": "tabe terræn",
+                    "zh": "失去优势；逐渐退缩；使用范围缩小",
+                    "note": "固定比喻，原义与失去地盘有关"
+                }
+            ],
+            "nuance": "这是多语言教育部分最重要的条件限定。作者既肯定多语言学习的可行性，也强调语言能力离不开实际使用。`dog` 纠正过度乐观的理解，`tabe terræn` 则形象描绘孩子入学后丹麦语使用增多、家庭语言可能减少的过程。这里说的是许多家庭观察到的趋势，不是所有多语言儿童必然失去母语。",
+            "transfer": [
+                "Det kræver, at begge sprog bliver brugt regelmæssigt.",
+                "Mange familier oplever, at modersmålet taber terræn.",
+                "Når børnene begynder i skole, ændrer deres sproglige hverdag sig."
+            ],
+            "pitfall": "`nok` 在本句表示足够，不是大概。`tabe terræn` 是逐渐失去地位的隐喻，不是实际丢失土地。`begge` 只对应两个对象，多于两个时要考虑使用 `alle`。"
+        },
+        {
+            "id": "U23-C044",
+            "zh": "成年人学习丹麦语，学到的不只是单词和语法，还包括什么时候可以说“啊？”，什么时候应该说“不好意思”，以及什么时候一句轻描淡写的话其实是在夸奖别人。",
+            "grammar": "主语 `Den, der lærer dansk som voksen` 使用 `Den, der …` 指任何符合条件的人，关系从句修饰前面的代词。主句采用 `ikke kun … men også …` 连接两个学习内容。后一部分包含三个由 `hvornår` 引导的间接疑问从句，它们采用陈述式从句语序。`en underdrivelse er en ros` 中，`underdrivelse` 表示故意把评价说得比实际程度轻。",
+            "vocabulary": [
+                {
+                    "da": "som voksen",
+                    "zh": "作为成年人；在成年后",
+                    "note": "用于区分不同人生阶段"
+                },
+                {
+                    "da": "ikke kun … men også …",
+                    "zh": "不只是……而且还……",
+                    "note": "并列扩展结构"
+                },
+                {
+                    "da": "en underdrivelse",
+                    "zh": "轻描淡写；低调陈述；有意弱化的说法",
+                    "note": "英语 understatement 的对应概念"
+                },
+                {
+                    "da": "en ros",
+                    "zh": "赞扬；夸奖",
+                    "note": "`rose nogen` 夸奖某人"
+                },
+                {
+                    "da": "hvornår man siger",
+                    "zh": "什么时候该说……",
+                    "note": "学习语用规则的高价值句型"
+                }
+            ],
+            "nuance": "这一句把全篇前面的礼貌、方言与语言身份主题提升到成人语言学习的核心：真正掌握一门语言，还需要掌握什么时候该使用某种表达。`underdrivelse er en ros` 尤其体现丹麦语语用特色，例如某些语境下 `Det er ikke så ringe` 可以是在表达称赞。作者强调的不是固定翻译，而是根据场景理解语言背后的社会意义。",
+            "transfer": [
+                "At lære et sprog handler ikke kun om ord og grammatik, men også om kultur.",
+                "Man skal lære, hvornår et udtryk passer til situationen.",
+                "En underdrivelse kan være en form for ros."
+            ],
+            "pitfall": "`underdrivelse` 不是单纯说谎，而是有意减弱表达程度。`Den, der …` 是泛指结构，不一定指某个具体的人。`hvornår` 后的间接疑问从句不能使用直接疑问语序。"
+        },
+        {
+            "id": "U23-C045",
+            "zh": "许多人说，最难的其实不是让丹麦人听懂自己，而是当丹麦人听出自己的外国口音后，怎样让他们继续用丹麦语和自己交流，而不是转用英语。",
+            "grammar": "主句 `Mange beskriver, at …` 引出对学习困难的描述。内容从句中采用对照结构 `det sværeste ikke er X, men Y`。`gøre sig forstået` 是反身结构，表示使自己被别人理解。`få danskerne til at blive ved med at tale dansk` 包含两个嵌套搭配：`få nogen til at` 使某人做某事，以及 `blive ved med at` 继续做某事。`når de hører en accent` 是时间或情境从句。",
+            "vocabulary": [
+                {
+                    "da": "gøre sig forstået",
+                    "zh": "让别人听懂自己；清楚表达自己的意思",
+                    "note": "固定反身表达"
+                },
+                {
+                    "da": "få nogen til at",
+                    "zh": "使某人愿意做某事；让某人采取某种行动",
+                    "note": "使役结构"
+                },
+                {
+                    "da": "blive ved med at",
+                    "zh": "继续做某事",
+                    "note": "固定搭配，不可省略 `med`"
+                },
+                {
+                    "da": "en accent",
+                    "zh": "口音",
+                    "note": "复数 `accenter`"
+                },
+                {
+                    "da": "det sværeste",
+                    "zh": "最困难的事情",
+                    "note": "形容词最高级名词化"
+                }
+            ],
+            "nuance": "这是针对成年丹麦语学习者非常具体的社会交际困境。学习者可能已经能够让对方理解，但只要对方听出外国口音，就习惯性改用英语。`ikke … men …` 明确区分语言表达能力和获得练习机会这两个问题。句子没有认为所有丹麦人都会这样做，而是描述许多学习者报告的体验。",
+            "transfer": [
+                "Det sværeste er ikke at gøre mig forstået, men at få andre til at tale dansk med mig.",
+                "Vil du blive ved med at tale dansk, selvom jeg har en accent?",
+                "Jeg prøver at få mine kolleger til at fortsætte samtalen på dansk."
+            ],
+            "pitfall": "`gøre sig forstået` 是使自己被理解，不能理解成自己理解自己。`blive ved med at` 表示继续，`være ved at` 表示正在做，二者意义不同。"
+        },
+        {
+            "id": "U23-C046",
+            "zh": "丹麦人改用英语通常是出于好意，但这也可能剥夺正在学习丹麦语的人真正需要的练习机会。",
+            "grammar": "第一分句 `Det er venligt ment` 使用过去分词 `ment` 表示行为的意图。`når en dansker skifter til engelsk` 是时间或情境从句。第二分句 `det kan fratage den … den træning` 使用双宾语结构 `fratage nogen noget`，表示从某人那里夺去某物。`den, der er ved at lære sproget` 是泛指人的关系结构；`den træning, der skal til` 中 `der skal til` 表示实现目标所必需的练习。",
+            "vocabulary": [
+                {
+                    "da": "være venligt ment",
+                    "zh": "出于好意；本意是友善的",
+                    "note": "评价行为动机的自然表达"
+                },
+                {
+                    "da": "skifte til",
+                    "zh": "切换到；改用",
+                    "note": "可用于语言、方案或工作方式"
+                },
+                {
+                    "da": "fratage nogen noget",
+                    "zh": "剥夺某人的某种东西",
+                    "note": "`fratage – fratog – frataget`"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正在做某事",
+                    "note": "强调过程正在进行"
+                },
+                {
+                    "da": "det, der skal til",
+                    "zh": "所必需的条件或努力",
+                    "note": "固定表达；适合谈成功所需资源"
+                }
+            ],
+            "nuance": "这一句非常细致地区分好意和效果。丹麦人转用英语可能是为了让交流更方便，但无意间却减少了学习者接触丹麦语的机会。`venligt ment` 避免把对方描写成故意排斥，`fratage` 则强调客观上可能造成的损失。这样的分析方式在跨文化沟通和教育讨论中很值得借鉴。",
+            "transfer": [
+                "Det er venligt ment, men det hjælper mig ikke med at øve dansk.",
+                "Når folk skifter til engelsk, mister jeg en mulighed for at øve mig.",
+                "Det kræver den træning, der skal til for at blive bedre."
+            ],
+            "pitfall": "`ment` 来自 `mene`，不是 `minde`。`fratage nogen noget` 是双宾语搭配，不能机械添加 `fra`。`det, der skal til` 表示必要条件，不是将要发生的事情。"
+        },
+        {
+            "id": "U23-C047",
+            "zh": "直接开口提出请求可能很有帮助：“你能不能拜托继续跟我说丹麦语？我真的很想练习。”",
+            "grammar": "主句 `Det kan hjælpe at spørge direkte` 使用形式主语 `det`，后面的不定式说明具体行动。引文中的 `Vil du ikke nok …?` 是一种礼貌而略带恳求意味的否定疑问句，并不表示预期对方一定拒绝。`blive ved med at` 表示继续做某事。第二句 `Jeg vil gerne øve mig` 使用 `vil gerne` 表示积极意愿，`øve sig` 是反身动词。",
+            "vocabulary": [
+                {
+                    "da": "Det kan hjælpe at",
+                    "zh": "做某事可能会有帮助",
+                    "note": "提出实用建议时常用"
+                },
+                {
+                    "da": "spørge direkte",
+                    "zh": "直接提出请求；直接询问",
+                    "note": "`direkte` 强调不绕弯子"
+                },
+                {
+                    "da": "Vil du ikke nok …?",
+                    "zh": "能不能请你……？",
+                    "note": "礼貌请求，可带轻微恳求"
+                },
+                {
+                    "da": "blive ved med at",
+                    "zh": "继续做某事",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "øve sig",
+                    "zh": "练习；训练自己",
+                    "note": "`Jeg vil gerne øve mig` 我想练习"
+                }
+            ],
+            "nuance": "作者没有只指出问题，而是给学习者提供可以直接在现实生活中使用的表达。`Vil du ikke nok …?` 比简单的命令更礼貌，也更清楚地传达希望对方配合的心情。接着说 `Jeg vil gerne øve mig`，向对方解释原因，使请求显得合理且不具攻击性。",
+            "transfer": [
+                "Vil du ikke nok tale dansk med mig?",
+                "Jeg vil gerne øve mig, så kan vi fortsætte på dansk?",
+                "Det hjælper mig meget, hvis du bliver ved med at tale dansk."
+            ],
+            "pitfall": "不要把 `Vil du ikke nok …?` 按字面译成你不够愿意吗；它是一种整体的礼貌请求。`øve sig` 是反身结构，第一人称必须使用 `mig`。"
+        },
+        {
+            "id": "U23-C048",
+            "zh": "对丹麦人来说，能够给予学习者的最好帮助，也许其实非常简单：继续用丹麦语和他们交流，只要稍微说慢一点就好。",
+            "grammar": "主语 `Det bedste, en dansker kan gøre` 包含省略宾语关系代词的关系从句。系动词 `er` 后接不定式结构 `at blive ved med at tale dansk`，说明最好的做法。`måske` 表示谨慎推测，`ganske enkelt` 表示其实很简单。破折号后的 `lidt langsommere` 是补充的方式状语，说明应怎样调整说话速度。",
+            "vocabulary": [
+                {
+                    "da": "det bedste, man kan gøre",
+                    "zh": "一个人能做的最好的事",
+                    "note": "提出建议和总结时非常实用"
+                },
+                {
+                    "da": "måske",
+                    "zh": "也许；可能",
+                    "note": "使建议更温和"
+                },
+                {
+                    "da": "ganske enkelt",
+                    "zh": "其实很简单；说到底不过是",
+                    "note": "用于引出简洁的解决方案"
+                },
+                {
+                    "da": "blive ved med at",
+                    "zh": "继续做某事",
+                    "note": "强调不要中断已经进行的行为"
+                },
+                {
+                    "da": "lidt langsommere",
+                    "zh": "稍微慢一些",
+                    "note": "`langsomt` 的比较级为 `langsommere`"
+                }
+            ],
+            "nuance": "作者把复杂的跨文化交流问题总结成一项小而有效的行动。`måske` 和 `ganske enkelt` 让建议不显得居高临下。破折号后的 `lidt langsommere` 是关键：不必放弃丹麦语，换成英语；只需调整语速，就可能帮助学习者继续参与真实交流。这里并非要求丹麦人永远不能改用英语，而是强调尊重学习者练习意愿。",
+            "transfer": [
+                "Det bedste, du kan gøre, er at fortsætte på dansk.",
+                "Tal gerne lidt langsommere.",
+                "Det kan være ganske enkelt at hjælpe en sprogstuderende."
+            ],
+            "pitfall": "`ganske enkelt` 是其实很简单，不一定是在评价事情简单到毫无困难。`langsommere` 是更慢，区别于 `langsomt` 慢慢地。"
+        },
+        {
+            "id": "U23-C049",
+            "zh": "一年后，还是在办公室里，在那次关于晚餐邀约的对话发生整整一年之后，这一回没听清 Anders 说话的人，变成了 Mei。",
+            "grammar": "句首 `En dag på kontoret` 和插入说明 `et år efter samtalen om middagen` 共同交代时间与背景。主句 `er det Mei, der ikke hører …` 是典型强调句 `Det er X, der …`，突出这次没听见的人是 Mei，而不是 Anders。`hvad Anders siger` 是由 `hvad` 引导的间接疑问从句，作为 `hører` 的宾语。",
+            "vocabulary": [
+                {
+                    "da": "et år efter",
+                    "zh": "一年以后",
+                    "note": "表示相对于某事件的时间间隔"
+                },
+                {
+                    "da": "en samtale om noget",
+                    "zh": "关于某事的一次谈话",
+                    "note": "`om` 引出话题"
+                },
+                {
+                    "da": "Det er X, der …",
+                    "zh": "正是X……；这一次是X……",
+                    "note": "用于突出人物并形成对照"
+                },
+                {
+                    "da": "høre, hvad nogen siger",
+                    "zh": "听清某人说的话",
+                    "note": "`hvad … siger` 是间接疑问从句"
+                }
+            ],
+            "nuance": "这是全文精心安排的首尾呼应。第一章中 Mei 没有理解 Anders 的简短追问；一年之后，两人的角色互换，没听清的人变成 Mei。强调句 `er det Mei, der …` 特别突出了这种反转。`samtalen om middagen` 指最初邀请一起吃饭时发生的那段对话，而不必理解为他们后来真正吃饭时的谈话。",
+            "transfer": [
+                "Denne gang er det mig, der ikke forstår.",
+                "Et år efter vores første samtale mødtes vi igen.",
+                "Det er hende, der skal forklare situationen nu."
+            ],
+            "pitfall": "`Det er X, der …` 是强调结构，不能把 `det` 当成一个具体物体。`hvad Anders siger` 是间接疑问从句，不用直接疑问句语序。"
+        },
+        {
+            "id": "U23-C050",
+            "zh": "她想也没想，脱口而出：“啊？”",
+            "grammar": "主句 `Hun svarer` 使用叙事现在时。`uden at tænke over det` 是方式状语，表示没有经过刻意思考就作出反应。`uden at + 不定式` 表示未进行某个伴随动作。`tænke over noget` 是固定搭配，表示思考、考虑某事。冒号后的口语回应是她自然说出口的内容。",
+            "vocabulary": [
+                {
+                    "da": "uden at",
+                    "zh": "没有……就；不经……地",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "tænke over noget",
+                    "zh": "思考；考虑某事",
+                    "note": "固定介词 `over`"
+                },
+                {
+                    "da": "svare",
+                    "zh": "回答；回应",
+                    "note": "`svare på et spørgsmål` 回答一个问题"
+                }
+            ],
+            "nuance": "结尾的幽默和力量都来自 `uden at tænke over det`：Mei 已经不需要先在脑中判断这句口语是否礼貌，而是自然地把它当作日常交流的一部分。她不只是学会了一个新词，更掌握了这一表达在丹麦同事间的语用含义。文章通过这个简短回应完成从文化误解到语言融入的转变。",
+            "transfer": [
+                "Hun svarede uden at tænke over det.",
+                "Jeg bruger efterhånden udtrykket helt naturligt.",
+                "Nogle udtryk kommer automatisk, når man har brugt sproget længe."
+            ],
+            "pitfall": "`uden at tænke over det` 是想也没想，不等于不负责任。`tænke over` 表示认真考虑，与 `tænke på` 想到、惦记某事有语义差别。"
+        }
+    ]
+}

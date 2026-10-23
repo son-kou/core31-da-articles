@@ -1,0 +1,1477 @@
+{
+    "schema_version": 1,
+    "unit": "U14",
+    "part": "ALL",
+    "source_fingerprint": "U14-ALL-6d75dc3894e0",
+    "sentences": [
+        {
+            "id": "U14-C001",
+            "zh": "马利克19岁，即将第一次参加投票。此刻，他正站在自己以前就读的公立学校体育馆里的投票隔间内，手里拿着一支铅笔。",
+            "grammar": "句子由多个并列分句组成：`Malik er 19` 说明年龄，`skal stemme` 表示即将参与的活动，`han står` 转入现场描写。`for første gang` 表示第一次。`med en blyant i hånden` 是伴随状语，其中 `i hånden` 描述铅笔所处的位置。现在时 `står` 用于场景化叙事，营造现场感。",
+            "vocabulary": [
+                {
+                    "da": "stemme",
+                    "zh": "投票；发声",
+                    "note": "选举语境中指投票；`stemme på nogen/noget` 表示投票支持某人或某党"
+                },
+                {
+                    "da": "for første gang",
+                    "zh": "第一次",
+                    "note": "常与人生经历、首次尝试搭配"
+                },
+                {
+                    "da": "en stemmeboks",
+                    "zh": "投票隔间",
+                    "note": "选民在其中秘密填写选票"
+                },
+                {
+                    "da": "en gymnastiksal",
+                    "zh": "体育馆、学校体育活动室",
+                    "note": "复数 `gymnastiksale`"
+                },
+                {
+                    "da": "en folkeskole",
+                    "zh": "丹麦公立基础学校",
+                    "note": "涵盖小学及初中阶段，不能简单等同于中文的“小学”"
+                }
+            ],
+            "nuance": "文章不从抽象政治理论入手，而是通过一位首次投票的年轻人的经历介绍民主制度。`sin gamle folkeskole` 带有个人成长的意味：曾经上学的地方，如今成为行使公民权利的场所。`skal stemme` 在这里表达即将进行的行为，而非强调某种强制义务。",
+            "transfer": [
+                "Jeg skal stemme for første gang.",
+                "Hun står i kø med sit valgkort i hånden.",
+                "Valgstedet ligger på min gamle skole."
+            ],
+            "pitfall": "`stemme` 作为投票动词，不能直接把候选人作宾语说成 `stemme en kandidat`，通常用 `stemme på en kandidat`。`skal` 在此不等于法律上必须投票。"
+        },
+        {
+            "id": "U14-C002",
+            "zh": "几周前，他收到了选民通知卡。从那以后，全城的路灯杆上就一直挂满了印着候选人笑脸的竞选海报。",
+            "grammar": "`For nogle uger siden` 前置，引起主句V2倒装 `fik han`。第二分句以 `siden da` 开头，后接 `har lygtepælene ... været dækket af`。这里是现在完成时与状态性被动表达的结合，说明从过去某个时间点延续至今的状态。`med smilende kandidater` 修饰海报，`smilende` 是现在分词作定语。",
+            "vocabulary": [
+                {
+                    "da": "et valgkort",
+                    "zh": "选民通知卡",
+                    "note": "包含投票相关信息，不等同于选票 `en stemmeseddel`"
+                },
+                {
+                    "da": "siden da",
+                    "zh": "从那时起、此后一直",
+                    "note": "常与现在完成时连用"
+                },
+                {
+                    "da": "en lygtepæl",
+                    "zh": "路灯杆",
+                    "note": "复数确定形式 `lygtepælene`"
+                },
+                {
+                    "da": "være dækket af noget",
+                    "zh": "被某物覆盖、挂满某物",
+                    "note": "`dækket` 是 `dække` 的过去分词"
+                },
+                {
+                    "da": "en kandidat",
+                    "zh": "候选人",
+                    "note": "政治语境指参选者；大学语境也可以指硕士毕业生"
+                }
+            ],
+            "nuance": "作者通过选民通知卡和竞选海报，把选举描绘成逐渐进入日常生活的公共事件。`har ... været dækket` 突出街景在一段时间内持续呈现的状态，而不是单纯报告张贴海报的动作。`smilende kandidater` 是具体的视觉描写，略带对竞选宣传常见形象的观察意味。",
+            "transfer": [
+                "For nogle uger siden fik jeg et brev fra kommunen.",
+                "Siden da har vi arbejdet på projektet.",
+                "Byen har været dækket af valgplakater."
+            ],
+            "pitfall": "`siden da` 表示从过去某一时间点持续到后来或现在，与只表示过去某时的 `dengang` 不同。`valgkort` 不是用来打叉投票的那张选票。"
+        },
+        {
+            "id": "U14-C003",
+            "zh": "现在，他必须决定，究竟是把叉号画在某个政党旁边，还是画在某位具体候选人旁边。",
+            "grammar": "主句骨架是 `Nu skal han beslutte`，句首 `Nu` 使主语 `han` 后移，形成V2语序。`om krydset skal stå ...` 是由 `om` 引导的间接选择疑问从句。`ved et parti eller ved en bestemt kandidat` 使用并列结构，表示两种投票选择。`skal stå` 在这里指叉号应标在什么位置。",
+            "vocabulary": [
+                {
+                    "da": "beslutte",
+                    "zh": "决定",
+                    "note": "可说 `beslutte sig for noget`，也可接 `om` 或 `at` 从句"
+                },
+                {
+                    "da": "et kryds",
+                    "zh": "叉号、十字标记",
+                    "note": "选票上通常用叉号表示选择"
+                },
+                {
+                    "da": "et parti",
+                    "zh": "政党",
+                    "note": "复数 `partier`"
+                },
+                {
+                    "da": "bestemt",
+                    "zh": "特定的、明确的",
+                    "note": "这里表示具体某一位候选人，而非随便一个人"
+                },
+                {
+                    "da": "stå ved noget",
+                    "zh": "位于某物旁边",
+                    "note": "在本句中描述标记的位置"
+                }
+            ],
+            "nuance": "句子介绍丹麦选票上的两种选择方式：可以投给政党，也可以针对特定候选人投票。`en bestemt kandidat` 强调个人选择，反映政党与候选人两个层面的投票决定。`Nu skal han beslutte` 把读者带入投票前短暂的思考时刻。",
+            "transfer": [
+                "Jeg skal beslutte, hvem jeg vil stemme på.",
+                "Man kan sætte kryds ved et parti eller en kandidat.",
+                "Jeg har endnu ikke besluttet mig."
+            ],
+            "pitfall": "`om` 在此引导“是否、究竟哪种选择”的间接疑问句，不是介词“关于”。从句应采用 `om krydset skal stå`，不能采用直接疑问句倒装。"
+        },
+        {
+            "id": "U14-C004",
+            "zh": "他画好叉号，把选票折起来，然后将它投入封好的投票箱。",
+            "grammar": "三个并列谓语 `sætter`、`folder`、`putter` 共享主语 `Han`，依次描写动作。`folde noget sammen` 是动词小品词结构，`sammen` 强调折叠起来。`putte noget i noget` 表示将某物放进容器。`den forseglede urne` 中，过去分词 `forseglede` 作形容词定语。",
+            "vocabulary": [
+                {
+                    "da": "sætte kryds",
+                    "zh": "画叉号、勾选",
+                    "note": "投票和填写表格时常用"
+                },
+                {
+                    "da": "folde noget sammen",
+                    "zh": "把某物折起来",
+                    "note": "过去时 `foldede`"
+                },
+                {
+                    "da": "en seddel",
+                    "zh": "纸条、单据",
+                    "note": "这里的 `sedlen` 指前文隐含的选票 `stemmesedlen`"
+                },
+                {
+                    "da": "forseglet",
+                    "zh": "已封好的、加封的",
+                    "note": "来自动词 `forsegle`"
+                },
+                {
+                    "da": "en urne",
+                    "zh": "投票箱；骨灰瓮",
+                    "note": "选举语境中指投票箱"
+                }
+            ],
+            "nuance": "三个动作没有添加多余解释，呈现出投票程序的简洁与日常性。`forseglede` 暗示投票过程中的保管与完整性要求。这里的 `urne` 是正式选举用语，不能仅根据常见中文翻译理解为骨灰容器。",
+            "transfer": [
+                "Sæt kryds ved det rigtige svar.",
+                "Fold papiret sammen.",
+                "Læg sedlen i kassen."
+            ],
+            "pitfall": "`sætte kryds` 是固定搭配，不宜机械写成 `tegne kryds` 作为所有投票场景的默认表达。`putte noget i` 表示放进去，不能漏掉表示容器的介词 `i`。"
+        },
+        {
+            "id": "U14-C005",
+            "zh": "整个过程只用了两分钟。",
+            "grammar": "`Det` 指代前面完成的投票过程。`har taget` 是 `tage` 的现在完成时，描述截至叙事此刻已经完成的动作及其耗时。`to minutter` 直接作时间长度补语，无需介词。",
+            "vocabulary": [
+                {
+                    "da": "tage tid",
+                    "zh": "花费时间",
+                    "note": "常用结构 `Det tager X minutter at gøre noget`"
+                }
+            ],
+            "nuance": "短句与前面连续动作形成节奏上的收束。作者强调投票过程本身快捷、简单，也为后文指出政府组成往往复杂得多埋下伏笔。",
+            "transfer": [
+                "Det tog kun fem minutter.",
+                "Det har taget længere tid end forventet.",
+                "Hvor lang tid tager det?"
+            ],
+            "pitfall": "`tage` 在这里是花费时间，不是“拿”。丹麦语说 `Det tager to minutter`，不需要英语式的介词结构。"
+        },
+        {
+            "id": "U14-C006",
+            "zh": "外婆：哎，怎么样，你最后投给谁啦？",
+            "grammar": "`hvem` 是介词 `på` 的宾语，疑问词前置，句末保留 `på`。`Nå` 是话语小品词，`så` 在这里不表示严格的因果关系，而是让询问自然地承接已经发生的投票。",
+            "vocabulary": [
+                {
+                    "da": "Nå",
+                    "zh": "哎、哦、怎么样",
+                    "note": "口语话语标记，具体语气取决于语调和情境"
+                },
+                {
+                    "da": "stemme på nogen",
+                    "zh": "投票支持某人",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "så",
+                    "zh": "那么、结果、后来",
+                    "note": "这里表示顺着刚发生的事情继续追问"
+                }
+            ],
+            "nuance": "外婆带着亲近、好奇的语气询问孙子的选择。`Nå ... så` 使问题听起来像家庭聊天，而不是正式的政治调查。",
+            "transfer": [
+                "Nå, hvordan gik det så?",
+                "Hvem stemte du på?",
+                "Nå, hvad synes du så?"
+            ],
+            "pitfall": "`Hvem stemte du på?` 中的 `på` 不能因为疑问词移到句首而省略。"
+        },
+        {
+            "id": "U14-C007",
+            "zh": "马利克：这是秘密啦，外婆。",
+            "grammar": "`Det` 指代他的投票选择，`hemmeligt` 是表语形容词的中性形式，与中性代词 `det` 呼应。末尾的 `mormor` 是呼语，不属于主句主谓结构。",
+            "vocabulary": [
+                {
+                    "da": "hemmelig",
+                    "zh": "秘密的、保密的",
+                    "note": "中性形式 `hemmeligt`；`en hemmelighed` 是一个秘密"
+                },
+                {
+                    "da": "mormor",
+                    "zh": "外婆",
+                    "note": "母亲的母亲；丹麦语明确区分母系与父系祖父母"
+                }
+            ],
+            "nuance": "马利克并不是严肃地拒绝外婆，而是借秘密投票原则与她开玩笑。简短的回答兼有坚持个人隐私和家庭亲昵的意味。",
+            "transfer": [
+                "Det er hemmeligt.",
+                "Det vil jeg helst holde for mig selv."
+            ],
+            "pitfall": "`mormor` 是外婆，`farmor` 是奶奶。`hemmeligt` 与 `en hemmelighed` 分别是形容词和名词，不可混用。"
+        },
+        {
+            "id": "U14-C008",
+            "zh": "外婆：我年轻的时候也是保密的。我可从来没告诉过你外公我投给了谁。",
+            "grammar": "`Det var det også` 中第一个 `Det` 指当年的投票选择，第二个 `det` 回指“秘密的”这一性质，相当于省略重复形容词后的指代说法。`da jeg var ung` 是过去时间从句。第二句 `har aldrig fortalt` 用现在完成时配合 `aldrig`，强调直到现在都没有透露。`fortælle nogen noget` 可直接接收话对象和所说内容。",
+            "vocabulary": [
+                {
+                    "da": "da jeg var ung",
+                    "zh": "我年轻的时候",
+                    "note": "回顾过去时期时用 `da`"
+                },
+                {
+                    "da": "aldrig",
+                    "zh": "从来没有、永不",
+                    "note": "在这里与现在完成时共同表示截至现在的经历"
+                },
+                {
+                    "da": "fortælle nogen noget",
+                    "zh": "告诉某人某事",
+                    "note": "人和内容都可直接作宾语"
+                },
+                {
+                    "da": "morfar",
+                    "zh": "外公",
+                    "note": "母亲的父亲；与 `farfar` 区分"
+                }
+            ],
+            "nuance": "外婆的回答使代际对话出现反转：她并不是不理解秘密投票，反而坚持了几十年。`aldrig` 为后面的幽默铺垫，并使秘密投票从正式制度变成夫妻间带有玩笑意味的小秘密。",
+            "transfer": [
+                "Det gjorde jeg også, da jeg var ung.",
+                "Jeg har aldrig fortalt nogen det.",
+                "Det har altid været en hemmelighed."
+            ],
+            "pitfall": "`da` 这里引出过去某一时期的事实，不要机械替换成表示一般性时间或未来条件的 `når`。`morfar` 是外公而非爷爷。"
+        },
+        {
+            "id": "U14-C009",
+            "zh": "马利克：连过了五十年都没告诉他？",
+            "grammar": "这是承接前一句的省略疑问句。`Heller ikke` 继承前文否定的 `har aldrig fortalt`，表示“甚至那时也没有”。`efter halvtreds år` 指经过五十年之后，省略的谓语由对话上下文恢复。",
+            "vocabulary": [
+                {
+                    "da": "heller ikke",
+                    "zh": "也不、甚至也没有",
+                    "note": "用于呼应前面的否定"
+                },
+                {
+                    "da": "halvtreds",
+                    "zh": "五十",
+                    "note": "丹麦语数词体系中的常用形式"
+                },
+                {
+                    "da": "efter X år",
+                    "zh": "经过X年以后",
+                    "note": "强调一段时间流逝后的状态"
+                }
+            ],
+            "nuance": "马利克惊讶的是时间如此之长，外婆仍然保守秘密。简短的省略句听起来非常符合口语中的即时追问。",
+            "transfer": [
+                "Heller ikke efter så mange år?",
+                "Har du stadig ikke fortalt ham det?",
+                "Ikke engang efter ti år?"
+            ],
+            "pitfall": "`heller ikke` 用来延续否定，不能随意用肯定语境中的 `også` 替换。"
+        },
+        {
+            "id": "U14-C010",
+            "zh": "外婆：尤其是过了五十年以后，更不能告诉他啦。",
+            "grammar": "`Især ikke` 是省略性的强调否定结构，承接前面的保守秘密行为。`efter halvtreds år` 表示时间经过五十年之后。整句省略了可以由上下文恢复的谓语。",
+            "vocabulary": [
+                {
+                    "da": "især",
+                    "zh": "尤其、特别",
+                    "note": "常用于突出某一情况"
+                },
+                {
+                    "da": "især ikke",
+                    "zh": "尤其不、尤其不能",
+                    "note": "强调某一情况更不适合做某事"
+                }
+            ],
+            "nuance": "笑点来自预期反转：马利克觉得时间越久越没必要保密，外婆却说时间越久越要保密。她没有解释理由，留给读者自行体会这种夫妻之间的幽默。",
+            "transfer": [
+                "Især ikke i dag.",
+                "Det skal man især ikke gøre uden tilladelse."
+            ],
+            "pitfall": "`især ikke` 不等于 `ikke især`。前者表示尤其不适用于某情况，后者通常是对“特别”这一程度本身进行否定。"
+        },
+        {
+            "id": "U14-C011",
+            "zh": "然而，投票结果本身往往并不能直接决定究竟由谁执政。",
+            "grammar": "主句是 `selve valget afgør sjældent ...`，`sjældent` 是频率副词，位于限定动词之后。`hvem der skal regere` 是间接疑问从句，其中 `hvem` 充当主语，后面使用从句主语位置的 `der`。`skal regere` 表示未来或预期的执政安排。",
+            "vocabulary": [
+                {
+                    "da": "selve",
+                    "zh": "……本身、……这一行为本身",
+                    "note": "用于把核心事物与相关过程区分开"
+                },
+                {
+                    "da": "afgøre",
+                    "zh": "决定、裁定、最终确定",
+                    "note": "过去时 `afgjorde`，过去分词 `afgjort`"
+                },
+                {
+                    "da": "sjældent",
+                    "zh": "很少、难得",
+                    "note": "表示频率低，并非绝对不会"
+                },
+                {
+                    "da": "regere",
+                    "zh": "执政、统治",
+                    "note": "政治语境下可指政府掌握行政领导权"
+                }
+            ],
+            "nuance": "这里出现全篇第一个重要政治转折。作者从投票程序转向选举后如何组成政府。`selve` 强调投票本身与之后的政治协商不同；`sjældent` 避免把复杂的制度现实表述成绝对规则。",
+            "transfer": [
+                "Valget afgør, hvem der får flest mandater.",
+                "Det er ikke altid selve resultatet, der er afgørende.",
+                "Det afhænger af, hvem der kan danne regering."
+            ],
+            "pitfall": "`hvem der skal regere` 中的 `der` 不应随意删去。它与 `hvem regeringen skal samarbejde med` 这种疑问词作宾语的从句结构不同。"
+        },
+        {
+            "id": "U14-C012",
+            "zh": "真正由谁执政，要到选举后的几天里才会确定下来。",
+            "grammar": "`Det` 回指前句的政府组成问题。`bliver afgjort` 是 `blive` 被动结构，强调决定形成的过程或结果。`først` 位于谓语之后，表示“直到……才”，而不是仅仅表示时间顺序中的“首先”。`i dagene efter` 是省略了具体事件的时间表达，指选举后的日子。",
+            "vocabulary": [
+                {
+                    "da": "blive afgjort",
+                    "zh": "得到决定、最终确定",
+                    "note": "被动形式"
+                },
+                {
+                    "da": "først",
+                    "zh": "直到……才；首先",
+                    "note": "这里突出决定发生得较晚"
+                },
+                {
+                    "da": "i dagene efter",
+                    "zh": "在之后的几天里",
+                    "note": "前文已经提供参照事件"
+                }
+            ],
+            "nuance": "这个短句承接上一句，制造从投票结束到政府产生之间的时间差。前面投票只用了两分钟，但决定执政组合却可能需要数日协商，形成有意义的叙事对照。",
+            "transfer": [
+                "Resultatet bliver først offentliggjort i morgen.",
+                "Beslutningen bliver afgjort efter mødet.",
+                "Det bliver først klart senere."
+            ],
+            "pitfall": "`først` 在这里不是“第一个”，而是表示某事要等到较晚的时间点才发生。`blive afgjort` 不要误解为主动的“去决定”。"
+        },
+        {
+            "id": "U14-C013",
+            "zh": "1849年制定的丹麦宪法以权力应当三权分立的思想为基础：议会负责通过法律，政府负责将法律付诸实施，而法院负责审判。",
+            "grammar": "主句 `Grundloven ... bygger på tanken om ...` 使用固定结构 `bygge på`。`tanken om, at ...` 引出思想内容。`magten skal deles i tre` 中 `deles` 是s-被动，说明权力被划分。冒号后用三个并列分句说明各机构职能。`fører dem ud i livet` 中 `dem` 指前面的 `lovene`，`føre noget ud i livet` 是整体习语。",
+            "vocabulary": [
+                {
+                    "da": "Grundloven",
+                    "zh": "丹麦宪法",
+                    "note": "作为法律名称常用确定形式并首字母大写"
+                },
+                {
+                    "da": "bygge på noget",
+                    "zh": "以……为基础、建立在……之上",
+                    "note": "抽象论述中的高频固定搭配"
+                },
+                {
+                    "da": "magtens tredeling",
+                    "zh": "三权分立",
+                    "note": "政治和宪法领域的专门概念"
+                },
+                {
+                    "da": "vedtage en lov",
+                    "zh": "通过一项法律",
+                    "note": "`vedtage` 常用于法律、提案和正式决定"
+                },
+                {
+                    "da": "føre noget ud i livet",
+                    "zh": "把某事付诸实践、落实",
+                    "note": "固定习语，常用于计划、政策和法律"
+                }
+            ],
+            "nuance": "作者以简洁的三个并列分句说明立法、行政与司法职能。`bygger på tanken om` 表示背后的宪制理念，比直接说“宪法规定三项内容”更强调原则层面的基础。`føre ud i livet` 具有生动的隐喻色彩，强调让抽象规则在现实中实施。",
+            "transfer": [
+                "Systemet bygger på princippet om magtens tredeling.",
+                "Folketinget vedtager lovene, og regeringen gennemfører dem.",
+                "Vi skal føre planen ud i livet."
+            ],
+            "pitfall": "`vedtage` 是正式通过，`foreslå` 是提出建议，`gennemføre` 是实施，不能混淆。`føre ud i livet` 不能逐词直译为“带进生活”。"
+        },
+        {
+            "id": "U14-C014",
+            "zh": "宪法还保障一系列自由权利，其中包括言论自由、集会自由和宗教自由。",
+            "grammar": "主句骨架为 `Grundloven sikrer ... en række frihedsrettigheder`。`en række` 是数量表达，表示一系列。`blandt andet` 引出不完全列举，说明列出的权利只是其中一部分。",
+            "vocabulary": [
+                {
+                    "da": "sikre noget",
+                    "zh": "保障、确保某事",
+                    "note": "法律与政策语境中常见"
+                },
+                {
+                    "da": "en række",
+                    "zh": "一系列、若干",
+                    "note": "常见搭配 `en række muligheder/problemer/rettigheder`"
+                },
+                {
+                    "da": "en frihedsrettighed",
+                    "zh": "自由权、基本自由权利",
+                    "note": "复合名词，复数 `frihedsrettigheder`"
+                },
+                {
+                    "da": "ytringsfrihed",
+                    "zh": "言论自由",
+                    "note": "`ytring` 指表达或言论"
+                },
+                {
+                    "da": "forsamlingsfrihed / religionsfrihed",
+                    "zh": "集会自由／宗教自由",
+                    "note": "共同使用后缀 `-frihed`"
+                }
+            ],
+            "nuance": "句子延续宪法介绍，但从国家机构的权力分工转向个人的基本自由。`blandt andet` 保持列举的开放性，避免让人以为宪法保障的权利仅限于这三项。",
+            "transfer": [
+                "Loven sikrer en række grundlæggende rettigheder.",
+                "Det gælder blandt andet ytringsfrihed.",
+                "Borgerne har ret til at udtrykke deres mening."
+            ],
+            "pitfall": "`frihed` 是自由，`rettighed` 是权利，`frihedsrettighed` 结合两者，具有特定法律含义。`blandt andet` 不等于列举完毕。"
+        },
+        {
+            "id": "U14-C015",
+            "zh": "国王的角色首先是象征性的：他在国事访问中代表国家，并在重大事件中凝聚国民。",
+            "grammar": "`først og fremmest` 是固定的强调性状语，表示首要性质。冒号后由两个并列谓语 `repræsenterer` 和 `samler` 描述具体职能。`ved statsbesøg` 和 `ved store begivenheder` 都以 `ved` 引出相关场合。",
+            "vocabulary": [
+                {
+                    "da": "først og fremmest",
+                    "zh": "首先、最重要的是",
+                    "note": "用于突出核心特征或首要目标"
+                },
+                {
+                    "da": "symbolsk",
+                    "zh": "象征性的",
+                    "note": "与实际行政权力不同"
+                },
+                {
+                    "da": "repræsentere",
+                    "zh": "代表、象征",
+                    "note": "可用于个人、机构和国家"
+                },
+                {
+                    "da": "et statsbesøg",
+                    "zh": "国事访问",
+                    "note": "正式外交活动"
+                },
+                {
+                    "da": "samle befolkningen",
+                    "zh": "凝聚国民、团结社会",
+                    "note": "`samle` 在这里是抽象的社会凝聚意义"
+                }
+            ],
+            "nuance": "这里强调君主在现代丹麦宪制中的象征性与代表性职能。`samler befolkningen` 并不是实际把所有人聚集在一起，而是指在重大公共时刻发挥国家团结的象征作用。`først og fremmest` 表示首要性质，不意味着国王完全没有其他正式职能。",
+            "transfer": [
+                "Rollen er først og fremmest symbolsk.",
+                "Organisationen repræsenterer sine medlemmer.",
+                "Begivenheden samlede hele befolkningen."
+            ],
+            "pitfall": "`symbolsk` 不能简单理解为“毫无意义”。`ved` 在这里表示活动场合，不是物理意义上的“在旁边”。"
+        },
+        {
+            "id": "U14-C016",
+            "zh": "丹麦议会共有179名议员，其中两名来自格陵兰岛、两名来自法罗群岛；而且至少每四年必须举行一次议会选举。",
+            "grammar": "`Folketinget har 179 medlemmer` 给出总数。`heraf` 引出总体中的组成部分，相当于“其中”。后半句 `der skal være valg` 是带情态动词 `skal` 的存在句，表达制度要求。`mindst hvert fjerde år` 表示选举之间的间隔不得超过四年。",
+            "vocabulary": [
+                {
+                    "da": "Folketinget",
+                    "zh": "丹麦议会",
+                    "note": "丹麦国家立法机关"
+                },
+                {
+                    "da": "et medlem",
+                    "zh": "成员、会员、议员",
+                    "note": "复数 `medlemmer`"
+                },
+                {
+                    "da": "heraf",
+                    "zh": "其中、其中有",
+                    "note": "常见于正式说明、统计与书面语"
+                },
+                {
+                    "da": "mindst",
+                    "zh": "至少",
+                    "note": "表示最低数量或频率要求"
+                },
+                {
+                    "da": "hvert fjerde år",
+                    "zh": "每四年",
+                    "note": "用于周期性安排"
+                }
+            ],
+            "nuance": "`heraf` 是高质量说明文中非常有用的压缩表达，用一个词引入总体中的细分数量。句子将议会规模、自治地区代表和选举周期结合起来，呈现制度的基本框架。",
+            "transfer": [
+                "Udvalget har ti medlemmer, heraf tre studerende.",
+                "Der skal holdes valg mindst hvert fjerde år.",
+                "Bestyrelsen vælges hvert andet år."
+            ],
+            "pitfall": "`hvert fjerde år` 是每四年，`fire gange om året` 是一年四次。`mindst hvert fjerde år` 不等于必须整整间隔四年才举行选举。"
+        },
+        {
+            "id": "U14-C017",
+            "zh": "不过，首相可以提前宣布举行选举，而且这种情况还挺常见。",
+            "grammar": "`dog` 位于主句内部，表达与前句的转折。`kan udskrive valg` 是情态动词加固定动词短语。第二分句 `det sker tit` 中 `det` 指提前举行选举这件事，`tit` 表示较高频率。",
+            "vocabulary": [
+                {
+                    "da": "en statsminister",
+                    "zh": "首相、政府首脑",
+                    "note": "丹麦政府首脑的正式称谓"
+                },
+                {
+                    "da": "udskrive valg",
+                    "zh": "宣布举行选举、启动选举",
+                    "note": "政治制度中的固定搭配"
+                },
+                {
+                    "da": "dog",
+                    "zh": "不过、然而",
+                    "note": "书面说明中常见的让步或转折副词"
+                },
+                {
+                    "da": "tidligere",
+                    "zh": "更早、提前",
+                    "note": "这里是时间副词的比较级用法"
+                }
+            ],
+            "nuance": "上一句陈述选举周期的法定上限，这一句补充政治实践中的灵活性。`dog` 不否定四年的规则，而是提醒读者实际选举可能更早发生。`det sker tit` 采用简洁、相对口语化的评价方式。",
+            "transfer": [
+                "Statsministeren kan udskrive valg før tid.",
+                "Det kan dog ske tidligere.",
+                "Det sker faktisk ret tit."
+            ],
+            "pitfall": "`udskrive valg` 是政治专门搭配，与普通的 `skrive`（书写）没有直接的字面联系。`tidligere` 在这里不是形容词“以前的”，而是“更早”。"
+        },
+        {
+            "id": "U14-C018",
+            "zh": "由于一个政党只需要获得百分之二的选票就能进入议会，因此丹麦议会能够容纳许多不同政党。",
+            "grammar": "句首 `Fordi ...` 是原因从句，其内部 `et parti kun skal have ...` 采用从句语序，`kun` 放在限定动词 `skal` 之前。`for at komme ind` 是目的不定式。原因从句占据句首位置，主句随后采用V2语序 `er der plads til ...`。",
+            "vocabulary": [
+                {
+                    "da": "procent af stemmerne",
+                    "zh": "选票的百分之几、得票比例",
+                    "note": "`to procent` 表示百分之二"
+                },
+                {
+                    "da": "komme ind",
+                    "zh": "进入、获得席位",
+                    "note": "政治语境中可指政党进入议会"
+                },
+                {
+                    "da": "der er plads til",
+                    "zh": "有容纳……的空间或余地",
+                    "note": "既可表示实际空间，也可表示制度上的包容性"
+                },
+                {
+                    "da": "kun",
+                    "zh": "只、仅仅",
+                    "note": "这里强调门槛相对较低"
+                }
+            ],
+            "nuance": "作者用因果结构解释丹麦议会多党格局的制度基础。`der er plads til` 是生动的抽象表达，强调制度为多个政党提供进入机会，而不是讨论议会大楼的实际容量。",
+            "transfer": [
+                "Fordi kravene er lave, kan flere deltage.",
+                "Der er plads til mange forskellige synspunkter.",
+                "Partiet kom ind i Folketinget ved sidste valg."
+            ],
+            "pitfall": "`komme ind` 在这里不是走进建筑物，而是获得议会代表资格。`Fordi` 从句置于句首后，主句不能写成 `der er plads` 而忽略V2结构中的 `er der`。"
+        },
+        {
+            "id": "U14-C019",
+            "zh": "由于一百多年来没有任何一个政党单独拥有过议会多数席位，因此大多数法律都是通过多个政党之间的协议和协商制定出来的。",
+            "grammar": "`Da intet parti har haft flertal alene ...` 是原因从句。`da` 在这里表示“由于”，不是“当……时候”。`intet parti` 是带否定含义的名词短语，`har haft` 为现在完成时。主句 `bliver de fleste love til` 中 `blive til` 表示产生或形成，并不是 `blive` 被动结构。`gennem aftaler` 表示实现的途径。",
+            "vocabulary": [
+                {
+                    "da": "et flertal",
+                    "zh": "多数、多数席位",
+                    "note": "与 `et mindretal` 相对"
+                },
+                {
+                    "da": "alene",
+                    "zh": "单独地、独自",
+                    "note": "强调没有其他政党支持的情况"
+                },
+                {
+                    "da": "blive til",
+                    "zh": "形成、产生、出现",
+                    "note": "固定动词短语，不是被动语态"
+                },
+                {
+                    "da": "gennem aftaler",
+                    "zh": "通过协议、经由协商达成的安排",
+                    "note": "`gennem` 在这里表示方式或途径"
+                },
+                {
+                    "da": "en aftale",
+                    "zh": "协议、约定",
+                    "note": "可用于正式政治协商及日常生活"
+                }
+            ],
+            "nuance": "这句话将多党制度与妥协协商的政治文化连接起来。`bliver ... til gennem aftaler` 把法律描述为多方协商的产物，而不仅是某个执政党单方面提出并通过的结果。`intet parti` 与 `de fleste love` 的对比加强了论证。",
+            "transfer": [
+                "Da ingen har flertal alene, må partierne samarbejde.",
+                "Beslutningen blev til gennem lange forhandlinger.",
+                "Forslaget blev til i samarbejde med flere organisationer."
+            ],
+            "pitfall": "`blive til` 表示形成，不能把它分析成普通的 `blive` 加过去分词被动。`da` 引导原因从句时，可以译成“既然、由于”。"
+        },
+        {
+            "id": "U14-C020",
+            "zh": "丹麦政府不需要拥有多数议员的支持--它只需要避免议会中有多数议员反对自己。",
+            "grammar": "前后两分句形成精确对照：`behøver ikke et flertal bag sig` 与 `skal bare undgå et flertal imod sig`。`bag sig` 和 `imod sig` 分别表示支持与反对，`sig` 回指各自分句的政府。`behøver ikke` 是否定必要性，`skal bare` 表示只需满足某个条件。",
+            "vocabulary": [
+                {
+                    "da": "have et flertal bag sig",
+                    "zh": "拥有多数支持",
+                    "note": "政治语境中指获得多数议员支持"
+                },
+                {
+                    "da": "have et flertal imod sig",
+                    "zh": "遭到多数反对",
+                    "note": "`imod` 表示反对，与 `bag` 构成对比"
+                },
+                {
+                    "da": "undgå noget",
+                    "zh": "避免某事",
+                    "note": "动词通常直接接宾语"
+                },
+                {
+                    "da": "behøve",
+                    "zh": "需要、必须",
+                    "note": "否定形式 `behøver ikke` 表示没有必要"
+                }
+            ],
+            "nuance": "这句话以高度凝练的对偶结构概括丹麦消极议会制的核心逻辑。关键区别在于积极获得多数支持与不遭到多数反对。`bare` 在这里把复杂的政治制度浓缩成容易记忆的最低条件，并不意味着组阁实际操作很简单。",
+            "transfer": [
+                "Regeringen behøver ikke et flertal bag sig.",
+                "Det vigtigste er at undgå et flertal imod forslaget.",
+                "Man behøver ikke alles støtte, men man skal kunne samle opbakning."
+            ],
+            "pitfall": "`behøver ikke` 表示不必，`må ikke` 表示不允许。`bag sig` 在这里是政治支持，不是空间意义上的身后。"
+        },
+        {
+            "id": "U14-C021",
+            "zh": "这一原则被称为消极议会制。它也解释了为什么丹麦许多届政府都是少数派政府：这些政府要维持执政，就得针对不同议题，争取不同的多数支持组合。",
+            "grammar": "`Princippet kaldes ...` 使用s-被动，表示某原则被称为什么。`det forklarer, hvorfor ...` 引出间接疑问从句。`har været mindretalsregeringer` 为现在完成时。`der har levet af at finde ...` 是修饰少数派政府的关系从句。`leve af at gøre noget` 字面指靠做某事维持生计，此处引申为依靠某种政治策略生存。",
+            "vocabulary": [
+                {
+                    "da": "negativ parlamentarisme",
+                    "zh": "消极议会制、消极议会主义",
+                    "note": "政府不必获得议会多数的积极信任，但不能面对明确的多数反对"
+                },
+                {
+                    "da": "en mindretalsregering",
+                    "zh": "少数派政府",
+                    "note": "执政党自身不掌握议会多数席位"
+                },
+                {
+                    "da": "leve af at gøre noget",
+                    "zh": "靠做某事维持；依赖某事生存",
+                    "note": "可用于经济活动，也可作抽象比喻"
+                },
+                {
+                    "da": "skiftende flertal",
+                    "zh": "不断变化的多数支持组合",
+                    "note": "政治议题不同，形成多数的政党组合可能不同"
+                },
+                {
+                    "da": "fra sag til sag",
+                    "zh": "逐项议题地、视具体问题而定",
+                    "note": "适用于政治、管理和法律事务"
+                }
+            ],
+            "nuance": "作者从制度定义进一步解释实际执政模式。`har levet af` 很有表现力，暗示这些政府的政治生存依赖持续谈判、寻找合作伙伴。`fra sag til sag` 强调多数支持并非始终来自固定联盟，而可能随着议题变化。",
+            "transfer": [
+                "Det forklarer, hvorfor samarbejdet er nødvendigt.",
+                "Regeringen må finde flertal fra sag til sag.",
+                "Vi vurderer ansøgningerne fra sag til sag."
+            ],
+            "pitfall": "`negativ` 在这里是宪制术语，不是“坏的”或“消极怠工”。`mindretalsregering` 不意味着政府毫无支持，而是执政党不拥有议会多数席位。"
+        },
+        {
+            "id": "U14-C022",
+            "zh": "在国防、能源等重大政策领域，各党通常会达成跨党派的广泛协议，并承诺遵守这些协议，即使政府换届也不例外。",
+            "grammar": "句首介词短语 `På store områder som ...` 限定政策领域，引发主句V2结构 `indgår man`。`indgå et forlig` 是固定搭配。`som partierne forpligter sig til at overholde` 是关系从句，`som` 指代前面的协议。`forpligte sig til at` 表示承担义务。`også hvis regeringen skifter` 是带让步意味的条件从句。",
+            "vocabulary": [
+                {
+                    "da": "indgå et forlig",
+                    "zh": "达成政治协议或妥协",
+                    "note": "政治和法律语境中的固定搭配"
+                },
+                {
+                    "da": "et bredt forlig",
+                    "zh": "获得广泛政党支持的协议",
+                    "note": "`bredt` 强调参与或支持范围广"
+                },
+                {
+                    "da": "forpligte sig til at gøre noget",
+                    "zh": "承诺、承担义务做某事",
+                    "note": "反身代词与介词 `til` 必须掌握"
+                },
+                {
+                    "da": "overholde en aftale",
+                    "zh": "遵守协议",
+                    "note": "也可搭配法律、规定和期限"
+                },
+                {
+                    "da": "regeringen skifter",
+                    "zh": "政府更替",
+                    "note": "这里指政府组成发生变化"
+                }
+            ],
+            "nuance": "`brede forlig` 强调某些长期政策需要跨党派稳定性。`også hvis regeringen skifter` 是全句的重要补充，说明协议的政治承诺力不完全依赖同一届政府持续执政。作者借此展现丹麦协商政治中的连续性。",
+            "transfer": [
+                "Partierne indgik et bredt forlig om energi.",
+                "Vi har forpligtet os til at overholde aftalen.",
+                "Aftalen gælder også, hvis ledelsen skifter."
+            ],
+            "pitfall": "`indgå et forlig` 是达成协议，不是字面意义上的“走进去”。`forpligte sig til` 与 `være forpligtet til` 分别侧重作出承诺和处于有义务的状态。"
+        },
+        {
+            "id": "U14-C023",
+            "zh": "每四年，丹麦还会举行市镇议会和大区议会选举，不过这类地方选举的投票率通常较低。",
+            "grammar": "`Hvert fjerde år` 前置为时间状语，后接存在句倒装 `er der også valg`。`til kommunalbestyrelser og regionsråd` 说明选举产生的机构。第二分句 `men her er stemmeprocenten typisk lavere` 中，`her` 指地方选举，`lavere` 是比较级，比较对象由上下文中的国家议会选举提供。",
+            "vocabulary": [
+                {
+                    "da": "en kommunalbestyrelse",
+                    "zh": "市镇议会、市镇委员会",
+                    "note": "丹麦 kommune 层级的民选政治机构"
+                },
+                {
+                    "da": "et regionsråd",
+                    "zh": "大区议会",
+                    "note": "丹麦区域层级的民选机构"
+                },
+                {
+                    "da": "en stemmeprocent",
+                    "zh": "投票率",
+                    "note": "此处指有投票资格者中实际投票的比例"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "通常、一般而言",
+                    "note": "表示通常情况，不等于绝对规律"
+                }
+            ],
+            "nuance": "这一句从国家政治转入地方政治。`her` 是重要的篇章连接词，读者需要理解它指向本段的地方选举，而不是具体地理位置。`typisk` 使投票率比较保持概括性。",
+            "transfer": [
+                "Der er kommunalvalg hvert fjerde år.",
+                "Stemmeprocenten er typisk lavere ved lokale valg.",
+                "Der er også valg til regionsrådet."
+            ],
+            "pitfall": "`kommune` 是丹麦行政制度中的市镇，不一定等于中文狭义的“城市”。`stemmeprocent` 是投票率，不等于某个政党的得票率。"
+        },
+        {
+            "id": "U14-C024",
+            "zh": "地方选举的投票资格更为宽泛：来自其他欧盟国家、冰岛和挪威的公民，只要在丹麦居住，就可以投票；其他外国人则需要在丹麦王国境内连续四年拥有固定住所，才可以参加投票。",
+            "grammar": "主句 `valgretten er bredere` 给出总体判断，冒号后展开两类群体的条件。`så snart de bor her` 是时间兼条件性质的从句，表示一旦满足居住条件。`og andre udlændinge, når ...` 省略了与前半句重复的 `kan stemme`。`har haft fast bopæl` 使用现在完成时，表示从过去延续到相关资格判断时点的居住状态。",
+            "vocabulary": [
+                {
+                    "da": "valgret",
+                    "zh": "选举权、投票资格",
+                    "note": "en valgret；政治法律用语"
+                },
+                {
+                    "da": "så snart",
+                    "zh": "一……就……、一旦……",
+                    "note": "强调条件或事件成立的最早时间点"
+                },
+                {
+                    "da": "en udlænding",
+                    "zh": "外国人",
+                    "note": "复数 `udlændinge`"
+                },
+                {
+                    "da": "fast bopæl",
+                    "zh": "固定住所、稳定居住地",
+                    "note": "法律和行政事务中的常用表达"
+                },
+                {
+                    "da": "riget",
+                    "zh": "王国、国家全境",
+                    "note": "本句指丹麦王国这一法律和政治概念"
+                }
+            ],
+            "nuance": "本句对比国家选举与地方选举的投票资格，强调地方民主制度覆盖更多实际居住于当地的人。`så snart` 突出第一类居民的条件相对直接，`når de har haft ...` 则突出另一类居民需要满足居住时间要求。它描述的是资格规则，不能仅凭这一句推断每一种特殊身份或地区的全部法律细节。",
+            "transfer": [
+                "Valgretten er bredere ved lokale valg.",
+                "Man kan søge, så snart man opfylder betingelserne.",
+                "Man skal have haft fast bopæl i landet i en bestemt periode."
+            ],
+            "pitfall": "`fast bopæl` 不能直接等同于移民法意义上的永久居留许可。`så snart` 不是普通的“很快”，而是“一旦条件成立”。`når` 从句后的重复谓语在这里被省略。"
+        },
+        {
+            "id": "U14-C025",
+            "zh": "市镇议会由自己的议员从成员中选出一位市长。",
+            "grammar": "主语是 `Kommunalbestyrelsen`，谓语 `vælger`，宾语 `en borgmester`。`selv` 强调由市镇议会自己进行选择。`blandt sine medlemmer` 表示候选范围，`sine` 是反身所有格，指向主语 `Kommunalbestyrelsen`。",
+            "vocabulary": [
+                {
+                    "da": "en borgmester",
+                    "zh": "市长、市镇行政首长",
+                    "note": "丹麦市镇政治中的重要职务"
+                },
+                {
+                    "da": "vælge nogen",
+                    "zh": "选出某人、选择某人",
+                    "note": "过去时 `valgte`，过去分词 `valgt`"
+                },
+                {
+                    "da": "blandt",
+                    "zh": "在……之中、从……当中",
+                    "note": "用于成员、候选人等群体"
+                },
+                {
+                    "da": "sine medlemmer",
+                    "zh": "其自己的成员",
+                    "note": "反身所有格与复数名词搭配"
+                }
+            ],
+            "nuance": "作者在这里强调市长的产生方式：由民选的市镇议会从自身成员中选择，而不是说市长由选民通过一张单独的选票直接选出。`selv` 的作用就是突出选择权所在的机构。",
+            "transfer": [
+                "Bestyrelsen vælger selv sin formand.",
+                "Udvalget udpeger en repræsentant blandt sine medlemmer.",
+                "Medlemmerne vælger en ny leder."
+            ],
+            "pitfall": "`sine` 指主语自己的成员，不能随意换成 `deres`。`vælge` 是选择，`blive valgt` 才是被选举出来。"
+        },
+        {
+            "id": "U14-C026",
+            "zh": "地方政治可能听起来有些枯燥，但恰恰是在这一层级，许多直接影响日常生活的决定被作出：比如学校的开放时间、是否修建新的自行车道，以及哪些地方允许建设房屋。",
+            "grammar": "开头 `Kommunalpolitik kan virke kedelig` 使用 `virke + 形容词` 表示给人的印象。后面 `det er her, der bliver truffet ...` 是强调分裂结构，突出地点或治理层级 `her`。`bliver truffet` 是被动，`der mærkes i hverdagen` 是修饰决定的s-被动关系从句。冒号后三个 `om` 引出决策涉及的事项；`om, hvor der må bygges` 中第一个 `om` 是“关于”，后面的 `hvor` 引导间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "kommunalpolitik",
+                    "zh": "市镇政治、地方政治",
+                    "note": "与国家层面的政治相对"
+                },
+                {
+                    "da": "virke kedelig",
+                    "zh": "显得枯燥、看上去乏味",
+                    "note": "`virke` 表示给人某种印象"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定",
+                    "note": "正式而常用的固定搭配"
+                },
+                {
+                    "da": "mærkes i hverdagen",
+                    "zh": "在日常生活中感受到其影响",
+                    "note": "`mærkes` 是s-形式"
+                },
+                {
+                    "da": "en cykelsti",
+                    "zh": "自行车道",
+                    "note": "复数 `cykelstier`"
+                }
+            ],
+            "nuance": "这句话先承认地方政治可能缺乏吸引力，再用具体生活事务说明其重要性。`det er her` 带有明显的强调意味，提醒读者政治并不只发生在国家议会。`mærkes i hverdagen` 是非常有价值的公共政策表达，强调政策对普通人生活的可感知影响。",
+            "transfer": [
+                "Det er her, de vigtigste beslutninger bliver truffet.",
+                "Kommunale beslutninger mærkes i hverdagen.",
+                "Det handler om, hvor der må bygges nye boliger."
+            ],
+            "pitfall": "`træffe en beslutning` 是固定搭配，不是“遇到一个决定”。`om, hvor` 中的两个词承担不同语法功能，不能认为是多余的重复。"
+        },
+        {
+            "id": "U14-C027",
+            "zh": "市镇政府在批准新住宅区的地方规划之前，必须先将规划提交公众咨询，而所有居民都有权提出书面意见。",
+            "grammar": "`Før kommunen vedtager ...` 是句首时间从句，主句随后采用V2结构 `skal planen ...`。`skal planen i offentlig høring` 是省略具体移动或提交动词的惯用表达，表示规划必须进入公开征询意见程序。后半句 `alle borgere har lov til at sende ...` 使用 `have lov til at` 表达制度允许的行为。",
+            "vocabulary": [
+                {
+                    "da": "vedtage en lokalplan",
+                    "zh": "通过地方详细规划",
+                    "note": "`vedtage` 指正式批准"
+                },
+                {
+                    "da": "en lokalplan",
+                    "zh": "地方详细规划、局部地区规划",
+                    "note": "涉及特定地区的土地利用及建设安排"
+                },
+                {
+                    "da": "et boligområde",
+                    "zh": "住宅区、居住片区",
+                    "note": "复数 `boligområder`"
+                },
+                {
+                    "da": "offentlig høring",
+                    "zh": "公开征询意见、公众咨询程序",
+                    "note": "行政和立法程序中的常见术语"
+                },
+                {
+                    "da": "et høringssvar",
+                    "zh": "公众咨询意见、书面反馈",
+                    "note": "复数 `høringssvar`"
+                }
+            ],
+            "nuance": "作者用城市规划的例子说明居民如何在选举之外参与民主程序。`offentlig høring` 是一个制度性概念，不是普通会议中的随意讨论。`har lov til` 强调有权提交意见，但提交意见并不意味着提出的建议一定被采纳。",
+            "transfer": [
+                "Planen skal i offentlig høring før den vedtages.",
+                "Alle berørte borgere kan sende et høringssvar.",
+                "Kommunen har vedtaget en ny lokalplan."
+            ],
+            "pitfall": "`høring` 在此是行政征询意见程序，不能简单译成法院的“听证审判”。`vedtage` 表示通过规划，`udarbejde` 表示编制规划，两者不是同一步骤。"
+        },
+        {
+            "id": "U14-C028",
+            "zh": "距离丹麦议会选举还有三周，候选人梅特·霍尔姆站在瓦埃勒市步行街上的一个宣传摊位旁，手里拿着一摞宣传折页。",
+            "grammar": "`Tre uger før et folketingsvalg` 是句首时间状语，引出V2倒装 `står kandidaten Mette Holm`。`ved en bod` 描述候选人所处的位置，`på gågaden i Vejle` 进一步限定摊位位置。`med en bunke foldere` 是伴随状语，描写她携带的宣传材料。",
+            "vocabulary": [
+                {
+                    "da": "et folketingsvalg",
+                    "zh": "丹麦议会选举",
+                    "note": "国家议会层面的选举"
+                },
+                {
+                    "da": "en bod",
+                    "zh": "摊位、小型临时销售或宣传亭",
+                    "note": "可用于市场、活动和竞选宣传"
+                },
+                {
+                    "da": "en gågade",
+                    "zh": "步行街",
+                    "note": "通常是禁止或限制普通机动车通行的商业街"
+                },
+                {
+                    "da": "en bunke",
+                    "zh": "一堆、一摞",
+                    "note": "可用于纸张、文件和其他堆叠物"
+                },
+                {
+                    "da": "en folder",
+                    "zh": "宣传折页、小册子",
+                    "note": "复数 `foldere`；与电脑中的文件夹含义不同"
+                }
+            ],
+            "nuance": "场景从制度说明转入街头政治交流。`med en bunke foldere` 呈现候选人在公众空间主动争取选民的日常竞选方式。地点 `Vejle` 是丹麦的一座城市，`gågaden` 则提供贴近日常生活的地方场景。",
+            "transfer": [
+                "Tre uger før valget begyndte kampagnen.",
+                "Kandidaten står på gågaden og taler med vælgerne.",
+                "Hun deler foldere ud til forbipasserende."
+            ],
+            "pitfall": "`folder` 在这里是宣传折页，不是英语 `folder` 在电脑语境中的文件夹。`en bunke` 既可指整齐的一摞，也可指杂乱的一堆，取决于物品和语境。"
+        },
+        {
+            "id": "U14-C029",
+            "zh": "候选人：你好！可以给你一份宣传单吗？",
+            "grammar": "`Må jeg ...?` 使用情态动词 `må` 礼貌地请求对方许可。`give dig en folder` 是双宾语结构，`dig` 是接受者，`en folder` 是给予的物品，无需介词。",
+            "vocabulary": [
+                {
+                    "da": "Må jeg ...?",
+                    "zh": "我可以……吗？",
+                    "note": "礼貌征求许可的常见结构"
+                },
+                {
+                    "da": "give nogen noget",
+                    "zh": "给某人某物",
+                    "note": "可直接使用双宾语"
+                }
+            ],
+            "nuance": "竞选人员以简单友好的问候开场，而不是立即介绍政治主张。`Må jeg` 既礼貌又尊重对方是否愿意接受宣传材料的选择。",
+            "transfer": [
+                "Må jeg give dig en brochure?",
+                "Må jeg stille dig et spørgsmål?",
+                "Vil du have en folder?"
+            ],
+            "pitfall": "`Må jeg` 侧重请求许可，`Kan jeg` 更多表示可能性或能力，虽然日常请求中两者有重叠。"
+        },
+        {
+            "id": "U14-C030",
+            "zh": "一名男子：不用了，谢谢。你们这些政客全都一个样。",
+            "grammar": "`Nej tak` 是简短而有礼貌的拒绝。`I` 是第二人称复数，虽然谈话对象只有一名候选人，但实际上指向她所属的政治人物群体。`alle sammen` 强化全体概括，`ens` 是表语形容词，表示彼此相同。",
+            "vocabulary": [
+                {
+                    "da": "Nej tak",
+                    "zh": "不用了，谢谢",
+                    "note": "礼貌拒绝邀请或物品"
+                },
+                {
+                    "da": "alle sammen",
+                    "zh": "全部、所有人",
+                    "note": "加强群体整体性"
+                },
+                {
+                    "da": "ens",
+                    "zh": "一样的、相同的",
+                    "note": "常用 `være ens` 描述两者或多者相同"
+                }
+            ],
+            "nuance": "男子的态度明显带有政治怀疑和厌倦。`I er alle sammen ens` 是把眼前候选人归入整个政治群体的笼统批评，不是客观比较所有人的政策立场。`Nej tak` 的礼貌与后面的尖锐评价形成对比。",
+            "transfer": [
+                "Nej tak, jeg er ikke interesseret.",
+                "De er alle sammen ens.",
+                "Jeg synes ikke, der er den store forskel."
+            ],
+            "pitfall": "`ens` 是形容词“相同的”，不是所有格 `ens`（泛指人的），两者形式相同但语法功能不同。"
+        },
+        {
+            "id": "U14-C031",
+            "zh": "候选人：我能理解你为什么会有这种感觉。这次选举中，对你来说最重要的问题是什么？",
+            "grammar": "`Jeg kan godt forstå, at ...` 是表示理解对方感受的常用结构。`godt` 在这里增强肯定和共情语气。`det kan virke sådan` 中 `virke` 表示“显得、给人这种印象”。第二句使用强调性最高级 `det vigtigste`，`for dig` 指个人评价角度，`ved det her valg` 指此次选举这一情境。",
+            "vocabulary": [
+                {
+                    "da": "Jeg kan godt forstå, at ...",
+                    "zh": "我能理解……",
+                    "note": "讨论分歧时常用的缓和表达"
+                },
+                {
+                    "da": "virke sådan",
+                    "zh": "看起来是那样、给人那种感觉",
+                    "note": "强调表面印象而非事实判断"
+                },
+                {
+                    "da": "det vigtigste",
+                    "zh": "最重要的事情",
+                    "note": "形容词最高级的名词化形式"
+                },
+                {
+                    "da": "det her valg",
+                    "zh": "这次选举",
+                    "note": "口语化指示表达，比 `dette valg` 更随和"
+                }
+            ],
+            "nuance": "候选人没有马上反驳“政客都一样”的批评，而是先承认这种印象可以理解，再把谈话转向选民真正关心的问题。`Hvad er det vigtigste for dig ...?` 是开放性问题，比直接问“你支持哪个党”更容易展开交流。",
+            "transfer": [
+                "Jeg kan godt forstå, at du er frustreret.",
+                "Jeg kan godt se, at det kan virke sådan.",
+                "Hvad er det vigtigste for dig i denne situation?"
+            ],
+            "pitfall": "`virke` 既可表示“起作用”，也可表示“看起来、显得”。`godt` 在 `kan godt forstå` 中不宜逐字译成“很好地”。"
+        },
+        {
+            "id": "U14-C032",
+            "zh": "男子：现在开往我们村的公交车一天只开三趟。我儿子训练结束后都没办法坐车回家。",
+            "grammar": "第一句 `Bussen ... kører nu kun tre gange om dagen` 中，`nu` 强调当前情况，`kun` 限定班次数量。`tre gange om dagen` 表示每日频率。第二句 `kan ikke komme hjem fra træning` 使用情态动词 `kan` 表达现实条件造成的能力或可能性限制。",
+            "vocabulary": [
+                {
+                    "da": "en landsby",
+                    "zh": "村庄",
+                    "note": "与较大的城市 `by` 区分"
+                },
+                {
+                    "da": "tre gange om dagen",
+                    "zh": "每天三次",
+                    "note": "频率表达"
+                },
+                {
+                    "da": "komme hjem",
+                    "zh": "回到家",
+                    "note": "`hjem` 是表示方向的副词"
+                },
+                {
+                    "da": "træning",
+                    "zh": "训练、锻炼",
+                    "note": "这里指儿子的体育训练活动"
+                }
+            ],
+            "nuance": "男子把抽象的政治不满转化为具体的公共交通问题。`nu kun` 暗示现在的班次少，可能相对于此前情况有所减少，但句子本身没有说明过去的具体班次。儿子无法从训练回家，使公共交通问题具有直接的家庭影响。",
+            "transfer": [
+                "Bussen kører kun tre gange om dagen.",
+                "Min søn kan ikke komme hjem fra træning.",
+                "Der er for få busafgange i vores område."
+            ],
+            "pitfall": "`komme hjem` 表示朝家的方向移动，`være hjemme` 表示在家。`træning` 在此是运动训练，不是职业培训。"
+        },
+        {
+            "id": "U14-C033",
+            "zh": "候选人：这确实是许多乡村地区都面临的实际问题。我自己也住在村里，我们遇到的情况和你们完全一样。",
+            "grammar": "`Det er et reelt problem` 是评价性判断。`i mange landdistrikter` 限定问题出现的范围。`Jeg bor selv` 中 `selv` 强调候选人的亲身经历。`præcis det samme problem` 通过 `præcis` 强化相同性。",
+            "vocabulary": [
+                {
+                    "da": "reel",
+                    "zh": "真实存在的、实质性的",
+                    "note": "中性形式 `reelt`"
+                },
+                {
+                    "da": "et landdistrikt",
+                    "zh": "乡村地区、非城市地区",
+                    "note": "复数 `landdistrikter`"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己、亲自",
+                    "note": "这里强调说话人也有直接经验"
+                },
+                {
+                    "da": "præcis det samme",
+                    "zh": "完全一样的",
+                    "note": "`præcis` 强化程度"
+                }
+            ],
+            "nuance": "候选人采用两步回应：先确认问题真实存在，再说明自己也受到类似影响。`Jeg bor selv` 的重点不是单纯介绍住址，而是借共同经历建立可信度和亲近感。不过，双方有同样问题并不自动证明她能解决问题。",
+            "transfer": [
+                "Det er et reelt problem i mange kommuner.",
+                "Jeg har selv oplevet noget lignende.",
+                "Vi står med præcis det samme problem."
+            ],
+            "pitfall": "`reel` 不是英语 `real` 的机械拼写。`selv` 在这里强调亲历者身份，而不是反身代词。"
+        },
+        {
+            "id": "U14-C034",
+            "zh": "男子：你们政客个个都这么说。",
+            "grammar": "`Det` 指候选人刚才关于理解问题和拥有相同经历的表述。`I alle sammen` 是第二人称复数加全体强调，指政治人物这一群体。`siger` 使用现在时，表示他认为反复出现的典型行为。",
+            "vocabulary": [
+                {
+                    "da": "Det siger I alle sammen",
+                    "zh": "你们都这么说",
+                    "note": "常用于怀疑对方话语的真实性或独特性"
+                }
+            ],
+            "nuance": "男子没有被候选人的共情迅速说服。他认为类似的承诺和自我介绍只是政治人物惯用的话术，语气带有明显的不信任和轻微讽刺。",
+            "transfer": [
+                "Det siger de alle sammen.",
+                "Det har jeg hørt før.",
+                "Det er nemt nok at sige."
+            ],
+            "pitfall": "`I` 是“你们”，不是地点介词 `i`。句子里的复数形式体现男子把单个候选人归入一个更大的政治群体。"
+        },
+        {
+            "id": "U14-C035",
+            "zh": "候选人：是啊。我不会承诺一个月后这个问题就一定能解决。但我可以保证，我会一直把这个问题提出来，不会轻易放弃。",
+            "grammar": "`jeg lover ikke, at ...` 表示不作出某种保证。`det er løst om en måned` 中 `er løst` 表示问题已解决的结果状态，`om en måned` 表示从现在起一个月后。后半句 `lover at blive ved med at tage det op` 包含两个连续的不定式结构：`love at` 与 `blive ved med at`。`tage noget op` 是动词小品词结构，意为提出并讨论某个议题。",
+            "vocabulary": [
+                {
+                    "da": "love",
+                    "zh": "承诺、保证",
+                    "note": "常见 `love at gøre noget` 和 `love, at ...`"
+                },
+                {
+                    "da": "være løst",
+                    "zh": "已经得到解决",
+                    "note": "`løst` 是 `løse` 的过去分词"
+                },
+                {
+                    "da": "blive ved med at gøre noget",
+                    "zh": "持续做某事、坚持做某事",
+                    "note": "非常重要的固定表达"
+                },
+                {
+                    "da": "tage noget op",
+                    "zh": "提出议题、提起问题供讨论",
+                    "note": "也可用于会议、课堂和工作沟通"
+                },
+                {
+                    "da": "om en måned",
+                    "zh": "一个月以后",
+                    "note": "未来时间表达"
+                }
+            ],
+            "nuance": "这是整场街头对话的转折点。候选人不再试图用共情直接争取信任，而是明确承认无法保证迅速解决问题，只承诺持续推动。`Men jeg lover ...` 把不切实际的结果承诺转化为行动承诺，使回答更有可信度。",
+            "transfer": [
+                "Jeg kan ikke love, at problemet bliver løst med det samme.",
+                "Jeg lover at blive ved med at arbejde på det.",
+                "Vi vil tage spørgsmålet op på næste møde."
+            ],
+            "pitfall": "`tage noget op` 在这里是把问题提上议程，不是字面意义上的拿起来。`om en måned` 是一个月后，而 `i en måned` 通常表示持续一个月。"
+        },
+        {
+            "id": "U14-C036",
+            "zh": "男子：嗯……你刚才说你叫什么名字来着？",
+            "grammar": "`Hvad var det, du hed?` 是非常自然的口语回问结构。`Hvad var det ...?` 将问题包装成对先前信息的回忆。`du hed` 使用过去时，并不表示对方现在已经改名，而是呼应此前已经发生的自我介绍。",
+            "vocabulary": [
+                {
+                    "da": "Hvad var det, du hed?",
+                    "zh": "你叫什么名字来着？",
+                    "note": "用于重新询问或回忆刚才听到的信息"
+                },
+                {
+                    "da": "hedde",
+                    "zh": "叫作、名叫",
+                    "note": "现在时 `hedder`，过去时 `hed`"
+                },
+                {
+                    "da": "Hm",
+                    "zh": "嗯、唔",
+                    "note": "表示思考、犹豫或态度转变"
+                }
+            ],
+            "nuance": "男子从完全拒绝宣传单转为询问候选人的名字，说明态度开始松动。`Hvad var det, du hed?` 比直接重复 `Hvad hedder du?` 更符合已经有过介绍、此刻重新确认的情境，也显得更随和。",
+            "transfer": [
+                "Hvad var det nu, du hed?",
+                "Hvad var det, du sagde?",
+                "Hvor var det nu, vi skulle mødes?"
+            ],
+            "pitfall": "`hed` 的过去时在这类问句中不意味着姓名已经失效。不要机械翻译为“你以前叫什么名字”。"
+        },
+        {
+            "id": "U14-C037",
+            "zh": "候选人：梅特·霍尔姆。宣传单上就印着呢。",
+            "grammar": "`Det` 指候选人的名字，`står` 在这里表示文字写在或印在某物上。`på folderen` 是承载文字的媒介位置状语。",
+            "vocabulary": [
+                {
+                    "da": "stå på noget",
+                    "zh": "写在、印在某物上",
+                    "note": "文字信息常用 `stå` 表示"
+                },
+                {
+                    "da": "en folder",
+                    "zh": "宣传折页",
+                    "note": "竞选宣传语境"
+                }
+            ],
+            "nuance": "候选人没有继续推销自己的政策，而是简单报上姓名，并自然地把注意力引向宣传单。这个回应也为男子接下来的决定提供了顺畅的对话衔接。",
+            "transfer": [
+                "Det står på hjemmesiden.",
+                "Mit navn står på forsiden.",
+                "Du kan læse mere i folderen."
+            ],
+            "pitfall": "`stå` 在这里是“写着、印着”，不是“站立”。`på folderen` 强调信息印在折页上。"
+        },
+        {
+            "id": "U14-C038",
+            "zh": "男子：那我还是拿一份吧。",
+            "grammar": "`Så` 表示根据刚才的交流作出决定，`alligevel` 表示尽管此前拒绝，现在仍改变主意。句末 `en` 是名词性代词，省略了前文明确的 `folder`。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "还是、尽管如此",
+                    "note": "常用于态度改变或与原本预期相反的决定"
+                },
+                {
+                    "da": "tage en",
+                    "zh": "拿一份、取一个",
+                    "note": "`en` 代替前文的普通性别单数名词"
+                }
+            ],
+            "nuance": "男子并没有承诺投票支持候选人，只是愿意接过宣传单。这种小幅度的态度转变比突然被说服更符合现实。`alligevel` 是表达改变主意的关键词。",
+            "transfer": [
+                "Så tager jeg alligevel en kop kaffe.",
+                "Jeg kommer alligevel med.",
+                "Jeg har ombestemt mig."
+            ],
+            "pitfall": "`alligevel` 不等于单纯的 `også`。前者通常暗示原本有相反的预期、决定或阻力。"
+        },
+        {
+            "id": "U14-C039",
+            "zh": "民主并不只发生在投票那一天。",
+            "grammar": "`Demokratiet` 作主语，`foregår` 表示某种活动或过程发生、展开。`ikke kun` 否定范围上的局限，暗示民主也存在于选举日以外的活动中。`på valgdagen` 是时间状语。",
+            "vocabulary": [
+                {
+                    "da": "foregå",
+                    "zh": "发生、进行、展开",
+                    "note": "过去时 `foregik`，过去分词 `foregået`"
+                },
+                {
+                    "da": "ikke kun",
+                    "zh": "不仅、不只是",
+                    "note": "强调范围超出某一限制"
+                },
+                {
+                    "da": "en valgdag",
+                    "zh": "选举日、投票日",
+                    "note": "确定形式 `valgdagen`"
+                }
+            ],
+            "nuance": "这是最后一章的中心句，把前面涉及的投票、政治协商和公众参与统一到更广泛的民主概念中。`foregår` 强调民主是一种持续进行的实践，而不是每隔几年发生一次的单一事件。",
+            "transfer": [
+                "Demokrati foregår også mellem valgene.",
+                "Læring foregår ikke kun i skolen.",
+                "Politisk deltagelse handler om mere end at stemme."
+            ],
+            "pitfall": "`foregå` 是不及物动词，不可直接带普通宾语表示“进行某事”。`ikke kun` 需要理解为扩大范围，而非完全否定投票的重要性。"
+        },
+        {
+            "id": "U14-C040",
+            "zh": "如果一个人不满意某个公共机构对自己案件的处理方式，就可以向丹麦议会监察专员投诉。监察专员负责监督行政机关是否遵守法律和良好的行政规范。",
+            "grammar": "句首 `Er man utilfreds ...` 是省略 `hvis` 的条件从句，用动词前置表达“如果”。主句随后采用 `kan man klage` 的V2语序。`en myndigheds behandling af ens sag` 是多层名词结构，表示某机关对某人案件的处理。`som kontrollerer ...` 是修饰监察专员的关系从句，内部 `at forvaltningen følger ...` 说明监督内容。",
+            "vocabulary": [
+                {
+                    "da": "være utilfreds med noget",
+                    "zh": "对某事不满意",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "en myndighed",
+                    "zh": "公共机关、行政主管部门",
+                    "note": "复数 `myndigheder`"
+                },
+                {
+                    "da": "klage til nogen",
+                    "zh": "向某人或某机构投诉",
+                    "note": "`klage over noget` 表示投诉的事项"
+                },
+                {
+                    "da": "Folketingets Ombudsmand",
+                    "zh": "丹麦议会监察专员",
+                    "note": "监督公共行政机关处理事务是否符合法律及良好行政规范"
+                },
+                {
+                    "da": "god forvaltningsskik",
+                    "zh": "良好行政规范、良好行政惯例",
+                    "note": "法律与公共行政领域的重要概念"
+                }
+            ],
+            "nuance": "这是本篇值得重点背诵的C1结构。无连接词条件句 `Er man ...` 简洁而正式，非常适用于制度说明、政策文件和议论文。句子同时指出民主监督不仅依靠选举，也依靠公民就具体行政处理提出投诉的渠道。`god skik` 强调行政行为除遵守法律外还需要符合良好的行政实践。",
+            "transfer": [
+                "Er man utilfreds med afgørelsen, kan man klage.",
+                "Har man spørgsmål, kan man kontakte kommunen.",
+                "Man kan klage over en myndigheds behandling af ens sag."
+            ],
+            "pitfall": "`Er man ...` 是条件倒装，不是普通的是非疑问句。`klage til` 表示向谁投诉，`klage over` 表示投诉什么。`ens sag` 中的 `ens` 表示泛指人的案件，不要机械理解为数量词“一”。"
+        },
+        {
+            "id": "U14-C041",
+            "zh": "人们还可以参加示威、给报纸写读者来信、参加政党的会议，或者加入某个政党，亲自参与候选人的选拔。",
+            "grammar": "`Man kan` 后面并列多个不定式动词：`demonstrere`、`skrive`、`deltage`、`melde sig ind` 和 `være med`。情态动词 `kan` 只出现一次，其作用覆盖后面的所有活动。`melde sig ind i` 是反身动词短语。`være med til at vælge` 表示参与选择过程，而非必然拥有单独决定权。",
+            "vocabulary": [
+                {
+                    "da": "demonstrere",
+                    "zh": "示威、参加抗议活动",
+                    "note": "也可表示展示、演示，具体由语境判断"
+                },
+                {
+                    "da": "et læserbrev",
+                    "zh": "读者来信、报纸读者意见文章",
+                    "note": "复数 `læserbreve`"
+                },
+                {
+                    "da": "deltage i noget",
+                    "zh": "参与某事",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "melde sig ind i noget",
+                    "zh": "加入某个组织",
+                    "note": "常用于政党、协会和组织"
+                },
+                {
+                    "da": "være med til at gøre noget",
+                    "zh": "参与做某事、为某事出一份力",
+                    "note": "强调共同参与"
+                }
+            ],
+            "nuance": "作者列举了从较低门槛的公共表达，到较高参与程度的政党组织活动等多种民主参与形式。`Man kan` 强调这些都是可选择的权利和方式，而不是公民必须承担的义务。",
+            "transfer": [
+                "Man kan deltage i den offentlige debat.",
+                "Jeg overvejer at melde mig ind i en forening.",
+                "Medlemmerne kan være med til at vælge kandidaterne."
+            ],
+            "pitfall": "`melde sig ind i` 是申请加入组织，`melde sig til` 是报名参加活动或课程。两者的介词不同，使用场景也不同。"
+        },
+        {
+            "id": "U14-C042",
+            "zh": "马利克还不知道，自己投票支持的政党最终能不能进入政府。",
+            "grammar": "主句 `Malik ved endnu ikke` 中 `endnu ikke` 表示“尚未”。`om ... kommer med i regeringen` 是间接是非疑问从句。`det parti, han stemte på` 内部包含省略关系代词的关系从句，`på` 保留在从句末尾。`komme med i` 表示加入、成为其中一员。",
+            "vocabulary": [
+                {
+                    "da": "endnu ikke",
+                    "zh": "尚未、还没有",
+                    "note": "暗示未来仍可能得知或发生"
+                },
+                {
+                    "da": "komme med i noget",
+                    "zh": "加入、进入某个团队或组织",
+                    "note": "这里指政党进入执政政府"
+                },
+                {
+                    "da": "stemme på et parti",
+                    "zh": "投票支持某个政党",
+                    "note": "固定介词 `på`"
+                }
+            ],
+            "nuance": "文章重新回到开头的年轻选民，使制度介绍与个人投票经历衔接起来。马利克能够决定自己的选票，却无法直接决定选后的组阁结果。`endnu ikke` 表达一种选举后仍未明朗的状态。",
+            "transfer": [
+                "Jeg ved endnu ikke, om partiet kommer i regering.",
+                "Det parti, jeg stemte på, fik flere mandater.",
+                "Vi ved ikke, hvordan forhandlingerne ender."
+            ],
+            "pitfall": "`om` 在这里是“是否”，不是“关于”。关系从句 `han stemte på` 中的 `på` 不可省略。`komme med i regeringen` 不等于单纯支持政府的某项法案。"
+        },
+        {
+            "id": "U14-C043",
+            "zh": "但他清楚，如果那个政党真的进入政府，就不得不与一些他自己绝不会投票支持的政党合作。",
+            "grammar": "`Han ved derimod, at ...` 使用 `derimod` 构成与上一句的对照。`det` 指他投票支持的政党。`i givet fald` 是插入状语，表示“如果出现上述情况”。`bliver nødt til at samarbejde` 表达客观上的必要性。`partier, han aldrig selv ville stemme på` 是省略宾语关系代词的关系从句，`ville` 带有假设性意愿色彩，`på` 留在句末。",
+            "vocabulary": [
+                {
+                    "da": "derimod",
+                    "zh": "相反、另一方面、却",
+                    "note": "用于对比两个不同事实或判断"
+                },
+                {
+                    "da": "i givet fald",
+                    "zh": "如果真是那样、倘若出现该情况",
+                    "note": "偏正式的条件性表达"
+                },
+                {
+                    "da": "blive nødt til at gøre noget",
+                    "zh": "不得不做某事",
+                    "note": "强调客观必要性或无可避免"
+                },
+                {
+                    "da": "samarbejde med nogen",
+                    "zh": "与某人或某组织合作",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "aldrig selv ville stemme på",
+                    "zh": "自己绝不会投票支持",
+                    "note": "`ville` 在此表达假设情况下的个人选择"
+                }
+            ],
+            "nuance": "这是对丹麦协商民主的高度凝练总结。马利克可能只支持一个政党，但该党若要执政，就必须与他不认同的其他政党合作。`derimod` 清晰地区分他不知道的结果与已经理解的制度逻辑。`i givet fald` 保持条件性，并不预设他支持的政党一定进入政府。",
+            "transfer": [
+                "Jeg ved derimod, at samarbejde bliver nødvendigt.",
+                "I givet fald må vi finde en anden løsning.",
+                "Vi bliver nødt til at samarbejde med folk, vi er uenige med."
+            ],
+            "pitfall": "`blive nødt til at` 是不得不做，不能漏掉 `til at`。`i givet fald` 不等于事情已经发生。`ville stemme på` 里的 `ville` 表示假设性选择，不是简单过去时。"
+        },
+        {
+            "id": "U14-C044",
+            "zh": "当然，他也完全可以选择不投票；毕竟丹麦并没有强制投票的规定。",
+            "grammar": "`lade være` 是固定动词短语，表示不做某事。这里省略了 `med at stemme`，因为投票这一活动已由全文语境明确。分号连接两个独立分句，后半句 `der er ingen stemmepligt i Danmark` 是存在句，说明前半句的制度依据。`ingen` 直接否定名词 `stemmepligt`。",
+            "vocabulary": [
+                {
+                    "da": "lade være",
+                    "zh": "不做、作罢、选择放弃",
+                    "note": "完整搭配常为 `lade være med at gøre noget`"
+                },
+                {
+                    "da": "stemmepligt",
+                    "zh": "投票义务、强制投票制度",
+                    "note": "与 `valgret`（选举权）形成重要区别"
+                },
+                {
+                    "da": "der er ingen ...",
+                    "zh": "没有……、不存在……",
+                    "note": "适用于制度、资源或可能性等说明"
+                }
+            ],
+            "nuance": "结尾重新点出民主参与的自愿性。马利克在故事中已经完成第一次投票，因此这里的 `kan også lade være` 不是说他可以撤销已经投出的选票，而是强调他在一般意义上也可以选择不投票，例如未来的选举。句子用一个轻描淡写的补充收束全文：在丹麦，投票是一项权利，而非必须履行的法律义务。",
+            "transfer": [
+                "Du kan også lade være med at stemme.",
+                "Der er ingen stemmepligt i Danmark.",
+                "Man har ret til at stemme, men man er ikke forpligtet til det."
+            ],
+            "pitfall": "`lade være` 不是“让某物存在”，而是“不做某事”。注意区分 `valgret`（投票权利）与 `stemmepligt`（投票义务）。"
+        }
+    ]
+}

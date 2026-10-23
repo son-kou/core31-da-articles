@@ -1,0 +1,1527 @@
+{
+    "schema_version": 1,
+    "unit": "U19",
+    "part": "ALL",
+    "source_fingerprint": "U19-ALL-e0f627493f75",
+    "sentences": [
+        {
+            "id": "U19-C001",
+            "zh": "索伦今年82岁，一辈子都住在灵克宾附近的一座农场里。",
+            "grammar": "两个并列谓语共用主语 `Søren`：`er 82` 说明现在的年龄，`har boet hele sit liv` 使用现在完成时，强调从过去一直延续到现在的居住经历。`hele sit liv` 是表示持续时间的宾格时间状语，不需要介词。`på en gård` 表示住在农场，`ved Ringkøbing` 表示位于灵克宾附近。",
+            "vocabulary": [
+                {
+                    "da": "hele sit liv",
+                    "zh": "一辈子；终其一生",
+                    "note": "反身物主代词随主语变化：`hele mit liv`、`hele hans liv`、`hele sit liv`"
+                },
+                {
+                    "da": "en gård",
+                    "zh": "农场；农庄",
+                    "note": "居住或工作在农场通常说 `på en gård`"
+                },
+                {
+                    "da": "ved",
+                    "zh": "在……附近；靠近",
+                    "note": "地理描述中可表示位于某个城镇附近"
+                }
+            ],
+            "nuance": "文章通过年龄、长期居住经历和西日德兰的农场背景，为索伦建立人物形象。这里并不是说所有农村老人都具有某种性格，而是为后文他面对精致餐饮时那种克制、略带幽默的表达方式作铺垫。`har boet` 而非 `boede` 暗示他目前仍与这个居住地保持联系。",
+            "transfer": [
+                "Jeg har boet i Danmark hele mit liv.",
+                "Hun har arbejdet på en gård i mange år.",
+                "Han bor i en lille by ved Aarhus."
+            ],
+            "pitfall": "`hele sit liv` 中的 `sit` 回指主语索伦，不能机械替换为 `hans` 而保持相同的反身指代。`på en gård` 与 `i en lejlighed` 使用不同介词。"
+        },
+        {
+            "id": "U19-C002",
+            "zh": "他的孙辈为了庆祝他的生日，邀请他去哥本哈根的一家餐厅吃饭。服务员刚刚端上了一道分量不大、摆盘精巧的龙虾料理。",
+            "grammar": "两个主句通过 `og` 连接，均使用现在完成时：`har inviteret` 表示邀请已经发生，`har netop serveret` 突出上菜刚刚完成。`for at fejre` 是目的不定式结构，表示邀请的目的。`en lille, kunstfærdig ret med hummer` 中两个形容词共同修饰 `ret`，`med hummer` 说明菜品所含食材。",
+            "vocabulary": [
+                {
+                    "da": "invitere nogen på restaurant",
+                    "zh": "邀请某人去餐厅吃饭",
+                    "note": "固定搭配 `invitere nogen på ...`"
+                },
+                {
+                    "da": "fejre en fødselsdag",
+                    "zh": "庆祝生日",
+                    "note": "`fejre` 还可用于节日、纪念日和成就"
+                },
+                {
+                    "da": "netop",
+                    "zh": "刚刚；恰好；正是",
+                    "note": "此处与现在完成时搭配，表示刚刚发生"
+                },
+                {
+                    "da": "kunstfærdig",
+                    "zh": "精巧的；工艺复杂的",
+                    "note": "可形容制作、装饰或摆盘精致"
+                },
+                {
+                    "da": "en ret",
+                    "zh": "一道菜；菜肴",
+                    "note": "这里不同于法律语境的 `ret`"
+                }
+            ],
+            "nuance": "`lille, kunstfærdig` 形成有趣的组合：菜品精致，但分量不大。作者并未直接批评高级餐饮，却已经为索伦稍后的吐槽留下伏笔。`har netop serveret` 把叙事停在上菜后的即时反应之前，增加场景的生动感。",
+            "transfer": [
+                "Jeg har inviteret mine forældre på restaurant for at fejre deres bryllupsdag.",
+                "Tjeneren har netop serveret maden.",
+                "Det er en kunstfærdigt anrettet ret."
+            ],
+            "pitfall": "`en ret` 是一道菜，不能与表示法律或权利的 `ret` 混淆。`for at + 不定式` 表示为了做某事，不要漏掉 `at`。"
+        },
+        {
+            "id": "U19-C003",
+            "zh": "孙辈：怎么样，外公？你觉得如何？",
+            "grammar": "`Nå` 是独立的话语标记，后面用称呼 `morfar` 引起对方注意。`Hvad synes du?` 是省略了评价对象的简短疑问句，完整形式可以是 `Hvad synes du om maden?`。",
+            "vocabulary": [
+                {
+                    "da": "nå",
+                    "zh": "那么；怎么样；哦",
+                    "note": "高度依赖语调和上下文的口语话语标记"
+                },
+                {
+                    "da": "morfar",
+                    "zh": "外公；母亲的父亲",
+                    "note": "对应 `farfar` 爷爷、父亲的父亲"
+                },
+                {
+                    "da": "hvad synes du?",
+                    "zh": "你觉得怎么样？",
+                    "note": "询问评价；完整搭配 `synes om noget`"
+                }
+            ],
+            "nuance": "`Nå` 带有期待对方发表评价的语气，不是表示惊讶的固定感叹。孙辈显然希望老人对这顿特别安排的生日餐有所反应，问话随意而亲近。",
+            "transfer": [
+                "Nå, hvad synes du?",
+                "Hvad synes du om restauranten?",
+                "Nå, hvordan går det?"
+            ],
+            "pitfall": "`morfar` 和 `farfar` 严格区分母系与父系祖父。`synes` 是主观认为，不能简单等同于表示客观判断的 `mene`。"
+        },
+        {
+            "id": "U19-C004",
+            "zh": "索伦：还行吧，至少还能更糟。",
+            "grammar": "`ku'` 是 `kunne` 的口语缩略拼写。`kunne være` 表示假设性的可能状态，整句话通过与更糟糕的情况比较来表达当前评价。",
+            "vocabulary": [
+                {
+                    "da": "det kunne være værre",
+                    "zh": "还算不错；至少不是更糟",
+                    "note": "典型的轻描淡写表达，具体褒贬取决于语境"
+                },
+                {
+                    "da": "værre",
+                    "zh": "更糟糕的",
+                    "note": "`dårlig – værre – værst`"
+                }
+            ],
+            "nuance": "这是全文开场的核心幽默。在这里，索伦其实非常满意，却只肯承认事情本来还能更差，是典型的 `underdrivelse`，即轻描淡写。尤其结合其西日德兰背景，作者将这种评价呈现为一种克制而不失幽默的赞美方式。但在别的场合，这句话也完全可能只是勉强满意。",
+            "transfer": [
+                "Det kunne være værre.",
+                "Det kunne have været meget værre.",
+                "Det er da ikke så tosset."
+            ],
+            "pitfall": "不要只凭字面把这句话固定判断为负面评价。`ku'` 是刻意模仿口语的拼写，正式写作一般使用 `kunne`。"
+        },
+        {
+            "id": "U19-C005",
+            "zh": "孙辈：你不喜欢这道菜吗？",
+            "grammar": "`Kan du ikke lide ...?` 使用情态动词 `kan` 加否定副词 `ikke`，整体是固定的喜好表达。这里的否定疑问句暗示说话者根据先前回答，怀疑对方可能不喜欢。",
+            "vocabulary": [
+                {
+                    "da": "kunne lide noget",
+                    "zh": "喜欢某事物",
+                    "note": "现在时常用 `kan lide`；不是能力意义上的能够"
+                }
+            ],
+            "nuance": "孙辈把外公的轻描淡写误解为不满意。这种误解正是接下来幽默效果的来源。语气并非责备，而是带着一点失望和困惑。",
+            "transfer": [
+                "Kan du ikke lide maden?",
+                "Jeg kan virkelig godt lide det.",
+                "Hvad er det, du ikke kan lide?"
+            ],
+            "pitfall": "`kan lide` 是固定搭配，不要按字面理解为能够忍受。表示不喜欢通常说 `kan ikke lide`，不是直接把英语 dislike 逐词拼成丹麦语。"
+        },
+        {
+            "id": "U19-C006",
+            "zh": "索伦：怎么会不喜欢呢！这可是我今年吃过最好的一顿了。",
+            "grammar": "`Jo da` 专门回应前面的否定疑问句，表示肯定并纠正否定预设。`det bedste, jeg har fået i år` 中 `det bedste` 是最高级形容词名词化，后面的关系从句省略了宾语关系代词 `som`。`har fået` 在餐饮语境表示吃到或享用过。",
+            "vocabulary": [
+                {
+                    "da": "jo da",
+                    "zh": "当然喜欢；怎么会不呢",
+                    "note": "回答否定问句时肯定前述被否定的内容"
+                },
+                {
+                    "da": "det bedste",
+                    "zh": "最好的东西；最棒的",
+                    "note": "中性最高级名词化"
+                },
+                {
+                    "da": "få noget at spise",
+                    "zh": "吃到东西；得到食物",
+                    "note": "`få` 在餐饮语境可指享用"
+                }
+            ],
+            "nuance": "`Jo da` 比单纯的 `jo` 更带有轻松、理所当然的意味。索伦显然认为自己已经作出了高度赞美，因此没有意识到孙辈为何会误会。这里的反差让人物的克制幽默更加突出。",
+            "transfer": [
+                "Jo da, selvfølgelig kan jeg lide det.",
+                "Det er det bedste, jeg har smagt i år.",
+                "Det er den bedste oplevelse, jeg har haft længe."
+            ],
+            "pitfall": "回答 `Kan du ikke lide det?` 时，如果确实喜欢，应使用 `Jo`，不能机械照搬中文的肯定回答而始终使用 `Ja`。"
+        },
+        {
+            "id": "U19-C007",
+            "zh": "孙辈：那你怎么不早说呢？",
+            "grammar": "`Hvorfor` 引导特殊疑问句。`så` 在这里表示既然如此、那么，连接刚得到的新信息与自己的困惑。`ikke` 否定 `siger` 所表达的说出来这一行为。",
+            "vocabulary": [
+                {
+                    "da": "hvorfor ... så ikke?",
+                    "zh": "既然如此，那为什么不……？",
+                    "note": "口语中常用于指出言行之间看似不一致"
+                }
+            ],
+            "nuance": "孙辈并非真的认为索伦从未发表评价，而是觉得他没有直接说出特别好吃。`så` 使问句带有轻微抱怨和撒娇式的不解，在家庭对话中十分自然。",
+            "transfer": [
+                "Hvorfor siger du det så ikke?",
+                "Hvorfor spørger du så ikke?",
+                "Hvis du ved det, hvorfor fortæller du det så ikke?"
+            ],
+            "pitfall": "`så` 在这里不表示过去时的看见，也不是单纯的然后，而是根据前面的信息推出进一步追问。"
+        },
+        {
+            "id": "U19-C008",
+            "zh": "索伦：我刚刚不就说了吗！……不过，这分量可真是够小的。",
+            "grammar": "`Det gjorde jeg` 中 `gjorde` 作为替代动词，回指前文的 `sige det`，避免重复。`da` 表示反驳对方的预设，`lige` 强调刚刚才做过。后半句 `det var dog en lille portion` 使用感叹性 `dog`，带有惊讶或轻微抱怨。",
+            "vocabulary": [
+                {
+                    "da": "det gjorde jeg",
+                    "zh": "我就是这么做的；我做了呀",
+                    "note": "`gøre` 可代替前面提到的动作"
+                },
+                {
+                    "da": "da",
+                    "zh": "明明；不是……吗",
+                    "note": "此处是带反驳意味的语气小品词"
+                },
+                {
+                    "da": "lige",
+                    "zh": "刚刚；正好",
+                    "note": "此处强调动作才发生不久"
+                },
+                {
+                    "da": "dog",
+                    "zh": "可真是；倒真是",
+                    "note": "在感叹句中可增强惊讶或评价"
+                },
+                {
+                    "da": "en portion",
+                    "zh": "一份；一份菜的分量"
+                }
+            ],
+            "nuance": "索伦坚持认为自己已经给出了足够高的评价，同时又忍不住吐槽高级餐厅的分量。`da lige` 让他的反驳显得理直气壮又带点顽皮；`dog` 则让最后的抱怨具有喜剧式收尾效果。",
+            "transfer": [
+                "Det gjorde jeg da lige!",
+                "Det sagde jeg da også.",
+                "Det var dog en lille portion!",
+                "Sikke en lille portion!"
+            ],
+            "pitfall": "`da`、`lige`、`dog` 在这里都不能机械套用字典里的时间或转折义。它们主要承担口语态度与情感功能。"
+        },
+        {
+            "id": "U19-C009",
+            "zh": "在西日德兰，说一句还不算太糟，并不是在抱怨，反而可以算得上最高级别的赞美之一。",
+            "grammar": "`I Vestjylland` 置于句首，限定动词 `er` 随后出现。核心结构 `ikke A, men B` 表示不是A，而是B。`en af de højeste former for ros` 使用 `en af + 复数名词`，表示诸多最高层次的赞美形式之一。",
+            "vocabulary": [
+                {
+                    "da": "en klage",
+                    "zh": "抱怨；投诉",
+                    "note": "动词 `klage`"
+                },
+                {
+                    "da": "ros",
+                    "zh": "赞美；表扬",
+                    "note": "通常作不可数名词；`rose nogen` 表扬某人"
+                },
+                {
+                    "da": "en form for",
+                    "zh": "一种……形式",
+                    "note": "适用于抽象概念分类"
+                }
+            ],
+            "nuance": "作者在这里解释开场幽默的文化逻辑。所谓最高级别的赞美带有夸张和幽默色彩，并不是经过研究得到的地域统计结论。它展现的是西日德兰人被文化叙事赋予的一种寡言、克制的形象。",
+            "transfer": [
+                "Det er ikke en klage, men en kompliment.",
+                "Det er en særlig form for humor.",
+                "For nogle mennesker er det den største ros."
+            ],
+            "pitfall": "`ros` 是赞美，`rose` 是动词，也可以在其他语境表示玫瑰。`en af de højeste former` 中必须使用复数 `former`。"
+        },
+        {
+            "id": "U19-C010",
+            "zh": "这种说法是丹麦式轻描淡写的一个典型例子：说出来的话比心里真正想表达的少，却默认对方能领会那些没有明说的意思。",
+            "grammar": "`et skoleeksempel på` 表示某现象的典型实例。冒号后用两个并列主句解释机制。`mindre, end man mener` 是比较结构，`end` 引入比较从句。`regne med, at ...` 表示预期或相信某事会发生，其宾语从句采用 `den anden + forstår` 的从句语序。",
+            "vocabulary": [
+                {
+                    "da": "et skoleeksempel på noget",
+                    "zh": "某事的典型例子；教科书式案例"
+                },
+                {
+                    "da": "en underdrivelse",
+                    "zh": "轻描淡写；低调表达；弱化说法",
+                    "note": "修辞概念，对应英语 understatement"
+                },
+                {
+                    "da": "regne med, at ...",
+                    "zh": "预计；认为……会如此",
+                    "note": "常用固定搭配"
+                },
+                {
+                    "da": "mene",
+                    "zh": "意指；心里真正认为",
+                    "note": "此处强调说话者实际想表达的意思"
+                },
+                {
+                    "da": "forstå resten",
+                    "zh": "领会剩下未说出的意思"
+                }
+            ],
+            "nuance": "丹麦式轻描淡写的关键不仅是把强烈感受说得平淡，还在于双方共享某种语用默契。说话者把推断空间留给听者，期待对方通过语境、语调和关系理解真正评价。它不是单纯的信息不足，而是一种依赖共同背景的交流方式。",
+            "transfer": [
+                "Det er et skoleeksempel på ...",
+                "Man siger mindre, end man egentlig mener.",
+                "Jeg regner med, at du forstår, hvad jeg mener.",
+                "Det er en form for underdrivelse."
+            ],
+            "pitfall": "`regne med` 在这里是预期、指望，不是计算。`underdrivelse` 是有意降低表达强度，不应与夸大 `overdrivelse` 混淆。"
+        },
+        {
+            "id": "U19-C011",
+            "zh": "不过，这种轻描淡写也自有它的道理：一个人要是赞美得太过头，可能显得虚伪；可如果抱怨得太多，又会让人觉得不懂感恩。",
+            "grammar": "冒号后重复两个名词化关系结构 `Den, der ...`，相当于凡是……的人。`risikere at + 不定式` 表示存在某种不利后果的风险。`virke + 形容词` 表示在别人眼中显得怎样。`for meget` 是程度状语，表示过分。",
+            "vocabulary": [
+                {
+                    "da": "have en logik",
+                    "zh": "自有其道理；具有内在逻辑"
+                },
+                {
+                    "da": "rose nogen",
+                    "zh": "赞美；表扬某人"
+                },
+                {
+                    "da": "risikere at",
+                    "zh": "冒着……的风险；可能不幸地……",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "virke falsk",
+                    "zh": "显得虚假；给人不真诚的感觉"
+                },
+                {
+                    "da": "utaknemmelig",
+                    "zh": "不知感恩的；不领情的",
+                    "note": "反义词 `taknemmelig`"
+                }
+            ],
+            "nuance": "这里提出一个社会评价上的平衡：过度赞美可能被理解为不真诚，过度抱怨又可能显得不领情。作者是在解释这种表达习惯的内部逻辑，而不是宣称丹麦人从来不会直接夸奖或抱怨。",
+            "transfer": [
+                "Den, der kritiserer for meget, risikerer at virke negativ.",
+                "Det risikerer at virke falsk.",
+                "Der er en vis logik i den måde at tænke på.",
+                "Han virker utaknemmelig."
+            ],
+            "pitfall": "`virke` 此处不是工作或发挥作用，而是显得。`risikere at` 通常带有负面结果的可能性，不宜直接替代中性的 `måske`。"
+        },
+        {
+            "id": "U19-C012",
+            "zh": "另一个经常被用来解释丹麦文化的概念，就是所谓的詹特法则。",
+            "grammar": "主语由 `Et andet begreb` 及插入的关系从句 `som ofte bliver brugt til at forklare dansk kultur` 组成。关系从句使用 `blive + 过去分词` 的被动态，突出概念被人们使用的事实。`til at forklare` 表示用途。主句谓语 `er` 将该概念与 `janteloven` 联系起来。",
+            "vocabulary": [
+                {
+                    "da": "et begreb",
+                    "zh": "概念；术语"
+                },
+                {
+                    "da": "blive brugt til at",
+                    "zh": "被用于……",
+                    "note": "用途表达"
+                },
+                {
+                    "da": "forklare",
+                    "zh": "解释；说明"
+                },
+                {
+                    "da": "janteloven",
+                    "zh": "詹特法则；杨特法则",
+                    "note": "北欧文化讨论中常见的社会观念，不是真正的国家法律"
+                }
+            ],
+            "nuance": "作者说的是经常被用来解释丹麦文化的概念，而不是宣称这一概念能够完全概括丹麦社会。`bliver brugt` 保留了距离感，暗示这是人们采用的一种解释框架。",
+            "transfer": [
+                "Et andet begreb, som ofte bruges, er ...",
+                "Begrebet bliver brugt til at forklare ...",
+                "Det er et vigtigt begreb i debatten om ..."
+            ],
+            "pitfall": "`janteloven` 虽然包含 `loven`，却不是成文法律。理解文化讨论时应区分社会规范、文学概念与法律制度。"
+        },
+        {
+            "id": "U19-C013",
+            "zh": "这一概念源于阿克塞尔·桑德莫塞1933年出版的小说《一个逃亡者穿越自己的足迹》。故事发生在一座虚构的小城詹特。",
+            "grammar": "`stamme fra` 表示起源于某个来源。`Aksel Sandemoses roman` 使用属格 `-s` 表示作者与作品的关系。`fra 1933` 修饰小说的出版年代。句末关系从句 `der foregår i den fiktive by Jante` 进一步介绍小说的故事背景，`der` 在此回指小说。",
+            "vocabulary": [
+                {
+                    "da": "stamme fra",
+                    "zh": "起源于；来自",
+                    "note": "适合历史、文化、语言来源的说明"
+                },
+                {
+                    "da": "en roman",
+                    "zh": "长篇小说"
+                },
+                {
+                    "da": "foregå",
+                    "zh": "发生；进行；以某地为故事背景",
+                    "note": "`foregår – foregik – foregået`"
+                },
+                {
+                    "da": "fiktiv",
+                    "zh": "虚构的",
+                    "note": "与 `virkelig` 真实的相对"
+                }
+            ],
+            "nuance": "作者在介绍詹特法则时先交代文学出处，提醒读者它最初不是民族性格调查的结果，而是文学作品中的社会描写。`fiktive by` 是后文反对把小说直接等同于丹麦现实的重要铺垫。",
+            "transfer": [
+                "Begrebet stammer fra en roman.",
+                "Historien foregår i en fiktiv by.",
+                "Traditionen stammer fra det 19. århundrede."
+            ],
+            "pitfall": "`foregå` 可表示事件发生，也可表示故事以某处为背景；不要一律使用 `ske` 替换。`stamme fra` 的介词为 `fra`。"
+        },
+        {
+            "id": "U19-C014",
+            "zh": "詹特法则的第一条训诫是：别以为自己有多了不起。",
+            "grammar": "`Lovens første bud` 使用属格 `lovens` 修饰 `bud`。`lyde` 在此表示文字内容写作或表述为。引号中的 `skal ikke tro` 带有训诫和禁止意味。`at du er noget` 在这里是习语性的自我价值夸大表达，而不是哲学意义上的存在某物。",
+            "vocabulary": [
+                {
+                    "da": "et bud",
+                    "zh": "诫命；训条；规定",
+                    "note": "在这里借用宗教或道德训诫的语感"
+                },
+                {
+                    "da": "lyde",
+                    "zh": "内容是；措辞为",
+                    "note": "如 `Reglen lyder ...`"
+                },
+                {
+                    "da": "tro, at man er noget",
+                    "zh": "自以为了不起；认为自己高人一等",
+                    "note": "具有批评自负的社会语用意味"
+                }
+            ],
+            "nuance": "这句训诫体现詹特法则的核心语气：群体对自我突出和优越感的压制。重要的是理解其讽刺性文学背景，而不能简单把它当成丹麦社会正式要求每个人自卑的道德守则。",
+            "transfer": [
+                "Du skal ikke tro, at du er bedre end andre.",
+                "Reglens første punkt lyder ...",
+                "Han tror, at han er noget særligt."
+            ],
+            "pitfall": "`være noget` 在这里不能直译为是某个东西，而是指自视甚高。`bud` 在别的语境也可表示报价或提议，必须按上下文理解。"
+        },
+        {
+            "id": "U19-C015",
+            "zh": "但这部小说原本是对一个封闭的地方小社会的讽刺，因此不能不加辨别地把它当作对丹麦人整体的真实写照。",
+            "grammar": "`så` 连接原因与结果，前半句陈述文学性质，后半句得出解释限制。`kan ikke uden videre bruges som` 使用情态动词加被动态，表示不能直接作为某种用途。`uden videre` 是固定副词表达，表示不经进一步判断或说明就直接接受。`i almindelighed` 表示总体而言。",
+            "vocabulary": [
+                {
+                    "da": "en satire over noget",
+                    "zh": "对某事的讽刺作品",
+                    "note": "注意介词 `over`"
+                },
+                {
+                    "da": "et provinssamfund",
+                    "zh": "地方小社会；外省城镇社会"
+                },
+                {
+                    "da": "uden videre",
+                    "zh": "不加考虑地；直接地；毫无保留地",
+                    "note": "常与否定搭配，表示不能轻易下结论"
+                },
+                {
+                    "da": "en beskrivelse af",
+                    "zh": "对……的描述"
+                },
+                {
+                    "da": "i almindelighed",
+                    "zh": "一般而言；整体而言"
+                }
+            ],
+            "nuance": "这一句对前文可能产生的文化刻板印象作出明确限制。`uden videre` 是非常值得掌握的 C1 论证表达：它既不完全否定某种解释的参考价值，又指出必须考虑来源、适用范围与语境。作者强调文学讽刺与现实社会概括之间不能直接画等号。",
+            "transfer": [
+                "Det kan ikke uden videre konkluderes, at ...",
+                "Resultaterne kan ikke uden videre overføres til andre lande.",
+                "Romanen er en satire over samfundet.",
+                "Det gælder ikke nødvendigvis danskere i almindelighed."
+            ],
+            "pitfall": "`uden videre` 不能逐词译为没有进一步，而要整体理解为未经额外论证就直接。`i almindelighed` 不等于 `almindeligvis` 在所有语境下完全可互换；前者更强调概括范围。"
+        },
+        {
+            "id": "U19-C016",
+            "zh": "丹麦式幽默往往冷面、含蓄，不会把笑点说得太直白。",
+            "grammar": "`tør` 和 `indirekte` 是并列表语形容词，共同描述 `Dansk humor`。`ofte` 是频率副词，位于系动词 `er` 之后、表语之前。",
+            "vocabulary": [
+                {
+                    "da": "tør humor",
+                    "zh": "冷面幽默；干幽默",
+                    "note": "笑点常以平静、一本正经的方式表达"
+                },
+                {
+                    "da": "indirekte",
+                    "zh": "间接的；不直说的"
+                }
+            ],
+            "nuance": "这里的 `tør` 并不是无聊或不好笑，而是强调表情克制、语调平淡、幽默效果需要听者自行理解。`ofte` 保留了概括的弹性，没有将所有丹麦人的幽默方式绝对化。",
+            "transfer": [
+                "Han har en meget tør humor.",
+                "Dansk humor kan være ret indirekte.",
+                "Jeg er ikke altid god til at forstå tør humor."
+            ],
+            "pitfall": "`tør humor` 不等于 `kedelig humor`。前者是一种幽默风格，后者才表示无聊的幽默。"
+        },
+        {
+            "id": "U19-C017",
+            "zh": "人们常常喜欢拿自己、天气和权威人物开玩笑。在职场里，如果没有任何人调侃你，有时反而不是什么好兆头。",
+            "grammar": "`gøre grin med` 是整体动词搭配，后面三个 `med` 并列引出玩笑对象。`gerne` 表示倾向于、乐于这样做。后半句使用形式主语 `det` 和条件从句 `hvis ingen driller én`。`én` 是带重音符号的泛指宾格代词，表示某个人或自己。",
+            "vocabulary": [
+                {
+                    "da": "gøre grin med nogen",
+                    "zh": "拿某人开玩笑；取笑某人",
+                    "note": "既可友善也可伤人，取决于关系与语境"
+                },
+                {
+                    "da": "en autoritet",
+                    "zh": "权威人物；权威机构",
+                    "note": "复数 `autoriteter`"
+                },
+                {
+                    "da": "drille nogen",
+                    "zh": "逗弄；调侃；捉弄某人",
+                    "note": "有时亲昵，有时令人不适"
+                },
+                {
+                    "da": "et godt tegn",
+                    "zh": "好兆头；积极信号",
+                    "note": "反义表达 `et dårligt tegn`"
+                }
+            ],
+            "nuance": "作者提出一个初来丹麦的外国人可能不熟悉的社交逻辑：友善的调侃有时意味着被群体接纳。但这不是说职场中的一切取笑都合理。`sjældent` 只表示很少是好兆头，既非绝对判断，也不能据此认定没有人调侃就意味着遭到排斥。",
+            "transfer": [
+                "Vi gør ofte grin med os selv.",
+                "Han driller mig bare.",
+                "Det er ikke et godt tegn, hvis ...",
+                "Hun kan godt lide at gøre grin med autoriteter."
+            ],
+            "pitfall": "`gøre grin med` 不是制造笑容，而是拿某人某事开玩笑。`gerne` 在这里表示习惯性倾向，不必译成强烈愿望。"
+        },
+        {
+            "id": "U19-C018",
+            "zh": "因为调侃有时也是一种表示你已经融入集体的方式；但对于刚加入的人来说，玩笑与冒犯之间的界限可能很难判断。",
+            "grammar": "`nemlig` 是解释性语气副词，为前文提供理由。`en måde at vise, at ...` 使用不定式结构说明方式的功能。`høre til` 表示属于或融入某个群体。后半句 `grænsen kan være svær at se` 使用 `形容词 + at + 不定式`。`den, der er ny` 是泛指某类人的关系结构。",
+            "vocabulary": [
+                {
+                    "da": "nemlig",
+                    "zh": "因为；其实原因就在于",
+                    "note": "常用于解释或补充前文，不能机械等同于 `fordi`"
+                },
+                {
+                    "da": "høre til",
+                    "zh": "属于；归属；融入",
+                    "note": "可用于社会关系或组织归属"
+                },
+                {
+                    "da": "en grænse",
+                    "zh": "界限；边界"
+                },
+                {
+                    "da": "være ny",
+                    "zh": "刚来的；新加入的"
+                }
+            ],
+            "nuance": "前半句解释调侃可能具有的积极社交功能，后半句立即补充了对新人不利的一面。`kan` 十分重要：调侃可能表达接纳，却不能保证如此。新成员尚不熟悉群体默契，难以区分友好玩笑和真正的排斥。",
+            "transfer": [
+                "Det kan være en måde at vise, at man hører til.",
+                "Grænsen kan være svær at se.",
+                "Det er især svært for dem, der er nye.",
+                "Jeg føler, at jeg hører til her."
+            ],
+            "pitfall": "`høre til` 不是听到什么，而是属于、归属。`nemlig` 一般通过补充解释连接前文，不像 `fordi` 那样直接引导原因从句。"
+        },
+        {
+            "id": "U19-C019",
+            "zh": "所以，如果拿不准对方是不是在开玩笑，直接问问他们刚才是什么意思，是完全可以的。",
+            "grammar": "`Er man i tvivl` 是省略 `hvis` 的条件倒装，相当于 `Hvis man er i tvivl`。整个条件部分占据主句首位，因此后接 `er det`，而非 `det er`。`at spørge, hvad de mente` 中 `hvad de mente` 是间接疑问从句，`mente` 使用过去时，因为询问的是对方此前话语的意思。",
+            "vocabulary": [
+                {
+                    "da": "være i tvivl",
+                    "zh": "感到疑惑；不确定",
+                    "note": "也可说 `være i tvivl om noget`"
+                },
+                {
+                    "da": "helt i orden",
+                    "zh": "完全没问题；完全可以接受"
+                },
+                {
+                    "da": "hvad nogen mener",
+                    "zh": "某人的意思是什么；某人怎么看"
+                }
+            ],
+            "nuance": "作者给出一种实际可用的跨文化沟通建议：不必假装理解所有丹麦式幽默。`helt i orden` 具有安抚效果，表明澄清并不丢脸，也不一定会破坏同事关系。",
+            "transfer": [
+                "Er du i tvivl, så spørg.",
+                "Det er helt i orden at spørge.",
+                "Jeg er lidt i tvivl om, hvad du mener.",
+                "Hvad mente du med det?"
+            ],
+            "pitfall": "条件倒装 `Er man ...` 不是疑问句。`i tvivl` 必须保留介词 `i`；后接具体问题时可使用 `om`。"
+        },
+        {
+            "id": "U19-C020",
+            "zh": "同事：领带真漂亮啊。怎么，你这是要去参加葬礼吗？",
+            "grammar": "`Flot slips` 是省略系动词的口语评价句，相当于 `Det er et flot slips`。`Skal du til ...?` 中 `skal` 询问接下来是否要去参加某个活动。`til begravelse` 是固定搭配，表示参加葬礼。",
+            "vocabulary": [
+                {
+                    "da": "et slips",
+                    "zh": "领带",
+                    "note": "中性名词；单复数同形"
+                },
+                {
+                    "da": "flot",
+                    "zh": "漂亮的；好看的；出色的"
+                },
+                {
+                    "da": "tage til begravelse",
+                    "zh": "参加葬礼",
+                    "note": "与 `gå til begravelse` 都可使用"
+                }
+            ],
+            "nuance": "同事先表面上夸奖领带，随即用葬礼进行调侃，暗示这条领带过于正式或严肃。这里是冷面幽默的现场示范：说话者表面一本正经，真正的意思却藏在反差之中。",
+            "transfer": [
+                "Flot slips!",
+                "Skal du til fest?",
+                "Skal du til et vigtigt møde?"
+            ],
+            "pitfall": "`Skal du til begravelse?` 在此不是真正询问对方是否有亲友去世，而是调侃穿着。判断这种话是否友善必须结合关系和语气。"
+        },
+        {
+            "id": "U19-C021",
+            "zh": "阿米尔：不是，我要去和管理层开会。我这样是不是穿得太正式了？",
+            "grammar": "`Nej, til et møde med ledelsen` 是省略式回答，保留介词短语，省略了已经明确的主语和动词。`Er det for meget?` 中 `for meget` 表示程度过头，`det` 在此回指穿领带的整体打扮。",
+            "vocabulary": [
+                {
+                    "da": "et møde med ledelsen",
+                    "zh": "与管理层的会议"
+                },
+                {
+                    "da": "ledelsen",
+                    "zh": "管理层；领导层",
+                    "note": "集合性名词"
+                },
+                {
+                    "da": "for meget",
+                    "zh": "太过了；过头了",
+                    "note": "可用于穿着、情绪、言辞和行为"
+                }
+            ],
+            "nuance": "阿米尔并没有完全确定同事是在开玩笑，所以提出进一步确认。`Er det for meget?` 体现新人担心自己与团队着装规范不一致的心情，正好印证前文关于幽默边界难以判断的论述。",
+            "transfer": [
+                "Jeg skal til et møde med ledelsen.",
+                "Er det for meget?",
+                "Synes du, jeg er for formelt klædt på?"
+            ],
+            "pitfall": "`for meget` 此处不是东西太多，而是穿着是否过于隆重。`ledelsen` 指管理层，不等于单独某一位老板 `chefen`。"
+        },
+        {
+            "id": "U19-C022",
+            "zh": "同事：一点也不过头。我只是逗你玩呢。说真的，这条领带其实挺适合你的。",
+            "grammar": "`Slet ikke` 是省略式否定回答，强化完全不是如此。`Jeg driller bare` 中 `bare` 表示只是、不过是在开玩笑。`Det klæder dig` 是固定结构，表示某种衣着适合某人。`faktisk` 纠正可能产生的错误印象。",
+            "vocabulary": [
+                {
+                    "da": "slet ikke",
+                    "zh": "完全不；一点也不"
+                },
+                {
+                    "da": "drille",
+                    "zh": "逗弄；调侃"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是；不过",
+                    "note": "在此弱化前面玩笑的严重性"
+                },
+                {
+                    "da": "klæde nogen",
+                    "zh": "适合某人；穿在某人身上好看",
+                    "note": "`Det klæder dig` 是固定表达"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "其实；事实上"
+                }
+            ],
+            "nuance": "同事迅速说明玩笑意图，并给出真诚的肯定，完成从可能冒犯到关系修复的转变。`faktisk` 带有澄清作用，说明前面的葬礼评论不应该被当成真实的负面评价。",
+            "transfer": [
+                "Slet ikke!",
+                "Jeg driller bare.",
+                "Den jakke klæder dig virkelig godt.",
+                "Det ser faktisk rigtig godt ud."
+            ],
+            "pitfall": "`klæde` 在这里不是给某人穿衣服，而是衣着适合某人。注意主语通常是衣物或装扮，宾语才是人。"
+        },
+        {
+            "id": "U19-C023",
+            "zh": "阿米尔：那就好。我刚才差点把领带摘下来了。",
+            "grammar": "`var lige ved at + 不定式` 是核心结构，表示某个动作险些发生，但最终通常没有发生。`tage det af` 是可分性的动词小品词结构，`det` 指领带，`af` 表示取下。",
+            "vocabulary": [
+                {
+                    "da": "være lige ved at",
+                    "zh": "差一点就……；险些……",
+                    "note": "重要的口语时间与程度结构"
+                },
+                {
+                    "da": "tage noget af",
+                    "zh": "脱下；取下某物",
+                    "note": "相对表达 `tage noget på`"
+                }
+            ],
+            "nuance": "`Godt` 在这里是松了一口气的回应。阿米尔原本因担心失礼而准备取下领带，听到同事澄清后才放心。`lige ved at` 非常适合描述险些做出的决定。",
+            "transfer": [
+                "Jeg var lige ved at ringe til dig.",
+                "Hun var lige ved at falde.",
+                "Jeg var lige ved at tage jakken af."
+            ],
+            "pitfall": "`være lige ved at` 不是表示正在某地附近，而是险些做某事。不要与 `være ved at` 的正在进行意义混为一谈。"
+        },
+        {
+            "id": "U19-C024",
+            "zh": "同事：那你可千万别摘。要不然老板还以为你已经彻底放弃努力了呢。",
+            "grammar": "`Det må du vist ikke` 中 `må` 表示许可或允许，否定形式表示不该这样做。`vist` 是认识性语气副词，使判断显得不那么严肃。`Så tror chefen, at ...` 中 `Så` 表示在那种情况下，后面立即接限定动词 `tror`，形成 V2 倒装。`har opgivet` 是现在完成时。",
+            "vocabulary": [
+                {
+                    "da": "vist",
+                    "zh": "大概；看来；恐怕",
+                    "note": "表示推测或缓和语气"
+                },
+                {
+                    "da": "opgive",
+                    "zh": "放弃；停止努力",
+                    "note": "`opgiver – opgav – opgivet`"
+                },
+                {
+                    "da": "chefen",
+                    "zh": "老板；主管"
+                }
+            ],
+            "nuance": "同事又延续了一次玩笑：领带代表认真对待管理层会议，如果摘下来，老板可能觉得阿米尔放弃了努力。`vist` 让这句所谓的禁止听起来明显不严肃，继续保持轻松的职场调侃氛围。",
+            "transfer": [
+                "Det må du vist hellere lade være med.",
+                "Så tror de, at du har opgivet.",
+                "Jeg har ikke opgivet endnu."
+            ],
+            "pitfall": "`må ikke` 可以表示不允许，而 `vist` 会使语气变为推测性或带幽默色彩。`opgive` 不等于交出某物，在此是放弃努力。"
+        },
+        {
+            "id": "U19-C025",
+            "zh": "丹麦人经常用来描述自己的另一个词，是思想开放、尊重不同生活方式的自由宽容精神。",
+            "grammar": "`Et andet ord` 是主句主语，后面的关系从句 `som danskere ofte bruger om sig selv` 补充说明这个词的用途。`bruge noget om nogen` 表示使用某个词语来形容某人。主句的系动词 `er` 引出术语 `frisind`。",
+            "vocabulary": [
+                {
+                    "da": "frisind",
+                    "zh": "思想开放；自由宽容精神；开明态度",
+                    "note": "强调对不同观念与生活方式的宽容"
+                },
+                {
+                    "da": "bruge et ord om nogen",
+                    "zh": "用某个词形容某人",
+                    "note": "介词 `om`"
+                },
+                {
+                    "da": "beskrive sig selv",
+                    "zh": "描述自己；自我定义"
+                }
+            ],
+            "nuance": "这里采用丹麦人的自我描述作为切入点，而不是直接宣布丹麦社会已经完全实现宽容。`frisind` 不只是个人享有自由，还包括愿意接受别人作出与自己不同的选择。",
+            "transfer": [
+                "Et andet ord, man ofte bruger, er ...",
+                "Hvordan vil du beskrive dig selv?",
+                "Frisind er en vigtig værdi for mange danskere."
+            ],
+            "pitfall": "`frisind` 不能直接等同于 `frihed`。`frihed` 侧重自由本身，而 `frisind` 更强调对不同生活方式保持开放的态度。"
+        },
+        {
+            "id": "U19-C026",
+            "zh": "它指的是一种开放、宽容的态度：只要别人不伤害任何人，就尊重他们选择怎样生活。",
+            "grammar": "`betegne` 表示某个词所指称的概念。`en holdning til, hvordan ...` 使用介词 `til` 引出对某个问题的态度。`hvordan andre vælger at leve deres liv` 是间接疑问从句。`så længe` 引出限制条件，表示只要某条件持续成立。",
+            "vocabulary": [
+                {
+                    "da": "betegne",
+                    "zh": "指称；表示；意味着",
+                    "note": "正式解释概念时常用"
+                },
+                {
+                    "da": "en holdning til",
+                    "zh": "对……的态度",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "tolerant",
+                    "zh": "宽容的；包容的"
+                },
+                {
+                    "da": "vælge at",
+                    "zh": "选择做某事"
+                },
+                {
+                    "da": "så længe",
+                    "zh": "只要；在……期间",
+                    "note": "此处表示条件而不是单纯时间长度"
+                }
+            ],
+            "nuance": "核心是允许他人拥有不同于自己的生活方式，而不是要求自己赞同一切选择。`så længe de ikke skader nogen` 明确给这种宽容设置了不伤害他人的边界，避免把思想开放误解为毫无原则。",
+            "transfer": [
+                "Jeg har en åben holdning til, hvordan andre lever.",
+                "Folk må leve, som de vil, så længe de ikke skader andre.",
+                "Det betegner en bestemt måde at tænke på."
+            ],
+            "pitfall": "`holdning til` 后面可以接名词或间接疑问从句。`så længe` 有时间和条件两种用法，本句应按只要理解。"
+        },
+        {
+            "id": "U19-C027",
+            "zh": "不过，这种自由宽容精神也有自己的界限和内在矛盾：同样一群主张个人自由的人，面对偏离多数人社会规范的习俗时，也可能表现得相当怀疑甚至排斥。",
+            "grammar": "`dog` 在主句中表示让步转折。冒号后的主语是 `Den samme befolkning`，中间插入关系从句 `der går ind for personlig frihed`。主句谓语 `kan være skeptisk over for` 则把看似矛盾的另一面呈现出来。`skikke, der bryder med flertallets normer` 包含第二层关系从句，说明引起怀疑的是哪类习俗。",
+            "vocabulary": [
+                {
+                    "da": "gå ind for noget",
+                    "zh": "支持；赞成；主张",
+                    "note": "常用于政治观点与社会价值"
+                },
+                {
+                    "da": "skeptisk over for",
+                    "zh": "对……持怀疑态度；有所保留",
+                    "note": "固定介词组合 `over for`"
+                },
+                {
+                    "da": "en skik",
+                    "zh": "习俗；惯例",
+                    "note": "复数 `skikke`"
+                },
+                {
+                    "da": "bryde med",
+                    "zh": "背离；打破；违背",
+                    "note": "常搭配传统、规范和惯例"
+                },
+                {
+                    "da": "flertallets normer",
+                    "zh": "多数人的规范或社会准则"
+                }
+            ],
+            "nuance": "这一句非常适合 C1 议论文。作者没有简单称丹麦社会虚伪，而是指出普遍价值与实际社会反应之间可能存在张力。`kan være` 保留可能性，不把所有丹麦人描写为排外。`den samme befolkning` 使这种价值矛盾格外醒目。",
+            "transfer": [
+                "Jeg går ind for personlig frihed.",
+                "Mange er skeptiske over for forandringer.",
+                "Det bryder med de traditionelle normer.",
+                "Den samme gruppe, der støtter X, kan være imod Y."
+            ],
+            "pitfall": "`gå ind for` 不是走进去，而是支持。`skeptisk over for` 不能直译为站在对面。`bryde med normer` 指打破规范，不是物理上的损坏。"
+        },
+        {
+            "id": "U19-C028",
+            "zh": "丹麦设有国教会。根据宪法，它属于福音派路德宗，并受到国家的支持。",
+            "grammar": "`Danmark har en folkekirke` 先引入制度主体。关系从句 `som ifølge grundloven er evangelisk-luthersk og understøttes af staten` 解释其宗派属性和制度地位。`ifølge grundloven` 是依据来源状语。`understøttes` 使用 s-被动，`af staten` 表示支持来自国家。",
+            "vocabulary": [
+                {
+                    "da": "folkekirken",
+                    "zh": "丹麦国教会；丹麦人民教会",
+                    "note": "丹麦特定宗教制度名称"
+                },
+                {
+                    "da": "ifølge",
+                    "zh": "根据；按照",
+                    "note": "后接依据来源，如法律、报告或某人的陈述"
+                },
+                {
+                    "da": "grundloven",
+                    "zh": "宪法"
+                },
+                {
+                    "da": "evangelisk-luthersk",
+                    "zh": "福音派路德宗的"
+                },
+                {
+                    "da": "understøtte",
+                    "zh": "支持；扶持",
+                    "note": "`understøttes af staten` 受到国家支持"
+                }
+            ],
+            "nuance": "这段采用制度说明文体，介绍丹麦宗教制度与国家的关系。`ifølge grundloven` 强调其法律依据，并非单纯描述民间宗教习惯。`understøttes` 表示制度性支持，但不能据此直接推论每个丹麦人都信教。",
+            "transfer": [
+                "Ifølge grundloven ...",
+                "Ordningen understøttes af staten.",
+                "Institutionen bygger på en lang tradition."
+            ],
+            "pitfall": "`folkekirken` 不是简单指人民自己组成的任何教会，而是丹麦具有特定宪法地位的宗教机构。`ifølge` 表示依据某来源，不能直接理解为因为。"
+        },
+        {
+            "id": "U19-C029",
+            "zh": "大多数丹麦人是国教会成员，成员在缴纳其他税款时也缴纳教会税。不过，过去几十年来，教会成员占人口的比例一直在稳步下降。",
+            "grammar": "三个主句通过 `og` 与 `men` 连接。`Flertallet af danskerne` 的中心词是单数 `flertallet`，因此使用 `er medlem` 的表语结构。`andelen er faldet` 使用现在完成时，表示过去数十年的变化延续到现在。`gennem de seneste årtier` 是跨越一段时期的时间状语。",
+            "vocabulary": [
+                {
+                    "da": "flertallet af",
+                    "zh": "……的大多数",
+                    "note": "中心名词为 `flertallet`"
+                },
+                {
+                    "da": "være medlem af",
+                    "zh": "是……的成员"
+                },
+                {
+                    "da": "kirkeskat",
+                    "zh": "教会税",
+                    "note": "由相关教会成员缴纳的税"
+                },
+                {
+                    "da": "en andel",
+                    "zh": "比例；份额"
+                },
+                {
+                    "da": "falde støt",
+                    "zh": "持续稳步下降",
+                    "note": "`støt` 强调趋势相对稳定"
+                }
+            ],
+            "nuance": "作者将两个看似相反的事实并置：教会成员身份仍具有广泛社会基础，但成员比例长期呈下降趋势。`men` 显示这种动态变化。教会成员身份与个人宗教信念的强弱并不是同一个问题，下一句会进一步解释。",
+            "transfer": [
+                "Flertallet af befolkningen er medlem af ...",
+                "Andelen er faldet støt gennem de seneste år.",
+                "Medlemmerne betaler et årligt bidrag.",
+                "Udviklingen er fortsat gennem flere årtier."
+            ],
+            "pitfall": "`en andel` 表示比例或份额，不等于绝对人数。`flertallet` 在形式上是单数集合名词，不能简单根据后面的复数名词决定所有语法变化。"
+        },
+        {
+            "id": "U19-C030",
+            "zh": "有些人把这种现象称为文化基督教：人们或许并不完全相信牧师讲述的教义，但教会依然是人生重大转折时不可缺少的一部分。",
+            "grammar": "`kalde noget noget` 表示把某事称为某个概念。冒号后进一步解释。`tror måske ikke på alt det, præsten siger` 使用 `tro på` 表示信奉或相信，`alt det` 后接省略关系代词的关系从句。`høre med til` 是固定动词短语，表示某事属于整体中自然的一部分。",
+            "vocabulary": [
+                {
+                    "da": "kulturkristendom",
+                    "zh": "文化基督教；文化层面的基督教认同",
+                    "note": "强调宗教传统的文化、仪式和身份意义"
+                },
+                {
+                    "da": "tro på noget",
+                    "zh": "相信；信奉"
+                },
+                {
+                    "da": "høre med til",
+                    "zh": "属于……的一部分；是……不可缺少的组成部分"
+                },
+                {
+                    "da": "livets store overgange",
+                    "zh": "人生的重要转折或阶段过渡",
+                    "note": "如出生、婚姻、死亡等人生仪式场景"
+                }
+            ],
+            "nuance": "`kulturkristendom` 解释了为何有人虽然不完全认同宗教教义，仍保持与教会的关系。`måske ikke på alt` 特别值得注意：作者不是说这些人完全没有信仰，而是对教义接受程度作了谨慎表述。`hører med til` 则强调传统与人生仪式之间的联系。",
+            "transfer": [
+                "Nogle kalder det kulturkristendom.",
+                "Jeg tror ikke på alt, hvad han siger.",
+                "Traditionen hører med til vores kultur.",
+                "Det hører med til livet."
+            ],
+            "pitfall": "`tro på` 表示相信或信奉，`tro, at ...` 表示认为某个命题成立。`ikke på alt` 不等于完全不相信，注意否定范围。"
+        },
+        {
+            "id": "U19-C031",
+            "zh": "如今，伊斯兰教是丹麦第二大宗教。在较大的城市里设有清真寺，穆斯林信众会在那里聚集参加周五礼拜。",
+            "grammar": "`i dag` 是时间状语，说明当前的宗教格局。第二主句以地点状语 `i de større byer` 开头，后接 `er der`，形成 V2 倒装和存在结构。`hvor menigheden samles til fredagsbøn` 是地点关系从句，`hvor` 回指前面的清真寺。",
+            "vocabulary": [
+                {
+                    "da": "næststørst",
+                    "zh": "第二大的",
+                    "note": "`landets næststørste religion` 本国第二大宗教"
+                },
+                {
+                    "da": "en moské",
+                    "zh": "清真寺",
+                    "note": "复数 `moskeer`"
+                },
+                {
+                    "da": "en menighed",
+                    "zh": "宗教会众；信众群体"
+                },
+                {
+                    "da": "samles til",
+                    "zh": "聚集参加某项活动",
+                    "note": "如 `samles til gudstjeneste`"
+                },
+                {
+                    "da": "fredagsbøn",
+                    "zh": "周五集体礼拜"
+                }
+            ],
+            "nuance": "这句话把宗教多样性具体化为清真寺和周五礼拜的日常场景。`menighed` 可用于不同宗教的会众，不仅限于基督教。这里采用客观的社会介绍语气，而不是评价某种宗教。",
+            "transfer": [
+                "Islam er en af verdens største religioner.",
+                "I de større byer findes der moskeer.",
+                "Menigheden samles til bøn.",
+                "Folk samles til en fælles begivenhed."
+            ],
+            "pitfall": "`næststørste` 是第二大，不是接下来最大的普通时间表达。`samles` 是具有集合意义的 s 形式，不能简单按一般被动语态处理。"
+        },
+        {
+            "id": "U19-C032",
+            "zh": "宗教自由并不意味着人们必须认同别人的信仰，而是意味着国家不得干涉个人相信什么，只要个人遵守国家法律。",
+            "grammar": "核心结构是 `betyder ikke, at A, men at B`，通过否定与肯定宾语从句界定概念。`må` 在 `staten ikke må blande sig i` 中表示法律或规范上的许可，否定形式表达不得干预。`hvad man tror` 是间接疑问从句。`så længe` 引导条件限制。",
+            "vocabulary": [
+                {
+                    "da": "religionsfrihed",
+                    "zh": "宗教自由"
+                },
+                {
+                    "da": "dele andres tro",
+                    "zh": "认同或分享他人的信仰"
+                },
+                {
+                    "da": "blande sig i noget",
+                    "zh": "干预；插手某事",
+                    "note": "固定反身结构和介词 `i`"
+                },
+                {
+                    "da": "overholde loven",
+                    "zh": "遵守法律",
+                    "note": "`overholde` 用于规则、协议、法律及期限"
+                },
+                {
+                    "da": "så længe",
+                    "zh": "只要"
+                }
+            ],
+            "nuance": "这是非常典型的价值概念界定句。作者通过 `ikke ... men ...` 区分尊重别人信仰自由与自己必须认同别人的信仰。后一项强调国家权力应受约束，同时也指出宗教实践须遵守法律的条件。",
+            "transfer": [
+                "Frihed betyder ikke, at man kan gøre hvad som helst.",
+                "Staten må ikke blande sig i borgernes private valg.",
+                "Man har ret til at tro, hvad man vil.",
+                "Så længe man overholder loven, ..."
+            ],
+            "pitfall": "`dele andres tro` 不是把信仰分成几部分，而是拥有相同的信仰。`blande sig i` 必须保留反身代词 `sig`。"
+        },
+        {
+            "id": "U19-C033",
+            "zh": "本特的父亲去世后，他给当地教区牧师打了电话。两天后，两人坐在牧师住宅的客厅里交谈。",
+            "grammar": "`Da Bents far døde` 是由 `da` 引导的过去时间从句，表示某个具体的过去事件。主句 `ringede han til sognepræsten` 体现时间从句前置后的 V2 倒装。第二个并列主句以 `to dage senere` 开头，所以采用 `sad de`。其中 `han` 指本特，`de` 指本特与牧师。",
+            "vocabulary": [
+                {
+                    "da": "dø",
+                    "zh": "去世；死亡",
+                    "note": "`dør – døde – død`"
+                },
+                {
+                    "da": "en sognepræst",
+                    "zh": "教区牧师"
+                },
+                {
+                    "da": "ringe til nogen",
+                    "zh": "打电话给某人"
+                },
+                {
+                    "da": "en præstegård",
+                    "zh": "牧师住宅；教区牧师宅邸",
+                    "note": "通常指与教区职务相关的住宅"
+                }
+            ],
+            "nuance": "作者采用平实、克制的叙述方式引入丧葬场景。没有夸张的悲痛描述，只通过去世、电话与会面三个具体事件自然推进。这种叙事方式与本篇反复出现的克制表达主题形成呼应。",
+            "transfer": [
+                "Da min far døde, kontaktede jeg præsten.",
+                "To dage senere mødtes de.",
+                "Vi sad i stuen og talte sammen."
+            ],
+            "pitfall": "`da` 在这里表示过去一次具体事件发生时，不能机械与表示未来或重复性情境的 `når` 互换。"
+        },
+        {
+            "id": "U19-C034",
+            "zh": "牧师：跟我说说你父亲吧。他是一个什么样的人？",
+            "grammar": "`Fortæl` 是命令式，在这里用于温和邀请对方叙述。`lidt` 弱化要求，使提问不显得逼迫。`Hvad var han for et menneske?` 是固定的类型询问结构 `Hvad er/var X for en/et ...?`，重点询问性格和为人，而非职业身份。",
+            "vocabulary": [
+                {
+                    "da": "fortælle nogen om nogen",
+                    "zh": "向某人讲述某人的情况"
+                },
+                {
+                    "da": "lidt",
+                    "zh": "一点；稍微",
+                    "note": "可用于柔化请求"
+                },
+                {
+                    "da": "hvad for et menneske",
+                    "zh": "什么样的人",
+                    "note": "询问为人、个性或特点"
+                }
+            ],
+            "nuance": "牧师没有一开始就询问葬礼细节，而是请家属描述逝者的为人，给悲伤者一个讲述亲人的机会。`lidt` 使邀请保持温和，避免让对方觉得必须马上作出完整的正式陈述。",
+            "transfer": [
+                "Fortæl mig lidt om din familie.",
+                "Hvad er han for et menneske?",
+                "Hvad var hun for en person?"
+            ],
+            "pitfall": "`Hvad var han for et menneske?` 不能逐词译为他为了什么人。这里的 `for` 属于询问类型的固定结构。"
+        },
+        {
+            "id": "U19-C035",
+            "zh": "本特：他是一名铁匠。话不多，但手特别巧，什么都能做。他平时从不去教堂，只有圣诞夜例外。",
+            "grammar": "`Stille` 是省略主语与系动词的口语描述，承接前面的父亲。`kunne lave alt med sine hænder` 中 `kunne` 表示过去具有的实际能力。`aldrig ... undtagen` 表示通常从不发生，后接一个明确例外。`sine hænder` 中反身物主代词回指父亲。",
+            "vocabulary": [
+                {
+                    "da": "en smed",
+                    "zh": "铁匠；金属加工工匠"
+                },
+                {
+                    "da": "stille",
+                    "zh": "安静的；寡言的",
+                    "note": "描写人时可表示不爱说话"
+                },
+                {
+                    "da": "lave noget med sine hænder",
+                    "zh": "亲手制作或修理东西"
+                },
+                {
+                    "da": "undtagen",
+                    "zh": "除了……之外",
+                    "note": "用于明确例外"
+                },
+                {
+                    "da": "juleaften",
+                    "zh": "平安夜；圣诞前夜"
+                }
+            ],
+            "nuance": "本特没有采用抽象的赞美词，而是通过职业、寡言性格和动手能力让父亲的形象鲜活起来。圣诞夜才去教堂的细节，与前文文化基督教的讨论呼应：宗教活动可以更多表现为家庭传统，而非日常宗教实践。",
+            "transfer": [
+                "Han var stille, men meget dygtig med sine hænder.",
+                "Han kunne lave næsten alt selv.",
+                "Jeg går sjældent i kirke, undtagen juleaften."
+            ],
+            "pitfall": "`stille` 描述性格时不必译为完全不说话。`med sine hænder` 中使用反身物主代词，而不是 `hans` 来表达主语自己的双手。"
+        },
+        {
+            "id": "U19-C036",
+            "zh": "牧师：他那一代的很多人都是这样。",
+            "grammar": "`Sådan var det for ...` 是概括某类人的典型状况的表达。`mange af hans generation` 表示属于他那一代的许多人。`sådan` 回指此前描述的生活方式，尤其是平日不去教堂、圣诞夜才参加宗教活动的情况。",
+            "vocabulary": [
+                {
+                    "da": "sådan",
+                    "zh": "这样；如此"
+                },
+                {
+                    "da": "en generation",
+                    "zh": "一代人；世代"
+                },
+                {
+                    "da": "sådan var det for ...",
+                    "zh": "对……来说，情况就是这样"
+                }
+            ],
+            "nuance": "牧师并不评价本特父亲的宗教虔诚程度，而是把他的习惯放入世代背景中理解。这种回应具有接纳和安慰意味，避免让家属因为逝者较少参与宗教活动而感到尴尬。",
+            "transfer": [
+                "Sådan var det for mange dengang.",
+                "Det var almindeligt for hans generation.",
+                "Sådan er det også for mange i dag."
+            ],
+            "pitfall": "`Sådan var det` 不能机械译为它曾经是那样的东西，而应按上下文理解为当时的情况就是如此。"
+        },
+        {
+            "id": "U19-C037",
+            "zh": "本特：他生前希望火化，而不是采用遗体土葬的方式。骨灰 urn 要安放在我母亲的旁边。",
+            "grammar": "`ønskede at blive bisat` 使用 `ønske at` 加被动不定式，表示生前希望接受某种身后安排。`ikke begravet` 省略了并列结构中重复的 `at blive`。`Urnen skal ned` 是日常语境中的省略表达，意为骨灰 urn 应被安放下去；`ved siden af` 表示紧挨着。",
+            "vocabulary": [
+                {
+                    "da": "bisætte",
+                    "zh": "举行火化式葬礼；安排火化",
+                    "note": "丹麦丧葬语境通常与火化安排联系在一起"
+                },
+                {
+                    "da": "begraven",
+                    "zh": "埋葬的；土葬的",
+                    "note": "来自动词 `begrave`"
+                },
+                {
+                    "da": "en urne",
+                    "zh": "骨灰 urn；骨灰容器",
+                    "note": "常说 `nedsætte en urne` 安葬骨灰 urn"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在……旁边"
+                }
+            ],
+            "nuance": "本特从回忆父亲转入具体的身后安排。`ønskede` 表明这是父亲生前的意愿。提到母亲旁边的位置，则把葬礼仪式与家庭关系连接起来。这里的 `bisat` 按文章内部的对比理解为火化相关的安排，而不是泛指一切葬礼。",
+            "transfer": [
+                "Han ønskede at blive bisat.",
+                "Urnen skal nedsættes ved siden af hans kone.",
+                "Det var hans sidste ønske."
+            ],
+            "pitfall": "`bisættelse` 通常指与火化相关的葬礼形式，但具体的仪式与火化本身不是同一个动作。`Urnen skal ned` 是省略说法，正式表达可使用 `urnen skal nedsættes`。"
+        },
+        {
+            "id": "U19-C038",
+            "zh": "牧师：那首圣诗我们会唱的。你自己愿意说几句话吗？",
+            "grammar": "`Den synger vi` 将宾语 `Den` 前置，限定动词 `synger` 随后出现，主语 `vi` 后置，符合 V2。`Den` 根据语境应指双方谈及的一首歌曲或圣诗，虽然提供的这一段没有写出具体曲名。`Vil du selv sige nogle ord?` 使用 `vil` 询问意愿，`selv` 强调是否由本特本人发言。",
+            "vocabulary": [
+                {
+                    "da": "synge",
+                    "zh": "唱；演唱",
+                    "note": "`synger – sang – sunget`"
+                },
+                {
+                    "da": "sige nogle ord",
+                    "zh": "说几句话；简短致辞",
+                    "note": "可用于葬礼、婚礼、会议等场合"
+                },
+                {
+                    "da": "selv",
+                    "zh": "亲自；自己",
+                    "note": "此处强调发言者本人"
+                }
+            ],
+            "nuance": "牧师先确认一项仪式安排，再温和地询问本特是否愿意亲自讲话。`Vil du selv ...?` 尊重家属的主动选择，没有施加必须发言的压力。`nogle ord` 让任务显得不必正式或冗长，适合悲伤情境。",
+            "transfer": [
+                "Den synger vi til ceremonien.",
+                "Vil du selv sige nogle ord?",
+                "Jeg vil gerne sige et par ord.",
+                "Har du lyst til at holde en tale?"
+            ],
+            "pitfall": "`Den synger vi` 的 `den` 是前置宾语，主语是 `vi`，不是歌曲主动唱我们。不能从这一句确定具体圣诗的名称。"
+        },
+        {
+            "id": "U19-C039",
+            "zh": "本特：我不知道自己能不能承受得了。",
+            "grammar": "`Jeg ved ikke, om ...` 引出间接的是非疑问从句，表示不知道某事是否成立。`kan holde det ud` 中 `holde ... ud` 是动词小品词结构，整体表示忍受、承受。`det` 回指亲自在父亲葬礼上讲话这一令人痛苦的情境。",
+            "vocabulary": [
+                {
+                    "da": "holde noget ud",
+                    "zh": "忍受；承受；挺过去",
+                    "note": "常用于身体或情感上难以承受的情况"
+                },
+                {
+                    "da": "vide, om ...",
+                    "zh": "知道是否……"
+                }
+            ],
+            "nuance": "本特并非表示自己不会讲话，而是担心情绪上无法支撑。`holde det ud` 把悲伤表达为需要承受的心理负担，比单纯说害怕更贴近当前的丧亲情境。",
+            "transfer": [
+                "Jeg ved ikke, om jeg kan holde det ud.",
+                "Jeg kan næsten ikke holde det ud.",
+                "Jeg ved ikke, om jeg er klar til det."
+            ],
+            "pitfall": "`holde ud` 不是把某物举出去，必须整体理解为忍受。间接疑问词 `om` 在此是是否，不是关于。"
+        },
+        {
+            "id": "U19-C040",
+            "zh": "牧师：你可以先把想说的话写下来。如果到时候实在太难开口，我就替你念出来。",
+            "grammar": "`skrive dem ned` 是动词小品词结构，`dem` 回指之前说的那些话。`så læser jeg dem op` 中 `så` 表示在那种情况下、那么，触发主句 V2 倒装。`læse op` 表示朗读。`hvis det bliver for svært` 是条件从句，说明牧师代读的前提。",
+            "vocabulary": [
+                {
+                    "da": "skrive noget ned",
+                    "zh": "把某事写下来；记下来"
+                },
+                {
+                    "da": "læse noget op",
+                    "zh": "把某段文字念出来；朗读"
+                },
+                {
+                    "da": "blive for svært",
+                    "zh": "变得太难；令人难以承受"
+                }
+            ],
+            "nuance": "牧师提出一种既保留本特个人表达、又减轻他情感负担的折中方式。`hvis det bliver for svært` 没有预先假定本特一定会崩溃，而是给他留有选择余地，体现体贴与尊重。",
+            "transfer": [
+                "Du kan skrive dine tanker ned.",
+                "Jeg kan læse det op for dig.",
+                "Hvis det bliver for svært, hjælper jeg dig.",
+                "Skriv det ned, så glemmer du det ikke."
+            ],
+            "pitfall": "`skrive ned` 是记下来，`læse op` 是朗读出来，方向性小品词不同。`så læser jeg` 必须使用 V2 语序，而不是 `så jeg læser`。"
+        },
+        {
+            "id": "U19-C041",
+            "zh": "如今，绝大多数逝者采用火化式安葬，也就是遗体最终会被火化。",
+            "grammar": "`I dag` 置于句首，因此限定动词 `bliver` 随后出现。`langt de fleste` 是强调绝大多数的数量表达。`bliver bisat` 使用被动态。`det vil sige` 是解释性插入表达，后面的 `brændt` 承接被动结构，进一步说明这里所说的安葬方式。",
+            "vocabulary": [
+                {
+                    "da": "langt de fleste",
+                    "zh": "绝大多数；远远超过半数的大多数",
+                    "note": "比普通 `de fleste` 强调程度更高"
+                },
+                {
+                    "da": "bisætte",
+                    "zh": "举行火化式葬礼；安排火化"
+                },
+                {
+                    "da": "det vil sige",
+                    "zh": "也就是说；换句话说",
+                    "note": "用于解释和重新表述"
+                },
+                {
+                    "da": "brænde",
+                    "zh": "燃烧；焚烧",
+                    "note": "此处 `brændt` 指遗体火化"
+                }
+            ],
+            "nuance": "这是作者从个人故事转回社会风俗说明的过渡。`det vil sige` 方便读者理解可能不熟悉的丧葬术语。需要注意，作者在这里将 `bisat` 简化解释为火化，实际丧葬仪式与火化处理可以在时间和程序上有所区分。",
+            "transfer": [
+                "Langt de fleste vælger den løsning.",
+                "Det vil sige, at ...",
+                "I dag foretrækker mange en bisættelse frem for en jordbegravelse."
+            ],
+            "pitfall": "`langt de fleste` 中 `langt` 是程度强化，不表示距离很远。`det vil sige` 不是他将要说，而是固定的解释连接语。"
+        },
+        {
+            "id": "U19-C042",
+            "zh": "在谈到丹麦社会时，许多丹麦人首先会提到的价值观之一，就是男女平等。",
+            "grammar": "主语 `Ligestilling mellem kønnene` 是抽象名词短语。`en af de værdier` 表示多种价值观中的一项。关系从句 `som mange danskere nævner først` 修饰这些价值观，`først` 表示在列举中优先提到。`når de skal beskrive deres samfund` 是时间或情境从句，说明这种列举发生于何种场合。",
+            "vocabulary": [
+                {
+                    "da": "ligestilling",
+                    "zh": "平等；机会与权利平等",
+                    "note": "常用于性别平等和社会平等议题"
+                },
+                {
+                    "da": "mellem kønnene",
+                    "zh": "在不同性别之间",
+                    "note": "`et køn` 性别"
+                },
+                {
+                    "da": "nævne",
+                    "zh": "提及；列举"
+                },
+                {
+                    "da": "en værdi",
+                    "zh": "价值；价值观",
+                    "note": "复数 `værdier`"
+                }
+            ],
+            "nuance": "句子强调男女平等在丹麦人的社会自我描述中占据重要位置，而不是直接宣称丹麦已经实现所有层面的性别平等。`nævner først` 反映价值认同，后文将进一步区分理想和现实。",
+            "transfer": [
+                "Ligestilling er en vigtig værdi i samfundet.",
+                "Det er en af de værdier, jeg sætter højest.",
+                "Når jeg skal beskrive Danmark, nævner jeg ofte ..."
+            ],
+            "pitfall": "`ligestilling` 表示平等地位与待遇，不能与 `lighed` 在所有语境中完全互换。`mellem kønnene` 需要介词 `mellem`。"
+        },
+        {
+            "id": "U19-C043",
+            "zh": "尽管如此，现实中仍存在差距：企业界的绝大多数高层领导者仍是男性，而女性依然承担着家庭中更大比例的无偿劳动。",
+            "grammar": "`Alligevel` 是让步转折副词，承接前文对性别平等的价值认同。冒号后列举两个具体差距。`Langt de fleste topledere` 是强调数量的主语。`kvinder tager stadig en større del af ...` 中 `tage en del af` 表示承担或分担某部分工作；`stadig` 强调情况持续存在。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；然而"
+                },
+                {
+                    "da": "en topleder",
+                    "zh": "高层管理者；企业高管"
+                },
+                {
+                    "da": "erhvervslivet",
+                    "zh": "企业界；商业领域"
+                },
+                {
+                    "da": "ulønnet arbejde",
+                    "zh": "无偿劳动；没有工资报酬的工作"
+                },
+                {
+                    "da": "tage en større del af",
+                    "zh": "承担更大比例的……"
+                }
+            ],
+            "nuance": "作者通过职业领导职位和家庭无偿劳动两种不同指标，说明价值上的平等认同与现实中的劳动分工并不一致。`stadig` 重复出现，突出这些差距并未随着平等理念的普及而完全消失。",
+            "transfer": [
+                "Alligevel er der stadig store forskelle.",
+                "Kvinder udfører en stor del af det ulønnede arbejde.",
+                "Langt de fleste ledere er stadig mænd.",
+                "Der er fortsat forskelle mellem grupperne."
+            ],
+            "pitfall": "`ulønnet` 是没有工资报酬的，不等于没有劳动价值。`tage en større del` 在这里表示承担份额，不是实际拿走某件东西。"
+        },
+        {
+            "id": "U19-C044",
+            "zh": "从法律层面来看，性别平等在很大程度上已经实现，但在现实生活中却并不总是如此。",
+            "grammar": "`er ... nået` 使用 `være + 过去分词`，表示某一目标已经达到的结果状态。`langt hen ad vejen` 是程度副词短语，表示在相当大程度上。`i loven` 与 `i praksis` 构成制度规定和现实执行之间的对照。后半句省略了重复的谓语。",
+            "vocabulary": [
+                {
+                    "da": "langt hen ad vejen",
+                    "zh": "在很大程度上；总体而言",
+                    "note": "极有价值的 C1 议论文表达"
+                },
+                {
+                    "da": "nå et mål",
+                    "zh": "实现目标；达到目标",
+                    "note": "`nå – nåede – nået`"
+                },
+                {
+                    "da": "i loven",
+                    "zh": "在法律规定层面"
+                },
+                {
+                    "da": "i praksis",
+                    "zh": "在实践中；在现实操作中"
+                }
+            ],
+            "nuance": "`langt hen ad vejen` 避免把法律平等描述成百分之百完成。作者采用审慎、平衡的论证方式：既承认法律制度上的重要成果，也保留对现实差距的批判。`men ikke altid i praksis` 是公共政策分析中非常实用的对照表达。",
+            "transfer": [
+                "Langt hen ad vejen er jeg enig.",
+                "Problemet er løst i teorien, men ikke i praksis.",
+                "Vi har nået målet langt hen ad vejen.",
+                "Der er forskel på lovgivning og praksis."
+            ],
+            "pitfall": "`langt hen ad vejen` 不是沿着路走了很远，而是表示相当大程度上。`nået` 来自 `nå` 达到，不能与 `nødt` 必须混淆。"
+        },
+        {
+            "id": "U19-C045",
+            "zh": "如今，争论的焦点在于：这些差距究竟源于个人的自由选择、根深蒂固的旧有社会规范，还是两者共同作用的结果。",
+            "grammar": "`handle om` 表示讨论或事情涉及的核心内容。`hvorvidt` 引出间接的是非疑问从句，表示是否、究竟是何种情况。`skyldes` 是表示原因归属的 s 形式动词，其主语为结果 `forskellene`，后面列举潜在原因。`begge dele` 表示前面两种解释共同成立。",
+            "vocabulary": [
+                {
+                    "da": "handle om",
+                    "zh": "关于；围绕……展开"
+                },
+                {
+                    "da": "hvorvidt",
+                    "zh": "是否；究竟是否",
+                    "note": "比普通 `om` 更偏正式和书面"
+                },
+                {
+                    "da": "skyldes",
+                    "zh": "归因于；由……造成",
+                    "note": "如 `Problemet skyldes manglende ressourcer.`"
+                },
+                {
+                    "da": "frie valg",
+                    "zh": "自由选择；自主决定"
+                },
+                {
+                    "da": "begge dele",
+                    "zh": "两者皆是；两方面都有"
+                }
+            ],
+            "nuance": "这一句把事实差距转化为因果解释上的争论。作者没有替读者决定正确答案，而是列出个人选择、传统规范及两者共同影响三种可能性。`hvorvidt` 非常适合讨论研究问题与公共政策中的开放性争议。",
+            "transfer": [
+                "Diskussionen handler om, hvorvidt ...",
+                "Forskellene kan skyldes flere faktorer.",
+                "Det skyldes både individuelle valg og sociale normer.",
+                "Det kan være begge dele."
+            ],
+            "pitfall": "`skyldes` 表示某结果由某因素造成，不能与 `skylde nogen penge` 欠某人钱混淆。`begge dele` 不是双方当事人，而是前面提到的两种因素或可能性。"
+        },
+        {
+            "id": "U19-C046",
+            "zh": "宽容，并不意味着你必须赞同对方。",
+            "grammar": "`ikke det samme som` 是表达概念不等同的固定结构。`at være enig` 是不定式短语，作为比较对象。`enig` 通常需要结合介词结构说明与谁或者在哪一点上意见一致。",
+            "vocabulary": [
+                {
+                    "da": "tolerance",
+                    "zh": "宽容；包容"
+                },
+                {
+                    "da": "være enig",
+                    "zh": "同意；意见一致",
+                    "note": "`være enig med nogen` 与某人意见一致"
+                },
+                {
+                    "da": "ikke det samme som",
+                    "zh": "并不等于；并非同一回事"
+                }
+            ],
+            "nuance": "这一句为全篇最后的价值讨论确立核心区分：宽容是一种允许差异存在的态度，不要求人们取消自己的判断。句子非常简洁，适合用于讨论宗教、文化、政治观点和人际分歧。",
+            "transfer": [
+                "Tolerance er ikke det samme som enighed.",
+                "At forstå nogen er ikke det samme som at være enig.",
+                "Jeg respekterer din holdning, selv om jeg ikke er enig."
+            ],
+            "pitfall": "`være enig med` 表示同意某人，`være enig i` 常用于赞同某个观点或说法。不要把 `enig` 直接等同于 `ens` 相同的。"
+        },
+        {
+            "id": "U19-C047",
+            "zh": "它真正意味着的是：即使别人所持的观点、信仰或生活方式并不合你的心意，你依然承认他们有权按照自己的方式去思考、信仰和生活。",
+            "grammar": "`Det betyder netop, at ...` 用 `netop` 强调精确定义。`acceptere, at ...` 后接宾语从句。`have ret til at` 表示拥有做某事的权利，后面三个并列不定式 `mene, tro og leve` 共用 `at`。`på måder, man ikke selv bryder sig om` 是省略关系代词 `som` 的关系从句，句末介词 `om` 属于固定搭配 `bryde sig om`。",
+            "vocabulary": [
+                {
+                    "da": "netop",
+                    "zh": "正是；恰恰；准确地说",
+                    "note": "此处强调概念的真正含义"
+                },
+                {
+                    "da": "acceptere, at ...",
+                    "zh": "接受……这一事实；承认……"
+                },
+                {
+                    "da": "have ret til at",
+                    "zh": "有权做某事",
+                    "note": "法律及价值讨论中的常用表达"
+                },
+                {
+                    "da": "bryde sig om noget",
+                    "zh": "喜欢；赞同；在意某事",
+                    "note": "否定形式常表示不喜欢或不认同"
+                },
+                {
+                    "da": "på måder",
+                    "zh": "以某些方式",
+                    "note": "后面可以用关系从句进一步说明方式"
+                }
+            ],
+            "nuance": "这句话完成对宽容的积极定义：真正的宽容并不是只允许自己喜欢的观点存在，而是承认那些自己并不认同的人同样拥有自主选择的权利。`netop` 在这里突出这才是重点。`ikke selv bryder sig om` 则有意保留个人不喜欢某些观点的可能性，因此论证更有现实意义。",
+            "transfer": [
+                "Alle har ret til at mene, hvad de vil.",
+                "Det betyder netop, at man skal respektere andres valg.",
+                "Jeg accepterer, at du har en anden holdning.",
+                "Man behøver ikke at kunne lide alt, hvad andre gør."
+            ],
+            "pitfall": "`bryde sig om` 必须整体掌握，不是把某物打破。`have ret til at` 是有权做某事，与 `have ret i` 表示说得对、判断正确完全不同。"
+        },
+        {
+            "id": "U19-C048",
+            "zh": "而当面对的恰恰是那些自己最反感的观点时，真正的宽容才最经得起考验，也最难做到。",
+            "grammar": "`Det kræver mest` 中 `Det` 回指前文所讨论的宽容及其践行，`kræver mest` 表示对人的要求最高、最费力。`når det gælder` 是固定结构，意为当涉及某个问题时。`de holdninger, man synes dårligst om` 是省略关系代词的关系从句，`synes ... om` 为喜好评价结构，`dårligst` 是程度最高级。",
+            "vocabulary": [
+                {
+                    "da": "kræve meget",
+                    "zh": "要求很高；需要付出很多努力",
+                    "note": "此处指心理与道德上的要求"
+                },
+                {
+                    "da": "når det gælder",
+                    "zh": "当涉及……时；说到……",
+                    "note": "极适合正式讨论与议论文"
+                },
+                {
+                    "da": "synes dårligt om noget",
+                    "zh": "不喜欢；对某事评价不好",
+                    "note": "最高级 `synes dårligst om` 表示最不喜欢"
+                },
+                {
+                    "da": "en holdning",
+                    "zh": "观点；态度；立场"
+                }
+            ],
+            "nuance": "这是全文的思想性结尾。作者把宽容从抽象价值推进到最困难的实际场景：接受自己赞同的人并不难，真正的挑战是尊重自己强烈反对的观点持有者的权利。`kræver mest` 的简洁表达给结尾留下力度，而不需要直接说教。它同时呼应前文的 `frisind`、宗教自由与价值差异。",
+            "transfer": [
+                "Det kræver mest, når man er uenig.",
+                "Når det gælder personlig frihed, er der forskellige holdninger.",
+                "Det er svært at respektere de synspunkter, man synes dårligst om.",
+                "Tolerance kræver, at man accepterer uenighed."
+            ],
+            "pitfall": "`synes dårligst om` 是 `synes godt/dårligt om` 的最高级表达，不能译为认为得最差。`når det gælder` 中的 `gælder` 不是一般意义上的有效，而是涉及、关系到。"
+        }
+    ]
+}

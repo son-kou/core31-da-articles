@@ -1,0 +1,1613 @@
+{
+    "schema_version": 1,
+    "unit": "U27",
+    "part": "ALL",
+    "source_fingerprint": "U27-ALL-c8e19bbb8c47",
+    "sentences": [
+        {
+            "id": "U27-C001",
+            "zh": "2011年，一场猛烈的短时暴雨袭击哥本哈根，街道上的积水深达半米，地下室和地铁站也遭到了水淹。",
+            "grammar": "句首 `Da ... ramte København i 2011` 是过去特定事件的时间从句。整个从句占据主句首位，因此后面采用V2倒装 `stod vandet`。`en halv meter højt` 是表示积水高度的补足成分，`højt` 描述水面达到的高度。第二分句 `kældre og metrostationer blev oversvømmet` 使用 `blive` 被动，强调建筑设施遭受水淹。",
+            "vocabulary": [
+                {
+                    "da": "et skybrud",
+                    "zh": "短时强降雨、暴雨",
+                    "note": "丹麦气象和城市排水讨论中的重要术语"
+                },
+                {
+                    "da": "voldsom",
+                    "zh": "猛烈的、剧烈的、严重的",
+                    "note": "可修饰天气、事故、争论和变化"
+                },
+                {
+                    "da": "ramme noget",
+                    "zh": "袭击、冲击、影响某地或某人",
+                    "note": "常用于灾害和危机；过去时 `ramte`"
+                },
+                {
+                    "da": "stå under vand",
+                    "zh": "被水淹没、积水严重",
+                    "note": "与本句的积水高度描写属于同一表达领域"
+                },
+                {
+                    "da": "oversvømme",
+                    "zh": "淹没、使遭受洪水",
+                    "note": "过去分词 `oversvømmet`；名词 `en oversvømmelse`"
+                }
+            ],
+            "nuance": "作者用具体历史事件开篇，而不是立即讨论抽象的全球变暖。`stod vandet ... højt` 是丹麦语描述积水深度的自然方式，让读者直接想象街道被淹的情形。`ramte` 把暴雨描写成突然袭来的灾害，`blev oversvømmet` 则强调城市基础设施受到的影响。",
+            "transfer": [
+                "Da stormen ramte byen, blev flere veje oversvømmet.",
+                "Vandet stod næsten en meter højt i kælderen.",
+                "Et voldsomt skybrud førte til store oversvømmelser."
+            ],
+            "pitfall": "`stå` 在这里不是水像人一样站立，而是表示积水达到某个高度。`et skybrud` 强调强烈的短时降雨，不等于所有普通大雨。"
+        },
+        {
+            "id": "U27-C002",
+            "zh": "单独一次暴雨并不能证明气候发生了什么变化。不过，研究人员预计，随着地球变暖，强降雨、风暴潮和热浪会越来越频繁。",
+            "grammar": "第一分句 `Ét enkelt skybrud kan ikke bevise ...` 用 `ét enkelt` 强调只有一个孤立事件，`kan ikke` 限制其证明能力。第二分句的骨架是 `forskerne forventer, at ...`，后接宾语从句。`bliver hyppigere` 表示发生频率增加。`når jorden bliver varmere` 是时间兼条件性质的从句，说明频率变化与升温的关系。",
+            "vocabulary": [
+                {
+                    "da": "ét enkelt",
+                    "zh": "仅仅一个、单独一次",
+                    "note": "重读的 `ét` 强调数量只有一"
+                },
+                {
+                    "da": "bevise noget",
+                    "zh": "证明某事",
+                    "note": "比 `tyde på`（表明某种迹象）具有更强的证据含义"
+                },
+                {
+                    "da": "et regnskyl",
+                    "zh": "一阵大雨、强降雨",
+                    "note": "复数 `regnskyl`"
+                },
+                {
+                    "da": "en stormflod",
+                    "zh": "风暴潮",
+                    "note": "复数 `stormfloder`"
+                },
+                {
+                    "da": "hyppigere",
+                    "zh": "更加频繁",
+                    "note": "`hyppig` 的比较级"
+                }
+            ],
+            "nuance": "这是科学传播中非常重要的审慎表达：单个天气事件不能独立证明长期气候趋势，但研究可以对未来极端天气的变化作出预测。`forventer` 表示有依据的预期，并非保证每一年或每一个地区都出现相同程度的增加。第一句与第二句的转折体现了区分天气和气候的科学表达方式。",
+            "transfer": [
+                "Én enkelt observation kan ikke bevise en generel tendens.",
+                "Forskerne forventer, at ekstreme vejrhændelser bliver hyppigere.",
+                "Risikoen stiger, når temperaturen bliver højere."
+            ],
+            "pitfall": "`hyppigere` 表示发生得更频繁，不等于每次事件都会更强烈。`bevise` 与 `forvente` 的证据强度不同，不应把科学预测直接表述为已经得到绝对证明的事实。"
+        },
+        {
+            "id": "U27-C003",
+            "zh": "当阳光照射到地球时，一部分太阳辐射被反射回去，其余部分则被吸收，使陆地和海洋升温。",
+            "grammar": "`Når sollyset rammer jorden` 是表示一般自然规律的时间从句。主句 `bliver noget af det kastet tilbage` 使用 `blive` 被动，`noget af det` 指太阳光或太阳辐射的一部分。`mens resten bliver optaget og varmer ... op` 是对比从句：`resten` 同时是被动结构 `bliver optaget` 和主动结构 `varmer ... op` 的主语。`varme noget op` 表示使某物升温。",
+            "vocabulary": [
+                {
+                    "da": "sollys",
+                    "zh": "阳光、太阳光",
+                    "note": "et sollys；通常作为不可数概念使用"
+                },
+                {
+                    "da": "kaste noget tilbage",
+                    "zh": "把某物反射或抛回",
+                    "note": "用于光和辐射时表示反射"
+                },
+                {
+                    "da": "optage",
+                    "zh": "吸收、接收；录制",
+                    "note": "这里指吸收辐射能量；过去分词 `optaget`"
+                },
+                {
+                    "da": "varme noget op",
+                    "zh": "使某物升温、加热",
+                    "note": "固定动词小品词结构"
+                },
+                {
+                    "da": "mens",
+                    "zh": "而、与此同时",
+                    "note": "这里同时具有过程并行和对比作用"
+                }
+            ],
+            "nuance": "句子通过 `noget af det` 与 `resten` 建立清晰的两部分对照：一部分辐射被反射，另一部分被吸收并使地表升温。`mens` 很适合科学说明文，用来并列解释两个不同机制。`rammer jorden` 比单纯的 `kommer til jorden` 更直观地描写太阳辐射到达地球。",
+            "transfer": [
+                "Når sollyset rammer overfladen, bliver en del reflekteret.",
+                "Noget af energien bliver optaget, mens resten sendes tilbage.",
+                "Solens stråler varmer jorden op."
+            ],
+            "pitfall": "`optage` 在这里是吸收能量，不是录视频。`varme op` 是使某物变暖，不能省略表示温度变化的 `op` 而认为所有语义完全相同。"
+        },
+        {
+            "id": "U27-C004",
+            "zh": "地球又以不可见的热辐射形式向外释放热量，其中一部分被大气中的气体吸收，尤其是二氧化碳、甲烷和水蒸气。",
+            "grammar": "第一分句的骨架是 `Jorden sender varmen ud igen`，`ud` 表示向外，`igen` 表示能量再次向外释放。`som usynlig varmestråling` 说明能量释放的形式。第二分句 `en del af den bliver opfanget` 使用 `blive` 被动，`den` 回指前面的热量或热辐射。`af gasser i atmosfæren` 引出吸收辐射的气体，`især` 用来突出主要例子。",
+            "vocabulary": [
+                {
+                    "da": "sende noget ud",
+                    "zh": "向外发出、释放某物",
+                    "note": "可用于热量、信号和信息"
+                },
+                {
+                    "da": "varmestråling",
+                    "zh": "热辐射",
+                    "note": "en varmestråling；科学说明中的复合名词"
+                },
+                {
+                    "da": "opfange",
+                    "zh": "捕获、截获、吸收",
+                    "note": "可用于辐射、声音和信号"
+                },
+                {
+                    "da": "atmosfæren",
+                    "zh": "大气层",
+                    "note": "确定形式；普通性别名词 `en atmosfære`"
+                },
+                {
+                    "da": "kuldioxid / metan / vanddamp",
+                    "zh": "二氧化碳／甲烷／水蒸气",
+                    "note": "气候和环境讨论中的核心术语"
+                }
+            ],
+            "nuance": "这一句承接太阳能量进入地球系统的过程，解释地球如何向外释放热辐射，以及大气气体如何吸收其中一部分。`opfanget` 形象地表示辐射被气体截获，但不意味着热量永远被固定在某个位置。`især` 表明列举的是重要气体，而不是完整名单。",
+            "transfer": [
+                "Jorden udsender energi i form af varmestråling.",
+                "En del af strålingen bliver opfanget i atmosfæren.",
+                "Drivhusgasser spiller en vigtig rolle i klimasystemet."
+            ],
+            "pitfall": "`varme` 可以指热量，`varmestråling` 专指热辐射。`opfange` 不只用于物理地接住物体，在技术语境中还可以表示接收无线信号。"
+        },
+        {
+            "id": "U27-C005",
+            "zh": "问题在于，自工业化以来，人类已经向大气中额外排放了大量温室气体。",
+            "grammar": "`Problemet er, at ...` 是典型的判断句加表语从句，直接指出问题所在。`siden industrialiseringen` 表示从工业化开始延续到现在的时间跨度，因此后面使用现在完成时 `har tilført`。`tilføre nogen/noget noget` 是双宾语结构，本句中接收对象为 `atmosfæren`，被添加的东西是 `store mængder ekstra drivhusgasser`。",
+            "vocabulary": [
+                {
+                    "da": "Problemet er, at ...",
+                    "zh": "问题在于……",
+                    "note": "分析问题和议论文中的常用句型"
+                },
+                {
+                    "da": "industrialisering",
+                    "zh": "工业化",
+                    "note": "en industrialisering"
+                },
+                {
+                    "da": "tilføre noget noget",
+                    "zh": "向某物添加、输入或提供某物",
+                    "note": "可用于物质、能量、资源和信息"
+                },
+                {
+                    "da": "store mængder",
+                    "zh": "大量",
+                    "note": "`en mængde` 表示数量、总量"
+                },
+                {
+                    "da": "en drivhusgas",
+                    "zh": "温室气体",
+                    "note": "复数 `drivhusgasser`"
+                }
+            ],
+            "nuance": "作者在解释自然温室效应之后，用 `Problemet er, at ...` 明确区分自然机制与人类额外增加温室气体的问题。`ekstra` 是语义核心：并不是大气中存在温室气体本身就构成所有问题，而是人为活动使其浓度增加。`siden` 与现在完成时搭配，是描述长期积累过程的有效表达。",
+            "transfer": [
+                "Problemet er, at udledningen stadig er for høj.",
+                "Siden industrialiseringen har mennesker påvirket atmosfæren.",
+                "Processen tilfører systemet ekstra energi."
+            ],
+            "pitfall": "`tilføre` 表示添加或输入，不等于 `fjerne`（去除）。`siden industrialiseringen` 是自工业化以来，通常强调持续到现在的历史过程。"
+        },
+        {
+            "id": "U27-C006",
+            "zh": "这些额外排放主要来自燃烧煤炭、石油和天然气，同时也来自砍伐森林和大规模饲养牲畜。",
+            "grammar": "`Det sker` 中 `Det` 回指前一句人类增加温室气体的行为。`først og fremmest ved at ...` 使用 `ved at + 不定式` 表示过程发生的方式。后面采用 `men også ved at ...` 补充其他方式，形成主次分明的并列结构。`brænde`、`fælde` 和 `holde` 分别描述燃烧、砍伐和饲养。",
+            "vocabulary": [
+                {
+                    "da": "først og fremmest",
+                    "zh": "主要、首先、最重要的是",
+                    "note": "突出首要原因或重点"
+                },
+                {
+                    "da": "ved at gøre noget",
+                    "zh": "通过做某事、以某种方式",
+                    "note": "非常实用的方式状语结构"
+                },
+                {
+                    "da": "brænde kul",
+                    "zh": "燃烧煤炭",
+                    "note": "`kul` 在这里是煤炭"
+                },
+                {
+                    "da": "fælde skov",
+                    "zh": "砍伐森林",
+                    "note": "`fælde` 常用于砍倒树木"
+                },
+                {
+                    "da": "holde husdyr",
+                    "zh": "饲养家畜",
+                    "note": "`husdyr` 在农业语境中指饲养的牲畜"
+                }
+            ],
+            "nuance": "作者利用 `først og fremmest ... men også ...` 区分主要来源与其他重要来源，避免把所有排放归因于单一活动。`ved at` 在这里解释温室气体增加的机制，不表示目的。农业中的 `holde husdyr` 通常涉及生产性畜牧饲养，而不只是个人饲养宠物。",
+            "transfer": [
+                "Udledningen skyldes først og fremmest brugen af fossile brændsler.",
+                "Problemet opstår ved at bruge for mange ressourcer.",
+                "Vi kan mindske udledningen ved at ændre vores energiforbrug."
+            ],
+            "pitfall": "`ved at` 表示通过某种方式，`for at` 表示为了达到某个目的，两者不能混淆。`holde husdyr` 在农业语境中不宜简单译成养猫狗等宠物。"
+        },
+        {
+            "id": "U27-C007",
+            "zh": "对丹麦来说，全球变暖带来的影响包括海平面上升、冬季更加温和而潮湿，以及夏季出现更多猛烈的强降雨。",
+            "grammar": "`For Danmark` 前置，后接V2倒装 `betyder opvarmningen`。`betyde` 在这里表示造成或意味着某些后果。`blandt andet` 表示只列举部分影响。后面并列三个 `at` 从句：`at havet stiger`、`at vintrene bliver mildere og vådere` 和 `at der kommer flere ...`。这种重复 `at` 的结构使各项结果层次清晰。",
+            "vocabulary": [
+                {
+                    "da": "betyde",
+                    "zh": "意味着、产生某种后果",
+                    "note": "不仅表示词语是什么意思，也可描述现实影响"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括、例如",
+                    "note": "提示列举并不穷尽"
+                },
+                {
+                    "da": "mildere",
+                    "zh": "更加温和",
+                    "note": "`mild` 的比较级，天气语境中常表示不那么寒冷"
+                },
+                {
+                    "da": "vådere",
+                    "zh": "更加潮湿、降水更多",
+                    "note": "`våd` 的比较级"
+                },
+                {
+                    "da": "et regnskyl",
+                    "zh": "一阵强降雨",
+                    "note": "复数形式通常仍为 `regnskyl`"
+                }
+            ],
+            "nuance": "这是把全球性气候机制转化为丹麦具体影响的过渡句。`For Danmark betyder ...` 非常适合用于政策分析，说明某种全球趋势对特定国家的意义。`blandt andet` 保留了其他可能影响，没有把列举的三项说成完整清单。",
+            "transfer": [
+                "For Danmark betyder klimaforandringerne flere udfordringer.",
+                "Det betyder blandt andet, at havniveauet stiger.",
+                "Vintrene kan blive mildere, mens somrene bliver vådere."
+            ],
+            "pitfall": "`betyde, at ...` 在这里是造成或意味着某种结果，不是单纯解释词义。`våd` 的比较级是 `vådere`，不是直接照一般规则猜写其他形式。"
+        },
+        {
+            "id": "U27-C008",
+            "zh": "在风力较小的日子，丹麦会通过海底电缆，从挪威、瑞典等国的水电站进口电力；而刮风的日子，丹麦则把多余的电卖给邻国。",
+            "grammar": "两个分句使用平行结构 `På stille dage ...` 与 `på blæsende dage ...`，突出不同天气下电力贸易方向的变化。两个句首时间状语之后分别采用V2语序 `importerer Danmark` 和 `sælger landet`。`fra blandt andet ...` 说明进口来源，`gennem kabler under havet` 说明输电路径。`overskudsstrøm` 是复合名词，表示超出本地即时需求而可输出的电力。",
+            "vocabulary": [
+                {
+                    "da": "importere strøm",
+                    "zh": "进口电力",
+                    "note": "反义搭配 `eksportere strøm`"
+                },
+                {
+                    "da": "et vandkraftværk",
+                    "zh": "水力发电站",
+                    "note": "复数 `vandkraftværker`"
+                },
+                {
+                    "da": "et kabel",
+                    "zh": "电缆、线缆",
+                    "note": "复数 `kabler`"
+                },
+                {
+                    "da": "overskudsstrøm",
+                    "zh": "富余电力、剩余电量",
+                    "note": "`overskud` 表示盈余或富余"
+                },
+                {
+                    "da": "blæsende",
+                    "zh": "刮风的、风大的",
+                    "note": "来自动词 `blæse`"
+                }
+            ],
+            "nuance": "作者通过无风与有风两种情境说明跨国电网的重要性。`stille dage` 在这里指风力不足，而不是社会生活平静的日子。`sælger ... til naboerne` 将周边国家比喻成邻居，是自然简洁的新闻和科普表达。",
+            "transfer": [
+                "På blæsende dage producerer vindmøllerne meget strøm.",
+                "Landet importerer elektricitet fra nabolandene.",
+                "Overskudsstrøm kan sælges gennem internationale forbindelser."
+            ],
+            "pitfall": "`stille` 在天气语境中可以表示无风，不应只译成安静。`strøm` 既可指电流、电力，也可指水流，必须根据能源语境理解。"
+        },
+        {
+            "id": "U27-C009",
+            "zh": "接下来的重大任务，是让更多设备和活动改用可再生能源发出的电力来驱动。",
+            "grammar": "主句 `Den næste store opgave er ...` 通过系表结构提出政策目标。`at få flere ting til at køre på ...` 是使役结构 `få + 宾语 + til at + 不定式`，表示促使某物以新的方式运作。`køre på strøm` 在这里是广义的由电力驱动或运行，而不仅仅是车辆行驶。`fra vedvarende energi` 说明电力来源。",
+            "vocabulary": [
+                {
+                    "da": "en opgave",
+                    "zh": "任务、需要解决的问题",
+                    "note": "既可用于个人工作，也可用于国家政策"
+                },
+                {
+                    "da": "få noget til at gøre noget",
+                    "zh": "使某物开始做某事、促使某种变化",
+                    "note": "高频使役结构"
+                },
+                {
+                    "da": "køre på strøm",
+                    "zh": "依靠电力运行、使用电力驱动",
+                    "note": "不局限于汽车"
+                },
+                {
+                    "da": "vedvarende energi",
+                    "zh": "可再生能源",
+                    "note": "包括风能、太阳能等；`vedvarende` 表示持续不断的"
+                }
+            ],
+            "nuance": "本句把前面关于发电和跨境输电的讨论转向终端用能的电气化。`flere ting` 是面向普通读者的宽泛表达，避免过早引入大量专业设备名称。关键在于不仅需要生产清洁电力，还需要让更多用途能够使用这种电力。",
+            "transfer": [
+                "Den næste opgave er at elektrificere transporten.",
+                "Vi skal få flere virksomheder til at bruge vedvarende energi.",
+                "Maskinen kører på strøm i stedet for diesel."
+            ],
+            "pitfall": "`få noget til at` 是使役结构，不能漏掉 `til`。`vedvarende energi` 不等于所有电力，强调能源来源可以持续再生。"
+        },
+        {
+            "id": "U27-C010",
+            "zh": "燃油锅炉和燃气锅炉正被热泵取代；而在短短几年间，电动汽车也从罕见的新鲜事物变成了街头随处可见的景象。",
+            "grammar": "第一分句 `bliver skiftet ud med` 使用 `blive` 被动，来自固定搭配 `skifte noget ud med noget`，表示用一种设备替换另一种。第二分句 `elbilerne er ... gået fra at være X til at være Y` 使用现在完成时，强调近年来已经发生的变化。`på få år` 表示变化完成所经历的时间很短。",
+            "vocabulary": [
+                {
+                    "da": "et oliefyr",
+                    "zh": "燃油供暖锅炉",
+                    "note": "复数 `oliefyr`"
+                },
+                {
+                    "da": "et gasfyr",
+                    "zh": "燃气供暖锅炉",
+                    "note": "复数 `gasfyr`"
+                },
+                {
+                    "da": "skifte noget ud med noget",
+                    "zh": "用某物替换另一物",
+                    "note": "被动形式 `blive skiftet ud med`"
+                },
+                {
+                    "da": "en varmepumpe",
+                    "zh": "热泵",
+                    "note": "复数 `varmepumper`"
+                },
+                {
+                    "da": "gå fra at være X til at være Y",
+                    "zh": "从原本是X发展为Y",
+                    "note": "描述长期或快速变化的高频句型"
+                }
+            ],
+            "nuance": "作者把供暖设备的替换与电动汽车的普及放在一起，展现电气化在家庭与交通领域的进展。`en almindelig del af gadebilledet` 是很值得学习的城市观察表达，表示某种事物已经成为街道日常景象的一部分。",
+            "transfer": [
+                "Gamle fyr bliver skiftet ud med varmepumper.",
+                "Elbiler er gået fra at være sjældne til at være almindelige.",
+                "Teknologien er på få år blevet en del af hverdagen."
+            ],
+            "pitfall": "`skifte ud med` 的介词是 `med`。`gå fra at være ... til at være ...` 描述状态变化，不是物理意义上的从一个地方走到另一个地方。"
+        },
+        {
+            "id": "U27-C011",
+            "zh": "这就要求电网具备比目前大得多的输电和供电能力。",
+            "grammar": "`Det kræver ...` 中 `Det` 回指前面扩大电气化的整体任务。`kræve` 表示某种目标必须具备特定条件。`et elnet, der kan klare ...` 是名词加关系从句，`der` 在从句中充当主语。`langt mere strøm end i dag` 是带程度强化词 `langt` 的比较结构，表示与今天相比需要处理更多电力。",
+            "vocabulary": [
+                {
+                    "da": "kræve",
+                    "zh": "要求、需要",
+                    "note": "可用于技术条件、资源和能力"
+                },
+                {
+                    "da": "et elnet",
+                    "zh": "电网",
+                    "note": "复数 `elnet`"
+                },
+                {
+                    "da": "klare",
+                    "zh": "处理、承受、应付",
+                    "note": "这里指电网有能力承载更多电力"
+                },
+                {
+                    "da": "langt mere",
+                    "zh": "多得多、大幅增加的",
+                    "note": "`langt` 强化比较程度"
+                }
+            ],
+            "nuance": "这句话将能源转型与基础设施建设直接联系起来。`Det kræver ...` 是政策分析中非常有效的过渡句，用来说明一个目标的必要条件。`kan klare` 比专业的电网容量术语更通俗，但仍清楚表达了承载能力问题。",
+            "transfer": [
+                "Det kræver et stærkere elnet.",
+                "Systemet skal kunne klare langt større belastninger.",
+                "Omstillingen kræver investeringer i infrastrukturen."
+            ],
+            "pitfall": "`klare` 不只表示顺利完成考试或任务，也可以表示设备能够承受某种负荷。`langt mere` 中 `langt` 不是空间距离，而是比较程度。"
+        },
+        {
+            "id": "U27-C012",
+            "zh": "新的高压输电线路和变电站往往会遭到附近居民的反对，因为这些人今后必须与这些设施长期相伴。",
+            "grammar": "主句骨架是 `Nye højspændingsledninger og transformerstationer møder ofte modstand`。`møde modstand fra nogen` 是固定搭配，表示遭到某个群体反对。`de naboer, der skal leve med dem` 是带指示限定的名词短语加关系从句，`der` 指当地居民，`dem` 回指前面的输电线路与变电站。`skal leve med` 表示未来不得不接受这些设施在周边存在。",
+            "vocabulary": [
+                {
+                    "da": "en højspændingsledning",
+                    "zh": "高压输电线路",
+                    "note": "复数 `højspændingsledninger`"
+                },
+                {
+                    "da": "en transformerstation",
+                    "zh": "变电站、变压站",
+                    "note": "复数 `transformerstationer`"
+                },
+                {
+                    "da": "møde modstand",
+                    "zh": "遭遇阻力、受到反对",
+                    "note": "常用于政策、改革和建设项目"
+                },
+                {
+                    "da": "leve med noget",
+                    "zh": "与某种情况长期共处、接受某种现实",
+                    "note": "常用于难以回避的问题或不便"
+                }
+            ],
+            "nuance": "作者从电网扩建的技术必要性转向当地居民的实际感受。`skal leve med dem` 比简单说 `bor tæt på dem` 更有情绪重量：这些设施不是短暂经过，而是居民日常环境中长期存在的部分。这为后面关于地方反对和成本分配的讨论铺垫。",
+            "transfer": [
+                "Projektet møder modstand fra lokale borgere.",
+                "Naboerne skal leve med anlægget i mange år.",
+                "Nye infrastrukturanlæg kan skabe lokale konflikter."
+            ],
+            "pitfall": "`møde modstand` 不是实际碰见某个人，而是遭受阻力。`leve med` 可表示接受现实，不等于简单地和某人同住。"
+        },
+        {
+            "id": "U27-C013",
+            "zh": "2022年能源价格猛烈上涨时，一些家庭收到的供暖账单竟达到了前一年的好几倍。",
+            "grammar": "`Da energipriserne steg voldsomt i 2022` 是过去特定时期的时间从句，后面的主句采用V2倒装 `fik nogle husstande`。`varmeregninger, der var ...` 是关系从句，说明账单金额。`flere gange så store som året før` 是倍数比较结构，`så ... som` 表示两个时期账单金额的比较。",
+            "vocabulary": [
+                {
+                    "da": "energipriser",
+                    "zh": "能源价格",
+                    "note": "复数 `priser`，通常包含多种能源价格"
+                },
+                {
+                    "da": "stige voldsomt",
+                    "zh": "大幅上涨、猛烈攀升",
+                    "note": "`stige` 过去时 `steg`"
+                },
+                {
+                    "da": "en husstand",
+                    "zh": "住户、家庭户",
+                    "note": "不一定仅指有亲属关系的家庭"
+                },
+                {
+                    "da": "en varmeregning",
+                    "zh": "供暖账单",
+                    "note": "复数 `varmeregninger`"
+                },
+                {
+                    "da": "flere gange så stor som",
+                    "zh": "是……的好几倍",
+                    "note": "比较实际金额、规模或程度"
+                }
+            ],
+            "nuance": "这句话用2022年的能源价格上涨说明能源危机如何进入普通家庭生活。`fik ... regninger` 强调住户收到的具体账单，而不只是抽象市场价格。`flere gange så store` 有明显的冲击感，但并未提供统一倍数，因为不同家庭受影响程度可能不同。",
+            "transfer": [
+                "Da priserne steg, fik mange familier højere regninger.",
+                "Varmeregningen var tre gange så stor som sidste år.",
+                "Energipriserne steg voldsomt på kort tid."
+            ],
+            "pitfall": "`stige` 表示价格自行上涨；`hæve priserne` 表示某个主体提高价格。`flere gange så stor som` 要整体理解为倍数比较，而不是简单增加了几个百分点。"
+        },
+        {
+            "id": "U27-C014",
+            "zh": "爸爸：谁把客厅暖气片的温度调高了？",
+            "grammar": "`Hvem` 作为疑问主语直接置于句首，后面是现在完成时 `har skruet op`。`skrue op for noget` 是固定小品词搭配，表示调高设备的输出、音量或温度。`radiatoren i stuen` 指客厅里的暖气片。",
+            "vocabulary": [
+                {
+                    "da": "skrue op for noget",
+                    "zh": "把某物调高、调大",
+                    "note": "可用于暖气、音量、亮度等"
+                },
+                {
+                    "da": "en radiator",
+                    "zh": "暖气片、散热器",
+                    "note": "复数 `radiatorer`"
+                },
+                {
+                    "da": "en stue",
+                    "zh": "客厅",
+                    "note": "通常说 `i stuen`"
+                }
+            ],
+            "nuance": "父亲注意到供暖设置被改动，直接询问是谁操作的。现在完成时强调调高暖气的动作已经发生，并影响当前室温或设置。语气可以是普通询问，也可能因能源费用背景而带有不满。",
+            "transfer": [
+                "Hvem har skruet op for varmen?",
+                "Kan du skrue lidt ned for radiatoren?",
+                "Der er blevet skruet op for temperaturen."
+            ],
+            "pitfall": "`skrue op for` 是调高，`skrue ned for` 是调低。不能只用 `skrue radiatoren` 表达调高温度。"
+        },
+        {
+            "id": "U27-C015",
+            "zh": "弗雷娅：是我调的。屋里冷得像冰窖一样。",
+            "grammar": "`Det er mig` 是对上一句询问责任人的直接回答，`det` 指被问到的行为。`Der er iskoldt herinde` 使用非人称存在或场景描述结构，`iskoldt` 描述室内温度极低，`herinde` 表示说话人所在的室内空间。",
+            "vocabulary": [
+                {
+                    "da": "Det er mig",
+                    "zh": "是我",
+                    "note": "日常回答身份或责任归属"
+                },
+                {
+                    "da": "iskold",
+                    "zh": "冰冷的、极冷的",
+                    "note": "中性形式 `iskoldt`；可用于天气、房间和饮品"
+                },
+                {
+                    "da": "herinde",
+                    "zh": "这里面、这间屋里",
+                    "note": "与 `herude`（这外面）对照"
+                }
+            ],
+            "nuance": "弗雷娅没有回避责任，而是立刻用室内寒冷解释自己的行为。`iskoldt` 带有明显的主观夸张，并不表示屋内温度真的接近零度。父女对于什么温度算舒适的分歧由此展开。",
+            "transfer": [
+                "Det er mig, der har gjort det.",
+                "Der er iskoldt herinde.",
+                "Jeg fryser, så jeg skruede op for varmen."
+            ],
+            "pitfall": "`iskoldt` 是强化形容词，不代表温度必须低于冰点。`herinde` 特指内部空间，不能与 `herude` 混用。"
+        },
+        {
+            "id": "U27-C016",
+            "zh": "爸爸：穿件毛衣。我们不是已经说好把室温维持在19度了吗？",
+            "grammar": "`Tag en trøje på` 是祈使句，`tage noget på` 表示穿上衣物。第二句 `Vi har aftalt, at ...` 使用现在完成时，说明约定此前已经达成。宾语从句 `at vi holder 19 grader` 中 `holder` 表示将温度保持在指定水平。",
+            "vocabulary": [
+                {
+                    "da": "tage noget på",
+                    "zh": "穿上某件衣物",
+                    "note": "与 `tage noget af`（脱下）相对"
+                },
+                {
+                    "da": "en trøje",
+                    "zh": "毛衣、上衣",
+                    "note": "具体类型需根据情境判断"
+                },
+                {
+                    "da": "aftale, at ...",
+                    "zh": "约定、商定……",
+                    "note": "可接 `at` 宾语从句"
+                },
+                {
+                    "da": "holde 19 grader",
+                    "zh": "保持19度室温",
+                    "note": "`holde` 表示维持某种水平"
+                }
+            ],
+            "nuance": "父亲提出的不是继续提高供暖，而是通过加衣服保持舒适。`Vi har aftalt` 借助过去的家庭约定为自己的要求提供依据。数字19度在这里是这个家庭讨论中的具体目标，不能据此认为所有丹麦家庭都有同样的设定。",
+            "transfer": [
+                "Tag en varm trøje på.",
+                "Vi har aftalt at holde temperaturen på 19 grader.",
+                "Kan vi ikke holde en lidt lavere temperatur?"
+            ],
+            "pitfall": "`tage på` 在这里是穿上衣服，但 `tage på` 也可以表示体重增加。`holde 19 grader` 不等于“拿着十九度”，而是维持温度。"
+        },
+        {
+            "id": "U27-C017",
+            "zh": "弗雷娅：那只是你自己跟自己商量好的吧。",
+            "grammar": "`Du har ... aftalt det` 使用现在完成时，`det` 回指前面所谓的家庭约定。`bare` 限定其范围，表示不过是、仅仅是。`med dig selv` 是反身强调结构，表示父亲只与自己达成所谓协议，而没有真正征求其他人的同意。",
+            "vocabulary": [
+                {
+                    "da": "aftale noget med nogen",
+                    "zh": "与某人商定某事",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "bare",
+                    "zh": "不过、只是、仅仅",
+                    "note": "这里带有反驳和轻微讽刺意味"
+                },
+                {
+                    "da": "med sig selv",
+                    "zh": "跟自己、独自决定",
+                    "note": "反身结构，具体形式随主语改变"
+                }
+            ],
+            "nuance": "弗雷娅巧妙地利用父亲说的 `aftalt` 反击：真正的约定需要双方或多方同意，而她认为父亲只是单方面决定。`bare` 让反驳显得简短而有力，带有家庭对话中的轻微挑衅。",
+            "transfer": [
+                "Det har du vist kun aftalt med dig selv.",
+                "Vi har ikke aftalt noget endnu.",
+                "Du kan ikke bare bestemme det alene."
+            ],
+            "pitfall": "`aftale med dig selv` 在这里具有讽刺性，不能理解为真正发生了一次正式会议。`dig selv` 强调主语本人，不是普通的 `dig` 可以完全替代的形式。"
+        },
+        {
+            "id": "U27-C018",
+            "zh": "妈妈：弗雷娅，我们大家都已经商量好了。供暖账单现在已经涨到了原来的三倍。",
+            "grammar": "`Vi har aftalt det alle sammen` 中现在完成时说明约定已经达成，`alle sammen` 强调家庭成员共同参与。第二句 `Varmeregningen er blevet ...` 使用现在完成时的变化结构，`er blevet` 表示现在形成的新状态。`tre gange så stor` 是倍数程度表达。",
+            "vocabulary": [
+                {
+                    "da": "alle sammen",
+                    "zh": "所有人、大家一起",
+                    "note": "口语中常用于强调群体全体成员"
+                },
+                {
+                    "da": "en varmeregning",
+                    "zh": "供暖账单",
+                    "note": "与 `en elregning`（电费账单）有所区别"
+                },
+                {
+                    "da": "blive tre gange så stor",
+                    "zh": "增长到原来的三倍",
+                    "note": "倍数比较结构"
+                }
+            ],
+            "nuance": "母亲先纠正弗雷娅关于约定的说法，再给出经济理由。`alle sammen` 直接回应了弗雷娅“你自己决定”的指责。`er blevet` 把注意力放在家庭如今面对的账单结果上，而非单纯描述过去某次涨价。",
+            "transfer": [
+                "Vi har aftalt det alle sammen.",
+                "Regningen er blevet næsten dobbelt så stor.",
+                "Vi er nødt til at spare på varmen."
+            ],
+            "pitfall": "`tre gange så stor` 是原来的三倍，不是增加了三倍后成为原来的四倍。`alle sammen` 的意思是全体人，不是仅仅“大家在一起”。"
+        },
+        {
+            "id": "U27-C019",
+            "zh": "弗雷娅：好吧，好吧。可既然这样，我就要争取洗一个舒舒服服的长热水澡！",
+            "grammar": "`Okay, okay` 是重复的口语让步。`Men så` 表示在接受前述条件后提出新的要求。`vil jeg have lov til at ...` 中 `vil` 表示意愿，`have lov til at` 表示获得许可。`tage et langt varmt bad` 是固定搭配，表示洗一次时间较长的热水澡。",
+            "vocabulary": [
+                {
+                    "da": "have lov til at gøre noget",
+                    "zh": "获准做某事、有权做某事",
+                    "note": "可用于请求许可或讨论规则"
+                },
+                {
+                    "da": "tage et bad",
+                    "zh": "洗澡",
+                    "note": "可根据上下文指淋浴或泡澡"
+                },
+                {
+                    "da": "et langt varmt bad",
+                    "zh": "一次时间较长的热水澡",
+                    "note": "强调时长和水温"
+                },
+                {
+                    "da": "men så",
+                    "zh": "不过那样的话、既然如此",
+                    "note": "用于让步后提出新条件"
+                }
+            ],
+            "nuance": "弗雷娅表面上接受减少暖气消耗，却马上要求通过长时间洗热水澡获得补偿。这是家庭争论中的幽默转折。`vil jeg have lov til` 比简单的 `må jeg` 更带有强调个人诉求的意味。",
+            "transfer": [
+                "Okay, men så vil jeg have lov til at vælge filmen.",
+                "Må jeg tage et varmt bad bagefter?",
+                "Hvis jeg skal spare på varmen, vil jeg gerne have en ekstra dyne."
+            ],
+            "pitfall": "`tage et bad` 是洗澡，不是字面意义上的“拿一个浴缸”。`have lov til` 讨论许可，`have lyst til` 讨论愿望，两者不能混淆。"
+        },
+        {
+            "id": "U27-C020",
+            "zh": "爸爸：那简直就是节约的反面嘛。",
+            "grammar": "`Det er ...` 是判断句，`Det` 回指弗雷娅提出的长时间热水澡。`nærmest` 修饰后面的判断，表示几乎可以说、简直就是。`det modsatte af` 是固定结构，表示某件事的反面。`at spare` 是名词化的不定式短语，表示节约这一行为。",
+            "vocabulary": [
+                {
+                    "da": "nærmest",
+                    "zh": "几乎、简直可以说",
+                    "note": "这里是程度副词，不是距离最近"
+                },
+                {
+                    "da": "det modsatte af noget",
+                    "zh": "某事的反面、正好相反",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "spare",
+                    "zh": "节省、节约",
+                    "note": "常见搭配 `spare på strømmen`、`spare penge`"
+                }
+            ],
+            "nuance": "父亲用简短的反讽指出女儿的要求与节能目标相冲突。`nærmest` 使表达既有强调，也保留了一点口语中的幽默感，而不是严肃宣称二者在逻辑上完全互斥。",
+            "transfer": [
+                "Det er nærmest det modsatte af at spare.",
+                "Det er det modsatte af, hvad vi prøver at opnå.",
+                "Vi skal spare på både strøm og varme."
+            ],
+            "pitfall": "`det modsatte af` 的介词是 `af`，不是 `til`。`spare på` 表示节约某种资源，`spare op` 则表示储蓄、积攒。"
+        },
+        {
+            "id": "U27-C021",
+            "zh": "妈妈：我们可以今晚半夜再开洗碗机，不必现在开。午夜之后，电价只有现在的一半。",
+            "grammar": "`Vi kunne ...` 使用情态动词 `kunne`，在这里是委婉建议，而不是单纯过去时的能力描述。`i nat i stedet for nu` 明确对比两个时间选择。`Strømmen koster det halve` 中 `det halve` 是名词化的数量表达，省略了比较基准，即当前电价。`efter midnat` 指午夜之后。",
+            "vocabulary": [
+                {
+                    "da": "en opvaskemaskine",
+                    "zh": "洗碗机",
+                    "note": "复数 `opvaskemaskiner`"
+                },
+                {
+                    "da": "starte noget",
+                    "zh": "启动某个设备或过程",
+                    "note": "可用于机器、项目或活动"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "而不是、代替",
+                    "note": "后接名词、代词或不定式结构"
+                },
+                {
+                    "da": "koste det halve",
+                    "zh": "价格只有一半",
+                    "note": "`det halve` 指相关价格或金额的一半"
+                },
+                {
+                    "da": "efter midnat",
+                    "zh": "午夜之后",
+                    "note": "`midnat` 是午夜十二点"
+                }
+            ],
+            "nuance": "母亲提出一种不直接减少洗碗需求、而是改变用电时间的节费方法。`Vi kunne` 比命令式的 `Vi skal` 更像家庭协商。`Strømmen koster det halve` 体现分时电价语境，但这里只说明故事中这个夜晚的价格情况，不代表午夜之后电价永远都是白天的一半。",
+            "transfer": [
+                "Vi kunne starte opvaskemaskinen senere.",
+                "Strømmen er billigere i nat end nu.",
+                "Vi kan vente til efter midnat i stedet for at starte den med det samme."
+            ],
+            "pitfall": "`kunne` 在建议句中通常不需要译成过去的“能够”。`det halve` 是一半，不能译成“半价以上”。"
+        },
+        {
+            "id": "U27-C022",
+            "zh": "弗雷娅：你怎么知道的？",
+            "grammar": "`Hvordan` 询问获得信息的方式或依据。直接疑问句采用 `Hvordan + ved + du + det?` 的语序。`det` 回指母亲关于午夜电价的判断。",
+            "vocabulary": [
+                {
+                    "da": "Hvordan ved du det?",
+                    "zh": "你怎么知道的？",
+                    "note": "询问信息来源或判断依据"
+                },
+                {
+                    "da": "vide",
+                    "zh": "知道、掌握某个事实",
+                    "note": "现在时 `ved`，过去时 `vidste`"
+                }
+            ],
+            "nuance": "弗雷娅的提问既表现出好奇，也带有对母亲精确掌握电价的轻微惊讶。`Hvordan ved du det?` 比 `Hvorfor ved du det?` 更自然，因为她问的是信息从哪里来，而非母亲为什么应该知道。",
+            "transfer": [
+                "Hvordan ved du det?",
+                "Hvor har du de oplysninger fra?",
+                "Er du sikker på, at prisen falder?"
+            ],
+            "pitfall": "`ved` 来自 `vide`，不是介词 `ved`（在……旁边）。`Hvordan ved du det?` 是询问如何得知，不是直接询问事实本身是什么。"
+        },
+        {
+            "id": "U27-C023",
+            "zh": "妈妈：我有个应用程序。我一直都在上面查电价。",
+            "grammar": "第一句 `Jeg har en app` 是普通的拥有结构。第二句 `Jeg tjekker den hele tiden` 中 `den` 回指应用程序，`hele tiden` 表示一直、不断地。现在时 `tjekker` 在这里描述反复发生的习惯性行为。",
+            "vocabulary": [
+                {
+                    "da": "en app",
+                    "zh": "应用程序",
+                    "note": "复数 `apps`"
+                },
+                {
+                    "da": "tjekke",
+                    "zh": "查看、核对、检查",
+                    "note": "常用于价格、天气、邮件和日程"
+                },
+                {
+                    "da": "hele tiden",
+                    "zh": "一直、不断地、总是",
+                    "note": "可带轻微夸张"
+                }
+            ],
+            "nuance": "母亲用很简短的话解释自己为何了解实时电价。`hele tiden` 既可能表示查看得相当频繁，也为下一句父亲开玩笑说她对电价着迷做好铺垫。",
+            "transfer": [
+                "Jeg tjekker elprisen i en app.",
+                "Hun følger med i priserne hele tiden.",
+                "Jeg tjekker vejrudsigten hver morgen."
+            ],
+            "pitfall": "`tjekke` 是查看或核对，不一定表示深入检查。`hele tiden` 在日常口语中常是夸张说法，不必理解成每一秒都在查看。"
+        },
+        {
+            "id": "U27-C024",
+            "zh": "爸爸：你妈现在都快对电价走火入魔了。",
+            "grammar": "`Din mor er blevet besat af ...` 使用现在完成时的状态变化结构，表示从过去到现在形成了某种状态。`besat af` 是固定搭配，表示对某事极度着迷或沉迷。`elprisen` 是复合名词确定形式，指电价这一特定关注对象。",
+            "vocabulary": [
+                {
+                    "da": "være besat af noget",
+                    "zh": "对某事着迷、执迷于某事",
+                    "note": "口语中可以夸张地形容关注程度"
+                },
+                {
+                    "da": "blive besat af noget",
+                    "zh": "变得对某事非常痴迷",
+                    "note": "强调状态发生变化"
+                },
+                {
+                    "da": "en elpris",
+                    "zh": "电价",
+                    "note": "复数 `elpriser`"
+                }
+            ],
+            "nuance": "这是家庭对话的幽默收尾。父亲并不一定是在严肃批评母亲的心理状态，而是在调侃她频繁查看电价。`besat af` 的夸张程度较强，使用时需要注意关系和语境，避免把普通兴趣说得过于负面。",
+            "transfer": [
+                "Han er blevet besat af at følge aktiekurser.",
+                "Hun er helt besat af elpriser.",
+                "Jeg tjekker priserne ofte, men jeg er ikke besat af dem."
+            ],
+            "pitfall": "`besat` 既可表示被占领，也可表示着迷。本句中的 `besat af elprisen` 只能理解为对电价过度关注，不能按军事占领翻译。"
+        },
+        {
+            "id": "U27-C025",
+            "zh": "后来价格又降了下来，但那段时间养成的一些习惯却保留了下来。",
+            "grammar": "第一分句 `Priserne faldt igen` 使用过去时描述价格回落。第二分句 `en del af vanerne blev hængende` 中 `blive hængende` 表示某种状态或事物继续存在、没有消失。`en del af` 是部分数量表达，说明并非所有节能习惯都延续了。",
+            "vocabulary": [
+                {
+                    "da": "falde igen",
+                    "zh": "再次下降、回落",
+                    "note": "适用于价格、温度和数量"
+                },
+                {
+                    "da": "en del af",
+                    "zh": "其中一部分、不少",
+                    "note": "具体比例由上下文决定"
+                },
+                {
+                    "da": "en vane",
+                    "zh": "习惯",
+                    "note": "复数 `vaner`"
+                },
+                {
+                    "da": "blive hængende",
+                    "zh": "继续留存、延续下来",
+                    "note": "比喻性用法，也可表示人继续待在某处"
+                }
+            ],
+            "nuance": "作者从家庭对话回到叙述，指出能源危机带来的行为变化可能在价格恢复后继续存在。`blev hængende` 很有口语表现力，仿佛习惯没有随着危机结束而离开。它比 `fortsatte` 更强调一种意料之外的持续性。",
+            "transfer": [
+                "Priserne faldt igen efter krisen.",
+                "Nogle af de nye vaner blev hængende.",
+                "Selv efter ændringen fortsatte vi med at spare."
+            ],
+            "pitfall": "`blive hængende` 在这里不是习惯被挂在墙上，而是继续存在。`en del af vanerne` 不是全部习惯。"
+        },
+        {
+            "id": "U27-C026",
+            "zh": "丹麦家庭每年都会扔掉大量其实还可以食用的食物。",
+            "grammar": "主句骨架为 `Danske husholdninger smider ... ud`。`smide noget ud` 是固定动词小品词结构，表示扔掉某物。`hvert år` 是表示频率的时间状语，强调这一现象反复发生。`store mængder spiselig mad` 中 `spiselig` 修饰 `mad`，强调被丢弃的食物仍可食用。",
+            "vocabulary": [
+                {
+                    "da": "en husholdning",
+                    "zh": "家庭户、住户",
+                    "note": "复数 `husholdninger`"
+                },
+                {
+                    "da": "smide noget ud",
+                    "zh": "扔掉、丢弃某物",
+                    "note": "日常生活中的高频搭配"
+                },
+                {
+                    "da": "store mængder",
+                    "zh": "大量",
+                    "note": "适用于食物、垃圾和资源等"
+                },
+                {
+                    "da": "spiselig",
+                    "zh": "可以食用的",
+                    "note": "与 `uspiselig` 相对"
+                },
+                {
+                    "da": "madspild",
+                    "zh": "食物浪费",
+                    "note": "et madspild；环境和消费政策中的常用概念"
+                }
+            ],
+            "nuance": "这一句从能源消费转向日常生活中的食物浪费。`spiselig` 是核心限定词，因为作者关注的不只是扔掉食物，而是本来仍具有食用价值的食物被浪费。用 `husholdninger` 而非 `familier`，也自然涵盖独居和非传统家庭结构的住户。",
+            "transfer": [
+                "Mange husholdninger smider mad ud hver uge.",
+                "Vi bør reducere mængden af spiselig mad, der bliver smidt ud.",
+                "Madspild belaster både økonomien og miljøet."
+            ],
+            "pitfall": "`spiselig` 是可食用，不等于必然新鲜或绝对安全。`smide ud` 是丢弃，`smide væk` 也可表达类似意思，但搭配和语感可能有所不同。"
+        },
+        {
+            "id": "U27-C027",
+            "zh": "最有效的措施之一其实简单得出人意料：提前规划采购、把剩饭剩菜冷冻起来，以及在扔掉食物之前先闻一闻、尝一尝，判断是否还能吃。",
+            "grammar": "主句 `Et af de mest effektive tiltag er ...` 使用最高级集合结构。`overraskende enkelt` 是程度副词加形容词的表语。冒号后用三个并列的不定式说明措施：`at planlægge`、`fryse ... ned` 和 `lugte og smage på ...`。`før man smider den ud` 是时间从句，`den` 回指 `maden`。`lugte på` 和 `smage på` 在这里都是需要介词 `på` 的搭配。",
+            "vocabulary": [
+                {
+                    "da": "et tiltag",
+                    "zh": "措施、行动方案",
+                    "note": "政策和日常问题解决中均常用"
+                },
+                {
+                    "da": "planlægge sine indkøb",
+                    "zh": "规划采购、提前安排购物",
+                    "note": "适用于食品和家庭消费"
+                },
+                {
+                    "da": "fryse noget ned",
+                    "zh": "将某物冷冻保存",
+                    "note": "常用于食物保存"
+                },
+                {
+                    "da": "rester",
+                    "zh": "剩饭剩菜、剩余部分",
+                    "note": "复数形式；单数 `en rest`"
+                },
+                {
+                    "da": "lugte på / smage på",
+                    "zh": "闻一闻／尝一尝",
+                    "note": "两个动词在这里都与介词 `på` 搭配"
+                }
+            ],
+            "nuance": "作者强调减少食物浪费并不一定需要复杂技术，许多措施可以通过日常规划实现。`overraskende enkelt` 形成一种轻微的反差：效果显著的办法竟然很简单。最后一项描述日常感官判断，但不能把闻一闻或尝一尝当作判断所有食物安全性的可靠方法；特别是已知可疑或可能变质的食物，不应通过尝食来验证安全。",
+            "transfer": [
+                "Et effektivt tiltag er at planlægge indkøbene bedre.",
+                "Vi fryser rester ned i stedet for at smide dem ud.",
+                "Tjek madens holdbarhed, før du beslutter, om den skal bruges."
+            ],
+            "pitfall": "`fryse ned` 表示冷冻保存，不是降温到任何低温都算。`lugte på` 与 `smage på` 的介词是 `på`；但感官检查不能替代食品安全原则。"
+        },
+        {
+            "id": "U27-C028",
+            "zh": "2020年，丹麦议会通过了一部气候法，其目标是在2030年之前，将温室气体排放量相对于1990年的水平减少70%。",
+            "grammar": "`I 2020` 前置，触发V2倒装 `vedtog Folketinget`。`en klimalov, hvor målet er ...` 使用 `hvor` 引导关系从句，指向法律所规定的目标内容。`reducere udledningen ... med 70 procent` 中 `med` 表示减少的幅度。`i forhold til 1990` 指比较基准，`inden 2030` 表示必须在2030年之前达到目标。",
+            "vocabulary": [
+                {
+                    "da": "vedtage en lov",
+                    "zh": "通过一部法律",
+                    "note": "`vedtage` 过去时 `vedtog`，过去分词 `vedtaget`"
+                },
+                {
+                    "da": "Folketinget",
+                    "zh": "丹麦议会",
+                    "note": "丹麦国家立法机构"
+                },
+                {
+                    "da": "en klimalov",
+                    "zh": "气候法",
+                    "note": "复数 `klimalove`"
+                },
+                {
+                    "da": "reducere udledningen",
+                    "zh": "减少排放量",
+                    "note": "`en udledning` 是排放"
+                },
+                {
+                    "da": "i forhold til",
+                    "zh": "相对于、与……相比",
+                    "note": "用于比较基准、关系和评价"
+                }
+            ],
+            "nuance": "这句话体现丹麦政策报道中常见的目标表达方式：首先交代立法年份，再写清目标指标、减少幅度、基准年份和完成期限。理解 `med 70 procent`、`i forhold til 1990` 与 `inden 2030` 三者的区别十分关键。这里说明的是法律设定的目标，而不是断言目标已经实现。",
+            "transfer": [
+                "Folketinget vedtog en ny klimalov.",
+                "Målet er at reducere udledningen med 70 procent.",
+                "Udledningen skal falde i forhold til niveauet i 1990."
+            ],
+            "pitfall": "`reducere med 70 procent` 是减少70%，不是减少到原来的70%。`inden 2030` 表示在2030年之前，`siden 1990` 则表示自1990年以来。"
+        },
+        {
+            "id": "U27-C029",
+            "zh": "一些年轻人说，自己确实会感到一种深深的气候焦虑：面对一个并非由他们亲手造成、却要由他们承受后果最久的问题，他们感到无能为力。",
+            "grammar": "`Nogle unge beskriver en egentlig klimaangst` 中 `egentlig` 强调这不仅是一般担忧，而是一种真实而明显的焦虑感受。冒号后 `en følelse af afmagt` 对前面的概念作同位解释。`et problem, de ikke selv har skabt, men skal leve med længst` 是省略宾语关系代词的关系从句，两个谓语共享宾语 `et problem`。`længst` 表示持续时间最长。",
+            "vocabulary": [
+                {
+                    "da": "klimaangst",
+                    "zh": "气候焦虑",
+                    "note": "en klimaangst；描述与气候危机相关的焦虑体验"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "真正的、确实存在的",
+                    "note": "这里强调感受的真实性和强度"
+                },
+                {
+                    "da": "en følelse af afmagt",
+                    "zh": "无力感、无能为力的感觉",
+                    "note": "`afmagt` 常用于面对难以控制的问题"
+                },
+                {
+                    "da": "over for",
+                    "zh": "面对、对于",
+                    "note": "在这里表示感受所针对的问题"
+                },
+                {
+                    "da": "leve med noget",
+                    "zh": "长期承受、面对或适应某种情况",
+                    "note": "并不意味着认可或赞成该情况"
+                }
+            ],
+            "nuance": "作者把气候焦虑与代际公平联系起来：一些年轻人认为自己并非问题的主要制造者，却将在更长时间内承受其影响。`afmagt over for` 强调问题规模太大、个人难以控制的感受。这里是对一些年轻人体验的描述，不应自动理解为正式的临床诊断，也不能推广为所有年轻人的共同感受。",
+            "transfer": [
+                "Mange unge føler afmagt over for klimakrisen.",
+                "De skal leve med konsekvenserne i mange år.",
+                "Det er et problem, de ikke selv har skabt."
+            ],
+            "pitfall": "`egentlig` 在这里不宜译成“原本的”，而是强调真正存在的焦虑。`længst` 是时间最长，不是距离最远。"
+        },
+        {
+            "id": "U27-C030",
+            "zh": "几乎人人都支持可再生能源，但愿意让一座150米高的风力发电机建在自家附近的人，就少得多了。",
+            "grammar": "第一分句 `Næsten alle er for ...` 使用 `være for` 表示支持。第二分句 `færre vil have ...` 中 `færre` 是数量比较级，指愿意接受当地风机建设的人数较少。`en 150 meter høj vindmølle` 是数量加形容词构成的名词短语，表示风机高度。`tæt på deres hus` 说明位置。",
+            "vocabulary": [
+                {
+                    "da": "være for noget",
+                    "zh": "支持、赞成某事",
+                    "note": "与 `være imod`（反对）相对"
+                },
+                {
+                    "da": "færre",
+                    "zh": "更少的人、更少的可数事物",
+                    "note": "`få` 的比较级"
+                },
+                {
+                    "da": "en vindmølle",
+                    "zh": "风力发电机、风车",
+                    "note": "现代能源语境中通常指风力发电设备"
+                },
+                {
+                    "da": "tæt på",
+                    "zh": "靠近、在……附近",
+                    "note": "空间和抽象关系均可使用"
+                }
+            ],
+            "nuance": "这句话引出常被概括为“不要建在我家后院”的社会冲突：人们可能支持总体能源目标，却反对设施建在自己住处附近。`næsten alle` 是一种概括性修辞，不能据此当作已经核实的民意统计数据。作者的重点在于原则性支持与地方接受程度之间的差距。",
+            "transfer": [
+                "Mange er for grøn energi, men imod lokale anlæg.",
+                "Færre ønsker en vindmølle tæt på deres hjem.",
+                "Der kan være forskel på principiel støtte og lokal opbakning."
+            ],
+            "pitfall": "`være for` 是支持，`være imod` 是反对。`færre` 用于人数等可数对象，`mindre` 更多用于数量或程度。"
+        },
+        {
+            "id": "U27-C031",
+            "zh": "附近居民抱怨风机噪声、叶片在太阳较低时透过窗户投进屋内的旋转阴影，以及他们的房屋可能因此贬值。",
+            "grammar": "整句骨架是 `Naboer klager over X, over Y og over, at Z`。重复 `over` 清楚区分三类投诉内容。`som vingerne kaster ind gennem vinduerne` 是关系从句，修饰旋转阴影；`som` 在从句中充当宾语。`i lavt sollys` 描述太阳位置较低时的光照条件。`falder i værdi` 是固定搭配，表示价值下降。",
+            "vocabulary": [
+                {
+                    "da": "klage over noget",
+                    "zh": "抱怨、投诉某事",
+                    "note": "固定介词 `over`"
+                },
+                {
+                    "da": "roterende",
+                    "zh": "旋转的",
+                    "note": "来自动词 `rotere`"
+                },
+                {
+                    "da": "en vinge",
+                    "zh": "叶片、翅膀",
+                    "note": "风力发电机语境中指旋转叶片"
+                },
+                {
+                    "da": "kaste skygge",
+                    "zh": "投下阴影",
+                    "note": "也可比喻对某事造成负面影响"
+                },
+                {
+                    "da": "falde i værdi",
+                    "zh": "贬值、价值下降",
+                    "note": "适用于房屋、资产和商品"
+                }
+            ],
+            "nuance": "作者没有笼统地说居民反对风机，而是具体列出三种担忧：噪声、阴影干扰和房地产价值。`klager over` 可以用于非正式抱怨，也可用于正式投诉。第三项描述的是居民担心房价下跌，并非由这句话直接证明所有附近房产都会贬值。",
+            "transfer": [
+                "Naboerne klager over støj fra anlægget.",
+                "Vindmøllerne kan kaste skygger ind gennem vinduerne.",
+                "Beboerne frygter, at deres huse falder i værdi."
+            ],
+            "pitfall": "`klage over` 的介词必须掌握。`falder i værdi` 是价值下降，不是物理高度下降；`vinger` 在这里是风机叶片，不是鸟的翅膀。"
+        },
+        {
+            "id": "U27-C032",
+            "zh": "全国性目标与地方承担的代价之间，存在一种典型的冲突：收益由所有人共享，而负面影响却主要由住得最近的少数人承担。",
+            "grammar": "主句 `Konflikten mellem X og Y er klassisk` 将两种利益置于对比关系。冒号后使用平行的s-被动结构 `Gevinsten deles af alle` 与 `ulemperne bæres af de få`。`mens` 在这里是对比连词，表示双方承担结果的不同。`de få, der bor tættest på` 使用名词化数量表达加关系从句，`tættest` 是距离最近的最高级。",
+            "vocabulary": [
+                {
+                    "da": "en konflikt mellem X og Y",
+                    "zh": "X与Y之间的冲突",
+                    "note": "固定介词 `mellem`"
+                },
+                {
+                    "da": "en omkostning",
+                    "zh": "成本、代价",
+                    "note": "复数 `omkostninger`；可指金钱和非金钱负担"
+                },
+                {
+                    "da": "en gevinst",
+                    "zh": "收益、好处、收获",
+                    "note": "复数 `gevinster`"
+                },
+                {
+                    "da": "bære ulemperne",
+                    "zh": "承担不利影响",
+                    "note": "`bære` 在这里是抽象意义上的承受"
+                },
+                {
+                    "da": "de få",
+                    "zh": "少数人",
+                    "note": "形容词名词化表达"
+                }
+            ],
+            "nuance": "这是全文分析环境政策公平性的重要句子。`klassisk` 并不是说冲突属于古典时代，而是说这种矛盾具有典型性、在类似项目中反复出现。通过 `gevinsten` 与 `ulemperne` 的对照，作者凸显公共收益与地方负担可能分配不均的问题。",
+            "transfer": [
+                "Gevinsten deles af mange, mens omkostningerne bæres af få.",
+                "Konflikten mellem nationale mål og lokale interesser er velkendt.",
+                "De nærmeste naboer mærker ofte ulemperne tydeligst."
+            ],
+            "pitfall": "`bæres af` 是被动，表示由某一群体承担。`klassisk` 在这里是典型的，不是古典艺术或古代历史的意思。"
+        },
+        {
+            "id": "U27-C033",
+            "zh": "市政府邀请居民参加一场公众说明会，讨论一座占地200公顷的太阳能光伏园区。某能源公司计划将它建在城南的农田上。",
+            "grammar": "`Kommunen har inviteret til borgermøde` 使用现在完成时，表示邀请已经发出。`om en solcellepark på 200 hektar` 说明会议议题和项目规模。`som et energiselskab vil bygge ...` 是关系从句，`som` 指前面的光伏园区，在从句中充当 `bygge` 的宾语。`syd for byen` 是位置短语，表示城市南面。",
+            "vocabulary": [
+                {
+                    "da": "invitere til et borgermøde",
+                    "zh": "邀请参加公众会议、居民说明会",
+                    "note": "常用于地方规划和政策咨询"
+                },
+                {
+                    "da": "en solcellepark",
+                    "zh": "太阳能光伏园区",
+                    "note": "由大量太阳能板组成的发电设施区域"
+                },
+                {
+                    "da": "en hektar",
+                    "zh": "一公顷",
+                    "note": "土地面积单位；复数 `hektar`"
+                },
+                {
+                    "da": "et energiselskab",
+                    "zh": "能源公司",
+                    "note": "复数 `energiselskaber`"
+                },
+                {
+                    "da": "syd for",
+                    "zh": "在……南面",
+                    "note": "地理方位表达"
+                }
+            ],
+            "nuance": "作者通过一个虚构或叙事性的地方会议场景，把宏观能源转型问题带入居民参与和地方规划的层面。`borgermøde` 既提供项目说明，也可能成为居民提出质疑和建议的平台。`på 200 hektar` 说明的是占地面积，而不是装机容量或发电量。",
+            "transfer": [
+                "Kommunen inviterer til borgermøde om et nyt energiprojekt.",
+                "Selskabet vil bygge en solcellepark syd for byen.",
+                "Projektet omfatter et område på 200 hektar."
+            ],
+            "pitfall": "`borgermøde` 不等于具有法律表决效力的全民公投。`på 200 hektar` 是面积表达，不能直接换算成发电功率。"
+        },
+        {
+            "id": "U27-C034",
+            "zh": "主持人：欢迎大家。我们先请项目负责人作一个简短介绍，之后大家就可以自由提问和发言了。",
+            "grammar": "`Velkommen alle sammen` 是固定欢迎表达。`Vi starter med ...` 使用 `starte med` 表示先进行某项活动。`fra projektlederen` 表示介绍由项目负责人提供。`og så er ordet frit bagefter` 中 `så` 引出下一阶段，`ordet er frit` 是会议表达，表示开放发言。",
+            "vocabulary": [
+                {
+                    "da": "en ordstyrer",
+                    "zh": "会议主持人、讨论主持人",
+                    "note": "负责控制发言顺序和会议流程"
+                },
+                {
+                    "da": "starte med noget",
+                    "zh": "从某事开始、首先进行某项活动",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "en projektleder",
+                    "zh": "项目负责人、项目经理",
+                    "note": "复数 `projektledere`"
+                },
+                {
+                    "da": "ordet er frit",
+                    "zh": "开放发言、大家可以自由发言",
+                    "note": "会议和讨论中的固定表达"
+                },
+                {
+                    "da": "bagefter",
+                    "zh": "之后、随后",
+                    "note": "表示会议流程的先后顺序"
+                }
+            ],
+            "nuance": "主持人采用中性、规范的公共会议语体，先说明程序，再给予居民表达意见的机会。`ordet er frit` 不能逐字理解成“单词是自由的”，而是表示发言权向与会者开放。它很适合学习正式会议的主持表达。",
+            "transfer": [
+                "Vi starter med en kort præsentation.",
+                "Bagefter er ordet frit.",
+                "Nu giver jeg ordet til projektlederen."
+            ],
+            "pitfall": "`ordet` 在会议语境中可以指发言权，而不只是某个词语。`en ordstyrer` 与 `en projektleder` 的角色不同，前者主持讨论，后者负责介绍和推进项目。"
+        },
+        {
+            "id": "U27-C035",
+            "zh": "一位居民：听起来是不错，可为什么非得建在这里呢？我们搬到乡下可不是为了天天看太阳能板的。",
+            "grammar": "`Det lyder fint` 使用 `lyde + 形容词`，先作出表面认可。`men hvorfor skal det være lige her?` 是直接疑问句，`lige` 强调地点恰好是这里。`Vi er ikke flyttet herud for at ...` 使用现在完成时描述搬迁已发生，`herud` 表示向说话人现在所在的较郊外地区移动。`for at kigge på` 是目的结构，但被否定后表示搬来这里并非为了观看太阳能板。",
+            "vocabulary": [
+                {
+                    "da": "Det lyder fint",
+                    "zh": "听起来不错",
+                    "note": "常用于先表达认可，再提出不同意见"
+                },
+                {
+                    "da": "lige her",
+                    "zh": "偏偏在这里、恰好在这里",
+                    "note": "`lige` 在这里强调具体位置"
+                },
+                {
+                    "da": "flytte herud",
+                    "zh": "搬到这边较偏远或郊外的地方来",
+                    "note": "`ud` 常体现从中心向外围移动"
+                },
+                {
+                    "da": "kigge på",
+                    "zh": "看、观看某物",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "et solpanel",
+                    "zh": "太阳能板",
+                    "note": "复数 `solpaneler`"
+                }
+            ],
+            "nuance": "居民先用 `Det lyder fint` 表示原则上认可项目，再将争论焦点转向选址。`lige her` 才是情绪核心：并不一定反对太阳能，而是反对项目建在自己生活环境附近。最后一句带有明显的不满和讽刺，暗示搬到这里原本期待的是乡村景观。",
+            "transfer": [
+                "Det lyder fint, men hvorfor skal det være lige her?",
+                "Vi flyttede herud for at bo tættere på naturen.",
+                "Jeg er ikke imod projektet, men jeg er bekymret for placeringen."
+            ],
+            "pitfall": "`lige` 在这里不是“刚刚”，而是强调正好这个地点。`herud` 表示朝这里的外围地区移动，与静态位置副词 `herude` 不同。"
+        },
+        {
+            "id": "U27-C036",
+            "zh": "项目负责人：您的顾虑我完全理解。之所以选中这块地，一是因为附近本来就有一条高压输电线路经过，二是因为这里的土地偏沙质，并不特别适合农业耕种。",
+            "grammar": "`Det forstår jeg godt` 将宾语 `Det` 前置，采用V2倒装 `forstår jeg`。`Arealet er valgt` 是 `være + 过去分词` 的结果状态表达，强调选址已经确定。后面使用两个并列的 `fordi` 从句解释原因。`der allerede går en højspændingsledning forbi` 是存在结构，`forbi` 表示线路从附近经过。`ikke særlig god til landbrug` 中 `særlig` 限定程度，表示不太适合农业。",
+            "vocabulary": [
+                {
+                    "da": "Det forstår jeg godt",
+                    "zh": "我完全理解您的意思",
+                    "note": "讨论和客户沟通中常用的共情表达"
+                },
+                {
+                    "da": "et areal",
+                    "zh": "一块土地、区域、面积",
+                    "note": "土地规划和工程语境中的常用词"
+                },
+                {
+                    "da": "være valgt",
+                    "zh": "已经被选定",
+                    "note": "强调当前的选定状态"
+                },
+                {
+                    "da": "gå forbi",
+                    "zh": "经过、从旁边通过",
+                    "note": "可用于人、车辆和线路"
+                },
+                {
+                    "da": "sandet",
+                    "zh": "沙质的、含沙较多的",
+                    "note": "形容土壤性质"
+                }
+            ],
+            "nuance": "项目负责人先表示理解，再给出基础设施和土地利用两方面的选址理由。`Det forstår jeg godt` 并不代表同意居民的全部结论，而是承认其担忧可以理解。两个 `fordi` 从句构成清晰的公共项目论证方式，比只说“这是最好的地点”更具有解释力。",
+            "transfer": [
+                "Det forstår jeg godt, men der er flere grunde til valget.",
+                "Arealet er valgt, fordi infrastrukturen allerede findes.",
+                "Jorden er ikke særlig velegnet til landbrug."
+            ],
+            "pitfall": "`Det forstår jeg godt` 是理解对方，不必然表示赞同对方。`god til landbrug` 是适合农业用途，而不是土地擅长做某事。"
+        },
+        {
+            "id": "U27-C037",
+            "zh": "一位年轻女性：我只是想说，我很支持这个项目。我们老是说必须采取行动，可真要行动起来，这些设施总得建在某个地方吧。",
+            "grammar": "`Jeg vil bare sige, at ...` 是柔化发言的引入结构，`bare` 降低发言的对抗性。第二部分 `Vi siger hele tiden, at der skal gøres noget` 包含情态动词加s-被动 `skal gøres`，表示必须采取某种行动而不指定具体执行者。`og så skal det jo ligge et sted` 中 `så` 表示逻辑推进，`jo` 强调说话人认为这一点是双方都应承认的事实。",
+            "vocabulary": [
+                {
+                    "da": "Jeg vil bare sige, at ...",
+                    "zh": "我只是想说……",
+                    "note": "公共讨论中的柔和开场"
+                },
+                {
+                    "da": "være glad for noget",
+                    "zh": "对某事感到高兴、赞同某事",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "hele tiden",
+                    "zh": "一直、总是",
+                    "note": "可表示反复提到同一件事"
+                },
+                {
+                    "da": "der skal gøres noget",
+                    "zh": "必须采取行动",
+                    "note": "非人称被动，重点在行动而非行动者"
+                },
+                {
+                    "da": "et sted",
+                    "zh": "某个地方",
+                    "note": "表示地点尚未具体确定"
+                }
+            ],
+            "nuance": "年轻女性提出另一种立场：既然社会希望推进绿色转型，就必须接受设施需要实际占用空间。`jo` 是整句语气的关键，她把选址不可避免性呈现为常识，希望听众接受。`Jeg vil bare sige` 先降低冲突程度，后面的论点却很明确。",
+            "transfer": [
+                "Jeg vil bare sige, at jeg støtter projektet.",
+                "Vi siger hele tiden, at der skal ske noget.",
+                "Anlægget skal jo placeres et sted."
+            ],
+            "pitfall": "`bare` 在这里主要柔化发言，不意味着她的意见不重要。`der skal gøres noget` 中的 `der` 不是明确的地点，而是非人称结构的一部分。"
+        },
+        {
+            "id": "U27-C038",
+            "zh": "第一位居民：你住在市区里，当然说得轻巧了。",
+            "grammar": "`Det er nemt at sige` 使用形式主语 `Det`，真正的评价对象是不定式 `at sige` 所代表的话。`når man bor inde i byen` 是时间兼条件性质的从句，在这里表达某种立场所依赖的生活处境。`inde i byen` 表示位于城市内部或中心城区。",
+            "vocabulary": [
+                {
+                    "da": "Det er nemt at sige",
+                    "zh": "说起来容易、说得轻巧",
+                    "note": "常用于指出对方不需要承担实际困难"
+                },
+                {
+                    "da": "inde i byen",
+                    "zh": "在市区里、在城市里面",
+                    "note": "与郊外或乡村的 `herude` 形成对比"
+                }
+            ],
+            "nuance": "居民没有直接反驳绿色转型的必要性，而是质疑年轻女性的发言资格和成本承担情况。`Det er nemt at sige` 带有明显的讽刺意味：在他看来，对方支持项目，是因为她不住在受影响的地方。",
+            "transfer": [
+                "Det er nemt at sige, når man ikke selv bliver berørt.",
+                "Du bor jo ikke lige ved siden af anlægget.",
+                "Det er lettere at støtte projektet på afstand."
+            ],
+            "pitfall": "`nemt at sige` 不是单纯评价语言是否容易说出口，而是批评对方说得轻松、却未必需要承担后果。"
+        },
+        {
+            "id": "U27-C039",
+            "zh": "年轻女性：我就住在教堂路。从我家厨房的窗户就能看到那块田。",
+            "grammar": "`Jeg bor på Kirkevej` 使用 `på` 搭配道路名称，表示住在某条路上。第二句 `Jeg kan se marken fra mit køkkenvindue` 中 `fra` 表示观察所处的位置或视角来源。`mit` 是中性名词 `et køkkenvindue` 对应的所有格形式。",
+            "vocabulary": [
+                {
+                    "da": "bo på en vej",
+                    "zh": "住在某条路上",
+                    "note": "丹麦语地址中常使用 `på`"
+                },
+                {
+                    "da": "en mark",
+                    "zh": "田地、农田",
+                    "note": "复数 `marker`"
+                },
+                {
+                    "da": "et køkkenvindue",
+                    "zh": "厨房窗户",
+                    "note": "复数 `køkkenvinduer`"
+                },
+                {
+                    "da": "kunne se noget fra",
+                    "zh": "从某个位置能够看见某物",
+                    "note": "强调视线出发的位置"
+                }
+            ],
+            "nuance": "年轻女性用自己的住址和厨房视野直接反驳第一位居民的假设：她并非与项目没有关系的市中心旁观者，而是同样可能受到景观变化影响的当地居民。两句都很短，却在辩论中具有很强的事实反驳效果。",
+            "transfer": [
+                "Jeg bor på Kirkevej.",
+                "Jeg kan se området fra mit køkkenvindue.",
+                "Jeg bor faktisk også tæt på projektet."
+            ],
+            "pitfall": "道路名称通常使用 `på`，而城市通常使用 `i`。`et køkkenvindue` 是中性名词，所以用 `mit`，不是 `min`。"
+        },
+        {
+            "id": "U27-C040",
+            "zh": "主持人：谢谢。还有很多人申请发言，所以我们尽量把每个人的发言控制在两分钟以内，好吗？",
+            "grammar": "`Der er mange, der har bedt om ordet` 是存在结构加关系从句，表示已有很多人请求发言。`har bedt om` 是现在完成时。`så lad os prøve at ...` 中 `så` 表示因此，`lad os` 是第一人称复数祈使建议，`prøve at` 表示努力尝试。`holde os til to minutter hver` 是反身结构，表示各自遵守两分钟的限制。",
+            "vocabulary": [
+                {
+                    "da": "bede om ordet",
+                    "zh": "要求发言、申请发言",
+                    "note": "会议固定表达"
+                },
+                {
+                    "da": "lad os",
+                    "zh": "让我们……",
+                    "note": "用于提出共同遵守的建议"
+                },
+                {
+                    "da": "holde sig til noget",
+                    "zh": "遵守某个范围、限制或话题",
+                    "note": "固定反身结构，介词 `til`"
+                },
+                {
+                    "da": "to minutter hver",
+                    "zh": "每人两分钟",
+                    "note": "`hver` 表示各自、每一个"
+                }
+            ],
+            "nuance": "主持人在双方开始针锋相对时，没有评判哪一方正确，而是把焦点转回会议秩序和发言机会。`lad os prøve` 比直接命令每个人闭嘴或限时更加温和，同时明确了需要遵守的规则。这是公共会议中非常值得学习的主持语言。",
+            "transfer": [
+                "Der er flere, der har bedt om ordet.",
+                "Lad os holde os til emnet.",
+                "Vi har to minutter hver til at præsentere vores synspunkter."
+            ],
+            "pitfall": "`bede om ordet` 是申请发言，不是请求得到一个词语。`holde sig til` 在这里表示遵守限制，不是物理地抓住某个东西。"
+        },
+        {
+            "id": "U27-C041",
+            "zh": "会议结束后，谁也没有改变立场。不过，能源公司带走了一份居民诉求清单：更宽的围挡、一条穿过项目区域的步道，以及在社区活动中心旁新建一个儿童游乐场。",
+            "grammar": "第一分句 `Ingen skifter mening` 使用否定代词 `Ingen` 作主语，表示没有任何人改变观点。第二分句 `energiselskabet går hjem med en liste over ønsker` 中 `gå hjem med` 是比喻性表达，表示带着某种收获或结果离开。冒号后列出居民提出的具体要求。`et bredere hegn` 使用比较级，表示比原设计更宽的围挡或绿篱。",
+            "vocabulary": [
+                {
+                    "da": "skifte mening",
+                    "zh": "改变看法、改变立场",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "gå hjem med noget",
+                    "zh": "带着某种收获离开",
+                    "note": "可以是实际物品，也可以是信息、意见或任务"
+                },
+                {
+                    "da": "en liste over ønsker",
+                    "zh": "诉求清单、希望事项清单",
+                    "note": "`en liste over` 是常用搭配"
+                },
+                {
+                    "da": "et hegn",
+                    "zh": "围栏、围挡、树篱",
+                    "note": "具体材料与形式需根据项目设计判断"
+                },
+                {
+                    "da": "et forsamlingshus",
+                    "zh": "社区活动中心、公共集会场所",
+                    "note": "丹麦地方社区常见的聚会设施"
+                }
+            ],
+            "nuance": "这是一个具有现实感的会议结局：讨论没有让双方改变根本立场，却产生了可以进入项目设计的具体改进诉求。`går hjem med en liste` 强调协商的实际成果，而不是正式表决结果。作者借此说明公众参与不一定消除冲突，但仍可能影响项目细节。",
+            "transfer": [
+                "Ingen skiftede mening under mødet.",
+                "Virksomheden gik hjem med en liste over konkrete ønsker.",
+                "Borgerne foreslog en sti gennem området."
+            ],
+            "pitfall": "`skifte mening` 不需要介词。`gå hjem med` 不必真的回到个人住宅，常指离开会议时带走某种信息或成果。"
+        },
+        {
+            "id": "U27-C042",
+            "zh": "绿色转型眼下该由谁来买单，而未来又是谁能从中受益？",
+            "grammar": "句子由两个平行的疑问分句构成。第一部分 `Hvem skal betale for ...?` 使用 `skal` 询问责任和成本承担。第二部分 `hvem får glæde af ...?` 使用固定搭配 `få glæde af` 表示获得好处，`den` 回指前面的能源或气候转型。`nu` 与 `senere` 形成时间对比，突出当前成本和未来收益可能由不同群体承担。",
+            "vocabulary": [
+                {
+                    "da": "betale for noget",
+                    "zh": "为某事付费、承担某项成本",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "en omstilling",
+                    "zh": "转型、调整",
+                    "note": "此处指能源与气候转型"
+                },
+                {
+                    "da": "få glæde af noget",
+                    "zh": "从某事中受益、得到好处",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "senere",
+                    "zh": "以后、在未来某个时候",
+                    "note": "与 `nu` 形成时间对比"
+                }
+            ],
+            "nuance": "这是贯穿全文的分配公平问题：实施绿色转型所需的支出可能立即发生，而收益可能在未来才体现，也可能由不同的人获得。`få glæde af` 比正式的 `opnå økonomisk gevinst` 更宽泛，可以包含健康、环境和生活质量等方面的好处。",
+            "transfer": [
+                "Hvem skal betale for omstillingen?",
+                "Hvem får glæde af investeringerne på længere sigt?",
+                "Det er vigtigt at diskutere både omkostninger og gevinster."
+            ],
+            "pitfall": "`betale for` 强调支付成本，`få glæde af` 强调获得好处，两者介词不同。`omstilling` 指转型过程，不仅仅是更换一台机器。"
+        },
+        {
+            "id": "U27-C043",
+            "zh": "汽油和柴油税费对那些住得离工作地点和公共交通都很远的人冲击最大，而这些人往往收入较低。",
+            "grammar": "主句 `Afgifter på benzin og diesel rammer hårdest dem` 中，`ramme` 比喻政策或价格对某群体造成负面影响。`hårdest` 是最高级，表示承受冲击最严重。`dem, der bor langt fra ...` 是指示代词加关系从句，明确受影响群体。破折号后的 `ofte folk med lavere indkomster` 是补充说明，指出这些人中较常见的收入特征。",
+            "vocabulary": [
+                {
+                    "da": "en afgift",
+                    "zh": "税费、征费",
+                    "note": "复数 `afgifter`；不等同于所有类型的税"
+                },
+                {
+                    "da": "ramme hårdt",
+                    "zh": "造成严重冲击、使某人受到较大影响",
+                    "note": "最高级 `ramme hårdest`"
+                },
+                {
+                    "da": "offentlig transport",
+                    "zh": "公共交通",
+                    "note": "包括公共汽车、火车等交通服务"
+                },
+                {
+                    "da": "en indkomst",
+                    "zh": "收入",
+                    "note": "复数 `indkomster`"
+                },
+                {
+                    "da": "langt fra",
+                    "zh": "距离……很远",
+                    "note": "这里是空间距离，不是抽象程度的否定表达"
+                }
+            ],
+            "nuance": "作者指出一项环境税收政策可能产生不同的分配影响。对能够方便使用公共交通的人来说，提高燃油成本可能较容易适应；对必须长途开车通勤的人而言，则可能更困难。`ofte` 是关键限定，说明低收入与长距离通勤之间并非绝对对应。",
+            "transfer": [
+                "Højere afgifter rammer nogle husholdninger hårdere end andre.",
+                "Folk, der bor langt fra offentlig transport, er mere afhængige af bilen.",
+                "Politikken kan ramme personer med lave indkomster hårdt."
+            ],
+            "pitfall": "`ramme` 在这里不是物理击中，而是政策成本对群体产生影响。`hårdest` 是最高级，不是单纯表示非常严重的原级。"
+        },
+        {
+            "id": "U27-C044",
+            "zh": "每个人都可以通过少吃牛肉、减少乘飞机的次数、给自家房屋做好保温隔热，以及随手关掉不用的房间里的灯，为改变现状贡献一份力量。",
+            "grammar": "`Den enkelte` 是形容词名词化表达，指每一个个人。`kan gøre en forskel` 是固定习语，表示个人行动能够产生实际影响。`ved at` 引出方式，后面并列四个不定式 `spise`、`flyve`、`isolere` 和 `slukke`。`de rum, man ikke bruger` 是省略宾语关系代词的关系从句，限定哪些房间的灯应被关闭。",
+            "vocabulary": [
+                {
+                    "da": "den enkelte",
+                    "zh": "每一个人、个体",
+                    "note": "正式讨论社会责任时常用"
+                },
+                {
+                    "da": "gøre en forskel",
+                    "zh": "产生积极影响、发挥作用",
+                    "note": "非常实用的固定习语"
+                },
+                {
+                    "da": "ved at",
+                    "zh": "通过做……",
+                    "note": "表示实现目标的方法"
+                },
+                {
+                    "da": "isolere sit hus",
+                    "zh": "给自己的房屋做保温隔热",
+                    "note": "`isolere` 在建筑语境中表示保温或隔热处理"
+                },
+                {
+                    "da": "slukke for lyset",
+                    "zh": "关灯",
+                    "note": "固定介词 `for`；也可用于关闭某些设备"
+                }
+            ],
+            "nuance": "这句话把宏观气候政策转化为个体能够采取的具体行动。`gøre en forskel` 并不声称任何单一行为都足以解决气候问题，而是强调个人可以作出实际贡献。四个并列动词覆盖饮食、交通、住房和用电，使建议具有较强的日常可操作性。",
+            "transfer": [
+                "Den enkelte kan gøre en forskel ved at ændre sine vaner.",
+                "Vi kan spare energi ved at isolere huset bedre.",
+                "Husk at slukke for lyset i de rum, du ikke bruger."
+            ],
+            "pitfall": "`gøre en forskel` 在这里是产生影响，不是发现两个事物之间的差异。`slukke for` 的介词不能省略。`isolere` 在建筑语境中指保温隔热，不是让房屋与社会隔离。"
+        },
+        {
+            "id": "U27-C045",
+            "zh": "但是，真正规模最大的改变仍然需要社会共同就能源、交通和农业作出决策，而这样的决定不是任何一个人能够独自完成的。",
+            "grammar": "主句 `de største ændringer kræver fælles beslutninger` 直接指出重大转型的必要条件。`om energi, transport og landbrug` 说明共同决策涉及的政策领域。`som ingen kan træffe alene` 是关系从句，`som` 回指 `fælles beslutninger`，在从句中充当 `træffe` 的宾语。`ingen` 是否定代词，`træffe en beslutning` 是固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "en ændring",
+                    "zh": "改变、调整",
+                    "note": "复数 `ændringer`"
+                },
+                {
+                    "da": "kræve",
+                    "zh": "需要、要求",
+                    "note": "可用于条件、投入和行动"
+                },
+                {
+                    "da": "en fælles beslutning",
+                    "zh": "共同决定、集体决策",
+                    "note": "`fælles` 强调多人共同参与或承担"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定",
+                    "note": "正式且常用的固定搭配"
+                },
+                {
+                    "da": "alene",
+                    "zh": "独自、单独",
+                    "note": "这里强调无法由个人独自完成"
+                }
+            ],
+            "nuance": "这是全文的核心结论：个人行动可以发挥作用，但能源基础设施、交通制度和农业结构等重大转型必须依靠集体决策。`Men` 与前一句形成必要的补充，而不是否定个人行动的价值。`som ingen kan træffe alene` 强调这些决策需要公共机构、企业和社会成员共同参与，呼应全文关于成本、收益与公平分配的讨论。",
+            "transfer": [
+                "De største ændringer kræver fælles beslutninger.",
+                "Ingen kan løse problemet alene.",
+                "Den grønne omstilling kræver samarbejde på tværs af samfundet."
+            ],
+            "pitfall": "`træffe en beslutning` 是作出决定，不是字面上的碰到一个决定。`som` 在这里修饰 `beslutninger`，而不是紧邻的 `landbrug`；判断关系从句先行词时必须同时检查语义与动词搭配。"
+        }
+    ]
+}

@@ -1,0 +1,1685 @@
+{
+    "schema_version": 1,
+    "unit": "U26",
+    "part": "ALL",
+    "source_fingerprint": "U26-ALL-4b082950fd2c",
+    "sentences": [
+        {
+            "id": "U26-C001",
+            "zh": "明天一开始，天气将阴沉潮湿，许多地方会下毛毛雨。不过上午晚些时候，天空会从西边开始逐渐放晴。",
+            "grammar": "句首时间状语 `I morgen` 引出V2倒装 `begynder dagen`。`begynde + 形容词性描述` 在这里说明一天开始时呈现的天气状态；`gråt og fugtigt` 描述天气的阴沉与潮湿。`med støvregn mange steder` 补充具体天气现象。第二分句以 `i løbet af formiddagen` 开头，后接 `klarer det op`；`det` 是天气表达中的非人称主语，`klare op` 表示天气转晴。`fra vest` 说明天气变化从西向东推进的方向。",
+            "vocabulary": [
+                {
+                    "da": "grå",
+                    "zh": "灰色的；阴沉的",
+                    "note": "描述天气时常用 `gråt vejr`；本句 `gråt` 用于描写一天开始时的天气状态"
+                },
+                {
+                    "da": "fugtig",
+                    "zh": "潮湿的、湿润的",
+                    "note": "中性形式 `fugtigt`；名词 `fugt` 表示湿气"
+                },
+                {
+                    "da": "støvregn",
+                    "zh": "毛毛雨、极细的小雨",
+                    "note": "en støvregn；动词 `støvregne`"
+                },
+                {
+                    "da": "i løbet af",
+                    "zh": "在……期间、在……过程中",
+                    "note": "后接时间段，也可用于较抽象的过程"
+                },
+                {
+                    "da": "klare op",
+                    "zh": "天气转晴、云层散开",
+                    "note": "天气表达通常说 `det klarer op`"
+                }
+            ],
+            "nuance": "这是非常典型的丹麦天气预报语体：先交代整体天气，再说明一天之内的变化以及变化方向。`begynder dagen` 将一天拟人化为有起始状态的过程。`klarer det op` 不意味着必然完全晴朗，只说明云雨逐渐消散、天气有所转好。天气预报中的 `fra vest` 是自然的地理方向表达，常与丹麦天气变化有关。",
+            "transfer": [
+                "I morgen begynder dagen med skyer og regn.",
+                "I løbet af eftermiddagen klarer det op.",
+                "Det klarer op fra vest senere på dagen."
+            ],
+            "pitfall": "`klare op` 在天气语境中是不及物的小品词结构，不要机械理解为 `klare noget`（处理某事）。`i løbet af formiddagen` 表示上午这段时间内，并不意味着整个上午都已经放晴。"
+        },
+        {
+            "id": "U26-C002",
+            "zh": "下午会有零星阵雨，部分地区还可能伴有雷电和冰雹；日德兰半岛的西海岸一带则会刮起强风。",
+            "grammar": "`Om eftermiddagen` 是前置时间状语，后面采用V2结构 `kommer der`。`der` 是存在句中的形式主语，真正引入的新信息是 `enkelte byger`。`nogle steder med torden og hagl` 是省略性补充，说明部分地区的阵雨伴随雷电和冰雹。第二分句以地点状语 `ved de jyske vestkyster` 开头，后接 `bliver der hård vind`，表示将出现强风天气。`bliver` 在这里描述天气状态的变化。",
+            "vocabulary": [
+                {
+                    "da": "en byge",
+                    "zh": "阵雨、短时降水",
+                    "note": "复数 `byger`；与持续性降雨 `regn` 不完全相同"
+                },
+                {
+                    "da": "enkelte",
+                    "zh": "个别的、零星的、少数的",
+                    "note": "常用于概括有限数量，例如 `enkelte tilfælde`"
+                },
+                {
+                    "da": "torden",
+                    "zh": "雷声、雷暴",
+                    "note": "en torden；天气表达中常不带冠词"
+                },
+                {
+                    "da": "hagl",
+                    "zh": "冰雹",
+                    "note": "et hagl 可指一颗冰雹；集合性天气表达常直接用 `hagl`"
+                },
+                {
+                    "da": "hård vind",
+                    "zh": "强风、大风",
+                    "note": "天气预报常用搭配；`hård` 在此描述风力而非物体硬度"
+                }
+            ],
+            "nuance": "天气预报通过 `enkelte`、`nogle steder` 限定降水发生的范围，避免说整个国家下午都会遭遇雷雨冰雹。`ved de jyske vestkyster` 特别指出海岸地区的风况，体现天气预报对地区差异的重视。`hård vind` 是较专业、简洁的天气表述，比日常说 `det blæser meget` 更有预报语体。",
+            "transfer": [
+                "Om eftermiddagen kommer der enkelte byger.",
+                "Nogle steder kan der komme torden og hagl.",
+                "Ved kysten bliver der hård vind."
+            ],
+            "pitfall": "`en byge` 是阵雨，不等于整日持续下雨。`der kommer byger` 和 `der bliver hård vind` 是天气存在或变化结构，不能把 `der` 理解成具体的地点副词“那里”。"
+        },
+        {
+            "id": "U26-C003",
+            "zh": "气温最高将升至12至15摄氏度之间，而今晚夜间，局部地区的地表土壤可能会出现霜冻。",
+            "grammar": "第一分句 `Temperaturen når op mellem 12 og 15 grader` 中，`nå op` 表示达到某个数值或水平，`mellem X og Y` 表示范围。第二分句以 `i nat` 开头，后面采用V2语序 `kan der`，其中 `kan` 表示可能性，`der være frost` 是存在结构。`lokalt` 是副词，表示仅在局部地区发生。`frost i jorden` 限定霜冻出现的位置。",
+            "vocabulary": [
+                {
+                    "da": "nå op",
+                    "zh": "达到、升至",
+                    "note": "常与气温、数量和水平搭配"
+                },
+                {
+                    "da": "en temperatur",
+                    "zh": "温度、气温",
+                    "note": "复数 `temperaturer`"
+                },
+                {
+                    "da": "en grad",
+                    "zh": "一度",
+                    "note": "复数 `grader`；天气语境中通常指摄氏度"
+                },
+                {
+                    "da": "lokalt",
+                    "zh": "局部地区、在部分地点",
+                    "note": "天气预报中的常见副词"
+                },
+                {
+                    "da": "frost i jorden",
+                    "zh": "地表土壤霜冻、地面附近结霜",
+                    "note": "不一定意味着标准观测高度的空气温度低于零度"
+                }
+            ],
+            "nuance": "这句话把白天气温与夜间霜冻并列，展示丹麦春季气温变化较大的特点。`kan der lokalt være` 是谨慎的概率与地理范围表达，既没有断言全国都会结霜，也没有把霜冻描述成必然事件。天气预报中的 `i nat` 指即将到来的夜间。",
+            "transfer": [
+                "Temperaturen når op på omkring 15 grader.",
+                "I nat kan der lokalt være frost.",
+                "Temperaturen kommer til at ligge mellem 10 og 14 grader."
+            ],
+            "pitfall": "`i nat` 在未来天气预报中指今晚夜间；在回顾过去时，也可能根据语境指刚过去的夜间。`nå op` 表示达到较高数值，不能直接与所有描述温度下降的场景互换。"
+        },
+        {
+            "id": "U26-C004",
+            "zh": "四月里的某一天，天气预报很可能就是这样播报的。这也解释了为什么丹麦人有那么多关于天气的话题。",
+            "grammar": "`Sådan` 位于句首，表示“像这样”，后接V2语序 `kan en vejrudsigt lyde`。`lyde` 在这里不是单纯发声，而是指某段话听起来是什么样子。`en dag i april` 是时间状语。第二分句 `den viser, hvorfor ...` 中 `den` 回指天气预报，`hvorfor danskerne taler ...` 是间接疑问从句，采用陈述语序。`så meget` 表示程度很高。",
+            "vocabulary": [
+                {
+                    "da": "en vejrudsigt",
+                    "zh": "天气预报",
+                    "note": "复数 `vejrudsigter`；`udsigt` 在其他语境中也可表示前景或景色"
+                },
+                {
+                    "da": "lyde",
+                    "zh": "听起来、措辞是、表述为",
+                    "note": "过去时 `lød`，过去分词 `lydt`"
+                },
+                {
+                    "da": "sådan",
+                    "zh": "这样、如此",
+                    "note": "指向前面展示的方式或内容"
+                },
+                {
+                    "da": "vise, hvorfor",
+                    "zh": "说明为什么、显示某种原因",
+                    "note": "后接间接疑问从句"
+                },
+                {
+                    "da": "tale om vejret",
+                    "zh": "谈论天气",
+                    "note": "固定介词 `om`"
+                }
+            ],
+            "nuance": "作者从模拟天气预报切换到文化观察。丹麦天气变化多端，使天气成为方便开启日常交谈的话题。`Sådan kan ... lyde` 是介绍示例时很有用的表达，强调前面只是一个可能的典型例子，而不是某一天的实际预报。",
+            "transfer": [
+                "Sådan kan en almindelig arbejdsdag se ud.",
+                "Det forklarer, hvorfor vejret ofte bliver et samtaleemne.",
+                "Sådan kan en invitation lyde."
+            ],
+            "pitfall": "`lyde` 在这里是“听起来如何”，不等于 `lytte`（倾听）。间接疑问句应说 `hvorfor danskerne taler`，不能照搬直接问句 `Hvorfor taler danskerne ...?` 的倒装。"
+        },
+        {
+            "id": "U26-C005",
+            "zh": "所谓毛毛雨，就是雨滴细小得几乎悬浮在空中、缓缓飘落的那种雨。",
+            "grammar": "`Det støvregner` 是非人称天气句，`det` 不指具体事物。`når dråberne er ...` 引出对天气现象的条件性描述。`så små, at ...` 是程度结果结构，表示“小到……的程度”。`de` 回指 `dråberne`，`nærmest` 修饰 `svæver`，表示几乎像在漂浮。",
+            "vocabulary": [
+                {
+                    "da": "støvregne",
+                    "zh": "下毛毛雨、飘极细的小雨",
+                    "note": "天气动词，通常使用非人称主语 `det`"
+                },
+                {
+                    "da": "en dråbe",
+                    "zh": "一滴液体、雨滴",
+                    "note": "复数 `dråber`"
+                },
+                {
+                    "da": "så ... at ...",
+                    "zh": "如此……以至于……",
+                    "note": "表示程度与结果"
+                },
+                {
+                    "da": "nærmest",
+                    "zh": "几乎、简直像",
+                    "note": "也可表示距离最近，具体意义依语境而定"
+                },
+                {
+                    "da": "svæve",
+                    "zh": "悬浮、飘浮",
+                    "note": "用于物体在空中轻轻移动或停留"
+                }
+            ],
+            "nuance": "作者用雨滴的形态解释 `støvregne`，帮助读者建立视觉体验，而不只是记住“下小雨”的译文。`nærmest svæver` 是形象化描述，并非严格的气象学定义。它表现雨非常细密，以至于看起来仿佛停留在空气中。",
+            "transfer": [
+                "Det støvregner lidt udenfor.",
+                "Dråberne er så små, at man næsten ikke kan se dem.",
+                "Det føles nærmest som tåge."
+            ],
+            "pitfall": "`støv` 本义是灰尘，但 `støvregn` 并不是含有灰尘的雨。`nærmest` 在这里不是空间意义上的“最近”，而是接近某种状态。"
+        },
+        {
+            "id": "U26-C006",
+            "zh": "如果雨下得很小，小到不用打伞也能应付，那叫下小雨；如果才过几分钟，自行车道上就积起一大片水洼，那就是倾盆大雨了。",
+            "grammar": "两个并列分句使用平行结构 `Det småregner, når ...` 和 `det øsregner, når ...`，以具体生活情景区分不同程度的降雨。`kan klare sig uden paraply` 中 `klare sig` 是反身动词，表示能够应付。第二个 `når` 从句中，`vandet står i store pytter` 描写积水形成的状态。`efter få minutter` 表示仅过了几分钟。",
+            "vocabulary": [
+                {
+                    "da": "småregne",
+                    "zh": "下小雨、下细雨",
+                    "note": "天气动词；不一定具有 `støvregne` 所强调的极细雨滴特点"
+                },
+                {
+                    "da": "øsregne",
+                    "zh": "下倾盆大雨、哗哗地下雨",
+                    "note": "比普通的 `regne` 强烈得多"
+                },
+                {
+                    "da": "klare sig uden noget",
+                    "zh": "没有某物也能应付",
+                    "note": "固定反身结构，常用于生活、经济和工作语境"
+                },
+                {
+                    "da": "en paraply",
+                    "zh": "雨伞",
+                    "note": "复数 `paraplyer`"
+                },
+                {
+                    "da": "en pyt",
+                    "zh": "水洼、积水坑",
+                    "note": "复数 `pytter`；常说 `store pytter`"
+                }
+            ],
+            "nuance": "作者没有用抽象降水量定义雨势，而是用丹麦人熟悉的打伞和骑车经历进行区分。`klare sig uden` 是非常值得主动使用的生活表达。`vandet står i store pytter` 不是说水“站立”，而是表示地面已经形成明显积水。",
+            "transfer": [
+                "Det småregner, så jeg tager ikke paraply med.",
+                "Jeg kan godt klare mig uden bil.",
+                "Det øsregner, og cykelstien er fuld af vandpytter."
+            ],
+            "pitfall": "`klare sig` 必须保留反身代词。`støvregne`、`småregne` 与 `øsregne` 都描述雨，但雨滴形态和降雨强度不同，不能完全互换。"
+        },
+        {
+            "id": "U26-C007",
+            "zh": "当云层散开时，天气就会转晴；而当太阳在两场阵雨之间短暂露面时，人们就说太阳探出头来了。",
+            "grammar": "句子由两个平行的时间从句加主句构成：`Når skyerne trækker væk, klarer det op` 和 `når solen ... viser sig, titter den frem`。每个句首 `når` 从句之后，主句限定动词都出现在第二位置。`trække væk` 表示移走或散开；`vise sig` 是反身结构，表示出现；`titte frem` 表示从遮挡后短暂露出来。",
+            "vocabulary": [
+                {
+                    "da": "trække væk",
+                    "zh": "移走、散开",
+                    "note": "用于云层时常表示云逐渐离开某个地区"
+                },
+                {
+                    "da": "vise sig",
+                    "zh": "出现、露面、显现",
+                    "note": "反身动词，适用于人物、太阳和事物"
+                },
+                {
+                    "da": "kortvarigt",
+                    "zh": "短暂地",
+                    "note": "形容词 `kortvarig` 表示持续时间短"
+                },
+                {
+                    "da": "titte frem",
+                    "zh": "探出头、短暂露面",
+                    "note": "生动而自然的表达，可用于太阳、动物和人"
+                },
+                {
+                    "da": "klare op",
+                    "zh": "转晴、云雨散开",
+                    "note": "天气固定表达"
+                }
+            ],
+            "nuance": "这一句很好地展示了丹麦语天气描写中的动态动词。`skyerne trækker væk` 关注云的移动，`det klarer op` 关注整体天气改善，`solen titter frem` 则把太阳拟人化，仿佛它从云后偷偷探出头。最后一个表达尤其富有画面感，适合日常口语和叙事写作。",
+            "transfer": [
+                "Når skyerne trækker væk, bliver det lysere.",
+                "Solen tittede frem mellem skyerne.",
+                "Efter regnen klarede det langsomt op."
+            ],
+            "pitfall": "`titte frem` 不是 `kigge frem` 的完全机械替代，前者特别强调短暂、小心或从遮挡后露出的感觉。`vise sig` 的 `sig` 不能省略。"
+        },
+        {
+            "id": "U26-C008",
+            "zh": "冬天有时会下雨夹雪，因为雪太湿，落下来也积不住；而在结霜的夜晚过后，广播里还会提醒大家小心路面湿滑。",
+            "grammar": "句首 `Om vinteren` 引出 `falder der slud`，其中 `der` 用于引入天气现象。`når sneen er for våd til at blive liggende` 使用 `for + 形容词 + til at`，表示湿到无法保持积雪状态。`blive liggende` 是状态持续结构，强调落下后继续留在原处。第二分句以 `efter frostnætter` 开头，采用V2倒装 `advarer radioen`。`advare om noget` 表示警告某种危险或情况。",
+            "vocabulary": [
+                {
+                    "da": "slud",
+                    "zh": "雨夹雪、湿雪",
+                    "note": "天气词，通常作为集合概念使用"
+                },
+                {
+                    "da": "blive liggende",
+                    "zh": "继续留在原处、保持积存",
+                    "note": "与动作 `lægge sig` 不同，强调状态延续"
+                },
+                {
+                    "da": "en frostnat",
+                    "zh": "结霜的夜晚、霜冻夜",
+                    "note": "复数 `frostnætter`"
+                },
+                {
+                    "da": "advare om noget",
+                    "zh": "警告、提醒注意某种风险",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "glat føre",
+                    "zh": "路面湿滑、结冰易滑的通行条件",
+                    "note": "交通和天气预报中的固定表达"
+                }
+            ],
+            "nuance": "作者将降水形态和交通风险联系起来。`glat føre` 是丹麦冬季非常实用的表达，尤其与自行车、步行和驾车安全有关。`føre` 在这里不是动词“带领”，而是描述路况和通行条件的名词。`blive liggende` 强调雪是否能够积在地面上，而非雪有没有落下来。",
+            "transfer": [
+                "Der kan komme slud i løbet af natten.",
+                "Sneen bliver ikke liggende ret længe.",
+                "Myndighederne advarer om glat føre."
+            ],
+            "pitfall": "`for våd til at` 表示太湿而不能，不是“为了变湿”。`glat føre` 应整体记忆，不能将 `føre` 当成普通动词来分析。"
+        },
+        {
+            "id": "U26-C009",
+            "zh": "要是风大得连自行车都快控制不住、难以保持在路上，很多丹麦人就会开玩笑地说：这风简直大得要命！",
+            "grammar": "句子以 `Og når ...` 承接前面的天气描写。`så meget, at ...` 是程度结果结构，表示风大到引起后面的结果。`man knap kan holde cyklen på vejen` 中 `knap` 表示几乎不能、勉强能够，`holde cyklen på vejen` 表示使自行车保持在道路上。整个 `når` 从句前置后，主句采用V2语序 `siger mange`。宾语从句 `at det blæser en halv pelikan` 引出夸张习语。",
+            "vocabulary": [
+                {
+                    "da": "blæse",
+                    "zh": "刮风、吹",
+                    "note": "天气句常说 `det blæser`"
+                },
+                {
+                    "da": "knap",
+                    "zh": "几乎不、勉强、差一点不能",
+                    "note": "作为副词与 `knapt` 意义相近；不要与名词 `en knap`（按钮）混淆"
+                },
+                {
+                    "da": "holde cyklen på vejen",
+                    "zh": "让自行车保持在道路上、控制好骑行方向",
+                    "note": "`holde` 在这里表示维持某种位置"
+                },
+                {
+                    "da": "det blæser en halv pelikan",
+                    "zh": "风刮得特别猛烈",
+                    "note": "幽默夸张的丹麦语天气习语"
+                },
+                {
+                    "da": "en halv",
+                    "zh": "半个",
+                    "note": "在该习语中不应按数量作实际解释"
+                }
+            ],
+            "nuance": "`det blæser en halv pelikan` 是富有丹麦口语特色的夸张说法，重点是风很大，而不是进行精确的风力测量。作者先给出骑车几乎无法保持方向的具体场景，再引出这一习语，让读者自然理解它的强烈程度。习语略带幽默，适合日常闲聊，不适合正式气象报告。",
+            "transfer": [
+                "Det blæser en halv pelikan i dag.",
+                "Det blæser så meget, at jeg næsten ikke kan cykle.",
+                "Jeg kan knap holde balancen i den kraftige vind."
+            ],
+            "pitfall": "`en halv pelikan` 不能逐字理解成半只鹈鹕。`knap kan` 是几乎不能，不是“完全不能”。习语表达主观感受，不能替代正式风级。"
+        },
+        {
+            "id": "U26-C010",
+            "zh": "伊达：爸爸，我们要带雨衣雨裤吗？",
+            "grammar": "`Skal vi ...?` 是情态动词 `skal` 引导的一般疑问句，询问是否需要采取某项行动。`tage regntøj med` 是固定的携带表达，`med` 是动词小品词。",
+            "vocabulary": [
+                {
+                    "da": "regntøj",
+                    "zh": "雨衣雨裤、防雨服装",
+                    "note": "et regntøj；常作为集合概念，涵盖雨衣和雨裤"
+                },
+                {
+                    "da": "tage noget med",
+                    "zh": "带上某物",
+                    "note": "固定动词小品词结构"
+                },
+                {
+                    "da": "Skal vi ...?",
+                    "zh": "我们要不要……？",
+                    "note": "用于询问计划、必要性或对方意见"
+                }
+            ],
+            "nuance": "伊达的提问很符合丹麦多变天气下外出的准备过程。她不是在问是否可以购买雨具，而是在问出门时是否应该带上。",
+            "transfer": [
+                "Skal vi tage regntøj med?",
+                "Skal jeg tage en ekstra trøje med?",
+                "Tror du, vi får brug for paraplyen?"
+            ],
+            "pitfall": "`regntøj` 不一定只指一件雨衣。`tage med` 是随身带上，`tage på` 则是穿上，两者不同。"
+        },
+        {
+            "id": "U26-C011",
+            "zh": "约纳斯：天气预报说，中午十二点左右就会放晴了。",
+            "grammar": "`Det skal klare op` 是天气句，`det` 为非人称主语。这里的 `skal` 可表达预报中预期会发生的天气变化，而不表示天气受到命令。`ved tolvtiden` 是近似时间表达，表示十二点前后。",
+            "vocabulary": [
+                {
+                    "da": "det skal klare op",
+                    "zh": "预计会转晴",
+                    "note": "`skal` 在此表达转述天气预报中的预期"
+                },
+                {
+                    "da": "ved tolvtiden",
+                    "zh": "十二点左右",
+                    "note": "`ved` 表示大约在某个时间点"
+                }
+            ],
+            "nuance": "约纳斯用天气将要转晴的预报回应女儿，隐含意思是雨具可能没有必要。`skal` 使这句话听起来像在转述已经听到的预报，而不是他自己能够保证天气会如何变化。",
+            "transfer": [
+                "Det skal klare op ved middagstid.",
+                "Det skulle blive bedre vejr i eftermiddag.",
+                "Ifølge vejrudsigten holder regnen snart op."
+            ],
+            "pitfall": "`det skal klare op` 的 `skal` 不是义务。`ved tolvtiden` 是十二点左右，不是从十二点开始持续一段时间。"
+        },
+        {
+            "id": "U26-C012",
+            "zh": "伊达：上个星期天你也是这么说的。",
+            "grammar": "`Det` 位于句首，回指父亲关于天气会放晴的判断，因此后面采用V2结构 `sagde du`。`også` 表示相同的话以前也说过。`sidste søndag` 是确定的过去时间状语，配合过去时 `sagde`。",
+            "vocabulary": [
+                {
+                    "da": "Det sagde du også",
+                    "zh": "你上次也是这么说的",
+                    "note": "可用于提醒对方曾作出相同判断或承诺"
+                },
+                {
+                    "da": "sidste søndag",
+                    "zh": "上个星期天",
+                    "note": "确定的过去时间"
+                }
+            ],
+            "nuance": "伊达通过上周的经历质疑父亲对天气预报的乐观判断。语气带一点孩子对大人的善意反驳和调侃，不必理解为严重指责。",
+            "transfer": [
+                "Det sagde du også i sidste uge.",
+                "Du lovede det samme sidste gang.",
+                "Sidste søndag regnede det jo også."
+            ],
+            "pitfall": "`sidste søndag` 是上个星期天，不能与习惯表达 `om søndagen`（每逢星期天）混淆。"
+        },
+        {
+            "id": "U26-C013",
+            "zh": "约纳斯：好吧。我们把雨具带上。背着它总比被雨淋得浑身湿透强。",
+            "grammar": "`Vi tager det med` 中 `det` 回指 `regntøj`。后一句使用比较结构 `Det er bedre at X end at Y`，比较两个不定式行为：`at bære det` 和 `at blive gennemblødt`。`blive gennemblødt` 是状态变化表达，表示被雨水彻底浸湿。",
+            "vocabulary": [
+                {
+                    "da": "bære",
+                    "zh": "携带、拿着、背着",
+                    "note": "过去时 `bar`，过去分词 `båret`"
+                },
+                {
+                    "da": "gennemblødt",
+                    "zh": "浑身湿透的、完全浸湿的",
+                    "note": "既可描述人，也可描述衣物"
+                },
+                {
+                    "da": "Det er bedre at ... end at ...",
+                    "zh": "做……总比做……好",
+                    "note": "非常实用的选择比较句型"
+                }
+            ],
+            "nuance": "父亲接受女儿的提醒，并把携带雨具描述为一种风险权衡：即使白带了雨具，也比遇雨却没有防护好。`Det er bedre at ... end at ...` 是自然、实用的日常决策表达。",
+            "transfer": [
+                "Det er bedre at tage regntøj med end at blive gennemblødt.",
+                "Det er bedre at være forberedt end at fortryde bagefter.",
+                "Okay, vi tager det med for en sikkerheds skyld."
+            ],
+            "pitfall": "`bære` 是携带或承受重量，`have på` 是穿着。比较句中两个行为都可以用 `at` 不定式表达。"
+        },
+        {
+            "id": "U26-C014",
+            "zh": "伊达：那我们回来以后还可以吃冰淇淋吗？",
+            "grammar": "`Og` 承接前面的出行讨论。`kan vi så ...?` 是情态动词疑问句，`så` 在这里表示“那么、既然这样”，引出进一步的请求。`få is` 在口语中表示得到或买到冰淇淋，`bagefter` 表示活动之后。",
+            "vocabulary": [
+                {
+                    "da": "få is",
+                    "zh": "吃到冰淇淋、得到一份冰淇淋",
+                    "note": "口语中常用于孩子向家长提出请求"
+                },
+                {
+                    "da": "bagefter",
+                    "zh": "之后、随后",
+                    "note": "表示事情发生的先后顺序"
+                },
+                {
+                    "da": "så",
+                    "zh": "那么、这样的话",
+                    "note": "这里是承接前文的语气和逻辑连接词"
+                }
+            ],
+            "nuance": "伊达顺势把话题从是否带雨具转向自己关心的冰淇淋，体现孩子与父母之间轻松的协商语气。`kan vi så` 并不只是询问客观能力，也是在征求许可。",
+            "transfer": [
+                "Kan vi få is bagefter?",
+                "Og kan vi så gå på café?",
+                "Må jeg få en is, når vi kommer hjem?"
+            ],
+            "pitfall": "`is` 可以指冰，也可以指冰淇淋，具体由语境决定。`bagefter` 不必总译成“后面”，这里指活动结束之后。"
+        },
+        {
+            "id": "U26-C015",
+            "zh": "约纳斯：要是太阳露面了，那就可以。",
+            "grammar": "`Hvis solen titter frem` 是条件从句。后面的 `ja` 独立作答，省略了前一句中的完整内容，例如 `så kan vi godt få is`。这是口语中非常自然的条件性回答。",
+            "vocabulary": [
+                {
+                    "da": "hvis",
+                    "zh": "如果、要是",
+                    "note": "引导条件从句"
+                },
+                {
+                    "da": "titte frem",
+                    "zh": "短暂露面、探出来",
+                    "note": "这里指太阳从云后出现"
+                }
+            ],
+            "nuance": "父亲没有直接无条件答应，而是把吃冰淇淋与天气联系起来。`Hvis ..., ja` 简洁、亲切，适合家庭对话；正式写作中通常会把后面的主句说完整。",
+            "transfer": [
+                "Hvis solen titter frem, kan vi spise is.",
+                "Hvis vejret bliver bedre, ja.",
+                "Ja, hvis det ikke regner."
+            ],
+            "pitfall": "`hvis` 表示条件，而 `når` 在描述预计会发生的未来事件时通常带有不同的预设。这里太阳是否露面尚不确定，因此用 `hvis` 很自然。"
+        },
+        {
+            "id": "U26-C016",
+            "zh": "春天来得很慢：最先是花园里的雪滴花和冬菟葵开花，接着山毛榉长出新叶；到了五月，蜜蜂在一望无际的金黄色油菜花田上嗡嗡飞舞。",
+            "grammar": "冒号前 `Foråret kommer langsomt` 是总述，冒号后通过 `Først ... så ... og i maj ...` 按时间顺序描写春季景象。`blomstrer vintergækker og erantis` 因句首 `Først` 触发V2倒装。`springer bøgen ud` 是固定的植物生长表达，指树木抽芽展叶。`i maj summer bierne` 同样采用时间状语前置的V2结构。`rapsmarkernes gule hav` 使用复数所有格和比喻，将大片油菜花田描述成黄色海洋。",
+            "vocabulary": [
+                {
+                    "da": "en vintergæk",
+                    "zh": "雪滴花",
+                    "note": "复数 `vintergækker`；丹麦早春常见花卉"
+                },
+                {
+                    "da": "erantis",
+                    "zh": "冬菟葵、冬季乌头草",
+                    "note": "早春开黄色花的植物；常与雪滴花并列出现"
+                },
+                {
+                    "da": "springe ud",
+                    "zh": "发芽、展叶、开花",
+                    "note": "植物语境中的固定搭配，具体含义取决于植物种类"
+                },
+                {
+                    "da": "summe",
+                    "zh": "嗡嗡作响",
+                    "note": "常用于蜜蜂、昆虫和机器"
+                },
+                {
+                    "da": "en rapsmark",
+                    "zh": "油菜花田、油菜种植田",
+                    "note": "复数 `rapsmarker`；`raps` 是油菜"
+                }
+            ],
+            "nuance": "这是文章中具有文学色彩的自然描写。作者用早春花卉、山毛榉新叶和五月的油菜花，呈现季节逐步推进的节奏。`det gule hav` 式的比喻让大片黄色花田具有视觉冲击力。`springer ud` 尤其值得学习：植物并不是字面意义上的“跳出去”，而是新芽、新叶或花朵展开。",
+            "transfer": [
+                "Først blomstrer de tidlige forårsblomster, og så springer træerne ud.",
+                "Bøgen springer ud i løbet af foråret.",
+                "I maj står rapsmarkerne gule."
+            ],
+            "pitfall": "`springe ud` 用于山毛榉时主要指新叶展开，不应自动译为“开花”。`erantis` 是植物名称，不是普通形容词。`rapsmarkernes` 中的 `-ernes` 表示复数确定形式加所有格。"
+        },
+        {
+            "id": "U26-C017",
+            "zh": "丹麦的夏天短暂而明亮，到了仲夏前后，即使在午夜，天色也几乎不会完全暗下来。",
+            "grammar": "第一分句 `Sommeren er kort og lys` 用两个并列表语概括夏季特点。第二分句以 `omkring midsommer` 开头，后接V2结构 `bliver det`。`næsten ikke` 表示几乎不，`blive mørkt` 描述天色由亮转暗的变化。`ved midnat` 表示午夜时分。",
+            "vocabulary": [
+                {
+                    "da": "midsommer",
+                    "zh": "仲夏、夏至前后",
+                    "note": "en midsommer；与一年中白昼最长的时期有关"
+                },
+                {
+                    "da": "lys",
+                    "zh": "明亮的、光线充足的",
+                    "note": "可以描述季节、房间和环境"
+                },
+                {
+                    "da": "blive mørkt",
+                    "zh": "天色变暗",
+                    "note": "常与非人称主语 `det` 搭配"
+                },
+                {
+                    "da": "næsten ikke",
+                    "zh": "几乎不",
+                    "note": "程度副词与否定词组合"
+                }
+            ],
+            "nuance": "这里的 `lys` 不只是天气晴朗，还强调丹麦高纬度夏季白昼时间长。`næsten ikke mørkt` 是对仲夏夜晚仍有较多暮光的生活化描述，并不是说丹麦全境在午夜都出现严格意义上的极昼。",
+            "transfer": [
+                "Om sommeren er dagene meget lange.",
+                "Omkring midsommer bliver det sent mørkt.",
+                "Det er stadig lyst sent om aftenen."
+            ],
+            "pitfall": "`lys` 可以是形容词“明亮的”，也可以是名词“光、蜡烛”。`næsten ikke` 是几乎不，不等于绝对不会。"
+        },
+        {
+            "id": "U26-C018",
+            "zh": "冬天，树木光秃秃的，田野一片褐色；而在丹麦大片地区，下雪已经变得少见了——许多孩子盼着一个白色圣诞节，却往往等不到。",
+            "grammar": "`Om vinteren` 前置，后接 `er træerne ...` 的V2结构。`træerne nøgne` 和 `markerne brune` 分别描述冬季景象。`sne er blevet sjælden` 使用现在完成时的变化结构 `er blevet + 形容词`，说明到现在已形成的新状态。破折号后的 `venter forgæves på` 表示期待落空。`en hvid jul` 是固定文化表达，指有雪的圣诞节。",
+            "vocabulary": [
+                {
+                    "da": "nøgen",
+                    "zh": "赤裸的、光秃秃的",
+                    "note": "用于树木时表示没有树叶"
+                },
+                {
+                    "da": "sjælden",
+                    "zh": "少见的、罕见的",
+                    "note": "可用于现象、事件和物品"
+                },
+                {
+                    "da": "vente på noget",
+                    "zh": "等待、期盼某事",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "forgæves",
+                    "zh": "徒劳地、白费力气地",
+                    "note": "常搭配 `vente`、`lede`、`forsøge`"
+                },
+                {
+                    "da": "en hvid jul",
+                    "zh": "白色圣诞节、有积雪的圣诞节",
+                    "note": "丹麦冬季和圣诞文化中的常见表达"
+                }
+            ],
+            "nuance": "作者从前一句的明亮仲夏转向冬季的暗淡颜色，形成季节对比。`er blevet sjælden` 强调下雪情况相较过去发生了变化，但没有提供精确的长期统计。`venter forgæves` 带有孩子期待落空的情绪，增加了自然描写中的人情味。",
+            "transfer": [
+                "Om vinteren står træerne uden blade.",
+                "Sne er blevet mere sjælden i vores område.",
+                "Børnene ventede forgæves på en hvid jul."
+            ],
+            "pitfall": "`forgæves` 表示期待或努力没有达到目的，不能简单理解成“等待很久”。`en hvid jul` 是有雪的圣诞节，不是白色装饰主题。"
+        },
+        {
+            "id": "U26-C019",
+            "zh": "偶尔难得有一次，湖面结了冰，人们就会去滑冰。不过，只有在主管部门明确宣布可以上冰时，才应该走到冰面上。",
+            "grammar": "`Når søerne en sjælden gang fryser til` 是时间从句，`fryse til` 表示水面结冰封冻。整个从句前置后，主句采用V2倒装 `går folk`。`gå på skøjter` 是固定搭配。第二分句 `man bør kun gå ud på isen, hvor ...` 中 `bør` 表达规范性建议，`kun` 限定允许行动的条件。`myndighederne har meldt, at færdsel er tilladt` 包含报告动词和宾语从句，`er tilladt` 表示通行已获准的状态。",
+            "vocabulary": [
+                {
+                    "da": "fryse til",
+                    "zh": "结冰封冻",
+                    "note": "通常用于湖泊、池塘等水面"
+                },
+                {
+                    "da": "en sjælden gang",
+                    "zh": "偶尔一次、难得一次",
+                    "note": "强调发生频率低"
+                },
+                {
+                    "da": "gå på skøjter",
+                    "zh": "滑冰",
+                    "note": "固定搭配；`en skøjte` 是冰鞋"
+                },
+                {
+                    "da": "færdsel",
+                    "zh": "通行、交通、人员行走",
+                    "note": "en færdsel；公共安全规则中的常见术语"
+                },
+                {
+                    "da": "være tilladt",
+                    "zh": "被允许、获准",
+                    "note": "与 `være forbudt`（被禁止）相对"
+                }
+            ],
+            "nuance": "本句先描写冬季湖面结冰带来的乐趣，随后立即补充明确的安全限制。`bør kun` 不是随意建议，而是强烈强调安全前提：湖面看起来结冰，并不等于冰层足以承载人的重量。`myndighederne har meldt` 指正式的许可或安全通告，而不是个人主观判断。",
+            "transfer": [
+                "Når søen fryser til, vil mange gerne gå på skøjter.",
+                "Man bør kun gå ud på isen, når det er tilladt.",
+                "Tjek myndighedernes oplysninger, før du går ud på isen."
+            ],
+            "pitfall": "`fryse til` 表示水面结冰，`fryse` 还可以表示人感到冷。`gå på skøjter` 不能逐字理解成“在冰鞋上走路”。不要把 `er tilladt` 当作对冰面安全性的个人推测。"
+        },
+        {
+            "id": "U26-C020",
+            "zh": "丹麦境内任何地方距离大海都不超过大约50公里，海岸线总长超过7000公里，因为丹麦由一座半岛和数百座岛屿组成。",
+            "grammar": "`Intet sted i Danmark` 是带否定意义的地点名词短语，作主语。`ligger mere end omkring 50 kilometer fra havet` 描述距离。第二分句 `kystlinjen er over 7.000 kilometer lang` 使用数量加形容词的长度表达。`fordi landet består af ...` 是原因从句，`bestå af` 表示由若干组成部分构成。",
+            "vocabulary": [
+                {
+                    "da": "intet sted",
+                    "zh": "没有任何地方",
+                    "note": "整体带否定意义"
+                },
+                {
+                    "da": "en kystlinje",
+                    "zh": "海岸线",
+                    "note": "复数 `kystlinjer`"
+                },
+                {
+                    "da": "bestå af noget",
+                    "zh": "由……组成",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "en halvø",
+                    "zh": "半岛",
+                    "note": "复数 `halvøer`"
+                },
+                {
+                    "da": "flere hundrede",
+                    "zh": "数百、好几百",
+                    "note": "表示概数，不是具体的几百个"
+                }
+            ],
+            "nuance": "作者通过距离、海岸线长度和地理构成三个方面说明大海为何在丹麦人的生活中具有重要地位。`intet sted` 是强烈概括，后面的 `omkring` 又保留数字的近似性。学习重点是地理介绍中常用的 `ligge ... fra` 与 `bestå af`。",
+            "transfer": [
+                "Byen ligger kun 20 kilometer fra havet.",
+                "Danmark består af en halvø og mange øer.",
+                "Kystlinjen er flere tusinde kilometer lang."
+            ],
+            "pitfall": "`bestå af` 是由……组成，`bestå en eksamen` 是通过考试。`flere hundrede øer` 中的 `hundrede` 在这种数量结构中不必加复数词尾。"
+        },
+        {
+            "id": "U26-C021",
+            "zh": "西边是北海，那里有宽阔的沙滩、高高的沙丘，以及可能对游泳者构成危险的汹涌碎浪。",
+            "grammar": "`Mod vest` 是表示方位的句首状语，后接V2倒装 `ligger Vesterhavet`。`med brede sandstrande ...` 列举该地区的自然景观。`der kan være farlig for badende` 是修饰 `en brænding` 的关系从句，`kan` 表示可能性，`badende` 是现在分词名词化形式，指正在海里游泳或戏水的人。",
+            "vocabulary": [
+                {
+                    "da": "mod vest",
+                    "zh": "向西、在西边",
+                    "note": "地理方位说明中常见"
+                },
+                {
+                    "da": "Vesterhavet",
+                    "zh": "北海、丹麦西侧海域",
+                    "note": "丹麦语常用这一名称指日德兰半岛西侧的北海"
+                },
+                {
+                    "da": "en sandstrand",
+                    "zh": "沙滩",
+                    "note": "复数 `sandstrande`"
+                },
+                {
+                    "da": "en klit",
+                    "zh": "沙丘",
+                    "note": "复数 `klitter`；丹麦海岸常见地貌"
+                },
+                {
+                    "da": "en brænding",
+                    "zh": "碎浪、拍岸浪、激浪",
+                    "note": "指波浪在浅水或岸边翻卷破碎的区域"
+                }
+            ],
+            "nuance": "句子先描写吸引游客的海滨景色，最后通过 `kan være farlig` 补充安全风险。`brænding` 不是普通的轻微海浪，而是岸边可能具有较强冲击力的碎浪。`badende` 可以包括游泳和戏水的人，不一定专指竞技游泳者。",
+            "transfer": [
+                "Mod vest ligger brede sandstrande og høje klitter.",
+                "Brændingen kan være farlig for badende.",
+                "Der er ofte kraftige bølger ved vestkysten."
+            ],
+            "pitfall": "`Vesterhavet` 在这里指北海，并不是一个独立于北海之外的海洋。`brænding` 是碎浪，不是 `brand`（火灾）。"
+        },
+        {
+            "id": "U26-C022",
+            "zh": "往西南方向是瓦登海，那里每天会有两次潮汐，让大片泥滩和沙地随着退潮露出水面。",
+            "grammar": "`Mod sydvest` 是前置方位状语，后接V2倒装 `ligger Vadehavet`。`hvor tidevandet ... blotlægger ...` 是地点关系从句，`hvor` 指瓦登海这一地理区域。`to gange i døgnet` 表示每24小时两次。`blotlægger` 是及物动词，表示使原本被覆盖的表面显露出来。",
+            "vocabulary": [
+                {
+                    "da": "Vadehavet",
+                    "zh": "瓦登海、瓦登海潮滩地区",
+                    "note": "丹麦西南沿岸的重要潮汐湿地"
+                },
+                {
+                    "da": "tidevand",
+                    "zh": "潮汐、潮水涨落",
+                    "note": "et tidevand；与 `højvande`、`lavvande` 相关"
+                },
+                {
+                    "da": "et døgn",
+                    "zh": "一昼夜、24小时",
+                    "note": "与只表示白天的 `en dag` 不完全相同"
+                },
+                {
+                    "da": "blotlægge",
+                    "zh": "使露出、暴露、显露",
+                    "note": "过去时 `blotlagde`，过去分词 `blotlagt`"
+                },
+                {
+                    "da": "mudder",
+                    "zh": "泥、泥浆",
+                    "note": "通常作为不可数物质名词使用"
+                }
+            ],
+            "nuance": "作者用潮汐造成的地貌变化介绍瓦登海最突出的自然特点。`blotlægge` 是很有迁移价值的动词，既能表示泥滩露出，也能比喻揭露问题、证据或弱点。`i døgnet` 比一般的 `om dagen` 更强调完整的24小时周期。",
+            "transfer": [
+                "Tidevandet blotlægger store områder ved lavvande.",
+                "Vandstanden ændrer sig flere gange i døgnet.",
+                "Undersøgelsen blotlagde en række problemer."
+            ],
+            "pitfall": "`et døgn` 是24小时，不一定从午夜开始。`blotlægge` 既能用于自然表面，也能用于抽象问题，不要仅记成“挖开土地”。"
+        },
+        {
+            "id": "U26-C023",
+            "zh": "退潮时，人们可以走到很远的海床上采集牡蛎，但一定要熟悉潮汐规律，因为海水涨回来往往比很多人想象得快。",
+            "grammar": "`Ved lavvande` 前置为时间及自然条件状语，主句采用 `kan man` 的V2语序。`gå langt ud på havbunden` 结合方向副词 `ud` 与地点介词短语，表示向海里走出很远。`man skal kende tidevandet` 使用 `skal` 表达必要性。最后的 `for vandet kommer ...` 中 `for` 是并列连词，表示原因；`hurtigere ... end mange tror` 是比较结构，后半部分省略了可以由上下文恢复的比较内容。",
+            "vocabulary": [
+                {
+                    "da": "lavvande",
+                    "zh": "低潮、退潮",
+                    "note": "et lavvande；反义词 `højvande`"
+                },
+                {
+                    "da": "en havbund",
+                    "zh": "海床、海底",
+                    "note": "确定形式 `havbunden`"
+                },
+                {
+                    "da": "samle østers",
+                    "zh": "采集牡蛎",
+                    "note": "`østers` 是牡蛎，词形在相关复数用法中通常不变"
+                },
+                {
+                    "da": "tidevand",
+                    "zh": "潮汐",
+                    "note": "此处强调了解涨潮和退潮的时间规律"
+                },
+                {
+                    "da": "komme tilbage",
+                    "zh": "回来、返回",
+                    "note": "用于潮水时表示水位回升、海水重新覆盖潮滩"
+                }
+            ],
+            "nuance": "句子先介绍潮滩徒步和采集牡蛎的乐趣，再通过 `men` 和 `for` 构成明确的安全提醒。`hurtigere tilbage, end mange tror` 特别强调人们容易低估涨潮速度。作者并未鼓励任何人随意进入潮滩，重点是必须具备对潮汐规律的认识。",
+            "transfer": [
+                "Ved lavvande kan man gå langt ud på havbunden.",
+                "Man skal kende tidevandet, før man går ud.",
+                "Vandet kommer hurtigere tilbage, end man forventer."
+            ],
+            "pitfall": "`for` 在这里是表示原因的并列连词，不是介词“为了”。`gå ud på havbunden` 不等于在任何时候都可以安全步行到海底；它依赖低潮和当地条件。"
+        },
+        {
+            "id": "U26-C024",
+            "zh": "不过，说到高山，丹麦可是一座也没有。",
+            "grammar": "这是突出话题的宾语前置结构。`Bjerge` 放在句首，建立讨论话题；限定动词 `har` 仍位于第二位置，后面才是主语 `Danmark`。`derimod` 表示与前文丰富海岸地貌形成对比。`ingen af` 是省略性的数量表达，可理解为在前面提到的这类事物中一个也没有。",
+            "vocabulary": [
+                {
+                    "da": "et bjerg",
+                    "zh": "山、高山",
+                    "note": "复数 `bjerge`"
+                },
+                {
+                    "da": "derimod",
+                    "zh": "相反、相比之下、却",
+                    "note": "强调两个事物或情况之间的对照"
+                },
+                {
+                    "da": "ingen af",
+                    "zh": "其中一个也没有",
+                    "note": "这里的 `af` 与前置的 `bjerge` 形成语义联系"
+                }
+            ],
+            "nuance": "作者故意用比较有口语表现力的倒装方式强调丹麦没有高山。比起普通的 `Danmark har ingen bjerge`，这种写法先把“山”作为话题抛出来，再给出否定结论，形成轻微的幽默效果。",
+            "transfer": [
+                "Bjerge har Danmark ikke mange af.",
+                "Store søer har området derimod flere af.",
+                "Det problem har vi heldigvis ingen af."
+            ],
+            "pitfall": "`Bjerge har Danmark ...` 虽然主语不在句首，仍然是正确的V2陈述句，不能误认成疑问句。`derimod` 是对比词，不是简单的时间连接词“然后”。"
+        },
+        {
+            "id": "U26-C025",
+            "zh": "尽管如此，在日德兰半岛骑自行车有时还是会出乎意料地费劲，尤其是迎面吹来逆风的时候。",
+            "grammar": "`Alligevel` 前置，主句采用V2语序 `kan en cykeltur ... være`。`overraskende hård` 使用程度副词修饰形容词，表示比预想中更费力。`når vinden kommer forfra` 是时间兼条件性质的从句，说明骑车变得艰难的情境。`forfra` 表示从正前方吹来。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此、然而还是",
+                    "note": "引出与前文预期相反的结果"
+                },
+                {
+                    "da": "en cykeltur",
+                    "zh": "一次自行车骑行",
+                    "note": "既可指休闲骑行，也可指一段骑车行程"
+                },
+                {
+                    "da": "overraskende",
+                    "zh": "出人意料地",
+                    "note": "可修饰形容词或描述整个情况"
+                },
+                {
+                    "da": "hård",
+                    "zh": "艰苦的、费力的；坚硬的",
+                    "note": "此处表示体力负担大"
+                },
+                {
+                    "da": "forfra",
+                    "zh": "从前方、迎面",
+                    "note": "表示方向；与 `bagfra` 相对"
+                }
+            ],
+            "nuance": "这一句承接“丹麦没有高山”的说法，打破平坦地形就意味着骑车轻松的预期。`overraskende hård` 很适合描述丹麦逆风骑车的体验。作者将地形与天气联系起来，也再次呼应前面关于强风的内容。",
+            "transfer": [
+                "Alligevel kan turen være ret hård.",
+                "Det er hårdt at cykle, når vinden kommer forfra.",
+                "Turen var overraskende anstrengende."
+            ],
+            "pitfall": "`hård` 用于活动时表示费力，不是活动本身“坚硬”。`forfra` 是从前方，`fremad` 是向前，方向意义不同。"
+        },
+        {
+            "id": "U26-C026",
+            "zh": "因此，丹麦的景观在很大程度上是由人类塑造的：种着小麦、大麦和油菜的方形农田、用来挡风的防护树篱、排水沟，以及如今笔直整齐、过去却曾是蜿蜒溪流的水道。",
+            "grammar": "主句 `Landskabet er ... skabt af mennesker` 使用 `være + 过去分词` 表示形成后的状态，`af mennesker` 引出塑造景观的主体。`derfor` 连接前文地形与农业开发的讨论。`i høj grad` 是程度状语。冒号后以名词短语列举具体景观要素。`rette vandløb, der engang var bugtede åer` 中关系从句说明这些水道过去的自然形态。",
+            "vocabulary": [
+                {
+                    "da": "i høj grad",
+                    "zh": "在很大程度上",
+                    "note": "议论文、分析和说明文中非常常用"
+                },
+                {
+                    "da": "et landskab",
+                    "zh": "景观、地貌",
+                    "note": "复数 `landskaber`"
+                },
+                {
+                    "da": "et læhegn",
+                    "zh": "防风树篱、防护林带",
+                    "note": "`læ` 指背风、遮风的环境"
+                },
+                {
+                    "da": "en grøft",
+                    "zh": "沟渠、排水沟",
+                    "note": "复数 `grøfter`"
+                },
+                {
+                    "da": "et vandløb",
+                    "zh": "水道、河流、溪流",
+                    "note": "复数 `vandløb`；`bugtet` 表示蜿蜒曲折"
+                }
+            ],
+            "nuance": "这一句强调丹麦今天看到的乡村景观并不完全是未经干预的自然环境，而是长期农业经营、排水和地貌改造的结果。`i høj grad` 保持了准确的程度限定，没有声称所有自然景观都由人类创造。最后用笔直水道与过去蜿蜒的河流对照，暗示自然水系曾被人工整治。",
+            "transfer": [
+                "Landskabet er i høj grad præget af landbruget.",
+                "Området er blevet ændret af mennesker gennem mange år.",
+                "Vandløbet var tidligere mere bugtet."
+            ],
+            "pitfall": "`i høj grad` 是在很大程度上，不是“在很高的等级”。`ret` 既可表示正确，也可表示笔直；`rette vandløb` 中指笔直的水道。"
+        },
+        {
+            "id": "U26-C027",
+            "zh": "在公有森林里，原则上人们也可以离开道路和小径自由行走，并采摘浆果、蘑菇和花卉供自己使用。",
+            "grammar": "`I offentlige skove` 前置为地点状语，后面采用V2语序 `må man`。`må` 在这里表示法律或规则允许。`som udgangspunkt` 是插入性限制表达，表示一般情况下、原则上。`færdes uden for veje og stier` 与 `plukke ...` 是两个并列不定式。`til eget forbrug` 是目的或用途状语，说明采集仅供个人使用。",
+            "vocabulary": [
+                {
+                    "da": "en offentlig skov",
+                    "zh": "公有森林、公共森林",
+                    "note": "与 `en privat skov` 相对"
+                },
+                {
+                    "da": "som udgangspunkt",
+                    "zh": "原则上、一般情况下",
+                    "note": "常用于法律、政策和工作规则，暗示可能存在例外"
+                },
+                {
+                    "da": "færdes",
+                    "zh": "通行、行走、活动",
+                    "note": "s-形式动词，常用于公共通行规则"
+                },
+                {
+                    "da": "plukke",
+                    "zh": "采摘",
+                    "note": "常搭配花、浆果、蘑菇等"
+                },
+                {
+                    "da": "til eget forbrug",
+                    "zh": "供个人使用、供自己消费",
+                    "note": "强调非商业性用途"
+                }
+            ],
+            "nuance": "本句介绍公有森林通常较为宽松的公众通行和采集规则。`som udgangspunkt` 尤其值得掌握：它避免把一般规则误写成无条件许可。在现实环境中，某些区域仍可能存在保护、季节或安全限制。`færdes` 比日常的 `gå` 更适合正式的自然管理和通行规定。",
+            "transfer": [
+                "Som udgangspunkt må man færdes i offentlige skove.",
+                "Man må plukke bær og svampe til eget forbrug.",
+                "Det er som udgangspunkt tilladt, medmindre særlige regler gælder."
+            ],
+            "pitfall": "`må` 在这里是“允许”，不是“必须”；与 `skal` 区分。`til eget forbrug` 不意味着可以无限量采集或在所有受保护区域采集。"
+        },
+        {
+            "id": "U26-C028",
+            "zh": "而在私人所有的森林里，一般来说，人们必须沿着道路和小径行走。",
+            "grammar": "`I private skove` 是前置地点状语，后接V2结构 `skal man`。`som hovedregel` 表示作为主要规则、通常情况下。`holde sig til noget` 是反身固定搭配，表示限定自己只在某个范围内活动。",
+            "vocabulary": [
+                {
+                    "da": "en privat skov",
+                    "zh": "私人森林、私有林地",
+                    "note": "土地所有权属于私人"
+                },
+                {
+                    "da": "som hovedregel",
+                    "zh": "通常情况下、作为一般规则",
+                    "note": "正式规则说明中常见"
+                },
+                {
+                    "da": "holde sig til noget",
+                    "zh": "局限于、遵守、只在某个范围内活动",
+                    "note": "反身动词，固定介词 `til`"
+                },
+                {
+                    "da": "en sti",
+                    "zh": "小路、步道",
+                    "note": "复数 `stier`"
+                }
+            ],
+            "nuance": "这句话与前一句形成直接对比：公有森林通常允许更广泛的活动，而私有森林的通行范围通常更受限制。`som hovedregel` 与前一句 `som udgangspunkt` 一样，都体现正式说明中避免绝对化的习惯。",
+            "transfer": [
+                "I private skove skal man som hovedregel holde sig til stierne.",
+                "Vi holder os til den afmærkede rute.",
+                "Som hovedregel gælder der særlige regler på privat ejendom."
+            ],
+            "pitfall": "`holde sig til` 不等于 `holde af`（喜欢）。`privat` 表示所有权性质，不意味着任何公众通行都绝对禁止。"
+        },
+        {
+            "id": "U26-C029",
+            "zh": "也就是说，与瑞典和挪威不同，丹麦并不是所有自然区域都可以自由进入，因为很大一部分土地景观属于私人财产。",
+            "grammar": "`I modsætning til i Sverige og Norge` 是前置比较状语，后接V2存在句 `er der ... ikke fri adgang`。第一个 `til` 属于固定搭配 `i modsætning til`，第二个 `i` 表示在瑞典和挪威境内，两个介词承担不同功能。`altså` 在这里表示根据前文得出结论。`for meget af landskabet er privat ejendom` 中 `for` 是表示原因的并列连词。",
+            "vocabulary": [
+                {
+                    "da": "i modsætning til",
+                    "zh": "与……相比、与……相反",
+                    "note": "正式比较和议论中的高频搭配"
+                },
+                {
+                    "da": "fri adgang til noget",
+                    "zh": "自由进入某处的权利",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "altså",
+                    "zh": "因此、也就是说",
+                    "note": "这里用于总结推论，而非单纯口语停顿"
+                },
+                {
+                    "da": "privat ejendom",
+                    "zh": "私人财产、私有土地",
+                    "note": "公共管理和产权语境中的常用表达"
+                },
+                {
+                    "da": "en modsætning",
+                    "zh": "对立、反差、差异",
+                    "note": "复数 `modsætninger`"
+                }
+            ],
+            "nuance": "作者通过与瑞典、挪威的比较，说明丹麦公众接近自然的权利有不同的法律边界。`altså` 将前两句关于公有森林和私有森林的规则概括为一个更大的结论。`ikke fri adgang til al natur` 的重点是并非所有自然区域都可以无条件进入，而不是说丹麦人完全不能接近自然。",
+            "transfer": [
+                "I modsætning til i Sverige er reglerne anderledes her.",
+                "Der er ikke fri adgang til alle private områder.",
+                "En stor del af området er privat ejendom."
+            ],
+            "pitfall": "`i modsætning til i Sverige` 里的第二个 `i` 不能因为前面已有 `til` 就随意删去。`al natur` 是所有自然区域；`ikke ... al` 表示并非全部，不等于全部禁止。"
+        },
+        {
+            "id": "U26-C030",
+            "zh": "如果不懂得辨认蘑菇，最好就不要吃自己采到的那些蘑菇，因为有些毒性最强的蘑菇与可食用品种长得几乎一模一样，很容易认错。",
+            "grammar": "`Har man ikke forstand på svampe` 是省略 `hvis` 的条件倒装，意思相当于 `Hvis man ikke har forstand på svampe`。主句 `er det klogt at lade være med at spise ...` 使用形式主语 `det`，真正的行为内容由不定式说明。`dem, man finder` 是省略宾语关系代词的关系从句。`for nogle af de giftigste ligner ...` 中 `for` 是因果并列连词，`nogle af de giftigste` 是最高级名词化结构。`til forveksling` 强调外观相似到容易混淆。",
+            "vocabulary": [
+                {
+                    "da": "have forstand på noget",
+                    "zh": "懂得某事、对某领域有鉴别能力",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "lade være med at gøre noget",
+                    "zh": "不要做某事、克制不做某事",
+                    "note": "重要的反身或非反身语境中的固定表达"
+                },
+                {
+                    "da": "giftig",
+                    "zh": "有毒的",
+                    "note": "最高级 `giftigst`；名词化复数 `de giftigste`"
+                },
+                {
+                    "da": "spiselig",
+                    "zh": "可以食用的",
+                    "note": "与 `giftig` 形成对比"
+                },
+                {
+                    "da": "ligne noget til forveksling",
+                    "zh": "与某物相似得几乎无法区分",
+                    "note": "`ligne` 直接接宾语，`til forveksling` 强调容易认错"
+                }
+            ],
+            "nuance": "这是本篇最值得重点掌握的C1复杂句之一。开头用无连接词条件句提出适用人群，中间给出行为建议，最后说明风险原因，论证结构完整。`have forstand på` 不只是知道蘑菇这个词，而是具备真正的识别能力。`til forveksling` 是非常有价值的高级表达，可以迁移到人脸、产品、物种和图像识别等领域。",
+            "transfer": [
+                "Har man ikke forstand på svampe, bør man lade være med at spise dem.",
+                "De to arter ligner hinanden til forveksling.",
+                "Det er klogt at lade være, hvis man er i tvivl."
+            ],
+            "pitfall": "`ligne` 在丹麦语中是及物动词，应说 `ligne en anden art`，不能直接照英语 `look like` 加 `som`。`Har man ...` 是条件倒装，不是直接疑问句。识别野生蘑菇不能只凭是否看起来像可食用品种。"
+        },
+        {
+            "id": "U26-C031",
+            "zh": "十一月一个寒冷的早晨，一个四年级班级跟着一位自然教育向导来到森林里进行户外学习。",
+            "grammar": "`En fjerdeklasse` 是主语，表示一个四年级班级。`er på tur` 是固定状态表达，说明正在参加一次外出活动。`i skoven` 表示地点，`med en naturvejleder` 表示陪同人员。`en kold morgen i november` 是不带介词的时间状语，描写具体的时间背景。",
+            "vocabulary": [
+                {
+                    "da": "en fjerdeklasse",
+                    "zh": "四年级班级",
+                    "note": "不是“四个班级”"
+                },
+                {
+                    "da": "være på tur",
+                    "zh": "正在外出、参加旅行或户外活动",
+                    "note": "常见于学校和幼儿园"
+                },
+                {
+                    "da": "en naturvejleder",
+                    "zh": "自然教育向导、自然讲解员",
+                    "note": "负责介绍自然环境、动植物和户外知识"
+                },
+                {
+                    "da": "en kold morgen",
+                    "zh": "一个寒冷的早晨",
+                    "note": "可以直接作时间状语"
+                }
+            ],
+            "nuance": "作者从自然知识说明转入学校户外教育的具体场景。`naturvejleder` 是值得主动掌握的丹麦社会文化词，体现通过户外活动学习自然知识的教育形式。句子交代年级、陪同人员、地点与季节，为后面的观察活动建立背景。",
+            "transfer": [
+                "Klassen er på tur i skoven.",
+                "Vi tager på tur med en naturvejleder.",
+                "En kold morgen i november gik vi en tur i skoven."
+            ],
+            "pitfall": "`fjerdeklasse` 是四年级班级，不是四个班级。`på tur` 不一定表示长途旅行，也可以是半天的学校户外活动。"
+        },
+        {
+            "id": "U26-C032",
+            "zh": "薄雾仍弥漫在树林之间，学生们沿着小路紧紧地走在一起。",
+            "grammar": "第一分句 `Tågen ligger stadig mellem træerne` 使用 `ligger` 描述雾持续笼罩的状态。`stadig` 表示雾尚未散去。第二分句 `eleverne går tæt sammen på stien` 中 `tæt sammen` 表示彼此距离很近，`på stien` 说明行走的位置。",
+            "vocabulary": [
+                {
+                    "da": "tåge",
+                    "zh": "雾",
+                    "note": "en tåge；常见搭配 `tæt tåge`"
+                },
+                {
+                    "da": "ligge",
+                    "zh": "位于、处于某种状态",
+                    "note": "天气描写中可说 `tågen ligger over landskabet`"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、依旧",
+                    "note": "强调状态持续"
+                },
+                {
+                    "da": "tæt sammen",
+                    "zh": "紧靠在一起、彼此距离很近",
+                    "note": "可用于人群或物体"
+                },
+                {
+                    "da": "en sti",
+                    "zh": "步道、小路",
+                    "note": "复数 `stier`"
+                }
+            ],
+            "nuance": "这是一幅安静而略带寒意的森林晨景。`Tågen ligger` 不必按字面想象雾平躺在那里，它是描写雾笼罩某片区域的自然说法。`tæt sammen` 可以仅表示学生们走得很近，不必额外推断他们一定感到害怕。",
+            "transfer": [
+                "Tågen ligger stadig over skoven.",
+                "Eleverne går tæt sammen på stien.",
+                "Det er svært at se langt i den tætte tåge."
+            ],
+            "pitfall": "`ligge` 在自然描写中可以表示静态分布，不只是人或物“躺着”。`tæt` 既可以表示距离近，也可以表示浓密，例如 `tæt tåge`。"
+        },
+        {
+            "id": "U26-C033",
+            "zh": "自然向导：大家先停一下。你们听见它的声音了吗？",
+            "grammar": "`Stop` 是祈使式。`lige` 是语气小品词，令指令听起来更自然、较不生硬；`et øjeblik` 限定停下的时间。`Kan I høre den?` 是情态动词疑问句，`den` 指向某个尚未被学生识别的动物或声音来源，具体对象要由后文揭晓。",
+            "vocabulary": [
+                {
+                    "da": "stoppe et øjeblik",
+                    "zh": "稍微停一下",
+                    "note": "常见于课堂、导览和日常交流"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下、稍微",
+                    "note": "在请求或指令中常用来柔化语气"
+                },
+                {
+                    "da": "høre",
+                    "zh": "听见",
+                    "note": "过去时 `hørte`"
+                }
+            ],
+            "nuance": "向导没有直接说出动物名称，而是先请孩子们停下倾听，激发观察兴趣。`Stop lige et øjeblik` 比单独大声说 `Stop!` 更适合教学引导。`den` 暂时不揭示对象，为后面的啄木鸟观察制造悬念。",
+            "transfer": [
+                "Stop lige et øjeblik.",
+                "Kan I høre den lyd?",
+                "Prøv lige at lytte."
+            ],
+            "pitfall": "`lige` 在这里不是“刚刚”，而是柔化指令的语气词。`høre` 是听见，`lytte til` 是主动倾听，侧重点不同。"
+        },
+        {
+            "id": "U26-C034",
+            "zh": "艾玛：什么声音？你说什么？",
+            "grammar": "`Hvad for noget?` 是固定的口语疑问表达，常用来表示没听清、没理解或不知道对方指什么。整体功能不能通过单独翻译 `hvad`、`for` 和 `noget` 来准确理解。",
+            "vocabulary": [
+                {
+                    "da": "Hvad for noget?",
+                    "zh": "什么？你说什么？",
+                    "note": "自然口语中的请求澄清或表示困惑"
+                }
+            ],
+            "nuance": "艾玛还不知道向导要大家听什么，因此用一句非常口语化的短问句回应。它不一定表示反对，也不必理解为态度不礼貌。",
+            "transfer": [
+                "Hvad for noget?",
+                "Hvad mener du?",
+                "Hvad er det, vi skal høre?"
+            ],
+            "pitfall": "`Hvad for noget?` 应整体记忆，不宜拆成“什么为了某物”。根据语调，它可以表示疑惑、惊讶或没听清。"
+        },
+        {
+            "id": "U26-C035",
+            "zh": "自然向导：那上面有一只啄木鸟。它正在啄树皮，想从里面找昆虫吃。",
+            "grammar": "`Der sidder en spætte deroppe` 是存在式场景描写，`der` 引入新对象，`deroppe` 表示高处的位置。`sidder` 用于描写鸟停在树上的姿态。第二句 `Den hakker i barken for at finde insekter` 中 `hakke i` 表示反复啄击，`for at` 引导目的不定式。",
+            "vocabulary": [
+                {
+                    "da": "en spætte",
+                    "zh": "啄木鸟",
+                    "note": "复数 `spætter`"
+                },
+                {
+                    "da": "deroppe",
+                    "zh": "那上面、那边高处",
+                    "note": "与 `dernede`（那下面）对照"
+                },
+                {
+                    "da": "hakke i noget",
+                    "zh": "啄、凿、反复敲击某物",
+                    "note": "用于鸟啄树皮等动作"
+                },
+                {
+                    "da": "bark",
+                    "zh": "树皮",
+                    "note": "en bark；自然观察语境中的常用名词"
+                },
+                {
+                    "da": "et insekt",
+                    "zh": "昆虫",
+                    "note": "复数 `insekter`"
+                }
+            ],
+            "nuance": "向导采用由位置到行为、再到行为目的的讲解顺序，非常适合自然教育。`sidder` 对鸟来说是停栖在某处，而不是人类坐在椅子上的姿势。`for at finde insekter` 将学生注意力从啄击的声音转向动物觅食行为。",
+            "transfer": [
+                "Der sidder en fugl oppe i træet.",
+                "Spætten hakker i barken for at finde insekter.",
+                "Kan du se fuglen deroppe?"
+            ],
+            "pitfall": "`sidde` 不只能表示人坐着，也常用于鸟停在树枝上。`der` 和 `deroppe` 在同一句中的功能不同：前者引入对象，后者明确位置。"
+        },
+        {
+            "id": "U26-C036",
+            "zh": "艾玛：我什么都看不见。",
+            "grammar": "`Jeg kan ikke se noget` 使用情态动词 `kan` 加不定式 `se`。`ikke noget` 表示什么也看不见，`noget` 在这里受到否定范围的影响。",
+            "vocabulary": [
+                {
+                    "da": "ikke se noget",
+                    "zh": "什么也看不见",
+                    "note": "自然的否定表达"
+                },
+                {
+                    "da": "kunne se",
+                    "zh": "能够看见",
+                    "note": "强调视觉条件是否允许看见某物"
+                }
+            ],
+            "nuance": "艾玛直接说明自己的困难，为向导进一步提供视觉定位指示创造机会。表达简短而自然。",
+            "transfer": [
+                "Jeg kan ikke se noget.",
+                "Jeg kan ikke få øje på fuglen.",
+                "Hvor skal jeg kigge?"
+            ],
+            "pitfall": "`se` 表示看见，`kigge` 更强调主动看向某处。这里她的困难在于尚未发现目标，所以两者可以在后续对话中形成自然衔接。"
+        },
+        {
+            "id": "U26-C037",
+            "zh": "自然向导：顺着那边那棵大树的树干往上看。大约在树干一半高的地方，就在那根折断的树枝正下方。",
+            "grammar": "第一部分 `Kig op langs stammen ...` 是祈使句，`op` 表示视线向上移动，`langs stammen` 表示沿着树干的方向。`det store træ derhenne` 通过名词后的地点副词 `derhenne` 指向较远的那棵树。第二部分 `Halvvejs oppe, lige under ...` 是省略句，没有显式谓语，但在现场指示中非常自然。",
+            "vocabulary": [
+                {
+                    "da": "kigge op",
+                    "zh": "抬头看、向上看",
+                    "note": "方向副词 `op`"
+                },
+                {
+                    "da": "langs stammen",
+                    "zh": "沿着树干",
+                    "note": "`en stamme` 是树干；`langs` 表示沿着"
+                },
+                {
+                    "da": "derhenne",
+                    "zh": "那边、较远处",
+                    "note": "常用于指向说话人与听话人之外较远的位置"
+                },
+                {
+                    "da": "halvvejs oppe",
+                    "zh": "在上方一半的位置、约在半高处",
+                    "note": "自然的空间定位表达"
+                },
+                {
+                    "da": "en knækket gren",
+                    "zh": "折断的树枝",
+                    "note": "`knækket` 是 `knække` 的过去分词"
+                }
+            ],
+            "nuance": "向导没有重复告诉艾玛“那里有一只鸟”，而是给出可以实际操作的视觉定位路径：先找到大树，再沿树干向上看，最后锁定折断树枝下方的位置。这是丹麦语中非常典型的现场空间指示方式。省略句 `Halvvejs oppe ...` 让指导简洁、有现场感。",
+            "transfer": [
+                "Kig op langs stammen på det store træ.",
+                "Den sidder halvvejs oppe.",
+                "Se lige under den knækkede gren."
+            ],
+            "pitfall": "`derhenne` 表示远处的位置，`herhenne` 指较靠近说话人的这边。`halvvejs` 是在一半的路程或高度处，不一定只用于空间，也可用于项目进度。"
+        },
+        {
+            "id": "U26-C038",
+            "zh": "艾玛：现在我看到了！它头上有红色的羽毛！",
+            "grammar": "`Nu` 位于句首，后接V2倒装 `ser jeg`，强调此前看不见而现在看见了。`den` 指啄木鸟。`Den er rød på hovedet` 使用颜色形容词和身体部位状语，表示头部呈红色。",
+            "vocabulary": [
+                {
+                    "da": "Nu ser jeg den!",
+                    "zh": "现在我看到它了！",
+                    "note": "发现此前难以找到的对象时很自然"
+                },
+                {
+                    "da": "rød på hovedet",
+                    "zh": "头部是红色的",
+                    "note": "描述动物局部身体颜色"
+                }
+            ],
+            "nuance": "`Nu` 是关键的情境变化信号，突出艾玛在得到具体指导后终于发现啄木鸟。感叹语气表现出观察成功的兴奋。句子只说明头部有红色特征，不能据此自动确定具体啄木鸟物种。",
+            "transfer": [
+                "Nu kan jeg se den!",
+                "Den har røde fjer på hovedet.",
+                "Nu fik jeg øje på fuglen."
+            ],
+            "pitfall": "`rød på hovedet` 描述头部颜色，不是整只鸟都是红色。`nu ser jeg` 采用V2语序，不是 `nu jeg ser`。"
+        },
+        {
+            "id": "U26-C039",
+            "zh": "自然向导：找得好！你们过来这边，我再带你们看点别的。",
+            "grammar": "`Godt set` 是省略性赞扬表达，相当于“观察得好”。`Kom herover` 是祈使句，`herover` 是方向副词，表示向说话人所在的这一边移动。`så skal I se noget andet` 使用 `så` 引出接下来的结果或安排。`skal` 在此表达马上要给孩子们看的内容。",
+            "vocabulary": [
+                {
+                    "da": "Godt set!",
+                    "zh": "看得准！发现得好！",
+                    "note": "用于赞扬观察到某个细节，也可赞扬敏锐的判断"
+                },
+                {
+                    "da": "herover",
+                    "zh": "到这边来",
+                    "note": "表示朝说话人所在方向移动"
+                },
+                {
+                    "da": "noget andet",
+                    "zh": "别的东西、另一件事物",
+                    "note": "泛指尚未具体说明的新内容"
+                }
+            ],
+            "nuance": "`Godt set` 是很值得记忆的自然口语表达，除了称赞视觉观察，还可以用来表扬对某个问题的敏锐发现。`Kom herover` 比只说 `Kom` 更明确地给出移动方向。整句话体现鼓励、引导与继续探索的教学节奏。",
+            "transfer": [
+                "Godt set! Det havde jeg ikke lagt mærke til.",
+                "Kom herover, så skal du se noget spændende.",
+                "Prøv at kigge på det her."
+            ],
+            "pitfall": "`Godt set` 不只是“看得很好”，还可表示“观察得很敏锐”。`herover` 是移动方向，`her` 则主要表示静态位置。"
+        },
+        {
+            "id": "U26-C040",
+            "zh": "当这么大面积的土地都被用于耕种时，野生动植物能够生存的空间自然就减少了。",
+            "grammar": "`Når så meget jord bliver dyrket` 是表示一般规律的条件性时间从句。`bliver dyrket` 是 `blive` 被动，说明土地被用于农业耕作。整个从句前置后，主句采用V2存在句 `bliver der mindre plads`，这里 `bliver` 表示可用空间逐渐减少。`til vilde dyr og planter` 说明这些空间供哪些生物使用。",
+            "vocabulary": [
+                {
+                    "da": "dyrke jord",
+                    "zh": "耕种土地、进行农业生产",
+                    "note": "`dyrke` 也可搭配作物、运动或兴趣"
+                },
+                {
+                    "da": "vild",
+                    "zh": "野生的；野性的",
+                    "note": "复数 `vilde`；自然保护语境中指非人工栽培或驯养的生物"
+                },
+                {
+                    "da": "mindre plads til",
+                    "zh": "供……使用的空间更少",
+                    "note": "固定搭配 `plads til`"
+                },
+                {
+                    "da": "så meget",
+                    "zh": "这么多、如此大量",
+                    "note": "这里修饰不可数的 `jord`"
+                }
+            ],
+            "nuance": "作者从森林观察切换到生物多样性问题，建立农业土地利用与野生动植物栖息空间之间的关系。`Når ... bliver dyrket` 不是单次事件，而是解释普遍规律。`mindre plads` 既有实际空间含义，也隐含栖息地减少的生态意义。",
+            "transfer": [
+                "Når mere jord bliver dyrket, bliver der mindre plads til naturen.",
+                "Der er mindre plads til vilde dyr i området.",
+                "Landbruget fylder en stor del af landskabet."
+            ],
+            "pitfall": "`dyrke` 在这里是耕种，不是“培养兴趣”的含义。`plads til` 表示供某人或某物使用的空间，介词不能漏掉。"
+        },
+        {
+            "id": "U26-C041",
+            "zh": "许多研究人员指出，农业生产，加上湿地排水改造和城市扩张，是导致许多物种数量下降的主要原因之一。",
+            "grammar": "主句 `Mange forskere peger på, at ...` 使用固定搭配 `pege på` 引出研究者提出的解释。`at` 宾语从句内部，主语是 `landbruget`，插入语 `sammen med dræning af vådområder og byernes vækst` 补充其他因素。`er en af hovedårsagerne til, at ...` 使用原因名词加结果从句结构。`mange arter er gået tilbage` 是现在完成时，`gå tilbage` 在生态语境中表示种群、分布或整体状况出现衰退。",
+            "vocabulary": [
+                {
+                    "da": "pege på noget",
+                    "zh": "指出、认为某事是重要因素",
+                    "note": "研究和政策分析中的常用搭配"
+                },
+                {
+                    "da": "dræning",
+                    "zh": "排水、人工排干土地",
+                    "note": "en dræning；相关动词 `dræne`"
+                },
+                {
+                    "da": "et vådområde",
+                    "zh": "湿地",
+                    "note": "复数 `vådområder`"
+                },
+                {
+                    "da": "en hovedårsag",
+                    "zh": "主要原因",
+                    "note": "复数 `hovedårsager`；常见 `en af hovedårsagerne til`"
+                },
+                {
+                    "da": "gå tilbage",
+                    "zh": "衰退、减少、退步",
+                    "note": "可描述物种数量、经济表现和能力"
+                }
+            ],
+            "nuance": "这是文章中最重要的环境分析句之一。`peger på` 表示研究人员根据证据指出相关因素，比绝对化的 `beviser` 更符合审慎的科学表达。`en af hovedårsagerne` 强调农业及土地利用变化是多个重要原因中的一组，而非唯一解释。句子还通过插入语把湿地排水和城市扩张纳入考虑。",
+            "transfer": [
+                "Forskere peger på flere hovedårsager til tilbagegangen.",
+                "Dræning af vådområder påvirker biodiversiteten.",
+                "Mange arter er gået tilbage i de seneste årtier."
+            ],
+            "pitfall": "`gå tilbage` 在这里是数量或状况衰退，不是物种自己走回某个地方。`en af hovedårsagerne til, at ...` 后面的 `at` 从句表示造成的结果，不能漏掉前面的介词 `til`。"
+        },
+        {
+            "id": "U26-C042",
+            "zh": "丹麦几乎所有饮用水都来自地下水。这些水从地下土层中抽取出来，只经过非常简单的处理，就会流入家家户户的水龙头。",
+            "grammar": "主句 `Næsten alt drikkevand ... er grundvand` 使用系表结构定义饮用水来源。`som pumpes op fra jordlagene og kun behandles meget let` 是关系从句，其中两个并列的s-被动 `pumpes op` 与 `behandles` 描述地下水的抽取和处理。`før det løber ud af hanen` 是时间从句，说明处理发生在水流出水龙头之前。",
+            "vocabulary": [
+                {
+                    "da": "drikkevand",
+                    "zh": "饮用水",
+                    "note": "et drikkevand；通常作为不可数概念使用"
+                },
+                {
+                    "da": "grundvand",
+                    "zh": "地下水",
+                    "note": "et grundvand；环境和供水领域的重要词汇"
+                },
+                {
+                    "da": "pumpe noget op",
+                    "zh": "把某物抽上来",
+                    "note": "常用于地下水、石油和液体"
+                },
+                {
+                    "da": "et jordlag",
+                    "zh": "土层、地层",
+                    "note": "复数 `jordlag`"
+                },
+                {
+                    "da": "løbe ud af hanen",
+                    "zh": "从水龙头流出来",
+                    "note": "`en hane` 在这里是水龙头，不是公鸡"
+                }
+            ],
+            "nuance": "作者通过地下水来源和较少处理的特点，介绍丹麦饮用水系统值得重视的自然条件。`kun behandles meget let` 与许多地区依赖复杂水处理的情况形成隐含对照，但句子并未具体列举丹麦水厂所有可能采用的处理技术。`løbe ud af hanen` 是非常实用的生活表达。",
+            "transfer": [
+                "Det meste af drikkevandet kommer fra grundvand.",
+                "Grundvandet pumpes op fra jordlagene.",
+                "Vandet løber direkte ud af hanen."
+            ],
+            "pitfall": "`en hane` 可以指公鸡，也可以指水龙头，语境决定含义。`behandles` 是s-被动；`behandle vand` 表示处理水，不是医疗上的治疗。"
+        },
+        {
+            "id": "U26-C043",
+            "zh": "这是一种难得的优越条件，但它有一个重要前提：地下水不能受到地表农药及其他化学物质的污染。",
+            "grammar": "第一分句 `Det er en sjælden luksus` 对前文饮用水条件作出评价。第二分句 `den forudsætter, at ...` 中 `den` 回指前面这种珍贵的便利或条件。`forudsætte` 后接 `at` 宾语从句。`grundvandet ikke bliver forurenet` 是从句语序，否定词 `ikke` 位于限定动词 `bliver` 前。`blive forurenet af` 是被动，说明污染来源。",
+            "vocabulary": [
+                {
+                    "da": "en sjælden luksus",
+                    "zh": "难得的优越条件、少见的便利",
+                    "note": "`luksus` 在这里是比喻，不一定指奢侈消费"
+                },
+                {
+                    "da": "forudsætte",
+                    "zh": "以……为前提、要求具备某种条件",
+                    "note": "可接名词或 `at` 从句"
+                },
+                {
+                    "da": "forurene",
+                    "zh": "污染",
+                    "note": "过去分词 `forurenet`；名词 `forurening`"
+                },
+                {
+                    "da": "sprøjtemidler",
+                    "zh": "喷洒使用的农药或植保化学品",
+                    "note": "复数或集合用法；环境讨论中的常见词"
+                },
+                {
+                    "da": "overfladen",
+                    "zh": "表面、地表",
+                    "note": "这里指土壤和地面表层"
+                }
+            ],
+            "nuance": "本句是对饮用水优势的必要补充。作者并没有把地下水质量视为理所当然，而是强调它依赖长期环境保护。`en sjælden luksus` 带有感叹和珍惜的意味，`forudsætter` 则将这种感受转化为明确的生态条件。非常适合用于环境政策与公共卫生讨论。",
+            "transfer": [
+                "Rent drikkevand er en sjælden luksus mange steder.",
+                "Det forudsætter, at grundvandet bliver beskyttet.",
+                "Grundvandet må ikke blive forurenet af sprøjtemidler."
+            ],
+            "pitfall": "`forudsætte` 不是单纯的 `forvente`（期待），而是“以某事为必要前提”。`forurenet af` 的 `af` 表示污染来源，不是处理污染的方式。"
+        },
+        {
+            "id": "U26-C044",
+            "zh": "对许多丹麦人来说，大自然首先是一个让人能够置身其中、自在待着的地方。",
+            "grammar": "`For mange danskere` 是句首评价对象状语，后面采用V2倒装 `er naturen`。`først og fremmest` 是固定程度表达，表示首要性质。`et sted at være` 由名词 `sted` 加不定式结构构成，表示一个可以待着、可以置身其中的场所。",
+            "vocabulary": [
+                {
+                    "da": "først og fremmest",
+                    "zh": "首先、最重要的是",
+                    "note": "强调核心特征或首要目的"
+                },
+                {
+                    "da": "et sted at være",
+                    "zh": "一个可以待着的地方、一个供人置身其中的空间",
+                    "note": "简单但富有表达力的名词加不定式结构"
+                },
+                {
+                    "da": "naturen",
+                    "zh": "大自然、自然环境",
+                    "note": "确定形式，指前文讨论的整体自然环境"
+                }
+            ],
+            "nuance": "这句话具有明显的价值表达：大自然不仅是资源、生产空间或科学研究对象，也可以是人们单纯享受存在、放松身心的地方。`et sted at være` 看似简单，却比 `et sted at dyrke sport` 更宽泛，强调不一定需要明确的活动目标。",
+            "transfer": [
+                "For mig er naturen først og fremmest et sted at slappe af.",
+                "Skoven er et godt sted at være.",
+                "For mange mennesker er havet et sted, hvor de finder ro."
+            ],
+            "pitfall": "`et sted at være` 不是没有内容的废话，而是有意强调“待在那里”本身的价值。`først og fremmest` 不意味着自然没有其他用途。"
+        },
+        {
+            "id": "U26-C045",
+            "zh": "人们会带狗到森林里散步，沿着海岸骑车，在简易户外庇护棚中过夜，到湖里钓鱼，还会在春天采摘野蒜。",
+            "grammar": "句子使用泛指主语 `Man`，后接五个并列的现在时谓语：`går`、`cykler`、`sover`、`fisker`、`plukker`。这种平行列举使动作节奏紧凑，很适合描述某个国家的生活习惯。`langs kysten` 表示沿着海岸的路线；`i søerne` 表示湖泊中的活动地点；`i foråret` 表示春季。",
+            "vocabulary": [
+                {
+                    "da": "gå tur med hunden",
+                    "zh": "带狗散步、遛狗",
+                    "note": "非常自然的日常表达"
+                },
+                {
+                    "da": "langs kysten",
+                    "zh": "沿着海岸",
+                    "note": "`langs` 表示沿线移动"
+                },
+                {
+                    "da": "et shelter",
+                    "zh": "简易户外庇护棚、露营过夜棚",
+                    "note": "丹麦户外休闲语境中常指开放式或半开放式木制过夜设施"
+                },
+                {
+                    "da": "fiske",
+                    "zh": "钓鱼、捕鱼",
+                    "note": "一般活动动词；名词 `en fisk` 是鱼"
+                },
+                {
+                    "da": "ramsløg",
+                    "zh": "熊葱、野蒜",
+                    "note": "春季可见的野生植物，具有明显蒜香"
+                }
+            ],
+            "nuance": "作者通过五个具体活动把前一句抽象的 `et sted at være` 展开为丹麦日常户外生活。`shelter` 是重要的本地文化词，通常不是灾难应急避难所，而是自然区域中的简易露营设施。`ramsløg` 也是丹麦春季采集文化中常出现的植物名称。",
+            "transfer": [
+                "Vi går tur med hunden i skoven.",
+                "Om sommeren cykler vi langs kysten og overnatter i shelter.",
+                "I foråret kan man finde ramsløg i skoven."
+            ],
+            "pitfall": "`shelter` 在丹麦户外语境中的具体含义不同于英语里所有类型的庇护所。采摘野生植物前应确认物种和当地采集规则，不能因为原文提到 `ramsløg` 就认定所有类似叶片都能安全食用。"
+        },
+        {
+            "id": "U26-C046",
+            "zh": "丹麦的孩子们从小就逐渐习惯了待在户外。",
+            "grammar": "`Danske børn` 作主语，`vænner sig til` 是反身固定结构，表示逐渐适应或养成习惯。`tidligt` 表示在较小年龄阶段就开始。`at være udenfor` 是介词 `til` 后面的不定式内容，说明习惯的具体行为。",
+            "vocabulary": [
+                {
+                    "da": "vænne sig til noget",
+                    "zh": "习惯于某事、逐渐适应某种情况",
+                    "note": "固定反身结构；过去时 `vænnede sig til`"
+                },
+                {
+                    "da": "tidligt",
+                    "zh": "很早、在早期",
+                    "note": "这里指从小开始"
+                },
+                {
+                    "da": "udenfor",
+                    "zh": "在外面、在户外",
+                    "note": "此处是副词；`uden for` 常作为介词结构使用"
+                }
+            ],
+            "nuance": "`vænner sig til` 强调习惯并非天生如此，而是通过早期的生活经历逐渐形成。作者将丹麦的户外文化与儿童成长联系起来，并自然引出下一句关于婴儿户外午睡的习俗。",
+            "transfer": [
+                "Børnene vænner sig tidligt til at være udenfor.",
+                "Jeg har vænnet mig til det danske vejr.",
+                "Det tager tid at vænne sig til en ny hverdag."
+            ],
+            "pitfall": "`vænne sig til` 的反身代词不能省略。不要与 `være vant til` 混淆：前者侧重逐渐习惯的过程，后者强调已经习惯的状态。"
+        },
+        {
+            "id": "U26-C047",
+            "zh": "许多婴儿会在花园或阳台上的婴儿车里睡午觉，即使在冬天也是如此；他们会被羽绒被和帽子仔细裹好，保暖防寒。",
+            "grammar": "主句 `Mange spædbørn sover deres middagslur` 说明婴儿午睡的习惯。`i barnevognen` 表示睡觉的位置，`i haven eller på altanen` 进一步说明婴儿车放在哪里。`også om vinteren` 是强调性时间状语，突出冬季也有这种情况。`godt pakket ind i dyner og huer` 是过去分词短语，补充说明婴儿所处的包裹保暖状态，其中 `pakket ind` 来自固定结构 `pakke nogen ind`。",
+            "vocabulary": [
+                {
+                    "da": "et spædbarn",
+                    "zh": "婴儿",
+                    "note": "复数 `spædbørn`"
+                },
+                {
+                    "da": "sove middagslur",
+                    "zh": "睡午觉、午睡",
+                    "note": "也可说 `tage en middagslur`"
+                },
+                {
+                    "da": "en barnevogn",
+                    "zh": "婴儿车",
+                    "note": "复数 `barnevogne`"
+                },
+                {
+                    "da": "en altan",
+                    "zh": "阳台",
+                    "note": "复数 `altaner`；通常说 `på altanen`"
+                },
+                {
+                    "da": "pakke nogen godt ind",
+                    "zh": "把某人仔细裹好、包暖和",
+                    "note": "固定小品词结构；`godt` 强调包裹充分"
+                }
+            ],
+            "nuance": "这是丹麦育儿文化中具有辨识度的生活场景。`også om vinteren` 强调对不熟悉这种做法的读者而言可能感到意外的季节条件。`godt pakket ind` 说明作者关注保暖，而不是让婴儿毫无防护地暴露于寒冷之中。这是习俗描写，并非建议在任何温度、天气或监护条件下都让婴儿在户外睡觉。",
+            "transfer": [
+                "Barnet sover middagslur i barnevognen.",
+                "Hun ligger godt pakket ind i en varm dyne.",
+                "Mange børn sover udenfor, også når det er koldt."
+            ],
+            "pitfall": "`en dyne` 是被子，不能与 `en pude`（枕头）混淆。`på altanen` 使用 `på`。原句描述文化实践，不代表户外婴儿午睡在任何天气条件下都安全。"
+        },
+        {
+            "id": "U26-C048",
+            "zh": "人们常说：“没有不好的天气，只有没穿对的衣服。”",
+            "grammar": "`Der findes ikke ...` 是存在结构，用于说明不存在某种事物或情况。逗号后的 `kun dårligt tøj` 省略了与前半句重复的谓语，可以补足为 `der findes kun dårligt tøj`。`siger et udbredt mundheld` 是后置引述结构，限定动词 `siger` 位于前面整段引语之后，用于交代这是一句流传广泛的俗语。",
+            "vocabulary": [
+                {
+                    "da": "der findes",
+                    "zh": "存在、有",
+                    "note": "表示某种事物客观上存在或不存在"
+                },
+                {
+                    "da": "dårligt vejr",
+                    "zh": "坏天气、恶劣天气",
+                    "note": "`dårlig` 的中性形式 `dårligt` 修饰 `vejr`"
+                },
+                {
+                    "da": "et mundheld",
+                    "zh": "俗语、民间常说的话",
+                    "note": "复数 `mundheld`"
+                },
+                {
+                    "da": "udbredt",
+                    "zh": "广泛流传的、普遍存在的",
+                    "note": "来自动词 `udbrede`"
+                },
+                {
+                    "da": "kun",
+                    "zh": "只有、仅仅",
+                    "note": "与前面的否定形成鲜明对比"
+                }
+            ],
+            "nuance": "这句俗语是全篇自然与户外生活主题的总结。它以略带幽默的绝对化表达强调：与其因为天气不理想就放弃户外活动，不如先考虑穿着和装备是否合适。这里的 `dårligt tøj` 不是说衣服质量低劣，而是指衣物不适合当前天气。作为俗语，它表达的是积极应对天气的生活态度，并不意味着暴风、危险冰况等真正恶劣的天气没有风险。",
+            "transfer": [
+                "Der findes ikke dårligt vejr, kun dårligt tøj.",
+                "Det handler om at klæde sig på efter vejret.",
+                "Med det rigtige tøj kan man være meget mere udenfor."
+            ],
+            "pitfall": "`et mundheld` 是俗语，不是字面意义上的口头动作。`der findes` 表示存在，与 `der er` 在许多语境中接近，但更强调是否存在某事物。不要把这句俗语理解为任何极端天气下都必须外出。"
+        }
+    ]
+}

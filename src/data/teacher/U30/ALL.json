@@ -1,0 +1,2055 @@
+{
+    "schema_version": 1,
+    "unit": "U30",
+    "part": "ALL",
+    "source_fingerprint": "U30-ALL-64624ac7faf8",
+    "sentences": [
+        {
+            "id": "U30-C001",
+            "zh": "1820年，汉斯·克里斯蒂安·奥斯特在哥本哈根的一场讲座中接通电路时，一根指南针指针发生了偏转。",
+            "grammar": "句首 `Da H.C. Ørsted … sluttede en strømkreds` 是时间从句，交代发现发生的背景。主句 `flyttede en kompasnål sig` 遵循 V2 语序：整个时间从句占据第一位置，限定动词 `flyttede` 紧随其后，主语 `en kompasnål` 后移。`flytte sig` 是反身结构，表示自身发生位移。`slutte en strømkreds` 是电学搭配，表示闭合或接通电路。",
+            "vocabulary": [
+                {
+                    "da": "slutte en strømkreds",
+                    "zh": "闭合电路；接通电路",
+                    "note": "电学术语；`slutte` 在这里不是结束"
+                },
+                {
+                    "da": "en forelæsning",
+                    "zh": "讲座；大学授课",
+                    "note": "`holde en forelæsning` 作讲座"
+                },
+                {
+                    "da": "en kompasnål",
+                    "zh": "指南针指针",
+                    "note": "`et kompas` 指南针；`en nål` 针"
+                },
+                {
+                    "da": "flytte sig",
+                    "zh": "移动；发生位移",
+                    "note": "反身结构；这里描述指针偏转"
+                }
+            ],
+            "nuance": "作者以科学史上的一个具体观察作为开篇，而不是直接解释抽象的科学方法。`Da` 将接通电路和指针移动放在同一个时间场景中，让读者注意两种现象之间可能存在的联系。不过，单纯的时间先后或同时发生还不能独立证明因果关系，这也为下一段关于假设和检验的讨论作铺垫。",
+            "transfer": [
+                "Da forskeren tændte for apparatet, begyndte måleren at bevæge sig.",
+                "Under forelæsningen lagde han mærke til noget usædvanligt.",
+                "Da forsøget begyndte, ændrede resultatet sig."
+            ],
+            "pitfall": "`slutte en strømkreds` 是闭合电路，不是结束一条电路。`flytte sig` 强调物体自己发生移动，区别于 `flytte noget` 移动某个物体。"
+        },
+        {
+            "id": "U30-C002",
+            "zh": "这个故事经常被讲成一次幸运的偶然发现。",
+            "grammar": "主语 `Historien` 后接 `bliver ofte fortalt`，使用 `blive + 过去分词` 构成现在时被动，强调故事通常如何被讲述，而非由谁讲述。`som et lykketræf` 是补充说明，表示故事被描述成什么性质的事件。`ofte` 位于助动词与过去分词之间。",
+            "vocabulary": [
+                {
+                    "da": "et lykketræf",
+                    "zh": "幸运的巧合；意外的好运",
+                    "note": "`lykke` 幸运；`træf` 在复合词中涉及偶然碰上的事件"
+                },
+                {
+                    "da": "blive fortalt som",
+                    "zh": "被讲述成；被描述为",
+                    "note": "用于分析历史叙事或公众印象"
+                },
+                {
+                    "da": "en historie",
+                    "zh": "故事；历史叙述",
+                    "note": "根据语境可指真实事件的叙述"
+                }
+            ],
+            "nuance": "`ofte` 表示这是一种常见叙述方式，而不是作者直接认定发现完全出于运气。`bliver fortalt som` 在这里带有审视历史故事如何被塑造的意味。下一句以 `Men` 转折，纠正把科学发现完全归功于偶然的过度简化。",
+            "transfer": [
+                "Opdagelsen bliver ofte fortalt som et lykketræf.",
+                "Historien bliver nogle gange fremstillet som en tilfældighed.",
+                "Virkeligheden var mere kompliceret end den populære fortælling."
+            ],
+            "pitfall": "`et lykketræf` 不等于有计划的成功，而是幸运的偶然事件。`blive fortalt som` 描述叙事方式，并不保证叙述内容完全准确。"
+        },
+        {
+            "id": "U30-C003",
+            "zh": "然而，奥斯特知道自己在寻找什么，也清楚单凭一次观察还远远不够。",
+            "grammar": "两个并列主句均以 `Ørsted` 或 `han` 为主语，谓语都是过去时 `vidste`。第一部分 `hvad han ledte efter` 是间接疑问从句，采用从句语序，`lede efter` 表示寻找。第二部分 `at én observation ikke var nok` 是内容从句，否定副词 `ikke` 位于主语 `én observation` 之后、限定动词 `var` 之前。`én` 带重音，特别强调仅仅一次。",
+            "vocabulary": [
+                {
+                    "da": "lede efter noget",
+                    "zh": "寻找；探索某物",
+                    "note": "`lede – ledte – ledt`；固定介词 `efter`"
+                },
+                {
+                    "da": "en observation",
+                    "zh": "观察；观察结果",
+                    "note": "科学研究中的基础术语"
+                },
+                {
+                    "da": "ikke være nok",
+                    "zh": "还不够；不足以支持结论",
+                    "note": "`nok` 在这里表示足够"
+                },
+                {
+                    "da": "vide, hvad man leder efter",
+                    "zh": "知道自己要寻找什么",
+                    "note": "可用于研究目标、问题定义与工作规划"
+                }
+            ],
+            "nuance": "这一句是对科学发现浪漫化叙述的修正。`vidste, hvad han ledte efter` 强调研究者已有问题意识，而 `én observation ikke var nok` 突出科学结论需要进一步检验。作者并不是否认偶然观察的价值，而是强调偶然发现能否转化为可靠知识，取决于后续的分析和验证。",
+            "transfer": [
+                "Vi skal vide, hvad vi leder efter.",
+                "Én observation er ikke nok til at drage en sikker konklusion.",
+                "Forskerne vidste, at resultaterne skulle undersøges nærmere."
+            ],
+            "pitfall": "`lede efter` 是寻找，不能与 `lede` 领导混淆。`én observation` 强调恰好一次或只有一次，与普通不定冠词 `en` 的强调程度不同。"
+        },
+        {
+            "id": "U30-C004",
+            "zh": "科学研究中，人们先观察某种现象，提出一个能够解释它的假设，再通过实验检验这个假设；而这些实验在原则上必须有可能证明假设是错误的。",
+            "grammar": "泛指主语 `Man` 后连接三个并列现在时谓语：`observerer`、`formulerer` 和 `tester`，构成科学研究步骤的平行结构。`en hypotese, der kan forklare det` 包含关系从句，说明假设的解释功能。`forsøg, som i princippet kan vise, at den er forkert` 是另一层关系从句，其中 `at den er forkert` 是内容从句，`den` 回指假设。`i princippet` 限定可证伪性的原则要求，而不保证实验一定会得到反驳结果。",
+            "vocabulary": [
+                {
+                    "da": "observere",
+                    "zh": "观察；观测",
+                    "note": "区别于作出解释或判断"
+                },
+                {
+                    "da": "formulere en hypotese",
+                    "zh": "提出或表述假设",
+                    "note": "`en hypotese` 假设；复数 `hypoteser`"
+                },
+                {
+                    "da": "teste en hypotese",
+                    "zh": "检验假设",
+                    "note": "可用于科学研究和实验设计"
+                },
+                {
+                    "da": "et forsøg",
+                    "zh": "实验；尝试",
+                    "note": "复数 `forsøg`"
+                },
+                {
+                    "da": "i princippet",
+                    "zh": "原则上；从原理上说",
+                    "note": "不等于实际一定发生"
+                }
+            ],
+            "nuance": "这一句介绍科学方法的重要思想：一个假设不能只解释已经观察到的现象，还应该接受可能与之矛盾的检验。`kan vise, at den er forkert` 突出了科学假设的可证伪性，而非要求研究者必须证明自己的假设错误。作者使用泛指现在时，描述一种理想化的研究方法框架，而不是声称所有实际研究都严格按同一线性顺序进行。",
+            "transfer": [
+                "Først observerer man et problem og formulerer derefter en hypotese.",
+                "Hypotesen skal kunne testes med et forsøg.",
+                "Et godt forsøg skal i princippet kunne afkræfte hypotesen."
+            ],
+            "pitfall": "`hypotese` 是可检验的研究假设，不等于已经成立的理论。`tester hypotesen` 是检验假设，并非只寻找支持它的例子。`i princippet` 不意味着现实中一定如此。"
+        },
+        {
+            "id": "U30-C005",
+            "zh": "即使实验结果符合预期，也不能证明假设一定正确；它只能说明，这次实验没有推翻这个假设。",
+            "grammar": "主语 `Et forsøg` 后接关系从句 `der går som forventet`，表示实验按预期进行。主句谓语 `beviser ikke` 否定能够得出确定证明。分号后 `det viser kun` 缩小结论范围。`at forsøget ikke har afkræftet den` 是内容从句，其中 `ikke har afkræftet` 使用现在完成时的从句语序，`den` 回指假设。",
+            "vocabulary": [
+                {
+                    "da": "gå som forventet",
+                    "zh": "按预期进行；结果符合预期",
+                    "note": "可用于实验、项目和会议"
+                },
+                {
+                    "da": "bevise",
+                    "zh": "证明",
+                    "note": "强调提供足够证据支持某项结论"
+                },
+                {
+                    "da": "afkræfte",
+                    "zh": "证伪；推翻；否定某项判断",
+                    "note": "与 `bekræfte` 证实形成对照"
+                },
+                {
+                    "da": "en hypotese",
+                    "zh": "假设",
+                    "note": "科学研究中的可检验解释"
+                }
+            ],
+            "nuance": "作者刻意区分两个很容易混淆的判断：实验没有发现假设错误，不代表假设已经被最终证明正确。`kun` 是核心限制词，它把结论严格限定在此次实验未能反驳假设。科学写作中，这种谨慎措辞比直接宣布某个理论被证实更准确，尤其当实验条件、样本规模和测量方法存在局限时。",
+            "transfer": [
+                "Resultatet gik som forventet, men det beviser ikke hypotesen.",
+                "Forsøget har ikke afkræftet vores forklaring.",
+                "Vi kan ikke konkludere, at hypotesen er rigtig, alene fordi testen lykkedes."
+            ],
+            "pitfall": "`bekræfte` 是确认或支持，`afkræfte` 是否定或推翻，词形相近但意义相反。`ikke har afkræftet` 不能直接等同于 `har bevist`。"
+        },
+        {
+            "id": "U30-C006",
+            "zh": "反过来，如果实验结果与假设相矛盾，就必须放弃这个假设，或者至少对它作出修正。",
+            "grammar": "句首 `Går forsøget derimod imod hypotesen` 是省略 `hvis` 的条件倒装，完整条件结构相当于 `Hvis forsøget derimod går imod hypotesen`。条件从句占据主句前位，因此主句采用 `må man` 的 V2 语序。`må` 在这里表示方法论上的必要性。`forkaste` 和 `revidere` 是两个并列不定式，`i det mindste` 引出最低限度的处理要求。",
+            "vocabulary": [
+                {
+                    "da": "gå imod",
+                    "zh": "与……相矛盾；违背；反对",
+                    "note": "研究结果与预测不符时可使用"
+                },
+                {
+                    "da": "derimod",
+                    "zh": "相反；另一方面",
+                    "note": "用于突出与前文情况的对照"
+                },
+                {
+                    "da": "forkaste",
+                    "zh": "否定；摒弃；放弃",
+                    "note": "`forkaste en hypotese` 放弃一个假设"
+                },
+                {
+                    "da": "revidere",
+                    "zh": "修订；重新审视并修改",
+                    "note": "可用于假设、计划和结论"
+                },
+                {
+                    "da": "i det mindste",
+                    "zh": "至少；最起码",
+                    "note": "表示最低程度的要求"
+                }
+            ],
+            "nuance": "这句与上一句构成科学检验的逻辑对照：支持性观察不能轻易证明假设，但与假设冲突的结果需要认真回应。`derimod` 标出对比，`i det mindste` 表示即使不立即完全放弃，也需要修正或重新评估。这里并不是说出现一次异常结果就必须机械地废弃整个理论，实验自身的可靠性仍需要检查。",
+            "transfer": [
+                "Går resultaterne imod hypotesen, må vi undersøge hvorfor.",
+                "Vi må enten forkaste forklaringen eller revidere den.",
+                "I det mindste bør vi genoverveje vores antagelser."
+            ],
+            "pitfall": "`Går forsøget` 不是普通疑问句，而是条件倒装。`gå imod` 是与某物相反，不是朝着某个地点走去。`må` 此处更接近必须，而非获得许可。"
+        },
+        {
+            "id": "U30-C007",
+            "zh": "不确定性是所有知识都不可避免的一部分。",
+            "grammar": "这是简洁的定义式判断句，主语 `Usikkerhed` 与表语 `en del af al viden` 由系动词 `er` 连接。`al viden` 中的 `al` 修饰不可数性质的通性名词 `viden`，表示所有知识，而不是某几项知识。",
+            "vocabulary": [
+                {
+                    "da": "usikkerhed",
+                    "zh": "不确定性；不确定程度",
+                    "note": "en usikkerhed；研究和统计中的常见概念"
+                },
+                {
+                    "da": "viden",
+                    "zh": "知识；已获得的认识",
+                    "note": "通常作为不可数名词使用"
+                },
+                {
+                    "da": "en del af",
+                    "zh": "……的一部分",
+                    "note": "适合定义和抽象论述"
+                }
+            ],
+            "nuance": "这是全文的重要认识论命题。作者并没有说所有知识都不可信，而是强调可靠知识也往往具有适用范围、测量误差或剩余不确定性。`al viden` 把这种态度提升为一般原则，为后面统计误差、医学研究和重复性问题作铺垫。",
+            "transfer": [
+                "Usikkerhed er en naturlig del af forskning.",
+                "Ingen måling er helt uden usikkerhed.",
+                "Vi bør være åbne om, hvad vi ikke ved."
+            ],
+            "pitfall": "`usikkerhed` 不只表示个人缺乏自信，在研究语境中可以是可以量化或描述的测量不确定性。`viden` 是知识，不能与 `mening` 个人观点混同。"
+        },
+        {
+            "id": "U30-C008",
+            "zh": "如果一项民意调查显示某政党获得20%的选票支持，通常还需要考虑上下几个百分点的统计不确定范围。",
+            "grammar": "句首 `Når en meningsmåling giver et parti 20 procent af stemmerne` 是描述典型情境的时间条件从句。`give nogen noget` 在这里是双宾语结构，表示调查赋予某政党某种支持率估计。主句 `er der typisk en statistisk usikkerhed` 使用存在结构。`på et par procentpoint` 说明不确定性的量级，`i begge retninger` 表示估计值上下两个方向。",
+            "vocabulary": [
+                {
+                    "da": "en meningsmåling",
+                    "zh": "民意调查；意见调查",
+                    "note": "政治新闻中的高频词"
+                },
+                {
+                    "da": "et procentpoint",
+                    "zh": "百分点",
+                    "note": "区别于百分比变化 `procent`"
+                },
+                {
+                    "da": "statistisk usikkerhed",
+                    "zh": "统计不确定性",
+                    "note": "常涉及抽样误差与估计精度"
+                },
+                {
+                    "da": "i begge retninger",
+                    "zh": "向两个方向；上下两个方向",
+                    "note": "这里指高于或低于估计值"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "通常；典型情况下",
+                    "note": "不是所有调查都相同"
+                }
+            ],
+            "nuance": "作者把抽象的统计不确定性放在政治民调中解释。`typisk` 和 `et par` 都是重要的限定，表示这里描述的是常见量级，而非给出适用于所有民调的统一误差范围。`i begge retninger` 提醒读者，调查支持率并不是一个没有误差的确定数字。具体置信区间还取决于样本量和调查方法。",
+            "transfer": [
+                "Meningsmålingen giver partiet omkring 20 procent af stemmerne.",
+                "Resultatet skal vurderes med en statistisk usikkerhed på et par procentpoint.",
+                "Usikkerheden går i begge retninger."
+            ],
+            "pitfall": "`procentpoint` 是百分点，不能与百分比相对变化混淆。从20%到21%是增加一个百分点，相对增幅则是5%。"
+        },
+        {
+            "id": "U30-C009",
+            "zh": "因此，如果某政党的支持率从一次调查到下一次调查下降了一个百分点，就必须结合统计误差来判断；很多时候，这样的变化可能只是随机波动。",
+            "grammar": "主语 `Et fald på ét procentpoint` 后接 `skal … ses i relation til`，使用情态动词加 s-被动不定式，表示应当如何理解某个变化。`derfor` 引出基于上一句的推论。`fra den ene måling til den næste` 表示前后两次测量之间的变化。后半句 `ofte er det ren tilfældighed` 因副词 `ofte` 前置而采用 `er det` 的 V2 语序。",
+            "vocabulary": [
+                {
+                    "da": "et fald på",
+                    "zh": "下降了……",
+                    "note": "`et fald på ét procentpoint` 下降一个百分点"
+                },
+                {
+                    "da": "ses i relation til",
+                    "zh": "结合……来看；联系……理解",
+                    "note": "分析和学术写作中的重要搭配"
+                },
+                {
+                    "da": "en måling",
+                    "zh": "测量；调查测量结果",
+                    "note": "复数 `målinger`"
+                },
+                {
+                    "da": "ren tilfældighed",
+                    "zh": "纯粹的偶然；随机巧合",
+                    "note": "`ren` 在这里加强纯粹的含义"
+                }
+            ],
+            "nuance": "作者提醒读者避免把小幅民调变化立即解释成真实的政治趋势。`skal ses i relation til` 是成熟的分析表达，说明数字必须结合测量精度才能判断。`ofte` 保留了概率判断：小幅变化可能是抽样波动，也可能反映真实趋势，不能仅凭两次数字就断言原因。",
+            "transfer": [
+                "Ændringen skal ses i relation til den statistiske usikkerhed.",
+                "Et fald på ét procentpoint er ikke nødvendigvis en reel tilbagegang.",
+                "Forskellen kan skyldes ren tilfældighed."
+            ],
+            "pitfall": "`et fald på` 指下降的幅度，`et fald til` 才强调下降后的水平。`ren tilfældighed` 不意味着已经通过统计检验证明完全随机。"
+        },
+        {
+            "id": "U30-C010",
+            "zh": "在医学研究中，研究人员通常会将接受新疗法的一组受试者，与接受安慰剂——也就是所谓假药——的对照组进行比较。",
+            "grammar": "句首 `I medicinsk forskning` 是领域状语，因此主句采用 `sammenligner man` 的 V2 语序。核心搭配是 `sammenligne X med Y`。两个并列研究组分别由关系从句 `der får en ny behandling` 和 `der får placebo` 限定。`en såkaldt narrepille` 是对 `placebo` 的同位解释。",
+            "vocabulary": [
+                {
+                    "da": "medicinsk forskning",
+                    "zh": "医学研究",
+                    "note": "医学和临床研究语境"
+                },
+                {
+                    "da": "sammenligne noget med noget",
+                    "zh": "将某物与另一物比较",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "en kontrolgruppe",
+                    "zh": "对照组",
+                    "note": "实验研究设计中的重要术语"
+                },
+                {
+                    "da": "en behandling",
+                    "zh": "治疗；治疗方案",
+                    "note": "复数 `behandlinger`"
+                },
+                {
+                    "da": "placebo",
+                    "zh": "安慰剂",
+                    "note": "本句使用 `narrepille` 作通俗解释；安慰剂并不一定都是药片"
+                }
+            ],
+            "nuance": "这一句介绍医学实验中通过对照组识别治疗效果的基本思想。`sammenligner … med` 是科学写作的高频结构。作者采用安慰剂对照作为典型例子，但不意味着所有医学试验都适合或允许使用安慰剂；具体设计还取决于伦理要求和已有治疗方案。`narrepille` 是通俗说法，正式研究讨论通常使用 `placebo`。",
+            "transfer": [
+                "Forskerne sammenligner behandlingsgruppen med en kontrolgruppe.",
+                "Deltagerne får enten en ny behandling eller placebo.",
+                "Et kontrolleret forsøg kan hjælpe med at undersøge behandlingens virkning."
+            ],
+            "pitfall": "`kontrolgruppe` 是对照组，不是负责监督实验的管理小组。`placebo` 是安慰剂，不能简单理解为任何没有效果的药物。"
+        },
+        {
+            "id": "U30-C011",
+            "zh": "设置对照组是必要的，因为很多人仅仅因为相信自己正在接受治疗，就可能感觉好一些。",
+            "grammar": "主句 `Kontrolgruppen er nødvendig` 是判断结构，原因由 `fordi` 从句说明。`mange får det lidt bedre` 使用固定结构 `få det bedre`，表示身体或心理状态好转。`alene af at tro` 表示仅仅由于相信某事而产生影响。`at de bliver behandlet` 是 `tro` 的内容从句，使用现在时被动结构。",
+            "vocabulary": [
+                {
+                    "da": "nødvendig",
+                    "zh": "必要的；不可缺少的",
+                    "note": "中性形式 `nødvendigt`"
+                },
+                {
+                    "da": "få det bedre",
+                    "zh": "感觉好一些；情况有所改善",
+                    "note": "可以指健康或一般处境"
+                },
+                {
+                    "da": "alene af",
+                    "zh": "仅仅因为；单凭",
+                    "note": "突出某个因素已经足以产生一定影响"
+                },
+                {
+                    "da": "tro, at",
+                    "zh": "相信……；认为……",
+                    "note": "后接内容从句"
+                },
+                {
+                    "da": "blive behandlet",
+                    "zh": "接受治疗；受到处理",
+                    "note": "这里是医学治疗被动结构"
+                }
+            ],
+            "nuance": "作者用通俗语言解释为什么不能只观察接受新治疗的人是否感觉好转。人的期待和相信自己正在被治疗的心理因素，也可能影响主观体验。这里的 `alene af at tro` 描述安慰剂相关效应的一种直观机制，不意味着所有病情变化都来自心理作用，也不意味着主观改善一定等于疾病本身被治愈。",
+            "transfer": [
+                "Mange patienter får det bedre, når de forventer en virkning.",
+                "En kontrolgruppe er nødvendig for at vurdere behandlingens effekt.",
+                "Forventninger kan påvirke, hvordan man oplever symptomer."
+            ],
+            "pitfall": "`få det bedre` 是状况改善，不是得到一个更好的东西。`alene af at tro` 是仅仅由于相信，`alene` 在这里不是孤独地。"
+        },
+        {
+            "id": "U30-C012",
+            "zh": "在最可靠的这类试验中，实验进行期间，无论患者还是医生，都不知道谁接受了哪一种处理。",
+            "grammar": "句首 `I de mest pålidelige forsøg` 是场景状语，主句采用 `ved hverken patienterne eller lægerne` 的 V2 语序。`hverken … eller …` 连接两个并列主语，表示两方都不知道。`undervejs` 表示试验进行过程中。`hvem der får hvad` 是间接疑问从句，前面的 `hvem` 是主语疑问词，`hvad` 是宾语疑问词。",
+            "vocabulary": [
+                {
+                    "da": "pålidelig",
+                    "zh": "可靠的；值得信赖的",
+                    "note": "最高级 `mest pålidelig`"
+                },
+                {
+                    "da": "hverken … eller …",
+                    "zh": "既不……也不……；两者都不",
+                    "note": "并列否定结构"
+                },
+                {
+                    "da": "undervejs",
+                    "zh": "在过程中；进行期间",
+                    "note": "可用于实验、旅行和项目"
+                },
+                {
+                    "da": "hvem der får hvad",
+                    "zh": "谁接受什么处理",
+                    "note": "间接疑问结构"
+                },
+                {
+                    "da": "et dobbeltblindet forsøg",
+                    "zh": "双盲试验",
+                    "note": "与本句描述的患者和医生均未知分组的设计相对应"
+                }
+            ],
+            "nuance": "作者通过患者和医生都不知道分组情况来说明双盲试验的基本设计思想。这样可以减少患者期待和研究者行为对结果的潜在影响。`de mest pålidelige forsøg` 是这一段的概括性说法，并不意味着所有无法双盲的研究都不可靠；例如某些手术或行为干预难以实现相同的盲法。",
+            "transfer": [
+                "I et dobbeltblindet forsøg ved hverken patienter eller behandlere, hvem der får placebo.",
+                "Deltagerne kender ikke deres gruppe undervejs.",
+                "Blinding kan mindske risikoen for systematiske skævheder."
+            ],
+            "pitfall": "`hverken … eller …` 表示两者都不，不能再随意额外添加一个主句否定词造成重复。`undervejs` 是在进行过程中，不是走在道路下面。"
+        },
+        {
+            "id": "U30-C013",
+            "zh": "在最近十年间，心理学、医学等领域的研究人员尝试重复一些著名研究，却发现其中相当令人意外的一大部分结果未能经受住重复检验。",
+            "grammar": "句首 `I det seneste årti` 是时间状语，后接现在完成时 `har forskere … forsøgt`，说明近十年开展的工作。`inden for blandt andet psykologi og medicin` 限定研究领域。`forsøgt at gentage` 表示尝试重复已有研究。第二分句 `en overraskende stor del af resultaterne holdt ikke` 使用过去时，`holde` 在这里比喻结论经不经得起检验。",
+            "vocabulary": [
+                {
+                    "da": "et årti",
+                    "zh": "十年；十年期",
+                    "note": "`det seneste årti` 最近十年"
+                },
+                {
+                    "da": "inden for",
+                    "zh": "在……领域内",
+                    "note": "用于学科、行业和职业"
+                },
+                {
+                    "da": "gentage en undersøgelse",
+                    "zh": "重复一项研究",
+                    "note": "科研语境中涉及重复性或复现问题"
+                },
+                {
+                    "da": "overraskende stor",
+                    "zh": "大得令人意外的",
+                    "note": "强调与预期存在差距"
+                },
+                {
+                    "da": "holde",
+                    "zh": "经得起检验；仍然成立",
+                    "note": "这里不是拿着或举行"
+                }
+            ],
+            "nuance": "这一句介绍科学研究中的重复性问题。`en overraskende stor del` 并未提供具体比例，因此不能自行补充数字。`resultaterne holdt ikke` 是自然的丹麦语概括，表示一些原有结果在重复研究中未能得到可靠支持，而不必然证明原研究的每个结论都完全错误。作者下一句特别提醒不要因此全盘否定科学。",
+            "transfer": [
+                "Forskerne forsøgte at gentage tidligere undersøgelser.",
+                "En del af resultaterne holdt ikke ved gentagelsen.",
+                "Resultaterne skal kunne efterprøves af andre forskere."
+            ],
+            "pitfall": "`holde` 在这里是结果仍然成立，不是保持某个物体。`gentage` 是重复进行，不能直接等同于仅仅重新分析原始数据。"
+        },
+        {
+            "id": "U30-C014",
+            "zh": "因此，正确的结论是：不要过分依赖单独一项研究；而不是说，科学研究从此就完全不值得相信了。",
+            "grammar": "主句 `Konklusionen er` 后面接两个由 `at` 引导的内容从句，以 `og ikke` 构成对照。第一个从句 `man skal være varsom med at bygge for meget på et enkelt studie` 使用 `være varsom med at`，表示应谨慎做某事。`bygge på` 是抽象搭配，表示以某项依据为基础。第二个从句 `man slet ikke kan stole på forskning` 中，`slet ikke` 强化完全否定，而整句否定的正是这种极端结论。",
+            "vocabulary": [
+                {
+                    "da": "en konklusion",
+                    "zh": "结论",
+                    "note": "`drage en konklusion` 得出结论"
+                },
+                {
+                    "da": "være varsom med at",
+                    "zh": "谨慎做某事",
+                    "note": "较正式，适合学术和政策分析"
+                },
+                {
+                    "da": "bygge på",
+                    "zh": "建立在……基础上；依据",
+                    "note": "抽象意义，不一定涉及建造"
+                },
+                {
+                    "da": "et studie",
+                    "zh": "一项研究",
+                    "note": "复数 `studier`"
+                },
+                {
+                    "da": "stole på",
+                    "zh": "信任；相信其可靠性",
+                    "note": "固定介词 `på`"
+                }
+            ],
+            "nuance": "作者明确反对把科学研究中的重复性问题转化为反科学结论。`og ikke` 是全句最重要的论证动作：它限定应该得出的教训，也排除一个过度推论。`et enkelt studie` 强调单项研究的证据局限，而不是说单项研究毫无价值。科学可靠性更多来自多项证据、方法透明和独立检验的累积。",
+            "transfer": [
+                "Man skal være varsom med at drage store konklusioner på baggrund af ét studie.",
+                "Det betyder ikke, at man slet ikke kan stole på forskning.",
+                "Konklusionen er, at vi har brug for mere dokumentation."
+            ],
+            "pitfall": "`bygge på` 是依据，不是只能表示在某个东西上建造。`slet ikke` 是否定加强词；这里作者明确反对这种完全不信任研究的立场。"
+        },
+        {
+            "id": "U30-C015",
+            "zh": "数字看起来很客观，但如果我们不追问这些数字从何而来，它们也可能把我们引入歧途。",
+            "grammar": "第一分句 `Tal virker objektive` 使用 `virke + 形容词`，表示给人的印象，而不是保证客观性。第二分句 `de kan føre os på vildspor` 使用情态动词 `kan` 表示可能性，`føre nogen på vildspor` 是固定比喻。`hvis vi ikke spørger` 引导条件从句，其中 `hvor de kommer fra` 是嵌套的间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "virke objektiv",
+                    "zh": "显得客观",
+                    "note": "`virke` 表示给人的印象"
+                },
+                {
+                    "da": "føre nogen på vildspor",
+                    "zh": "把某人引入歧途；误导某人",
+                    "note": "固定表达"
+                },
+                {
+                    "da": "spørge, hvor noget kommer fra",
+                    "zh": "追问某项信息的来源",
+                    "note": "适合研究与数据分析"
+                },
+                {
+                    "da": "objektiv",
+                    "zh": "客观的",
+                    "note": "与 `subjektiv` 主观的相对"
+                }
+            ],
+            "nuance": "本句是第三章的核心警示。`virker objektive` 特别精确：数字往往给人准确、中立的印象，但其收集、定义和呈现方式仍可能带来偏差。`føre os på vildspor` 比简单说数字错误更深一层，强调即使数字本身没有算错，也可能因为缺乏背景而诱导错误推论。",
+            "transfer": [
+                "Tal kan virke objektive uden at fortælle hele historien.",
+                "Statistik kan føre os på vildspor, hvis vi ignorerer konteksten.",
+                "Vi bør altid spørge, hvor tallene kommer fra."
+            ],
+            "pitfall": "`virke` 在这里是显得，区别于机器正常工作的 `virke`。`på vildspor` 是偏离正确理解的道路，不是实际走错山路。"
+        },
+        {
+            "id": "U30-C016",
+            "zh": "夏天，冰淇淋销量会上升；而在同样的几周里，溺水事故的数量也会上升。",
+            "grammar": "两个并列主句都以前置时间状语开头，因此分别采用 `stiger salget` 和 `stiger antallet` 的 V2 倒装。`salget af is` 表示冰淇淋销售量，`antallet af drukneulykker` 表示溺水事故数量。动词 `stiger` 重复出现，强化两个指标同时上升这一观察。",
+            "vocabulary": [
+                {
+                    "da": "salget af",
+                    "zh": "……的销售量；销售情况",
+                    "note": "`et salg` 销售"
+                },
+                {
+                    "da": "is",
+                    "zh": "冰淇淋；冰",
+                    "note": "本句指冰淇淋，需由消费语境判断"
+                },
+                {
+                    "da": "stige",
+                    "zh": "上升；增加",
+                    "note": "`stige – steg – steget`"
+                },
+                {
+                    "da": "antallet af",
+                    "zh": "……的数量",
+                    "note": "常用于统计描述"
+                },
+                {
+                    "da": "en drukneulykke",
+                    "zh": "溺水事故",
+                    "note": "`drukne` 溺水；`ulykke` 事故"
+                }
+            ],
+            "nuance": "作者用两个容易理解的夏季现象引出相关性与因果性的区别。两项数据同时增加，并不意味着其中一项导致另一项。`i de samme uger` 有意突出时间上的重合，为下一句解释共同原因建立铺垫。",
+            "transfer": [
+                "Om sommeren stiger salget af kolde drikke.",
+                "I samme periode stiger antallet af besøgende.",
+                "To tal kan stige samtidig uden at hænge sammen kausalt."
+            ],
+            "pitfall": "`is` 可以是冰，也可以是冰淇淋，此处是后者。`antallet af` 表示数量，`andelen af` 表示占比，两者不能混淆。"
+        },
+        {
+            "id": "U30-C017",
+            "zh": "当然，没有人会真的认为吃冰淇淋会导致溺水：这两种现象都源于炎热天气，因为天气热了，买冰淇淋和去游泳的人都会增多。",
+            "grammar": "第一部分 `Ingen tror for alvor` 后接内容从句 `at is får folk til at drukne`。`få nogen til at + 不定式` 是使役结构，表示使某人发生某种行为或结果。冒号后 `Begge dele skyldes varmen` 指出共同原因。`som får flere til både at købe is og at bade` 是修饰 `varmen` 的关系从句，使用 `både … og …` 并列两项行为。",
+            "vocabulary": [
+                {
+                    "da": "for alvor",
+                    "zh": "认真地；当真",
+                    "note": "`ikke for alvor` 表示并非真正当真"
+                },
+                {
+                    "da": "få nogen til at",
+                    "zh": "使某人做某事；导致某种行为",
+                    "note": "使役结构"
+                },
+                {
+                    "da": "drukne",
+                    "zh": "溺水；淹死",
+                    "note": "可根据语境指溺水过程或死亡结果"
+                },
+                {
+                    "da": "begge dele",
+                    "zh": "这两件事；两个方面",
+                    "note": "回指前面提到的两种现象"
+                },
+                {
+                    "da": "skyldes",
+                    "zh": "由……造成；归因于",
+                    "note": "`skyldes noget` 直接接原因"
+                }
+            ],
+            "nuance": "作者使用一个明显荒谬的因果解释帮助读者理解混杂因素。`Begge dele skyldes varmen` 指出气温是使冰淇淋消费和水上活动都增加的共同因素。`for alvor` 表示真正、认真地相信，带有轻微的幽默感。这里的例子用于说明因果推断原则，并不是正式分析溺水事故的全部决定因素。",
+            "transfer": [
+                "Begge fænomener kan skyldes en tredje faktor.",
+                "Varmen får flere til at købe is.",
+                "Man må ikke forveksle sammenhæng med årsag."
+            ],
+            "pitfall": "`skyldes` 表示由某原因造成，区别于 `skylde nogen penge` 欠某人钱。`få folk til at drukne` 是导致溺水，并不是要求人们去做某事。"
+        },
+        {
+            "id": "U30-C018",
+            "zh": "所以，两件事情之间存在关联，本身并不能证明其中一件是另一件的原因。",
+            "grammar": "主语 `En sammenhæng mellem to ting` 后接否定判断 `er … ikke … et bevis for`。`altså` 用于承接前文并给出结论。`i sig selv` 限定证明力，强调关联本身不足以构成因果证据。`at den ene er årsag til den anden` 是内容从句，`den ene` 与 `den anden` 分别指两个现象。",
+            "vocabulary": [
+                {
+                    "da": "en sammenhæng",
+                    "zh": "关联；联系；关系",
+                    "note": "研究中不应自动理解为因果关系"
+                },
+                {
+                    "da": "i sig selv",
+                    "zh": "就其本身而言",
+                    "note": "高频逻辑限定表达"
+                },
+                {
+                    "da": "et bevis for",
+                    "zh": "……的证据；……的证明",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "årsag til",
+                    "zh": "……的原因",
+                    "note": "固定介词 `til`"
+                },
+                {
+                    "da": "altså",
+                    "zh": "所以；由此可见",
+                    "note": "这里引出推论"
+                }
+            ],
+            "nuance": "这是第三章最重要的科学判断，也是丹麦语学术写作中值得直接掌握的表达模式。`i sig selv` 使论断更精确：关联可以提示值得进一步研究的关系，但单凭关联不足以确认因果方向。`altså` 将冰淇淋例子提升为一般性方法原则。",
+            "transfer": [
+                "En statistisk sammenhæng er ikke i sig selv et bevis for årsagssammenhæng.",
+                "Det ene behøver ikke være årsag til det andet.",
+                "Vi skal undersøge, om sammenhængen kan forklares af andre faktorer."
+            ],
+            "pitfall": "`sammenhæng` 是关联，不必然等于 `årsagssammenhæng` 因果关系。`et bevis for` 和 `årsag til` 的介词不同，不能互换。"
+        },
+        {
+            "id": "U30-C019",
+            "zh": "可令人意外的是，一旦某项研究被写进新闻标题，这个基本区别却经常被人忘得一干二净。",
+            "grammar": "主句 `Det bliver glemt overraskende tit` 使用 `blive` 被动结构，`Det` 回指上一句相关性不等于因果性的原则。`overraskende tit` 表示频率高得令人意外。`når en undersøgelse havner i en overskrift` 是时间或情境从句，`havne i` 表示最终进入某个位置或处境。",
+            "vocabulary": [
+                {
+                    "da": "blive glemt",
+                    "zh": "被忘记；遭到忽视",
+                    "note": "被动结构"
+                },
+                {
+                    "da": "overraskende tit",
+                    "zh": "频繁得令人意外",
+                    "note": "`tit` 经常"
+                },
+                {
+                    "da": "havne i",
+                    "zh": "落入；最终进入某种处境",
+                    "note": "常带有非计划性或意外结果"
+                },
+                {
+                    "da": "en overskrift",
+                    "zh": "标题；新闻标题",
+                    "note": "复数 `overskrifter`"
+                }
+            ],
+            "nuance": "作者将统计学问题转向媒体传播。`havner i en overskrift` 带有一点批评意味：复杂研究被浓缩为容易吸引注意力的标题时，必要的因果限定可能丢失。`overraskende tit` 表达作者认为这种错误发生得过于频繁，但并没有给出具体发生比例。",
+            "transfer": [
+                "Vigtige forbehold bliver ofte glemt i overskrifter.",
+                "Undersøgelsen havnede hurtigt i medierne.",
+                "En overskrift kan give et misvisende billede af forskningen."
+            ],
+            "pitfall": "`havne` 不只表示船舶进入港口，也常表示某人或某事最终进入某种情况。`Det` 回指前述原则，而不是单指某项具体数字。"
+        },
+        {
+            "id": "U30-C020",
+            "zh": "平均数同样可能误导我们。",
+            "grammar": "主语 `Gennemsnit` 后接情态动词 `kan` 和不定式 `snyde`，表示存在误导的可能性。`også` 将平均数与前文容易引起误解的统计关联并列。",
+            "vocabulary": [
+                {
+                    "da": "et gennemsnit",
+                    "zh": "平均数；平均值",
+                    "note": "统计学常用词"
+                },
+                {
+                    "da": "snyde",
+                    "zh": "欺骗；误导",
+                    "note": "在此为拟人化表达"
+                }
+            ],
+            "nuance": "这一句用非常简短的方式引出另一种常见统计陷阱。作者不是说平均值本身计算错误，而是说在某些分布中，平均数可能不能代表典型个体。`snyde` 让抽象的统计局限更容易被普通读者理解。",
+            "transfer": [
+                "Gennemsnittet kan være misvisende.",
+                "Et højt gennemsnit fortæller ikke hele historien."
+            ],
+            "pitfall": "`snyde` 在这里是误导，并不是平均数真的具有欺骗意图。`gennemsnit` 不应直接等同于中位数。"
+        },
+        {
+            "id": "U30-C021",
+            "zh": "假设九个人每月各挣三万克朗，而第十个人每月挣三百万克朗，那么平均月收入就会超过三十万克朗，尽管前面九个人中没有任何一个人的收入接近这个数字。",
+            "grammar": "句首 `Hvis` 引导较长的条件从句，其中两个并列分句分别描述九个人与第十个人的收入。条件从句之后主句采用 `er gennemsnitsindkomsten` 的 V2 语序。`selvom` 引导让步从句，说明平均值与大多数人的实际收入存在明显差距。`være i nærheden af` 在这里是数量接近的比喻表达。",
+            "vocabulary": [
+                {
+                    "da": "en gennemsnitsindkomst",
+                    "zh": "平均收入",
+                    "note": "`indkomst` 收入；`gennemsnit` 平均数"
+                },
+                {
+                    "da": "om måneden",
+                    "zh": "每个月；按月计算",
+                    "note": "频率和计量单位"
+                },
+                {
+                    "da": "den tiende",
+                    "zh": "第十个人",
+                    "note": "序数词名词化，所指对象由上下文确定"
+                },
+                {
+                    "da": "være i nærheden af",
+                    "zh": "接近；与某个数值相近",
+                    "note": "既可用于位置，也可用于数量"
+                },
+                {
+                    "da": "selvom",
+                    "zh": "尽管；虽然",
+                    "note": "引导让步从句"
+                }
+            ],
+            "nuance": "这是用极端值解释平均数失真的典型教学例子。九人各三万、另一人三百万，十人平均确实达到三十二万七千克朗，但九成参与者的收入远低于这一数值。作者借此说明少数极高值可以显著拉高算术平均数。不能因此认为平均数没有用途，而是要根据数据分布选择合适的统计指标。",
+            "transfer": [
+                "En enkelt meget høj indkomst kan trække gennemsnittet op.",
+                "Gennemsnitsindkomsten er ikke nødvendigvis typisk for flertallet.",
+                "Selvom gennemsnittet er højt, tjener de fleste langt mindre."
+            ],
+            "pitfall": "`gennemsnitsindkomst` 是平均收入，不是收入最高者的收入。`i nærheden af` 用于数值时表示接近，不能只理解为空间上的附近。"
+        },
+        {
+            "id": "U30-C022",
+            "zh": "因此，当统计学家想描述一种具有代表性的收入水平时，往往会使用中位数，也就是把所有数值排序后位于中间的那个数。",
+            "grammar": "句首 `Derfor` 是推论副词，后面采用 `bruger statistikere` 的 V2 倒装。`medianen` 后的 `altså det midterste tal` 是同位解释，用通俗表达说明术语含义。`når de vil beskrive en typisk indkomst` 是时间条件从句，说明采用中位数的研究目的。",
+            "vocabulary": [
+                {
+                    "da": "en statistiker",
+                    "zh": "统计学家；统计专业人员",
+                    "note": "复数 `statistikere`"
+                },
+                {
+                    "da": "medianen",
+                    "zh": "中位数",
+                    "note": "en median；位于排序数据中间位置的统计量"
+                },
+                {
+                    "da": "midterst",
+                    "zh": "位于中间的",
+                    "note": "`det midterste tal` 中间的数字"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "典型的；有代表性的",
+                    "note": "统计语境中强调对常见情况的描述"
+                }
+            ],
+            "nuance": "作者通过 `Derfor` 将上一句平均数受极端值影响的问题与中位数联系起来。`altså` 的作用是解释术语，帮助读者不依赖专业统计知识也能理解。中位数在收入分布倾斜时往往更能反映典型水平，但它仍然无法单独展示收入差距的全部情况。",
+            "transfer": [
+                "Derfor bruger man ofte medianen til at beskrive indkomster.",
+                "Medianen påvirkes mindre af ekstreme værdier end gennemsnittet.",
+                "Det midterste tal kan give et mere retvisende billede."
+            ],
+            "pitfall": "中位数是排序后的中间位置，不是随意选一个处于中间大小的数字。若观测值数量为偶数，通常取中间两个数的平均值。"
+        },
+        {
+            "id": "U30-C023",
+            "zh": "我们往往更注意那些证实自己原有看法的信息，而忽略与之相矛盾的信息——心理学家将这种现象称为确认偏误。",
+            "grammar": "主句使用比较结构 `lægger mere mærke til X end til Y`。两个比较对象分别是 `det, der bekræfter det, vi i forvejen tror` 和 `det, der modsiger det`，其中嵌套多个关系从句。`lægge mærke til` 是固定搭配，表示注意到。破折号后的 `et fænomen, som psykologer kalder bekræftelsesbias` 是对前面整体现象的同位说明。",
+            "vocabulary": [
+                {
+                    "da": "lægge mærke til",
+                    "zh": "注意到；留意",
+                    "note": "固定动词短语"
+                },
+                {
+                    "da": "bekræfte",
+                    "zh": "确认；证实",
+                    "note": "与 `afkræfte` 否定、证伪相对"
+                },
+                {
+                    "da": "modsige",
+                    "zh": "反驳；与……相矛盾",
+                    "note": "`modsige – modsagde – modsagt`"
+                },
+                {
+                    "da": "i forvejen",
+                    "zh": "事先；本来就",
+                    "note": "表示某种看法先于当前信息存在"
+                },
+                {
+                    "da": "bekræftelsesbias",
+                    "zh": "确认偏误；证实偏差",
+                    "note": "认知心理学中的重要术语"
+                }
+            ],
+            "nuance": "这是全文关于认知偏误最重要的一句。作者强调确认偏误不仅体现在主动寻找支持证据，也包括在注意力分配上偏向与既有信念一致的信息。`i forvejen` 突出偏见来源于先前已持有的观点。句子适合用于政治、医学、科研和日常争论，尤其适合提醒自己区分支持与反驳证据。",
+            "transfer": [
+                "Vi lægger ofte mere mærke til det, der bekræfter vores egne holdninger.",
+                "Bekræftelsesbias kan påvirke, hvordan vi vurderer forskning.",
+                "Vi bør også lede efter oplysninger, der modsiger vores hypotese."
+            ],
+            "pitfall": "`lægge mærke til` 是注意到，不是把标记放到某处。`bekræfte` 与 `afkræfte` 意义相反。`i forvejen` 表示事先，不等于提前完成某项任务。"
+        },
+        {
+            "id": "U30-C024",
+            "zh": "我们判断某件事有多常见时，往往依据的是自己能多容易想到相关例子。",
+            "grammar": "核心结构是 `basere sin vurdering af X på Y`，表示以某种依据作出判断。`hvor almindeligt noget er` 是嵌入名词短语的间接程度疑问从句，说明被评估的内容。`hvor let vi kommer i tanke om eksempler` 是介词 `på` 后的间接疑问从句。`komme i tanke om` 是固定表达，表示想到或记起。",
+            "vocabulary": [
+                {
+                    "da": "basere noget på noget",
+                    "zh": "以某物为依据；建立在……基础上",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "en vurdering",
+                    "zh": "判断；评估",
+                    "note": "`vurdere` 评估"
+                },
+                {
+                    "da": "almindelig",
+                    "zh": "常见的；普遍的",
+                    "note": "本句涉及发生频率"
+                },
+                {
+                    "da": "komme i tanke om",
+                    "zh": "想起；想到",
+                    "note": "固定表达"
+                },
+                {
+                    "da": "et eksempel",
+                    "zh": "例子；实例",
+                    "note": "复数 `eksempler`"
+                }
+            ],
+            "nuance": "这句描述的是可得性启发式的核心直觉：越容易想起某种事件，人们就越可能认为它经常发生。作者并没有说这种直觉永远错误，而是指出记忆中例子的易得程度并不必然等同于真实发生频率。它为后面媒体报道与风险感知的例子作准备。",
+            "transfer": [
+                "Vi baserer ofte vores vurderinger på de eksempler, vi lettest kommer i tanke om.",
+                "Det er svært at vurdere, hvor almindeligt fænomenet faktisk er.",
+                "Et let genkaldeligt eksempel er ikke nødvendigvis repræsentativt."
+            ],
+            "pitfall": "`komme i tanke om` 表示想到，不能简化为 `komme tanke`。`basere på` 的介词是 `på`，而 `vurdering af` 使用 `af`。"
+        },
+        {
+            "id": "U30-C025",
+            "zh": "媒体往往把注意力集中在那些戏剧性强、但并不常见的事故上。",
+            "grammar": "主语 `Medierne` 后接谓语 `fokuserer`。`fokusere på` 是固定介词搭配。`dramatiske og sjældne` 是两个并列形容词，共同修饰复数名词 `ulykker`。",
+            "vocabulary": [
+                {
+                    "da": "medierne",
+                    "zh": "媒体",
+                    "note": "`et medie`；复数 `medier`"
+                },
+                {
+                    "da": "fokusere på",
+                    "zh": "关注；聚焦于",
+                    "note": "固定介词 `på`"
+                },
+                {
+                    "da": "dramatisk",
+                    "zh": "戏剧性的；引人注目的",
+                    "note": "新闻语境中不一定指舞台戏剧"
+                },
+                {
+                    "da": "sjælden",
+                    "zh": "罕见的；不常发生的",
+                    "note": "复数形式 `sjældne`"
+                },
+                {
+                    "da": "en ulykke",
+                    "zh": "事故；意外",
+                    "note": "复数 `ulykker`"
+                }
+            ],
+            "nuance": "作者用一句话说明媒体报道与事件真实发生频率之间可能存在偏差。严重、罕见和具有戏剧性的事件容易吸引新闻注意，但新闻出现频率不是现实世界的事件发生率。`ofte` 仍然是限定词，并非声称所有媒体只报道少见事故。",
+            "transfer": [
+                "Medierne fokuserer ofte på dramatiske begivenheder.",
+                "Sjældne hændelser kan få meget opmærksomhed.",
+                "Mediedækning afspejler ikke altid, hvor almindeligt noget er."
+            ],
+            "pitfall": "`dramatisk` 在此是引人注意、事件性强，不一定意味着虚构或夸张。`sjælden` 是罕见，不能与 `sædvanlig` 通常的混淆。"
+        },
+        {
+            "id": "U30-C026",
+            "zh": "这也是许多人害怕坐飞机胜过开车的原因之一，尽管如果按照每位乘客每公里的死亡风险来比较，汽车出行其实危险得多。",
+            "grammar": "主句 `Det er en af grundene til, at …` 使用部分结构，表示多种原因中的一种。`mange er mere bange for at flyve end for at køre bil` 使用比较级 `mere … end …`，并列两个 `være bange for at` 结构。`selvom` 引导让步从句。`når man sammenligner dødsrisikoen pr. passagerkilometer` 是比较依据的情境从句，限定风险比较所采用的指标。",
+            "vocabulary": [
+                {
+                    "da": "en af grundene til, at",
+                    "zh": "……的原因之一",
+                    "note": "学术和议论文中的实用句型"
+                },
+                {
+                    "da": "være bange for at",
+                    "zh": "害怕做某事",
+                    "note": "固定介词 `for`"
+                },
+                {
+                    "da": "langt farligere",
+                    "zh": "危险得多",
+                    "note": "`langt` 加强比较级"
+                },
+                {
+                    "da": "en dødsrisiko",
+                    "zh": "死亡风险",
+                    "note": "可用于医疗、交通与公共安全"
+                },
+                {
+                    "da": "pr. passagerkilometer",
+                    "zh": "按每乘客公里计算",
+                    "note": "`pr.` 是 `per` 的缩写"
+                }
+            ],
+            "nuance": "作者强调风险直觉与统计风险可能不同。飞机事故虽然相对少见，却容易因严重性和媒体关注引发强烈恐惧。`pr. passagerkilometer` 是非常重要的比较前提：风险结论依赖所选分母和运输方式的统计口径。此句讨论一种常见的交通风险比较，不能不加限定地推广到所有国家、年份和计算方式。",
+            "transfer": [
+                "Det er en af grundene til, at mange overvurderer sjældne risici.",
+                "Man bør sammenligne risikoen pr. passagerkilometer.",
+                "Noget kan føles farligt, selvom den statistiske risiko er lav."
+            ],
+            "pitfall": "`langt farligere` 中的 `langt` 是远远、得多，不是物理距离远。风险比较必须注意分母，`pr. passagerkilometer` 不等于按每次行程计算。"
+        },
+        {
+            "id": "U30-C027",
+            "zh": "人们普遍认为，没有谁能完全免受这类思维捷径的影响——即使是聪明人也不例外。",
+            "grammar": "主句 `Der er bred enighed om` 使用存在结构，表示某个判断具有广泛共识。`at ingen er immune over for den slags genveje` 是内容从句。`immun over for` 是固定形容词介词搭配。破折号后的 `heller ikke de kloge` 是省略句，补充强调受过良好教育或聪明的人也不能例外。",
+            "vocabulary": [
+                {
+                    "da": "bred enighed om",
+                    "zh": "对……存在广泛共识",
+                    "note": "适合学术、政策和社会讨论"
+                },
+                {
+                    "da": "immun over for",
+                    "zh": "对……免疫；不受……影响",
+                    "note": "也可用于抽象的心理影响"
+                },
+                {
+                    "da": "den slags",
+                    "zh": "这一类；那种",
+                    "note": "指代前文提到的认知捷径"
+                },
+                {
+                    "da": "en genvej",
+                    "zh": "捷径；简化路径",
+                    "note": "这里比喻认知上的快速判断"
+                },
+                {
+                    "da": "heller ikke",
+                    "zh": "也不；同样不",
+                    "note": "用于补充否定"
+                }
+            ],
+            "nuance": "这句强调认知偏误并非智力不足者才有的问题。`heller ikke de kloge` 很有力量，因为它直接反驳聪明人不会犯这种错误的直觉。`bred enighed` 表示普遍共识，而不是绝对一致。作者借此引出认识自己局限的重要性。",
+            "transfer": [
+                "Ingen er immune over for kognitive bias.",
+                "Der er bred enighed om, at alle kan begå tankefejl.",
+                "Det gælder også eksperter og højtuddannede."
+            ],
+            "pitfall": "`immun over for` 的固定介词是 `over for`，不要直接使用 `mod` 替代所有场景。`genvej` 在本句不是地图上的近路，而是认知捷径。"
+        },
+        {
+            "id": "U30-C028",
+            "zh": "我们可以在一定程度上学会察觉自己身上的这些偏误，但质疑别人的信念，总是比反省自己的信念容易得多。",
+            "grammar": "第一分句 `Vi kan … lære at opdage dem hos os selv` 中，情态动词 `kan` 后接两个连续不定式结构。`i et vist omfang` 表示在一定程度上。第二分句使用形式主语结构 `det er lettere at X end at Y`，比较质疑他人观点与质疑自己观点的难度。`sætte spørgsmålstegn ved` 是固定搭配，`sine egne` 省略重复的 `overbevisninger`。",
+            "vocabulary": [
+                {
+                    "da": "i et vist omfang",
+                    "zh": "在一定程度上",
+                    "note": "常用于谨慎限定结论"
+                },
+                {
+                    "da": "opdage hos sig selv",
+                    "zh": "察觉自己具有某种特点",
+                    "note": "适合自我反思"
+                },
+                {
+                    "da": "sætte spørgsmålstegn ved",
+                    "zh": "质疑；对……提出疑问",
+                    "note": "非常实用的学术论证搭配"
+                },
+                {
+                    "da": "en overbevisning",
+                    "zh": "信念；深信不疑的观点",
+                    "note": "复数 `overbevisninger`"
+                },
+                {
+                    "da": "sine egne",
+                    "zh": "自己的那些",
+                    "note": "省略前面已经出现的复数名词"
+                }
+            ],
+            "nuance": "作者把心理学研究转化为一种自我认识原则。`i et vist omfang` 承认人们可以训练自己识别偏误，但不承诺完全消除。`altid lettere` 具有概括性和修辞强调效果，指出人在批评别人时往往比检视自己更敏锐。整句特别适合用于科研同行评审、政治讨论和团队决策。",
+            "transfer": [
+                "Vi bør lære at opdage vores egne bias.",
+                "Det er lettere at sætte spørgsmålstegn ved andres antagelser end ved sine egne.",
+                "Man kan kun i et vist omfang undgå kognitive genveje."
+            ],
+            "pitfall": "`sætte spørgsmålstegn ved` 是固定表达，不能省略 `ved`。`sine egne` 在本句省略的是观点或信念，不是泛指自己的所有物。"
+        },
+        {
+            "id": "U30-C029",
+            "zh": "在丹麦高中，许多学生会学习如何把一个论证拆解成几个基本部分来进行分析。",
+            "grammar": "句首 `I gymnasiet` 是地点和教育场景状语，后接 `lærer mange elever` 的 V2 语序。`lære at analysere` 表示学习如何分析。`ved at dele dem op i nogle få dele` 是方式状语，说明分析方法。`dele noget op i` 是动词小品词结构，表示将整体划分成若干部分；`dem` 回指前面的 `argumenter`。",
+            "vocabulary": [
+                {
+                    "da": "gymnasiet",
+                    "zh": "丹麦高中；普通高中教育阶段",
+                    "note": "不等于专门的体育馆"
+                },
+                {
+                    "da": "analysere",
+                    "zh": "分析",
+                    "note": "学术和教育中的基础动词"
+                },
+                {
+                    "da": "et argument",
+                    "zh": "论证；论据；理由",
+                    "note": "具体含义由论证结构决定"
+                },
+                {
+                    "da": "dele noget op i",
+                    "zh": "把某物划分成若干部分",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "nogle få",
+                    "zh": "少数几个",
+                    "note": "数量限定表达"
+                }
+            ],
+            "nuance": "文章从科学知识和认知偏误转向论证分析。作者以丹麦高中的教育场景为切入点，说明论证可以像复杂结构一样拆解。`ved at dele dem op` 强调分析是一种可学习的方法，而不仅是凭直觉判断某个观点是否让人信服。",
+            "transfer": [
+                "Vi lærer at analysere argumenter i gymnasiet.",
+                "Man kan dele et argument op i påstand, belæg og hjemmel.",
+                "Ved at analysere argumentet bliver det lettere at vurdere det."
+            ],
+            "pitfall": "`dele op i` 是拆分成，不能与 `dele med` 和别人分享混淆。丹麦的 `gymnasium` 通常指高中教育机构，并非英语 gymnasium 的健身房含义。"
+        },
+        {
+            "id": "U30-C030",
+            "zh": "所谓主张，就是一个人想要说服别人接受的那个观点。",
+            "grammar": "定义结构 `Påstanden er det` 后接关系从句 `man vil overbevise andre om`。`det` 是泛指代词，代替希望别人相信的内容。`overbevise nogen om noget` 是固定双补足结构，介词 `om` 留在从句末尾，对应前面的 `det`。",
+            "vocabulary": [
+                {
+                    "da": "en påstand",
+                    "zh": "主张；断言；论点",
+                    "note": "论证分析中的核心术语"
+                },
+                {
+                    "da": "overbevise nogen om noget",
+                    "zh": "使某人相信某事；说服某人接受某观点",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "andre",
+                    "zh": "其他人；别人",
+                    "note": "泛指复数"
+                }
+            ],
+            "nuance": "这是论证分析中的第一项定义。`påstand` 并不自动表示没有证据的胡说，而是指论证希望确立的核心结论。在丹麦语的论证模型中，主张与支持它的依据需要分开识别。`overbevise` 强调目标是让他人接受某个观点。",
+            "transfer": [
+                "Påstanden er, at skolen bør ændre reglerne.",
+                "Hvad vil du overbevise andre om?",
+                "Vi skal skelne mellem påstand og belæg."
+            ],
+            "pitfall": "`påstand` 在日常语境可能含有未经证实的断言意味，但在论证分析中是中性的结构术语。`overbevise om` 与 `overtale til` 的搭配和侧重点不同。"
+        },
+        {
+            "id": "U30-C031",
+            "zh": "所谓论据，就是支撑这一主张的那些信息或事实依据。",
+            "grammar": "主句 `Belægget er de oplysninger` 后接省略关系代词的关系从句 `påstanden er baseret på`。`basere noget på noget` 在被动结构中变为 `noget er baseret på noget`。关系从句末尾的 `på` 对应前面的 `de oplysninger`。",
+            "vocabulary": [
+                {
+                    "da": "et belæg",
+                    "zh": "论据；支持主张的依据",
+                    "note": "论证分析术语；确定形式 `belægget`"
+                },
+                {
+                    "da": "en oplysning",
+                    "zh": "信息；事实资料",
+                    "note": "复数 `oplysninger`"
+                },
+                {
+                    "da": "være baseret på",
+                    "zh": "建立在……基础上；以……为依据",
+                    "note": "固定介词 `på`"
+                }
+            ],
+            "nuance": "作者给出第二项基本术语。`belæg` 在这里是支持主张的证据或事实依据，但它本身也需要接受可靠性检验。判断论据是否成立，与判断论据能否真正支持主张，是两个不同问题；后一层关系将在下一句用 `hjemmel` 解释。",
+            "transfer": [
+                "Hvilket belæg har du for din påstand?",
+                "Argumentet er baseret på flere undersøgelser.",
+                "Vi har brug for oplysninger, der kan støtte konklusionen."
+            ],
+            "pitfall": "`belæg` 在论证语境中是依据，不是建筑材料或铺设物。`baseret på` 后必须保留介词 `på`。"
+        },
+        {
+            "id": "U30-C032",
+            "zh": "所谓论证保证，就是连接论据与主张、使论据真正能够支持主张的那条推理原则；而在实际讨论中，这条原则通常很少被明确说出来。",
+            "grammar": "主句 `Hjemlen er den forbindelse` 后接关系从句 `der gør, at belægget overhovedet støtter påstanden`，其中 `gør, at` 表示使某种关系成立。`overhovedet` 在这里强调究竟凭什么能够形成支持关系。第二分句 `i praksis bliver den sjældent sagt højt` 以状语开头，随后采用 `bliver den` 的 V2 语序，并使用被动结构。`den` 回指 `hjemlen`。",
+            "vocabulary": [
+                {
+                    "da": "en hjemmel",
+                    "zh": "论证保证；连接论据与主张的推理依据",
+                    "note": "本句属于论证理论，不是法律授权意义上的 `hjemmel`"
+                },
+                {
+                    "da": "en forbindelse mellem",
+                    "zh": "……之间的联系",
+                    "note": "介词 `mellem` 引出两个对象"
+                },
+                {
+                    "da": "overhovedet",
+                    "zh": "究竟；到底；根本",
+                    "note": "常用于强调某事是否真正成立"
+                },
+                {
+                    "da": "i praksis",
+                    "zh": "在实际操作中；实际上",
+                    "note": "与理论上的情形形成对照"
+                },
+                {
+                    "da": "sige noget højt",
+                    "zh": "把某件事明确说出来",
+                    "note": "`højt` 在这里指说出声、明说"
+                }
+            ],
+            "nuance": "这是整篇文章中最值得深入掌握的论证概念。`hjemmel` 对应论证理论中的 warrant，说明为什么某个事实能够成为支持某个结论的理由。例如树木能提供阴凉是论据，而公共部门应保护居民免受炎热影响，才是把论据连接到植树主张的保证。`sjældent sagt højt` 说明许多争论真正依赖的价值前提往往没有被明说。",
+            "transfer": [
+                "Hjemlen forklarer, hvorfor belægget støtter påstanden.",
+                "I praksis bliver den underliggende antagelse sjældent sagt højt.",
+                "Vi bør gøre hjemlen tydelig, før vi vurderer argumentet."
+            ],
+            "pitfall": "`hjemmel` 在法律语境中可指法定依据，但在论证分析中指连接论据与主张的保证原则。`sagt højt` 不是评价声音音量，而是指明确表达出来。"
+        },
+        {
+            "id": "U30-C033",
+            "zh": "一个论证即使在逻辑结构上没有问题，如果支撑它的论据站不住脚，最终仍然可能是错误的。",
+            "grammar": "主句 `Et argument kan være logisk i orden og alligevel forkert` 使用情态动词 `kan`，并通过 `og alligevel` 形成看似矛盾的两种评价。`hvis belægget ikke holder` 是条件从句，说明论证内容可能失败的原因。`holde` 在这里是比喻用法，表示论据经得起检验。",
+            "vocabulary": [
+                {
+                    "da": "logisk i orden",
+                    "zh": "逻辑上成立；结构没有问题",
+                    "note": "可用于论证、推理和解释"
+                },
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；仍然",
+                    "note": "承认前一事实后引出相反情况"
+                },
+                {
+                    "da": "holde",
+                    "zh": "站得住脚；经得起检验",
+                    "note": "`argumentet holder ikke` 论证站不住脚"
+                },
+                {
+                    "da": "et belæg",
+                    "zh": "论据；依据",
+                    "note": "应检验其真实性和相关性"
+                }
+            ],
+            "nuance": "作者区分推理结构与经验依据的质量。一个推论可能在形式上合理，但如果所依据的数据是错误的，结论仍然不可靠。`logisk i orden` 和 `alligevel forkert` 的对照尤其适合训练审稿和批判性思维：不能只因为论证听起来连贯，就忽略证据本身是否有效。",
+            "transfer": [
+                "Argumentet kan være logisk i orden, selvom belægget ikke holder.",
+                "Konklusionen er usikker, hvis oplysningerne er forkerte.",
+                "Vi skal både vurdere logikken og kvaliteten af belægget."
+            ],
+            "pitfall": "`holde` 在这里是站得住脚，不是物理上保持住某个东西。逻辑上有效与事实前提真实是不同的评价维度。"
+        },
+        {
+            "id": "U30-C034",
+            "zh": "来看这样一个主张：“市政府应该在城市街道上种更多树木。”",
+            "grammar": "`Tag` 是 `tage` 的祈使式。这里的 `Tag påstanden` 不是要求读者拿起某个物体，而是引导读者把一个例子作为分析对象。冒号后给出具体主张，内部 `Kommunen bør plante` 使用情态动词 `bør`，表达规范性建议，而非已经实施的政策。",
+            "vocabulary": [
+                {
+                    "da": "tage et eksempel",
+                    "zh": "举一个例子；拿某个例子来看",
+                    "note": "论证和教学中的自然表达"
+                },
+                {
+                    "da": "en påstand",
+                    "zh": "主张；论点",
+                    "note": "论证结构中的结论部分"
+                },
+                {
+                    "da": "bør",
+                    "zh": "应该；应当",
+                    "note": "表达规范性建议"
+                },
+                {
+                    "da": "plante træer",
+                    "zh": "种树",
+                    "note": "`plante` 及物动词"
+                }
+            ],
+            "nuance": "作者从抽象的论证术语转向一个具有公共政策意义的实例。城市植树既可以涉及环境和健康，也可以涉及预算和公共空间利用，非常适合用于展示事实依据与价值判断的关系。`Tag` 是引导分析的教学用语。",
+            "transfer": [
+                "Tag for eksempel påstanden om, at kommunen bør plante flere træer.",
+                "Kommunen bør investere mere i grønne områder.",
+                "Lad os analysere argumentet trin for trin."
+            ],
+            "pitfall": "`bør` 是应当，不等于 `skal` 所表达的强制性义务。`tage påstanden` 在这里是拿一个论点作例子，不是接受这个观点为真。"
+        },
+        {
+            "id": "U30-C035",
+            "zh": "支持这一主张的论据可以是：树木能够在炎热的日子里提供阴凉，并且在暴雨时吸收雨水。",
+            "grammar": "主句 `Belægget kan være` 使用情态动词 `kan`，说明这是可能的论据之一。后面的 `at` 内容从句包含两个并列谓语 `giver` 和 `opsuger`。`på varme dage` 与 `ved skybrud` 分别给出两种天气情境。整个结构适合列举支持某项政策的具体事实。",
+            "vocabulary": [
+                {
+                    "da": "give skygge",
+                    "zh": "提供阴凉；形成遮阴",
+                    "note": "自然环境和城市规划中的常用表达"
+                },
+                {
+                    "da": "opsuge",
+                    "zh": "吸收；吸附",
+                    "note": "`opsuge regnvand` 吸收雨水"
+                },
+                {
+                    "da": "regnvand",
+                    "zh": "雨水",
+                    "note": "et regnvand；通常作为物质名词使用"
+                },
+                {
+                    "da": "et skybrud",
+                    "zh": "短时强降雨；暴雨",
+                    "note": "丹麦气候和城市排水讨论中的常用词"
+                }
+            ],
+            "nuance": "作者给出两项与城市植树相关的实际利益，说明 `belæg` 可以由具体、可研究的事实构成。`kan være` 留有空间，表示这只是可能使用的论据，而不是唯一依据。阴凉与雨水吸收具有不同环境作用，也使论证更具多方面的支持。",
+            "transfer": [
+                "Belægget kan være, at træer giver skygge og forbedrer bymiljøet.",
+                "Grønne områder kan hjælpe med at håndtere regnvand.",
+                "Argumentet bygger på både sundhedsmæssige og miljømæssige hensyn."
+            ],
+            "pitfall": "`et skybrud` 是强降雨，不是天空破裂。`give skygge` 是提供遮阴，不是把某个影子交给别人。"
+        },
+        {
+            "id": "U30-C036",
+            "zh": "这项论证中没有明说的保证前提是：市政府有责任保护居民，减少他们受到气候变得更热、更潮湿所带来的影响。",
+            "grammar": "主语 `Hjemlen` 后插入同位解释 `det, der ikke bliver sagt`，其中 `bliver sagt` 是被动结构。主句 `er, at …` 引出保证前提的具体内容。`have et ansvar for at + 不定式` 表示有责任做某事。`beskytte borgerne mod konsekvenserne af` 是复杂介词搭配。`et varmere og vådere klima` 使用两个比较级形容词修饰中性名词 `klima`。",
+            "vocabulary": [
+                {
+                    "da": "have et ansvar for at",
+                    "zh": "有责任做某事",
+                    "note": "公共政策和组织治理高频搭配"
+                },
+                {
+                    "da": "beskytte nogen mod",
+                    "zh": "保护某人免受……侵害",
+                    "note": "固定介词 `mod`"
+                },
+                {
+                    "da": "en konsekvens",
+                    "zh": "后果；影响",
+                    "note": "复数 `konsekvenser`"
+                },
+                {
+                    "da": "vådere",
+                    "zh": "更潮湿的；降水更多的",
+                    "note": "`våd` 的比较级"
+                },
+                {
+                    "da": "det, der ikke bliver sagt",
+                    "zh": "没有被明说的部分",
+                    "note": "常用于揭示隐含前提"
+                }
+            ],
+            "nuance": "这一句把前面抽象的 `hjemmel` 落实到具体论证中。树木能提供阴凉、吸收雨水属于事实性依据；市政府应保护居民免受气候风险，则是使这些事实与应当植树的政策主张连接起来的规范性前提。不同人可能同意树木的作用，却对市政府的责任范围持不同看法。",
+            "transfer": [
+                "Hjemlen er, at kommunen har et ansvar for at beskytte borgerne.",
+                "Det, der ikke bliver sagt, er den underliggende værdiantagelse.",
+                "Vi bør undersøge, hvilke forudsætninger argumentet bygger på."
+            ],
+            "pitfall": "`beskytte mod` 中的 `mod` 表示防范某种风险，不是反对某个人。`hjemmel` 在此是论证保证，不应误解为法律授权条款。"
+        },
+        {
+            "id": "U30-C037",
+            "zh": "许多争论之所以陷入僵局，是因为争论双方实际上同意事实依据，却不同意背后的论证前提——也就是说，他们对哪些价值应该被优先考虑存在分歧。",
+            "grammar": "主句 `Mange diskussioner kører fast` 使用固定动词短语 `køre fast`。`fordi` 引导原因从句，内部以 `enige om belægget` 和 `uenige om hjemlen` 构成对照。`i virkeligheden` 表示事实上。破折号后的 `altså om, hvilke værdier der skal veje tungest` 对前面的分歧作重新解释，其中 `hvilke værdier der skal veje tungest` 是间接主语疑问从句，`veje tungest` 是价值权重的比喻。",
+            "vocabulary": [
+                {
+                    "da": "køre fast",
+                    "zh": "陷入僵局；进展不下去",
+                    "note": "原义可指车辆陷住"
+                },
+                {
+                    "da": "være enig om",
+                    "zh": "就……达成一致；同意某件事",
+                    "note": "与 `være enig med nogen` 同意某人区分"
+                },
+                {
+                    "da": "være uenig om",
+                    "zh": "在某个问题上存在分歧",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "i virkeligheden",
+                    "zh": "实际上；事实上",
+                    "note": "常用于指出更深层的解释"
+                },
+                {
+                    "da": "veje tungest",
+                    "zh": "具有最高权重；最应优先考虑",
+                    "note": "价值判断中的比喻表达"
+                }
+            ],
+            "nuance": "这是论证理论部分的高潮。作者指出，争论双方可能并不否认对方列出的事实，却因不同的价值观或责任理解而无法达成一致。`i virkeligheden` 提醒读者寻找表面争议背后的真正分歧。`veje tungest` 很适合公共政策分析，表示不同价值之间必须进行权衡。",
+            "transfer": [
+                "Diskussionen kører fast, fordi vi er uenige om de grundlæggende værdier.",
+                "Vi er enige om fakta, men uenige om, hvad der bør prioriteres.",
+                "Hvilke hensyn skal veje tungest i denne beslutning?"
+            ],
+            "pitfall": "`køre fast` 是陷入僵局，不一定涉及车辆。`være enig om noget` 是在某事上达成一致，`være enig med nogen` 是同意某人。"
+        },
+        {
+            "id": "U30-C038",
+            "zh": "丹麦高中二年级的两名学生要讨论，学校是否应该在上课期间禁止使用手机。",
+            "grammar": "主语 `To elever i 2.g` 后接 `skal diskutere`，表示课堂任务。`om skolen bør forbyde mobiltelefoner i timerne` 是间接是否疑问从句，`om` 相当于是否。`bør` 表示规范性建议，`forbyde` 表示禁止。`i timerne` 说明限制的时间范围为课堂期间。",
+            "vocabulary": [
+                {
+                    "da": "2.g",
+                    "zh": "丹麦普通高中二年级",
+                    "note": "丹麦高中年级缩写"
+                },
+                {
+                    "da": "diskutere, om",
+                    "zh": "讨论是否……",
+                    "note": "后接间接是否疑问从句"
+                },
+                {
+                    "da": "forbyde",
+                    "zh": "禁止",
+                    "note": "`forbyde – forbød – forbudt`"
+                },
+                {
+                    "da": "i timerne",
+                    "zh": "在课堂期间",
+                    "note": "`en time` 在学校语境中可指一节课"
+                }
+            ],
+            "nuance": "作者选择手机禁令作为学生辩论案例，因为这个问题既涉及课堂注意力，也涉及数字学习工具。`bør` 将问题定位为应不应该实施某项政策，而不是询问学校是否有技术能力禁止手机。讨论任务为下一段展示高质量分歧提供真实场景。",
+            "transfer": [
+                "Vi skal diskutere, om skolen bør forbyde mobiltelefoner.",
+                "Eleverne er uenige om reglerne i timerne.",
+                "Bør telefoner være tilladt i undervisningen?"
+            ],
+            "pitfall": "`2.g` 是丹麦高中二年级的缩写，不是二克。`i timerne` 是上课期间，不能简单理解为在若干小时之内。"
+        },
+        {
+            "id": "U30-C039",
+            "zh": "老师要求他们先弄清楚，双方真正的分歧在哪里，而不是争着赢过对方。",
+            "grammar": "主句 `Læreren har bedt dem om at finde ud af` 使用现在完成时，表示教师已提出任务。`bede nogen om at + 不定式` 是固定请求结构。`hvad de egentlig er uenige om` 是间接疑问从句，末尾介词 `om` 对应争论的内容。破折号后的 `ikke om at vinde` 是省略式对照，说明任务不是赢得辩论。",
+            "vocabulary": [
+                {
+                    "da": "bede nogen om at",
+                    "zh": "要求或请求某人做某事",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "finde ud af",
+                    "zh": "弄清楚；查明",
+                    "note": "非常高频的动词小品词结构"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "究竟；实际上；真正",
+                    "note": "这里强调识别真实分歧"
+                },
+                {
+                    "da": "være uenig om",
+                    "zh": "在某事上意见不一致",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "vinde",
+                    "zh": "赢；获胜",
+                    "note": "`vinde – vandt – vundet`"
+                }
+            ],
+            "nuance": "老师有意改变学生讨论的目标：不是把对方驳倒，而是查明争论背后真正需要解决的问题。`egentlig` 强调表面观点可能掩盖更深的分歧。`ikke om at vinde` 与全文结尾形成呼应，说明高质量讨论不一定以某一方获胜为标准。",
+            "transfer": [
+                "Vi skal finde ud af, hvad vi egentlig er uenige om.",
+                "Formålet er at forstå problemet, ikke at vinde diskussionen.",
+                "Læreren bad os om at undersøge argumenterne nærmere."
+            ],
+            "pitfall": "`bede nogen om at` 是请求或要求，不能省略 `om`。`finde ud af` 是弄清楚，不是寻找一条出去的道路。"
+        },
+        {
+            "id": "U30-C040",
+            "zh": "我觉得应该禁用手机。班里有一半的人上课时都在刷社交媒体，而不是认真听课。",
+            "grammar": "第一句 `Jeg synes, vi skal forbyde dem` 是口语中省略 `at` 的内容从句，`dem` 回指手机。第二句 `Halvdelen af klassen sidder på sociale medier` 使用 `halvdelen af` 表示一半。`i stedet for at følge med` 表示以刷社交媒体取代课堂参与。`sidde på sociale medier` 是口语表达，强调持续使用社交平台。",
+            "vocabulary": [
+                {
+                    "da": "forbyde noget",
+                    "zh": "禁止某事物",
+                    "note": "直接接宾语"
+                },
+                {
+                    "da": "halvdelen af",
+                    "zh": "……的一半",
+                    "note": "整体比例表达"
+                },
+                {
+                    "da": "sidde på sociale medier",
+                    "zh": "一直刷社交媒体",
+                    "note": "非正式口语"
+                },
+                {
+                    "da": "i stedet for at",
+                    "zh": "而不是……",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "følge med",
+                    "zh": "跟上进度；认真听讲；参与理解",
+                    "note": "课堂语境中表示跟上教学内容"
+                }
+            ],
+            "nuance": "Sara 给出明确主张，并以课堂中的注意力问题作为支持理由。`Jeg synes` 表示她提出的是自己的判断，而不是已经被验证的普遍事实。`Halvdelen af klassen` 是她使用的具体数量说法，但对话并未提供实际测量证据，这一点与前文关于论据可靠性的讨论密切相关。",
+            "transfer": [
+                "Jeg synes, vi bør begrænse brugen af telefoner i timerne.",
+                "Mange elever sidder på sociale medier i stedet for at følge med.",
+                "Telefonerne kan forstyrre undervisningen."
+            ],
+            "pitfall": "`følge med` 在课堂中是听懂并跟上进度，不是跟某人一起走。`dem` 指手机，不能按单数理解。"
+        },
+        {
+            "id": "U30-C041",
+            "zh": "这倒也许是真的，但我们也会用手机查字典、核实事实啊。",
+            "grammar": "第一部分 `Det kan godt være` 是让步性固定表达，承认对方的说法可能有一定道理。`men` 引出反驳或补充。第二部分 `vi bruger dem også som ordbog og til at tjekke fakta` 使用两个并列用途表达：`bruge noget som X` 表示把某物当作某种工具，`bruge noget til at + 不定式` 表示用某物来完成某个目的。",
+            "vocabulary": [
+                {
+                    "da": "Det kan godt være",
+                    "zh": "这也许是对的；这倒可能",
+                    "note": "口语中非常自然的让步开场"
+                },
+                {
+                    "da": "bruge noget som",
+                    "zh": "把某物当作……使用",
+                    "note": "强调角色或用途"
+                },
+                {
+                    "da": "bruge noget til at",
+                    "zh": "用某物来做某事",
+                    "note": "后接不定式"
+                },
+                {
+                    "da": "tjekke fakta",
+                    "zh": "核实事实；查证信息",
+                    "note": "适合新闻、研究和学习语境"
+                },
+                {
+                    "da": "en ordbog",
+                    "zh": "词典",
+                    "note": "复数 `ordbøger`"
+                }
+            ],
+            "nuance": "Ali 并没有直接否认手机可能使学生分心，而是提出手机的另一项实际用途。`Det kan godt være, men …` 很适合建设性分歧：先承认对方观点可能成立，再补充其尚未考虑的因素。这样比直接说你错了更容易让讨论继续。",
+            "transfer": [
+                "Det kan godt være, men der er også fordele.",
+                "Vi bruger telefonen som ordbog og til at slå oplysninger op.",
+                "Det er vigtigt at se både fordele og ulemper."
+            ],
+            "pitfall": "`Det kan godt være` 是可能如此，并不表示完全同意对方。`bruge som` 和 `bruge til at` 结构不同，不能随意省略介词。"
+        },
+        {
+            "id": "U30-C042",
+            "zh": "这些事情在电脑上不也能做吗？",
+            "grammar": "主语或宾语性代词 `Det` 位于句首，`kan man` 使用 V2 语序。`da` 是语气小品词，强调说话人认为这个解决办法很明显。`gøre på computeren` 表示通过电脑完成前文所述活动。句子省略了具体活动内容，由前一句查字典和核实事实恢复。",
+            "vocabulary": [
+                {
+                    "da": "det kan man gøre",
+                    "zh": "这件事可以做到",
+                    "note": "`gøre` 代替前文行为"
+                },
+                {
+                    "da": "da",
+                    "zh": "这不是明明可以吗；当然可以",
+                    "note": "这里带有反驳与强调语气"
+                },
+                {
+                    "da": "på computeren",
+                    "zh": "在电脑上；用电脑",
+                    "note": "数字设备的常见介词用法"
+                }
+            ],
+            "nuance": "Sara 接受手机确实可以提供工具功能，但指出这些功能未必只能通过手机实现。`da` 使她的话带一点不耐烦或理所当然的语气，像中文的这不是在电脑上也能做吗。她正在尝试把手机的功能需求和手机这一设备本身分开。",
+            "transfer": [
+                "Det kan man da også gøre på computeren.",
+                "Man behøver ikke en telefon for at slå ord op.",
+                "Vi kan bruge computeren i stedet."
+            ],
+            "pitfall": "`da` 在这里不是时间连词当时，而是表示说话人态度的语气小品词。`på computeren` 在使用软件、查资料的语境中很自然。"
+        },
+        {
+            "id": "U30-C043",
+            "zh": "是啊，可这样一来，问题就不在手机本身了。真正的问题是我们缺乏自我控制能力。",
+            "grammar": "两个句子均以 `så` 引出推论。第一句 `så er problemet jo ikke telefonen` 使用 V2 语序，`jo` 表示说话人认为这一结论已经可以从前文推出。第二句 `Så er det, at vi ikke kan styre os` 使用带内容从句的解释性结构，说明真正的问题是什么。`styre sig` 是反身表达，表示控制自己的行为。",
+            "vocabulary": [
+                {
+                    "da": "så",
+                    "zh": "那么；这样一来",
+                    "note": "用于引出推论"
+                },
+                {
+                    "da": "problemet er ikke",
+                    "zh": "问题并不在于……",
+                    "note": "重新界定争议焦点"
+                },
+                {
+                    "da": "styre sig",
+                    "zh": "控制自己；克制自己",
+                    "note": "反身结构"
+                },
+                {
+                    "da": "jo",
+                    "zh": "这不就……嘛",
+                    "note": "强调推论的显然性"
+                }
+            ],
+            "nuance": "Ali 开始将争论从是否禁止设备转向学生的自我管理问题。`jo` 带有现在你也看出来了吧的论证语气。这并没有直接证明禁令无效，而是在质疑问题是否真的源于手机这种设备。这正是老师希望学生找出的真实分歧之一。",
+            "transfer": [
+                "Så er problemet jo ikke teknologien, men måden vi bruger den på.",
+                "Vi skal lære at styre os selv.",
+                "Det egentlige problem er vores adfærd."
+            ],
+            "pitfall": "`styre sig` 是控制自己，`styre noget` 是管理或控制某物。`jo` 在本句不是原因连词。"
+        },
+        {
+            "id": "U30-C044",
+            "zh": "好吧。那要有什么证据，才能说服你改变看法？",
+            "grammar": "`Hvad skulle der til for at overbevise dig?` 使用固定结构 `hvad skal der til`，询问实现某个目标需要哪些条件。`skulle` 是过去式形式，在这里表达更委婉、假设性的询问，而不是过去发生的必要性。`for at overbevise dig` 是目的状语，`overbevise nogen` 指改变某人的观点。",
+            "vocabulary": [
+                {
+                    "da": "hvad skal der til",
+                    "zh": "需要什么条件；怎样才行",
+                    "note": "高价值固定问句"
+                },
+                {
+                    "da": "skulle",
+                    "zh": "在假设情况下需要",
+                    "note": "过去式形式可用于委婉假设"
+                },
+                {
+                    "da": "overbevise",
+                    "zh": "说服；使人信服",
+                    "note": "`overbevise nogen om noget`"
+                }
+            ],
+            "nuance": "这是对话中极为重要的转折。Sara 不再只是提出自己的证据，而是询问 Ali 在什么情况下愿意改变观点。`Hvad skulle der til …?` 是建设性讨论、谈判、科研争议和团队决策中非常实用的问题，因为它让双方提前明确什么样的证据具有说服力。",
+            "transfer": [
+                "Hvad skulle der til for at ændre din mening?",
+                "Hvilken dokumentation ville overbevise dig?",
+                "Hvad skal der til for at træffe en beslutning?"
+            ],
+            "pitfall": "`hvad skal der til` 是实现目标所需条件，不是把什么送到某个地方。`skulle` 在这里不表示过去某个时刻确实必须如此。"
+        },
+        {
+            "id": "U30-C045",
+            "zh": "如果有人做过实验，而且结果显示，不用手机确实能学到更多东西，我就会被说服。不能只是老师觉得课堂更安静了而已。",
+            "grammar": "第一部分 `Hvis nogen havde lavet forsøg` 使用过去完成时形式构成反事实或假设性条件，表示理想中的证据条件。`der viste, at man rent faktisk lærer mere uden` 是修饰实验的关系从句，内部再嵌套 `at` 内容从句。`uden` 后省略了手机，具体对象由前文恢复。第二部分 `Ikke bare at lærerne synes` 是口语省略结构，指出仅凭某种主观感受还不够。",
+            "vocabulary": [
+                {
+                    "da": "lave forsøg",
+                    "zh": "开展实验",
+                    "note": "也可说 `gennemføre forsøg`"
+                },
+                {
+                    "da": "vise, at",
+                    "zh": "表明；显示……",
+                    "note": "引出研究结果"
+                },
+                {
+                    "da": "rent faktisk",
+                    "zh": "确实；真正地",
+                    "note": "比单独的 `faktisk` 更强调真实效果"
+                },
+                {
+                    "da": "lære mere",
+                    "zh": "学到更多；学习效果更好",
+                    "note": "本句强调学习成果"
+                },
+                {
+                    "da": "mere ro",
+                    "zh": "更加安静；秩序更好",
+                    "note": "与学习成绩提升不是同一指标"
+                }
+            ],
+            "nuance": "Ali 提出了一个可检验的说服条件：禁止手机必须能够提高实际学习效果，而不是仅仅让课堂看起来更安静。`rent faktisk` 强调可观察的真实成果。这个区分很重要，因为课堂管理感受与学习结果可能相关，却不能被简单视为相同指标。Ali 的条件表达也表明他并非原则上拒绝所有反对证据。",
+            "transfer": [
+                "Hvis der fandtes forsøg, der viste en klar effekt, ville jeg genoverveje min holdning.",
+                "Vi skal undersøge, om eleverne rent faktisk lærer mere.",
+                "Det er ikke nok, at lærerne oplever mere ro."
+            ],
+            "pitfall": "`rent faktisk` 是确实，不是干净地、事实上。`uden` 在这里省略了手机，不能脱离上下文误解为一般的缺乏。第一部分是假设性条件，不是明确断言这些实验已经存在。"
+        },
+        {
+            "id": "U30-C046",
+            "zh": "确实有一些研究的结果支持这个方向。不过这些研究还没有得出完全一致的结论，这一点我得承认。",
+            "grammar": "第一句 `Der findes nogle undersøgelser` 是存在结构，后接关系从句 `der peger i den retning`。`pege i en retning` 是比喻性表达，表示证据支持某种解释。第二句 `de er ikke helt entydige` 使用程度否定。`det må jeg indrømme` 将宾语 `det` 前置，引发 `må jeg` 的 V2 倒装，表达不得不承认某事。",
+            "vocabulary": [
+                {
+                    "da": "der findes",
+                    "zh": "存在；有",
+                    "note": "正式和书面语中常见"
+                },
+                {
+                    "da": "pege i den retning",
+                    "zh": "支持这一方向；指向这种解释",
+                    "note": "研究论证中的常见比喻"
+                },
+                {
+                    "da": "entydig",
+                    "zh": "明确无歧义的；一致的",
+                    "note": "`ikke helt entydig` 结论并不完全明确"
+                },
+                {
+                    "da": "indrømme",
+                    "zh": "承认",
+                    "note": "`indrømme – indrømmede – indrømmet`"
+                },
+                {
+                    "da": "det må jeg indrømme",
+                    "zh": "这点我得承认",
+                    "note": "用于承认对方指出的局限"
+                }
+            ],
+            "nuance": "Sara 的回应展现了科学论证中的重要品质：承认存在支持性研究，同时坦率指出证据尚不一致。`peger i den retning` 比直接说证明更谨慎，`ikke helt entydige` 则避免夸大证据强度。`det må jeg indrømme` 使对话从争输赢转向共同识别证据局限。",
+            "transfer": [
+                "Der findes undersøgelser, der peger i den retning.",
+                "Resultaterne er dog ikke helt entydige.",
+                "Det må jeg indrømme. Vi har ikke nok dokumentation endnu."
+            ],
+            "pitfall": "`pege i den retning` 不是实际指向某个方向，而是证据趋向支持某种结论。`entydig` 不等于正确，只表示解释或结果较明确一致。"
+        },
+        {
+            "id": "U30-C047",
+            "zh": "要不我们就在自己班试行半年，看看究竟会发生什么？",
+            "grammar": "`Kunne vi ikke bare …?` 使用情态动词过去式 `kunne` 加否定疑问形式，构成委婉提议。`bare` 表示事情可以简单地先试一试。`prøve det i vores klasse et halvt år` 指在班级中试行该方案。`og se, hvad der sker` 是并列不定式结构，其中 `hvad der sker` 是间接主语疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "Kunne vi ikke …?",
+                    "zh": "我们要不要……？",
+                    "note": "自然礼貌的建议句型"
+                },
+                {
+                    "da": "bare",
+                    "zh": "就；不如先",
+                    "note": "降低提议显得复杂或沉重的程度"
+                },
+                {
+                    "da": "prøve noget",
+                    "zh": "试行；尝试",
+                    "note": "可用于制度和新方法"
+                },
+                {
+                    "da": "et halvt år",
+                    "zh": "半年",
+                    "note": "`et år` 为中性名词"
+                },
+                {
+                    "da": "se, hvad der sker",
+                    "zh": "看看会发生什么；观察结果",
+                    "note": "试行措施时的自然表达"
+                }
+            ],
+            "nuance": "Ali 从纯粹争论转向提出一个共同认可的实践方案。`Kunne vi ikke bare …?` 语气友好、务实，不是激烈反驳。试行半年意味着双方可以用自己的实际体验和数据检验观点。不过，这种班级试行是否具有严格科学实验的证据力，还取决于如何测量、比较和控制其他因素。",
+            "transfer": [
+                "Kunne vi ikke prøve det i et halvt år?",
+                "Lad os teste ordningen og se, hvad der sker.",
+                "Vi kan evaluere forsøget efter seks måneder."
+            ],
+            "pitfall": "`Kunne vi ikke …?` 常用于积极提议，不能机械按难道我们不能理解成责备。`et halvt år` 是半年，`en halv time` 是半小时，性别形式不同。"
+        },
+        {
+            "id": "U30-C048",
+            "zh": "行。如果试行之后成绩没有提高，那我就承认你说得对。",
+            "grammar": "第一句 `Fint` 是简短认可。第二句由 `hvis` 条件从句和主句组成，`karaktererne ikke bliver bedre` 使用从句语序，表示成绩没有改善。主句 `må jeg give dig ret` 中，`må` 表示届时应当或不得不承认，`give nogen ret` 是固定表达，表示承认某人观点正确。",
+            "vocabulary": [
+                {
+                    "da": "en karakter",
+                    "zh": "成绩；分数；等级评价",
+                    "note": "复数 `karakterer`"
+                },
+                {
+                    "da": "blive bedre",
+                    "zh": "得到改善；变得更好",
+                    "note": "可用于成绩、表现和情况"
+                },
+                {
+                    "da": "give nogen ret",
+                    "zh": "承认某人说得对；赞同某人的判断",
+                    "note": "非常值得主动掌握的固定搭配"
+                },
+                {
+                    "da": "fint",
+                    "zh": "行；好；可以",
+                    "note": "简短的口头同意"
+                }
+            ],
+            "nuance": "Sara 明确承诺，如果试验结果不支持自己的立场，她愿意接受 Ali 的判断。`give dig ret` 比简单的 `være enig` 更强调承认对方在某个争论点上判断正确。这句话把愿意改变看法从抽象原则变成了事先约定的行动。",
+            "transfer": [
+                "Hvis resultaterne ikke bliver bedre, må jeg give dig ret.",
+                "Jeg giver dig ret, hvis dokumentationen støtter din påstand.",
+                "Vi bør aftale kriterierne, før forsøget begynder."
+            ],
+            "pitfall": "`give nogen ret` 是承认某人正确，不是把法律权利转交给他。`karakter` 在学校语境中是成绩，也可能在其他语境中指性格或人物角色。"
+        },
+        {
+            "id": "U30-C049",
+            "zh": "要是成绩真的提高了，那我也得承认你说得对。",
+            "grammar": "句首 `hvis de gør` 是条件从句，`de` 回指成绩，`gør` 替代前一句的 `bliver bedre`。主句 `så må jeg give dig ret` 使用 `så` 引出条件成立时的结果，`må` 表示接受证据后的必要让步。整个句子与 Sara 的上一句构成平行回应。",
+            "vocabulary": [
+                {
+                    "da": "hvis de gør",
+                    "zh": "如果确实如此；如果它们真的提高",
+                    "note": "`gør` 代替前文的变化行为"
+                },
+                {
+                    "da": "så",
+                    "zh": "那么；那样一来",
+                    "note": "用于条件句结果部分"
+                },
+                {
+                    "da": "give nogen ret",
+                    "zh": "承认某人说得对",
+                    "note": "固定表达"
+                }
+            ],
+            "nuance": "Ali 作出对等承诺，使双方不再只是要求对方拿出证据，而是都愿意在证据不利于自己时让步。这是对话的关键成果。`hvis de gør` 虽然极短，却通过省略重复内容自然承接前一句，使对话显得真实而流畅。",
+            "transfer": [
+                "Hvis resultaterne viser en forbedring, må jeg give dig ret.",
+                "Hvis forsøget virker, ændrer jeg gerne mening.",
+                "Vi skal begge være villige til at acceptere resultatet."
+            ],
+            "pitfall": "`de` 回指复数的 `karaktererne`，不是学生们。`gør` 在这里代替前面的 `bliver bedre`，不能机械理解为成绩在做某件具体事情。"
+        },
+        {
+            "id": "U30-C050",
+            "zh": "这场讨论最终并没有以任何一方获胜告终。",
+            "grammar": "主语 `Diskussionen` 后接 `endte ikke med`，使用过去时描述讨论结果。`ende med, at …` 是固定结构，表示最终以某种情况告终。`at nogen vandt` 是内容从句，`vandt` 是 `vinde` 的过去时。",
+            "vocabulary": [
+                {
+                    "da": "ende med",
+                    "zh": "最终以……告终",
+                    "note": "后接名词或 `at` 内容从句"
+                },
+                {
+                    "da": "vinde",
+                    "zh": "赢得；获胜",
+                    "note": "`vinde – vandt – vundet`"
+                },
+                {
+                    "da": "en diskussion",
+                    "zh": "讨论；争论",
+                    "note": "在此是建设性的观点交流"
+                }
+            ],
+            "nuance": "这句刻意打破常见的辩论胜负叙事。没有人获胜并不意味着讨论失败，因为双方已经就如何检验争议达成一致。`endte ikke med` 为下一句说明真正成果制造转折空间。",
+            "transfer": [
+                "Diskussionen endte ikke med en klar vinder.",
+                "Vi behøver ikke altid at vinde en diskussion."
+            ],
+            "pitfall": "`ende med` 是以某种结果结束，不能与 `holde op med` 停止做某事混淆。"
+        },
+        {
+            "id": "U30-C051",
+            "zh": "它最终促成了一项共识：双方明确了需要什么条件才能判定这个问题；而这往往比赢下一场争论更有价值。",
+            "grammar": "主语 `Den` 回指讨论，谓语 `endte med en aftale om` 引出讨论的实际结果。`hvad der skulle til for at afgøre sagen` 是间接疑问从句，包含固定结构 `hvad der skal til`，过去式 `skulle` 与过去时叙述相呼应。后半句 `det er ofte mere værd end en sejr` 使用比较结构，表示这种结果的价值超过一次胜利。",
+            "vocabulary": [
+                {
+                    "da": "en aftale om",
+                    "zh": "关于……的协议或约定",
+                    "note": "固定介词 `om`"
+                },
+                {
+                    "da": "hvad der skal til",
+                    "zh": "需要什么条件",
+                    "note": "用于讨论判断标准与行动要求"
+                },
+                {
+                    "da": "afgøre en sag",
+                    "zh": "裁定问题；作出最终判断",
+                    "note": "可用于法律、争议与一般决策"
+                },
+                {
+                    "da": "være mere værd end",
+                    "zh": "比……更有价值",
+                    "note": "固定比较表达"
+                },
+                {
+                    "da": "en sejr",
+                    "zh": "胜利",
+                    "note": "复数 `sejre`"
+                }
+            ],
+            "nuance": "作者明确指出高质量讨论的另一种成功标准：事先确定哪些证据能够解决分歧。这种结果比单纯赢得辩论更有助于后续调查和共同决策。`mere værd end en sejr` 带有价值判断，强调求知和合作高于即时胜负。",
+            "transfer": [
+                "Vi nåede frem til en aftale om, hvordan sagen skulle afgøres.",
+                "Det kan være mere værd at forstå problemet end at vinde diskussionen.",
+                "Vi bør på forhånd aftale, hvad der skal til for at træffe en beslutning."
+            ],
+            "pitfall": "`afgøre sagen` 是裁定或解决争议，不一定意味着法院案件。`være mere værd` 表示价值更高，并不只涉及金钱价值。"
+        },
+        {
+            "id": "U30-C052",
+            "zh": "真正懂得如何理性表达分歧的人，会先尽可能公平、准确地复述对方的观点，然后才提出批评。",
+            "grammar": "句首 `Den, der vil være uenig på en god måde` 是泛指人的关系结构，主句谓语为 `gengiver`。`først` 表示先后顺序。`så fair og præcist som muligt` 是程度结构，表示尽可能公平且准确。`før vedkommende kritiserer det` 是时间从句，`vedkommende` 回指前面的泛指人物，`det` 回指对方观点。",
+            "vocabulary": [
+                {
+                    "da": "være uenig",
+                    "zh": "持不同意见；存在分歧",
+                    "note": "可搭配 `med nogen` 或 `om noget`"
+                },
+                {
+                    "da": "gengive",
+                    "zh": "复述；准确转述；呈现",
+                    "note": "`gengive – gengav – gengivet`"
+                },
+                {
+                    "da": "modpartens synspunkt",
+                    "zh": "对方的观点；争论另一方的立场",
+                    "note": "`en modpart` 对方；`et synspunkt` 观点"
+                },
+                {
+                    "da": "så præcist som muligt",
+                    "zh": "尽可能准确地",
+                    "note": "高度可迁移的程度结构"
+                },
+                {
+                    "da": "vedkommende",
+                    "zh": "该人；有关的人",
+                    "note": "较中性的回指表达"
+                }
+            ],
+            "nuance": "这一句介绍一种重要的建设性辩论方法：在批评之前，先确保自己真正理解对方的论证。`gengiver` 不只是随意重复几个关键词，而是尽量忠实呈现对方实际主张。`fair og præcist` 同时强调公平和准确，能够减少对稻草人论证的攻击。",
+            "transfer": [
+                "Før jeg kritiserer dit synspunkt, vil jeg gerne gengive det så præcist som muligt.",
+                "Man bør forstå modpartens argument, før man forsøger at afvise det.",
+                "Lad mig først sikre mig, at jeg har forstået dig rigtigt."
+            ],
+            "pitfall": "`gengive` 是复述或再现，不是简单的给予。`vedkommende` 在这里指该人，而不必然表示与某事项有关的正式身份。"
+        },
+        {
+            "id": "U30-C053",
+            "zh": "我们应该分清哪些事情是自己知道的，哪些只是自己的看法；提问时，也最好问“你是怎么知道的？”，而不是说“你怎么会相信这种胡说八道？”",
+            "grammar": "第一分句 `Man skelner mellem X og Y` 使用 `skelne mellem`，两个对象都是 `det, man …` 关系结构。第二分句使用比较偏好结构 `spørger hellere X end Y`，`hellere … end …` 表示宁愿采用前一种提问方式。引文内部两句均为直接疑问句，但语用效果差别很大。`tro på` 是固定介词搭配。",
+            "vocabulary": [
+                {
+                    "da": "skelne mellem",
+                    "zh": "区分……和……",
+                    "note": "高频学术与分析搭配"
+                },
+                {
+                    "da": "viden",
+                    "zh": "知识；经过支持的认识",
+                    "note": "应区别于个人意见"
+                },
+                {
+                    "da": "mene",
+                    "zh": "认为；持有观点",
+                    "note": "与 `vide` 知道不同"
+                },
+                {
+                    "da": "hellere … end …",
+                    "zh": "宁可……也不……；更愿意……而不是……",
+                    "note": "偏好比较结构"
+                },
+                {
+                    "da": "vrøvl",
+                    "zh": "胡说八道；荒谬的话",
+                    "note": "带有明显贬义，容易冒犯对方"
+                }
+            ],
+            "nuance": "这是全文关于讨论礼仪最值得直接学习的一句。`Hvordan ved du det?` 将重点放在证据来源和推理过程上，而另一种问法直接贬低对方的判断，很容易使交流变成身份和尊严之争。`skelne mellem` 也提醒学习者，不应把自己强烈相信的观点自动当作已得到证实的知识。",
+            "transfer": [
+                "Vi bør skelne mellem det, vi ved, og det, vi tror.",
+                "Hvordan ved du det?",
+                "Hvilke kilder bygger du din vurdering på?"
+            ],
+            "pitfall": "`vrøvl` 是带有贬义的胡说，正式或建设性讨论中应谨慎使用。`tro på` 表示相信某个主张或对象，`vide` 强调掌握知识，两者不能混同。"
+        },
+        {
+            "id": "U30-C054",
+            "zh": "而且，参与讨论时，我们必须真正保留改变自己看法的可能性。",
+            "grammar": "核心结构 `gå ind i diskussionen med` 使用 `gå ind i` 的抽象意义，表示以某种态度参与讨论。`en reel mulighed for at skifte mening` 是名词短语，其中 `for at` 引出改变观点这一可能行动。`skifte mening` 是固定搭配，表示改变看法。",
+            "vocabulary": [
+                {
+                    "da": "gå ind i en diskussion",
+                    "zh": "参与一场讨论；进入争论",
+                    "note": "强调参与时的态度和准备"
+                },
+                {
+                    "da": "reel",
+                    "zh": "真实的；实质性的",
+                    "note": "与仅仅口头表示开放形成对照"
+                },
+                {
+                    "da": "en mulighed for at",
+                    "zh": "做某事的可能性或机会",
+                    "note": "常见名词不定式搭配"
+                },
+                {
+                    "da": "skifte mening",
+                    "zh": "改变看法；转变立场",
+                    "note": "高频固定表达"
+                }
+            ],
+            "nuance": "这句提出建设性讨论的最低心理前提：参与者必须允许证据和论证真正改变自己的判断。`reel` 是关键，因为仅仅声称自己很开放，与实际上愿意改变立场并不相同。它为最后一章关于智识诚实的总结作铺垫。",
+            "transfer": [
+                "Man bør gå ind i diskussionen med et åbent sind.",
+                "Jeg er villig til at skifte mening, hvis der kommer bedre dokumentation.",
+                "En god diskussion kræver en reel mulighed for at blive klogere."
+            ],
+            "pitfall": "`skifte mening` 是改变看法，不能按字面理解为交换意见的整个过程。`reel` 是真实的、实质性的，不等于现实主义风格。"
+        },
+        {
+            "id": "U30-C055",
+            "zh": "所谓智识上的诚实，就是如实说清楚：哪些事情自己知道，哪些事情自己并不知道。",
+            "grammar": "句子使用两个不定式名词化结构进行定义：`At være intellektuelt redelig` 是主语，`at sige` 是表语。`hvad man ved` 和 `hvad man ikke ved` 是两个并列间接疑问从句，第二个从句中 `ikke` 位于主语 `man` 之后、限定动词 `ved` 之前，形成清晰的知识与未知对照。",
+            "vocabulary": [
+                {
+                    "da": "intellektuelt",
+                    "zh": "在智识或思想层面",
+                    "note": "副词形式"
+                },
+                {
+                    "da": "redelig",
+                    "zh": "诚实正直的；严谨守信的",
+                    "note": "特别适合科研、学术和公共讨论"
+                },
+                {
+                    "da": "vide",
+                    "zh": "知道；掌握确切信息",
+                    "note": "`vide – vidste – vidst`"
+                },
+                {
+                    "da": "hvad man ikke ved",
+                    "zh": "自己不知道的事情",
+                    "note": "适合表达知识边界"
+                }
+            ],
+            "nuance": "最后一章将科学方法、统计判断和辩论规范总结为一种个人品质：`intellektuel redelighed`。这里的诚实不仅是不故意撒谎，还包括准确呈现自己知识的边界，不把猜测包装成事实。两个并列的 `hvad` 从句使标准非常清楚：既应如实说明已知，也应坦率承认未知。",
+            "transfer": [
+                "Intellektuel redelighed kræver, at man erkender sin usikkerhed.",
+                "Jeg vil gerne være tydelig om, hvad jeg ved, og hvad jeg ikke ved.",
+                "Vi skal skelne mellem dokumentation og antagelser."
+            ],
+            "pitfall": "`redelig` 不是普通的聪明或博学，而是诚实、严谨、守信。`intellektuelt redelig` 强调知识判断中的诚信，不是单纯的情绪礼貌。"
+        },
+        {
+            "id": "U30-C056",
+            "zh": "这还意味着，让证据来决定最终判断——即使证据指向一个自己并不愿意接受的结论，也要如此。",
+            "grammar": "句子承接前文的定义，主干为 `Det er at lade beviserne afgøre sagen`。`lade nogen gøre noget` 是使役结构，`lade` 后的不定式 `afgøre` 不加 `at`。`også når` 引导让步性时间情境从句，表示即使在某种情况下仍然如此。`de peger i en retning` 使用比喻表达，`man ikke bryder sig om` 是省略宾语关系代词的关系从句，修饰 `en retning`。",
+            "vocabulary": [
+                {
+                    "da": "lade noget afgøre sagen",
+                    "zh": "让某种证据或标准决定结果",
+                    "note": "`lade + 宾语 + 不带 at 的不定式`"
+                },
+                {
+                    "da": "et bevis",
+                    "zh": "证据；证明",
+                    "note": "复数 `beviser`"
+                },
+                {
+                    "da": "afgøre sagen",
+                    "zh": "决定结果；裁定问题",
+                    "note": "适合学术和决策语境"
+                },
+                {
+                    "da": "pege i en retning",
+                    "zh": "指向某种结论",
+                    "note": "证据支持方向的比喻"
+                },
+                {
+                    "da": "bryde sig om",
+                    "zh": "喜欢；在意；愿意接受",
+                    "note": "否定式 `ikke bryde sig om` 表示不喜欢或不愿接受"
+                }
+            ],
+            "nuance": "这一句把智识诚实的要求进一步提高：不仅要坦率承认未知，还必须在证据不符合自己偏好时仍尊重证据。`lade beviserne afgøre sagen` 是非常适合科研和审稿的表达，强调结论应受证据约束，而非由个人愿望决定。`også når` 突出最难做到的情境：证据可能迫使我们放弃喜欢的解释。",
+            "transfer": [
+                "Vi må lade beviserne afgøre sagen.",
+                "Jeg vil følge dokumentationen, også når den peger i en uventet retning.",
+                "En forsker må kunne acceptere resultater, vedkommende ikke bryder sig om."
+            ],
+            "pitfall": "`lade beviserne afgøre` 中 `afgøre` 前不加 `at`。`bryde sig om` 不能逐词译为打破自己关于某事的想法，它是表示喜欢或在意的固定搭配。"
+        },
+        {
+            "id": "U30-C057",
+            "zh": "而最终，这还意味着能够说出任何争论中最难说出口的三个词：“我错了。”",
+            "grammar": "句子继续使用 `Det er at + 不定式` 的定义结构，与前两句形成平行。`at kunne sige` 包含能力情态动词 `kunne`，强调不仅知道原则，还真正有能力说出口。`de tre sværeste ord` 使用形容词最高级 `sværeste` 修饰确定复数名词 `ord`。引文 `Jeg tog fejl` 使用固定搭配 `tage fejl` 的过去时，表示承认此前判断错误。",
+            "vocabulary": [
+                {
+                    "da": "tage fejl",
+                    "zh": "弄错；判断错误",
+                    "note": "`tage – tog – taget`；`Jeg tog fejl` 我错了"
+                },
+                {
+                    "da": "kunne sige",
+                    "zh": "能够说出口；有能力承认",
+                    "note": "这里强调实际做到"
+                },
+                {
+                    "da": "de sværeste ord",
+                    "zh": "最难说出口的话",
+                    "note": "最高级结构"
+                },
+                {
+                    "da": "en diskussion",
+                    "zh": "讨论；争论",
+                    "note": "复数 `diskussioner`"
+                }
+            ],
+            "nuance": "这是全文的总结，也是最值得主动掌握的丹麦语表达之一。`Jeg tog fejl` 只有三个词，却要求说话人承认自己原先的判断并不成立。它不是羞辱自己，而是表现对事实、证据和共同求知的尊重。作者通过这一句把科学检验、统计谨慎、识别认知偏误与建设性争论统一到智识诚实这一核心品质之下。",
+            "transfer": [
+                "Jeg tog fejl.",
+                "Jeg må indrømme, at jeg tog fejl.",
+                "Du havde ret, og jeg tog fejl.",
+                "Det er vigtigt at kunne indrømme sine fejl."
+            ],
+            "pitfall": "`tage fejl` 是固定表达，不能按字面译成拿走错误。`Jeg tog fejl` 使用过去时，表示自己之前判断错了；`Jeg tager fejl` 则表示当前判断可能有误。"
+        }
+    ]
+}

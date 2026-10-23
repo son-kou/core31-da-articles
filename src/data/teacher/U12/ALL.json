@@ -1,0 +1,1495 @@
+{
+    "schema_version": 1,
+    "unit": "U12",
+    "part": "ALL",
+    "source_fingerprint": "U12-ALL-3ba22b250153",
+    "sentences": [
+        {
+            "id": "U12-C001",
+            "zh": "2015年，世界卫生组织（WHO）下属的癌症研究机构宣布加工肉类具有致癌性时，媒体的新闻标题可谓耸人听闻。",
+            "grammar": "句首 `Da … erklærede …` 是时间从句，表示过去某一事件发生时。整个从句占据主句首位，随后采用 `var overskrifterne` 的 V2 倒装。`erklære X for Y` 表示宣布或认定 X 为 Y，其中 `forarbejdet kød` 是宾语，`kræftfremkaldende` 是宾语补足语。`WHO's` 使用所有格，修饰 `kræftforskningsagentur`。",
+            "vocabulary": [
+                {
+                    "da": "erklære noget for noget",
+                    "zh": "宣布或认定某物为某种性质",
+                    "note": "也可用于法律、政治及科学分类，如 `erklære noget for ulovligt`"
+                },
+                {
+                    "da": "forarbejdet kød",
+                    "zh": "加工肉类",
+                    "note": "`forarbejdet` 是过去分词作形容词，指经过加工处理的肉类"
+                },
+                {
+                    "da": "kræftfremkaldende",
+                    "zh": "致癌的；具有致癌性的",
+                    "note": "由 `kræft` 癌症与 `fremkaldende` 引起……的构成"
+                },
+                {
+                    "da": "en overskrift",
+                    "zh": "标题；新闻标题",
+                    "note": "复数 `overskrifter`"
+                },
+                {
+                    "da": "dramatisk",
+                    "zh": "引人震惊的；夸张的；戏剧性的",
+                    "note": "描述媒体报道时不一定意味着事件本身严重"
+                }
+            ],
+            "nuance": "开篇采用科学结论与媒体呈现方式之间的对照。`erklære … for` 带有正式认定的意味，而 `dramatiske` 则评价新闻标题的表达方式。作者并没有否定致癌风险，而是为后面区分相对风险与绝对风险作铺垫。`Da` 在这里是过去时间连接词，不是原因连接词。",
+            "transfer": [
+                "Da myndighederne offentliggjorde resultaterne, reagerede medierne kraftigt.",
+                "Undersøgelsen erklærede ikke X for ufarligt.",
+                "Overskrifterne var mere dramatiske end selve resultaterne."
+            ],
+            "pitfall": "`erklære X for Y` 中的 `for` 不可按中文的为了理解。`kræftfremkaldende` 表示能够引发癌症风险，不等于接触后必然患癌。"
+        },
+        {
+            "id": "U12-C002",
+            "zh": "报道传达的信息是：每天摄入50克加工肉类，会使患肠癌的风险增加18%。这一数字听起来确实令人警觉。",
+            "grammar": "主干是 `Budskabet var, at …`，其中 `at` 引导说明信息内容的宾语性从句。`50 gram forarbejdet kød om dagen` 整体作从句主语。`øge risikoen for X med Y` 表示使患某病的风险增加某个幅度，`med` 引出增加量。句末 `hvilket lyder alarmerende` 是非限制性关系从句，`hvilket` 指代前面整个风险增加的陈述，而不是单独指代肉类。",
+            "vocabulary": [
+                {
+                    "da": "et budskab",
+                    "zh": "传达的信息；核心讯息",
+                    "note": "可用于新闻、广告、政治演讲和日常沟通"
+                },
+                {
+                    "da": "øge risikoen for noget",
+                    "zh": "增加某事发生的风险",
+                    "note": "`risikoen for kræft` 患癌风险"
+                },
+                {
+                    "da": "med 18 procent",
+                    "zh": "增加18%",
+                    "note": "`med` 表示变化幅度，不能直接推断为增加18个百分点"
+                },
+                {
+                    "da": "alarmerende",
+                    "zh": "令人担忧的；令人警觉的",
+                    "note": "比 `bekymrende` 更突出警示意味"
+                }
+            ],
+            "nuance": "`Budskabet var` 把复杂研究结果归纳为媒体传播中的一句核心信息。`hvilket lyder alarmerende` 特别值得注意：作者说的是听起来令人担忧，而不是直接判定实际风险有多大。这种措辞把数字引发的心理反应与数字的统计含义区分开来，是科学新闻批判性阅读的重要技巧。",
+            "transfer": [
+                "Undersøgelsen viser, at X øger risikoen for Y med Z procent.",
+                "Det lyder alvorligt, hvilket kan skabe bekymring.",
+                "Budskabet var, at situationen krævede handling."
+            ],
+            "pitfall": "`med 18 procent` 与 `med 18 procentpoint` 完全不同。例如从10%增加18%，结果是11.8%；增加18个百分点则是28%。`hvilket` 在这里回指整个前述事实。"
+        },
+        {
+            "id": "U12-C003",
+            "zh": "但这里的18%，指的是相对风险的增幅。",
+            "grammar": "主干是 `de 18 procent er en relativ stigning`。`de 18 procent` 用确定限定词 `de` 指回上一句已经出现的具体数字。`relativ` 修饰通性名词 `stigning`，表示这一增幅是相对于原先风险而言的。",
+            "vocabulary": [
+                {
+                    "da": "relativ",
+                    "zh": "相对的",
+                    "note": "与 `absolut` 绝对的相对"
+                },
+                {
+                    "da": "en stigning",
+                    "zh": "增长；上升；增幅",
+                    "note": "`en stigning på 18 procent` 增长18%"
+                },
+                {
+                    "da": "en relativ stigning",
+                    "zh": "相对增幅",
+                    "note": "统计学与风险沟通中的重要术语"
+                }
+            ],
+            "nuance": "这一短句承担全文第一个概念纠偏的任务。`Men` 告诉读者，虽然上一句的数字没有必然错误，但它需要另一种解释框架。作者没有直接说报道造假，而是精确指出百分数属于哪一种风险指标。",
+            "transfer": [
+                "Det er en relativ stigning, ikke en absolut stigning.",
+                "Stigningen skal ses i forhold til udgangspunktet.",
+                "Man bør skelne mellem relative og absolutte tal."
+            ],
+            "pitfall": "相对风险增加18%不等于每100人中额外有18人患病。必须知道原来的风险，才能计算风险增加了多少个百分点。"
+        },
+        {
+            "id": "U12-C004",
+            "zh": "按照一项澳大利亚的计算，如果把这个数字换算成终生患病风险，就相当于每100人中，风险从略低于8人上升到略高于9人。",
+            "grammar": "句首 `Regnet om til livstidsrisiko` 是过去分词构成的状语性表达，可理解为将其换算为终生风险之后。主干是 `det svarer … til en stigning`，固定结构 `svare til noget` 表示相当于。`ifølge en australsk beregning` 是证据来源状语。`fra knap 8 til godt 9 ud af 100 mennesker` 使用 `fra … til …` 说明变化区间。",
+            "vocabulary": [
+                {
+                    "da": "regne noget om til noget",
+                    "zh": "把某个数字换算成另一种形式",
+                    "note": "`regnet om til` 是过去分词形式"
+                },
+                {
+                    "da": "livstidsrisiko",
+                    "zh": "终生风险；一生中的累计患病风险",
+                    "note": "en livstidsrisiko"
+                },
+                {
+                    "da": "svare til noget",
+                    "zh": "相当于；对应于",
+                    "note": "注意介词 `til`"
+                },
+                {
+                    "da": "ifølge",
+                    "zh": "根据；按照",
+                    "note": "用于引出数据、研究或他人的观点"
+                },
+                {
+                    "da": "knap / godt",
+                    "zh": "略低于 / 略高于",
+                    "note": "与数字连用时非常实用，如 `knap 100`、`godt 100`"
+                }
+            ],
+            "nuance": "作者把抽象的相对风险转换成以100人为基数的绝对风险，帮助读者理解增幅的实际量级。`ifølge` 明确指出换算来源，体现谨慎的科学写作习惯。`knap` 和 `godt` 都是不精确数量表达，保留了数据的近似性质，不应擅自写成精确的8%和9%。",
+            "transfer": [
+                "Regnet om til procent svarer det til X.",
+                "Ifølge undersøgelsen er risikoen steget fra X til Y.",
+                "Knap halvdelen af deltagerne svarede ja."
+            ],
+            "pitfall": "`knap 8` 是不到8，不是几乎超过8；`godt 9` 是9多一点。`svare til` 表示相当于，不能用 `svare på` 代替，后者通常表示回答某个问题。"
+        },
+        {
+            "id": "U12-C005",
+            "zh": "这种风险变化并非无关紧要，但它与许多人从新闻标题中理解到的意思，完全不是一回事。",
+            "grammar": "两个并列分句由 `men` 连接。第一分句 `Det er ikke ligegyldigt` 用否定形容词表达事情有意义、值得关注。第二分句 `det er noget helt andet end det …` 使用比较结构。`mange læste ud af overskriften` 是修饰指示代词 `det` 的关系从句，省略了关系宾语 `som`。`læse noget ud af noget` 表示从文字中理解或推导出某种意思。",
+            "vocabulary": [
+                {
+                    "da": "ligegyldig",
+                    "zh": "无关紧要的；无所谓的",
+                    "note": "`ikke ligegyldigt` 表示不能忽视"
+                },
+                {
+                    "da": "noget helt andet",
+                    "zh": "完全不同的另一回事",
+                    "note": "强调实质差异"
+                },
+                {
+                    "da": "læse noget ud af noget",
+                    "zh": "从某个信息来源中解读出某种含义",
+                    "note": "可用于新闻、合同、报告和图表"
+                }
+            ],
+            "nuance": "这是很典型的丹麦语克制表达。`ikke ligegyldigt` 没有夸张地说风险巨大，而是承认风险值得重视。随后通过 `men` 纠正公众可能形成的错误印象。作者既不淡化健康风险，也不接受过度惊吓式的新闻解读。",
+            "transfer": [
+                "Det er ikke ligegyldigt, men det skal sættes i perspektiv.",
+                "Jeg læser noget helt andet ud af rapporten.",
+                "Det er noget helt andet end det, vi havde forventet."
+            ],
+            "pitfall": "`læse ud af` 不是把文字从标题里读出来，而是从信息中得出理解。`ikke ligegyldigt` 也不是非常重要的固定同义词，语气通常比 `meget vigtigt` 更克制。"
+        },
+        {
+            "id": "U12-C006",
+            "zh": "相对数字本身并没有错，但它们无法告诉我们，原本的风险究竟有多大。",
+            "grammar": "两个主句由 `men` 连接。`de siger intet om` 中的 `de` 指 `relative tal`，`intet` 是否定代词，表示没有提供任何信息。`hvor stor risikoen var i forvejen` 是由 `hvor` 引导的间接疑问从句，采用从句语序：疑问成分＋主语 `risikoen`＋限定动词 `var`。`i forvejen` 表示在变化发生以前。",
+            "vocabulary": [
+                {
+                    "da": "relative tal",
+                    "zh": "相对数字；相对指标",
+                    "note": "可指相对变化或相对比例"
+                },
+                {
+                    "da": "sige noget om noget",
+                    "zh": "说明某方面的信息",
+                    "note": "`sige intet om` 表示完全无法说明"
+                },
+                {
+                    "da": "i forvejen",
+                    "zh": "原本；事先；本来就",
+                    "note": "与 `allerede` 有部分重叠，但常强调既有状态"
+                }
+            ],
+            "nuance": "作者的重点是信息不完整，而不是统计数字造假。`ikke forkerte` 与 `men de siger intet om …` 形成精确对比：相对指标可以正确，却不能独立传达风险的实际规模。这种区别适用于药物疗效、疾病风险以及其他统计报道。",
+            "transfer": [
+                "Tallene er ikke forkerte, men de fortæller ikke hele historien.",
+                "Det siger intet om, hvor stor effekten er.",
+                "Risikoen var allerede høj i forvejen."
+            ],
+            "pitfall": "间接疑问句不能写成直接疑问语序 `hvor stor var risikoen`。正确形式是 `hvor stor risikoen var`。`i forvejen` 也不应机械翻译为提前。"
+        },
+        {
+            "id": "U12-C007",
+            "zh": "风险减半，可能意味着每百万人中患病人数从4人降到2人；也可能意味着每100人中，患病人数从40人降到20人。",
+            "grammar": "主干是 `En halveret risiko kan betyde, at …`。`halveret` 是过去分词作形容词，表示减半的。`at` 引导解释实际含义的宾语从句。`to ud af en million` 是数量表达，`i stedet for fire` 表示替代原来的4人。破折号后的 `eller 20 ud af 100 i stedet for 40` 省略重复的 `at … bliver syge`，形成平行对照。",
+            "vocabulary": [
+                {
+                    "da": "halvere",
+                    "zh": "减半；减少一半",
+                    "note": "`halveret risiko` 风险减半"
+                },
+                {
+                    "da": "ud af",
+                    "zh": "在……之中；每……个里面",
+                    "note": "统计比例常用，如 `tre ud af ti`"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "代替；而不是",
+                    "note": "后接名词、代词或不定式"
+                },
+                {
+                    "da": "blive syg",
+                    "zh": "生病；患病",
+                    "note": "`blive` 表示状态变化，区别于 `være syg`"
+                }
+            ],
+            "nuance": "作者采用两个反差巨大的例子说明，同样是风险降低50%，实际影响可能完全不同。前一个例子涉及极少数人，后一个例子涉及大量人。这里的数字是用来教学的对比例子，不能误认为来自某项具体临床试验。",
+            "transfer": [
+                "Risikoen er blevet halveret.",
+                "Tre ud af ti deltagere oplevede en forbedring.",
+                "Det kan betyde meget forskellige ting afhængigt af udgangspunktet."
+            ],
+            "pitfall": "`halveret` 表示乘以二分之一，不代表减少50个百分点。`to ud af en million` 是每100万人中2人，而不是200万人中1%的意思。"
+        },
+        {
+            "id": "U12-C008",
+            "zh": "因此，当新闻标题提到风险增加时，最简单的判断方法就是问一句：每100人中，究竟是从多少人增加到了多少人？",
+            "grammar": "主句骨架是 `Den enkleste regel … er derfor at spørge`。`når en overskrift nævner en øget risiko` 是插入主语和谓语之间的时间从句。`den enkleste` 是形容词最高级确定形式。冒号后的 `fra hvor mange til hvor mange ud af 100` 是省略式直接疑问，用 `fra … til …` 要求同时说明起点和终点。",
+            "vocabulary": [
+                {
+                    "da": "den enkleste regel",
+                    "zh": "最简单的原则",
+                    "note": "`enkel – enklere – enklest`"
+                },
+                {
+                    "da": "nævne",
+                    "zh": "提到；提及",
+                    "note": "`nævne noget` 直接接宾语"
+                },
+                {
+                    "da": "øget risiko",
+                    "zh": "增加的风险",
+                    "note": "`øget` 为过去分词作形容词"
+                },
+                {
+                    "da": "fra … til …",
+                    "zh": "从……到……",
+                    "note": "用于数量变化、时间和空间范围"
+                }
+            ],
+            "nuance": "这一句把前面较抽象的统计概念转化为人人可以操作的提问方法。作者没有要求读者掌握复杂公式，而是提出一个具体检查问题。`derfor` 明确说明这条规则是从前面的例子推导出来的。",
+            "transfer": [
+                "Den enkleste måde at forstå tallene på er at sammenligne X og Y.",
+                "Når medierne nævner en risiko, bør man spørge efter de absolutte tal.",
+                "Fra hvor mange til hvor mange?"
+            ],
+            "pitfall": "`den enkleste regel` 要使用确定形式 `enkleste`。数量比较不能只问增加了多少比例，还应询问原来的风险是多少。"
+        },
+        {
+            "id": "U12-C009",
+            "zh": "只有知道变化前后的两个数字，我们才能判断是否真的有理由担忧。",
+            "grammar": "句首 `Først når man kender begge tal` 是由 `først når` 引出的限制性时间条件状语，强调只有在某条件满足后。它占据主句首位，所以后面是 `kan man vurdere`，而不是 `man kan vurdere`。`om der er grund til bekymring` 是间接是否疑问从句，采用 `om + der + er` 的从句语序。",
+            "vocabulary": [
+                {
+                    "da": "først når",
+                    "zh": "只有当……才；直到……时才",
+                    "note": "强调必要的前提"
+                },
+                {
+                    "da": "begge",
+                    "zh": "两个都；双方都",
+                    "note": "`begge tal` 两个数字"
+                },
+                {
+                    "da": "vurdere",
+                    "zh": "评估；判断",
+                    "note": "常用于风险、证据和方案"
+                },
+                {
+                    "da": "grund til bekymring",
+                    "zh": "值得担忧的理由",
+                    "note": "`der er grund til …` 有理由……"
+                }
+            ],
+            "nuance": "这是第一章的核心总结。`Først når` 比普通的 `Når` 更强调条件的必要性。作者借此建立一种阅读习惯：看到风险新闻时，不急于被标题的百分比引导，而是先弄清楚完整的风险背景。",
+            "transfer": [
+                "Først når vi har alle oplysningerne, kan vi træffe en beslutning.",
+                "Der er ingen grund til bekymring.",
+                "Vi må vurdere, om fordelene opvejer ulemperne."
+            ],
+            "pitfall": "最值得背熟的是 `Først når …, kan man …` 的主句倒装。`grund til` 是固定搭配，不能把 `til` 改成 `for`。"
+        },
+        {
+            "id": "U12-C010",
+            "zh": "丹麦卫生主管部门将最重要的生活方式因素归纳为缩写词 KRAM，分别代表饮食、吸烟、饮酒和运动。",
+            "grammar": "主句结构为 `Sundhedsmyndighederne samler X i Y`，表示将若干因素汇总到某一框架中。`de vigtigste livsstilsfaktorer` 是宾语，`i forkortelsen KRAM` 表示概括形式。冒号后四个名词解释缩写中各字母的含义。",
+            "vocabulary": [
+                {
+                    "da": "sundhedsmyndighederne",
+                    "zh": "卫生主管部门；公共卫生当局",
+                    "note": "复数确定式，来自 `en sundhedsmyndighed`"
+                },
+                {
+                    "da": "en livsstilsfaktor",
+                    "zh": "生活方式因素",
+                    "note": "由 `livsstil` 生活方式与 `faktor` 因素组成"
+                },
+                {
+                    "da": "en forkortelse",
+                    "zh": "缩写；缩略词",
+                    "note": "`forkortelsen KRAM` 缩写词 KRAM"
+                },
+                {
+                    "da": "kost",
+                    "zh": "饮食；膳食",
+                    "note": "公共卫生和营养学语境"
+                },
+                {
+                    "da": "motion",
+                    "zh": "运动；身体锻炼",
+                    "note": "en motion；强调促进健康的身体活动"
+                }
+            ],
+            "nuance": "`KRAM` 是把复杂健康建议归纳成四个容易记忆的类别的教学工具。这个词本身也能让人联想到丹麦语里的拥抱，但在这里四个字母各自代表明确的健康因素。它把前面关于统计风险的讨论转向日常可改变的生活习惯。",
+            "transfer": [
+                "Myndighederne samler anbefalingerne i fire hovedområder.",
+                "De vigtigste faktorer er kost, rygning, alkohol og motion.",
+                "Forkortelsen står for X, Y og Z."
+            ],
+            "pitfall": "`kost` 在这里表示膳食，不是价格或费用。`motion` 在丹麦语中是体育锻炼，不应简单等同于英语中表示一般运动或动议的 motion。"
+        },
+        {
+            "id": "U12-C011",
+            "zh": "在这些因素中，吸烟是造成寿命损失最多的单一因素，而且不存在一个吸烟量足够低、因而可以认为烟草无害的安全下限。",
+            "grammar": "第一主句是 `Rygning er den enkeltfaktor`，后接关系从句 `der koster flest leveår`，其中 `der` 作主语。第二主句 `der findes ingen nedre grænse` 是存在句，使用 s-形式动词 `findes` 表示存在。`hvor tobak er ufarlig` 是修饰 `grænse` 的关系从句，说明所谓安全下限的性质。",
+            "vocabulary": [
+                {
+                    "da": "en enkeltfaktor",
+                    "zh": "单一因素",
+                    "note": "常用于风险因素或解释变量分析"
+                },
+                {
+                    "da": "koste leveår",
+                    "zh": "造成寿命年数的损失",
+                    "note": "`koste` 不仅表示花钱，也可表示付出生命、时间等代价"
+                },
+                {
+                    "da": "en nedre grænse",
+                    "zh": "下限",
+                    "note": "与 `en øvre grænse` 上限相对"
+                },
+                {
+                    "da": "ufarlig",
+                    "zh": "无害的；不危险的",
+                    "note": "`u-` 为否定前缀"
+                }
+            ],
+            "nuance": "这一句使用较强的公共卫生措辞来强调吸烟风险。`flest leveår` 的比较基准是损失的寿命年数，而不只是患病人数。`ingen nedre grænse` 表示不能简单假设某个较低吸烟量就完全无害，与风险可能随暴露量变化并不矛盾。",
+            "transfer": [
+                "Rygning øger risikoen for en række sygdomme.",
+                "Der findes ingen helt sikker nedre grænse.",
+                "X er en af de vigtigste risikofaktorer."
+            ],
+            "pitfall": "`koste flest leveår` 不是花费最多的生活年份，而是造成最大的寿命损失。`findes` 在这里是表示存在的动词形式，并非普通被动句。"
+        },
+        {
+            "id": "U12-C012",
+            "zh": "关于运动，给成年人的建议是每天至少进行半小时的身体活动——快步散步，或者骑自行车上班，也都算在内。",
+            "grammar": "句首 `Om motion` 是话题状语，随后 `lyder rådet` 采用 V2 倒装。`rådet lyder, at …` 表示建议的具体内容是……。`bør være fysisk aktive` 使用情态动词 `bør` 表达建议，而非强制义务。破折号后的分句以 `en rask gåtur eller cykelturen til arbejde` 为主语，`tæller også` 表示同样计入建议中的身体活动。",
+            "vocabulary": [
+                {
+                    "da": "rådet lyder, at …",
+                    "zh": "建议是……",
+                    "note": "介绍官方建议或一般建议的书面表达"
+                },
+                {
+                    "da": "være fysisk aktiv",
+                    "zh": "进行身体活动；保持身体活跃",
+                    "note": "`aktive` 与复数主语一致"
+                },
+                {
+                    "da": "mindst",
+                    "zh": "至少",
+                    "note": "与 `højst` 至多相对"
+                },
+                {
+                    "da": "en rask gåtur",
+                    "zh": "一次快步步行；快走",
+                    "note": "`rask` 在此指步伐较快，不是健康的"
+                },
+                {
+                    "da": "tælle med",
+                    "zh": "算在内；计入",
+                    "note": "原句 `tæller også` 省略了语境中可理解的计入范围"
+                }
+            ],
+            "nuance": "作者把运动从健身房中的正式训练扩展到日常生活中的身体活动。`tæller også` 带有鼓励意味，让读者认识到快走和骑行也有价值。`bør` 的语气是建议，应区别于法律或制度要求中的 `skal`。",
+            "transfer": [
+                "Voksne bør være fysisk aktive hver dag.",
+                "En gåtur tæller også som motion.",
+                "Rådet lyder, at man bør bevæge sig mere."
+            ],
+            "pitfall": "`rask` 有健康的、敏捷的、快速的等意思；`en rask gåtur` 应译为快走。`tælle` 除了数数，也可以表示算数、计入。"
+        },
+        {
+            "id": "U12-C013",
+            "zh": "规律而适度的运动能够延长寿命、改善睡眠，并降低患多种慢性疾病的风险。",
+            "grammar": "主语是 `Regelmæssig, moderat motion`，两个形容词共同修饰 `motion`。情态动词 `kan` 后并列三个不定式 `forlænge`、`forbedre`、`mindske`，因此后两个动作无需重复情态动词。`risikoen for` 引出疾病风险的对象。",
+            "vocabulary": [
+                {
+                    "da": "regelmæssig",
+                    "zh": "规律的；定期的",
+                    "note": "`regelmæssig motion` 规律运动"
+                },
+                {
+                    "da": "moderat",
+                    "zh": "适度的；中等强度的",
+                    "note": "与 `intensiv` 高强度的相对"
+                },
+                {
+                    "da": "forlænge livet",
+                    "zh": "延长寿命",
+                    "note": "`forlænge` 表示延长时间或长度"
+                },
+                {
+                    "da": "forbedre søvnen",
+                    "zh": "改善睡眠",
+                    "note": "`forbedre` 是使某事变好"
+                },
+                {
+                    "da": "en kronisk sygdom",
+                    "zh": "慢性疾病",
+                    "note": "`kronisk` 慢性的，复数 `kroniske sygdomme`"
+                }
+            ],
+            "nuance": "这是典型的健康科普概括句。三个并列动词形成清晰的记忆链条：寿命、睡眠、疾病风险。`kan` 表示可能产生这些积极效果，不承诺每个运动者必然延寿，也没有把运动描述成能够完全消除疾病风险。",
+            "transfer": [
+                "Regelmæssig motion kan forbedre både søvn og humør.",
+                "Fysisk aktivitet kan mindske risikoen for X.",
+                "Små ændringer kan forbedre livskvaliteten."
+            ],
+            "pitfall": "`forbedre` 是及物动词，后面直接接宾语。`mindske risikoen for` 中使用 `for` 引出疾病，不能用 `af` 直接替换。"
+        },
+        {
+            "id": "U12-C014",
+            "zh": "自2022年以来，丹麦卫生署一直建议，成年人每周饮酒不超过10个标准酒精单位、一次不超过4个单位；而18岁以下的年轻人最好完全不要饮酒。",
+            "grammar": "句首 `Siden 2022` 是时间状语，主句采用 `har Sundhedsstyrelsen anbefalet` 的 V2 倒装和现在完成时。`anbefalet` 后有两个并列的 `at` 从句，分别针对成年人和18岁以下人群。`højst` 表示数量上限。`ad gangen` 表示每次。`helst slet ikke` 由表达偏好的 `helst` 与加强否定的 `slet ikke` 构成，语气比普通 `ikke` 更明确。",
+            "vocabulary": [
+                {
+                    "da": "Sundhedsstyrelsen",
+                    "zh": "丹麦卫生署",
+                    "note": "丹麦国家卫生主管机构的专名"
+                },
+                {
+                    "da": "højst",
+                    "zh": "至多；最多不超过",
+                    "note": "与 `mindst` 至少相对"
+                },
+                {
+                    "da": "en genstand",
+                    "zh": "一个标准酒精单位；一件物品",
+                    "note": "本句是丹麦酒精摄入量的计量单位"
+                },
+                {
+                    "da": "ad gangen",
+                    "zh": "每次；一次",
+                    "note": "如 `to ad gangen` 每次两个"
+                },
+                {
+                    "da": "helst slet ikke",
+                    "zh": "最好完全不要",
+                    "note": "`slet ikke` 加强否定，`helst` 表示优先选择"
+                }
+            ],
+            "nuance": "这是官方建议语体，强调饮酒数量与单次摄入量两个不同维度。`højst` 给出上限，而不是建议人们喝到这一数量。对未成年人使用 `helst slet ikke`，在强调避免饮酒的同时保留建议性措辞。`siden 2022` 与现在完成时搭配，表达从过去开始延续至叙述当下的建议。",
+            "transfer": [
+                "Myndighederne anbefaler, at voksne højst indtager X om ugen.",
+                "Man bør højst drikke X ad gangen.",
+                "Unge bør helst slet ikke drikke alkohol."
+            ],
+            "pitfall": "`højst` 是最多，`mindst` 是至少，公共卫生建议中弄反会严重改变含义。`genstand` 在饮酒语境下是标准单位，不能按普通一件东西翻译。"
+        },
+        {
+            "id": "U12-C015",
+            "zh": "一个标准酒精单位，大致相当于一瓶普通啤酒、一杯葡萄酒，或者一小杯烈性杜松子酒之类的烈酒。",
+            "grammar": "主干为 `En genstand svarer til X, Y eller Z`。`svare til` 表示数量或价值上的对应关系，后面用三个并列名词短语进行举例。`almindelig`、`lille` 分别修饰相关饮品的容器或份量。",
+            "vocabulary": [
+                {
+                    "da": "svare til",
+                    "zh": "相当于；对应于",
+                    "note": "数量、费用和程度换算中常用"
+                },
+                {
+                    "da": "en almindelig øl",
+                    "zh": "一份普通啤酒",
+                    "note": "`almindelig` 表示普通规格或通常类型"
+                },
+                {
+                    "da": "et glas vin",
+                    "zh": "一杯葡萄酒",
+                    "note": "`et glas` 作为容器和数量单位"
+                },
+                {
+                    "da": "en snaps",
+                    "zh": "一小杯烈酒；北欧风味烈酒",
+                    "note": "丹麦常见酒类名称"
+                }
+            ],
+            "nuance": "上一句使用抽象的酒精计量单位，这一句把它转化为读者熟悉的饮品。`svarer til` 表示大致的标准换算；实际是否构成一个单位，仍取决于酒精浓度和份量。作者的目的在于帮助理解建议，而不是详细制定饮酒配方。",
+            "transfer": [
+                "En portion svarer omtrent til X gram.",
+                "Det svarer til cirka to glas.",
+                "Hvor mange genstande svarer det til?"
+            ],
+            "pitfall": "`genstand` 并不表示任何一杯酒都恰好是一单位。尤其不同啤酒规格、酒精度与葡萄酒杯量可能不同。`snaps` 也不是英语 snacks 零食。"
+        },
+        {
+            "id": "U12-C016",
+            "zh": "即便如此，对许多人来说，饮酒仍是大型聚会不可或缺的一部分；来自同龄人的压力也可能相当大。",
+            "grammar": "句首 `Alligevel` 表示尽管前面已经介绍健康建议，现实情况仍然如此，因此后面出现 `hører alkohol` 的 V2 倒装。`høre med til noget` 是整体搭配，表示某事属于某个场景或活动的一部分。`for mange` 表示对许多人而言。第二分句 `presset fra jævnaldrende kan være stort` 使用情态动词 `kan` 说明可能存在的压力。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；还是",
+                    "note": "引出与预期或建议不完全一致的现实"
+                },
+                {
+                    "da": "høre med til noget",
+                    "zh": "是……的一部分；属于……的惯常内容",
+                    "note": "与 `høre til` 有关联，但语义侧重点不同"
+                },
+                {
+                    "da": "jævnaldrende",
+                    "zh": "同龄人",
+                    "note": "可作为形容词或独立名词性表达"
+                },
+                {
+                    "da": "et pres",
+                    "zh": "压力",
+                    "note": "`pres fra andre` 来自他人的压力"
+                }
+            ],
+            "nuance": "作者从个人健康建议转向社会规范与群体行为。`for mange` 是谨慎限定，并不是说所有丹麦人都认为聚会必须喝酒。`presset fra jævnaldrende` 为接下来的对话设定情境：一个人拒绝饮酒，有时不仅是在选择饮品，也是在回应群体期待。",
+            "transfer": [
+                "Alkohol hører for mange med til en fest.",
+                "Presset fra vennerne kan være stort.",
+                "Alligevel vælger nogle helt at undgå alkohol."
+            ],
+            "pitfall": "`høre med til` 不是听见，而是属于或构成一部分。`jævnaldrende` 指年龄相近的人，不一定仅限同班同学。"
+        },
+        {
+            "id": "U12-C017",
+            "zh": "你不来瓶啤酒吗？",
+            "grammar": "`Skal du ikke …?` 是带否定的直接疑问句，限定动词 `skal` 在主语前。这里不是要求对方履行义务，而是用于提供饮品或发出邀请。`have en øl` 在具体交际场景中可以表示喝一杯啤酒。",
+            "vocabulary": [
+                {
+                    "da": "Skal du ikke have …?",
+                    "zh": "你不来点……吗？",
+                    "note": "口语中常用于提供食物、饮品或邀请"
+                },
+                {
+                    "da": "have en øl",
+                    "zh": "喝一杯啤酒；来一瓶啤酒",
+                    "note": "不一定指拥有或收藏啤酒"
+                }
+            ],
+            "nuance": "Jonas 的提议在聚会场景中是普通、自然的招呼。否定问句往往暗含说话人预期对方可能会接受，因此与完全中立的 `Vil du have en øl?` 有轻微差异，但仅凭这一句还不能断言他在强迫对方喝酒。",
+            "transfer": [
+                "Skal du ikke have noget at drikke?",
+                "Vil du have en øl?",
+                "Skal jeg hente noget til dig?"
+            ],
+            "pitfall": "`skal` 在此不能机械译成必须。丹麦语否定疑问句常用于邀请和提议，而不一定是否定或责备。"
+        },
+        {
+            "id": "U12-C018",
+            "zh": "不了，谢谢，我还要开车呢。",
+            "grammar": "`Nej tak` 是完整的礼貌拒绝公式。`jeg kører` 使用现在时，但在语境中说明自己承担开车任务，未必意味着说话时正在驾驶。丹麦语现在时可以表达既定安排或当前适用的情况。",
+            "vocabulary": [
+                {
+                    "da": "Nej tak",
+                    "zh": "不了，谢谢",
+                    "note": "礼貌拒绝，不必另外加道歉"
+                },
+                {
+                    "da": "jeg kører",
+                    "zh": "我要开车；我负责开车",
+                    "note": "聚会语境中常是拒绝酒精饮品的理由"
+                }
+            ],
+            "nuance": "Sara 先礼貌拒绝，再提供一个简明理由。`Nej tak` 不失礼，`jeg kører` 也无需解释自己的全部行程。作者展示了一种在社交压力下坚持个人选择、同时保持友好语气的回答方式。",
+            "transfer": [
+                "Nej tak, jeg skal køre senere.",
+                "Jeg springer over, for jeg kører.",
+                "Tak, men jeg holder mig til vand."
+            ],
+            "pitfall": "`jeg kører` 在此不是我正在路上开车。具体场景决定它表示自己之后还要驾驶。"
+        },
+        {
+            "id": "U12-C019",
+            "zh": "开车？可今天是星期六啊！",
+            "grammar": "`Kører?` 是重复对方动词的省略疑问，完整含义由前文恢复。第二句 `Det er lørdag!` 是简单陈述句，通过感叹语调表达惊讶或反驳。",
+            "vocabulary": [
+                {
+                    "da": "Kører?",
+                    "zh": "开车？",
+                    "note": "重复对方关键词来表达惊讶或要求确认"
+                },
+                {
+                    "da": "lørdag",
+                    "zh": "星期六",
+                    "note": "`på lørdag` 可指某个即将到来的星期六"
+                }
+            ],
+            "nuance": "Jonas 并不是不知道今天星期几，而是在暗示周末聚会通常应该放松，开车似乎不合时宜。这种借常识提出质疑的表达，在口语里经常依赖语调和共享的社会预期。",
+            "transfer": [
+                "Arbejde? Det er jo søndag!",
+                "Nu? Det er midt om natten!",
+                "Køre? Jeg troede, du blev her."
+            ],
+            "pitfall": "不要把 `Det er lørdag!` 理解成单纯告知日期；它在这里的语用功能是质疑对方的安排。"
+        },
+        {
+            "id": "U12-C020",
+            "zh": "对啊，而且我一点钟还得去接我妹妹。",
+            "grammar": "`skal hente` 使用情态动词 `skal` 加不定式，表示既定安排或责任。`hente nogen` 直接接人称宾语，表示到某处接人。`klokken et` 是明确的钟点时间状语。`min lillesøster` 使用物主代词 `min` 修饰通性名词。",
+            "vocabulary": [
+                {
+                    "da": "hente nogen",
+                    "zh": "去接某人",
+                    "note": "可以指接孩子、朋友或家人"
+                },
+                {
+                    "da": "en lillesøster",
+                    "zh": "妹妹",
+                    "note": "与 `en storesøster` 姐姐相对"
+                },
+                {
+                    "da": "klokken et",
+                    "zh": "一点钟",
+                    "note": "具体上午还是下午由语境确定"
+                }
+            ],
+            "nuance": "Sara 用 `Ja, og …` 直接承认今天是星期六，却没有接受周末就应该饮酒的隐含逻辑。她补充一个具体责任，表明自己拒绝酒精饮品是有计划的决定。语气平稳，并不需要与 Jonas 争辩。",
+            "transfer": [
+                "Jeg skal hente min søster klokken otte.",
+                "Jeg kan ikke drikke, fordi jeg skal køre.",
+                "Ja, og jeg har faktisk en aftale senere."
+            ],
+            "pitfall": "`hente` 表示去接或取回，不等于 `bringe` 送去。`lillesøster` 是妹妹，不是身材较小的姐姐。"
+        },
+        {
+            "id": "U12-C021",
+            "zh": "好吧好吧，那就来杯可乐。",
+            "grammar": "`Okay, okay` 是口语中的重复形式，表示接受对方立场并停止争论。`Så en cola` 是省略句，可根据语境补出 `Så får du en cola` 或类似的提供饮品表达。`så` 表示既然如此、那么。",
+            "vocabulary": [
+                {
+                    "da": "så",
+                    "zh": "那么；这样的话",
+                    "note": "用于根据前文作出调整"
+                },
+                {
+                    "da": "en cola",
+                    "zh": "一杯或一瓶可乐",
+                    "note": "口语中可用饮品名称直接指一份饮料"
+                }
+            ],
+            "nuance": "重复的 `Okay, okay` 可以带有一点被说服后的无奈，也可以是轻松地表示知道了。Jonas 最终改为提供无酒精饮料，意味着对话中的小小社交压力得到化解。这是一种生活化、自然收尾的表达。",
+            "transfer": [
+                "Okay, okay. Så gør vi det.",
+                "Så tager jeg en cola.",
+                "Fair nok. Skal du have noget alkoholfrit?"
+            ],
+            "pitfall": "`Så en cola` 在这里不是一个需要按书面语补齐的完整陈述句；丹麦口语允许这种依赖上下文的省略。"
+        },
+        {
+            "id": "U12-C022",
+            "zh": "在聚会上不喝酒的人，往往会被问为什么不喝；而喝酒的人，却很少需要面对同样的追问。",
+            "grammar": "主句使用 `Den, der …` 泛指某类人，关系从句中的 `der` 作主语。`bliver tit spurgt hvorfor` 使用 `blive + 过去分词` 被动结构，表示经常被人询问原因。破折号后的 `et spørgsmål, man sjældent stiller til den, der drikker` 是同位性补充，`man sjældent stiller …` 省略宾语关系代词。`stille et spørgsmål til nogen` 是向某人提问的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "den, der …",
+                    "zh": "那个……的人；凡是……的人",
+                    "note": "用于概括具有某种行为的人群"
+                },
+                {
+                    "da": "blive spurgt hvorfor",
+                    "zh": "被问为什么",
+                    "note": "口语和书面语均可用"
+                },
+                {
+                    "da": "stille et spørgsmål til nogen",
+                    "zh": "向某人提出问题",
+                    "note": "`stille` 而不是 `spørge` 与 `et spørgsmål` 搭配"
+                },
+                {
+                    "da": "sjældent",
+                    "zh": "很少；难得",
+                    "note": "表示低频率"
+                }
+            ],
+            "nuance": "这一句用非常简洁的对照揭示社交规范的不对称性：不喝酒需要解释，喝酒反而无需解释。作者没有直接谴责饮酒者，而是让读者意识到群体期待如何影响个人选择。这种通过平行人群进行对比的论述方法适合社会学和公共卫生议论文。",
+            "transfer": [
+                "Den, der vælger anderledes, bliver ofte spurgt hvorfor.",
+                "Det er et spørgsmål, man sjældent stiller til X.",
+                "Hvorfor skal nogle forklare deres valg, mens andre ikke skal?"
+            ],
+            "pitfall": "`stille et spørgsmål` 是提问，不是放置问题。`den, der drikker` 泛指饮酒的人，并没有限定性别。"
+        },
+        {
+            "id": "U12-C023",
+            "zh": "超重和缺乏身体活动会增加患病风险，但遗传因素也发挥作用；许多身材瘦的人同样会患病，而不少超重者却始终不会患上这种病。",
+            "grammar": "第一主句 `Overvægt og fysisk inaktivitet øger risikoen` 由两个并列名词构成主语。第二主句通过 `men arv spiller også en rolle` 引入额外因素。随后 `mange tynde mennesker får sygdommen` 与 `mens mange overvægtige aldrig gør` 形成对照。`gør` 是替代动词，代替前面的 `får sygdommen`，避免重复。`mens` 在这里主要表示而、相比之下。",
+            "vocabulary": [
+                {
+                    "da": "overvægt",
+                    "zh": "超重",
+                    "note": "en overvægt；与形容词 `overvægtig` 对应"
+                },
+                {
+                    "da": "fysisk inaktivitet",
+                    "zh": "身体活动不足；缺乏运动",
+                    "note": "公共卫生风险因素"
+                },
+                {
+                    "da": "arv",
+                    "zh": "遗传；遗传因素",
+                    "note": "en arv；也可表示继承所得的遗产"
+                },
+                {
+                    "da": "spille en rolle",
+                    "zh": "发挥作用；产生影响",
+                    "note": "非常实用的抽象论述搭配"
+                },
+                {
+                    "da": "overvægtig",
+                    "zh": "超重的",
+                    "note": "复数 `overvægtige` 可名词化指超重者"
+                }
+            ],
+            "nuance": "这一句提出概率性风险与个体结果之间的区别。生活方式可以影响风险，但遗传因素等其他条件也参与其中。`mens` 强化两类反例之间的对照：有些风险因素较少的人仍然患病，而有些风险因素较多的人并没有患病。原文的 `sygdommen` 指所讨论的疾病，但本句没有明确给出具体病名，不应擅自指定。",
+            "transfer": [
+                "Arv spiller også en vigtig rolle.",
+                "X øger risikoen, men afgør ikke udfaldet.",
+                "Nogle bliver syge, mens andre aldrig gør."
+            ],
+            "pitfall": "`arv` 在这里是遗传，不是遗产分配。句尾 `gør` 替代前述动词行为，不是单纯的做。统计上的风险增加也不能直接用于断言某个个体必然患病。"
+        },
+        {
+            "id": "U12-C024",
+            "zh": "心血管疾病和多种癌症也是如此：生活方式会改变患病的概率，却不能决定某一个人最终是否患病。",
+            "grammar": "开头 `Det samme gælder …` 表示同一原则也适用于后面列举的疾病。冒号后是解释性补充。`Livsstilen flytter sandsynligheden` 使用 `flytte` 的隐喻意义，表示改变概率分布。`det enkelte tilfælde` 是确定形式名词短语，指单独的某一个病例或具体情况。",
+            "vocabulary": [
+                {
+                    "da": "det samme gælder",
+                    "zh": "同样适用于；同样的道理也成立",
+                    "note": "用于将前面的原则推广到新对象"
+                },
+                {
+                    "da": "hjerte-kar-sygdomme",
+                    "zh": "心血管疾病",
+                    "note": "由心脏、血管和疾病构成的复合词"
+                },
+                {
+                    "da": "en sandsynlighed",
+                    "zh": "概率；可能性",
+                    "note": "统计学与风险分析核心词汇"
+                },
+                {
+                    "da": "afgøre",
+                    "zh": "决定；判定",
+                    "note": "`afgøre udfaldet` 决定结果"
+                },
+                {
+                    "da": "det enkelte tilfælde",
+                    "zh": "某一个具体个案",
+                    "note": "强调总体规律与个体事件的区别"
+                }
+            ],
+            "nuance": "`flytter sandsynligheden` 是非常精炼的科学解释：风险因素改变结果发生的概率，而不是直接替每个人写好结局。`men den afgør ikke` 进一步提醒读者避免决定论。这样的表达对医学研究、机器学习预测以及公共政策讨论都具有迁移价值。",
+            "transfer": [
+                "Det samme gælder flere andre sygdomme.",
+                "Faktoren påvirker sandsynligheden, men afgør ikke udfaldet.",
+                "Statistiske sammenhænge siger ikke alt om det enkelte tilfælde."
+            ],
+            "pitfall": "`flytte` 在这里不是物理搬动。`sandsynlighed` 是概率，`sikkerhed` 是确定性或安全性，两者不能混淆。"
+        },
+        {
+            "id": "U12-C025",
+            "zh": "因此，如果谈论所谓的生活方式疾病时，给人的感觉仿佛患者本人就该为患病负责，那便是一种误导。",
+            "grammar": "主干为 `Derfor er det misvisende at tale om …`，`det` 是形式主语，真正被评价的行为是 `at tale om livsstilssygdomme`。`som om de syge selv var skyld i dem` 是假设性比较从句，表达仿佛某种不一定真实的情况成立。`var` 在这里与 `som om` 搭配，用过去时形式表达非现实或假设性的判断，并不主要表示过去发生的事。",
+            "vocabulary": [
+                {
+                    "da": "misvisende",
+                    "zh": "具有误导性的；容易造成错误印象的",
+                    "note": "适合评价统计解释、新闻标题和论证"
+                },
+                {
+                    "da": "tale om noget",
+                    "zh": "谈论某事",
+                    "note": "介词 `om`"
+                },
+                {
+                    "da": "en livsstilssygdom",
+                    "zh": "生活方式相关疾病",
+                    "note": "复合词，可能暗示疾病与生活习惯存在关系"
+                },
+                {
+                    "da": "som om",
+                    "zh": "仿佛；好像",
+                    "note": "引导与现实未必一致的情景"
+                },
+                {
+                    "da": "være skyld i noget",
+                    "zh": "是造成某事的原因；对某事负有责任",
+                    "note": "带有责任归属色彩"
+                }
+            ],
+            "nuance": "这是全篇具有伦理意义的一句。作者并不是否认生活方式对疾病风险的影响，而是反对把群体层面的风险相关性直接变成对患者的道德指责。`som om` 特别重要，它表明作者批评的是一种暗含假设，而非认可患者确实应该受责备。",
+            "transfer": [
+                "Det er misvisende at fremstille X som Y.",
+                "Han taler, som om han vidste alt.",
+                "Man bør ikke give patienterne skyld for deres sygdom."
+            ],
+            "pitfall": "`være skyld i` 表示造成或应为某事负责，不等于仅仅存在统计关联。`som om … var` 不能机械理解为过去发生的事实。"
+        },
+        {
+            "id": "U12-C026",
+            "zh": "真正的难题往往不是减掉体重，而是减重之后如何长期维持体重。",
+            "grammar": "主句采用 `Problemet er sjældent X, men Y` 的对照结构。`at tabe sig` 与 `at holde vægten bagefter` 是两个并列的不定式结构，分别充当被比较的内容。`sjældent` 表示很少或通常不是。`bagefter` 指完成减重这一动作之后。",
+            "vocabulary": [
+                {
+                    "da": "tabe sig",
+                    "zh": "减重；变瘦",
+                    "note": "反身动词表达，`tabe` 单独使用则常表示丢失或输掉"
+                },
+                {
+                    "da": "holde vægten",
+                    "zh": "维持体重",
+                    "note": "强调保持已经达到的体重"
+                },
+                {
+                    "da": "bagefter",
+                    "zh": "后来；之后",
+                    "note": "指某个行动或事件结束以后"
+                },
+                {
+                    "da": "sjældent",
+                    "zh": "很少；通常不是",
+                    "note": "不表示绝对不可能"
+                }
+            ],
+            "nuance": "作者采用先否定直觉焦点、再指出真正困难的方式推进论证。`sjældent` 留有余地，不是声称减重对任何人都容易。`holde vægten bagefter` 把讨论从短期减重效果转向长期行为维持，呼应后面关于习惯形成的章节。",
+            "transfer": [
+                "Problemet er ikke at begynde, men at fortsætte.",
+                "Det kan være svært at holde vægten.",
+                "Det svære er ofte at fastholde ændringen bagefter."
+            ],
+            "pitfall": "`tabe sig` 是减重；`tabe noget` 还可以表示丢失某物。`holde vægten` 是保持体重，不是举起重量。"
+        },
+        {
+            "id": "U12-C027",
+            "zh": "因此，营养专家建议采取能够长期坚持、甚至可以贯穿余生的改变，而不是只维持六个星期的短期节食方案。",
+            "grammar": "主干是 `Ernæringseksperter anbefaler derfor ændringer … frem for kure …`。`man kan leve med resten af livet` 是省略宾语关系代词的从句，修饰 `ændringer`。`der holder i seks uger` 修饰 `kure`，表示这些节食方案持续六周。`frem for` 引出被放弃或不优先选择的替代方案。",
+            "vocabulary": [
+                {
+                    "da": "en ernæringsekspert",
+                    "zh": "营养专家",
+                    "note": "`ernæring` 营养"
+                },
+                {
+                    "da": "leve med noget",
+                    "zh": "能够接受并长期与某事共存",
+                    "note": "也可指容忍某种现实或安排"
+                },
+                {
+                    "da": "resten af livet",
+                    "zh": "余生；一生剩余的时间",
+                    "note": "时间跨度表达"
+                },
+                {
+                    "da": "frem for",
+                    "zh": "而不是；优先于",
+                    "note": "表达选择偏好"
+                },
+                {
+                    "da": "en kur",
+                    "zh": "疗程；节食方案；减肥法",
+                    "note": "本句指短期减重方案"
+                }
+            ],
+            "nuance": "作者通过 `ændringer` 与 `kure` 对照长期可持续的习惯调整和短期方案。`leve med` 很有表现力：好的改变不只是短时间勉强遵守的规则，而是能够融入日常生活的安排。`frem for` 不只是二选一，也突出作者更认可前一种策略。",
+            "transfer": [
+                "Jeg foretrækker små ændringer frem for ekstreme kure.",
+                "Det skal være en vane, man kan leve med.",
+                "Vi bør tænke langsigtet frem for at søge hurtige løsninger."
+            ],
+            "pitfall": "`leve med noget` 在这里不是与某人一起生活，而是能够接受并长期维持。`holde i seks uger` 是持续六周，不是拿着什么东西六周。"
+        },
+        {
+            "id": "U12-C028",
+            "zh": "我们一天之中所做的大部分事情，其实都是出于习惯。",
+            "grammar": "主语 `Det meste af det, vi gør i løbet af en dag` 包含一个省略关系代词的从句 `vi gør`。主句重新使用动词 `gør`，构成 `Det meste … gør vi af vane` 的宾语前置结构。前置的宾语性成分占据首位，因此出现 `gør vi` 的 V2 倒装。`af vane` 是原因或方式状语。",
+            "vocabulary": [
+                {
+                    "da": "det meste af",
+                    "zh": "……的大部分",
+                    "note": "可接名词或名词性结构"
+                },
+                {
+                    "da": "i løbet af en dag",
+                    "zh": "在一天之中",
+                    "note": "`i løbet af` 表示某个时间段内"
+                },
+                {
+                    "da": "af vane",
+                    "zh": "出于习惯；习惯性地",
+                    "note": "固定搭配"
+                },
+                {
+                    "da": "en vane",
+                    "zh": "习惯",
+                    "note": "`gode vaner` 好习惯；`dårlige vaner` 坏习惯"
+                }
+            ],
+            "nuance": "作者从健康行为转向习惯形成的心理机制。句子利用两次 `gør` 形成强调：我们做的事情，大部分是习惯驱动的。`af vane` 不带正面或负面评价，既可以描述健康习惯，也可以描述不健康习惯。",
+            "transfer": [
+                "Det meste af det, vi gør, gør vi automatisk.",
+                "Jeg gør det mest af vane.",
+                "Mange af vores handlinger styres af vaner."
+            ],
+            "pitfall": "`af vane` 是固定表达，不能直接套用 `på vane`。主句的 `gør vi` 不是疑问句，而是宾语前置导致的倒装。"
+        },
+        {
+            "id": "U12-C029",
+            "zh": "一种习惯往往由特定情境触发：喝咖啡时就想抽烟，坐上沙发便想拿薯片，拿起手机又忍不住接着刷下一个视频。",
+            "grammar": "第一分句 `En vane udløses af en bestemt situation` 使用 s-被动，强调习惯被某个情境触发。冒号后给出三个平行例子。`Kaffen kalder på en cigaret` 是完整表达，随后 `sofaen på chipsposen` 和 `telefonen på endnu en video` 省略重复的 `kalder`，形成省略式并列。`kalde på noget` 在这里是引发对某事物的需求或联想。",
+            "vocabulary": [
+                {
+                    "da": "udløse",
+                    "zh": "触发；引发",
+                    "note": "`udløses af` 被……触发"
+                },
+                {
+                    "da": "en bestemt situation",
+                    "zh": "某种特定情境",
+                    "note": "`bestemt` 在此表示特定的"
+                },
+                {
+                    "da": "kalde på noget",
+                    "zh": "引发对某物的需求；让人想到某物",
+                    "note": "也可以表示某种情况需要采取行动"
+                },
+                {
+                    "da": "en chipspose",
+                    "zh": "一袋薯片",
+                    "note": "由 `chips` 与 `pose` 构成"
+                },
+                {
+                    "da": "endnu en",
+                    "zh": "又一个；再来一个",
+                    "note": "强调重复增加"
+                }
+            ],
+            "nuance": "这是非常形象的习惯回路描写。作者没有直接说人主动决定去吸烟、吃薯片或刷视频，而是让咖啡、沙发、手机仿佛主动发出召唤。这种拟人化写法突出环境线索对行为的自动触发作用。三个例子由传统生活习惯延伸至数字媒体行为，容易产生共鸣。",
+            "transfer": [
+                "Bestemte situationer kan udløse gamle vaner.",
+                "Kaffen kalder på noget sødt.",
+                "Problemet kalder på en ny løsning."
+            ],
+            "pitfall": "`kalde på` 在这里不是大声呼叫某人，而是引起需求。后两个并列例子省略了动词，理解时应补回 `kalder`。"
+        },
+        {
+            "id": "U12-C030",
+            "zh": "只有当一种新行为已经变得自动化时，人们才不再需要依靠意志力去完成它。",
+            "grammar": "这是强调句 `Det er … at …`，强调的内容是 `først, når en ny handling er blevet automatisk`。`er blevet` 是 `blive` 的现在完成时，表示新行为已经达到自动化的状态。后面 `at man ikke længere behøver viljestyrke` 属于强调结构的后半部分。`ikke længere` 表示不再；`behøve noget for at + 不定式` 表示为了做某事而需要某物。",
+            "vocabulary": [
+                {
+                    "da": "automatisk",
+                    "zh": "自动的；不需刻意思考的",
+                    "note": "在习惯研究中描述行为的自动性"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "表示某种状态已经改变"
+                },
+                {
+                    "da": "viljestyrke",
+                    "zh": "意志力",
+                    "note": "en viljestyrke；`stole på viljestyrken` 依靠意志力"
+                },
+                {
+                    "da": "gennemføre",
+                    "zh": "完成；执行到底",
+                    "note": "`gennemføre en plan` 执行计划"
+                },
+                {
+                    "da": "en handling",
+                    "zh": "行为；行动",
+                    "note": "可用于心理学及日常行为描述"
+                }
+            ],
+            "nuance": "句子的重点不是新行为出现，而是新行为变得无需持续主动控制。`først` 与强调句结合，突出自动化是减少意志力依赖的关键条件。这里讨论的是习惯机制的一般解释，而不是所有行为达到自动化后就完全不需要任何自我控制。",
+            "transfer": [
+                "Det er først, når X er blevet en vane, at Y bliver lettere.",
+                "Jeg behøver ikke længere at tænke over det.",
+                "Målet er at gøre handlingen så automatisk som muligt."
+            ],
+            "pitfall": "不要把 `Det er først … at …` 当作普通的两个独立句子。`ikke længere` 表示不再，区别于 `ikke endnu` 还没有。`er blevet` 强调变化已经发生。"
+        },
+        {
+            "id": "U12-C031",
+            "zh": "在一项英国研究中，参与者被要求每天完成一件特定的事情，而研究人员则测量这种行为从什么时候开始让他们觉得自然、不费力。",
+            "grammar": "句首 `I en britisk undersøgelse` 是地点或研究情境状语，因此主句采用 `skulle deltagerne` 的 V2 倒装。`skulle` 在这里表示研究参与者被要求完成任务，不是对未来的猜测。`gøre én bestemt ting` 表示每天执行同一项特定行为。第二分句 `forskerne målte` 后接间接疑问从句 `hvornår den føltes naturlig`，`den` 指前面那项行为。",
+            "vocabulary": [
+                {
+                    "da": "en undersøgelse",
+                    "zh": "研究；调查",
+                    "note": "可指科学研究或问卷调查"
+                },
+                {
+                    "da": "en deltager",
+                    "zh": "参与者",
+                    "note": "复数 `deltagere`"
+                },
+                {
+                    "da": "måle",
+                    "zh": "测量；衡量",
+                    "note": "`måle – målte – målt`"
+                },
+                {
+                    "da": "føles naturlig",
+                    "zh": "感觉自然；做起来不刻意",
+                    "note": "`føles` 表示给人的主观感受"
+                },
+                {
+                    "da": "en bestemt ting",
+                    "zh": "某件特定的事",
+                    "note": "`én` 带重音符号，强调恰好一件"
+                }
+            ],
+            "nuance": "作者开始用实证研究支持习惯形成的讨论。`skulle deltagerne` 强调研究任务的安排，而非参与者自己突然产生的打算。`føltes naturlig` 关注参与者的主观自动化体验，因此不能直接等同于研究者测量了全部潜在心理机制。",
+            "transfer": [
+                "I undersøgelsen skulle deltagerne gøre X hver dag.",
+                "Forskerne målte, hvornår adfærden blev automatisk.",
+                "Efter nogle uger begyndte det at føles naturligt."
+            ],
+            "pitfall": "`skulle` 不一定表示过去将来时，这里是研究任务要求。`føltes` 是感官或主观体验表达，与 `var naturlig` 的客观断言不完全相同。"
+        },
+        {
+            "id": "U12-C032",
+            "zh": "通常需要大约66天，这种行为才会让人感觉已经变成了自动的习惯。",
+            "grammar": "主句使用 `Det tog … dage` 表示完成某种变化花费的时间，`tog` 是 `tage` 的过去时。`før handlingen føltes automatisk` 是时间从句，表示直到行为开始感觉自动化为止。`typisk` 和 `omkring` 同时限制数字的精确性，前者描述典型情况，后者表示约数。",
+            "vocabulary": [
+                {
+                    "da": "det tager tid",
+                    "zh": "需要时间",
+                    "note": "`Det tager X dage at …` 做某事需要X天"
+                },
+                {
+                    "da": "typisk",
+                    "zh": "通常；典型情况下",
+                    "note": "不代表每个人都一样"
+                },
+                {
+                    "da": "omkring",
+                    "zh": "大约；左右",
+                    "note": "与数字连用表示近似"
+                },
+                {
+                    "da": "føles automatisk",
+                    "zh": "感觉已经自动化",
+                    "note": "与行为的主观自动性有关"
+                }
+            ],
+            "nuance": "作者刻意使用 `typisk omkring`，使66天成为一个典型观察值，而不是每个人都必须遵守的固定时间表。后面一句马上说明个体差异很大。`før` 在这里强调完成变化所需的时间，而不是两个独立事件简单的先后顺序。",
+            "transfer": [
+                "Det tog omkring tre måneder, før jeg vænnede mig til det.",
+                "Det tager tid at ændre en vane.",
+                "Efter nogle uger føltes det mere naturligt."
+            ],
+            "pitfall": "66天不是普遍适用的习惯形成截止日期。`før` 后接从句，`for` 则是不同的介词或连接形式，不能混淆。"
+        },
+        {
+            "id": "U12-C033",
+            "zh": "不过，个体之间的差异相当大，所需时间从18天到估计的254天不等；而偶尔漏掉一天，也不会毁掉整个习惯形成过程。",
+            "grammar": "第一分句 `Spredningen var dog stor` 中 `dog` 表示对上一句典型数字的限定。`fra 18 til anslået 254 dage` 补充变化范围。第二分句以 `at springe en enkelt dag over` 这个不定式结构作主语，谓语是 `ødelagde ikke processen`。`springe … over` 是动词与小品词构成的可分结构。",
+            "vocabulary": [
+                {
+                    "da": "spredning",
+                    "zh": "离散程度；差异范围；分布跨度",
+                    "note": "统计学中可表示数据的分散程度"
+                },
+                {
+                    "da": "anslået",
+                    "zh": "估计的；推算的",
+                    "note": "来自动词 `anslå`"
+                },
+                {
+                    "da": "springe noget over",
+                    "zh": "跳过；略过；漏掉",
+                    "note": "`springe – sprang – sprunget`"
+                },
+                {
+                    "da": "en enkelt dag",
+                    "zh": "单独的一天；仅仅一天",
+                    "note": "强调偶发的一次"
+                },
+                {
+                    "da": "ødelægge",
+                    "zh": "破坏；毁掉",
+                    "note": "`ødelægge processen` 破坏整个过程"
+                }
+            ],
+            "nuance": "这一句防止读者把上一句的66天过度简化成通用规则。`dog` 引出必要的限定，`anslået` 表示范围上端带有估计性质。关于漏掉一天的结论也很实用：养成习惯并不要求每一天都绝对完美。作者强调长期过程，而非一次失误。",
+            "transfer": [
+                "Spredningen mellem deltagerne var stor.",
+                "Det ødelægger ikke processen at springe en dag over.",
+                "Resultaterne varierede fra X til Y."
+            ],
+            "pitfall": "`springe over` 是跳过或略过，不是一定要跳跃越过实物。`anslået 254 dage` 不应理解为精确观察到的统一上限。"
+        },
+        {
+            "id": "U12-C034",
+            "zh": "心理学家指出，与其单纯依靠意志力，改变周围的环境往往更容易。",
+            "grammar": "主干是 `Psykologer peger på, at …`，`pege på` 表示指出或强调。`at` 从句使用形式主语 `det`，核心为 `det ofte er lettere at ændre omgivelserne end at stole på viljestyrken`。比较结构 `lettere … end …` 将两个不定式动作进行比较。",
+            "vocabulary": [
+                {
+                    "da": "pege på",
+                    "zh": "指出；强调；表明",
+                    "note": "研究和政策分析中常用"
+                },
+                {
+                    "da": "omgivelserne",
+                    "zh": "周围环境；所处环境",
+                    "note": "通常用复数，`omgivelser`"
+                },
+                {
+                    "da": "stole på noget",
+                    "zh": "依靠；信赖",
+                    "note": "介词必须是 `på`"
+                },
+                {
+                    "da": "viljestyrke",
+                    "zh": "意志力",
+                    "note": "可与 `stole på`、`kræve` 搭配"
+                }
+            ],
+            "nuance": "这句话将研究发现转化为行为改变的实践原则。作者没有把缺乏自律归咎于个人，而是强调通过环境设计减少行为阻力。`peger på` 比 `beviser` 更谨慎，表明心理学家提出或强调这一研究结论，不一定声称适用于所有情况。",
+            "transfer": [
+                "Forskningen peger på, at X har stor betydning.",
+                "Det er lettere at ændre omgivelserne end at ændre personligheden.",
+                "Man bør ikke kun stole på sin viljestyrke."
+            ],
+            "pitfall": "`stole på` 是信赖或依靠，与 `stille på` 调整、设置不同。`pege på` 在抽象语境中不是用手指向某个东西。"
+        },
+        {
+            "id": "U12-C035",
+            "zh": "想少吃糖果的人，最好不要把糖果放在家里的橱柜中；而打算早晨跑步的人，可以在前一天晚上就把跑鞋提前摆好。",
+            "grammar": "两个主句都以 `Den, der vil …` 作为泛指主语，形成平行结构。第一分句 `gør klogt i ikke at have det i skabet` 使用固定搭配 `gøre klogt i at + 不定式`，表示明智的做法是……。第二分句 `kan lægge løbeskoene frem` 使用 `lægge noget frem`，表示把物品提前放到显眼或方便取用的位置。`aftenen før` 是时间状语。",
+            "vocabulary": [
+                {
+                    "da": "gøre klogt i at gøre noget",
+                    "zh": "做某事是明智的",
+                    "note": "自然的建议句型"
+                },
+                {
+                    "da": "slik",
+                    "zh": "糖果；甜食",
+                    "note": "et slik 作集合性物质名词时，常直接说 `spise slik`"
+                },
+                {
+                    "da": "lægge noget frem",
+                    "zh": "把某物提前拿出来摆好",
+                    "note": "如衣服、文件或运动装备"
+                },
+                {
+                    "da": "løbesko",
+                    "zh": "跑鞋",
+                    "note": "常用复数形式"
+                },
+                {
+                    "da": "aftenen før",
+                    "zh": "前一天晚上",
+                    "note": "也可说 `dagen før` 前一天"
+                }
+            ],
+            "nuance": "这是上一句环境设计理论的具体应用。少吃糖果依靠减少诱惑，早晨跑步依靠提前降低准备成本。`gør klogt i` 是建议性的评价，比直接命令更容易被接受。两个平行的 `Den, der …` 让读者更容易记住并应用。",
+            "transfer": [
+                "Den, der vil spare penge, gør klogt i at lægge et budget.",
+                "Jeg lægger træningstøjet frem aftenen før.",
+                "Hvis du vil ændre en vane, kan du ændre dine omgivelser."
+            ],
+            "pitfall": "`gøre klogt i` 是固定搭配，不能按字面翻译为在某事里面做聪明。`lægge frem` 与单纯 `lægge` 不同，前者突出提前准备、摆出来。"
+        },
+        {
+            "id": "U12-C036",
+            "zh": "总体而言，那些不断重复的小改变，往往比只坚持到一月第二周就放弃的宏大新年决心更有效。",
+            "grammar": "主语 `Små ændringer, der gentages` 包含关系从句，`der gentages` 使用 s-被动，表示不断被重复。谓语是 `har … større effekt end …`，比较级 `større` 与 `end` 对应。`langt hen ad vejen` 是插入的程度限定语，表示总体而言、在很大程度上。`der holder til den anden uge i januar` 修饰 `store forsætter`，其中 `holde til` 表示持续到某个时间。",
+            "vocabulary": [
+                {
+                    "da": "langt hen ad vejen",
+                    "zh": "在很大程度上；总体而言",
+                    "note": "非常实用的带限定意味的固定表达"
+                },
+                {
+                    "da": "have større effekt end",
+                    "zh": "比……更有效",
+                    "note": "`effekt` 是效果或作用"
+                },
+                {
+                    "da": "et forsæt",
+                    "zh": "决心；打算",
+                    "note": "`et nytårsforsæt` 新年决心"
+                },
+                {
+                    "da": "holde til",
+                    "zh": "持续到；坚持到",
+                    "note": "本句为时间终点用法"
+                },
+                {
+                    "da": "gentage",
+                    "zh": "重复",
+                    "note": "`gentages` 是现在时 s-被动"
+                }
+            ],
+            "nuance": "作者通过一月第二周这个形象化的时间节点，轻微讽刺那些新年伊始雄心勃勃、很快就难以坚持的计划。`langt hen ad vejen` 表示这是通常成立的实践判断，而不是每一种情况下都必然如此。全文的习惯章节在这里得出结论：可重复性比短期强度更重要。",
+            "transfer": [
+                "Små ændringer kan have større effekt end store planer.",
+                "Langt hen ad vejen handler det om vedholdenhed.",
+                "Mine nytårsforsætter holder sjældent ret længe."
+            ],
+            "pitfall": "`forsæt` 是决心，`forsætte` 并不是这里需要的动词形式；表示继续应使用 `fortsætte`。`langt hen ad vejen` 是固定习语，不要按字面理解为沿路走很远。"
+        },
+        {
+            "id": "U12-C037",
+            "zh": "健康并不只是身体方面的事。",
+            "grammar": "主干为 `Sundhed handler ikke kun om kroppen`。`handle om noget` 表示涉及或关乎某个话题。`ikke kun` 否定范围的局限性，暗示还存在其他重要方面，而不是否认身体健康的重要性。",
+            "vocabulary": [
+                {
+                    "da": "handle om noget",
+                    "zh": "涉及；关乎；关于",
+                    "note": "可以用于文章主题、问题本质和生活议题"
+                },
+                {
+                    "da": "ikke kun",
+                    "zh": "不只是；不仅仅",
+                    "note": "经常与后文的补充形成呼应"
+                }
+            ],
+            "nuance": "这是非常简练的章节转场。前面主要讨论饮食、运动、吸烟、饮酒和体重，现在自然转向心理健康。`handler ikke kun om` 避免把身体与心理对立起来，而是扩大健康概念的范围。",
+            "transfer": [
+                "Sundhed handler ikke kun om kroppen.",
+                "Uddannelse handler ikke kun om karakterer.",
+                "Det handler også om livskvalitet."
+            ],
+            "pitfall": "`handle om` 不能按 `handle` 的购物含义直译。`ikke kun` 表示范围不止于此，不等于完全否定身体因素。"
+        },
+        {
+            "id": "U12-C038",
+            "zh": "近几十年来，越来越多的年轻人，尤其是年轻女性，在调查中开始表示自己心理状态不佳，或者感到有压力。",
+            "grammar": "句首 `De seneste årtier` 是时间状语，主句采用 `er flere unge … begyndt` 的 V2 倒装。`er begyndt at svare` 是表示状态或行为开始的现在完成时结构。`at svare, at …` 中第一个 `at` 引出不定式，第二个 `at` 引出回答内容的从句。`de har det dårligt psykisk` 与 `føler sig stressede` 是两个并列的报告内容。",
+            "vocabulary": [
+                {
+                    "da": "de seneste årtier",
+                    "zh": "最近几十年",
+                    "note": "`et årti` 十年"
+                },
+                {
+                    "da": "have det dårligt psykisk",
+                    "zh": "心理状态不好；心理上感到不适",
+                    "note": "`have det godt/dårligt` 描述个人状态"
+                },
+                {
+                    "da": "føle sig stresset",
+                    "zh": "感到压力大；感到紧张疲惫",
+                    "note": "`stressede` 与复数主语一致"
+                },
+                {
+                    "da": "især",
+                    "zh": "尤其；特别是",
+                    "note": "用于突出某一子群体"
+                }
+            ],
+            "nuance": "这句在科学表达上非常谨慎。作者说的是越来越多的年轻人开始如此回答，而不是直接断言实际心理疾病发生率以同样幅度增加。`begyndt at svare` 保留了问卷报告这一信息来源，也为下一句讨论是否存在报告习惯变化留下空间。",
+            "transfer": [
+                "Flere unge fortæller, at de føler sig stressede.",
+                "De seneste årtier er flere begyndt at tale om X.",
+                "Jeg har det ikke så godt psykisk for tiden."
+            ],
+            "pitfall": "`have det dårligt` 是感到不舒服或状态不好，不等于一定存在医学诊断。`stresset` 是形容词，`stress` 是名词，注意词性区别。"
+        },
+        {
+            "id": "U12-C039",
+            "zh": "研究人员正在讨论，这一现象在多大程度上反映了心理健康状况的真实变化，又在多大程度上是因为如今公开谈论心理问题已变得更容易被社会接受。",
+            "grammar": "主干是 `Forskerne diskuterer`，后接两个并列的间接程度疑问结构 `hvor meget der skyldes …`。`skyldes` 是表示由……造成的动词，后面直接接原因。第二部分 `at det er blevet mere accepteret at tale om psykiske problemer` 是一个由 `at` 引导的从句，其中 `det` 为形式主语，`er blevet mere accepteret` 表示某种行为变得更加被接受。",
+            "vocabulary": [
+                {
+                    "da": "diskutere",
+                    "zh": "讨论；探讨；争论",
+                    "note": "学术语境中不一定表示激烈争吵"
+                },
+                {
+                    "da": "skyldes noget",
+                    "zh": "归因于；由某事造成",
+                    "note": "不要与 `være skyld i` 的责任归属语气混为一谈"
+                },
+                {
+                    "da": "reelle forandringer",
+                    "zh": "真实变化；实际发生的改变",
+                    "note": "`reel` 表示实际的、真实的"
+                },
+                {
+                    "da": "accepteret",
+                    "zh": "被接受的；受到认可的",
+                    "note": "`mere accepteret` 更能被接受"
+                },
+                {
+                    "da": "psykiske problemer",
+                    "zh": "心理问题；精神健康问题",
+                    "note": "不必然指经医学诊断的疾病"
+                }
+            ],
+            "nuance": "这一句是全文科学素养主题在心理健康领域的延伸。观察到更多人报告心理困扰，可能同时涉及实际状态变化和社会表达规范变化。两个 `hvor meget` 表明研究者讨论的是不同因素各自解释多少，而不是简单二选一。`mere accepteret` 指社会接受程度的改变，不意味着心理问题本身被视为理想状态。",
+            "transfer": [
+                "Forskerne diskuterer, hvor meget udviklingen skyldes X.",
+                "Det er blevet mere accepteret at tale om psykisk sundhed.",
+                "En del af forskellen kan skyldes ændrede holdninger."
+            ],
+            "pitfall": "`skyldes` 是由……引起，`skylde` 还可以表示欠钱或欠人情，不能混用。`hvor meget der skyldes` 是间接疑问结构，不应把 `der` 随意删除。"
+        },
+        {
+            "id": "U12-C040",
+            "zh": "丹麦一项促进心理健康的项目，把最重要的建议概括成三条行动倡议：积极参与活动、与他人一起行动，以及做有意义的事情。",
+            "grammar": "主干为 `Et dansk program … opsummerer … i tre opfordringer`，`opsummere X i Y` 表示将信息归纳成若干要点。冒号后三次重复祈使句 `Gør noget …`，以相同句型构成平行结构。`aktivt`、`sammen`、`meningsfuldt` 分别表达积极活动、共同参与和意义导向。",
+            "vocabulary": [
+                {
+                    "da": "mental sundhed",
+                    "zh": "心理健康；精神健康",
+                    "note": "公共卫生语境"
+                },
+                {
+                    "da": "opsummere",
+                    "zh": "总结；概括",
+                    "note": "`opsummere noget i tre punkter` 将某事总结为三点"
+                },
+                {
+                    "da": "en opfordring",
+                    "zh": "倡议；呼吁；建议",
+                    "note": "`opfordre nogen til at gøre noget` 鼓励或呼吁某人做某事"
+                },
+                {
+                    "da": "meningsfuld",
+                    "zh": "有意义的",
+                    "note": "中性形式 `meningsfuldt`"
+                },
+                {
+                    "da": "gøre noget sammen",
+                    "zh": "与他人一起做事",
+                    "note": "强调社会参与和共同活动"
+                }
+            ],
+            "nuance": "三个短句采用相同的命令式节奏，非常适合公共宣传、记忆和口头传播。这里的祈使句并不是对个人的责备，而是鼓励人们通过活动、社会联系和有意义的参与来支持心理健康。三个方面互相补充，没有将心理健康简化成单一行为。",
+            "transfer": [
+                "Gør noget aktivt, og gør det gerne sammen med andre.",
+                "Det er vigtigt at gøre noget meningsfuldt.",
+                "Anbefalingerne kan opsummeres i tre punkter."
+            ],
+            "pitfall": "`meningsfuldt` 不是充满某种可测量意义的数量表达，而是对主观价值和意义的评价。`gøre` 的祈使式是 `gør`，不是 `gøre`。"
+        },
+        {
+            "id": "U12-C041",
+            "zh": "批评者把这种做法称为家长式干预，并认为成年人应该有权自己决定吃喝什么。",
+            "grammar": "主语 `Kritikere` 后接两个并列谓语 `kalder` 和 `mener`。`kalde X Y` 表示将某事称为某种性质或名称。`at voksne selv må bestemme` 是观点从句，`må` 在这里表示权利、许可或自主决定的正当性。`hvad de putter i munden` 是间接疑问形式的宾语从句，表示吃进嘴里的东西。",
+            "vocabulary": [
+                {
+                    "da": "en kritiker",
+                    "zh": "批评者；反对者",
+                    "note": "复数 `kritikere`"
+                },
+                {
+                    "da": "formynderi",
+                    "zh": "家长式管束；居高临下的干预",
+                    "note": "et formynderi；通常带负面评价"
+                },
+                {
+                    "da": "bestemme selv",
+                    "zh": "自己决定；自主作主",
+                    "note": "`selv` 突出自主性"
+                },
+                {
+                    "da": "putte noget i munden",
+                    "zh": "把某物放进嘴里；吃喝某物",
+                    "note": "可用于具体动作，也可在争论中泛指饮食选择"
+                }
+            ],
+            "nuance": "最后一章转向公共卫生政策与个人自由之间的张力。`formynderi` 是带有鲜明批评色彩的词，暗示政府或机构像监护人一样替成年人作决定。作者使用 `Kritikere kalder` 将这一评价明确归属于批评者，而没有把它直接写成客观定论。`putter i munden` 具有口语化和身体自主权的表达效果。",
+            "transfer": [
+                "Kritikere kalder forslaget formynderi.",
+                "Voksne bør have ret til selv at bestemme.",
+                "Det er op til den enkelte at vælge, hvad han eller hun vil spise."
+            ],
+            "pitfall": "`formynderi` 不等于普通的照顾或监护，在政治辩论中通常强调不必要的干涉。`må` 在这里主要表达有权或可以，而不是一定必须。"
+        },
+        {
+            "id": "U12-C042",
+            "zh": "如果健康的选择同时也是最方便、最便宜的选择，就没有必要再逐个去说服人们了。",
+            "grammar": "句首 `Hvis det sunde valg også er det nemme og billige valg` 是条件从句。它占据主句首位，因此主句采用 `behøver man ikke` 的 V2 倒装。`behøve ikke at + 不定式` 表示不需要做某事。`overbevise folk` 是说服人们，`ét for ét` 表示一个接一个地、逐个地。",
+            "vocabulary": [
+                {
+                    "da": "det sunde valg",
+                    "zh": "健康的选择",
+                    "note": "`sunde` 为形容词的确定形式"
+                },
+                {
+                    "da": "behøve ikke at",
+                    "zh": "不必；不需要",
+                    "note": "否定必要性，不等于禁止"
+                },
+                {
+                    "da": "overbevise nogen",
+                    "zh": "说服某人",
+                    "note": "`overbevise nogen om noget` 使某人相信某事"
+                },
+                {
+                    "da": "ét for ét",
+                    "zh": "一个接一个；逐个",
+                    "note": "带重音符号的 `ét` 突出每次一个"
+                },
+                {
+                    "da": "billig",
+                    "zh": "便宜的；价格低的",
+                    "note": "比较级 `billigere`，最高级 `billigst`"
+                }
+            ],
+            "nuance": "这是公共卫生政策中一种重要的思路：与其不断要求个体靠意志力选择健康行为，不如使健康选项本身更加方便且负担得起。`også` 是关键词，健康选项不仅应该健康，还需要在便利性和价格方面具有吸引力。句子在个人选择与政策环境之间提供了第三种思考路径。",
+            "transfer": [
+                "Hvis det sunde valg er det nemmeste, vælger flere det.",
+                "Man behøver ikke at overbevise alle ét for ét.",
+                "Det skal være nemt og billigt at træffe sunde valg."
+            ],
+            "pitfall": "`behøver ikke at` 表示没有必要，不是 `må ikke` 所表示的禁止。`det sunde valg` 使用确定形容词形式，不能写成 `det sund valg`。"
+        },
+        {
+            "id": "U12-C043",
+            "zh": "国家究竟能干预到什么程度，才会引起民众反对，这件事并不总是能够预先判断。",
+            "grammar": "全句以间接疑问从句 `Hvor langt staten kan gå, før folk siger fra` 充当主语，主句谓语是 `er ikke altid til at forudsige`。从句内部使用陈述式从句语序 `staten kan gå`，而不是直接疑问句的 `kan staten gå`。`før folk siger fra` 是时间从句，同时表达达到某个社会容忍界限之前的条件。`være til at + 不定式` 表示某事能够被完成或判断。",
+            "vocabulary": [
+                {
+                    "da": "hvor langt man kan gå",
+                    "zh": "能够做到何种程度；可以走多远",
+                    "note": "常用于讨论行为、政策和权力的界限"
+                },
+                {
+                    "da": "sige fra",
+                    "zh": "表示反对；明确拒绝；说不",
+                    "note": "与 `sige til` 的其他用法区别记忆"
+                },
+                {
+                    "da": "forudsige",
+                    "zh": "预测；预先判断",
+                    "note": "`forudsige – forudsagde – forudsagt`"
+                },
+                {
+                    "da": "være til at forudsige",
+                    "zh": "能够被预测；可以预见",
+                    "note": "`ikke til at forudsige` 难以预测"
+                }
+            ],
+            "nuance": "文章以开放性问题结束，而不是简单支持或反对政府干预。`hvor langt staten kan gå` 具有政治哲学和政策讨论中的边界意味；`folk siger fra` 则强调公众可能主动表达反对，而不只是产生私人不满。`ikke altid` 仍然保留谨慎程度：公众反应有时可以预测，但并非总是如此。整句呼应本文的核心思想——个人行为、健康风险与公共政策之间存在复杂关系。",
+            "transfer": [
+                "Hvor langt staten bør gå, er et politisk spørgsmål.",
+                "Det er svært at forudsige, hvornår folk siger fra.",
+                "Der er grænser for, hvor meget myndighederne kan bestemme."
+            ],
+            "pitfall": "`sige fra` 不是简单地说从哪里，而是明确拒绝或表达反对。`Hvor langt staten kan gå` 是间接疑问从句，不能照搬直接疑问句语序。`ikke altid til at forudsige` 表示不总能预测，不等于绝对无法预测。"
+        }
+    ]
+}
