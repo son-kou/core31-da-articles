@@ -1,0 +1,2453 @@
+{
+    "schema_version": 1,
+    "unit": "U02",
+    "part": "ALL",
+    "source_fingerprint": "U02-ALL-84f743bb2215",
+    "sentences": [
+        {
+            "id": "U02-C001",
+            "zh": "星期天早晨，面包店里常常排着队，而店员和顾客之间的对话几乎总是遵循一套固定模式，大多数丹麦人闭着眼睛都能熟练应对。",
+            "grammar": "时间状语 `Søndag morgen` 前置，主句采用 V2 语序：`er der ofte kø`。`hvor` 引导关系从句，指面包店这一场景。`et mønster, de fleste danskere kan i søvne` 中省略了作宾语的关系代词 `som`，`kan` 后又省略了从上下文可以推断的动作，意思是能够熟练掌握这一套对话。",
+            "vocabulary": [
+                {
+                    "da": "stå i kø / være kø",
+                    "zh": "排队／有人排队",
+                    "note": "`en kø`，复数 `køer`；`der er kø` 表示有队伍、需要排队。"
+                },
+                {
+                    "da": "hos bageren",
+                    "zh": "在面包店",
+                    "note": "`en bager` 既可指面包师，也可在日常口语中指面包店。"
+                },
+                {
+                    "da": "følge et mønster",
+                    "zh": "遵循某种模式",
+                    "note": "适用于行为、趋势、对话和工作流程。"
+                },
+                {
+                    "da": "kunne noget i søvne",
+                    "zh": "对某事熟练到闭着眼睛都会",
+                    "note": "比喻性固定表达。"
+                }
+            ],
+            "nuance": "作者用 `kan i søvne` 轻松地描述丹麦人对面包店购物流程的熟悉程度，并非真的在睡觉时说话。`hos bageren` 也是很有生活气息的表达：丹麦语经常用 `hos` 加职业或商家来指某人经营、提供服务的地方。开篇没有直接讲饮食文化，而是从人人熟悉的周末购物仪式切入。",
+            "transfer": [
+                "Søndag morgen er der ofte kø hos X.",
+                "Samtalen følger et fast mønster.",
+                "Det kan jeg efterhånden i søvne."
+            ],
+            "pitfall": "`i søvne` 不是普通的 `i søvn`。前者表示在睡眠中，并可比喻极其熟练；`falde i søvn` 才表示入睡。`hos bageren` 中的 `hos` 不能一律替换成 `i`。"
+        },
+        {
+            "id": "U02-C002",
+            "zh": "你好，您想买点什么？",
+            "grammar": "`Hvad skulle det være?` 使用情态动词 `skulle` 的过去式，但这里不是询问过去的义务，而是商店服务场景中约定俗成的礼貌问法。`det` 泛指顾客准备购买的东西。",
+            "vocabulary": [
+                {
+                    "da": "Hvad skulle det være?",
+                    "zh": "您要点什么？想买些什么？",
+                    "note": "商店、面包店及熟食柜台的常见服务用语。"
+                }
+            ],
+            "nuance": "这是地道的丹麦购物开场白。比直接的 `Hvad vil du have?` 更符合服务情境，但并不显得过分正式。即使店员使用 `du`，也不必理解为不尊重顾客。",
+            "transfer": [
+                "Hej, hvad skulle det være?",
+                "Hvad kan jeg hjælpe dig med?"
+            ],
+            "pitfall": "不能把 `skulle` 按过去时机械译成你当时应该要什么。在这种公式化表达中，它主要体现礼貌和服务语境。"
+        },
+        {
+            "id": "U02-C003",
+            "zh": "一条粗粮黑麦面包，再要六个小圆面包，谢谢。",
+            "grammar": "这是购物场景中的名词短语式回答，省略完整句子 `Jeg vil gerne have …`。两个购买项目由 `og` 连接，末尾 `tak` 让点单自然、礼貌。",
+            "vocabulary": [
+                {
+                    "da": "et rugbrød",
+                    "zh": "黑麦面包",
+                    "note": "丹麦饮食中的基本主食，通常为较紧实的长条或方形面包。"
+                },
+                {
+                    "da": "groft brød",
+                    "zh": "粗粮面包、粗质地面包",
+                    "note": "`groft` 可指谷物颗粒较粗或富含粗粮。"
+                },
+                {
+                    "da": "et rundstykke",
+                    "zh": "小圆面包、早餐面包",
+                    "note": "复数 `rundstykker`，常见于周末早餐。"
+                }
+            ],
+            "nuance": "在丹麦面包店，无须每次都说完整的 `Jeg vil gerne have`。直接列举商品并加 `tak` 就足够自然。`rugbrød` 与 `rundstykker` 分别体现黑麦面包和早餐小面包两种不同的饮食场景。",
+            "transfer": [
+                "Et rugbrød og fire rundstykker, tak.",
+                "Jeg vil gerne have seks rundstykker."
+            ],
+            "pitfall": "`et rundstykke` 的复数是 `rundstykker`。`groft` 是形容词 `grov` 的中性形式，修饰 `et rugbrød`。"
+        },
+        {
+            "id": "U02-C004",
+            "zh": "这面包需要帮您切片吗？",
+            "grammar": "`Skal brødet skæres?` 使用情态动词 `skal` 加 s-被动不定式 `skæres`。主语是接受处理的 `brødet`，执行切片的人没有明说。",
+            "vocabulary": [
+                {
+                    "da": "skære brød",
+                    "zh": "切面包",
+                    "note": "不规则变化：`skærer – skar – har skåret`。"
+                },
+                {
+                    "da": "skæres",
+                    "zh": "被切、进行切片",
+                    "note": "动词 `skære` 的 s-被动形式。"
+                }
+            ],
+            "nuance": "这是面包店的一项常见服务询问。`Skal …?` 在此不是强制命令，而是确认顾客是否需要这一处理。",
+            "transfer": [
+                "Skal brødet skæres?",
+                "Skal det pakkes ind?"
+            ],
+            "pitfall": "`skæres` 不是动词复数形式，而是被动形式。`brødet` 表示已经选定的那条面包。"
+        },
+        {
+            "id": "U02-C005",
+            "zh": "好的，谢谢。另外我还想要四个肉桂卷。",
+            "grammar": "`Og så` 引入额外购买项目。`vil gerne have` 是表达购买愿望的常见礼貌结构，其中 `gerne` 加强希望、愿意的含义。",
+            "vocabulary": [
+                {
+                    "da": "en kanelsnegl",
+                    "zh": "肉桂卷",
+                    "note": "复数 `kanelsnegle`；由 `kanel` 肉桂和 `snegl` 蜗牛组成，名称来自旋涡形状。"
+                },
+                {
+                    "da": "og så",
+                    "zh": "另外、还有、然后",
+                    "note": "购物时用于补充项目。"
+                }
+            ],
+            "nuance": "`Og så vil jeg gerne have …` 比重新开始一个完整点单过程自然，表示顾客想到还要买别的东西。",
+            "transfer": [
+                "Og så vil jeg gerne have to kanelsnegle.",
+                "Jeg vil også gerne have en kop kaffe."
+            ],
+            "pitfall": "`kanelsnegl` 不是蜗牛食品，而是因外形得名的甜面包。`vil gerne` 比单独的 `vil` 更适合日常礼貌点单。"
+        },
+        {
+            "id": "U02-C006",
+            "zh": "还需要别的吗？",
+            "grammar": "省略式问句，完整形式可理解为 `Skal det være ellers andet?` 或 `Vil du have noget andet?`。省略不影响理解，因为购物语境明确。",
+            "vocabulary": [
+                {
+                    "da": "Ellers andet?",
+                    "zh": "还要别的吗？",
+                    "note": "商店中的常见简短问法。"
+                }
+            ],
+            "nuance": "非常高效、自然的服务用语。`ellers` 在这里引出前面已点商品之外的其他需求。",
+            "transfer": [
+                "Ellers andet?",
+                "Var der andet?"
+            ],
+            "pitfall": "`ellers` 在这里不是否则，而是除此以外。"
+        },
+        {
+            "id": "U02-C007",
+            "zh": "不用了，就这些，谢谢。",
+            "grammar": "`det var det hele` 使用过去式 `var`，属于结束购物点单时的惯用表达，并不表示商品已经成为过去。",
+            "vocabulary": [
+                {
+                    "da": "det var det hele",
+                    "zh": "就这些、没有别的了",
+                    "note": "可用于购物、点餐和结束说明。"
+                }
+            ],
+            "nuance": "即使正在购物，丹麦人也自然地说 `Det var det hele`。这是礼貌且明确的收尾信号。",
+            "transfer": [
+                "Nej tak, det var det hele.",
+                "Det var alt for denne gang."
+            ],
+            "pitfall": "不要因过去式 `var` 而误以为只能用于已经结束的事件。"
+        },
+        {
+            "id": "U02-C008",
+            "zh": "您需要一个袋子吗？",
+            "grammar": "`Vil du have …?` 使用情态动词 `vil` 引导疑问句，询问顾客是否希望得到某物。",
+            "vocabulary": [
+                {
+                    "da": "en pose",
+                    "zh": "袋子、购物袋",
+                    "note": "可以指纸袋、塑料袋等。"
+                }
+            ],
+            "nuance": "用 `Vil du have …?` 询问顾客需求，简洁而自然。",
+            "transfer": [
+                "Vil du have en pose?",
+                "Vil du have kvitteringen?"
+            ],
+            "pitfall": "`pose` 是袋子，不等于 `taske` 的包或手提包。"
+        },
+        {
+            "id": "U02-C009",
+            "zh": "不用，谢谢。我自己带了一个。",
+            "grammar": "`jeg har selv en med` 中 `en` 代替前句的 `en pose`，避免重复。`have noget med` 是带着某物的固定表达。`selv` 强调自己已经准备好了。",
+            "vocabulary": [
+                {
+                    "da": "have noget med",
+                    "zh": "随身带着某物",
+                    "note": "常见结构如 `Jeg har mad med`。"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己、亲自",
+                    "note": "这里表示无需商家提供。"
+                }
+            ],
+            "nuance": "这是非常自然的拒绝购物袋的方式。`Nej tak` 明确拒绝，后半句补充原因，避免显得生硬。",
+            "transfer": [
+                "Nej tak, jeg har selv en pose med.",
+                "Jeg har min egen kop med."
+            ],
+            "pitfall": "`med` 不可随意省略。`Jeg har en` 只是有一个，`Jeg har en med` 才明确表示随身带来了一个。"
+        },
+        {
+            "id": "U02-C010",
+            "zh": "在丹麦的商店里，人们能明显感受到季节的变化。",
+            "grammar": "泛指主语 `man` 表示一般人。`kan mærke` 表示能够感受到，`tydeligt` 修饰这种感知的明显程度。`årstiderne` 是复数定指形式。",
+            "vocabulary": [
+                {
+                    "da": "mærke",
+                    "zh": "感觉到、察觉到",
+                    "note": "可用于身体感觉和抽象变化。"
+                },
+                {
+                    "da": "en årstid",
+                    "zh": "季节",
+                    "note": "复数 `årstider`。"
+                },
+                {
+                    "da": "tydeligt",
+                    "zh": "明显地、清楚地",
+                    "note": "副词形式。"
+                }
+            ],
+            "nuance": "作者不说超市随着季节更换商品，而是用 `mærke årstiderne` 将购物体验和自然节律联系起来，表达更有画面感。",
+            "transfer": [
+                "Man kan tydeligt mærke forskellen.",
+                "Man kan mærke, at årstiderne skifter."
+            ],
+            "pitfall": "`mærke` 不只是触摸，也可以表示察觉社会氛围、天气或情绪的变化。"
+        },
+        {
+            "id": "U02-C011",
+            "zh": "初夏时节，新鲜上市的土豆和丹麦本地产的草莓登场；秋天轮到苹果和蘑菇；到了冬天，蔬果区的主角则成了卷心菜类和各种根茎蔬菜。",
+            "grammar": "三个季节按时间顺序排列。第一部分以 `Først på sommeren` 前置，形成 `kommer de nye kartofler …` 的 V2 倒装。秋季部分省略重复的动词 `kommer`。冬季部分采用强调句 `det er … der fylder …`，突出当季主要商品。",
+            "vocabulary": [
+                {
+                    "da": "først på sommeren",
+                    "zh": "初夏、夏季刚开始时",
+                    "note": "`på sommeren` 与季节内部的时间位置有关。"
+                },
+                {
+                    "da": "nye kartofler",
+                    "zh": "新土豆、当季刚收获的嫩土豆",
+                    "note": "丹麦初夏具有代表性的季节性食材。"
+                },
+                {
+                    "da": "rodfrugter",
+                    "zh": "根茎类蔬菜",
+                    "note": "单数 `en rodfrugt`。"
+                },
+                {
+                    "da": "en grøntafdeling",
+                    "zh": "蔬果区、蔬菜区",
+                    "note": "超市中销售新鲜蔬果的区域。"
+                },
+                {
+                    "da": "fylde",
+                    "zh": "占据主要位置、占很大比重",
+                    "note": "这里不是字面的装满。"
+                }
+            ],
+            "nuance": "作者通过季节性食材勾勒丹麦饮食文化。`nye kartofler` 并非新的土豆品种，而是当季早收、皮薄的土豆。`fylder` 用得很自然：某些商品在陈列、消费和注意力上占据显著位置。句式从普通描写过渡到强调结构，使冬季场景成为这一连串季节变化的收束。",
+            "transfer": [
+                "Først på sommeren kommer X, om efteråret Y.",
+                "Om vinteren er det X, der fylder mest.",
+                "Udvalget ændrer sig med årstiderne."
+            ],
+            "pitfall": "`nye kartofler` 不能解释成新发明的土豆。`kål` 是甘蓝类蔬菜的泛称，不仅仅是普通圆白菜。"
+        },
+        {
+            "id": "U02-C012",
+            "zh": "许多人会根据促销商品安排一周的采购，而批量购买的折扣也可能诱使人们买下超过自己来得及吃完的食物。",
+            "grammar": "两个并列主句分别以 `Mange planlægger …` 和 `mængderabatter kan friste …` 为骨架。`friste nogen til at + 不定式` 表示诱使某人做某事。`mere, end de kan nå at spise` 是比较结构，`nå at` 强调能否在有限时间内完成。",
+            "vocabulary": [
+                {
+                    "da": "planlægge efter",
+                    "zh": "根据……安排",
+                    "note": "可用于预算、时间表、天气等。"
+                },
+                {
+                    "da": "et tilbud",
+                    "zh": "促销优惠；提议",
+                    "note": "超市场景主要指折扣。"
+                },
+                {
+                    "da": "en mængderabat",
+                    "zh": "批量购买折扣",
+                    "note": "复合词 `mængde` 数量 + `rabat` 折扣。"
+                },
+                {
+                    "da": "friste nogen til at",
+                    "zh": "诱使某人去做",
+                    "note": "常指有吸引力但未必明智的选择。"
+                },
+                {
+                    "da": "nå at spise",
+                    "zh": "来得及吃完",
+                    "note": "`nå at + 不定式` 表示及时完成。"
+                }
+            ],
+            "nuance": "作者先承认根据促销购物是一种合理的家庭预算策略，随后用 `friste` 指出折扣带来的潜在过度消费。`mere, end de kan nå at spise` 关注食品在变质前能否被实际消耗，而不仅仅是购买数量。",
+            "transfer": [
+                "Vi planlægger indkøbene efter tilbuddene.",
+                "Rabatterne frister folk til at købe mere.",
+                "Jeg købte mere, end jeg kunne nå at bruge."
+            ],
+            "pitfall": "`et tilbud` 在超市是促销优惠，在职场也可能表示报价或录用提议。`friste nogen til at` 中的 `til at` 不应遗漏。"
+        },
+        {
+            "id": "U02-C013",
+            "zh": "空饮料瓶和易拉罐可不该扔进垃圾桶：其中大多数都带有押金，可以拿去退还。",
+            "grammar": "`høre til i` 表示应属于、应该放在某处；否定形式 `hører ikke til i` 表示不该放在那里。冒号后 `Der er pant på …` 解释原因。`de fleste af dem` 表示其中大多数。",
+            "vocabulary": [
+                {
+                    "da": "høre til",
+                    "zh": "属于、应该放在",
+                    "note": "地点搭配常用 `høre til i/på`。"
+                },
+                {
+                    "da": "en skraldespand",
+                    "zh": "垃圾桶",
+                    "note": "复合词 `skrald` 垃圾 + `spand` 桶。"
+                },
+                {
+                    "da": "pant",
+                    "zh": "押金、饮料容器押金",
+                    "note": "在丹麦常指饮料瓶和易拉罐退还制度。"
+                },
+                {
+                    "da": "der er pant på",
+                    "zh": "……带有可退还押金",
+                    "note": "超市和回收场景的高频搭配。"
+                }
+            ],
+            "nuance": "丹麦的饮料容器押金制度是非常实用的生活知识。`hører ikke til i skraldespanden` 比简单说不要扔更像在表达分类原则。`de fleste` 也保留了限定，没有说所有瓶罐都有押金。",
+            "transfer": [
+                "Der er pant på flaskerne.",
+                "Det hører ikke til i skraldespanden.",
+                "Du kan få panten tilbage."
+            ],
+            "pitfall": "`pant` 不是商品本身的折扣，而是符合规定时可通过退还容器获得的押金。`høre til` 不能按字面译成听到。"
+        },
+        {
+            "id": "U02-C014",
+            "zh": "这些瓶罐可以拿到超市里的回收机退还。机器会打印一张凭条，结账时可以用来抵扣购物金额。",
+            "grammar": "`kan … afleveres` 是情态动词加 s-被动不定式，强调瓶罐可以被退还。`der giver en bon` 修饰 `automat`，`som trækkes fra ved kassen` 修饰 `bon`；两个关系从句连续说明操作流程。",
+            "vocabulary": [
+                {
+                    "da": "aflevere",
+                    "zh": "交还、交付、送交",
+                    "note": "适用于物品、文件和回收容器。"
+                },
+                {
+                    "da": "en automat",
+                    "zh": "自动机器",
+                    "note": "这里指回收瓶罐的自动机器，常称 `flaskeautomat`。"
+                },
+                {
+                    "da": "en bon",
+                    "zh": "小票、凭条",
+                    "note": "可指收据或机器打印的凭条。"
+                },
+                {
+                    "da": "trække fra",
+                    "zh": "扣除、减去",
+                    "note": "不规则变化：`trækker – trak – har trukket`。"
+                },
+                {
+                    "da": "ved kassen",
+                    "zh": "在收银台",
+                    "note": "`kassen` 可指结账处。"
+                }
+            ],
+            "nuance": "这句话用连续的被动结构和关系从句，像一份简明的操作说明。严格说，被扣减的是凭条所代表的押金金额，而非纸张本身。`trækkes fra` 是理解价格计算、税费和优惠时的重要搭配。",
+            "transfer": [
+                "Flaskerne kan afleveres i automaten.",
+                "Beløbet trækkes fra ved kassen.",
+                "Maskinen giver en bon, som du kan bruge i butikken."
+            ],
+            "pitfall": "`trække fra` 是减去；`trække på`、`trække ud` 是其他搭配。`en bon` 通常指购物小票，不要与 `en bonus` 混淆。"
+        },
+        {
+            "id": "U02-C015",
+            "zh": "食品包装上有两种不同的日期标识。搞清它们之间的区别，既能省钱，也能减少食物浪费。",
+            "grammar": "`På emballagen` 前置，引出位置倒装 `står der …`。后半句 `forskellen kan spare både penge og mad` 将抽象的区别拟作带来节省效果的主语。`både … og …` 表示两方面都受益。",
+            "vocabulary": [
+                {
+                    "da": "en emballage",
+                    "zh": "包装、包装材料",
+                    "note": "食品和商品说明中常见。"
+                },
+                {
+                    "da": "to slags",
+                    "zh": "两种不同类型的",
+                    "note": "`slags` 在此通常不随数量改变。"
+                },
+                {
+                    "da": "spare penge",
+                    "zh": "省钱",
+                    "note": "`spare` 也可用于节省时间或资源。"
+                },
+                {
+                    "da": "madspild",
+                    "zh": "食物浪费",
+                    "note": "文章通过 `spare mad` 表达减少浪费的含义。"
+                }
+            ],
+            "nuance": "这一句既是信息引入，也是实用提醒。作者没有立刻抛出专业术语，而是先告诉读者理解日期标签有什么实际价值，适合用于面向普通公众的科普写作。",
+            "transfer": [
+                "På emballagen står der …",
+                "Forskellen kan spare både tid og penge.",
+                "Det er vigtigt at kende forskellen."
+            ],
+            "pitfall": "`står der` 在这里表示印有、写着，不是有人站在那里。`to slags` 后接复数名词，例如 `to slags datoer`。"
+        },
+        {
+            "id": "U02-C016",
+            "zh": "标着最佳食用期至的食品，意思是在标注日期之前品质最好；即使过了这个日期，只要外观、气味和味道仍然正常，通常也可以继续食用。",
+            "grammar": "`betyder, at …` 引出标签含义。`men` 连接限制与补充说明。`kan spises` 是情态动词加 s-被动。`hvis den ser, dufter og smager normalt` 是条件从句，三个动词共用主语 `den`。",
+            "vocabulary": [
+                {
+                    "da": "mindst holdbar til",
+                    "zh": "最佳食用期至、至少保质到",
+                    "note": "丹麦食品标签，对应 best before 的品质日期。"
+                },
+                {
+                    "da": "en vare",
+                    "zh": "商品、货品",
+                    "note": "这里指食品。"
+                },
+                {
+                    "da": "dufte",
+                    "zh": "散发气味、闻起来",
+                    "note": "这里指食品气味是否正常。"
+                },
+                {
+                    "da": "spises bagefter",
+                    "zh": "此后继续食用",
+                    "note": "`bagefter` 指日期之后。"
+                },
+                {
+                    "da": "se, dufte og smage normalt",
+                    "zh": "看起来、闻起来和尝起来正常",
+                    "note": "适用于部分标注最佳食用期的食品判断。"
+                }
+            ],
+            "nuance": "这是食品安全阅读中必须掌握的区别：`mindst holdbar til` 主要涉及品质保证，并不表示过了日期食品立即变得不安全。但能否食用仍要看储存条件、食品类型及是否有变质迹象。这里的观察感官方法不能套用于下一句的最后食用日期食品。",
+            "transfer": [
+                "Varen er mærket med mindst holdbar til.",
+                "Den kan ofte spises efter datoen, hvis den er opbevaret korrekt.",
+                "Maden ser og dufter stadig normal."
+            ],
+            "pitfall": "`mindst holdbar til` 与 `sidste anvendelsesdato` 不是同一个概念。不要把所有过期食品一概视为安全，也不能仅凭闻起来正常就判断高风险食品安全。"
+        },
+        {
+            "id": "U02-C017",
+            "zh": "相比之下，最后食用日期标在肉末、鲜鱼等容易腐败的食品上，这种日期必须认真对待，不能随便忽视。",
+            "grammar": "`derimod` 标记与前一类日期的对比。后半句 `den skal man tage alvorligt` 将宾语 `den` 前置，限定动词 `skal` 随后出现，主语 `man` 后移。`tage alvorligt` 是固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "sidste anvendelsesdato",
+                    "zh": "最后食用日期、使用截止日期",
+                    "note": "食品标签中对应 use by，涉及食品安全。"
+                },
+                {
+                    "da": "letfordærvelig",
+                    "zh": "容易腐败变质的",
+                    "note": "复合构词：`let` 容易 + `fordærvelig` 易腐坏。"
+                },
+                {
+                    "da": "hakket kød",
+                    "zh": "肉末、绞肉",
+                    "note": "`hakket` 是切碎或绞碎后的形容词性过去分词。"
+                },
+                {
+                    "da": "fersk fisk",
+                    "zh": "鲜鱼",
+                    "note": "`fersk` 表示新鲜、未经腌制或加工保存。"
+                },
+                {
+                    "da": "tage noget alvorligt",
+                    "zh": "认真对待某事",
+                    "note": "B2–C1 高频表达。"
+                }
+            ],
+            "nuance": "`derimod` 在这里至关重要：它告诉读者第二种日期与第一种具有不同的意义。最后食用日期涉及安全界限，不应以闻一闻、尝一尝作为突破标注日期的依据。作者通过具体食品举例，让制度性术语变得容易理解。",
+            "transfer": [
+                "Den regel skal man tage alvorligt.",
+                "Her gælder der derimod andre regler.",
+                "Hakket kød er en letfordærvelig vare."
+            ],
+            "pitfall": "`sidste anvendelsesdato` 不等于建议最佳品质的日期。达到或超过该日期后的处理应遵守食品安全要求，不能按上一句 `mindst holdbar til` 的逻辑处理。"
+        },
+        {
+            "id": "U02-C018",
+            "zh": "一道平淡无奇的家常菜和一道美味家常菜之间的差别，很大程度上就在于几个简单的小技巧。",
+            "grammar": "`Meget af forskellen på X og Y` 是主语，`ligger i` 表示原因或关键所在。`et par enkle greb` 是介词宾语，指若干具体技巧。",
+            "vocabulary": [
+                {
+                    "da": "forskellen på X og Y",
+                    "zh": "X 和 Y 之间的区别",
+                    "note": "比较两个事物时常用 `på`。"
+                },
+                {
+                    "da": "hverdagsmad",
+                    "zh": "日常家常菜",
+                    "note": "与 `festmad` 的节庆餐食相对。"
+                },
+                {
+                    "da": "et greb",
+                    "zh": "技巧、手法、措施",
+                    "note": "原义也可指抓握动作或把手。"
+                },
+                {
+                    "da": "ligge i",
+                    "zh": "关键在于、原因在于",
+                    "note": "抽象用法。"
+                }
+            ],
+            "nuance": "作者用 `et par enkle greb` 降低烹饪的心理门槛：好吃未必需要昂贵食材或复杂菜谱，可能取决于少数操作技巧。`ligger i` 很适合解释复杂结果背后的关键因素。",
+            "transfer": [
+                "Forskellen ligger i detaljerne.",
+                "Meget af forskellen på X og Y ligger i Z.",
+                "Det kræver kun et par enkle greb."
+            ],
+            "pitfall": "`greb` 在这里不是抓住某物，而是抽象的实用技巧。`forskellen på` 与 `forskellen mellem` 都可表达区别，但不能遗漏介词。"
+        },
+        {
+            "id": "U02-C019",
+            "zh": "肉要先用大火煎至表面金黄酥香，然后才让它在小火下继续慢慢炖煮。",
+            "grammar": "`Kød skal brunes` 使用情态动词加 s-被动，表达烹饪指导。`så overfladen bliver …` 是结果从句。`før det får lov at simre videre` 是时间从句，`få lov at` 在这里拟人化地表示让肉进入下一道烹饪步骤。",
+            "vocabulary": [
+                {
+                    "da": "brune",
+                    "zh": "煎上色、煎至褐色或金黄色",
+                    "note": "烹饪动词；不等于完全煮熟。"
+                },
+                {
+                    "da": "ved høj varme",
+                    "zh": "用大火、在高温下",
+                    "note": "与 `ved svag varme` 对应。"
+                },
+                {
+                    "da": "gylden og sprød",
+                    "zh": "金黄而酥脆",
+                    "note": "用于食物外表和口感。"
+                },
+                {
+                    "da": "simre",
+                    "zh": "小火慢炖、微沸",
+                    "note": "区别于剧烈沸腾的 `koge`。"
+                },
+                {
+                    "da": "få lov at",
+                    "zh": "得以、被允许",
+                    "note": "口语中可省略 `til`。"
+                }
+            ],
+            "nuance": "这是烹饪说明中典型的先后顺序：先通过较高温度使表面上色，再根据菜肴需要慢炖。`får lov at simre videre` 带一点轻松拟人的表达效果。该步骤适用于某些炖肉菜式，并非所有肉类都必须如此烹调。",
+            "transfer": [
+                "Brun kødet ved høj varme.",
+                "Lad retten simre ved svag varme.",
+                "Steg det, til overfladen er gylden og sprød."
+            ],
+            "pitfall": "`brune` 是使表面上色，不等于确保肉已熟透。`simre` 是小火微沸，不是大火滚煮。"
+        },
+        {
+            "id": "U02-C020",
+            "zh": "鸡肉和肉末必须从外到内彻底煮熟，而一块完整的牛排则完全可以做到外面熟、中心仍带红色。",
+            "grammar": "`skal være gennemstegt` 表达食物必须达到的熟制状态。`hele vejen igennem` 是强调性状语。`mens` 在这里引入对比，而非单纯同时发生。`sagtens kan serveres` 表达完全可以如此上桌。",
+            "vocabulary": [
+                {
+                    "da": "gennemstegt",
+                    "zh": "完全煎熟、熟透的",
+                    "note": "可用于描述肉类熟制程度。"
+                },
+                {
+                    "da": "hele vejen igennem",
+                    "zh": "彻底地、从外到内",
+                    "note": "强调没有未处理的内部部分。"
+                },
+                {
+                    "da": "en bøf",
+                    "zh": "肉排、牛排",
+                    "note": "具体肉类由语境确定。"
+                },
+                {
+                    "da": "sagtens",
+                    "zh": "完全可以、毫无困难地",
+                    "note": "常与 `kan` 搭配。"
+                },
+                {
+                    "da": "rød i midten",
+                    "zh": "中心仍呈红色",
+                    "note": "用于描述牛排的熟度。"
+                }
+            ],
+            "nuance": "本句通过 `mens` 清楚对比不同肉类的烹饪要求。`sagtens` 不只是能，而是表达完全没有问题。食品安全上要注意，这类比较主要适用于处理得当的完整肉排；绞肉、鸡肉以及特定高风险人群的情况不能直接套用同一判断。",
+            "transfer": [
+                "Kyllingen skal være gennemstegt.",
+                "Bøffen kan serveres rød i midten.",
+                "Det skal være varmt hele vejen igennem."
+            ],
+            "pitfall": "`gennemstegt` 不是表面焦黄，而是内部也已充分熟制。`mens` 在此表示然而、相比之下，不能只理解成当……的时候。"
+        },
+        {
+            "id": "U02-C021",
+            "zh": "不过，最重要的一招还是在烹饪过程中不断尝味道、调整调味。",
+            "grammar": "`Det vigtigste greb` 使用形容词最高级定指形式。`er … at smage til` 用不定式短语作表语。`dog` 标记轻微转折，`undervejs` 表示过程中。",
+            "vocabulary": [
+                {
+                    "da": "smage til",
+                    "zh": "试味并调整调味",
+                    "note": "不只是尝一下，而是根据味道决定是否加盐、酸味等。"
+                },
+                {
+                    "da": "undervejs",
+                    "zh": "在过程中、途中",
+                    "note": "既可用于烹饪，也可用于工作或学习过程。"
+                },
+                {
+                    "da": "det vigtigste greb",
+                    "zh": "最重要的技巧",
+                    "note": "最高级形式 `vigtigste`。"
+                }
+            ],
+            "nuance": "`dog` 将注意力从火候技巧转向作者认为更重要的基本原则。`smage til` 是丹麦烹饪语言中值得整体记忆的动词小品词搭配，重点在调整，而非单纯品尝。",
+            "transfer": [
+                "Husk at smage til undervejs.",
+                "Det vigtigste er at prøve sig frem.",
+                "Vi justerer planen undervejs."
+            ],
+            "pitfall": "`smage på` 侧重尝一尝某物，`smage til` 侧重品尝并调味，不能完全混用。"
+        },
+        {
+            "id": "U02-C022",
+            "zh": "就连描述味道的词，也需要用得准确。",
+            "grammar": "`Også` 位于句首修饰主语 `ordene for smag`，表示连这一方面也如此。`kræver præcision` 是动词加抽象名词宾语的书面表达。",
+            "vocabulary": [
+                {
+                    "da": "kræve præcision",
+                    "zh": "需要准确性、讲究精确",
+                    "note": "适合技术、学术和语言表达。"
+                },
+                {
+                    "da": "ord for smag",
+                    "zh": "描述味道的词语",
+                    "note": "`ordene` 是定指复数。"
+                }
+            ],
+            "nuance": "作者从实际烹饪技巧过渡到语言本身的准确性，为后面区别 `stærk` 和 `krydret` 铺垫。这种从具体实践转入概念辨析的写法很适合教学说明文。",
+            "transfer": [
+                "Også sproget kræver præcision.",
+                "Det kræver præcision at beskrive X."
+            ],
+            "pitfall": "`også` 放在句首仍属于主句结构的一部分，不应直接把后面的语序改为从句语序。"
+        },
+        {
+            "id": "U02-C023",
+            "zh": "辣的食物会让舌头产生灼烧感，而香料味浓郁的食物只是用了多种香辛料；一道菜完全可以香料丰富却不辣，或者很辣却并没有复杂的香料味。",
+            "grammar": "三个并列结构。`Stærk mad` 与 `krydret mad` 通过 `mens` 对比。`smage af` 表示具有某种味道。`det ene … det andet` 回指前面两种味觉性质，避免重复形容词。",
+            "vocabulary": [
+                {
+                    "da": "stærk mad",
+                    "zh": "辣的、刺激性强的食物",
+                    "note": "饮食语境中通常指有辣度。"
+                },
+                {
+                    "da": "krydret mad",
+                    "zh": "香料味丰富的食物",
+                    "note": "不必然表示辣。"
+                },
+                {
+                    "da": "brænde på tungen",
+                    "zh": "在舌头上产生灼烧感",
+                    "note": "形象描述辣味。"
+                },
+                {
+                    "da": "smage af",
+                    "zh": "尝起来有……的味道",
+                    "note": "与 `smage på`、`smage til` 区分。"
+                },
+                {
+                    "da": "det ene uden at være det andet",
+                    "zh": "具有一种性质而不具备另一种",
+                    "note": "抽象比较时十分实用。"
+                }
+            ],
+            "nuance": "这是中文母语者特别值得掌握的区别：`stærk` 侧重辣度或刺激感，`krydret` 侧重香辛料的使用。`sagtens` 强调两者并不必然同时出现。后一结构还可用于谈论性格、政策和产品特征。",
+            "transfer": [
+                "Retten er krydret, men ikke stærk.",
+                "Det smager af hvidløg og ingefær.",
+                "Noget kan sagtens være X uden at være Y."
+            ],
+            "pitfall": "`stærk` 在其他场景可以指强壮、浓烈，但饮食中常指辣。`smage af` 描述味道来源，`smage på` 是品尝某物。"
+        },
+        {
+            "id": "U02-C024",
+            "zh": "对很多丹麦人来说，咸甘草糖是世界上最好吃的糖果；可外国人常常难以理解，怎么会有人心甘情愿地吃这种东西。",
+            "grammar": "`For mange danskere` 引出评价视角。`det bedste slik, der findes` 中关系从句加强最高级，字面为存在的最好糖果。`have svært ved at + 不定式` 表示做某事有困难；后接 `at nogen frivilligt spiser det` 说明难以理解的内容。",
+            "vocabulary": [
+                {
+                    "da": "salt lakrids",
+                    "zh": "咸甘草糖",
+                    "note": "北欧特色糖果，某些类型含氯化铵，风味鲜明。"
+                },
+                {
+                    "da": "slik",
+                    "zh": "糖果",
+                    "note": "集合性用法常见。"
+                },
+                {
+                    "da": "have svært ved at",
+                    "zh": "难以做某事",
+                    "note": "高频固定句型。"
+                },
+                {
+                    "da": "frivilligt",
+                    "zh": "自愿地、主动地",
+                    "note": "这里带有夸张的幽默意味。"
+                },
+                {
+                    "da": "det bedste, der findes",
+                    "zh": "世上最好的、无与伦比的",
+                    "note": "自然的夸张赞美表达。"
+                }
+            ],
+            "nuance": "本句有轻微文化幽默：本地人珍视的味道，在外来者看来可能难以接受。`frivilligt` 暗示吃咸甘草糖仿佛需要强迫一样，是带笑意的夸张，而不是认真的负面评价。",
+            "transfer": [
+                "For mig er det det bedste, der findes.",
+                "Jeg har svært ved at forstå, hvorfor …",
+                "Han spiser det helt frivilligt."
+            ],
+            "pitfall": "`lakrids` 不是普通甘草茶，而是甘草风味糖果。`have svært ved at` 之后接不定式，不应写成 `have svært for at`。"
+        },
+        {
+            "id": "U02-C025",
+            "zh": "丹麦人的用餐时间和习惯有着相当容易预测的规律。",
+            "grammar": "`i en … rytme` 是方式状语。`ret` 作为程度副词修饰 `forudsigelig`，表示相当、颇为。",
+            "vocabulary": [
+                {
+                    "da": "forudsigelig",
+                    "zh": "可预测的、有规律可循的",
+                    "note": "可以中性，也可能带轻微乏味意味。"
+                },
+                {
+                    "da": "en rytme",
+                    "zh": "节奏、规律",
+                    "note": "适用于生活、工作和活动。"
+                },
+                {
+                    "da": "ret",
+                    "zh": "相当、挺",
+                    "note": "此处是程度副词，不是菜肴的 `en ret`。"
+                }
+            ],
+            "nuance": "`ret forudsigelig` 是温和的概括，没有断言所有丹麦人都严格按相同时间吃饭。`rytme` 强调用餐在日常时间安排中形成的稳定模式。",
+            "transfer": [
+                "Vi har en ret fast rytme.",
+                "Hverdagen følger en forudsigelig rytme."
+            ],
+            "pitfall": "`ret` 在这里是程度副词，而 `en ret` 是一道菜；必须结合语法位置判断。"
+        },
+        {
+            "id": "U02-C026",
+            "zh": "早餐通常很简单，无非是燕麦片、酸奶或一片面包；午餐时，很多人会吃自带便当，或者在食堂吃几片丹麦式开放三明治。",
+            "grammar": "破折号之间是对早餐内容的补充说明。`til frokost` 前置，引发 `spiser mange` 的 V2 语序。`et par stykker smørrebrød` 用数量词结构表达几份开放三明治。",
+            "vocabulary": [
+                {
+                    "da": "havregryn",
+                    "zh": "燕麦片",
+                    "note": "常用复数形式。"
+                },
+                {
+                    "da": "en skive brød",
+                    "zh": "一片面包",
+                    "note": "`en skive` 常用于切片食品。"
+                },
+                {
+                    "da": "en madpakke",
+                    "zh": "自带午餐",
+                    "note": "丹麦工作和学校中的常见饮食形式。"
+                },
+                {
+                    "da": "smørrebrød",
+                    "zh": "丹麦式开放三明治",
+                    "note": "通常以面包片为底，上面摆放配料。"
+                },
+                {
+                    "da": "en kantine",
+                    "zh": "食堂、员工餐厅",
+                    "note": "职场和学校常见。"
+                }
+            ],
+            "nuance": "本句将丹麦典型早餐与午餐高度压缩在一起。`smørrebrød` 是值得单独记忆的文化关键词，不应直接等同于夹在两片面包之间的普通三明治。`et par stykker` 在实际点餐中很自然。",
+            "transfer": [
+                "Til morgenmad spiser jeg havregryn.",
+                "Til frokost har jeg madpakke med.",
+                "Jeg spiser et par stykker smørrebrød."
+            ],
+            "pitfall": "`til frokost` 表示午餐时或作为午餐；`i frokost` 不自然。`et par stykker` 通常指两件左右，不能简单理解为任意很多。"
+        },
+        {
+            "id": "U02-C027",
+            "zh": "晚餐通常是一天中的那顿热饭，而且往往吃得比较早：在许多家庭，六点吃晚饭完全正常。",
+            "grammar": "`bliver gerne spist` 使用 `blive` 被动，`gerne` 在这里表达通常、倾向于。冒号后 `Klokken seks` 作时间表达，`er helt normalt` 对这一时间作出评价。",
+            "vocabulary": [
+                {
+                    "da": "et varmt måltid",
+                    "zh": "一顿热餐",
+                    "note": "与冷餐相对，不一定指辣或温度极高。"
+                },
+                {
+                    "da": "gerne",
+                    "zh": "常常、通常倾向于",
+                    "note": "在某些陈述语境中表达惯常做法。"
+                },
+                {
+                    "da": "helt normalt",
+                    "zh": "完全正常、十分普遍",
+                    "note": "强调不值得惊讶。"
+                }
+            ],
+            "nuance": "这里的 `gerne` 并非简单表示喜欢，而是描述丹麦家庭习惯在较早时间吃晚餐。`Klokken seks er helt normalt` 从本地习惯视角评价用餐时间，不意味着所有家庭必须六点吃。",
+            "transfer": [
+                "Aftensmaden bliver gerne spist tidligt.",
+                "Klokken seks er helt normalt.",
+                "Vi spiser ofte varm mad om aftenen."
+            ],
+            "pitfall": "`gerne` 不能一律译为乐意；描述习惯时也可体现通常如此的倾向。"
+        },
+        {
+            "id": "U02-C028",
+            "zh": "平日做的饭最好能在下班后半小时内完成，而节日聚餐的菜肴则完全可以花上一整天来准备。",
+            "grammar": "`skal kunne laves` 由情态动词 `skal`、能力情态动词 `kunne` 和被动不定式 `laves` 组成，表达对日常餐食效率的要求。`mens` 引出对照。`må tage hele dagen` 表示允许、可以耗费一整天。",
+            "vocabulary": [
+                {
+                    "da": "kunne laves på en halv time",
+                    "zh": "可以在半小时内做好",
+                    "note": "`på + 时间` 常表示完成某事所需时间。"
+                },
+                {
+                    "da": "festmad",
+                    "zh": "节庆餐食、宴客菜肴",
+                    "note": "与日常餐食相对。"
+                },
+                {
+                    "da": "tage hele dagen",
+                    "zh": "花掉一整天",
+                    "note": "描述任务或过程耗时。"
+                }
+            ],
+            "nuance": "两个 `mad` 概念体现不同的价值取向：平日重效率，庆祝时重过程与仪式。`gerne må` 带有欣然允许花时间的意味，不是在抱怨做饭太慢。",
+            "transfer": [
+                "Retten skal kunne laves på en halv time.",
+                "Det må gerne tage lidt tid.",
+                "Til hverdag prioriterer vi nem mad."
+            ],
+            "pitfall": "`på en halv time` 是半小时内完成；`i en halv time` 通常是动作持续半小时。`skal kunne` 表示必须具备某种可行性，不等于必须立即做。"
+        },
+        {
+            "id": "U02-C029",
+            "zh": "平日餐桌上的主角往往是丹麦肉丸、炖菜和肉酱意大利面；但到了圣诞节、坚信礼仪式和逢整十岁的生日庆祝，烤猪肉、腌鲱鱼和奶油夹层蛋糕便会隆重登场。",
+            "grammar": "`Til hverdag` 与 `til jul, konfirmationer og runde fødselsdage` 构成时间场景对照。前半句采用 `det er X, der fylder mest` 强调日常主食。后半句 `kommer … på bordet` 是状语前置后的 V2 结构，表示菜肴上桌。",
+            "vocabulary": [
+                {
+                    "da": "frikadeller",
+                    "zh": "丹麦肉丸、肉饼",
+                    "note": "传统家常菜，通常用平底锅煎制。"
+                },
+                {
+                    "da": "en gryderet",
+                    "zh": "一锅炖菜",
+                    "note": "由 `gryde` 锅与 `ret` 菜肴组成。"
+                },
+                {
+                    "da": "kødsovs",
+                    "zh": "肉酱",
+                    "note": "如 `pasta med kødsovs`。"
+                },
+                {
+                    "da": "en konfirmation",
+                    "zh": "坚信礼及其庆祝活动",
+                    "note": "丹麦青少年成长阶段的重要传统活动。"
+                },
+                {
+                    "da": "en rund fødselsdag",
+                    "zh": "逢整十岁的生日",
+                    "note": "通常指三十、四十、五十岁等重要生日。"
+                }
+            ],
+            "nuance": "作者借食物区分日常与庆典两个文化场景。`fylder mest` 表达平日餐桌上占主要地位，`kommer på bordet` 则让节庆美食具有登场的画面感。`runde fødselsdage` 是丹麦语表达重要整十生日时很实用的文化词汇。",
+            "transfer": [
+                "Til hverdag spiser vi X, men til fest Y.",
+                "Til jul kommer flæskestegen på bordet.",
+                "Vi fejrer en rund fødselsdag."
+            ],
+            "pitfall": "`en rund fødselsdag` 不是圆形生日蛋糕，而是整十岁的生日。`flæskesteg` 指烤猪肉菜肴，不应与炸猪排混淆。"
+        },
+        {
+            "id": "U02-C030",
+            "zh": "星期四轮到诺亚做晚饭，他爸爸已经答应帮忙——不过，只提供口头指导。",
+            "grammar": "`det er Noahs tur til at` 表示轮到某人做某事。`har lovet at hjælpe` 是现在完成时，表示之前作出的承诺在当前仍然有效。破折号后 `men kun med gode råd` 是省略式补充，限制帮助的方式。",
+            "vocabulary": [
+                {
+                    "da": "det er nogens tur til at",
+                    "zh": "轮到某人做……",
+                    "note": "常见于家庭分工、游戏和轮班。"
+                },
+                {
+                    "da": "love at hjælpe",
+                    "zh": "答应帮忙",
+                    "note": "`love` 为承诺，过去分词 `lovet`。"
+                },
+                {
+                    "da": "gode råd",
+                    "zh": "好建议、指导意见",
+                    "note": "`et råd`，复数 `råd`。"
+                }
+            ],
+            "nuance": "后半句带有轻松幽默：父亲虽然答应帮助，却只动嘴不动手。这为接下来父子在厨房的互动设定了情境，也突出让孩子亲自练习烹饪的家庭教育方式。",
+            "transfer": [
+                "Det er min tur til at lave mad.",
+                "Jeg har lovet at hjælpe.",
+                "Jeg hjælper gerne, men kun med gode råd."
+            ],
+            "pitfall": "`det er Xs tur til at` 是完整句型，不应只记 `tur`。`gode råd` 的 `råd` 是建议，不是红色的 `rød`。"
+        },
+        {
+            "id": "U02-C031",
+            "zh": "首先，你把洋葱尽可能切得细一些。",
+            "grammar": "`Først` 作前置顺序状语，引出 `hakker du` 的 V2 倒装。`så fint, du kan` 是省略了 `som` 的程度比较表达，相当于尽你所能切得细。",
+            "vocabulary": [
+                {
+                    "da": "hakke",
+                    "zh": "切碎、剁碎",
+                    "note": "常用于洋葱、蔬菜和肉类。"
+                },
+                {
+                    "da": "et løg",
+                    "zh": "洋葱",
+                    "note": "复数 `løg`。"
+                },
+                {
+                    "da": "så fint, du kan",
+                    "zh": "尽可能细",
+                    "note": "也可使用完整形式 `så fint som du kan`。"
+                }
+            ],
+            "nuance": "父亲使用陈述式现在时来指导步骤，而非直接祈使句。这在操作教学中很自然，语气像一步一步带着孩子做。",
+            "transfer": [
+                "Først hakker du løget fint.",
+                "Gør det så godt, du kan.",
+                "Skær grøntsagerne så fint som muligt."
+            ],
+            "pitfall": "`hakke` 表示切碎，不等于 `skære` 的一般切割。`så … som muligt` 和 `så … du kan` 都可以表达尽可能的程度。"
+        },
+        {
+            "id": "U02-C032",
+            "zh": "洋葱辣得我眼睛疼。",
+            "grammar": "`Det svier i øjnene` 是以 `det` 指代当前刺激来源的表达，`i øjnene` 指身体产生刺痛感的部位。",
+            "vocabulary": [
+                {
+                    "da": "svie",
+                    "zh": "刺痛、灼痛",
+                    "note": "常用于眼睛、皮肤和伤口。"
+                },
+                {
+                    "da": "det svier i øjnene",
+                    "zh": "眼睛刺痛",
+                    "note": "切洋葱时常用的自然描述。"
+                }
+            ],
+            "nuance": "孩子直接描述身体感觉，而不是解释洋葱中释放了什么物质。表达简洁、真实。",
+            "transfer": [
+                "Det svier i øjnene.",
+                "Det svier lidt på huden."
+            ],
+            "pitfall": "`svie` 是刺痛或灼痛，不是发痒的 `klø`。"
+        },
+        {
+            "id": "U02-C033",
+            "zh": "每次都这样。把洋葱放进肉馅里，再加入鸡蛋、面粉和一点牛奶，然后把所有材料充分搅拌均匀。",
+            "grammar": "`Det gør det altid` 中第二个 `det` 替代上一句的刺痛情况。`Kom det i farsen` 是祈使句，动词 `kom` 来自 `komme` 的使动式操作用法。随后 `rør det hele godt sammen` 也是祈使句。",
+            "vocabulary": [
+                {
+                    "da": "fars",
+                    "zh": "肉馅、肉糜",
+                    "note": "常见搭配 `røre fars`、`hakket kød`。"
+                },
+                {
+                    "da": "komme noget i",
+                    "zh": "把某物放进、加入",
+                    "note": "烹饪说明中常用祈使式 `Kom X i Y`。"
+                },
+                {
+                    "da": "røre sammen",
+                    "zh": "搅拌混合",
+                    "note": "`rør det hele sammen` 表示把所有材料拌匀。"
+                },
+                {
+                    "da": "det hele",
+                    "zh": "全部、所有东西",
+                    "note": "代指前面列出的所有食材。"
+                }
+            ],
+            "nuance": "父亲先用 `Det gør det altid` 安慰孩子切洋葱刺眼是正常现象，然后立即继续步骤。`rør det hele godt sammen` 比单说 `bland` 更像真实菜谱中的操作指令。",
+            "transfer": [
+                "Kom løgene i farsen.",
+                "Rør det hele godt sammen.",
+                "Det gør det altid."
+            ],
+            "pitfall": "`Kom det i farsen` 的 `Kom` 是 `komme` 的祈使形式，在此表示把东西加进去，不是叫某个人过来。`røre` 是搅拌，不要与 `røre ved` 的触碰混淆。"
+        },
+        {
+            "id": "U02-C034",
+            "zh": "要放多少盐？",
+            "grammar": "省略式疑问句，完整形式可理解为 `Hvor meget salt skal jeg bruge?`。`salt` 作不可数名词，搭配 `hvor meget`。",
+            "vocabulary": [
+                {
+                    "da": "hvor meget salt",
+                    "zh": "多少盐",
+                    "note": "不可数名词使用 `meget`。"
+                }
+            ],
+            "nuance": "烹饪现场语境明确，直接说 `Hvor meget salt?` 比完整问句更加自然。",
+            "transfer": [
+                "Hvor meget salt?",
+                "Hvor meget mælk skal der i?"
+            ],
+            "pitfall": "`salt` 是不可数用法，因此这里是 `hvor meget`，不是 `hvor mange`。"
+        },
+        {
+            "id": "U02-C035",
+            "zh": "一茶匙。待会儿我们再尝尝味道。",
+            "grammar": "`En teskefuld` 是省略式数量回答。`Vi smager på det bagefter` 中 `smage på` 表示尝某样东西，`bagefter` 标记下一步骤。",
+            "vocabulary": [
+                {
+                    "da": "en teskefuld",
+                    "zh": "一茶匙的量",
+                    "note": "`teske` 是茶匙，`teskefuld` 是一匙所装的量。"
+                },
+                {
+                    "da": "smage på",
+                    "zh": "尝一尝",
+                    "note": "固定搭配，介词 `på`。"
+                },
+                {
+                    "da": "bagefter",
+                    "zh": "之后、待会儿",
+                    "note": "强调前后顺序。"
+                }
+            ],
+            "nuance": "父亲提供一个具体的初始用盐量，同时保留后续调整空间。这里的 `smage på` 为下一句孩子误以为要吃生肉馅埋下伏笔。",
+            "transfer": [
+                "Kom en teskefuld salt i.",
+                "Vi smager på det bagefter."
+            ],
+            "pitfall": "`en teskefuld` 是一茶匙的量，不等于任意大小的一把盐。"
+        },
+        {
+            "id": "U02-C036",
+            "zh": "我们要尝生肉馅吗？",
+            "grammar": "`Skal vi …?` 用于确认计划或步骤。`rå fars` 中 `rå` 表示未经烹饪、仍是生的状态。",
+            "vocabulary": [
+                {
+                    "da": "rå",
+                    "zh": "生的、未经加工或加热的",
+                    "note": "如 `råt kød`、`rå grøntsager`。"
+                },
+                {
+                    "da": "smage på rå fars",
+                    "zh": "尝生肉馅",
+                    "note": "不应作为食品安全上推荐的操作。"
+                }
+            ],
+            "nuance": "孩子对尝肉馅这一建议感到意外，也自然地引出安全的试味方法。此处的问题并不是暗示应该食用生肉馅。",
+            "transfer": [
+                "Skal vi smage på det?",
+                "Er det råt eller gennemstegt?"
+            ],
+            "pitfall": "生肉馅不应直接入口品尝。`rå` 在 `rå fars` 中表示生的，不是味道重。"
+        },
+        {
+            "id": "U02-C037",
+            "zh": "不，我们先煎一小块试试味道。这不是恶心，而是聪明的办法。",
+            "grammar": "`vi steger en lille prøve først` 用现在时表达接下来要做的操作。`Det er ikke X, det er bare Y` 是口语中的对比纠正结构。",
+            "vocabulary": [
+                {
+                    "da": "en prøve",
+                    "zh": "试样、样品",
+                    "note": "这里指先煎一小块肉馅用于试味。"
+                },
+                {
+                    "da": "stege",
+                    "zh": "煎、炒、烤",
+                    "note": "具体烹饪方式取决于器具和语境。"
+                },
+                {
+                    "da": "ulækker",
+                    "zh": "恶心的、令人反感的",
+                    "note": "与 `lækker` 美味的形成语义对照。"
+                },
+                {
+                    "da": "bare smart",
+                    "zh": "其实只是很聪明、很实用",
+                    "note": "`bare` 用来淡化担忧。"
+                }
+            ],
+            "nuance": "父亲用轻松的纠正方式解释为什么要先煎试样。`Det er ikke …, det er bare …` 很适合在日常对话中改变别人对一项做法的评价。试样仍应充分煎熟后再品尝。",
+            "transfer": [
+                "Vi steger en lille prøve først.",
+                "Det er ikke besværligt, det er bare smart.",
+                "Lad os prøve det først."
+            ],
+            "pitfall": "`prøve` 不一定是考试，这里是测试用的小份样品。`stegning` 或 `stege` 并不自动保证食物安全，需要确保肉馅充分熟制。"
+        },
+        {
+            "id": "U02-C038",
+            "zh": "好。然后我用勺子把它们一个个塑形成肉丸，对吧？",
+            "grammar": "`Og så` 引出下一步骤。`former jeg dem` 是副词前置后的 V2 语序。`dem` 指由肉馅做成的各个肉丸，`med en ske` 表示使用工具。",
+            "vocabulary": [
+                {
+                    "da": "forme",
+                    "zh": "塑形、做成某种形状",
+                    "note": "可用于食物、陶土及抽象结构。"
+                },
+                {
+                    "da": "en ske",
+                    "zh": "勺子",
+                    "note": "复数 `skeer`。"
+                }
+            ],
+            "nuance": "诺亚一边操作一边向父亲确认下一步，体现自然的教学互动。用 `Og så …?` 表示接下来我这样做，对吗，非常适用于学习操作技能。",
+            "transfer": [
+                "Og så former jeg dem med en ske?",
+                "Form farsen til små frikadeller."
+            ],
+            "pitfall": "`forme` 是塑形，不是 `formere` 的繁殖或增多。"
+        },
+        {
+            "id": "U02-C039",
+            "zh": "用勺子和你的手掌一起塑形。等锅里的油脂充分热起来后，再把肉丸放进去。",
+            "grammar": "第一部分省略重复的动词 `forme`。第二句 `Fedtet skal være godt varmt, før …` 描述必要的先决条件。`før de kommer på panden` 是时间从句，`de` 指肉丸。",
+            "vocabulary": [
+                {
+                    "da": "en håndflade",
+                    "zh": "手掌",
+                    "note": "复合词 `hånd` 手 + `flade` 平面。"
+                },
+                {
+                    "da": "fedt",
+                    "zh": "脂肪、油脂",
+                    "note": "烹饪语境中可指锅里的油或黄油等煎制用脂肪。"
+                },
+                {
+                    "da": "på panden",
+                    "zh": "放到平底锅上、在平底锅里",
+                    "note": "`en pande`，定指 `panden`。"
+                },
+                {
+                    "da": "godt varm",
+                    "zh": "充分热的、相当热的",
+                    "note": "`godt` 作为程度副词。"
+                }
+            ],
+            "nuance": "这里的 `godt varmt` 是非常实用的口语程度表达，表示热度要足够，而非只是微温。父亲在提醒下锅时机，保证煎制效果。",
+            "transfer": [
+                "Olien skal være godt varm.",
+                "Vent, før du kommer kødet på panden.",
+                "Form dem med en ske og håndfladen."
+            ],
+            "pitfall": "`på panden` 是烹饪中的习惯搭配，不应按字面理解成锅的顶部边缘。`godt` 在 `godt varmt` 中表示程度，而不是道德上的好。"
+        },
+        {
+            "id": "U02-C040",
+            "zh": "它们看起来有点怪怪的。不过闻起来确实挺香。",
+            "grammar": "`se … ud` 是连系性动词结构，表示看起来如何。`dufte` 表示闻起来。`faktisk` 标记与之前预期不同的实际发现。",
+            "vocabulary": [
+                {
+                    "da": "se mærkelig ud",
+                    "zh": "看起来奇怪",
+                    "note": "`se ud` 不可按普通看见理解。"
+                },
+                {
+                    "da": "dufte lækkert",
+                    "zh": "闻起来很香",
+                    "note": "形容气味令人愉快。"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "实际上、还真",
+                    "note": "常用于承认出乎意料的事实。"
+                }
+            ],
+            "nuance": "`faktisk` 表示诺亚原先对外形没有信心，却发现味道和香气不错。`lidt mærkelige` 也有缓和评价的作用，不是在严厉批评自己做的食物。",
+            "transfer": [
+                "Det ser lidt mærkeligt ud.",
+                "Det dufter faktisk rigtig godt.",
+                "Det smager bedre, end det ser ud."
+            ],
+            "pitfall": "`se ud` 和 `dufte` 分别对应视觉与嗅觉，不要把 `dufte` 当作尝起来；尝起来是 `smage`。"
+        },
+        {
+            "id": "U02-C041",
+            "zh": "自己做的丹麦肉丸总会长得有点不规则嘛。正是这样，别人一看就知道它不是买来的。",
+            "grammar": "`Hjemmelavede frikadeller` 中 `hjemmelavede` 是修饰复数名词的形容词。`Det er sådan, man kan se, at …` 使用方式指示词 `sådan`，后接说明如何判断的结构。`de ikke er købt` 使用被动含义的过去分词。",
+            "vocabulary": [
+                {
+                    "da": "hjemmelavet",
+                    "zh": "自制的、家里做的",
+                    "note": "修饰复数时为 `hjemmelavede`。"
+                },
+                {
+                    "da": "det er sådan, man kan se, at",
+                    "zh": "就是这样才能看出……",
+                    "note": "适合解释辨认特征。"
+                },
+                {
+                    "da": "købt",
+                    "zh": "买来的",
+                    "note": "动词 `købe` 的过去分词。"
+                }
+            ],
+            "nuance": "父亲巧妙地把孩子眼中的缺点重新解释成自制食物的优点。这种轻松鼓励比直接说没有关系更能肯定孩子的劳动。`Det er sådan …` 具有顺势解释和重新定义的作用。",
+            "transfer": [
+                "Hjemmelavet mad ser ikke altid perfekt ud.",
+                "Det er sådan, man kan se forskellen.",
+                "Det er netop det, der gør den særlig."
+            ],
+            "pitfall": "`hjemmelavet` 指自制，不一定意味着质量或味道必然更好。`købt` 的不规则变化是 `køber – købte – har købt`。"
+        },
+        {
+            "id": "U02-C042",
+            "zh": "按照传统，吃鲱鱼时会配上一小杯烈酒。举杯祝酒的人会与其他人目光相对，而且通常在喝之前和喝完之后都这样做。",
+            "grammar": "`Til silden hører en snaps` 将与食物搭配的成分前置，形成 `hører en snaps` 的倒装。`den, der skåler` 是由指示代词和关系从句构成的泛指人物。`både før og efter at glasset er tømt` 表达两次动作的时间位置，`er tømt` 为被动完成状态。",
+            "vocabulary": [
+                {
+                    "da": "en snaps",
+                    "zh": "一小杯传统烈酒",
+                    "note": "丹麦节庆餐桌上的传统搭配之一。"
+                },
+                {
+                    "da": "skåle",
+                    "zh": "举杯祝酒、干杯",
+                    "note": "感叹词 `Skål!`。"
+                },
+                {
+                    "da": "se nogen i øjnene",
+                    "zh": "与某人目光相对、看着某人的眼睛",
+                    "note": "固定搭配，区别于普通的 `se på nogen`。"
+                },
+                {
+                    "da": "tømme et glas",
+                    "zh": "喝空一杯、倒空杯子",
+                    "note": "`tømt` 是过去分词。"
+                }
+            ],
+            "nuance": "这是对传统丹麦餐桌礼仪的描写，不是规定每次吃鲱鱼都必须喝酒。`Til silden hører …` 强调文化上被认为适合的搭配。`se hinanden i øjnene` 体现祝酒时的社交关注。",
+            "transfer": [
+                "Til X hører Y.",
+                "Husk at se de andre i øjnene, når I skåler.",
+                "Vi skåler for fødselaren."
+            ],
+            "pitfall": "`se nogen i øjnene` 不能逐词译成看进眼睛。`Skål!` 作为祝酒词和 `en skål` 的碗是同形不同用法。"
+        },
+        {
+            "id": "U02-C043",
+            "zh": "餐桌上也有一些固定的礼仪：在大多数家庭，用餐结束起身离席时通常会说一句谢谢款待，而主人则回答不客气、希望你吃得满意。",
+            "grammar": "`det er kutyme at + 不定式` 表示惯例。`når man rejser sig` 是时间从句。`værten svarer velbekomme` 中 `velbekomme` 是固定回应语。",
+            "vocabulary": [
+                {
+                    "da": "en kutyme",
+                    "zh": "惯例、习俗",
+                    "note": "较书面，可用于社交和工作制度。"
+                },
+                {
+                    "da": "tak for mad",
+                    "zh": "谢谢款待、谢谢这顿饭",
+                    "note": "丹麦餐桌礼貌用语。"
+                },
+                {
+                    "da": "velbekomme",
+                    "zh": "不客气、请慢用、希望你吃得满意",
+                    "note": "用于上菜、别人道谢等不同餐饮语境。"
+                },
+                {
+                    "da": "rejse sig",
+                    "zh": "站起身",
+                    "note": "反身动词结构。"
+                }
+            ],
+            "nuance": "`Tak for mad` 在丹麦家庭和私人聚餐中具有特别重要的礼仪功能。它不仅是在饭菜很好吃时使用，也可以是正常的餐后致谢。`Velbekomme` 则是自然的回应，不需长篇客套。",
+            "transfer": [
+                "Tak for mad!",
+                "Velbekomme!",
+                "Det er kutyme at sige tak, når man går."
+            ],
+            "pitfall": "`Tak for mad` 不等同于吃饭前的祷告或开饭口令。`velbekomme` 的意义取决于具体互动，不只是英语的 you're welcome。"
+        },
+        {
+            "id": "U02-C044",
+            "zh": "蛋糕在丹麦职场文化中也有自己独特的位置。",
+            "grammar": "`have sin egen plads i` 是抽象表达，表示某事物在一个社会环境中拥有特定作用。",
+            "vocabulary": [
+                {
+                    "da": "have sin egen plads",
+                    "zh": "拥有自己的位置、占有一席之地",
+                    "note": "也适用于社会角色和文化价值。"
+                },
+                {
+                    "da": "arbejdslivet",
+                    "zh": "职业生活、工作生活",
+                    "note": "定指形式，常泛指职场环境。"
+                }
+            ],
+            "nuance": "作者把蛋糕从食品转为社交符号，为职场庆祝习惯作引入。`sin egen plads` 表达文化上的作用，而不是办公室必须摆放蛋糕的实际位置。",
+            "transfer": [
+                "X har sin egen plads i dansk kultur.",
+                "Humor har en vigtig plads i arbejdslivet."
+            ],
+            "pitfall": "`plads` 在这里不是空位或座位，而是抽象地位。"
+        },
+        {
+            "id": "U02-C045",
+            "zh": "过生日的人通常会带蛋糕或小圆面包到单位，分给同事们吃。",
+            "grammar": "`Den, der har fødselsdag` 是指代某类人的关系结构。`har gerne … med` 中 `gerne` 描述常见习惯，`med` 表示随身带来，`til kollegerne` 表示送给同事。",
+            "vocabulary": [
+                {
+                    "da": "have fødselsdag",
+                    "zh": "过生日",
+                    "note": "固定结构，通常不说 `være fødselsdag` 来指某人过生日。"
+                },
+                {
+                    "da": "have kage med",
+                    "zh": "带蛋糕来",
+                    "note": "可用于聚会和职场。"
+                },
+                {
+                    "da": "til kollegerne",
+                    "zh": "给同事们",
+                    "note": "`en kollega`，复数 `kolleger`。"
+                }
+            ],
+            "nuance": "某些文化中由同事给寿星准备惊喜，而丹麦职场里生日的人自己带糕点分享也很常见。`gerne` 在这里说明习惯，并非要求每个员工必须这样做。",
+            "transfer": [
+                "Jeg har kage med til kollegerne.",
+                "Den, der har fødselsdag, tager noget med.",
+                "Jeg har fødselsdag på fredag."
+            ],
+            "pitfall": "`gerne` 在这里不必硬译成很愿意，更侧重惯常做法。`har … med` 的小品词 `med` 不应遗漏。"
+        },
+        {
+            "id": "U02-C046",
+            "zh": "如果去餐厅吃饭，服务费已经包含在价格里，所以一般没有必须给小费的期待——不过，餐厅通常也不会拒绝收到的小费。",
+            "grammar": "`Går man på restaurant` 是省略 `hvis` 的条件从句，采用动词在前、主语在后的倒装形式，相当于 `Hvis man går på restaurant`。`er servicen inkluderet` 与 `drikkepenge er … ikke forventet` 都含被动意义。`de bliver sjældent afvist` 使用 `blive` 被动。",
+            "vocabulary": [
+                {
+                    "da": "gå på restaurant",
+                    "zh": "去餐厅吃饭",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "inkluderet i prisen",
+                    "zh": "包含在价格内",
+                    "note": "收费说明中的常见表达。"
+                },
+                {
+                    "da": "drikkepenge",
+                    "zh": "小费",
+                    "note": "通常使用复数形式。"
+                },
+                {
+                    "da": "forventet",
+                    "zh": "被期待的、预期中的",
+                    "note": "过去分词作表语。"
+                },
+                {
+                    "da": "afvise",
+                    "zh": "拒绝",
+                    "note": "可用于提议、请求、付款等。"
+                }
+            ],
+            "nuance": "这一句适合学习条件倒装，也是丹麦餐厅礼仪的重要说明。`ikke forventet` 不等于不允许，而是没有默认必须支付额外小费的社会期待。作者通过后面的转折说明给小费仍可以被接受。",
+            "transfer": [
+                "Går man på restaurant, betaler man ved kassen.",
+                "Servicen er inkluderet i prisen.",
+                "Drikkepenge er ikke forventet."
+            ],
+            "pitfall": "`Går man …` 在这里不是普通疑问句，而是条件倒装。不要把服务已包含理解成所有额外服务都必然免费。"
+        },
+        {
+            "id": "U02-C047",
+            "zh": "官方膳食建议可以浓缩成一个简单原则：多吃蔬菜和全谷物，少吃肉，也少吃甜的、咸的和油腻的食物。",
+            "grammar": "`kan koges ned til` 使用情态动词加 s-被动，表达将复杂内容概括为简单原则。冒号后是省略动词的对称结构：`mere …, mindre …`。`det søde, det salte og det fede` 是形容词名词化，泛指这些类型的食品。",
+            "vocabulary": [
+                {
+                    "da": "kostråd",
+                    "zh": "膳食建议、饮食指南",
+                    "note": "常用于官方营养指导。"
+                },
+                {
+                    "da": "koge ned til",
+                    "zh": "归纳为、浓缩成",
+                    "note": "原义是熬煮浓缩，抽象用法非常实用。"
+                },
+                {
+                    "da": "fuldkorn",
+                    "zh": "全谷物",
+                    "note": "包括保留谷物主要组成部分的谷物食品。"
+                },
+                {
+                    "da": "det fede",
+                    "zh": "油脂含量高的食物",
+                    "note": "形容词名词化结构。"
+                }
+            ],
+            "nuance": "`koge ned til` 在饮食话题中具有双重趣味：既与烹饪有关，又表示抽象概括。作者强调这些是复杂指南的简化版本，而不是完整的营养学说明。`mere … mindre …` 很适合制作便于记忆的公共卫生宣传语。",
+            "transfer": [
+                "Det kan koges ned til tre hovedpunkter.",
+                "Mere grønt, mindre kød.",
+                "Anbefalingerne kan koges ned til én regel."
+            ],
+            "pitfall": "`koge ned til` 在此不是要求真的煮食物。`fuldkorn` 与普通谷物 `korn` 不完全相同。"
+        },
+        {
+            "id": "U02-C048",
+            "zh": "这些建议的依据既包括健康，也包括气候影响：肉类，尤其是牛肉，对气候造成的负担远高于大多数植物性食品。",
+            "grammar": "`både … og …` 并列两个理由。冒号后进一步解释气候因素。`især oksekød` 是插入式强调。`langt mere end` 加强比较程度。",
+            "vocabulary": [
+                {
+                    "da": "en begrundelse",
+                    "zh": "理由、依据",
+                    "note": "常用于决策和论证。"
+                },
+                {
+                    "da": "belaste klimaet",
+                    "zh": "对气候造成负担",
+                    "note": "`belaste` 可用于环境、经济和公共系统。"
+                },
+                {
+                    "da": "plantebaserede fødevarer",
+                    "zh": "植物性食品",
+                    "note": "适用于营养和环境话题。"
+                },
+                {
+                    "da": "langt mere end",
+                    "zh": "远远多于、明显超过",
+                    "note": "加强比较差距。"
+                }
+            ],
+            "nuance": "作者将膳食建议从个体健康拓展到气候政策。`især` 突出牛肉在比较中的重要性，而 `de fleste` 为判断保留范围，没有说任何一种肉都比任何一种植物食品影响大。",
+            "transfer": [
+                "Begrundelsen er både X og Y.",
+                "X belaster klimaet mere end Y.",
+                "Det gælder især oksekød."
+            ],
+            "pitfall": "`belaste` 不只是给某人压力，也可指资源消耗或环境负担。比较环境影响时应注意评价标准，不把本文的一般结论理解为每一种生产方式都完全相同。"
+        },
+        {
+            "id": "U02-C049",
+            "zh": "膳食建议也并不是一成不变的。",
+            "grammar": "`heller ikke` 用于在已有讨论基础上补充否定。`hugget i sten` 是形容词性过去分词结构，固定比喻不可更改。",
+            "vocabulary": [
+                {
+                    "da": "være hugget i sten",
+                    "zh": "不可更改、板上钉钉",
+                    "note": "比喻规则或决定不是永恒不变的。"
+                },
+                {
+                    "da": "heller ikke",
+                    "zh": "也不",
+                    "note": "用于延续或增加否定判断。"
+                }
+            ],
+            "nuance": "作者提醒读者科学建议可能随着证据和社会条件变化而调整。`ikke hugget i sten` 比直接说会改变更有修辞性，也更适合表达开放而审慎的态度。",
+            "transfer": [
+                "Planen er ikke hugget i sten.",
+                "Reglerne er heller ikke hugget i sten."
+            ],
+            "pitfall": "`hugget i sten` 是刻在石头上的比喻，不应按真实物理动作理解。`heller ikke` 不等于单独的 `ikke`，还包含与上下文相连的也不。"
+        },
+        {
+            "id": "U02-C050",
+            "zh": "在超市里，绿色的钥匙孔营养标识可以帮助消费者更容易地作出健康选择。",
+            "grammar": "`I supermarkedet` 前置后采用 `kan det grønne nøglehulsmærke …` 的 V2 语序。`gøre det lettere at + 不定式` 是使某行为更容易的结构，`det` 为形式宾语。",
+            "vocabulary": [
+                {
+                    "da": "nøglehulsmærket",
+                    "zh": "钥匙孔营养标识",
+                    "note": "北欧食品标签，帮助识别符合特定营养标准的食品。"
+                },
+                {
+                    "da": "gøre det lettere at",
+                    "zh": "使……更容易",
+                    "note": "非常实用的论证句型。"
+                },
+                {
+                    "da": "vælge sundt",
+                    "zh": "作出健康的食品选择",
+                    "note": "`sundt` 作副词使用。"
+                }
+            ],
+            "nuance": "句子强调食品标签降低选择难度，而不是保证任何带标识的食品都适合无限量食用。`gøre det lettere at` 是政策和产品设计说明中很值得掌握的结构。",
+            "transfer": [
+                "Mærket gør det lettere at vælge sundt.",
+                "Appen gør det lettere at planlægge indkøb.",
+                "Det kan gøre det nemmere at sammenligne produkter."
+            ],
+            "pitfall": "`nøglehulsmærket` 不是真的需要钥匙孔才能购买的食品。`vælge sundt` 中的 `sundt` 修饰选择这一行为，不是被省略的某个特定食品名词。"
+        },
+        {
+            "id": "U02-C051",
+            "zh": "在欧登塞的索菲家，今晚来了客人一起吃晚饭。",
+            "grammar": "`Hos Sofie i Odense` 是前置地点状语，后面 `er der gæster` 使用存在句。`til aftensmad` 表示客人前来参加晚餐。",
+            "vocabulary": [
+                {
+                    "da": "hos nogen",
+                    "zh": "在某人家里",
+                    "note": "也可用于机构、医生和服务提供者处。"
+                },
+                {
+                    "da": "have gæster til aftensmad",
+                    "zh": "邀请客人来家里吃晚饭",
+                    "note": "常见家庭社交表达。"
+                }
+            ],
+            "nuance": "这一句从前面的说明文转为具体故事场景。`Hos Sofie` 自然地将读者带入私人家庭空间，不需要交代房屋地址。",
+            "transfer": [
+                "Vi har gæster til aftensmad.",
+                "Hos os spiser vi klokken seks."
+            ],
+            "pitfall": "`hos` 用于人的住所或服务场所，不是单纯的地理城市介词。"
+        },
+        {
+            "id": "U02-C052",
+            "zh": "她的父亲本特一辈子都在日德兰西部经营养猪场，而她的朋友莉娜最近刚刚停止吃肉。",
+            "grammar": "`Hendes far, Bent,` 中 `Bent` 是同位语。`har drevet svinebrug … hele sit liv` 用现在完成时概括延续到当前的经历。`er for nylig holdt op med at spise kød` 使用完成时和固定搭配 `holde op med at`。",
+            "vocabulary": [
+                {
+                    "da": "drive svinebrug",
+                    "zh": "经营养猪场、从事养猪业",
+                    "note": "`drive` 不规则变化：`driver – drev – har drevet`。"
+                },
+                {
+                    "da": "Vestjylland",
+                    "zh": "日德兰半岛西部",
+                    "note": "丹麦的地理区域名称。"
+                },
+                {
+                    "da": "hele sit liv",
+                    "zh": "一辈子、整个成年生活或人生",
+                    "note": "具体时间范围取决于语境。"
+                },
+                {
+                    "da": "for nylig",
+                    "zh": "最近、不久前",
+                    "note": "表示距离现在不远的过去。"
+                },
+                {
+                    "da": "holde op med at",
+                    "zh": "停止做某事",
+                    "note": "完整固定搭配。"
+                }
+            ],
+            "nuance": "作者把养猪多年的父亲与最近不吃肉的朋友放在同一句中，建立后续餐桌讨论的价值观张力。`for nylig` 表明莉娜的饮食改变是近期发生的，而本特的职业经历则长期稳定。",
+            "transfer": [
+                "Han har drevet virksomhed hele sit liv.",
+                "Hun er for nylig holdt op med at spise kød.",
+                "Jeg er holdt op med at ryge."
+            ],
+            "pitfall": "`holde op med at` 后接不定式，不能漏掉 `med`。`drive` 在这里是经营，不是驾驶。"
+        },
+        {
+            "id": "U02-C053",
+            "zh": "她把洋葱和大蒜切碎，将姜擦成细末，再把这些食材放进少量油里翻炒，直到洋葱变软、表面透亮。",
+            "grammar": "主语 `Hun` 后接并列动词 `hakker`、`river`、`lader`，描述连续烹饪动作。`lade noget + 不定式` 表示让某物进行某动作。`til løgene er bløde og blanke` 是表示最终状态的时间从句。",
+            "vocabulary": [
+                {
+                    "da": "hakke løg",
+                    "zh": "切碎洋葱",
+                    "note": "常见菜谱用语。"
+                },
+                {
+                    "da": "rive ingefær",
+                    "zh": "擦姜末",
+                    "note": "`rive` 不规则变化：`river – rev – har revet`。"
+                },
+                {
+                    "da": "lade noget stege",
+                    "zh": "让某种食材煎炒",
+                    "note": "`lade` 后直接接动词不定式。"
+                },
+                {
+                    "da": "blød og blank",
+                    "zh": "柔软而透亮",
+                    "note": "常用于描述炒软的洋葱。"
+                }
+            ],
+            "nuance": "一连串动作动词让菜谱具有动态画面。`blanke` 在这里并不指洋葱像镜子一样反光，而是炒制后湿润、半透明的状态。`til` 在此相当于直到某种熟制状态出现。",
+            "transfer": [
+                "Hak løgene fint.",
+                "Riv ingefæren på et rivejern.",
+                "Lad løgene stege, til de er bløde."
+            ],
+            "pitfall": "`rive` 是擦碎、撕裂等意思，不是 `røre` 的搅拌。代词 `Hun` 的具体指代需要上下文支持；此处自然承接正在准备晚餐的人，不应仅凭最近的女性名词机械判定。"
+        },
+        {
+            "id": "U02-C054",
+            "zh": "接着把孜然和番茄放进锅里，最后加入红扁豆，让它们煮上大约半小时，直到变软。",
+            "grammar": "`Så` 前置，引出 `kommer …` 的 V2 倒装。`og til sidst de røde linser` 省略了重复的动词。`der skal koge …` 是修饰红扁豆的关系从句。`til de er møre` 表示煮至软熟的最终状态。",
+            "vocabulary": [
+                {
+                    "da": "spidskommen",
+                    "zh": "孜然",
+                    "note": "区别于 `kommen`，后者为葛缕子。"
+                },
+                {
+                    "da": "røde linser",
+                    "zh": "红扁豆",
+                    "note": "单数 `en linse`；也可指镜片或透镜。"
+                },
+                {
+                    "da": "i en halv times tid",
+                    "zh": "大约半小时",
+                    "note": "`-s tid` 表示近似时长。"
+                },
+                {
+                    "da": "mør",
+                    "zh": "软嫩的、容易咬动的",
+                    "note": "常用于肉类和煮熟的豆类。"
+                },
+                {
+                    "da": "til sidst",
+                    "zh": "最后",
+                    "note": "表示操作顺序中的最后一步。"
+                }
+            ],
+            "nuance": "这一句将烹饪步骤组织成顺序清楚的流程，适合主动模仿写菜谱。`møre` 强调是否煮软，而不是简单用固定分钟数作为唯一标准。`spidskommen` 是许多中东、印度和国际化料理中的重要香料词。",
+            "transfer": [
+                "Kom spidskommen i gryden.",
+                "Lad linserne koge i en halv times tid.",
+                "Kog dem, til de er møre."
+            ],
+            "pitfall": "`spidskommen` 是孜然，`kommen` 是葛缕子，二者并非同一种香料。`en halv times tid` 表示大约半小时，不是严格精确到三十分钟。"
+        },
+        {
+            "id": "U02-C055",
+            "zh": "大家好！不好意思，我来晚了。",
+            "grammar": "`Undskyld, jeg kommer for sent` 是道歉表达，后面的陈述句说明道歉原因。`komme for sent` 为固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "alle sammen",
+                    "zh": "大家、所有人",
+                    "note": "亲切的群体称呼。"
+                },
+                {
+                    "da": "komme for sent",
+                    "zh": "迟到",
+                    "note": "与 `være forsinket` 相近。"
+                }
+            ],
+            "nuance": "莉娜先向全体打招呼，再简短道歉，符合朋友家做客的自然社交语气。",
+            "transfer": [
+                "Hej, alle sammen!",
+                "Undskyld, jeg kommer for sent."
+            ],
+            "pitfall": "`for sent` 表示太晚、迟到，不是 `sent` 的比较级。"
+        },
+        {
+            "id": "U02-C056",
+            "zh": "没关系。我们也正准备坐下来开饭呢。",
+            "grammar": "`Det gør ikke noget` 是固定安慰表达。`skulle lige til at + 不定式` 表示刚要做某事。`sætte os` 是反身结构，表示坐下。",
+            "vocabulary": [
+                {
+                    "da": "Det gør ikke noget",
+                    "zh": "没关系、不要紧",
+                    "note": "回应道歉时非常自然。"
+                },
+                {
+                    "da": "være lige ved at / skulle lige til at",
+                    "zh": "正要、刚准备",
+                    "note": "强调动作即将发生。"
+                },
+                {
+                    "da": "sætte sig",
+                    "zh": "坐下",
+                    "note": "与 `sidde` 的坐着状态区分。"
+                }
+            ],
+            "nuance": "索菲通过 `Vi skulle lige til at sætte os` 告诉客人没有错过什么重要内容，既说明时间，也缓解了迟到者的尴尬。",
+            "transfer": [
+                "Det gør ikke noget.",
+                "Vi skulle lige til at spise.",
+                "Kom indenfor, vi sætter os nu."
+            ],
+            "pitfall": "`skulle lige til at` 不是必须做某事，而是即将开始。`sætte sig` 是坐下这一动作，`sidde` 是坐着的状态。"
+        },
+        {
+            "id": "U02-C057",
+            "zh": "开饭啦！有扁豆炖菜和米饭，想吃肉的人也可以配鸡肉。",
+            "grammar": "`Så er der mad!` 是宣布可以用餐的固定表达。`Der er …` 重复列举食物。`til dem, der vil have det` 中关系从句修饰 `dem`，表示那些想要鸡肉的人。",
+            "vocabulary": [
+                {
+                    "da": "Så er der mad!",
+                    "zh": "开饭啦！",
+                    "note": "家庭和集体用餐中的自然口语。"
+                },
+                {
+                    "da": "en linsegryderet",
+                    "zh": "扁豆炖菜",
+                    "note": "由 `linse` 扁豆与 `gryderet` 炖菜组成。"
+                },
+                {
+                    "da": "til dem, der vil have det",
+                    "zh": "供那些想要的人",
+                    "note": "用于提供可选项目。"
+                }
+            ],
+            "nuance": "索菲没有将荤食与素食设为必须二选一，而是让扁豆菜成为共同主菜，同时提供鸡肉作为选择。这种安排为后面的饮食观念协商提供了具体场景。",
+            "transfer": [
+                "Så er der mad!",
+                "Der er kylling til dem, der vil have det.",
+                "Der er også et vegetarisk alternativ."
+            ],
+            "pitfall": "`der er mad` 是有饭吃、可以开饭，不一定表示桌上只有一道菜。`det` 指前面的鸡肉选项。"
+        },
+        {
+            "id": "U02-C058",
+            "zh": "扁豆？怎么回事，烤猪肉哪儿去了？",
+            "grammar": "`Hvad er der sket med …?` 是固定疑问句，询问某人或某物怎么了、发生了什么变化。`med flæskestegen` 指本特原本期待的传统菜肴。",
+            "vocabulary": [
+                {
+                    "da": "Hvad er der sket med …?",
+                    "zh": "……怎么了？……哪儿去了？",
+                    "note": "根据语境可表示惊讶、担心或不满。"
+                },
+                {
+                    "da": "en flæskesteg",
+                    "zh": "烤猪肉",
+                    "note": "丹麦传统节庆菜肴，常带烤脆的猪皮。"
+                }
+            ],
+            "nuance": "本特并不是真的在询问一块猪肉发生了什么事故，而是在半开玩笑地质疑为什么餐桌上出现了扁豆而不是熟悉的传统肉菜。惊讶语气反映他的饮食期待。",
+            "transfer": [
+                "Hvad er der sket med planen?",
+                "Hvad er der sket med den gamle opskrift?"
+            ],
+            "pitfall": "`Hvad er der sket med …?` 可以用于计划、安排和人的变化，不应只理解为事故发生。"
+        },
+        {
+            "id": "U02-C059",
+            "zh": "等到圣诞节就给你做，爸。",
+            "grammar": "`Den får du` 将宾语 `den` 前置，强调父亲想要的烤猪肉。`til jul` 表示圣诞期间。",
+            "vocabulary": [
+                {
+                    "da": "til jul",
+                    "zh": "在圣诞节时、圣诞期间",
+                    "note": "表示节日场景。"
+                },
+                {
+                    "da": "den får du",
+                    "zh": "那个你会有的、到时候给你",
+                    "note": "口语中可作轻松承诺。"
+                }
+            ],
+            "nuance": "索菲没有正面争论，而是幽默地把父亲期待的传统菜安排到圣诞节。她既承认传统饮食的存在，也维持了今天的素食菜单。",
+            "transfer": [
+                "Den får du til jul.",
+                "Det kan du få næste gang."
+            ],
+            "pitfall": "`til jul` 并不要求翻译成前往圣诞节；它是时间表达。"
+        },
+        {
+            "id": "U02-C060",
+            "zh": "不过闻起来确实很香。里面都放了些什么？",
+            "grammar": "`Det dufter …` 描述气味。`i hvert fald` 是范围限定或让步性表达，表示至少这一点可以肯定。`Hvad er der i?` 是省略具体容器或菜名的自然疑问句。",
+            "vocabulary": [
+                {
+                    "da": "i hvert fald",
+                    "zh": "至少、无论如何、反正",
+                    "note": "依语境表达最低限度的肯定。"
+                },
+                {
+                    "da": "dufte dejligt",
+                    "zh": "闻起来很香",
+                    "note": "形容气味好闻。"
+                },
+                {
+                    "da": "Hvad er der i?",
+                    "zh": "里面有什么？",
+                    "note": "询问食材、配料时很自然。"
+                }
+            ],
+            "nuance": "莉娜通过称赞香味把话题拉回食物本身。`i hvert fald` 不必表示其他方面很差，而是强调气味这一点值得肯定。",
+            "transfer": [
+                "Det dufter i hvert fald godt.",
+                "Hvad er der i retten?",
+                "Det ser i hvert fald lækkert ud."
+            ],
+            "pitfall": "`i hvert fald` 要整体记，不能逐词译成在每一个情况中。"
+        },
+        {
+            "id": "U02-C061",
+            "zh": "洋葱、大蒜、番茄、姜，还有大量孜然。最后再加一点点柠檬。",
+            "grammar": "第一部分是省略式食材列举。`Og så` 添加最后一个配料，`til sidst` 表示加入的时间顺序。`en smule` 表示少量。",
+            "vocabulary": [
+                {
+                    "da": "hvidløg",
+                    "zh": "大蒜",
+                    "note": "字面由 `hvid` 白与 `løg` 洋葱组成。"
+                },
+                {
+                    "da": "ingefær",
+                    "zh": "姜",
+                    "note": "常用于国际化料理。"
+                },
+                {
+                    "da": "en masse",
+                    "zh": "大量、很多",
+                    "note": "非正式程度表达。"
+                },
+                {
+                    "da": "en smule",
+                    "zh": "一点点、少量",
+                    "note": "常用于调味和程度描述。"
+                }
+            ],
+            "nuance": "`en masse` 与 `en smule` 形成鲜明数量对比：孜然很多，柠檬很少。作者用这种自然的数量表达让菜谱口语化。",
+            "transfer": [
+                "Kom en smule citron i.",
+                "Der er en masse krydderier i.",
+                "Til sidst tilsætter jeg lidt citron."
+            ],
+            "pitfall": "`en smule citron` 没有明确说是柠檬汁还是柠檬其他部分，不应自行添加原文没有的细节。"
+        },
+        {
+            "id": "U02-C062",
+            "zh": "嗯……味道还真不错。不过，没有肉怎么能算是一顿正经饭呢？",
+            "grammar": "`Det smager faktisk godt` 使用 `faktisk` 表示意外地承认事实。`det er da ikke rigtig mad uden kød` 是带语气小品词 `da` 的评价句，`uden kød` 表示判断依据。",
+            "vocabulary": [
+                {
+                    "da": "faktisk",
+                    "zh": "实际上、还真",
+                    "note": "常用于承认出乎意料的事实。"
+                },
+                {
+                    "da": "rigtig mad",
+                    "zh": "真正像样的一顿饭",
+                    "note": "这里是主观文化评价，而非客观食品分类。"
+                },
+                {
+                    "da": "uden kød",
+                    "zh": "不含肉、没有肉",
+                    "note": "与 `med kød` 相对。"
+                }
+            ],
+            "nuance": "本特先承认菜好吃，再坚持传统的肉食观念，产生轻微喜剧效果。`da` 加强他认为显而易见的判断：对他来说，一顿正经饭理应有肉。这是人物观点，不代表普遍事实。",
+            "transfer": [
+                "Det smager faktisk godt.",
+                "Det er da ikke så svært.",
+                "For mig er det ikke rigtig aftensmad uden X."
+            ],
+            "pitfall": "`rigtig` 可表示真正的、正确的，在这里带有评价意味，不应把没有肉就不是饭当作客观营养结论。"
+        },
+        {
+            "id": "U02-C063",
+            "zh": "你说的正经饭，究竟是什么意思？",
+            "grammar": "`Hvad mener du med …?` 是要求对方澄清定义的固定问句。`med rigtig mad` 指对方刚使用的表达。",
+            "vocabulary": [
+                {
+                    "da": "Hvad mener du med …?",
+                    "zh": "你说的……是什么意思？",
+                    "note": "澄清概念时非常实用。"
+                },
+                {
+                    "da": "mene",
+                    "zh": "认为、意思是、主张",
+                    "note": "具体含义随句型变化。"
+                }
+            ],
+            "nuance": "莉娜没有立即反驳，而是要求本特说明他所谓真正食物的标准。这种问法既可以是真诚澄清，也可以温和地挑战对方未经检验的假设。",
+            "transfer": [
+                "Hvad mener du med rigtig mad?",
+                "Hvad mener du helt præcist med det?",
+                "Kan du uddybe, hvad du mener?"
+            ],
+            "pitfall": "`mene med` 与 `synes om` 不同：前者问是什么意思，后者问对某事的评价。"
+        },
+        {
+            "id": "U02-C064",
+            "zh": "就是那种吃了以后有力气干活的饭。我养猪养了四十年了。",
+            "grammar": "`Noget, man kan arbejde på` 是省略式名词短语，补充说明上一句的 `rigtig mad`。这里 `arbejde på` 不是研究某个项目，而是指靠吃这种食物获得体力来工作。`har passet grise i fyrre år` 使用现在完成时加持续时间。",
+            "vocabulary": [
+                {
+                    "da": "arbejde på noget",
+                    "zh": "靠某种食物提供的能量工作",
+                    "note": "此处是与饮食相关的语境性用法。"
+                },
+                {
+                    "da": "passe grise",
+                    "zh": "照料猪、养猪",
+                    "note": "`passe` 也可表示照顾儿童或病人。"
+                },
+                {
+                    "da": "i fyrre år",
+                    "zh": "长达四十年",
+                    "note": "与现在完成时搭配表示延续至今的经历。"
+                }
+            ],
+            "nuance": "本特用自己的劳动经历来定义真正的食物：能够支撑体力劳动的饭菜。这不是精确的营养学标准，而是长期养猪生活塑造的饮食观念。人物的背景与前文相互呼应。",
+            "transfer": [
+                "Jeg har arbejdet her i fyrre år.",
+                "Det skal være mad, man kan holde sig mæt på.",
+                "Han har passet dyr hele sit liv."
+            ],
+            "pitfall": "`arbejde på noget` 在其他场景通常是致力于某项工作；本句中的 `på` 因前面的食物话题而具有依靠食物支撑工作的意义。"
+        },
+        {
+            "id": "U02-C065",
+            "zh": "吃扁豆当然也完全能干活啊。扁豆里有大量蛋白质呢。",
+            "grammar": "`Det kan man sagtens på linser` 中 `Det` 回指上一句的体力工作能力，省略了可以从上下文推断的 `arbejde`。`sagtens` 表示完全可以。第二句 `Der er masser af protein i dem` 是存在句。",
+            "vocabulary": [
+                {
+                    "da": "sagtens",
+                    "zh": "完全可以、毫无问题",
+                    "note": "经常与情态动词 `kan` 搭配。"
+                },
+                {
+                    "da": "masser af",
+                    "zh": "很多、大量",
+                    "note": "自然的口语数量表达。"
+                },
+                {
+                    "da": "protein",
+                    "zh": "蛋白质",
+                    "note": "营养学词汇。"
+                },
+                {
+                    "da": "linser",
+                    "zh": "扁豆",
+                    "note": "单数 `en linse`。"
+                }
+            ],
+            "nuance": "莉娜直接接受本特的评价标准——能不能支撑劳动——再说明扁豆也能提供营养。`sagtens` 使反驳自信而不激烈，体现理性讨论中的顺势回应。",
+            "transfer": [
+                "Det kan man sagtens.",
+                "Der er masser af protein i linser.",
+                "Man kan sagtens få protein fra planter."
+            ],
+            "pitfall": "`Det kan man sagtens på linser` 是高度依赖前文的省略句，不能脱离语境生硬地直译。扁豆含有蛋白质，但实际营养摄入仍取决于份量和整体饮食。"
+        },
+        {
+            "id": "U02-C066",
+            "zh": "是这样吗？这我以前还真不知道。",
+            "grammar": "`Er der det?` 是根据前一句存在句 `Der er …` 形成的确认问句。`Det havde jeg ingen anelse om` 将宾语 `det` 前置，使用过去完成时表达此前完全不知道。",
+            "vocabulary": [
+                {
+                    "da": "have ingen anelse om",
+                    "zh": "对……一无所知、完全不知道",
+                    "note": "固定介词 `om`。"
+                },
+                {
+                    "da": "Er der det?",
+                    "zh": "真的有吗？是这样吗？",
+                    "note": "回指前面的存在句。"
+                }
+            ],
+            "nuance": "本特的回答表明他并非完全拒绝新信息。他先表示惊讶，再承认自己原先不了解扁豆的营养。`ingen anelse` 比单纯的 `ikke vide` 更突出毫无概念。",
+            "transfer": [
+                "Det havde jeg ingen anelse om.",
+                "Er der virkelig det?",
+                "Jeg anede ikke, at det var sådan."
+            ],
+            "pitfall": "`en anelse` 也可表示一点点，例如 `en anelse salt`；`ingen anelse om` 则表示完全不知道。"
+        },
+        {
+            "id": "U02-C067",
+            "zh": "爸，说真的，你这理由可不太有说服力啊。",
+            "grammar": "`altså` 在这里是语气小品词，用于强调说话人的评价。`ikke særlig overbevisende` 是程度较温和的否定判断，意思是说服力不强。",
+            "vocabulary": [
+                {
+                    "da": "altså",
+                    "zh": "我说、说真的、这可真是",
+                    "note": "口语语气词，具体情绪取决于语调。"
+                },
+                {
+                    "da": "overbevisende",
+                    "zh": "有说服力的",
+                    "note": "来自动词 `overbevise`。"
+                },
+                {
+                    "da": "ikke særlig",
+                    "zh": "不怎么、不太",
+                    "note": "较温和的负面评价。"
+                }
+            ],
+            "nuance": "索菲以女儿熟悉父亲的口吻轻轻调侃他，而不是正式地指责他错误。`altså` 可以传达一点无奈或强调，`ikke særlig` 又把批评控制在轻松范围内。",
+            "transfer": [
+                "Du er altså ikke særlig overbevisende.",
+                "Det argument er ikke særlig stærkt.",
+                "Det er altså ikke helt rigtigt."
+            ],
+            "pitfall": "`altså` 不只表示因此；在对话中经常是语气小品词。`overbevisende` 与 `overbevist` 不同：前者是有说服力，后者是已经被说服。"
+        },
+        {
+            "id": "U02-C068",
+            "zh": "好吧，好吧。不过我还是很难想象自己以后靠豆子过日子。",
+            "grammar": "`har svært ved at` 表示很难做某事。`se mig selv leve af bønner` 使用感知动词 `se` 加宾语 `mig selv` 和不定式 `leve`，表示想象自己处于某种生活状态。`nu` 是语气小品词，表示说话人仍坚持个人看法。",
+            "vocabulary": [
+                {
+                    "da": "have svært ved at",
+                    "zh": "难以做某事",
+                    "note": "高频固定搭配。"
+                },
+                {
+                    "da": "se sig selv gøre noget",
+                    "zh": "想象自己做某事",
+                    "note": "这里不是实际看见自己。"
+                },
+                {
+                    "da": "leve af",
+                    "zh": "靠……生活、以……为主要来源",
+                    "note": "可用于食物或收入。"
+                },
+                {
+                    "da": "bønner",
+                    "zh": "豆类",
+                    "note": "单数 `en bønne`。"
+                }
+            ],
+            "nuance": "`Nej nej` 表示不再继续争辩前面的营养事实，但 `nu` 仍然保留自己的生活偏好。`leve af bønner` 是夸张概括，把减少肉食说成只能靠豆子活着，为下一句纠正这种二分法铺垫。",
+            "transfer": [
+                "Jeg har svært ved at se mig selv gøre det.",
+                "Jeg kan ikke se mig selv leve sådan.",
+                "Han lever af at skrive."
+            ],
+            "pitfall": "`leve af` 可指靠某种食物维持生活，也可指以某种工作为生。`nu` 在这里不是现在这一时间点。"
+        },
+        {
+            "id": "U02-C069",
+            "zh": "也没人要求你那样做呀。其实只是希望你稍微少吃一点肉而已。",
+            "grammar": "`Det er der heller ingen, der beder dig om` 是前置宾语结构，`det` 回指靠豆子生活这件事。`bede nogen om noget` 表示要求某人做某事。`Det handler … om at` 引出真正讨论的核心。`skære ned på` 是减少某项消费的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "bede nogen om noget",
+                    "zh": "请求、要求某人做某事",
+                    "note": "固定介词 `om`。"
+                },
+                {
+                    "da": "Det handler om at",
+                    "zh": "关键在于、说的是要……",
+                    "note": "用于澄清议题核心。"
+                },
+                {
+                    "da": "skære ned på",
+                    "zh": "减少、削减",
+                    "note": "适用于肉类、开支、工作时间和能源消耗。"
+                },
+                {
+                    "da": "egentlig bare",
+                    "zh": "其实只是",
+                    "note": "组合起来弱化主张的激烈程度。"
+                }
+            ],
+            "nuance": "索菲同时做了两件事：否认父亲对素食建议的极端化理解，并重新提出一个温和、可执行的目标。`heller ingen` 表示也没有任何人如此要求。`egentlig bare` 强调真正要求没有那么复杂。",
+            "transfer": [
+                "Det er der ingen, der beder dig om.",
+                "Det handler egentlig bare om at finde en balance.",
+                "Vi prøver at skære ned på kødet."
+            ],
+            "pitfall": "`skære ned på` 是减少使用或消费，不必涉及真实的刀具。`bede nogen om` 不能随意省略 `om`。"
+        },
+        {
+            "id": "U02-C070",
+            "zh": "而且这本来就不是非此即彼的问题嘛。",
+            "grammar": "`enten-eller` 名词化为非此即彼的选择。`jo` 表示说话人认为这应当是双方都能接受的常识或逻辑。`ikke` 否定二元对立的前提。",
+            "vocabulary": [
+                {
+                    "da": "enten-eller",
+                    "zh": "二选一、非此即彼",
+                    "note": "可直接作名词性概念使用。"
+                },
+                {
+                    "da": "jo",
+                    "zh": "本来就、你也知道",
+                    "note": "这里强调共同理解。"
+                }
+            ],
+            "nuance": "这是全篇饮食争论的核心观点：减少肉类不等于必须彻底成为素食者。`jo` 让莉娜的主张听起来像是在提醒大家一个显而易见的事实。",
+            "transfer": [
+                "Det er ikke enten-eller.",
+                "Det behøver jo ikke være enten-eller.",
+                "Der findes også en mellemvej."
+            ],
+            "pitfall": "`enten-eller` 是整体结构。不要把这里的 `jo` 当作回答否定问题时的肯定回答词。"
+        },
+        {
+            "id": "U02-C071",
+            "zh": "对，就是这个意思。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "Lige præcis",
+                    "zh": "完全正确、正是如此",
+                    "note": "非常自然的口语赞同表达。"
+                }
+            ],
+            "nuance": "索菲用简短的 `Lige præcis` 支持莉娜的观点，也表明刚才的解释已经准确表达了她的意思。",
+            "transfer": [
+                "Lige præcis!",
+                "Ja, det er lige præcis det, jeg mener."
+            ],
+            "pitfall": "`lige` 在这里不是马上或刚刚，而是加强准确、恰好的意思。"
+        },
+        {
+            "id": "U02-C072",
+            "zh": "我自己其实偶尔也会吃鱼。",
+            "grammar": "`selv` 强调说话人自身的实际做法。`en gang imellem` 是频率状语，表示偶尔。",
+            "vocabulary": [
+                {
+                    "da": "en gang imellem",
+                    "zh": "偶尔、时不时",
+                    "note": "常用频率表达。"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己、本人",
+                    "note": "这里强调说话人并非完全排斥动物性食物。"
+                }
+            ],
+            "nuance": "莉娜主动补充自己偶尔吃鱼，说明她的饮食选择也不是绝对的。`selv` 在这里有亲自举例、以自己为例的作用。",
+            "transfer": [
+                "Jeg spiser selv fisk en gang imellem.",
+                "Jeg arbejder også hjemme en gang imellem."
+            ],
+            "pitfall": "`en gang imellem` 表示偶尔，不是严格的每隔一次。"
+        },
+        {
+            "id": "U02-C073",
+            "zh": "这么说，你连真正的素食者都算不上？",
+            "grammar": "`Så` 根据前一句推导结论。`ikke engang` 表示连……都不，带有加强意味。`rigtig vegetar` 表达说话人对素食者身份的主观分类。",
+            "vocabulary": [
+                {
+                    "da": "ikke engang",
+                    "zh": "甚至不、连……都不",
+                    "note": "强调低于预期的程度。"
+                },
+                {
+                    "da": "en vegetar",
+                    "zh": "素食者",
+                    "note": "严格定义通常不吃肉和鱼。"
+                },
+                {
+                    "da": "rigtig",
+                    "zh": "真正的、地道的",
+                    "note": "这里带有人物的评价或调侃。"
+                }
+            ],
+            "nuance": "本特抓住莉娜吃鱼的事实再次开玩笑，话语中带有对身份标签的严格划分。`ikke engang` 比单独的否定更尖锐，但家庭聚餐情境中的幽默降低了冲突程度。",
+            "transfer": [
+                "Så du er ikke engang vegetar?",
+                "Han har ikke engang prøvet det.",
+                "Så du mener altså, at …?"
+            ],
+            "pitfall": "`ikke engang` 不是不再一次，而是甚至不、连……都不。"
+        },
+        {
+            "id": "U02-C074",
+            "zh": "对，我想更准确地说……我是弹性素食者吧。",
+            "grammar": "`vel` 表示带有试探性或温和判断的语气。`nærmere` 用于修正前面的分类，表达更接近某个定义。省略号表示说话人停顿、寻找合适的词。",
+            "vocabulary": [
+                {
+                    "da": "nærmere",
+                    "zh": "更准确地说、更接近",
+                    "note": "可用于修正或细化分类。"
+                },
+                {
+                    "da": "en fleksitar",
+                    "zh": "弹性素食者、弹性植物性饮食者",
+                    "note": "通常以植物性饮食为主，但不完全排除肉或鱼。"
+                },
+                {
+                    "da": "vel",
+                    "zh": "大概、应该算是",
+                    "note": "表达温和的不确定或自我判断。"
+                }
+            ],
+            "nuance": "莉娜并没有激烈捍卫某种标签，而是选择一个更符合实际习惯的词。`vel nærmere` 让分类带有自我修正和灵活性，恰好呼应非此即彼并非必要的主题。",
+            "transfer": [
+                "Jeg er vel nærmere fleksitar.",
+                "Det er nærmere en vane end en regel.",
+                "Jeg vil nok kalde mig fleksitar."
+            ],
+            "pitfall": "`fleksitar` 不等同于完全不吃动物性食品的纯素食者。`nærmere` 在这里不是空间上更近，而是概念上更准确。"
+        },
+        {
+            "id": "U02-C075",
+            "zh": "弹性……什么？",
+            "grammar": "省略式反问，`Fleksi-` 保留刚听到的词首，`hvad?` 表示没有听懂后半部分。",
+            "vocabulary": [
+                {
+                    "da": "X-hvad?",
+                    "zh": "X……什么？",
+                    "note": "口语中可重复陌生词的前半部分来表示困惑。"
+                }
+            ],
+            "nuance": "本特对新饮食标签感到陌生，作者借这个问题制造幽默，也为下一句提供自然的解释机会。",
+            "transfer": [
+                "Fleksi-hvad?",
+                "Undskyld, hvad betyder det?"
+            ],
+            "pitfall": "连字符在这里表现口语中的停顿与重复，不意味着 `fleksi` 可以独立用作完整名词。"
+        },
+        {
+            "id": "U02-C076",
+            "zh": "就是主要吃蔬菜和植物性食物的人，爸。你还想再来一点吗？",
+            "grammar": "`Én, der mest spiser grønt` 是省略式定义，其中 `Én` 表示一个人，后接关系从句。`mest` 表示主要、以……为主。`Skal du have lidt mere?` 是提供续餐的自然问句。",
+            "vocabulary": [
+                {
+                    "da": "én, der …",
+                    "zh": "一个……的人",
+                    "note": "定义人物类别的常见句型。"
+                },
+                {
+                    "da": "mest",
+                    "zh": "主要、大部分情况下",
+                    "note": "也可作最高级程度表达。"
+                },
+                {
+                    "da": "spise grønt",
+                    "zh": "吃蔬菜或以植物性食物为主",
+                    "note": "`grønt` 在饮食语境中常泛指蔬菜。"
+                },
+                {
+                    "da": "Skal du have lidt mere?",
+                    "zh": "你还要再来一点吗？",
+                    "note": "餐桌上提供续餐的常用表达。"
+                }
+            ],
+            "nuance": "索菲用普通日常词汇解释 `fleksitar`，没有使用复杂的营养学定义。随后马上邀请父亲再吃一些，巧妙地把抽象争论转回餐桌。",
+            "transfer": [
+                "En fleksitar er én, der mest spiser grønt.",
+                "Skal du have lidt mere?",
+                "Det er én, der arbejder med X."
+            ],
+            "pitfall": "`grønt` 作为名词性用法可指蔬菜，但不等同于所有植物性食品；本句是在口语中作简化定义。"
+        },
+        {
+            "id": "U02-C077",
+            "zh": "好啊，谢谢。就来一小勺吧。然后我再顺手拿一块鸡肉配着吃。",
+            "grammar": "`Ja tak, gerne` 表示欣然接受。`Bare en lille klat` 是省略式数量要求。`Og så tager jeg lige …` 中 `så` 表示接着，`lige` 让动作显得顺便、不费事。",
+            "vocabulary": [
+                {
+                    "da": "en klat",
+                    "zh": "一小团、一小勺",
+                    "note": "用于酱料、泥状食品或少量菜肴。"
+                },
+                {
+                    "da": "lige",
+                    "zh": "顺便、稍微、一下",
+                    "note": "口语语气小品词。"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "放在旁边、作为配菜",
+                    "note": "可描述餐盘中搭配的食物。"
+                },
+                {
+                    "da": "gerne",
+                    "zh": "乐意、好的",
+                    "note": "回应提议时表达积极接受。"
+                }
+            ],
+            "nuance": "这句话是文章中很有趣的妥协场面。本特愿意再吃扁豆，却还是要搭配鸡肉。`lige` 把拿鸡肉说得很轻描淡写，仿佛只是顺手的小动作，带有轻微幽默。",
+            "transfer": [
+                "Ja tak, gerne.",
+                "Bare en lille klat.",
+                "Jeg tager lige lidt mere ved siden af."
+            ],
+            "pitfall": "`en klat` 常用于少量成团或浓稠的食物，并不适合描述所有食品形状。`lige` 这里不能译成刚刚。"
+        },
+        {
+            "id": "U02-C078",
+            "zh": "来，为我们达成妥协干杯！",
+            "grammar": "`Skål for + 名词` 是祝酒结构，表示为某人、某事或某种结果举杯。",
+            "vocabulary": [
+                {
+                    "da": "Skål for …!",
+                    "zh": "为……干杯！",
+                    "note": "固定祝酒表达。"
+                },
+                {
+                    "da": "et kompromis",
+                    "zh": "妥协、折中方案",
+                    "note": "复数 `kompromiser`。"
+                }
+            ],
+            "nuance": "莉娜用祝酒结束之前的饮食争论，强调双方不必完全一致也能愉快相处。`kompromiset` 指这次餐桌上形成的实际折中做法。",
+            "transfer": [
+                "Skål for kompromiset!",
+                "Skål for samarbejdet!",
+                "Vi må finde et kompromis."
+            ],
+            "pitfall": "`kompromis` 是双方有所让步的折中，并不必然意味着放弃原则。"
+        },
+        {
+            "id": "U02-C079",
+            "zh": "干杯。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "Skål!",
+                    "zh": "干杯！",
+                    "note": "祝酒时的常用感叹词。"
+                }
+            ],
+            "nuance": "本特简短回应，表明接受了轻松收尾的气氛。没有再继续争论，也为饭后的结尾作准备。",
+            "transfer": [
+                "Skål!"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U02-C080",
+            "zh": "咖啡喝完后，本特第一个站起身来。",
+            "grammar": "`Da kaffen er drukket` 是时间从句，使用 `er drukket` 表达咖啡已经喝完的被动完成状态。主句 `rejser Bent sig` 因时间从句前置而发生 V2 倒装。`som den første` 表示作为第一个人。",
+            "vocabulary": [
+                {
+                    "da": "kaffen er drukket",
+                    "zh": "咖啡已经喝完",
+                    "note": "被动完成状态。"
+                },
+                {
+                    "da": "rejse sig",
+                    "zh": "站起身",
+                    "note": "反身结构。"
+                },
+                {
+                    "da": "som den første",
+                    "zh": "第一个、作为第一个人",
+                    "note": "适用于行动顺序。"
+                }
+            ],
+            "nuance": "作者用喝完咖啡作为聚餐结束的时间信号，非常生活化。`som den første` 暗示其他人还坐着，而本特率先准备离席。",
+            "transfer": [
+                "Da kaffen er drukket, rejser vi os.",
+                "Han rejste sig som den første.",
+                "Hun var den første til at gå."
+            ],
+            "pitfall": "`rejse sig` 是站起来，`rejse` 单独使用常指旅行。`drukket` 来自 `drikke`，不是 `druknet` 的溺水。"
+        },
+        {
+            "id": "U02-C081",
+            "zh": "谢谢款待。说真的，这顿饭还真挺不错的。",
+            "grammar": "`Tak for mad` 是固定餐后致谢。`Det var faktisk ikke så tosset` 使用过去式评价刚结束的用餐体验。`ikke så tosset` 是通过否定负面形容词来表达肯定的方式。",
+            "vocabulary": [
+                {
+                    "da": "Tak for mad",
+                    "zh": "谢谢款待",
+                    "note": "餐后礼貌用语。"
+                },
+                {
+                    "da": "ikke så tosset",
+                    "zh": "还真不错、挺好的",
+                    "note": "口语中的轻描淡写式赞美。"
+                },
+                {
+                    "da": "tosset",
+                    "zh": "傻的、荒唐的、不怎么样的",
+                    "note": "在否定式评价中可表达不错。"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "实际上、还真",
+                    "note": "突出与先前预期不一致。"
+                }
+            ],
+            "nuance": "`ikke så tosset` 是本篇极值得学习的 understatement。表面只说没有那么糟糕，实际是在认可饭菜。结合本特先前对扁豆的怀疑，`faktisk` 更突出他出乎意料地被说服了一部分。它不是热烈的最高级赞美，却显得符合这个人物的性格。",
+            "transfer": [
+                "Det var faktisk ikke så tosset.",
+                "Det lyder ikke så tosset.",
+                "Tak for mad, det smagte rigtig godt."
+            ],
+            "pitfall": "`ikke så tosset` 在肯定语境中往往是赞美，而不是严格的负面评价。不要把 `tosset` 直接译为疯狂的而忽略整句的语用效果。"
+        },
+        {
+            "id": "U02-C082",
+            "zh": "不客气。我就当这是在夸我啦。",
+            "grammar": "`Det tager jeg som et kompliment` 使用 `tage noget som noget` 表示将某句话或某个行为理解为某种评价。`det` 指本特刚才那句克制的称赞。",
+            "vocabulary": [
+                {
+                    "da": "tage noget som et kompliment",
+                    "zh": "把某事当作赞美",
+                    "note": "可用于幽默回应不直接的夸奖。"
+                },
+                {
+                    "da": "et kompliment",
+                    "zh": "赞美、恭维",
+                    "note": "与 `en kritik` 的批评相对。"
+                },
+                {
+                    "da": "velbekomme",
+                    "zh": "不客气、希望你吃得满意",
+                    "note": "餐桌礼仪回应语。"
+                }
+            ],
+            "nuance": "索菲显然听懂了父亲不直接夸奖的方式。`Det tager jeg som et kompliment` 带有轻松幽默：既接受表扬，也温柔地调侃父亲表达赞赏时的保留。这样的说法非常适合熟人之间的互动。",
+            "transfer": [
+                "Det tager jeg som et kompliment.",
+                "Jeg vælger at tage det som ros.",
+                "Tak, det tager jeg som et kompliment."
+            ],
+            "pitfall": "`tage som` 是把某事视作，不是物理上拿走。`kompliment` 是赞美，而 `komplement` 在其他专业语境中可指补足成分，两者不要混淆。"
+        },
+        {
+            "id": "U02-C083",
+            "zh": "顺便一提，他后来其实又添了两份。",
+            "grammar": "`i øvrigt` 是插入性篇章副词，用来补充一条此前尚未提及的信息。`tog` 是 `tage` 的过去式，`to portioner mere` 表示另外又吃了两份。",
+            "vocabulary": [
+                {
+                    "da": "i øvrigt",
+                    "zh": "顺便一提、另外",
+                    "note": "可用于补充说明、转换话题或追加有趣细节。"
+                },
+                {
+                    "da": "en portion",
+                    "zh": "一份食物",
+                    "note": "复数 `portioner`。"
+                },
+                {
+                    "da": "to portioner mere",
+                    "zh": "另外两份",
+                    "note": "`mere` 表示在已有数量之外继续增加。"
+                }
+            ],
+            "nuance": "这是一句典型的幽默收尾。前面本特嘴上坚持没有肉就不像正经饭，最后却又吃了两份扁豆炖菜。作者没有直接宣布本特改变了立场，而是用实际行动与嘴上评价之间的反差让读者自己领会。`i øvrigt` 让这个意外信息像随口补充一样出现，幽默效果更强。",
+            "transfer": [
+                "Han tog i øvrigt to portioner mere.",
+                "Det gik i øvrigt rigtig godt.",
+                "Jeg har i øvrigt allerede prøvet det."
+            ],
+            "pitfall": "`i øvrigt` 不一定表示与主题完全无关，这里是故意在结尾补上一条很关键的细节。`to portioner mere` 是额外再吃两份，不是总共只吃两份。"
+        }
+    ]
+}

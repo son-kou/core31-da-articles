@@ -1,0 +1,1950 @@
+{
+    "schema_version": 1,
+    "unit": "U06",
+    "part": "ALL",
+    "source_fingerprint": "U06-ALL-8957c7b71b7d",
+    "sentences": [
+        {
+            "id": "U06-C001",
+            "zh": "会议议程：1. 批准上次会议纪要。2. 客户项目进展汇报。3. 新的居家办公安排提案。4. 其他事项。",
+            "grammar": "这是典型的丹麦语书面会议议程，使用名词短语而不是完整句子。`Godkendelse af` 和 `Forslag til` 都是名词加介词的结构。`Status på` 用于说明某个项目或任务的当前进展。`Eventuelt` 在议程中作为固定项目名称，相当于其他事项。",
+            "vocabulary": [
+                {
+                    "da": "en dagsorden",
+                    "zh": "会议议程",
+                    "note": "常见搭配：`sætte noget på dagsordenen`，将某事列入议程。"
+                },
+                {
+                    "da": "godkendelse af referat",
+                    "zh": "批准会议纪要",
+                    "note": "`et referat` 为会议纪要，`godkendelse af` 表示对某事项的正式认可。"
+                },
+                {
+                    "da": "status på",
+                    "zh": "……的最新进展、状态",
+                    "note": "丹麦职场高频表达，如 `status på projektet`。"
+                },
+                {
+                    "da": "en ordning for hjemmearbejde",
+                    "zh": "居家办公安排或制度",
+                    "note": "`en ordning` 指某种有组织的安排、方案或制度。"
+                },
+                {
+                    "da": "eventuelt",
+                    "zh": "其他事项",
+                    "note": "会议议程中的固定标题；在其他语境中也可以表示可能、视情况而定。"
+                }
+            ],
+            "nuance": "这份议程展示了丹麦职场会议重视事先明确议题的做法。前面三个项目都有具体讨论内容，最后的 `Eventuelt` 为未列入正式议程的其他事项留下空间。书面议程偏好简洁的名词化表达，不必写成完整句子。`Godkendelse af referat` 是正式确认会议记录，并不意味着重新讨论所有已记录事项。",
+            "transfer": [
+                "Jeg vil gerne sætte et punkt på dagsordenen.",
+                "Vi tager en kort status på projektet.",
+                "Har vi noget under eventuelt?"
+            ],
+            "pitfall": "`eventuelt` 在普通丹麦语中常表示可能、必要时，但作为会议议程标题时是其他事项，不能译成可能发生的事情。`referat` 是会议纪要，`dagsorden` 是会议议程，两者不可混淆。"
+        },
+        {
+            "id": "U06-C002",
+            "zh": "这就是欧登塞市政府某个 IT 部门的八名员工在会议前三天收到的会议通知内容。",
+            "grammar": "`Sådan lyder mødeindkaldelsen` 使用方式状语 `sådan` 前置，限定动词 `lyder` 占第二位置，主语后置。`som de otte medarbejdere … fik` 是修饰会议通知的关系从句，`som` 在从句中充当宾语。`tre dage før mødet` 说明收到通知的时间。",
+            "vocabulary": [
+                {
+                    "da": "en mødeindkaldelse",
+                    "zh": "会议通知、会议邀请",
+                    "note": "由 `møde` 和 `indkaldelse` 构成。"
+                },
+                {
+                    "da": "lyde",
+                    "zh": "内容是、措辞是、听起来",
+                    "note": "在 `Sådan lyder …` 中用于引出书面或口头内容。"
+                },
+                {
+                    "da": "en kommunal it-afdeling",
+                    "zh": "市政府的 IT 部门",
+                    "note": "`kommunal` 指市镇政府或市政机构的。"
+                },
+                {
+                    "da": "tre dage før",
+                    "zh": "在……前三天",
+                    "note": "`før` 引出时间参照点。"
+                }
+            ],
+            "nuance": "作者先展示议程，再用 `Sådan lyder …` 将引用内容与真实工作场景联系起来。这是新闻报道和说明性文章中很自然的衔接方式。提前三天发送议程也为下一句解释会议准备的目的提供背景。",
+            "transfer": [
+                "Sådan lyder invitationen til mødet.",
+                "Medarbejderne fik dagsordenen tre dage før mødet.",
+                "Vi sender mødeindkaldelsen ud i god tid."
+            ],
+            "pitfall": "`lyde` 不只表示发出声音，也可以表示某段文字的内容如何。`kommunal` 是市政层级，不能直接等同于中央政府的 `statslig`。"
+        },
+        {
+            "id": "U06-C003",
+            "zh": "这样安排的用意是让所有人都能提前准备，使会议真正用来讨论问题，而不只是彼此通报信息。",
+            "grammar": "`Tanken er, at …` 用于说明某项安排背后的意图。`så mødet kan bruges til at …` 是表达预期结果或目的的从句。`kan bruges` 为情态动词加 s-被动。`i stedet for blot at orientere hinanden` 构成替代关系，强调讨论优先于单向通报。",
+            "vocabulary": [
+                {
+                    "da": "tanken er, at",
+                    "zh": "设想是……、这样做的用意是……",
+                    "note": "会议和政策讨论中非常实用。"
+                },
+                {
+                    "da": "forberede sig",
+                    "zh": "提前准备",
+                    "note": "反身结构，可接 `til et møde`。"
+                },
+                {
+                    "da": "bruge noget til at",
+                    "zh": "将某物用于做某事",
+                    "note": "被动形式为 `bruges til at`。"
+                },
+                {
+                    "da": "i stedet for",
+                    "zh": "而不是、代替",
+                    "note": "后接名词或 `at` 不定式。"
+                },
+                {
+                    "da": "orientere hinanden",
+                    "zh": "互相通报情况",
+                    "note": "`orientere nogen om noget` 表示向某人通报某事。"
+                }
+            ],
+            "nuance": "这句话揭示会议文化中的重要区别：信息传递可以事先通过书面材料完成，集体会议则应充分利用同步交流的价值。`blot` 比普通的 `bare` 稍偏书面，强调仅仅通报是不充分的。",
+            "transfer": [
+                "Tanken er, at alle skal kunne forberede sig.",
+                "Vi skal bruge mødet til at træffe beslutninger.",
+                "Lad os diskutere løsningerne i stedet for blot at orientere hinanden."
+            ],
+            "pitfall": "`orientere` 在职场语境中常表示通报情况，不只是辨认方向。`så` 在这里引出预期结果，不是普通的然后。"
+        },
+        {
+            "id": "U06-C004",
+            "zh": "议程上总会有一个其他事项的环节，凡是不适合放在其他议题下讨论的事情，都可以在这里提出来。",
+            "grammar": "`Punktet … står der altid` 中 `der` 指代议程中的位置。后半句 `det er her, man kan …` 是强调地点或环节的分裂句结构。`tage det op, som …` 使用关系从句说明可提出的事项，`passe ind` 表示与既有分类相符。",
+            "vocabulary": [
+                {
+                    "da": "et punkt",
+                    "zh": "议题、议程项目",
+                    "note": "职场会议中通常指议程上的一项。"
+                },
+                {
+                    "da": "tage noget op",
+                    "zh": "提出某个问题、开始讨论某事",
+                    "note": "常用于会议和敏感话题。"
+                },
+                {
+                    "da": "passe ind",
+                    "zh": "适合、符合某个安排或类别",
+                    "note": "可用于议题、时间安排和社会环境。"
+                },
+                {
+                    "da": "andre steder",
+                    "zh": "其他地方、其他环节",
+                    "note": "这里指议程上的其他项目。"
+                }
+            ],
+            "nuance": "`tage noget op` 是丹麦职场极其值得掌握的表达：它强调正式把某件事拿出来讨论。`Eventuelt` 提供了灵活性，但不代表任何复杂问题都应在这个环节临时作出决定；实际能否决议还取决于会议性质及相关程序。",
+            "transfer": [
+                "Kan vi tage det op under eventuelt?",
+                "Det passer ikke rigtig ind under de andre punkter.",
+                "Jeg vil gerne tage et problem op på næste møde."
+            ],
+            "pitfall": "`tage op` 不是字面上的拿起来，而是提出讨论。`passe ind` 经常用于抽象的适配关系，不限于物理空间。"
+        },
+        {
+            "id": "U06-C005",
+            "zh": "现在是上午九点，参会者端着咖啡、带着笔记本电脑，围坐在一张椭圆形会议桌旁。",
+            "grammar": "两个主句由 `og` 连接。`Klokken er ni` 表示当前时间。第二句以 `deltagerne i mødet` 为主语，`sidder med … omkring …` 描述人们的状态和空间位置。",
+            "vocabulary": [
+                {
+                    "da": "en deltager",
+                    "zh": "参与者、参会者",
+                    "note": "常接 `i et møde` 或 `i et arrangement`。"
+                },
+                {
+                    "da": "en bærbar computer",
+                    "zh": "笔记本电脑",
+                    "note": "口语中也常直接称 `en bærbar`。"
+                },
+                {
+                    "da": "oval",
+                    "zh": "椭圆形的",
+                    "note": "修饰中性名词时使用 `ovalt`。"
+                },
+                {
+                    "da": "omkring et bord",
+                    "zh": "围坐在桌子周围",
+                    "note": "表示空间分布。"
+                }
+            ],
+            "nuance": "这是简洁的场景建立：时间、人物、咖啡、电脑和会议桌共同构成一种日常职场画面。作者没有直接评价会议是否正式，而是通过细节让读者感受到工作场景。",
+            "transfer": [
+                "Vi sidder omkring et stort mødebord.",
+                "Alle deltagerne har deres bærbare computere med.",
+                "Mødet begynder klokken ni."
+            ],
+            "pitfall": "`en bærbar` 单独使用时通常指笔记本电脑，而不仅仅是任何便携物品。"
+        },
+        {
+            "id": "U06-C006",
+            "zh": "佩妮莱，生日快乐！",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "Tillykke med fødselsdagen",
+                    "zh": "生日快乐",
+                    "note": "固定祝贺表达，也可以简说 `Tillykke!`。"
+                }
+            ],
+            "nuance": "同事之间直接使用名字祝贺生日，体现轻松友好的互动。`Tillykke med` 可以迁移到毕业、升职等其他值得庆祝的事情。",
+            "transfer": [
+                "Tillykke med fødselsdagen!",
+                "Tillykke med det nye job!"
+            ],
+            "pitfall": "`tillykke med` 是整体搭配，不使用 `tillykke for`。"
+        },
+        {
+            "id": "U06-C007",
+            "zh": "谢谢！等会儿厨房里有蛋糕，大家可以去吃。",
+            "grammar": "`Der er …` 是存在句，用于告知某物已准备好。`bagefter` 表示稍后或当前活动结束之后。",
+            "vocabulary": [
+                {
+                    "da": "bagefter",
+                    "zh": "之后、待会儿",
+                    "note": "指在当前事件之后。"
+                },
+                {
+                    "da": "der er kage",
+                    "zh": "有蛋糕可以吃",
+                    "note": "办公室中分享蛋糕的自然表达。"
+                }
+            ],
+            "nuance": "Pernille 没有直接说请大家吃，而是轻松地告知蛋糕在哪里。结合会议背景，`bagefter` 暗示先开会，之后再庆祝。",
+            "transfer": [
+                "Der er kage i køkkenet senere.",
+                "Vi tager en kop kaffe bagefter."
+            ],
+            "pitfall": "`bagefter` 与 `senere` 不完全相同：前者通常明确以另一事件为参照，表示在那之后。"
+        },
+        {
+            "id": "U06-C008",
+            "zh": "我们开始吧？好，现在轮到第三项议题了。提案是大家周二、周三、周四都到办公室，剩下两天则由每个人自行安排。",
+            "grammar": "`Skal vi + 不定式?` 用于提议共同开始行动。`Så er vi nået til punkt tre` 使用现在完成时表示议程已推进到某项。`Forslaget er, at … og at …` 使用两个并列内容从句陈述方案。`selv` 强调由个人而非统一规定作出决定。",
+            "vocabulary": [
+                {
+                    "da": "gå i gang",
+                    "zh": "开始着手、正式开始",
+                    "note": "会议、工作和任务均适用。"
+                },
+                {
+                    "da": "nå til et punkt",
+                    "zh": "进行到某项议题",
+                    "note": "也可用于讨论的阶段。"
+                },
+                {
+                    "da": "et forslag",
+                    "zh": "提案、建议",
+                    "note": "尚未正式决定。"
+                },
+                {
+                    "da": "alle sammen",
+                    "zh": "所有人、大家都",
+                    "note": "强调群体中的每个人。"
+                },
+                {
+                    "da": "bestemme selv",
+                    "zh": "自己决定",
+                    "note": "常用于自主安排与权限。"
+                }
+            ],
+            "nuance": "Henrik 使用 `Skal vi gå i gang?` 而非直接命令，语气具有协商感，但仍然履行主持人推动会议的职责。`Forslaget er` 清楚标明这只是待讨论的方案；`bestemmer selv` 则保留员工在其余工作日的自主选择空间。",
+            "transfer": [
+                "Skal vi gå i gang med mødet?",
+                "Så er vi nået til næste punkt.",
+                "Forslaget er, at vi mødes på kontoret to dage om ugen."
+            ],
+            "pitfall": "`nået til` 表示已经进行到，不是还在努力到达。`bestemme selv` 强调决策自主权，不应机械理解为自己命令自己。"
+        },
+        {
+            "id": "U06-C009",
+            "zh": "我能说两句吗？",
+            "grammar": "`Må jeg + 不定式?` 是请求许可的疑问句。在会议中，这一结构用于礼貌地要求发言机会。",
+            "vocabulary": [
+                {
+                    "da": "Må jeg sige noget?",
+                    "zh": "我能发言吗？",
+                    "note": "会议、课堂或群体讨论中的自然表达。"
+                }
+            ],
+            "nuance": "Jens 没有直接打断主持人，而是先请求发言。这不一定意味着丹麦职场有严格的发言等级，而是体现对讨论秩序的尊重。",
+            "transfer": [
+                "Må jeg lige sige noget?",
+                "Må jeg komme med en kommentar?"
+            ],
+            "pitfall": "`må` 在这里主要表示许可，不是表示可能性的猜测。"
+        },
+        {
+            "id": "U06-C010",
+            "zh": "当然可以。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "selvfølgelig",
+                    "zh": "当然、当然可以",
+                    "note": "自然的肯定回应。"
+                }
+            ],
+            "nuance": "Henrik 简短允许 Jens 发言，体现讨论的开放性，也避免将一个普通的发言请求处理得过于正式。",
+            "transfer": [
+                "Selvfølgelig, værsgo.",
+                "Selvfølgelig, hvad tænker du?"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U06-C011",
+            "zh": "我能理解这样安排的想法，不过我住得离公司有一个半小时的路程。对我来说，一周去三天确实有点多。",
+            "grammar": "`Jeg forstår godt tanken, men …` 是先认可对方思路、再提出异议的结构。`halvanden time væk` 以时间衡量距离。`Tre dage er mange for mig` 使用数量短语作主语，`for mig` 标记个人立场。",
+            "vocabulary": [
+                {
+                    "da": "forstå tanken",
+                    "zh": "理解背后的思路或用意",
+                    "note": "比单纯理解一个事实更强调认可出发点。"
+                },
+                {
+                    "da": "halvanden time",
+                    "zh": "一个半小时",
+                    "note": "`halvanden` 修饰通性名词 `time`。"
+                },
+                {
+                    "da": "bo langt væk",
+                    "zh": "住得远",
+                    "note": "也可直接使用时间说明距离。"
+                },
+                {
+                    "da": "for mig",
+                    "zh": "对我而言",
+                    "note": "用于强调个人条件或承受能力。"
+                }
+            ],
+            "nuance": "Jens 没有直接说方案不好，而是先承认其出发点合理，再说明自己的具体困难。这种 `Jeg forstår godt …, men …` 很适合在丹麦职场表达建设性异议。`for mig` 也避免把个人通勤负担扩大成所有员工都会遇到的问题。",
+            "transfer": [
+                "Jeg forstår godt tanken, men jeg ser en praktisk udfordring.",
+                "Jeg bor halvanden time fra kontoret.",
+                "Tre faste kontordage bliver meget for mig."
+            ],
+            "pitfall": "`halvanden time` 是一个半小时，而 `halvanden` 不能用于所有名词性别；中性形式是 `halvandet`。`godt` 在 `forstår godt` 中加强认可，并不表示英语式的非常好地理解。"
+        },
+        {
+            "id": "U06-C012",
+            "zh": "要不我们改成每周固定两天到办公室？比如周二和周四。",
+            "grammar": "`Kan vi ikke + 不定式?` 形式上是否定疑问句，实际上常用于提出合作性建议。`gøre det til` 表示将某项安排改成另一种形式。`i stedet` 标记替代方案。",
+            "vocabulary": [
+                {
+                    "da": "Kan vi ikke …?",
+                    "zh": "我们何不……？要不要……？",
+                    "note": "常用于协商和共同提出建议。"
+                },
+                {
+                    "da": "gøre noget til",
+                    "zh": "把某事改成、变成",
+                    "note": "可用于数量、安排或角色变化。"
+                },
+                {
+                    "da": "faste dage",
+                    "zh": "固定的日子",
+                    "note": "`fast` 在时间安排中表示固定、稳定。"
+                },
+                {
+                    "da": "i stedet",
+                    "zh": "改为、作为替代",
+                    "note": "常用于提出另一方案。"
+                }
+            ],
+            "nuance": "Aisha 没有简单附和 Jens 的困难，而是提出可以执行的具体替代方案。`Kan vi ikke …?` 语气比直接命令更合作，既表达自己的建议，也邀请大家讨论。",
+            "transfer": [
+                "Kan vi ikke prøve med to faste dage?",
+                "Vi kunne mødes tirsdag og torsdag i stedet.",
+                "Hvad med at ændre ordningen til to dage?"
+            ],
+            "pitfall": "`Kan vi ikke …?` 并不一定表示否定或质疑能力，很多时候相当于中文的要不我们。`i stedet` 与 `i stedet for` 的句法搭配不同。"
+        },
+        {
+            "id": "U06-C013",
+            "zh": "我觉得这样完全可以。关键是我们确实能定期见到彼此。",
+            "grammar": "`Det har jeg det fint med` 是整体性的态度表达，`det` 指代前面的两天方案。`Det vigtigste er, at …` 使用形式主语和内容从句说明最核心的目标。`faktisk` 加强事实上的真正见面。",
+            "vocabulary": [
+                {
+                    "da": "have det fint med noget",
+                    "zh": "对某项安排没有意见、觉得可以接受",
+                    "note": "自然的职场表态。"
+                },
+                {
+                    "da": "det vigtigste er, at",
+                    "zh": "最重要的是……",
+                    "note": "用于明确讨论中的首要目标。"
+                },
+                {
+                    "da": "ses",
+                    "zh": "见面、相互见到",
+                    "note": "具有相互意义的 s-形式动词。"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "确实、实际上",
+                    "note": "这里强调实际面对面接触。"
+                }
+            ],
+            "nuance": "Pernille 将讨论从具体天数重新拉回政策目标：保持同事之间的联系。`Det vigtigste er …` 是推进共识的有效表达，因为它区分了最终目的与实现手段。`har det fint med` 表达接受，不一定代表最初就是她偏好的方案。",
+            "transfer": [
+                "Det har jeg det helt fint med.",
+                "Det vigtigste er, at vi kan samarbejde effektivt.",
+                "Jeg har det fint med begge løsninger."
+            ],
+            "pitfall": "`have det fint med` 不能按字面理解成身体感觉很好，而是对某项选择或安排持接受态度。"
+        },
+        {
+            "id": "U06-C014",
+            "zh": "延斯，那改成两天，你怎么看？",
+            "grammar": "`Hvad siger du til + 名词?` 是征求意见的固定问句。`to dage` 省略了此前已经明确的每周两天到办公室。",
+            "vocabulary": [
+                {
+                    "da": "Hvad siger du til …?",
+                    "zh": "你觉得……怎么样？",
+                    "note": "可以征求对提议、时间或安排的意见。"
+                }
+            ],
+            "nuance": "Henrik 主动询问最初提出顾虑的 Jens 是否接受修改方案，避免只根据其他同事的赞同就直接作决定。",
+            "transfer": [
+                "Hvad siger du til torsdag?",
+                "Hvad siger I til den nye løsning?"
+            ],
+            "pitfall": "`Hvad siger du til` 在此不是询问具体说了什么话，而是询问对提议的态度。"
+        },
+        {
+            "id": "U06-C015",
+            "zh": "这个安排我可以接受。",
+            "grammar": "`kan leve med noget` 使用情态动词 `kan` 加固定动词短语，表示某事虽然未必理想，但可以接受。",
+            "vocabulary": [
+                {
+                    "da": "kunne leve med noget",
+                    "zh": "可以接受、能够容忍某个方案",
+                    "note": "职场协商中非常有用，不等于完全赞同。"
+                },
+                {
+                    "da": "godt",
+                    "zh": "可以、没问题",
+                    "note": "在 `kan godt` 中加强对可行性的肯定。"
+                }
+            ],
+            "nuance": "这是全文的核心表达之一。Jens 并没有说两天是自己最理想的安排，而是表示这个折中方案在可接受范围内。它体现了一种在保留个人偏好的情况下支持共同决定的态度。",
+            "transfer": [
+                "Det kan jeg godt leve med.",
+                "Det er ikke min foretrukne løsning, men jeg kan godt leve med den."
+            ],
+            "pitfall": "`leve med` 在这里不是字面上的和某人同住，也不等于 `være enig i` 完全同意。"
+        },
+        {
+            "id": "U06-C016",
+            "zh": "有人反对吗？……好。那我们就先试行周二和周四到办公室的安排，一直到暑假，然后再评估效果。",
+            "grammar": "`Er der nogen, der er imod?` 是存在句加关系从句，询问是否存在反对者。`Så prøver vi med …` 中 `så` 表示形成结论后的行动。`frem til` 指试行期限的终点。`evaluerer bagefter` 与前面的 `prøver` 构成并列谓语。",
+            "vocabulary": [
+                {
+                    "da": "være imod",
+                    "zh": "反对",
+                    "note": "可接 `noget` 或单独使用。"
+                },
+                {
+                    "da": "prøve med",
+                    "zh": "试着采用某方案",
+                    "note": "强调试行而非永久确定。"
+                },
+                {
+                    "da": "frem til",
+                    "zh": "一直到……为止",
+                    "note": "表示时间上的终点。"
+                },
+                {
+                    "da": "evaluere",
+                    "zh": "评估、评价实施效果",
+                    "note": "职场和项目管理高频动词。"
+                }
+            ],
+            "nuance": "Henrik 将讨论转化为可执行的试验方案：确认无人明确反对、设定两天安排、明确试行期限并安排后续评估。`prøver vi med` 比直接宣布永久制度更灵活，也降低了大家接受新安排的心理成本。",
+            "transfer": [
+                "Er der nogen, der er imod forslaget?",
+                "Vi prøver med den nye ordning frem til sommerferien.",
+                "Lad os evaluere løsningen om tre måneder."
+            ],
+            "pitfall": "`prøve med` 在此强调试用某种方案，`prøve at` 则通常表示尝试去完成某个动作。`frem til` 是直到，不是从某个时间开始。"
+        },
+        {
+            "id": "U06-C017",
+            "zh": "那我每次在家办公，都需要通知你一声吗？",
+            "grammar": "`Skal jeg + 不定式?` 在这里询问制度要求，而不是主动提供帮助。`give nogen besked` 表示通知某人。`hver gang jeg arbejder hjemme` 是时间从句，表示每次发生某种情况时。",
+            "vocabulary": [
+                {
+                    "da": "give nogen besked",
+                    "zh": "通知某人、告知一声",
+                    "note": "如 `give chefen besked`。"
+                },
+                {
+                    "da": "hver gang",
+                    "zh": "每次……的时候",
+                    "note": "引出重复发生的情形。"
+                },
+                {
+                    "da": "arbejde hjemme",
+                    "zh": "居家办公",
+                    "note": "与 `arbejde på kontoret` 对照。"
+                }
+            ],
+            "nuance": "Jens 在方案达成后进一步询问执行细节，说明是否接受安排与具体如何执行是两个不同层面。`Skal jeg …?` 在这里关注是否具有通知义务。",
+            "transfer": [
+                "Skal jeg give dig besked på forhånd?",
+                "Jeg giver dig besked, hvis planerne ændrer sig.",
+                "Skal jeg registrere mine hjemmearbejdsdage?"
+            ],
+            "pitfall": "`give besked` 是通知，而 `få besked` 是收到通知。`hver gang` 后接完整从句时不使用疑问语序。"
+        },
+        {
+            "id": "U06-C018",
+            "zh": "千万不用每次都通知我。不过如果每周两天对你来说也还是太多，一定要跟我说。",
+            "grammar": "前后两句都使用 `endelig`，但因为一个与否定祈使句搭配，另一个与肯定祈使句搭配，实际效果不同。`Gør … ikke det` 是否定祈使式，`sig … til` 是肯定祈使式。`hvis to dage også bliver for meget` 是条件从句。",
+            "vocabulary": [
+                {
+                    "da": "endelig",
+                    "zh": "务必、尽管、千万",
+                    "note": "具体语气由肯定或否定结构决定。"
+                },
+                {
+                    "da": "sige til",
+                    "zh": "主动告知、及时提出",
+                    "note": "如 `Sig til, hvis du har brug for hjælp`。"
+                },
+                {
+                    "da": "blive for meget",
+                    "zh": "变得负担过重、让人吃不消",
+                    "note": "可以用于任务、工作量和情绪压力。"
+                }
+            ],
+            "nuance": "这是非常值得深入学习的语气小品词对照。`Gør endelig ikke det` 表达强烈地不必做某事，甚至带有请千万别增加这种无谓流程的意味；`sig endelig til` 则热情鼓励对方及时反馈。Henrik 一方面减少微观管理，另一方面保留沟通渠道。",
+            "transfer": [
+                "Du behøver endelig ikke skrive hver gang.",
+                "Sig endelig til, hvis det bliver for meget.",
+                "Du må endelig kontakte mig, hvis der opstår problemer."
+            ],
+            "pitfall": "`endelig` 不应一律翻译成终于。尤其注意 `Gør endelig ikke det` 与 `Gør endelig det` 因否定位置不同而意思相反。"
+        },
+        {
+            "id": "U06-C019",
+            "zh": "谁来写会议纪要？",
+            "grammar": "`Hvem` 是疑问主语，因此句子采用 `Hvem skriver …?` 的语序，不需要再出现额外的主语。",
+            "vocabulary": [
+                {
+                    "da": "skrive referat",
+                    "zh": "记录、撰写会议纪要",
+                    "note": "常用职场搭配。"
+                }
+            ],
+            "nuance": "会议临近结束时明确纪要负责人，有助于防止讨论结果没有被记录或落实。",
+            "transfer": [
+                "Hvem tager referat i dag?",
+                "Skal vi vælge en referent?"
+            ],
+            "pitfall": "`skrive referat` 和 `tage referat` 都可表示做会议记录。疑问词充当主语时，不需要使用另一套倒装结构。"
+        },
+        {
+            "id": "U06-C020",
+            "zh": "我来写。今天下午我就把纪要发给大家。",
+            "grammar": "`Det gør jeg` 使用助动词性动词 `gør` 代替前一句的动作 `skrive referat`，避免重复。`sende noget rundt` 表示向一组人分发或传阅，`i eftermiddag` 表示今天下午。",
+            "vocabulary": [
+                {
+                    "da": "Det gør jeg",
+                    "zh": "我来做",
+                    "note": "用 `gøre` 承接前面已知的动作。"
+                },
+                {
+                    "da": "sende noget rundt",
+                    "zh": "把材料发给大家、传阅",
+                    "note": "常用于会议纪要、文件和资料。"
+                },
+                {
+                    "da": "i eftermiddag",
+                    "zh": "今天下午",
+                    "note": "区别于表示经常在下午的 `om eftermiddagen`。"
+                }
+            ],
+            "nuance": "Pernille 不只主动承担工作，还明确说明发送时间。`sende rundt` 暗示收件者是整个团队，而不只是会议主持人。",
+            "transfer": [
+                "Det gør jeg.",
+                "Jeg sender referatet rundt senere i dag.",
+                "Jeg sender dokumentet til alle deltagere."
+            ],
+            "pitfall": "`sende rundt` 是向多人传阅或分发，不一定真的按顺序逐个转发。`i eftermiddag` 与 `om eftermiddagen` 的时间意义不同。"
+        },
+        {
+            "id": "U06-C021",
+            "zh": "延斯并不赞同最初的提案，但他能够接受最后作出的决定。",
+            "grammar": "`være enig i noget` 表示赞同某项观点或方案。`kunne leve med noget` 表示能够接受某项结果。两个分句由 `men` 连接，形成态度上的对比。",
+            "vocabulary": [
+                {
+                    "da": "være enig i",
+                    "zh": "赞同某个观点、方案或决定",
+                    "note": "与 `være enig med nogen` 的介词区别需注意。"
+                },
+                {
+                    "da": "leve med en beslutning",
+                    "zh": "接受一个决定",
+                    "note": "不一定完全支持原始方案。"
+                },
+                {
+                    "da": "en beslutning",
+                    "zh": "决定、决议",
+                    "note": "区别于尚待讨论的 `et forslag`。"
+                }
+            ],
+            "nuance": "这是文章标题所关注的核心区分：不同意并不必然意味着拒绝执行。Jens 通过讨论影响了最终决定，虽然仍可能有不同偏好，但愿意接受折中结果。",
+            "transfer": [
+                "Jeg er ikke enig i forslaget, men jeg kan leve med beslutningen.",
+                "Vi behøver ikke være enige om alt.",
+                "Jeg støtter beslutningen, selvom jeg havde foretrukket noget andet."
+            ],
+            "pitfall": "`enig i noget` 表示赞同某事，`enig med nogen` 表示同意某人。`forslag` 是提案，`beslutning` 是已经作出的决定。"
+        },
+        {
+            "id": "U06-C022",
+            "zh": "所谓能够接受一项决定，意味着一个人已经有机会把自己的意见说出来，而且这些意见也得到了倾听。",
+            "grammar": "`At kunne leve med en beslutning` 是不定式短语作主语。`betyder, at …` 引出定义性解释。`har fået sagt sit` 使用 `få + 过去分词` 表示已经有机会或成功表达自己的意见。`er blevet hørt` 是完成时的 `blive` 被动，强调意见得到了倾听。",
+            "vocabulary": [
+                {
+                    "da": "få sagt sit",
+                    "zh": "把自己的意见说出来、充分表达立场",
+                    "note": "固定口语表达；`sit` 代表自己想说的话。"
+                },
+                {
+                    "da": "blive hørt",
+                    "zh": "得到倾听、意见受到重视",
+                    "note": "并不保证意见最终被采纳。"
+                },
+                {
+                    "da": "betyde, at",
+                    "zh": "意味着……",
+                    "note": "用于定义和解释概念。"
+                }
+            ],
+            "nuance": "作者强调程序上的参与感，而不是保证每个人都获得自己最喜欢的结果。`blive hørt` 在职场民主中非常重要：意见被认真倾听，与意见被最终采纳，是两件不同的事情。",
+            "transfer": [
+                "Alle skal have mulighed for at få sagt deres.",
+                "Jeg føler, at jeg er blevet hørt.",
+                "Det er vigtigt, at medarbejderne bliver hørt."
+            ],
+            "pitfall": "`få sagt sit` 中的 `sit` 不是指自己的某件具体物品，而是自己要表达的意见。`blive hørt` 不等于要求必然采纳建议。"
+        },
+        {
+            "id": "U06-C023",
+            "zh": "这样一来，即使自己原本会作出不同的选择，也愿意支持并落实共同决定。",
+            "grammar": "`Så` 表示基于上一句条件得出的结果。`være parat til at` 表示准备好采取行动。`bakke op` 表示支持，宾语常用 `om` 引出。`også selvom` 加强让步语气；`ville have valgt anderledes` 表示过去假设中自己本来会作不同选择。",
+            "vocabulary": [
+                {
+                    "da": "være parat til at",
+                    "zh": "准备好、愿意做某事",
+                    "note": "强调行动上的准备程度。"
+                },
+                {
+                    "da": "bakke op",
+                    "zh": "支持、声援",
+                    "note": "常用完整搭配 `bakke op om noget`。"
+                },
+                {
+                    "da": "også selvom",
+                    "zh": "即使、哪怕",
+                    "note": "加强让步关系。"
+                },
+                {
+                    "da": "vælge anderledes",
+                    "zh": "作出不同选择",
+                    "note": "适用于方案、政策和个人决定。"
+                }
+            ],
+            "nuance": "这句话完成从参与讨论到接受决定的逻辑链：个人表达过意见并被倾听，因此即使未获得最理想的结果，也更可能愿意合作。`bakke op` 不只是消极忍受，而是愿意在行动上支持。",
+            "transfer": [
+                "Jeg er parat til at bakke op om beslutningen.",
+                "Jeg ville selv have valgt anderledes.",
+                "Vi skal arbejde sammen, også selvom vi er uenige."
+            ],
+            "pitfall": "`bakke op` 是支持，与 `bakke ud` 退出、退缩不同。`ville have valgt` 是过去假设，不是普通将来时。"
+        },
+        {
+            "id": "U06-C024",
+            "zh": "这种决策方式看起来也许有些拖沓，但很多时候其实是有意为之：参与过决策形成过程的人，往往更愿意支持最后的决定。",
+            "grammar": "`Det, der kan virke langsommeligt` 是代词加关系从句组成的名词性结构。`er ofte bevidst` 指这种做法可能具有明确目的。冒号后用 `Folk, der har været med til at forme en beslutning` 作主语，`være mere tilbøjelig til at` 表示较强的行为倾向。",
+            "vocabulary": [
+                {
+                    "da": "langsommelig",
+                    "zh": "拖沓的、费时的、程序繁琐的",
+                    "note": "通常带有轻微负面评价。"
+                },
+                {
+                    "da": "bevidst",
+                    "zh": "有意识的、经过考虑的",
+                    "note": "这里表示有意采取的做法。"
+                },
+                {
+                    "da": "være med til at",
+                    "zh": "参与、共同促成",
+                    "note": "强调自己对结果形成有贡献。"
+                },
+                {
+                    "da": "forme en beslutning",
+                    "zh": "参与塑造一项决定",
+                    "note": "比单纯执行决定更强调形成过程。"
+                },
+                {
+                    "da": "være tilbøjelig til at",
+                    "zh": "倾向于做某事",
+                    "note": "书面分析中很实用。"
+                }
+            ],
+            "nuance": "这是一句典型的组织管理分析。作者承认参与式决策可能耗费时间，却指出这并不必然是低效率，因为参与形成方案可能提高执行意愿。`kan virke` 强调表面印象，`mere tilbøjelige til` 表示倾向，而不是每个人都会支持的绝对规律。",
+            "transfer": [
+                "Det, der virker langsommeligt, kan være et bevidst valg.",
+                "Medarbejdere, der har været med til at forme løsningen, er ofte mere motiverede.",
+                "Folk er mere tilbøjelige til at bakke op om beslutninger, de selv har påvirket."
+            ],
+            "pitfall": "`bevidst` 在这里是有意的，不是具有意识的医学意义。`være med til at` 不等于完全负责，而是参与促成。"
+        },
+        {
+            "id": "U06-C025",
+            "zh": "因此，共识并不要求所有人的看法完全一致；如果大家最终无法达成一致，就由领导来作出决定。",
+            "grammar": "`Konsensus kræver altså ikke, at …` 使用否定主句加内容从句界定概念。`være enig` 表示已经处于意见一致的状态，`blive enig` 表示达成一致的过程。`når de ikke kan blive det` 中 `det` 替代 `enige`。`det er lederen, der afgør sagen` 是强调句，突出最终决策者。",
+            "vocabulary": [
+                {
+                    "da": "konsensus",
+                    "zh": "共识、协商形成的共同接受",
+                    "note": "在这里不等于所有人完全赞同。"
+                },
+                {
+                    "da": "være enig",
+                    "zh": "意见一致、同意",
+                    "note": "强调状态。"
+                },
+                {
+                    "da": "blive enig",
+                    "zh": "达成一致意见",
+                    "note": "强调由分歧走向一致。"
+                },
+                {
+                    "da": "afgøre sagen",
+                    "zh": "作出最终决定、裁定事项",
+                    "note": "`afgøre` 强调终结争议或确定结果。"
+                }
+            ],
+            "nuance": "作者纠正一个常见误解：丹麦职场重视讨论，并不意味着每个人都拥有否决权或所有事情都必须全票通过。员工可以充分表达意见，而当意见仍然无法统一时，领导仍然承担决策责任。",
+            "transfer": [
+                "Konsensus betyder ikke nødvendigvis fuld enighed.",
+                "Hvis vi ikke kan blive enige, må lederen afgøre sagen.",
+                "Det er projektlederen, der træffer den endelige beslutning."
+            ],
+            "pitfall": "`være enige` 是已经同意，`blive enige` 是达成同意。`konsensus` 与全票一致不能直接画等号。"
+        },
+        {
+            "id": "U06-C026",
+            "zh": "到了下午，会议纪要已经出现在每个人的收件箱里。",
+            "grammar": "`Om eftermiddagen` 前置后使用 `ligger referatet` 的 V2 语序。`ligge` 在电子通信语境中可表示某封邮件或文件已处于收件箱中，不必是实际放置的纸张。",
+            "vocabulary": [
+                {
+                    "da": "om eftermiddagen",
+                    "zh": "在下午",
+                    "note": "这里根据叙事时间线指当天的下午。"
+                },
+                {
+                    "da": "en indbakke",
+                    "zh": "收件箱",
+                    "note": "通常指电子邮件收件箱。"
+                },
+                {
+                    "da": "ligge i indbakken",
+                    "zh": "邮件或文件已在收件箱中",
+                    "note": "工作邮件中的自然表达。"
+                }
+            ],
+            "nuance": "短短一句说明团队迅速落实了会议记录。作者没有直接评价效率，而是通过下午纪要已经发送这一细节体现工作流程的连续性。",
+            "transfer": [
+                "Referatet ligger nu i din indbakke.",
+                "Du skulle gerne have modtaget referatet.",
+                "Jeg har sendt dokumentet til alle deltagere."
+            ],
+            "pitfall": "`ligge` 可以用于描述电子文件的位置，不一定指真实的物理放置。"
+        },
+        {
+            "id": "U06-C027",
+            "zh": "第三项议题：从第十二周起，所有员工每周二和周四到办公室办公。这项安排将在六月的会议上进行评估。佩妮莱负责调查是否能够预订更多会议室，并最迟于周五反馈结果。",
+            "grammar": "这是典型的决议记录。`Fra uge 12` 前置后主句使用 `er alle …` 的 V2 语序。`Ordningen evalueres` 和 `der kan bookes flere mødelokaler` 都使用 s-被动，突出安排和可执行性。`undersøger, om …` 后接间接是非问句。`vender tilbage senest fredag` 指明确的后续反馈期限。",
+            "vocabulary": [
+                {
+                    "da": "fra uge 12",
+                    "zh": "从第十二周开始",
+                    "note": "丹麦工作安排常使用日历周数。"
+                },
+                {
+                    "da": "evaluere en ordning",
+                    "zh": "评估一项安排或制度",
+                    "note": "强调试行后的效果检查。"
+                },
+                {
+                    "da": "booke et mødelokale",
+                    "zh": "预订会议室",
+                    "note": "`et mødelokale`，复数 `mødelokaler`。"
+                },
+                {
+                    "da": "vende tilbage",
+                    "zh": "回复、反馈、稍后再联系",
+                    "note": "职场沟通高频表达。"
+                },
+                {
+                    "da": "senest fredag",
+                    "zh": "最迟周五",
+                    "note": "表示截止日期。"
+                }
+            ],
+            "nuance": "与前面详细的讨论相比，会议纪要只保留结果、执行条件、责任人和期限。这正是高质量行动型会议记录的特点。`vender tilbage` 在职场中不一定表示实际返回办公室，而是承诺在调查后提供答复。",
+            "transfer": [
+                "Den nye ordning træder i kraft fra uge 12.",
+                "Ordningen evalueres på næste møde.",
+                "Jeg undersøger mulighederne og vender tilbage senest fredag."
+            ],
+            "pitfall": "`senest fredag` 表示最迟周五，不是最早周五。`om der kan bookes` 是间接疑问从句，不应使用直接疑问的语序。"
+        },
+        {
+            "id": "U06-C028",
+            "zh": "一份好的会议纪要应明确记录作出了什么决定、谁负责做什么，以及各项任务必须在什么时候完成，而不是把整场讨论逐字重现。",
+            "grammar": "`Et godt referat fastholder` 后并列三个间接疑问从句：`hvad der blev besluttet`、`hvem der skal gøre hvad` 和 `hvornår det skal være gjort`。最后一个使用 `skal være gjort` 表示必须完成的结果状态。破折号后的 `det gengiver ikke …` 对纪要的记录范围加以限定。",
+            "vocabulary": [
+                {
+                    "da": "fastholde",
+                    "zh": "明确记录、固定下来、坚持",
+                    "note": "此处强调将决定写下来以便追踪。"
+                },
+                {
+                    "da": "gengive",
+                    "zh": "复述、重现、转述",
+                    "note": "可用于发言、讨论和文本内容。"
+                },
+                {
+                    "da": "være gjort",
+                    "zh": "已经完成",
+                    "note": "强调完成状态。"
+                },
+                {
+                    "da": "et godt referat",
+                    "zh": "高质量的会议纪要",
+                    "note": "通常应清楚呈现决定与行动项。"
+                }
+            ],
+            "nuance": "作者强调会议纪要是一种行动管理工具，而非逐字记录。三个间接疑问从句分别对应决定、负责人和截止时间，是可以直接迁移到实际职场写作的清晰框架。",
+            "transfer": [
+                "Referatet skal vise, hvad vi har besluttet.",
+                "Vi skal skrive, hvem der gør hvad, og hvornår opgaven skal være færdig.",
+                "Et referat behøver ikke gengive hele diskussionen."
+            ],
+            "pitfall": "`hvem der skal gøre hvad` 是间接疑问结构，不应倒装成直接问句。`fastholde` 不只是坚持己见，在这里是将信息明确记录下来。"
+        },
+        {
+            "id": "U06-C029",
+            "zh": "艾莎是三个月前入职这个部门的。",
+            "grammar": "`begyndte` 使用一般过去时，指发生在过去特定时间点的入职事件。`for tre måneder siden` 表示距离现在三个月前。",
+            "vocabulary": [
+                {
+                    "da": "begynde i en afdeling",
+                    "zh": "开始在某个部门工作",
+                    "note": "这里根据职场背景表示入职。"
+                },
+                {
+                    "da": "for tre måneder siden",
+                    "zh": "三个月前",
+                    "note": "固定时间表达。"
+                }
+            ],
+            "nuance": "这句从会议切换到 Aisha 的入职经历，为后面介绍同事支持和工作场所文化提供背景。",
+            "transfer": [
+                "Jeg begyndte i afdelingen for tre måneder siden.",
+                "Jeg startede på mit nye arbejde i august."
+            ],
+            "pitfall": "`for … siden` 是多久之前，不能再添加英语式的 `ago`。"
+        },
+        {
+            "id": "U06-C030",
+            "zh": "入职第一天，她领到了一台笔记本电脑、一张门禁卡和一张办公桌。前任使用这张桌子的人还在那里留下了一盆半枯萎的植物，以及一摞旧会议纪要。",
+            "grammar": "`Den første dag` 前置后形成 `fik hun` 的 V2 语序。`et skrivebord, hvor …` 后接关系从句，说明办公桌的背景。`havde efterladt` 是过去完成时，表示前任留下物品发生在 Aisha 到来之前。",
+            "vocabulary": [
+                {
+                    "da": "et adgangskort",
+                    "zh": "门禁卡、通行证",
+                    "note": "办公场所常见物品。"
+                },
+                {
+                    "da": "en forgænger",
+                    "zh": "前任、前一位任职者",
+                    "note": "与 `en efterfølger` 继任者相对。"
+                },
+                {
+                    "da": "efterlade",
+                    "zh": "留下、遗留",
+                    "note": "可指物品、信息或某种后果。"
+                },
+                {
+                    "da": "halvvissen",
+                    "zh": "半枯萎的",
+                    "note": "`vissen` 可形容枯萎的植物。"
+                },
+                {
+                    "da": "en stak",
+                    "zh": "一摞、一叠",
+                    "note": "如 `en stak papirer`。"
+                }
+            ],
+            "nuance": "这一句通过有点幽默的办公细节描绘新员工的第一天。电脑和门禁卡代表正式入职流程，半枯萎的植物和旧纪要则让环境显得真实而不那么完美。过去完成时清楚区分了前任留下东西和 Aisha 后来发现这些物品的时间顺序。",
+            "transfer": [
+                "På min første arbejdsdag fik jeg en computer og et adgangskort.",
+                "Min forgænger havde efterladt en række dokumenter.",
+                "Der lå en stak papirer på skrivebordet."
+            ],
+            "pitfall": "`forgænger` 是职位或角色上的前任，不等于祖先。`havde efterladt` 表示比叙事中的过去时间更早发生的动作。"
+        },
+        {
+            "id": "U06-C031",
+            "zh": "同事们把艾莎介绍给部门里的所有人，随后佩妮莱被指定为她头几个月的入职搭档。",
+            "grammar": "两个分句都使用 `blive` 被动：`blev præsenteret for` 和 `blev udpeget som`。前者表示被介绍给某人，后者表示被指定担任某种角色。`de første måneder` 表示角色安排的初始阶段。",
+            "vocabulary": [
+                {
+                    "da": "præsentere nogen for nogen",
+                    "zh": "把某人介绍给某人",
+                    "note": "被动形式 `blive præsenteret for`。"
+                },
+                {
+                    "da": "udpege nogen som",
+                    "zh": "指定某人担任某种角色",
+                    "note": "比普通的选择更强调正式安排。"
+                },
+                {
+                    "da": "en makker",
+                    "zh": "搭档、伙伴",
+                    "note": "职场中可指新人入职时的协助伙伴。"
+                },
+                {
+                    "da": "de første måneder",
+                    "zh": "最初几个月",
+                    "note": "不需要额外介词也可作时间状语。"
+                }
+            ],
+            "nuance": "这里体现一种较有组织的新人融入方式：不仅正式介绍同事，还安排具体的人提供支持。`makker` 比正式的导师称谓更轻松、平等，不一定意味着职级上的指导关系。",
+            "transfer": [
+                "Jeg blev præsenteret for alle kollegerne.",
+                "Hun blev udpeget som min makker.",
+                "Vi har en makkerordning for nye medarbejdere."
+            ],
+            "pitfall": "`præsentere nogen for nogen` 中的介词是 `for`。`makker` 是工作伙伴，并不必然是直属上司或正式学术导师。"
+        },
+        {
+            "id": "U06-C032",
+            "zh": "所谓入职搭档，就是那个你可以去请教各种小问题的人——哪怕有些问题小到你觉得不值得专门去问主管。",
+            "grammar": "`Det er den, man kan gå til …` 使用代词 `den` 指代作为帮助对象的那个人。`gå til nogen med noget` 表示带着问题或困难去找某人。`de spørgsmål, der føles for små til at stille chefen` 是关系从句，`for … til at` 表示程度过高而不适合进行后续动作。",
+            "vocabulary": [
+                {
+                    "da": "gå til nogen med noget",
+                    "zh": "带着问题找某人请教或求助",
+                    "note": "职场沟通中的重要搭配。"
+                },
+                {
+                    "da": "føles for lille",
+                    "zh": "感觉小到不值得正式提出",
+                    "note": "可用于问题、困难和请求。"
+                },
+                {
+                    "da": "stille nogen et spørgsmål",
+                    "zh": "向某人提出问题",
+                    "note": "可以使用双宾语结构。"
+                }
+            ],
+            "nuance": "作者解释入职搭档的价值不只是提供技术培训，更在于降低新员工求助的心理门槛。有些问题不是真的不重要，而是新人可能觉得不好意思直接向主管提出。",
+            "transfer": [
+                "Du kan altid gå til mig med spørgsmål.",
+                "Der findes ingen spørgsmål, der er for små til at stille.",
+                "Jeg ved ikke, hvem jeg skal gå til med problemet."
+            ],
+            "pitfall": "`gå til nogen` 在这里不是实际走去某个地点，而是找人寻求帮助。`for små til at` 中的 `for` 表示过于，不是为了。"
+        },
+        {
+            "id": "U06-C033",
+            "zh": "第一周，佩妮莱每天早上都会问她：今天有什么需要我帮忙的吗？",
+            "grammar": "`Den første uge` 前置引出 `spurgte Pernille` 的 V2 语序。`hver morgen` 表示过去重复发生的行为。引语中的 `Hvad kan jeg hjælpe med?` 使用疑问代词作介词 `med` 的宾语，介词保留在句末。",
+            "vocabulary": [
+                {
+                    "da": "hver morgen",
+                    "zh": "每天早上",
+                    "note": "表示规律性重复。"
+                },
+                {
+                    "da": "hjælpe med",
+                    "zh": "帮助处理某事",
+                    "note": "常用于主动询问是否需要协助。"
+                },
+                {
+                    "da": "Hvad kan jeg hjælpe med?",
+                    "zh": "有什么需要我帮忙的吗？",
+                    "note": "非常自然的主动帮助表达。"
+                }
+            ],
+            "nuance": "Pernille 不是等 Aisha 主动提出困难，而是每天主动询问。这降低了新人求助时可能产生的顾虑，也体现支持关系需要通过实际行动建立。",
+            "transfer": [
+                "Hvad kan jeg hjælpe dig med i dag?",
+                "Er der noget, du har brug for hjælp til?",
+                "Du siger bare til, hvis du har spørgsmål."
+            ],
+            "pitfall": "`hjælpe med` 和 `hjælpe nogen med noget` 的结构需要整体掌握。不能因为疑问词移到句首就省略 `med`。"
+        },
+        {
+            "id": "U06-C034",
+            "zh": "一个月后，佩妮莱已经不再每天问她需要什么帮助了，因为现在反倒是艾莎开始帮助佩妮莱了。",
+            "grammar": "`Efter en måned` 前置引出 `holdt hun op` 的 V2 语序。`holde op med at` 表示停止做某事。`fordi det nu var Aisha, der hjalp hende` 使用强调句结构，把帮助者 `Aisha` 放在焦点位置。",
+            "vocabulary": [
+                {
+                    "da": "holde op med at",
+                    "zh": "停止做某事",
+                    "note": "固定介词结构。"
+                },
+                {
+                    "da": "det var … der",
+                    "zh": "正是……在做某事",
+                    "note": "强调句结构。"
+                },
+                {
+                    "da": "hjælpe nogen",
+                    "zh": "帮助某人",
+                    "note": "可直接接人作宾语。"
+                }
+            ],
+            "nuance": "本句用一个轻松的反转结束新人融入故事：原本需要帮助的人很快也能够帮助别人。作者没有直说 Aisha 学习能力多强，而是通过帮助关系反过来的事实表现她融入团队的速度。",
+            "transfer": [
+                "Efter en måned holdt hun op med at spørge.",
+                "Nu er det mig, der hjælper de andre.",
+                "Jeg holdt op med at spørge, fordi jeg havde lært systemet at kende."
+            ],
+            "pitfall": "`holde op med at` 是停止做某事，不是举起。强调句中的 `det er … der` 与普通陈述句相比更突出行为主体。"
+        },
+        {
+            "id": "U06-C035",
+            "zh": "在大多数丹麦工作场所，大家彼此都用非敬称的你来称呼，包括对上司也是如此，而且通常直呼名字。",
+            "grammar": "`På de fleste danske arbejdspladser` 是地点范围状语，前置后采用 `siger man` 的 V2 语序。`man` 是泛指主语。`også til chefen` 是插入的补充成分。`bruge fornavne` 表示使用名字称呼他人。",
+            "vocabulary": [
+                {
+                    "da": "sige du til nogen",
+                    "zh": "对某人使用非敬称的你",
+                    "note": "与较正式的 `De` 称呼形成对照。"
+                },
+                {
+                    "da": "et fornavn",
+                    "zh": "名字",
+                    "note": "与 `et efternavn` 姓氏相对。"
+                },
+                {
+                    "da": "en arbejdsplads",
+                    "zh": "工作场所、用人单位",
+                    "note": "比具体办公室范围更广。"
+                }
+            ],
+            "nuance": "作者介绍丹麦职场称呼上的相对平等性。对上司使用 `du` 和名字通常并不失礼，但这不表示不存在组织层级或岗位责任。`de fleste` 也明确这是普遍倾向，不是完全没有例外的绝对规则。",
+            "transfer": [
+                "På vores arbejdsplads siger vi du til hinanden.",
+                "Vi bruger normalt fornavne.",
+                "Du kan bare kalde mig ved mit fornavn."
+            ],
+            "pitfall": "`sige du til nogen` 是固定的称呼表达。`De` 在丹麦语中也可以是正式的第二人称敬称，但不能将其与普通第三人称复数 `de` 混淆。"
+        },
+        {
+            "id": "U06-C036",
+            "zh": "沟通语气虽然随和，却不意味着没有规矩，只不过很多规矩并没有明文写出来。",
+            "grammar": "`Tonen er uformel, men …` 构成让步式转折。`det betyder ikke, at der ingen regler er` 使用否定主句加存在从句。破折号后 `mange af dem er bare uskrevne` 解释所谓规矩的性质，`dem` 回指 `regler`。",
+            "vocabulary": [
+                {
+                    "da": "en tone",
+                    "zh": "语气、交流风格",
+                    "note": "可用于描述团队或组织文化。"
+                },
+                {
+                    "da": "uformel",
+                    "zh": "非正式的、随和的",
+                    "note": "不等于没有规范。"
+                },
+                {
+                    "da": "en uskreven regel",
+                    "zh": "不成文的规矩、潜规则",
+                    "note": "复数 `uskrevne regler`。"
+                },
+                {
+                    "da": "betyde ikke, at",
+                    "zh": "并不意味着……",
+                    "note": "适合纠正常见误解。"
+                }
+            ],
+            "nuance": "这是理解丹麦职场文化的重要提醒。平等的称呼方式和轻松的沟通气氛，与对时间、责任、协作的严格期待并不矛盾。`bare` 让作者的说明显得自然：并非没有规则，只是规则未必明文列出。",
+            "transfer": [
+                "En uformel tone betyder ikke, at der ikke er regler.",
+                "Mange forventninger er uskrevne.",
+                "Det er en uskreven regel på vores arbejdsplads."
+            ],
+            "pitfall": "`uformel` 不等于随便或缺乏专业性。`uskreven` 是没有写成明文的，不必然具有不正当的负面含义。"
+        },
+        {
+            "id": "U06-C037",
+            "zh": "会议通常准时开始。如果有人迟到，就简短道个歉，然后安静地坐下，不必把这件事弄得大张旗鼓。",
+            "grammar": "第一分句陈述通常做法。第二分句以 `den, der kommer for sent` 指称迟到的人，后接两个并列谓语 `undskylder` 和 `sætter sig`。`uden at + 不定式` 表示没有同时做某事。`gøre et stort nummer ud af` 是固定习语。",
+            "vocabulary": [
+                {
+                    "da": "til tiden",
+                    "zh": "准时",
+                    "note": "如 `komme til tiden`、`begynde til tiden`。"
+                },
+                {
+                    "da": "komme for sent",
+                    "zh": "迟到",
+                    "note": "与 `komme for tidligt` 太早到达相对。"
+                },
+                {
+                    "da": "undskylde",
+                    "zh": "道歉",
+                    "note": "既可表示表达歉意，也可用于请求别人让路。"
+                },
+                {
+                    "da": "gøre et stort nummer ud af noget",
+                    "zh": "把某事弄得很夸张、小题大做",
+                    "note": "常用口语习语。"
+                }
+            ],
+            "nuance": "这句话体现两种同时存在的职场期待：尊重会议时间，以及避免让迟到带来更多干扰。迟到的人应该简短道歉，而不是进行很长的自我解释，从而再次打断会议。",
+            "transfer": [
+                "Mødet begynder til tiden.",
+                "Undskyld, jeg kommer lidt for sent.",
+                "Vi behøver ikke gøre et stort nummer ud af det."
+            ],
+            "pitfall": "`for sent` 表示太晚，`for tidligt` 表示太早；这里的 `for` 是程度副词。`gøre et stort nummer ud af` 不是谈论一个大数字。"
+        },
+        {
+            "id": "U06-C038",
+            "zh": "在许多工作场所，一直留在办公室直到深夜，也并不会被视为值得称赞的美德。",
+            "grammar": "`Mange steder` 前置后采用 `bliver det` 的 V2 语序。`blive betragtet som` 是被动结构，表示被看作某种性质。`at blive på kontoret …` 是形式主语 `det` 所指的真正行为。`heller ikke` 表示这同样不被视为值得肯定。",
+            "vocabulary": [
+                {
+                    "da": "betragte noget som",
+                    "zh": "把某事看作……",
+                    "note": "被动形式 `blive betragtet som`。"
+                },
+                {
+                    "da": "en dyd",
+                    "zh": "美德、值得称赞的品质",
+                    "note": "常用于价值判断。"
+                },
+                {
+                    "da": "blive på kontoret",
+                    "zh": "继续留在办公室",
+                    "note": "`blive` 在此表示留下，不是被动助动词。"
+                },
+                {
+                    "da": "langt ud på aftenen",
+                    "zh": "一直到晚上很晚",
+                    "note": "强调时间延伸到夜晚较晚的阶段。"
+                }
+            ],
+            "nuance": "作者指出，延长在岗时间不一定被自动视为勤奋或高绩效的证明。这与一些强调展示加班时长的工作文化形成对比，但不意味着丹麦职场没有加班或紧急工作。",
+            "transfer": [
+                "Det bliver ikke nødvendigvis betragtet som en dyd at arbejde sent.",
+                "Jeg prøver at undgå at blive på kontoret langt ud på aftenen.",
+                "Lange arbejdsdage er ikke altid et tegn på effektivitet."
+            ],
+            "pitfall": "`blive` 在一句话中可以表达留下，在另一种结构中又可以构成被动，不能见到 `blive` 就一律分析为被动。`en dyd` 是美德，不是责任或义务。"
+        },
+        {
+            "id": "U06-C039",
+            "zh": "这种行为反而也可能被解读为工作规划不佳的表现。",
+            "grammar": "`Det kan lige så godt blive tolket som …` 使用情态动词、`blive` 被动和比较性副词组合。`lige så godt` 在这里强调另一种解释同样可能成立，而不是表示事情同样好。",
+            "vocabulary": [
+                {
+                    "da": "tolke noget som",
+                    "zh": "把某事解读为……",
+                    "note": "被动形式 `blive tolket som`。"
+                },
+                {
+                    "da": "et tegn på",
+                    "zh": "……的迹象、标志",
+                    "note": "固定介词 `på`。"
+                },
+                {
+                    "da": "dårlig planlægning",
+                    "zh": "规划不佳、安排不合理",
+                    "note": "可用于时间管理和项目管理。"
+                },
+                {
+                    "da": "lige så godt",
+                    "zh": "同样可能、也完全可以",
+                    "note": "本句强调存在另一种解释。"
+                }
+            ],
+            "nuance": "作者补充了晚下班可能带来的另一种社会评价：并非更努力，而可能是时间安排存在问题。`kan` 特别重要，它只是说明一种可能的解读，并没有断言所有加班者都是计划能力差。",
+            "transfer": [
+                "Det kan blive tolket som et tegn på dårlig planlægning.",
+                "Det kan lige så godt skyldes uklare prioriteringer.",
+                "Lange arbejdsdage betyder ikke nødvendigvis høj produktivitet."
+            ],
+            "pitfall": "`lige så godt` 不能在这里理解为同样好。`tolke som` 是解读为，不是证明某一解释必然正确。"
+        },
+        {
+            "id": "U06-C040",
+            "zh": "大家往往会在十一点半左右一起吃午饭，而且许多工作场所都提供员工午餐安排。",
+            "grammar": "`Frokosten bliver tit spist sammen` 使用 `blive` 被动，突出集体午餐这一惯例。`ved halv tolv-tiden` 表示大约十一点半。第二个分句使用 `have en frokostordning` 描述单位提供的制度安排。",
+            "vocabulary": [
+                {
+                    "da": "halv tolv",
+                    "zh": "十一点半",
+                    "note": "丹麦语钟点表达采用下一整点的半点。"
+                },
+                {
+                    "da": "ved …-tiden",
+                    "zh": "大约在某个时间",
+                    "note": "如 `ved tolvtiden`，十二点左右。"
+                },
+                {
+                    "da": "en frokostordning",
+                    "zh": "员工午餐计划、公司供餐安排",
+                    "note": "可能涉及单位和员工共同承担费用。"
+                },
+                {
+                    "da": "spise sammen",
+                    "zh": "一起吃饭",
+                    "note": "强调共同用餐的社交活动。"
+                }
+            ],
+            "nuance": "午餐在这里不仅是用餐安排，也可能是与同事建立联系的日常机会。`frokostordning` 是丹麦职场实用词汇，但具体餐食、付款方式和是否参加因单位而异。",
+            "transfer": [
+                "Vi spiser frokost sammen ved halv tolvtiden.",
+                "Har I en frokostordning på arbejdspladsen?",
+                "Jeg tager normalt frokost klokken tolv."
+            ],
+            "pitfall": "`halv tolv` 是十一点半，绝不是十二点半。`frokost` 在丹麦语中通常是午餐，而不是英语 breakfast 所指的早餐。"
+        },
+        {
+            "id": "U06-C041",
+            "zh": "如果有什么事情拿不准，那就记住那句老话：宁可多问一次，也不要少问一次。",
+            "grammar": "`Og er man i tvivl om noget` 是省略 `hvis` 的条件倒装结构，限定动词 `er` 位于条件从句开头。主句 `gælder det gamle råd` 使用 V2 语序。冒号后 `hellere X end Y` 构成偏好比较，两边省略相同的动词结构。",
+            "vocabulary": [
+                {
+                    "da": "være i tvivl om",
+                    "zh": "对……不确定、拿不准",
+                    "note": "固定介词 `om`。"
+                },
+                {
+                    "da": "gælde",
+                    "zh": "适用、有效",
+                    "note": "过去式 `gjaldt`，过去分词 `gjaldt`。"
+                },
+                {
+                    "da": "hellere … end …",
+                    "zh": "宁愿……而不愿……",
+                    "note": "表达两种选择之间的偏好。"
+                },
+                {
+                    "da": "én gang for meget",
+                    "zh": "多一次",
+                    "note": "`én` 用重音符号强调数量一。"
+                }
+            ],
+            "nuance": "这是一句特别值得背诵的丹麦职场格言。它强调遇到不确定的问题时，应主动确认，而不是因为害怕问题太简单而默默猜测。条件倒装让表达更加凝练，也很适合高级口语和书面表达。",
+            "transfer": [
+                "Er du i tvivl, så spørg.",
+                "Hellere spørge én gang for meget end én gang for lidt.",
+                "Er der problemer, må vi tage dem op med det samme."
+            ],
+            "pitfall": "`Er man i tvivl …` 在这里不是普通疑问句，而是省略 `hvis` 的条件结构。`i tvivl om` 中的介词是 `om`。"
+        },
+        {
+            "id": "U06-C042",
+            "zh": "亨里克虽然是部门主管，但他的大部分时间都用于分配任务、清除工作障碍，以及向员工征求建议。",
+            "grammar": "两个并列主句由 `men` 形成身份与实际职责的对照。`bruge det meste af sin tid på at` 是时间投入结构，后接三个并列不定式动作。`spørge nogen til råds` 是固定结构，表示向某人请教或征询意见。",
+            "vocabulary": [
+                {
+                    "da": "fordele opgaver",
+                    "zh": "分配任务",
+                    "note": "管理和项目协作常用。"
+                },
+                {
+                    "da": "fjerne forhindringer",
+                    "zh": "清除障碍",
+                    "note": "可指技术、流程和组织障碍。"
+                },
+                {
+                    "da": "spørge nogen til råds",
+                    "zh": "向某人征求意见、请教",
+                    "note": "固定表达，不使用 `om råd`。"
+                },
+                {
+                    "da": "bruge tid på at",
+                    "zh": "花时间做某事",
+                    "note": "常见时间管理结构。"
+                },
+                {
+                    "da": "det meste af sin tid",
+                    "zh": "自己大部分的时间",
+                    "note": "反身所有格 `sin` 指向主语 Henrik。"
+                }
+            ],
+            "nuance": "作者呈现了一种偏向支持、协调和赋能的管理角色：主管不是时时给出具体命令，而是组织资源、消除障碍，并充分利用团队成员的专业意见。`spørge medarbejderne til råds` 特别能体现员工被视为知识贡献者，而不是只能执行命令的人。",
+            "transfer": [
+                "Jeg bruger det meste af min tid på at koordinere opgaver.",
+                "En god leder hjælper med at fjerne forhindringer.",
+                "Jeg vil gerne spørge dig til råds."
+            ],
+            "pitfall": "`spørge nogen til råds` 是固定表达，不能按字面换成 `spørge nogen for råd`。`sin` 指向句子主语，与 `hans` 的指代方式不同。"
+        },
+        {
+            "id": "U06-C043",
+            "zh": "艾莎此前在法国的一家公司工作，因此她很惊讶：第一次参加部门会议后，大家就已经邀请她发表自己的意见。",
+            "grammar": "`Aisha, der kom fra en virksomhed i Frankrig` 使用插入式关系从句补充背景。`blev overrasket over, at …` 是情绪反应结构。内部的 `blev bedt om at sige sin mening` 使用被动式，表示有人请她发表意见。`allerede efter sit første møde` 强调发生时间比她预期更早。",
+            "vocabulary": [
+                {
+                    "da": "blive overrasket over",
+                    "zh": "对……感到惊讶",
+                    "note": "固定介词 `over`。"
+                },
+                {
+                    "da": "blive bedt om at",
+                    "zh": "被要求、被邀请做某事",
+                    "note": "来自 `bede nogen om at`。"
+                },
+                {
+                    "da": "sige sin mening",
+                    "zh": "发表自己的看法",
+                    "note": "职场讨论高频表达。"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经、这么早就",
+                    "note": "这里突出时间上的意外。"
+                }
+            ],
+            "nuance": "作者通过 Aisha 的跨文化经历突出新员工很快被邀请发表意见这一特点。句子只是叙述她个人的惊讶，并不能据此推断法国所有企业都不重视员工意见。`sige sin mening` 体现组织希望员工主动参与讨论。",
+            "transfer": [
+                "Jeg blev overrasket over, at jeg allerede blev spurgt om min mening.",
+                "Alle medarbejdere bliver opfordret til at sige deres mening.",
+                "Jeg kommer fra en virksomhed med en mere formel mødekultur."
+            ],
+            "pitfall": "`bede nogen om at` 是请某人做某事，被动为 `blive bedt om at`。`sige sin mening` 指表达个人观点，不是宣布一个客观真理。"
+        },
+        {
+            "id": "U06-C044",
+            "zh": "不过，领导并非可有可无：总得有人确定工作优先级、作出艰难决定，并在事情出问题时承担责任。",
+            "grammar": "`Lederen er dog ikke overflødig` 使用 `dog` 标记对前面强调平等讨论的补充限制。冒号后以泛指主语 `nogen` 列举三个并列动作。`når det går galt` 是条件性时间从句，描述事情出错的情形。",
+            "vocabulary": [
+                {
+                    "da": "overflødig",
+                    "zh": "多余的、不必要的",
+                    "note": "与不可替代性形成对照。"
+                },
+                {
+                    "da": "prioritere",
+                    "zh": "确定优先级、优先处理",
+                    "note": "常用于资源和任务管理。"
+                },
+                {
+                    "da": "træffe en beslutning",
+                    "zh": "作出决定",
+                    "note": "固定搭配，比 `tage en beslutning` 更偏正式。"
+                },
+                {
+                    "da": "tage ansvaret",
+                    "zh": "承担责任",
+                    "note": "可用于管理责任及行为后果。"
+                },
+                {
+                    "da": "gå galt",
+                    "zh": "出错、出现问题、失败",
+                    "note": "如 `Noget gik galt`。"
+                }
+            ],
+            "nuance": "本句避免把扁平化管理理解成没有领导。即使员工可以自由提出意见，领导仍需要在资源冲突、困难决策和失败后果方面承担职责。`Nogen skal …` 用泛指方式强调组织必须有人承担这些职能。",
+            "transfer": [
+                "En leder skal kunne træffe svære beslutninger.",
+                "Nogen må tage ansvaret, når det går galt.",
+                "Vi er nødt til at prioritere opgaverne."
+            ],
+            "pitfall": "`træffe en beslutning` 中的 `træffe` 不是碰巧遇见，而是作出决定。`gå galt` 不等于走向某个地点。"
+        },
+        {
+            "id": "U06-C045",
+            "zh": "与上司意见不同，通常不会被视为不忠诚；前提是你直接向上司本人说明分歧，而不是只在咖啡机旁向同事私下抱怨。",
+            "grammar": "`At være uenig med sin chef` 是不定式短语作主语。`bliver sjældent opfattet som illoyalt` 使用被动评价结构。`så længe` 引出条件，表示只要满足某种前提。`og ikke kun` 构成表达渠道的对比。",
+            "vocabulary": [
+                {
+                    "da": "være uenig med",
+                    "zh": "与某人意见不同",
+                    "note": "固定介词 `med`；对具体观点可用 `uenig i`。"
+                },
+                {
+                    "da": "opfatte noget som",
+                    "zh": "将某事视为……",
+                    "note": "被动形式 `blive opfattet som`。"
+                },
+                {
+                    "da": "illoyal",
+                    "zh": "不忠诚的、缺乏组织忠诚的",
+                    "note": "修饰不定式行为时使用中性形式 `illoyalt`。"
+                },
+                {
+                    "da": "så længe",
+                    "zh": "只要；在……期间",
+                    "note": "本句表示条件，不是时间长度。"
+                }
+            ],
+            "nuance": "作者强调建设性异议和背后抱怨之间的区别。直接表达不同意见可以是负责任的合作方式，但如果只向同事抱怨而不与相关负责人沟通，问题可能无法解决。`så længe` 将对异议的接受明确建立在坦诚沟通的条件上。",
+            "transfer": [
+                "Jeg er uenig med min chef i denne beslutning.",
+                "Det er i orden at være uenig, så længe man siger det åbent.",
+                "Jeg vil hellere tage diskussionen direkte med dig."
+            ],
+            "pitfall": "`uenig med nogen` 指与某人不同意，`uenig i noget` 指不赞同某个观点。`så længe` 在此为只要，不是只表示持续多长时间。"
+        },
+        {
+            "id": "U06-C046",
+            "zh": "工作反馈通常会给得比较直接，但语气保持平和，而且最好针对任务本身，而不是针对个人。",
+            "grammar": "`Feedback bliver ofte givet` 使用 `blive` 被动。`ret direkte` 表示相当直接。`i et roligt toneleje` 描述表达方式。后半句 `den handler helst om opgaven frem for om personen` 使用 `handle om` 和 `frem for` 说明反馈焦点。",
+            "vocabulary": [
+                {
+                    "da": "feedback",
+                    "zh": "反馈、评价意见",
+                    "note": "英语借词，在丹麦职场广泛使用。"
+                },
+                {
+                    "da": "et toneleje",
+                    "zh": "语调、说话的声音状态",
+                    "note": "如 `i et roligt toneleje`。"
+                },
+                {
+                    "da": "handle om",
+                    "zh": "涉及、针对、围绕",
+                    "note": "用于确定讨论的焦点。"
+                },
+                {
+                    "da": "frem for",
+                    "zh": "而不是、优先于",
+                    "note": "适合书面与正式口语。"
+                },
+                {
+                    "da": "helst",
+                    "zh": "最好、倾向于",
+                    "note": "表达偏好的理想做法。"
+                }
+            ],
+            "nuance": "这句区分了内容直接与语气攻击性。丹麦职场中的直接反馈并不意味着可以侮辱对方；相反，`i et roligt toneleje` 和 `om opgaven frem for om personen` 强调把评价限定在工作行为、方法或结果上。",
+            "transfer": [
+                "Feedback bør handle om opgaven frem for personen.",
+                "Jeg vil gerne give dig noget konkret feedback.",
+                "Vi kan godt være direkte og samtidig holde en rolig tone."
+            ],
+            "pitfall": "`direkte` 不等于粗鲁。`frem for` 表示与另一选项相比更优先，而不是在时间上发生在某物之前。"
+        },
+        {
+            "id": "U06-C047",
+            "zh": "此外，许多工作场所每年还会安排一次员工发展面谈，日常简称 MUS 面谈。员工和主管在面谈中讨论工作任务、工作状态及个人发展。",
+            "grammar": "`holder desuden en årlig …` 使用动词 `holde` 表示举行某种正式活动。破折号中的 `i daglig tale` 引出日常简称。`hvor medarbejder og leder taler om …` 是关系从句，说明面谈的内容。",
+            "vocabulary": [
+                {
+                    "da": "en medarbejderudviklingssamtale",
+                    "zh": "员工发展面谈",
+                    "note": "缩写为 MUS。"
+                },
+                {
+                    "da": "en MUS-samtale",
+                    "zh": "MUS 面谈、年度员工发展谈话",
+                    "note": "职场常用名称。"
+                },
+                {
+                    "da": "i daglig tale",
+                    "zh": "日常说法中、平常称为",
+                    "note": "用于引出简称或口语称呼。"
+                },
+                {
+                    "da": "trivsel",
+                    "zh": "身心状态、工作幸福感、工作适应情况",
+                    "note": "常用于员工体验与工作环境讨论。"
+                },
+                {
+                    "da": "udvikling",
+                    "zh": "发展、成长",
+                    "note": "此处主要指职业和能力发展。"
+                }
+            ],
+            "nuance": "MUS 面谈并不仅是工作绩效评价，也通常包含员工发展、任务安排和工作状态等话题。`trivsel` 是丹麦职场和公共讨论中的重要词汇，比单纯的开心更广泛，涉及是否能够在环境中良好工作与生活。",
+            "transfer": [
+                "Vi holder MUS-samtale én gang om året.",
+                "Jeg vil gerne tale om min faglige udvikling.",
+                "Hvordan oplever du din trivsel på arbejdspladsen?"
+            ],
+            "pitfall": "`MUS` 已经包含 `samtale` 的含义，因此 `MUS-samtale` 从字面看存在重复，但它是实际使用中的常见表达。`trivsel` 不只是快乐。"
+        },
+        {
+            "id": "U06-C048",
+            "zh": "这种面谈在双方都提前作好准备，并且真正跟进落实谈话中达成的约定时，效果最好。",
+            "grammar": "`Den fungerer bedst` 中 `den` 回指员工发展面谈。两个并列的 `når` 从句说明有效面谈所需要的条件。`de aftaler, der bliver lavet` 是关系从句加被动结构，`bliver fulgt op` 表示约定得到后续跟进。",
+            "vocabulary": [
+                {
+                    "da": "fungere bedst",
+                    "zh": "效果最好、运行最有效",
+                    "note": "适用于制度、流程和合作方式。"
+                },
+                {
+                    "da": "begge parter",
+                    "zh": "双方",
+                    "note": "正式谈话或协商中常用。"
+                },
+                {
+                    "da": "en aftale",
+                    "zh": "约定、协议",
+                    "note": "可指正式合同，也可指会谈中的具体安排。"
+                },
+                {
+                    "da": "følge op",
+                    "zh": "跟进、后续检查",
+                    "note": "常说 `følge op på noget`；被动句可出现 `blive fulgt op`。"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "真正地、确实",
+                    "note": "强调行动不是只停留在口头。"
+                }
+            ],
+            "nuance": "作者强调正式沟通的价值不在于完成一次谈话，而在于准备充分和后续执行。`faktisk` 是关键：即使会谈气氛良好，如果约定没有落实，发展面谈的价值也会受到影响。",
+            "transfer": [
+                "Samtalen fungerer bedst, når begge parter er forberedte.",
+                "Det er vigtigt at følge op på vores aftaler.",
+                "Vi skal sikre, at aftalerne bliver fulgt op."
+            ],
+            "pitfall": "`følge op på` 是跟进事项，不是简单跟随某人。`blive fulgt op` 强调发生后续跟进行为。"
+        },
+        {
+            "id": "U06-C049",
+            "zh": "压力、职场霸凌以及不合理的过高工作负荷，都属于心理工作环境问题的范畴；雇主有责任采取措施，防止这些问题发生。",
+            "grammar": "`Stress, mobning og … arbejdspres` 是并列主语。`falde ind under` 表示被归入某个类别。后半句 `det er arbejdsgiverens ansvar at …` 使用形式主语结构，真正的责任内容由不定式短语 `at forebygge dem` 表达。",
+            "vocabulary": [
+                {
+                    "da": "falde ind under",
+                    "zh": "属于……范畴、归入……类别",
+                    "note": "法律、行政及专业分类中常见。"
+                },
+                {
+                    "da": "det psykiske arbejdsmiljø",
+                    "zh": "心理社会工作环境",
+                    "note": "涉及工作中的心理压力、组织关系和相关风险。"
+                },
+                {
+                    "da": "mobning",
+                    "zh": "霸凌、欺凌",
+                    "note": "在职场语境中指工作场所的霸凌。"
+                },
+                {
+                    "da": "et arbejdspres",
+                    "zh": "工作压力、工作负荷",
+                    "note": "可说 `et højt arbejdspres`。"
+                },
+                {
+                    "da": "forebygge",
+                    "zh": "预防、防止",
+                    "note": "可用于事故、疾病和职场风险。"
+                }
+            ],
+            "nuance": "本句把心理工作环境提升到雇主责任的层面，而不只是员工个人是否足够坚强的问题。`urimeligt højt` 表明作者特别指向不合理、过高的工作要求，并不把所有有压力的任务都等同于不良工作环境。具体法律义务仍需依据适用规则判断。",
+            "transfer": [
+                "Stress og mobning hører til det psykiske arbejdsmiljø.",
+                "Arbejdsgiveren har ansvar for at forebygge arbejdsmiljøproblemer.",
+                "Et urimeligt arbejdspres skal tages alvorligt."
+            ],
+            "pitfall": "`psykisk arbejdsmiljø` 不能简单理解为员工有没有精神疾病，而是组织性和社会心理层面的工作环境。`falde ind under` 是归属分类，不是实际跌落。"
+        },
+        {
+            "id": "U06-C050",
+            "zh": "长期压力可能造成严重后果，其中也包括与更高病假率之间的关联。",
+            "grammar": "`kan have store konsekvenser` 使用情态动词 `kan` 表示可能产生严重影响。`hænge sammen med` 表示关联。`blandt andet` 表示举出多种后果中的部分例子。",
+            "vocabulary": [
+                {
+                    "da": "langvarig stress",
+                    "zh": "长期持续的压力",
+                    "note": "强调持续时间，而不是一次短暂的紧张。"
+                },
+                {
+                    "da": "have store konsekvenser",
+                    "zh": "产生重大后果",
+                    "note": "正式论述中常见。"
+                },
+                {
+                    "da": "hænge sammen med",
+                    "zh": "与……存在关联",
+                    "note": "不自动等于证明直接因果关系。"
+                },
+                {
+                    "da": "sygefravær",
+                    "zh": "病假缺勤、因病缺勤",
+                    "note": "用于工作场所统计。"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括、例如",
+                    "note": "说明列举并不完整。"
+                }
+            ],
+            "nuance": "这一句采用比较谨慎的健康和组织研究表述。`kan` 表示可能产生后果，`hænger sammen med` 表示关联，而不把所有病假都归因于压力。`blandt andet` 也说明病假只是可能影响之一。",
+            "transfer": [
+                "Langvarig stress kan have alvorlige konsekvenser.",
+                "Højt arbejdspres hænger blandt andet sammen med øget sygefravær.",
+                "Der kan være en sammenhæng mellem stress og helbred."
+            ],
+            "pitfall": "`hænge sammen med` 表示关联，不自动等于 `forårsage` 造成。`sygefravær` 是因病缺勤，不是普通年假。"
+        },
+        {
+            "id": "U06-C051",
+            "zh": "在压力之下，即使是能力很强的员工，也可能开始睡不好觉、忘记约定，甚至因为一点小事就突然发火。",
+            "grammar": "`Under pres` 前置后形成 `kan selv dygtige medarbejdere` 的 V2 语序。`selv` 在这里表示即使，强调出人意料的情况。`begynde at` 后连接三个并列不定式动作。`fare op over` 是情绪反应的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "under pres",
+                    "zh": "承受压力时、在压力下",
+                    "note": "可用于工作、考试和紧急情况。"
+                },
+                {
+                    "da": "sove dårligt",
+                    "zh": "睡眠不好",
+                    "note": "可表示睡眠质量下降。"
+                },
+                {
+                    "da": "glemme aftaler",
+                    "zh": "忘记约定或安排",
+                    "note": "既可用于工作，也可用于私人生活。"
+                },
+                {
+                    "da": "fare op",
+                    "zh": "突然发火、情绪猛然爆发",
+                    "note": "在此为情绪反应。"
+                },
+                {
+                    "da": "småting",
+                    "zh": "小事、琐事",
+                    "note": "通常使用复数。"
+                }
+            ],
+            "nuance": "作者强调压力反应并不是能力差的员工才会出现。`selv dygtige medarbejdere` 突出即使高能力员工也可能受到影响。睡眠、记忆和情绪三个例子，使心理压力的表现更加具体。",
+            "transfer": [
+                "Under pres kan selv erfarne medarbejdere begå fejl.",
+                "Jeg sover dårligt, når jeg har for meget at se til.",
+                "Han begyndte at fare op over småting."
+            ],
+            "pitfall": "`fare op` 在这里是突然发火，不是实际向上冲。`selv` 在本句是即使，不是反身代词自己。"
+        },
+        {
+            "id": "U06-C052",
+            "zh": "优秀的主管会对这类迹象保持警觉，但应对这些问题的责任不能只落在主管一个人身上。",
+            "grammar": "`være på vagt over for` 是固定表达，表示对某类风险保持警惕。后半句 `ansvaret kan ikke ligge hos lederen alene` 使用情态动词与抽象位置表达，说明责任分配不能只集中于一人。",
+            "vocabulary": [
+                {
+                    "da": "være på vagt over for",
+                    "zh": "对……保持警惕、留意",
+                    "note": "适用于风险、异常迹象和不良趋势。"
+                },
+                {
+                    "da": "den slags tegn",
+                    "zh": "这类迹象、这些信号",
+                    "note": "`den slags` 表示某一类。"
+                },
+                {
+                    "da": "ansvaret ligger hos",
+                    "zh": "责任由……承担",
+                    "note": "行政和职场语境中的高频表达。"
+                },
+                {
+                    "da": "alene",
+                    "zh": "仅仅、独自",
+                    "note": "这里限定责任不能完全由领导一人承担。"
+                }
+            ],
+            "nuance": "句子同时强调领导应观察员工压力迹象，以及工作环境改善不能只靠单一主管。`på vagt over for` 并不意味着要监视员工的私人生活，而是关注工作环境中可能出现的风险信号。",
+            "transfer": [
+                "Lederen bør være på vagt over for tegn på stress.",
+                "Ansvaret kan ikke ligge hos én person alene.",
+                "Vi har alle en rolle i at skabe et godt arbejdsmiljø."
+            ],
+            "pitfall": "`på vagt` 不一定指军事站岗，在这里是保持警觉。`ligge hos` 是责任归属的抽象表达。"
+        },
+        {
+            "id": "U06-C053",
+            "zh": "越早明确说出自己承受不了，越容易及时采取措施，例如重新调整任务优先级，或者推迟某项截止日期。",
+            "grammar": "`Jo tidligere …, desto lettere …` 是比例比较结构，表示一个变量变化会伴随另一个变量变化。`sige fra` 表示提出反对、明确拒绝或表明界限。`gøre noget ved det` 表示采取实际措施。`ved at` 引出具体方法，后接两个并列不定式。",
+            "vocabulary": [
+                {
+                    "da": "sige fra",
+                    "zh": "明确拒绝、提出异议、划定界限",
+                    "note": "面对过高要求时尤其有用。"
+                },
+                {
+                    "da": "gøre noget ved",
+                    "zh": "采取措施处理、设法改善",
+                    "note": "与单纯讨论问题不同。"
+                },
+                {
+                    "da": "prioritere opgaverne om",
+                    "zh": "重新调整任务优先级",
+                    "note": "`prioritere om` 强调重新排序。"
+                },
+                {
+                    "da": "udskyde en deadline",
+                    "zh": "推迟截止日期",
+                    "note": "`udskyde` 是延期、推迟。"
+                },
+                {
+                    "da": "jo … desto …",
+                    "zh": "越……越……",
+                    "note": "也常见 `jo … jo …`。"
+                }
+            ],
+            "nuance": "这句话不仅建议员工及时表达压力，也给出具体的组织应对方式。`sige fra` 比普通的 `klage` 更强调明确表示自己的承受界限；后面的重新排序任务和延期则说明有效回应应落实到工作安排的调整。",
+            "transfer": [
+                "Jo tidligere vi opdager problemet, desto lettere er det at løse.",
+                "Jeg bliver nødt til at sige fra, hvis arbejdspresset bliver for højt.",
+                "Vi kan prioritere opgaverne om eller udskyde fristen."
+            ],
+            "pitfall": "`sige fra` 不是单纯说出某件事，而是提出界限或拒绝。`prioritere om` 不等于取消任务，而是重新安排优先级。"
+        },
+        {
+            "id": "U06-C054",
+            "zh": "对许多人而言，优秀的同事、有意义的工作，以及自主安排工作的自由，其重要性至少不亚于薪水。",
+            "grammar": "`For mange` 是前置的视角状语，表示对许多人来说。主句限定动词 `betyder` 紧随其后，复合主语由三个并列成分组成。`frihed til selv at tilrettelægge arbejdet` 使用名词加不定式结构。`mindst lige så meget som` 表示至少同样重要。",
+            "vocabulary": [
+                {
+                    "da": "meningsfuld",
+                    "zh": "有意义的、有价值感的",
+                    "note": "常用于工作、任务和生活目标。"
+                },
+                {
+                    "da": "frihed til at",
+                    "zh": "做某事的自由或自主权",
+                    "note": "可用于制度和个人安排。"
+                },
+                {
+                    "da": "tilrettelægge",
+                    "zh": "规划、安排、组织",
+                    "note": "比简单的 `planlægge` 更强调具体组织工作流程。"
+                },
+                {
+                    "da": "mindst lige så meget som",
+                    "zh": "至少与……同样重要",
+                    "note": "强调重要性不低于比较对象。"
+                },
+                {
+                    "da": "betyde meget",
+                    "zh": "具有重要意义",
+                    "note": "可用于抽象价值和个人偏好。"
+                }
+            ],
+            "nuance": "作者并没有说工资不重要，而是强调工作吸引力还来自同事关系、工作价值感与自主权。`mindst lige så meget som` 精确表达不低于薪水的重要性，避免简单的非此即彼。",
+            "transfer": [
+                "For mig betyder gode kolleger mindst lige så meget som lønnen.",
+                "Jeg sætter pris på friheden til selv at tilrettelægge mit arbejde.",
+                "Meningsfulde opgaver er vigtige for min arbejdsglæde."
+            ],
+            "pitfall": "`For mange` 在句首表示对很多人而言，不是因为很多人。`mindst lige så meget` 是至少同样重要，不等于远远更加重要。"
+        },
+        {
+            "id": "U06-C055",
+            "zh": "如今越来越多的人每周有一部分时间在家工作，因此弄清楚办公室究竟应该提供什么功能，变得更加重要了。",
+            "grammar": "`Nu hvor` 引导表示当前新情况已经成立的原因或时间背景从句。整个从句前置后，主句使用 `er det blevet` 的 V2 语序。`vigtigere at finde ud af` 说明越来越重要的任务，后接间接疑问从句 `hvad kontoret egentlig skal kunne`。",
+            "vocabulary": [
+                {
+                    "da": "nu hvor",
+                    "zh": "既然现在……、如今由于……",
+                    "note": "常用于新情况造成的变化。"
+                },
+                {
+                    "da": "en del af ugen",
+                    "zh": "每周的一部分时间",
+                    "note": "表示混合办公中的部分工作日。"
+                },
+                {
+                    "da": "finde ud af",
+                    "zh": "弄清楚、查明、想明白",
+                    "note": "固定表达。"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "究竟、真正地",
+                    "note": "这里强调对办公室功能的根本性思考。"
+                },
+                {
+                    "da": "blive vigtigere",
+                    "zh": "变得更加重要",
+                    "note": "表示重要性的变化。"
+                }
+            ],
+            "nuance": "文章从个人偏好转向办公室的组织功能：当部分工作已可在家完成时，办公室就需要体现线下协作的独特价值。`hvad kontoret egentlig skal kunne` 比简单问办公室在哪里或面积多大更深一层，是对其功能定位的追问。",
+            "transfer": [
+                "Nu hvor flere arbejder hjemme, må vi gentænke kontorets rolle.",
+                "Vi skal finde ud af, hvad vi bruger kontoret til.",
+                "Det er blevet vigtigere at skabe gode rammer for samarbejde."
+            ],
+            "pitfall": "`nu hvor` 是既然现在的意思，不是简单把 `nu` 和地点疑问词 `hvor` 分开理解。`finde ud af` 需要整体记忆。"
+        },
+        {
+            "id": "U06-C056",
+            "zh": "线上会议也形成了自己的一套规则：不发言时把麦克风静音，最好保持摄像头开启，这样其他人才知道你是否仍在认真参与会议。",
+            "grammar": "`har fået deres egne regler` 使用现在完成时表示线上会议逐渐形成了特定规范。冒号后以泛指主语 `man` 说明具体规则。`slå mikrofonen fra` 与 `have kameraet tændt` 分别表示执行动作和保持状态。`så de andre kan se, om man er med` 是目的结果从句，内部嵌套间接是非问句。",
+            "vocabulary": [
+                {
+                    "da": "slå mikrofonen fra",
+                    "zh": "关闭麦克风、静音",
+                    "note": "与 `slå mikrofonen til` 相对。"
+                },
+                {
+                    "da": "have kameraet tændt",
+                    "zh": "保持摄像头开启",
+                    "note": "`tændt` 表示开启状态。"
+                },
+                {
+                    "da": "være med",
+                    "zh": "参与、跟得上、在场",
+                    "note": "在线上会议中可表示仍在参与或关注讨论。"
+                },
+                {
+                    "da": "helst",
+                    "zh": "最好、尽可能",
+                    "note": "表达偏好的做法，而非无条件强制。"
+                }
+            ],
+            "nuance": "作者通过静音和摄像头说明远程协作也会产生自己的礼仪。`helst` 很重要，它将摄像头开启描述为偏好的做法，而不是毫无例外的命令。实际线上会议还可能受到隐私、网络条件和具体单位规则影响。",
+            "transfer": [
+                "Husk at slå mikrofonen fra, når du ikke taler.",
+                "Vi har helst kameraet tændt under mødet.",
+                "Kan I se, om jeg stadig er med?"
+            ],
+            "pitfall": "`slå fra` 和 `slå til` 是设备关闭与开启的常见表达。`være med` 不一定指物理上同处一个空间，也可以指线上参与。"
+        },
+        {
+            "id": "U06-C057",
+            "zh": "如果必须提前离开线上会议，最好主动说一声，而不是直接从屏幕上消失。",
+            "grammar": "`Og er man nødt til at gå tidligere` 是省略 `hvis` 的条件倒装结构。`være nødt til at` 表示不得不做某事。主句 `er det god stil at …` 使用形式主语评价某种行为。`i stedet for bare at` 引出不希望采用的替代行为。",
+            "vocabulary": [
+                {
+                    "da": "være nødt til at",
+                    "zh": "不得不、必须",
+                    "note": "固定结构。"
+                },
+                {
+                    "da": "gå tidligere",
+                    "zh": "提前离开",
+                    "note": "可用于会议和活动。"
+                },
+                {
+                    "da": "god stil",
+                    "zh": "得体的做法、良好的礼仪",
+                    "note": "口语中常用于评价行为是否合适。"
+                },
+                {
+                    "da": "forsvinde fra skærmen",
+                    "zh": "从屏幕上消失、突然退出线上会议",
+                    "note": "在此具有轻微幽默和批评意味。"
+                }
+            ],
+            "nuance": "作者把传统会议中的基本尊重原则延伸到线上环境。提前离开本身不一定失礼，关键是给其他参会者明确说明。`bare at forsvinde` 暗示不说明就退出会给协作造成困惑。",
+            "transfer": [
+                "Er du nødt til at gå før tid, så sig det gerne.",
+                "Det er god stil at give besked, før man forlader mødet.",
+                "Jeg bliver desværre nødt til at gå lidt tidligere i dag."
+            ],
+            "pitfall": "`Er man nødt til …` 在本句是省略 `hvis` 的条件结构，不是普通疑问句。`god stil` 评价行为礼仪，不只是衣着风格。"
+        },
+        {
+            "id": "U06-C058",
+            "zh": "到了六月，大家的收件箱里又出现了一份新的会议纪要：第二项议题——每周固定两天到办公室的安排继续实行。全体达成一致。",
+            "grammar": "`I juni` 前置，引出 `ligger der et nyt referat` 的 V2 存在结构。引语采用简洁的纪要风格。`Ordningen … fortsætter` 是陈述制度继续实行的主句。`Der var enighed` 是存在结构，表示达成或存在一致意见。",
+            "vocabulary": [
+                {
+                    "da": "fortsætte",
+                    "zh": "继续、延续",
+                    "note": "可用于制度、项目和活动。"
+                },
+                {
+                    "da": "der var enighed",
+                    "zh": "各方意见一致、达成共识",
+                    "note": "会议记录常见表达。"
+                },
+                {
+                    "da": "en ordning",
+                    "zh": "安排、方案、制度",
+                    "note": "这里指已经试行的固定到岗安排。"
+                },
+                {
+                    "da": "et nyt referat",
+                    "zh": "一份新的会议纪要",
+                    "note": "用于报告后续会议的决定。"
+                }
+            ],
+            "nuance": "这句话与开篇形成首尾呼应。最初大家只能接受一个试行方案，到了六月的评估会议，纪要中已经明确写出一致意见。作者通过正式的简短纪要展示态度变化，而没有冗长解释整个评估过程。",
+            "transfer": [
+                "Ordningen fortsætter efter prøveperioden.",
+                "Der var enighed om at fortsætte.",
+                "Beslutningen fremgår af det nye referat."
+            ],
+            "pitfall": "`enighed` 是意见一致，`enig` 是表示同意的形容词。会议纪要中的 `fortsætter` 表示已经决定继续实行，不是仅仅提出延续建议。"
+        },
+        {
+            "id": "U06-C059",
+            "zh": "这一次，延斯已经不只是勉强能够接受这个决定了。",
+            "grammar": "`Denne gang` 前置后形成 `kunne Jens` 的 V2 语序。`ikke bare` 否定仅限于某种程度的解释，为下一句更积极的态度作铺垫。`leve med beslutningen` 回指前面已经反复出现的核心概念。",
+            "vocabulary": [
+                {
+                    "da": "denne gang",
+                    "zh": "这一次",
+                    "note": "与前一次情况形成对照。"
+                },
+                {
+                    "da": "ikke bare",
+                    "zh": "不只是、不仅仅",
+                    "note": "经常预示后文还会补充更强的判断。"
+                },
+                {
+                    "da": "leve med en beslutning",
+                    "zh": "能够接受一项决定",
+                    "note": "强调容忍或接受，并不必然表示赞同。"
+                }
+            ],
+            "nuance": "这是文章结尾的修辞铺垫。`ikke bare` 并不是说 Jens 突然无法接受制度，而是表示他的态度已经超出了单纯接受的程度。作者利用读者对前面 `leve med` 的记忆制造期待。",
+            "transfer": [
+                "Denne gang var jeg ikke bare tilfreds med resultatet.",
+                "Han kunne ikke bare acceptere løsningen; han var også glad for den.",
+                "Vi er nået længere end til blot at acceptere beslutningen."
+            ],
+            "pitfall": "必须将 `ikke bare` 作为整体理解。它不是直接否定 `kunne leve med` 的能力，而是限定不只是能够接受这一层次。"
+        },
+        {
+            "id": "U06-C060",
+            "zh": "他是真正赞同这个决定了。",
+            "grammar": "`Han var enig` 使用 `være enig` 表示意见一致的状态。这里省略了具体的赞同对象，因为前文已经明确是固定每周两天到办公室的安排。",
+            "vocabulary": [
+                {
+                    "da": "være enig",
+                    "zh": "赞同、意见一致",
+                    "note": "常用搭配：`enig i noget`、`enig med nogen`。"
+                }
+            ],
+            "nuance": "这是全文简短而有力的收束。故事从 Jens 起初反对三天方案，到接受两天试行，再到亲自体验后真正赞同。它不仅再次区分 `leve med` 与 `være enig`，也说明经过讨论、试行和评估，一项共同决定有可能从可以接受变成真正得到认可。",
+            "transfer": [
+                "Nu er jeg faktisk enig i beslutningen.",
+                "Efter prøveperioden var vi alle enige.",
+                "Jeg er enig i, at vi bør fortsætte."
+            ],
+            "pitfall": "`være enig` 表示赞同，与 `kunne leve med` 的最低限度接受不同。对方案说 `enig i`，对人说 `enig med`。"
+        }
+    ]
+}

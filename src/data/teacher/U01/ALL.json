@@ -1,0 +1,2568 @@
+{
+    "schema_version": 1,
+    "unit": "U01",
+    "part": "ALL",
+    "source_fingerprint": "U01-ALL-e2a69315bd44",
+    "sentences": [
+        {
+            "id": "U01-C001",
+            "zh": "闹钟在六点四十五分响起，几乎就在同一瞬间，两岁的埃米尔爬上了父母的双人床。",
+            "grammar": "两个并列主句由 `og` 连接。第二个分句以时间状语 `i samme øjeblik` 开头，限定动词 `kravler` 随即出现，主语 `toårige Emil` 后置，体现 V2 语序。`op i dobbeltsengen` 表示朝床上爬的方向，`op` 强调向上的移动。",
+            "vocabulary": [
+                {
+                    "da": "et vækkeur",
+                    "zh": "闹钟",
+                    "note": "复数 `vækkeure`；`vækkeuret ringer` 表示闹钟响了。"
+                },
+                {
+                    "da": "kvart i syv",
+                    "zh": "六点四十五分",
+                    "note": "`kvart i` 表示距离下一个整点还差十五分钟。"
+                },
+                {
+                    "da": "i samme øjeblik",
+                    "zh": "就在同一瞬间",
+                    "note": "常用于叙事，强调两个事件几乎同时发生。"
+                },
+                {
+                    "da": "kravle op i",
+                    "zh": "爬上、爬进",
+                    "note": "`kravle` 表示爬行；介词 `i` 可用于进入床这一空间。"
+                },
+                {
+                    "da": "en dobbeltseng",
+                    "zh": "双人床",
+                    "note": "复合名词：`dobbelt` + `seng`。"
+                }
+            ],
+            "nuance": "用现在时讲述具体发生的家庭生活场景，是丹麦语常见的生动叙事手法。`toårige Emil` 中的年龄描述紧贴人名，自然地交代孩子的年龄，不必另写一个关系从句。闹钟和孩子同时出现，让读者立即感受到这个家庭早晨的忙乱。",
+            "transfer": [
+                "I samme øjeblik + 动词 + 主语 …",
+                "Klokken kvart i X + 动词 + 主语 …",
+                "Barnet kravler op i sengen."
+            ],
+            "pitfall": "`kvart i syv` 是 6:45，而不是 7:15；7:15 应说 `kvart over syv`。`toårige` 修饰人名时用 -e 形式，不要写成 `toårig Emil`。"
+        },
+        {
+            "id": "U01-C002",
+            "zh": "玛雅刚来得及闪过一个念头：自己其实半小时前就该起床了。",
+            "grammar": "主句骨架是 `Maja når lige at tænke`，后接由 `at` 引导的宾语从句。`nå at + 不定式` 表示赶得及做某事。`burde være stået op` 由情态动词过去式 `burde` 加完成式不定式 `være stået op` 构成，表示对过去未实现行为的反省或遗憾。",
+            "vocabulary": [
+                {
+                    "da": "nå at gøre noget",
+                    "zh": "来得及做某事",
+                    "note": "过去式 `nåede`；可与 `lige` 或 `ikke` 搭配。"
+                },
+                {
+                    "da": "stå op",
+                    "zh": "起床",
+                    "note": "过去式 `stod op`，完成式 `er stået op`。"
+                },
+                {
+                    "da": "burde have gjort noget",
+                    "zh": "本来应该做某事",
+                    "note": "用于一般带 `have` 构成完成式的动词；`stå op` 在这里使用 `være stået op`。"
+                },
+                {
+                    "da": "for en halv time siden",
+                    "zh": "半小时前",
+                    "note": "`for … siden` 表示距现在或叙事参照时间多久以前。"
+                }
+            ],
+            "nuance": "`lige` 让整个动作显得短暂：玛雅甚至没有真正开始思考，就已经被早晨的事情打断。`burde være stået op` 不是客观规定，而是带着一点自责的内心独白。这样的表达非常适合叙述计划未能实现的日常情境。",
+            "transfer": [
+                "Jeg nåede lige at tænke, at …",
+                "Jeg burde være stået op tidligere.",
+                "Jeg burde have gjort det for længe siden."
+            ],
+            "pitfall": "`burde stå op` 通常表示现在或将来应该起床；`burde være stået op` 才明确表达此前就该起床。不要把 `for en halv time siden` 误解为持续半小时；持续时间通常用 `i en halv time`。"
+        },
+        {
+            "id": "U01-C003",
+            "zh": "约纳斯正在厨房准备午餐便当，收音机在背景里播放着节目，而七岁的伊达正四处寻找自己的另一只鞋。",
+            "grammar": "三个同时进行的动作构成画面。主句 `Jonas smører madpakker` 后接由 `mens` 引导的时间从句，再以 `og` 连接另一个主句。`leder efter` 是不可拆开的动词介词搭配。丹麦语通常直接用现在时描写正在发生的动作，无须像英语一样使用进行式。",
+            "vocabulary": [
+                {
+                    "da": "smøre madpakker",
+                    "zh": "准备盒装午餐、做午餐三明治",
+                    "note": "`smøre` 原义为涂抹，这里指准备通常包含涂抹面包等步骤的丹麦式午餐。"
+                },
+                {
+                    "da": "en madpakke",
+                    "zh": "自带午餐、午餐便当",
+                    "note": "学校和工作场景中的高频文化词汇。"
+                },
+                {
+                    "da": "køre i baggrunden",
+                    "zh": "在背景中持续播放或运行",
+                    "note": "用于广播、电视、音乐或程序。"
+                },
+                {
+                    "da": "lede efter",
+                    "zh": "寻找",
+                    "note": "固定介词 `efter`；`leder efter sin sko`。"
+                },
+                {
+                    "da": "syvårig",
+                    "zh": "七岁的",
+                    "note": "修饰人名时可用 `syvårige Ida`。"
+                }
+            ],
+            "nuance": "叙事没有说一家人很忙，而是通过三个并行动作让读者看到忙碌。`radioen kører i baggrunden` 比单纯的 `radioen er tændt` 更强调广播作为环境背景持续存在。`sin anden sko` 表示伊达自己的另一只鞋，暗示一只已经找到了。",
+            "transfer": [
+                "Jeg laver X, mens Y gør Z.",
+                "Radioen kører i baggrunden.",
+                "Jeg leder efter min anden sko."
+            ],
+            "pitfall": "`lede efter` 是寻找，不能写成 `lede på`。`sin` 指向本分句的主语 Ida；如果使用 `hendes`，通常会理解为另一个女性的鞋。"
+        },
+        {
+            "id": "U01-C004",
+            "zh": "伊达，你找到鞋了吗？",
+            "grammar": "完成时疑问句采用 `Har + 主语 + 过去分词` 的语序。`har fundet` 关注寻找是否已有结果，而不只是过去是否进行过寻找。",
+            "vocabulary": [
+                {
+                    "da": "finde",
+                    "zh": "找到、发现",
+                    "note": "不规则变化：`finder – fandt – har fundet`。"
+                }
+            ],
+            "nuance": "父母催促孩子出门时非常自然的简短问法。这里问的是结果，因此 `Har du fundet …?` 比 `Leder du efter …?` 更符合当前情境。",
+            "transfer": [
+                "Har du fundet dine nøgler?",
+                "Har du fundet det, du leder efter?"
+            ],
+            "pitfall": "`finde` 强调找到；`lede efter` 强调寻找的过程。两者不应混用。"
+        },
+        {
+            "id": "U01-C005",
+            "zh": "没有！",
+            "grammar": "",
+            "vocabulary": [],
+            "nuance": "单独一个 `Nej!` 就能表达孩子尚未找到鞋的回答。感叹号使语气显得急切，也可能带一点不耐烦；具体情绪仍取决于说话方式。",
+            "transfer": [],
+            "pitfall": ""
+        },
+        {
+            "id": "U01-C006",
+            "zh": "你有没有去沙发底下找过？",
+            "grammar": "`Har du kigget …?` 使用现在完成时询问某项检查是否已经做过。`under sofaen` 是地点状语，表示检查的范围。",
+            "vocabulary": [
+                {
+                    "da": "kigge under",
+                    "zh": "往……下面看、查看……底下",
+                    "note": "`kigge` 强调有意识地看或查看。"
+                },
+                {
+                    "da": "en sofa",
+                    "zh": "沙发",
+                    "note": "定指形式 `sofaen`。"
+                }
+            ],
+            "nuance": "比起直接命令孩子去找，问 `Har du kigget …?` 是一种很自然的提醒方式：先确认对方是否检查过某处。",
+            "transfer": [
+                "Har du kigget under sengen?",
+                "Har du kigget i tasken?"
+            ],
+            "pitfall": "这里说 `under sofaen`，不是 `nedenunder sofaen`。`under` 可以直接作介词连接名词，`nedenunder` 通常作副词。"
+        },
+        {
+            "id": "U01-C007",
+            "zh": "我找过了！……哎，不对，原来在这儿。",
+            "grammar": "`Det har jeg` 是省略式回答，`det` 指代前面提到的查看沙发底下这件事，不必重复整个动作。`Der er den` 是地点副词 `der` 前置的主句，因此谓语动词 `er` 在主语 `den` 前。",
+            "vocabulary": [
+                {
+                    "da": "Nå nej",
+                    "zh": "哦，不对；哎呀，不是",
+                    "note": "发现自己刚才的判断有误时使用。"
+                },
+                {
+                    "da": "Der er den!",
+                    "zh": "在那儿呢！找到它了！",
+                    "note": "发现或指认物品时的自然口语。"
+                }
+            ],
+            "nuance": "前半句急着坚持自己已经找过，后半句马上自我纠正，表现孩子说话的即时性。`Nå` 在此标记突然意识到新的情况，`nej` 则推翻前面的回答。这种口语转折比正式解释自己弄错了更生动。",
+            "transfer": [
+                "Det har jeg allerede gjort.",
+                "Nå nej, der er den jo!",
+                "Der er mine nøgler!"
+            ],
+            "pitfall": "不要将 `Der er den` 一律理解为英语 `There is one` 那样的存在句。这里的 `der` 具有指出位置的功能，`den` 指向已知的那只鞋。"
+        },
+        {
+            "id": "U01-C008",
+            "zh": "别忘了带雨衣雨裤。今天下午要下雨。",
+            "grammar": "`Husk + 名词` 是祈使结构，表示别忘了带上某物。`Det skal regne` 中的 `skal` 用于转述天气预报或对未来天气的预期，并非义务含义。",
+            "vocabulary": [
+                {
+                    "da": "regntøj",
+                    "zh": "雨具服装、雨衣雨裤",
+                    "note": "`et regntøj` 可指一套雨衣雨裤；日常常用不带冠词的集合性用法。"
+                },
+                {
+                    "da": "i eftermiddag",
+                    "zh": "今天下午",
+                    "note": "注意与 `om eftermiddagen` 的习惯性时间含义区别。"
+                }
+            ],
+            "nuance": "`Husk regntøjet` 是家庭日常中典型的简短提醒。Jonas 没有展开解释，只补一句天气预测。`Det skal regne` 是自然的预测说法，但并不意味着下雨已经确定发生。",
+            "transfer": [
+                "Husk paraplyen.",
+                "Det skal regne senere.",
+                "Husk at tage regntøj med."
+            ],
+            "pitfall": "`regntøj` 不专指一件雨衣，可以包括整套防雨服装。`skal` 在天气句中不能机械翻译成必须。"
+        },
+        {
+            "id": "U01-C009",
+            "zh": "我就不能不穿吗？求你了。穿着好痒。",
+            "grammar": "`Må jeg ikke nok + 不定式` 是带有恳求色彩的许可问句。`lade være` 表示不做某事，具体省略的是穿雨衣雨裤。`Det klør` 中 `det` 回指造成瘙痒的衣物或穿着感受。",
+            "vocabulary": [
+                {
+                    "da": "må jeg ikke nok …?",
+                    "zh": "我就不能……吗？求你了",
+                    "note": "`nok` 增强恳求意味。"
+                },
+                {
+                    "da": "lade være",
+                    "zh": "不做、作罢、别这样做",
+                    "note": "可接 `med at + 不定式`，也可在上下文明确时单独使用。"
+                },
+                {
+                    "da": "klø",
+                    "zh": "发痒；使人觉得痒",
+                    "note": "现在时 `klør`；如 `Trøjen klør`。"
+                }
+            ],
+            "nuance": "这里的 `ikke` 并不意味着孩子真的想得到否定回答，而是在征求免除要求的许可。`nok` 使请求更像孩子央求父母时的说法。`Det klør` 直接给出不愿穿的理由，口语里无须说得更完整。",
+            "transfer": [
+                "Må jeg ikke nok blive hjemme?",
+                "Kan vi ikke nok lade være?",
+                "Den her trøje klør."
+            ],
+            "pitfall": "`lade være` 不是让某物保持原状，在此表示不做指定的事。`klø` 是发痒，不等于 `gøre ondt` 的疼痛。"
+        },
+        {
+            "id": "U01-C010",
+            "zh": "你昨天自己还说想在外面玩呢。",
+            "grammar": "`sagde` 后接 `at` 宾语从句。`ville lege ude` 中 `ville` 是从过去视角表达当时的愿望或打算。`selv` 修饰主语 `du`，强调这是孩子自己说的。",
+            "vocabulary": [
+                {
+                    "da": "lege ude",
+                    "zh": "在户外玩",
+                    "note": "`ude` 表示在外面，区别于表方向的 `ud`。"
+                },
+                {
+                    "da": "jo selv",
+                    "zh": "明明是自己……",
+                    "note": "组合起来强调对方已知、亲口说过的事实。"
+                }
+            ],
+            "nuance": "`jo` 是关键：父亲把孩子自己昨天说过的话当作双方都知道的依据。整句话带一点温和的反驳或提醒，而不是直接批评孩子不听话。",
+            "transfer": [
+                "Du sagde jo selv, at …",
+                "Du ville jo gerne med i går.",
+                "Det var jo dig selv, der foreslog det."
+            ],
+            "pitfall": "`jo` 不能统一译为当然。在这里它是提醒共同知识、加强论据的语气词。`ude` 与 `ud` 要区分：`lege ude` 是在户外玩，`gå ud` 是走出去。"
+        },
+        {
+            "id": "U01-C011",
+            "zh": "好吧，那就这样吧。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "Okay da",
+                    "zh": "好吧；行吧",
+                    "note": "常表示略带勉强的接受。"
+                }
+            ],
+            "nuance": "句末的 `da` 让答应显得不那么干脆，带一点孩子让步的味道。与单独的 `Okay` 相比，更像是在说虽然我不太愿意，但好吧。",
+            "transfer": [
+                "Okay da, hvis du siger det."
+            ],
+            "pitfall": "`da` 在这里是语气词，不是表示过去时间的连词。"
+        },
+        {
+            "id": "U01-C012",
+            "zh": "我得赶紧走了。我明天一大早要值班，所以明天就由你送孩子，对吧？",
+            "grammar": "`Nu skal jeg løbe` 使用 `skal` 表示现在必须离开；`løbe` 在这里是口语化的赶路说法。`så` 引出结果主句。`det er dig, der afleverer` 是强调句，突出负责送孩子的人是 `dig`。末尾 `ikke?` 请求确认。",
+            "vocabulary": [
+                {
+                    "da": "nu skal jeg løbe",
+                    "zh": "我得赶紧走了",
+                    "note": "常见口语告别表达，不一定真的跑步。"
+                },
+                {
+                    "da": "have vagt",
+                    "zh": "值班、轮班当值",
+                    "note": "用于医疗、服务、安保等工作情境。"
+                },
+                {
+                    "da": "aflevere",
+                    "zh": "送交；送孩子到学校或托育机构",
+                    "note": "家庭语境可省略宾语。"
+                },
+                {
+                    "da": "i morgen tidlig",
+                    "zh": "明天一大早",
+                    "note": "指明天早晨。"
+                }
+            ],
+            "nuance": "`Nu skal jeg løbe` 比正式的 `Jeg er nødt til at gå nu` 更轻松、紧迫。`det er dig, der afleverer` 把责任分工作为重点，而非单纯询问送孩子这项活动是否发生。结尾 `ikke?` 表示双方已有安排，现在只是再核实。",
+            "transfer": [
+                "Nu skal jeg løbe.",
+                "Jeg har vagt i morgen tidlig.",
+                "Det er dig, der tager mødet, ikke?"
+            ],
+            "pitfall": "`aflevere` 不必只译作交付文件，在育儿语境中可以是送孩子。`i morgen tidlig` 是明早，不要和 `i morges` 的今天早上混淆。"
+        },
+        {
+            "id": "U01-C013",
+            "zh": "行行行。你赶紧走吧，不然就赶不上火车了。",
+            "grammar": "`Smut du bare` 是祈使句，显式保留 `du` 以增加口语语气。`ellers` 引出不这样做的后果，后面按主句 V2 语序使用 `når du`。`nå toget` 表示赶上火车。",
+            "vocabulary": [
+                {
+                    "da": "smutte",
+                    "zh": "溜走、赶紧离开",
+                    "note": "非正式口语；过去式 `smuttede`。"
+                },
+                {
+                    "da": "nå toget",
+                    "zh": "赶上火车",
+                    "note": "`nå` 表示及时赶上某个班次或期限。"
+                },
+                {
+                    "da": "ellers",
+                    "zh": "否则、不然",
+                    "note": "可连接条件与后果。"
+                }
+            ],
+            "nuance": "重复的 `Jo, jo` 表示玛雅已经听明白并接受安排。`Smut du bare` 里的 `bare` 有准许、让对方不用顾虑的意味：你尽管去。结合上下文，也可以读出她忙着应付家庭事务时的一点急促。",
+            "transfer": [
+                "Smut du bare.",
+                "Skynd dig, ellers når du ikke toget.",
+                "Vi må gå nu, ellers kommer vi for sent."
+            ],
+            "pitfall": "`nå` 不只是达到目标，也能表示赶得上交通工具。`ellers` 后不能照搬从句语序写成 `ellers du når ikke`。"
+        },
+        {
+            "id": "U01-C014",
+            "zh": "七点半，玛雅骑车出发了：埃米尔坐在货运自行车里，伊达则骑着自己的自行车跟在旁边。",
+            "grammar": "时间状语 `Klokken halv otte` 置于句首，`cykler` 在第二位置。`med Emil i ladcyklen og Ida på sin egen cykel ved siden af` 描述同行者及其位置。`af sted` 与移动动词结合，表示动身。",
+            "vocabulary": [
+                {
+                    "da": "halv otte",
+                    "zh": "七点半",
+                    "note": "丹麦语按下一个整点来表达半点。"
+                },
+                {
+                    "da": "cykle af sted",
+                    "zh": "骑车出发",
+                    "note": "`af sted` 强调开始移动或离开。"
+                },
+                {
+                    "da": "en ladcykel",
+                    "zh": "载货自行车、箱式家庭自行车",
+                    "note": "丹麦家庭常用于接送孩子或运输物品。"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在旁边",
+                    "note": "可单独使用，也可接名词：`ved siden af mig`。"
+                }
+            ],
+            "nuance": "丹麦语用 `med` 自然地补充同行人员，不必为每个人重复一个完整动词。`ladcykel` 具有鲜明的丹麦城市家庭生活色彩。`sin egen cykel` 强调伊达已经能够骑自己的车。",
+            "transfer": [
+                "Klokken halv otte cykler vi af sted.",
+                "Barnet cykler ved siden af mig.",
+                "Jeg tager børnene med i ladcyklen."
+            ],
+            "pitfall": "`halv otte` 是 7:30，不能按英语理解为 8:30。`sin egen` 表示与本分句主语关联的所有物，具体指代要结合语境判断。"
+        },
+        {
+            "id": "U01-C015",
+            "zh": "到了学校，玛雅还没来得及说上一句祝你今天过得愉快，伊达就已经跑去找她的女同学们了。",
+            "grammar": "`Ved skolen` 前置，引发主句 V2 倒装：`er Ida løbet`。`før` 引导时间从句，表达孩子的动作早于母亲说话的机会。两个分句都采用现在完成时，突出到叙事参照时刻已经发生或尚未完成的结果。",
+            "vocabulary": [
+                {
+                    "da": "løbe over til",
+                    "zh": "跑向、跑过去找",
+                    "note": "强调从当前位置跑到另一人所在的位置。"
+                },
+                {
+                    "da": "en veninde",
+                    "zh": "女性朋友",
+                    "note": "复数 `veninder`；也可用于女同学之间的友谊。"
+                },
+                {
+                    "da": "nå at sige",
+                    "zh": "来得及说",
+                    "note": "常与 `før` 或否定结构搭配。"
+                },
+                {
+                    "da": "hav en god dag",
+                    "zh": "祝你今天过得愉快",
+                    "note": "非常自然的道别用语。"
+                }
+            ],
+            "nuance": "作者用孩子迫不及待跑去找朋友的动作展现她的独立性。`før Maja har nået at sige` 让母亲略显被冷落，却不需要直接写她失落。这样的时间对比在生活叙事中很有效。",
+            "transfer": [
+                "Han gik, før jeg nåede at sige farvel.",
+                "Jeg nåede ikke engang at svare.",
+                "Hav en god dag!"
+            ],
+            "pitfall": "`før` 这里表示在……之前，不是因为。`veninde` 是女性朋友，不自动等于恋人。"
+        },
+        {
+            "id": "U01-C016",
+            "zh": "在托婴所送孩子通常用不了五分钟，但这短短的交接也有自己的一套小仪式。",
+            "grammar": "`Afleveringen i vuggestuen` 是主语。`tager sjældent mere end fem minutter` 使用 `tage + 时间` 表达耗时。`men` 连接转折；后半句 `den` 回指送孩子这件事。",
+            "vocabulary": [
+                {
+                    "da": "en aflevering",
+                    "zh": "交接、送达；送孩子入托",
+                    "note": "来自动词 `aflevere`。"
+                },
+                {
+                    "da": "en vuggestue",
+                    "zh": "托婴所、幼儿托育机构",
+                    "note": "通常照顾约零至三岁的幼儿。"
+                },
+                {
+                    "da": "sjældent mere end",
+                    "zh": "很少超过",
+                    "note": "描述频率与数量上限。"
+                },
+                {
+                    "da": "et ritual",
+                    "zh": "仪式、固定程序",
+                    "note": "原文用 `ceremoni`，带一点生动、轻松的比喻意味。"
+                }
+            ],
+            "nuance": "`sin egen lille ceremoni` 并非正式宗教或庆典仪式，而是略带幽默地把重复的日常交接描写成一套必须完成的程序。这个表达让普通家庭琐事显得既琐碎又有秩序。",
+            "transfer": [
+                "Det tager sjældent mere end fem minutter.",
+                "Vi har vores egen lille rutine.",
+                "Det tager tid at aflevere børnene."
+            ],
+            "pitfall": "`tage` 在耗时结构中不表示拿取。`mere end` 表示超过，不要误写成 `mere som`。"
+        },
+        {
+            "id": "U01-C017",
+            "zh": "鞋要脱下来，换洗衣物要放进篮子里，还得告诉托育老师，埃米尔昨晚睡得不好。",
+            "grammar": "前三项并列义务分别用 `skal af`、`skal i kurven` 和 `skal have at vide` 表达。前两项省略了可从情境推断的移动动词。`have at vide, at …` 表示获知某事，后接 `at` 从句。`har sovet` 是完成时。",
+            "vocabulary": [
+                {
+                    "da": "skiftetøj",
+                    "zh": "备用换洗衣服",
+                    "note": "通常作集合名词使用。"
+                },
+                {
+                    "da": "en pædagog",
+                    "zh": "受过专业教育的保育或教育人员",
+                    "note": "丹麦托育机构中的专业职位，不应简单等同普通保姆。"
+                },
+                {
+                    "da": "få eller have noget at vide",
+                    "zh": "得知、被告知某事",
+                    "note": "完整搭配如 `få at vide, at …` 或 `skulle have at vide, at …`。"
+                },
+                {
+                    "da": "sove dårligt",
+                    "zh": "睡得不好",
+                    "note": "完成时 `har sovet dårligt`。"
+                }
+            ],
+            "nuance": "一连串 `skal` 像交接清单，传达早晨必须逐项完成的工作。`pædagogen skal have at vide` 强调这条信息是老师照顾孩子时需要知道的，不只是父母随意聊天。",
+            "transfer": [
+                "Skoene skal af.",
+                "Tasken skal i skabet.",
+                "Personalet skal have at vide, at barnet har sovet dårligt."
+            ],
+            "pitfall": "`have at vide` 应整体理解，不能逐词译成拥有去知道。`i nat` 在这个早晨情境里指刚过去的夜晚。"
+        },
+        {
+            "id": "U01-C018",
+            "zh": "只有做完这些，玛雅才能继续骑车去车站。",
+            "grammar": "`Først da` 是限制性时间状语，意为直到那个时候才。状语置于句首，情态动词 `kan` 占据第二位置，主语 `Maja` 后置。`cykle videre` 表示继续骑车。",
+            "vocabulary": [
+                {
+                    "da": "først da",
+                    "zh": "直到那时才",
+                    "note": "强调此前条件尚未满足。"
+                },
+                {
+                    "da": "cykle videre",
+                    "zh": "继续骑车",
+                    "note": "`videre` 表示继续前进。"
+                }
+            ],
+            "nuance": "这句话把上一句列举的琐事收束成一个结果：只有交接完成，母亲才能继续自己的通勤。`Først da` 比单纯的 `Så` 更突出先后条件和时间压力。",
+            "transfer": [
+                "Først da kunne jeg slappe af.",
+                "Først da kan vi gå videre.",
+                "Hun cykler videre til stationen."
+            ],
+            "pitfall": "句首放 `Først da` 后须采用 `kan Maja` 的 V2 语序，不能写作 `Først da Maja kan`。"
+        },
+        {
+            "id": "U01-C019",
+            "zh": "火车在瓦尔比附近晚点了，她于是给同事发消息：火车停着不动，你们先开会，不用等我。",
+            "grammar": "`bliver forsinket` 是 `blive` 被动结构，突出列车发生延误。`holder stille` 表示处于静止状态。`Start bare` 是祈使句，`uden mig` 表示不等我参与。后半段以直接引语呈现真实工作沟通。",
+            "vocabulary": [
+                {
+                    "da": "blive forsinket",
+                    "zh": "晚点、被耽搁",
+                    "note": "交通和工作沟通中都很常见。"
+                },
+                {
+                    "da": "holde stille",
+                    "zh": "停着不动",
+                    "note": "用于交通工具或其他不移动的事物。"
+                },
+                {
+                    "da": "starte mødet",
+                    "zh": "开始会议",
+                    "note": "也可说 `begynde mødet`。"
+                },
+                {
+                    "da": "uden mig",
+                    "zh": "没有我、不等我",
+                    "note": "常用于允许别人先行开始活动。"
+                }
+            ],
+            "nuance": "`Start bare mødet uden mig` 是得体而高效的职场沟通：不要求同事调整集体安排。`bare` 使祈使句变成一种许可或体谅，而非生硬命令。把火车延误置于家庭接送之后，也进一步呈现时间安排的脆弱性。",
+            "transfer": [
+                "Toget er blevet forsinket.",
+                "Vi holder stille på grund af en signalfejl.",
+                "Start bare mødet uden mig."
+            ],
+            "pitfall": "`holde stille` 不表示保持安静，而是停止移动。`blive forsinket` 是晚点；`være forsinket` 强调已经处于晚点状态。"
+        },
+        {
+            "id": "U01-C020",
+            "zh": "玛雅和约纳斯没有结婚。",
+            "grammar": "`er ikke gift` 用系动词加形容词性过去分词表达婚姻状态。`ikke` 放在限定动词 `er` 之后。",
+            "vocabulary": [
+                {
+                    "da": "være gift",
+                    "zh": "已婚",
+                    "note": "`være gift med nogen` 表示与某人结婚。"
+                }
+            ],
+            "nuance": "一句简短的事实陈述引出第二章对丹麦多元家庭结构的讨论，没有任何负面价值判断。",
+            "transfer": [
+                "De er ikke gift.",
+                "Hun er gift med en dansker."
+            ],
+            "pitfall": "`gift` 在此是已婚，另有毒药的名词含义；需要根据词性和语境区分。"
+        },
+        {
+            "id": "U01-C021",
+            "zh": "他们已经交往九年，有两个孩子，还共同背着房子的贷款，可结婚这件事始终没有真正发生。",
+            "grammar": "`har været kærester i ni år` 用现在完成时加持续时间表示从过去开始并延续至今的关系。`har` 连接两个宾语。`det er aldrig blevet til et bryllup` 是无人称式的结果表达，意为事情最终没有发展成婚礼。",
+            "vocabulary": [
+                {
+                    "da": "være kærester",
+                    "zh": "谈恋爱、是情侣",
+                    "note": "复数关系表达；单数 `en kæreste` 可指男朋友或女朋友。"
+                },
+                {
+                    "da": "et fælles lån",
+                    "zh": "共同贷款",
+                    "note": "`fælles` 表示共同拥有或共同承担。"
+                },
+                {
+                    "da": "blive til",
+                    "zh": "变成、发展成为、最终形成",
+                    "note": "可用于计划、作品、制度或生活事件。"
+                },
+                {
+                    "da": "et bryllup",
+                    "zh": "婚礼",
+                    "note": "与 `et ægteskab` 的婚姻关系或婚姻制度不同。"
+                }
+            ],
+            "nuance": "`det er aldrig blevet til et bryllup` 比直接说他们决定不结婚更含蓄：它只说明至今没有举行婚礼，不推断他们是否原则上反对婚姻。作者刻意列举长期关系、孩子和房贷，说明未婚并不意味着缺少稳定家庭生活。",
+            "transfer": [
+                "Vi har været sammen i ni år.",
+                "Det er aldrig blevet til noget.",
+                "Vi har et fælles lån i huset."
+            ],
+            "pitfall": "丹麦语表达持续至今的九年关系用 `har været … i ni år`，不能套用英语式的 `siden ni år`。`bryllup` 是婚礼，不能与法律意义的婚姻完全画等号。"
+        },
+        {
+            "id": "U01-C022",
+            "zh": "这并没有什么稀奇的。",
+            "grammar": "`Det er der ikke noget usædvanligt i` 属于介词补语前置后保留介词的句型。较直观的理解是 `der er ikke noget usædvanligt i det`。这里 `det` 指前面提到的长期伴侣没有结婚的情况。",
+            "vocabulary": [
+                {
+                    "da": "usædvanlig",
+                    "zh": "不寻常的、罕见的",
+                    "note": "与 `sædvanlig` 的通常的、惯常的相对。"
+                },
+                {
+                    "da": "der er ikke noget … i det",
+                    "zh": "这件事没有什么……之处",
+                    "note": "适用于 `mærkeligt`、`forkert`、`usædvanligt` 等。"
+                }
+            ],
+            "nuance": "这是非常有丹麦语特色的轻描淡写式判断。与直接说 `Det er helt normalt` 相比，它通过否定不寻常来表达平常，语气更加平稳，适合介绍社会现象。",
+            "transfer": [
+                "Det er der ikke noget mærkeligt i.",
+                "Det er der ikke noget galt med.",
+                "Det er der ikke noget usædvanligt i."
+            ],
+            "pitfall": "不要遗漏句末的 `i`。这个介词属于 `noget usædvanligt i noget` 的固定语义关系，并非多余。"
+        },
+        {
+            "id": "U01-C023",
+            "zh": "在丹麦，大约一半的孩子出生时，父母彼此并没有结婚。",
+            "grammar": "主句主语是 `Omkring halvdelen af alle børn i Danmark`，谓语为 `har`，宾语 `forældre` 后接关系从句 `der ikke er gift med hinanden`。`når de bliver født` 是时间从句，指孩子出生之际。",
+            "vocabulary": [
+                {
+                    "da": "omkring halvdelen af",
+                    "zh": "大约一半的……",
+                    "note": "数量和比例表述。"
+                },
+                {
+                    "da": "være gift med hinanden",
+                    "zh": "彼此已婚、互为夫妻",
+                    "note": "`med hinanden` 明确双方的相互关系。"
+                },
+                {
+                    "da": "blive født",
+                    "zh": "出生",
+                    "note": "`født` 是过去分词；整个结构表示被生下来。"
+                }
+            ],
+            "nuance": "作者谈的是孩子出生时父母的婚姻状态，而不是断言这些父母永远不会结婚，也不是说一半孩子由单亲家庭抚养。`når` 精确限定统计所指的时间点。这里的比例应理解为文章叙述中的数据，而非自动视为当前已核实的最新官方统计。",
+            "transfer": [
+                "Omkring halvdelen af X …",
+                "De er ikke gift med hinanden.",
+                "Da barnet blev født, boede de sammen."
+            ],
+            "pitfall": "`ikke er gift med hinanden` 与 `ikke bor sammen` 不同。未婚、不同居、单亲分别是不同概念，不能相互替代。"
+        },
+        {
+            "id": "U01-C024",
+            "zh": "由父亲、母亲和孩子同住一个屋檐下组成的传统核心家庭依然存在，但它远不是唯一的家庭模式。",
+            "grammar": "主语为 `Den klassiske kernefamilie med …`，两个谓语结构由 `men` 对比：`findes stadig` 与 `er langt fra den eneste model`。`under samme tag` 是地点介词短语，也是比喻性的共同生活表达。",
+            "vocabulary": [
+                {
+                    "da": "en kernefamilie",
+                    "zh": "核心家庭",
+                    "note": "通常指父母与其子女构成的家庭。"
+                },
+                {
+                    "da": "under samme tag",
+                    "zh": "同住一个屋檐下",
+                    "note": "强调共同居住。"
+                },
+                {
+                    "da": "langt fra",
+                    "zh": "远非、远远不是",
+                    "note": "用于强调差距或否定某种评价。"
+                },
+                {
+                    "da": "findes stadig",
+                    "zh": "仍然存在",
+                    "note": "`findes` 为常用的存在表达。"
+                }
+            ],
+            "nuance": "`findes stadig, men …` 是议论文中有分寸的转折：先承认传统家庭仍然存在，再指出多样化现实。`langt fra` 比单纯 `ikke` 更强调传统模式并不具有排他性。",
+            "transfer": [
+                "X findes stadig, men …",
+                "Det er langt fra den eneste mulighed.",
+                "Vi bor under samme tag."
+            ],
+            "pitfall": "`langt fra` 在此不是地理距离，而是加强否定程度。`findes` 在表示存在时无需额外的反身代词。"
+        },
+        {
+            "id": "U01-C025",
+            "zh": "约纳斯与上一段伴侣关系中有一个儿子，就是十三岁的奥利弗；他每隔一周会到他们家住一周。",
+            "grammar": "`trettenårige Oliver` 是对前面 `en søn` 的同位语说明。`som bor hos dem hver anden uge` 是关系从句，进一步介绍 Oliver 的居住安排。`hver anden uge` 表示隔周，而不是每两周只住一天。",
+            "vocabulary": [
+                {
+                    "da": "et tidligere forhold",
+                    "zh": "上一段感情关系",
+                    "note": "较中性的表达，不预设是否曾经结婚。"
+                },
+                {
+                    "da": "hver anden uge",
+                    "zh": "每隔一周、隔周",
+                    "note": "常用于共同抚养和工作轮班安排。"
+                },
+                {
+                    "da": "bo hos nogen",
+                    "zh": "住在某人家里",
+                    "note": "`hos` 强调住在某人的住所或家庭中。"
+                }
+            ],
+            "nuance": "这里介绍的是重组家庭中的隔周居住安排。`fra et tidligere forhold` 比 `fra hans første ægteskab` 更严谨，因为文章并没有说 Jonas 曾经结过婚。",
+            "transfer": [
+                "Han har et barn fra et tidligere forhold.",
+                "Børnene bor hos deres far hver anden uge.",
+                "Vi ses hver anden weekend."
+            ],
+            "pitfall": "`hver anden uge` 是隔周，`hver uge` 才是每周。`trettenårige Oliver` 中不能把 -e 漏掉。"
+        },
+        {
+            "id": "U01-C026",
+            "zh": "玛雅是奥利弗的继母，也就是这个重组家庭中的另一位妈妈。",
+            "grammar": "`Olivers` 是专有名词的所有格，直接加 `s`；`bonusmor` 作表语。",
+            "vocabulary": [
+                {
+                    "da": "en bonusmor",
+                    "zh": "继母、重组家庭中的额外妈妈",
+                    "note": "比 `stedmor` 往往更温和、更积极；不必意味着法律上的亲子关系。"
+                },
+                {
+                    "da": "en bonusfamilie",
+                    "zh": "重组家庭、继亲家庭",
+                    "note": "突出新增家庭成员带来的亲属关系。"
+                }
+            ],
+            "nuance": "`bonusmor` 是丹麦当代家庭语言中一个有意思的词，用 `bonus` 将复杂亲属关系表述为增添的亲情联系。但是否使用这一称呼仍取决于具体家庭及当事人的偏好。",
+            "transfer": [
+                "Hun er hans bonusmor.",
+                "Vi er en sammenbragt familie."
+            ],
+            "pitfall": "`bonusmor` 不等同生母，也不自动意味着正式收养。不要因为中文习惯就把所有继亲关系一律译成具有负面色彩的词。"
+        },
+        {
+            "id": "U01-C027",
+            "zh": "在伊达和埃米尔眼里，奥利弗就是他们的大哥哥。至于他其实只是同父异母的哥哥，根本没人会去在意。",
+            "grammar": "`For Ida og Emil` 前置表示观察视角。破折号后 `at han kun er halvbror` 作为被讨论的内容整体前置，后面的 `er der ingen, der tænker på` 形成 V2 主句。其基本意思相当于 `Der er ingen, der tænker på, at …`。",
+            "vocabulary": [
+                {
+                    "da": "en storebror",
+                    "zh": "哥哥",
+                    "note": "`stor` 在亲属称谓中表示年长。"
+                },
+                {
+                    "da": "en halvbror",
+                    "zh": "同父异母或同母异父的兄弟",
+                    "note": "具体关系由上下文决定。"
+                },
+                {
+                    "da": "tænke på",
+                    "zh": "想到、考虑、在意",
+                    "note": "固定介词 `på`。"
+                },
+                {
+                    "da": "for nogen",
+                    "zh": "在某人看来、对某人而言",
+                    "note": "用于引入个人视角。"
+                }
+            ],
+            "nuance": "`bare deres storebror` 中的 `bare` 强调在孩子们看来，这段关系根本不复杂。作者先表达情感上的自然认同，再用 `ingen, der tænker på` 淡化血缘分类，体现家庭身份由日常关系决定的主题。",
+            "transfer": [
+                "For mig er han bare min bror.",
+                "Det er der ingen, der tænker på.",
+                "Det betyder ikke noget for os, om …"
+            ],
+            "pitfall": "`halvbror` 不是年龄较小的弟弟，而是只有一位共同生物学父母的兄弟。`tænke på` 后的 `på` 不应省略。"
+        },
+        {
+            "id": "U01-C028",
+            "zh": "伊达班上有的孩子有两位妈妈，有的孩子由单身父亲抚养，还有的孩子得轮流去四组祖父母或外祖父母家过圣诞节。",
+            "grammar": "`I Idas klasse` 是前置地点状语，后接存在句 `er der`。三个并列的 `børn` 名词短语描绘不同家庭类型。最后一个 `børn` 由关系从句 `der holder jul …` 修饰。`på skift` 表示轮流交替。",
+            "vocabulary": [
+                {
+                    "da": "en enlig far",
+                    "zh": "单身或独自抚养孩子的父亲",
+                    "note": "`enlig` 常用于家庭结构描述。"
+                },
+                {
+                    "da": "holde jul",
+                    "zh": "过圣诞节",
+                    "note": "固定动词搭配，通常不用 `fejre` 也很自然。"
+                },
+                {
+                    "da": "på skift",
+                    "zh": "轮流、交替",
+                    "note": "常见于家庭安排、值班和分工。"
+                },
+                {
+                    "da": "et sæt bedsteforældre",
+                    "zh": "一组祖父母或外祖父母",
+                    "note": "`fire sæt` 表示四组，不是四位。"
+                }
+            ],
+            "nuance": "三个并列例子没有刻意把某类家庭描述为异常，而是作为一个普通班级中的自然多样性呈现。`holder jul på skift` 将复杂的亲属关系具体化为节日安排，非常贴近日常生活。",
+            "transfer": [
+                "Vi holder jul hos mine forældre i år.",
+                "Vi besøger familierne på skift.",
+                "I klassen er der børn med forskellige familiebaggrunde."
+            ],
+            "pitfall": "`fire sæt bedsteforældre` 不是四个祖父母，而是四组祖辈。`holde jul` 是惯用搭配，不能按字面理解为举行或拿着圣诞节。"
+        },
+        {
+            "id": "U01-C029",
+            "zh": "如今真正重要的，不再是纸面上的法律身份写着什么，而是在日常生活中，谁会陪伴、支持彼此。",
+            "grammar": "主语 `Det afgørende` 表示决定性的因素。后面用 `ikke længere … men …` 对比两个间接疑问从句：`hvad der står på papiret` 与 `hvem der er der for hinanden i hverdagen`。`hvem` 在第二个从句中是主语。",
+            "vocabulary": [
+                {
+                    "da": "det afgørende",
+                    "zh": "决定性因素、真正重要的事",
+                    "note": "形容词名词化表达。"
+                },
+                {
+                    "da": "på papiret",
+                    "zh": "在纸面上、名义上",
+                    "note": "常指形式、文件或法律身份。"
+                },
+                {
+                    "da": "være der for nogen",
+                    "zh": "支持某人、在某人需要时陪伴他",
+                    "note": "应整体记忆，具有情感支持意味。"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "强调与过去相比发生的变化。"
+                }
+            ],
+            "nuance": "这是本章的中心论点。`hvad der står på papiret` 将正式登记与家庭情感联系进行对比。`være der for hinanden` 比 `hjælpe hinanden` 更宽泛，除了实际帮助，还包含情感上的可靠、陪伴和相互支持。",
+            "transfer": [
+                "Det afgørende er ikke X, men Y.",
+                "Det ser godt ud på papiret.",
+                "Vi skal være der for hinanden."
+            ],
+            "pitfall": "`være der for` 不是单纯存在于某个地点；这是表达支持的固定说法。两个间接疑问从句中不要照搬直接问句的动词与主语倒装。"
+        },
+        {
+            "id": "U01-C030",
+            "zh": "对有孩子的家庭来说，一天的节奏在很大程度上是由托育机构的开放时间决定的。",
+            "grammar": "`For børnefamilier` 前置限定讨论范围。后半句 `det er … der bestemmer …` 是强调句，突出真正起决定作用的是 `institutionernes åbningstider`。`i høj grad` 是程度状语。",
+            "vocabulary": [
+                {
+                    "da": "en børnefamilie",
+                    "zh": "有孩子的家庭、育儿家庭",
+                    "note": "常用于社会政策和公共服务讨论。"
+                },
+                {
+                    "da": "i høj grad",
+                    "zh": "在很大程度上",
+                    "note": "B2–C1 写作中的高价值程度表达。"
+                },
+                {
+                    "da": "en åbningstid",
+                    "zh": "开放时间、营业时间",
+                    "note": "复数 `åbningstider`。"
+                },
+                {
+                    "da": "bestemme rytmen",
+                    "zh": "决定节奏",
+                    "note": "可用于工作、日程或生活结构。"
+                }
+            ],
+            "nuance": "这句话从家庭成员的自主安排转向制度性时间约束。强调句把托育机构的开放时间放在焦点位置，说明看似私人领域的家庭日程实际上受到公共服务安排的深刻影响。",
+            "transfer": [
+                "Det er X, der bestemmer Y.",
+                "X afhænger i høj grad af Y.",
+                "Åbningstiderne bestemmer dagens rytme."
+            ],
+            "pitfall": "强调句 `Det er X, der …` 后的动词与 `der` 从句搭配，不能将主句普通语序直接移入。`i høj grad` 表示程度，不是高度地理位置。"
+        },
+        {
+            "id": "U01-C031",
+            "zh": "最小的孩子通常要么在托婴所接受照护，要么由家庭日托人员在其自己家里照顾，后者通常只带一小群孩子。",
+            "grammar": "`De mindste` 是形容词名词化，表示年龄最小的孩子。`passes` 是现在时 s-被动。`enten … eller …` 并列两种托育方式。`der tager sig af …` 是修饰 `dagplejer` 的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "blive passet eller passes",
+                    "zh": "受到照顾、被照看",
+                    "note": "`passe` 在育儿语境中指照护。"
+                },
+                {
+                    "da": "en dagplejer",
+                    "zh": "家庭日托人员",
+                    "note": "通常在自己的住所照顾少量幼儿。"
+                },
+                {
+                    "da": "tage sig af",
+                    "zh": "照顾、负责处理",
+                    "note": "反身结构，必须保留 `sig`。"
+                },
+                {
+                    "da": "en lille flok",
+                    "zh": "一小群",
+                    "note": "`flok` 常形容儿童、动物或人群。"
+                }
+            ],
+            "nuance": "作者用 `enten … eller …` 平行介绍两种丹麦早期托育安排。`de mindste` 是亲切、自然的泛称。`i sit eget hjem` 强调家庭日托与集中式托婴机构在空间和照护规模上的不同。",
+            "transfer": [
+                "Børnene passes enten i X eller hos Y.",
+                "Hun tager sig af fem børn.",
+                "Vi passer børnene hjemme."
+            ],
+            "pitfall": "`tage sig af nogen` 不能省略反身代词。`hos en dagplejer` 强调在托育人员那里，不等同于普通地点介词 `i`。"
+        },
+        {
+            "id": "U01-C032",
+            "zh": "孩子大约三岁时会转入幼儿园，开始上学后，下午则会去课后托管班，也就是 SFO。",
+            "grammar": "两个并列主句构成阶段变化。第二部分以时间从句 `når de begynder i skole` 开头，后面的主句采用 `går de` 倒装。`begynde i skole` 和 `gå i SFO` 是惯用机构表达。",
+            "vocabulary": [
+                {
+                    "da": "treårsalderen",
+                    "zh": "三岁左右的年龄阶段",
+                    "note": "`i treårsalderen` 表示在三岁这个年龄段。"
+                },
+                {
+                    "da": "en børnehave",
+                    "zh": "幼儿园",
+                    "note": "通常接收约三岁至入学前的儿童。"
+                },
+                {
+                    "da": "en skolefritidsordning",
+                    "zh": "学校课后托管安排",
+                    "note": "缩写 `SFO`，与学校生活密切相关。"
+                },
+                {
+                    "da": "skifte til",
+                    "zh": "转换到、转入",
+                    "note": "常用于学校、工作或制度转换。"
+                }
+            ],
+            "nuance": "这句话是典型的丹麦育儿制度介绍，时间顺序清晰。`om eftermiddagen` 表示通常在下午的安排，而非某个指定下午。提到 SFO 时保留本地缩写，在丹麦实际生活沟通中很有用。",
+            "transfer": [
+                "Omkring treårsalderen begynder børnene i børnehave.",
+                "Når børnene begynder i skole, …",
+                "Mit barn går i SFO."
+            ],
+            "pitfall": "`om eftermiddagen` 通常表示经常性的下午时段；`i eftermiddag` 表示今天下午。`begynde i skole` 不是 `begynde på skole`。"
+        },
+        {
+            "id": "U01-C033",
+            "zh": "这些阶段之间的转换，其影响其实比人们想象的要大。",
+            "grammar": "`betyder mere, end …` 构成比较结构。`man skulle tro` 中的 `skulle` 不是义务，而是在假设性的判断中表达通常会以为怎样。",
+            "vocabulary": [
+                {
+                    "da": "en overgang",
+                    "zh": "过渡、转换阶段",
+                    "note": "适用于教育、职业和人生阶段。"
+                },
+                {
+                    "da": "betyde mere, end man skulle tro",
+                    "zh": "比想象中更重要、影响更大",
+                    "note": "整句搭配适合评论与议论文。"
+                }
+            ],
+            "nuance": "这是从客观制度介绍转入孩子和父母体验的桥梁。`mere, end man skulle tro` 以温和的方式纠正常见低估，非常符合丹麦说明文的表达风格。",
+            "transfer": [
+                "Det betyder mere, end man skulle tro.",
+                "Små ændringer kan betyde mere, end man tror."
+            ],
+            "pitfall": "`betyde` 在这里是重要性或影响程度，不是单词的词义。不要把 `skulle` 机械译作应该。"
+        },
+        {
+            "id": "U01-C034",
+            "zh": "每次换到新机构，孩子都得熟悉新的成年人，而父母也得摸清这个新环境的一套规则和文化。",
+            "grammar": "前置状语 `Ved hvert skift` 统领两个并列主句。`lære nogen at kende` 与 `sætte sig ind i noget` 分别描述孩子与家长要完成的适应工作。两个分句都用 `skal` 表示实际需要。",
+            "vocabulary": [
+                {
+                    "da": "lære nogen at kende",
+                    "zh": "逐渐认识、熟悉某人",
+                    "note": "强调从不熟悉到了解的过程。"
+                },
+                {
+                    "da": "sætte sig ind i",
+                    "zh": "深入了解、弄清楚",
+                    "note": "高价值反身搭配，常用于规则、制度、复杂信息。"
+                },
+                {
+                    "da": "ved hvert skift",
+                    "zh": "每次转换时",
+                    "note": "适用于工作、学校、制度和日程变化。"
+                }
+            ],
+            "nuance": "作者刻意并列孩子与父母的两种适应任务，说明入托或转学不只是孩子的问题。`en ny kultur med egne regler` 把托育机构描述为有自己习惯与规范的小型社会环境。",
+            "transfer": [
+                "Jeg skal sætte mig ind i de nye regler.",
+                "Det tager tid at lære nye kolleger at kende.",
+                "Ved hvert skift skal man tilpasse sig."
+            ],
+            "pitfall": "`lære at kende` 不等于单纯 `kende`。前者强调认识的过程，后者表示已经认识。`sætte sig ind i` 不能省略 `sig` 或把介词改成 `på`。"
+        },
+        {
+            "id": "U01-C035",
+            "zh": "因此，每次进入新机构都会先有一个适应期，最初几天由一位家长陪同孩子一起参加。",
+            "grammar": "`Derfor` 前置引出结论，谓语 `begynder` 位于第二位置。`hvor en af forældrene er med de første dage` 是关系从句，说明 `indkøring` 这一适应过程中的安排。",
+            "vocabulary": [
+                {
+                    "da": "en indkøring",
+                    "zh": "入托或入园适应期",
+                    "note": "本来可表示磨合、调试，在托育语境有专门含义。"
+                },
+                {
+                    "da": "være med",
+                    "zh": "参加、陪同、一起在场",
+                    "note": "具体含义依语境而定。"
+                },
+                {
+                    "da": "de første dage",
+                    "zh": "最初几天",
+                    "note": "表示一个过程开始的阶段。"
+                }
+            ],
+            "nuance": "`indkøring` 是理解丹麦托育生活的重要文化词，侧重孩子逐步适应新环境及照护人员。`er med` 简短而自然地描述家长陪同，无需正式说参与适应程序。",
+            "transfer": [
+                "Vi er i gang med indkøringen.",
+                "En af forældrene er med de første dage.",
+                "Det hele begynder med …"
+            ],
+            "pitfall": "`indkøring` 在这里不是驾驶车辆，也不只是技术设备磨合。`hvor` 可以指一段过程或情境，不一定只表示地理地点。"
+        },
+        {
+            "id": "U01-C036",
+            "zh": "埃米尔出生后，玛雅和约纳斯都休了好几个月的育儿假。",
+            "grammar": "`Da Emil blev født` 是表示过去具体事件的时间从句。`blev født` 使用被动结构。主句由 `både Maja og Jonas` 构成并列主语，`holdt orlov` 是动词固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "holde orlov",
+                    "zh": "休假、请假离岗",
+                    "note": "可特指育儿假，也可用于其他类型的长期休假。"
+                },
+                {
+                    "da": "i flere måneder",
+                    "zh": "长达好几个月",
+                    "note": "`i` 引出持续时长。"
+                },
+                {
+                    "da": "både … og …",
+                    "zh": "既……又……、两者都",
+                    "note": "并列两个同类成分。"
+                }
+            ],
+            "nuance": "使用 `både` 突出父母双方均参与育儿假安排，为后续父亲育儿假的制度讨论作铺垫。这里的 `orlov` 是描述实际休假，不直接说明每个月是否拿全额工资。",
+            "transfer": [
+                "Da barnet blev født, tog jeg orlov.",
+                "Både mor og far holder orlov.",
+                "Hun var på orlov i seks måneder."
+            ],
+            "pitfall": "`orlov` 不一定是普通年假 `ferie`。`holde orlov` 和 `være på orlov` 都自然，但结构不同。"
+        },
+        {
+            "id": "U01-C037",
+            "zh": "最初几周，社区母婴保健护士会上门探访，给新生儿称体重，并回答新手父母自上次探访以来积攒的各种问题。",
+            "grammar": "时间状语 `De første uger` 前置后，以连续过去时动词 `kom`、`vejede`、`svarede` 构成动作序列。`de spørgsmål, de nybagte forældre havde samlet sammen siden sidst` 是省略关系代词的限定性关系从句，使用过去完成时表示在护士来访前已积累的问题。",
+            "vocabulary": [
+                {
+                    "da": "en sundhedsplejerske",
+                    "zh": "社区健康访视护士、儿童保健护士",
+                    "note": "丹麦提供婴幼儿及家庭健康指导的专业人员。"
+                },
+                {
+                    "da": "en nyfødt",
+                    "zh": "新生儿",
+                    "note": "可作名词或形容词。"
+                },
+                {
+                    "da": "nybagte forældre",
+                    "zh": "新手父母、刚成为父母的人",
+                    "note": "`nybagt` 字面与刚烤好有关，此处比喻刚获得新身份。"
+                },
+                {
+                    "da": "samle sammen",
+                    "zh": "收集、积攒起来",
+                    "note": "常用于问题、材料、经验或物品。"
+                },
+                {
+                    "da": "siden sidst",
+                    "zh": "自上次以来",
+                    "note": "省略了上次见面或接触的事件。"
+                }
+            ],
+            "nuance": "通过称重、答疑等具体行为，把丹麦的产后公共健康服务写得非常生活化。`nybagte forældre` 带有轻松亲切的语感，既承认父母身份的新鲜，也暗示他们需要学习很多东西。",
+            "transfer": [
+                "Vi har samlet en række spørgsmål sammen.",
+                "Hvad er der sket siden sidst?",
+                "Sundhedsplejersken kommer på besøg."
+            ],
+            "pitfall": "`nybagt` 在这里不能翻译成刚烘焙的。`svare på spørgsmål` 要保留 `på`。过去完成时 `havde samlet` 的参照点是护士当时来访的时刻。"
+        },
+        {
+            "id": "U01-C038",
+            "zh": "丹麦的育儿假制度规定，领取育儿津贴的假期周数在父母之间分配；对于雇员，其中一部分周数专门保留给各自的父母，不能转让给另一方。",
+            "grammar": "两个并列主句。第一句骨架为 `Barselsreglerne fordeler ugerne … mellem forældrene`。第二句以 `for lønmodtagere` 限定适用人群。`en del af dem` 中 `dem` 指带津贴的假期周数。`er øremærket` 表示被指定用途；`så de ikke kan overdrages` 是结果从句，包含情态动词和被动不定式。",
+            "vocabulary": [
+                {
+                    "da": "barselsregler",
+                    "zh": "产育假及育儿假的相关规定",
+                    "note": "具体权利须区分不同就业身份和资格。"
+                },
+                {
+                    "da": "barselsdagpenge",
+                    "zh": "产育假津贴、育儿假福利金",
+                    "note": "不自动等同于雇主支付的全额工资。"
+                },
+                {
+                    "da": "en lønmodtager",
+                    "zh": "雇员、受薪劳动者",
+                    "note": "与自雇者等身份相区别。"
+                },
+                {
+                    "da": "øremærke",
+                    "zh": "专门划拨、指定用途",
+                    "note": "过去分词 `øremærket`，常用于资金、名额和假期。"
+                },
+                {
+                    "da": "overdrage til",
+                    "zh": "转让给、移交给",
+                    "note": "过去分词 `overdraget`；被动可用 `overdrages`。"
+                }
+            ],
+            "nuance": "这是政策性说明文的典型写法，注重区分受益对象、分配对象和不可转让条件。`øremærket` 是理解丹麦社会政策报道的高价值词：指定给某个人的额度，通常不能像普通共享额度一样自由转让。句子只解释制度的一般逻辑，不应代替个人实际假期资格核算。",
+            "transfer": [
+                "En del af midlerne er øremærket til X.",
+                "Rettighederne kan ikke overdrages til andre.",
+                "Reglerne fordeler X mellem Y og Z."
+            ],
+            "pitfall": "`barselsdagpenge` 是福利津贴，不一定等于 `løn under barsel` 的带薪育儿假工资。`øremærket` 也不意味着假期一定必须实际休完；不可转让与强制休假是不同概念。"
+        },
+        {
+            "id": "U01-C039",
+            "zh": "这一政策原本是为了让更多父亲休育儿假，而从目前看来，它似乎确实起到了作用。",
+            "grammar": "`Formålet var at få flere fædre til at holde orlov` 使用使役结构 `få nogen til at + 不定式` 表达促使某人做事。`det ser ud til at virke` 是非绝对化的判断表达，表示证据看来支持这种效果。",
+            "vocabulary": [
+                {
+                    "da": "formålet med",
+                    "zh": "……的目的",
+                    "note": "如 `formålet med reformen`。"
+                },
+                {
+                    "da": "få nogen til at gøre noget",
+                    "zh": "使、促使、说服某人做某事",
+                    "note": "常用于政策目标、教育和管理。"
+                },
+                {
+                    "da": "se ud til at",
+                    "zh": "看起来似乎……",
+                    "note": "表达推测而非完全确定。"
+                },
+                {
+                    "da": "virke",
+                    "zh": "起作用、有效果",
+                    "note": "在此不是工作，而是政策奏效。"
+                }
+            ],
+            "nuance": "`det ser ud til at virke` 体现审慎的政策评估语气，承认目前看起来有效，但没有宣称已经证明全部因果关系。这里适合学习 C1 写作中的证据强度控制。",
+            "transfer": [
+                "Formålet er at få flere til at deltage.",
+                "Det ser ud til at virke.",
+                "Reformen ser ud til at have haft en effekt."
+            ],
+            "pitfall": "`få nogen til at` 是促使某人做事，不能漏掉 `til at`。`virke` 在这里不是 `arbejde` 的工作含义。"
+        },
+        {
+            "id": "U01-C040",
+            "zh": "约纳斯一开始对此持怀疑态度。",
+            "grammar": "`var skeptisk` 使用形容词作表语，`i begyndelsen` 说明这种态度出现在开始阶段。",
+            "vocabulary": [
+                {
+                    "da": "være skeptisk",
+                    "zh": "持怀疑态度",
+                    "note": "可接 `over for noget`。"
+                },
+                {
+                    "da": "i begyndelsen",
+                    "zh": "起初、一开始",
+                    "note": "强调某一发展过程的早期。"
+                }
+            ],
+            "nuance": "这句话为后面态度转变作铺垫。`skeptisk` 表示不确定、不完全信服，不一定意味着强烈反对。",
+            "transfer": [
+                "Jeg var skeptisk i begyndelsen.",
+                "Han er skeptisk over for forslaget."
+            ],
+            "pitfall": "`skeptisk over for` 是常用搭配，不要机械使用 `skeptisk for`。"
+        },
+        {
+            "id": "U01-C041",
+            "zh": "他担心休假会对职业发展造成什么影响，而且他根本不记得自己的父亲曾经换过哪怕一次尿布。",
+            "grammar": "`være bange for` 后接间接疑问句 `hvad det ville betyde for karrieren`。`ville` 从过去视角表达当时担心的未来结果。第二部分 `kunne ikke huske, at … nogensinde havde skiftet en ble` 中过去完成时表示更早一代人的过去行为。",
+            "vocabulary": [
+                {
+                    "da": "være bange for",
+                    "zh": "担心、害怕",
+                    "note": "可接名词、`at` 从句或间接疑问句。"
+                },
+                {
+                    "da": "betyde for karrieren",
+                    "zh": "对职业发展产生影响",
+                    "note": "`hvad det betyder for X` 是常用问法。"
+                },
+                {
+                    "da": "nogensinde",
+                    "zh": "曾经、在任何时候",
+                    "note": "与否定搭配时增强从来没有的意味。"
+                },
+                {
+                    "da": "skifte en ble",
+                    "zh": "换尿布",
+                    "note": "`en ble`，复数 `bleer`。"
+                }
+            ],
+            "nuance": "作者并列两个不同层次的顾虑：现实中的事业风险，以及成长过程中缺乏父亲参与育儿的榜样。`nogensinde` 把后一层反差加强，却仍然是 Jonas 的个人记忆，而不是证明他父亲绝对没有换过尿布。",
+            "transfer": [
+                "Jeg er bange for, hvad det vil betyde for min karriere.",
+                "Jeg kan ikke huske, at han nogensinde har gjort det.",
+                "Det kan få betydning for karrieren."
+            ],
+            "pitfall": "间接问句应为 `hvad det ville betyde`，不能写成直接问句语序 `hvad ville det betyde`。`skifte en ble` 中的 `skifte` 指更换物品。"
+        },
+        {
+            "id": "U01-C042",
+            "zh": "独自在家照顾婴儿的四个月，彻底改变了他对这件事的看法。",
+            "grammar": "`Fire måneder alene hjemme med en baby` 是整个名词性主语，`ændrede` 是过去时谓语。`ændre nogens syn på noget` 是完整搭配，其中 `på` 不可省略。",
+            "vocabulary": [
+                {
+                    "da": "ændre sit syn på",
+                    "zh": "改变自己对……的看法",
+                    "note": "适用于政策、工作、人生经验。"
+                },
+                {
+                    "da": "alene hjemme",
+                    "zh": "独自在家",
+                    "note": "此处指没有另一位家长同时在家照顾婴儿。"
+                },
+                {
+                    "da": "sagen",
+                    "zh": "这件事、这个问题",
+                    "note": "定指名词回指前面的育儿假讨论。"
+                }
+            ],
+            "nuance": "作者没有直接宣称 Jonas 变得更加平等，而是用独自育儿的真实经历解释态度变化。让一段时间经历充当主语，是说明生活经验如何改变认知的精练写法。",
+            "transfer": [
+                "Det ændrede mit syn på sagen.",
+                "Erfaringen har ændret mit syn på X.",
+                "Jeg var alene hjemme med barnet."
+            ],
+            "pitfall": "`syn på` 表示对某事的观点，不能按汉语直译成 `syn til`。`alene` 修饰独处的状态，不代表家庭中只有 Jonas 和孩子两个成员。"
+        },
+        {
+            "id": "U01-C043",
+            "zh": "他如今说：直到那时我才真正明白，一个看似再普通不过的星期二，其实包含着多少家务和照护劳动。",
+            "grammar": "`Det var først der, jeg forstod …` 是突出时间点的强调结构，表示直到那个时候才理解。`hvor meget arbejde der ligger i …` 是间接感叹或疑问从句，以 `hvor meget` 表示程度，`der ligger i` 表示某事背后所包含的投入。",
+            "vocabulary": [
+                {
+                    "da": "det var først der, at …",
+                    "zh": "直到那时才……",
+                    "note": "原文省略 `at`，自然口语和书面叙述都可以这样组织。"
+                },
+                {
+                    "da": "ligge i",
+                    "zh": "包含于……之中；需要投入",
+                    "note": "如 `Der ligger meget arbejde i det`。"
+                },
+                {
+                    "da": "en helt almindelig tirsdag",
+                    "zh": "一个再普通不过的星期二",
+                    "note": "`helt almindelig` 强调平凡、寻常。"
+                }
+            ],
+            "nuance": "这是文章前半部分的情感转折点。`først der` 强调理解并非靠抽象知识，而是在亲身承担育儿责任后才真正发生。`hvor meget arbejde der ligger i` 把看不见的照护劳动凸显出来，与后文的家庭心理负担形成呼应。",
+            "transfer": [
+                "Det var først der, jeg forstod, at …",
+                "Der ligger meget arbejde i X.",
+                "Man undervurderer, hvor meget arbejde der ligger i det."
+            ],
+            "pitfall": "`ligger i` 这里不是某件东西物理上躺在里面，而是抽象地表达投入。`Det var først der` 不能理解成第一个地点；`først` 强调直到那时。"
+        },
+        {
+            "id": "U01-C044",
+            "zh": "在托婴所的衣帽间里，玛雅一只手拿着埃米尔湿透的连体防寒服，另一只手握着手机。",
+            "grammar": "地点状语 `Inde i vuggestuens garderobe` 前置，因此主句采用 `står Maja` 的 V2 语序。后面的 `med … i den ene hånd og … i den anden` 是平行状语，第二个分句省略重复的 `hånd`。",
+            "vocabulary": [
+                {
+                    "da": "en garderobe",
+                    "zh": "衣帽间、存放衣物的区域",
+                    "note": "在幼儿园也指孩子脱放外套鞋子的地方。"
+                },
+                {
+                    "da": "en flyverdragt",
+                    "zh": "儿童连体防寒服",
+                    "note": "丹麦冬季幼儿户外活动常见服装。"
+                },
+                {
+                    "da": "i den ene hånd … i den anden",
+                    "zh": "一只手……另一只手……",
+                    "note": "对称结构，适合细节叙述。"
+                }
+            ],
+            "nuance": "作者通过双手分别拿着什么来展示育儿中的多任务处理。`flyverdragt` 是非常有丹麦生活特色的词。湿衣服与手机并置，也让接孩子、联系另一名孩子的并行安排更加直观。",
+            "transfer": [
+                "Hun står med telefonen i den ene hånd og kaffen i den anden.",
+                "Inde i garderoben står …",
+                "Barnets flyverdragt er helt våd."
+            ],
+            "pitfall": "`flyverdragt` 不是飞行员制服，在日常儿童生活语境中特指连体户外保暖服。"
+        },
+        {
+            "id": "U01-C045",
+            "zh": "放学后，伊达去了一个女同学家。玛雅打电话过去，想问问那边情况怎么样。",
+            "grammar": "`er hjemme hos en veninde` 说明伊达现在的位置。`ringer for at høre` 是目的结构，`hvordan det går` 为间接疑问从句，采用 `det går` 的陈述语序。",
+            "vocabulary": [
+                {
+                    "da": "være hjemme hos nogen",
+                    "zh": "在某人家里",
+                    "note": "常用于孩子放学后的玩伴安排。"
+                },
+                {
+                    "da": "ringe for at høre",
+                    "zh": "打电话询问",
+                    "note": "可用于工作进度、近况或家庭安排。"
+                },
+                {
+                    "da": "hvordan det går",
+                    "zh": "情况如何、进展如何",
+                    "note": "也常用于关心某人近况。"
+                }
+            ],
+            "nuance": "`ringe for at høre` 不只是随便聊天，而是带有核实情况或关心近况的目的。`hjemme hos` 是丹麦语描述访问私人住所时很值得掌握的固定结构。",
+            "transfer": [
+                "Jeg ringer lige for at høre, hvordan det går.",
+                "Hun er hjemme hos en veninde.",
+                "Jeg ville bare høre, om alt er i orden."
+            ],
+            "pitfall": "`hvordan det går` 在间接问句里不倒装；直接问句才是 `Hvordan går det?`。"
+        },
+        {
+            "id": "U01-C046",
+            "zh": "喂，宝贝。你应该还在弗蕾娅家吧？",
+            "grammar": "`Du er vel stadig …?` 形式上是陈述语序，但通过语调构成确认式问句。`vel` 表示说话人认为某事很可能成立，并向对方寻求确认。",
+            "vocabulary": [
+                {
+                    "da": "skat",
+                    "zh": "亲爱的、宝贝",
+                    "note": "家人、伴侣之间的亲昵称呼。"
+                },
+                {
+                    "da": "vel",
+                    "zh": "应该……吧、想必……吧",
+                    "note": "语气词，常用于带预期的确认。"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、还",
+                    "note": "强调某种状态持续。"
+                }
+            ],
+            "nuance": "`vel` 既体现母亲有一个预先判断，也使核实位置的询问显得随和。与 `Er du stadig …?` 相比，它更像确认已知安排。",
+            "transfer": [
+                "Du er vel stadig på arbejde?",
+                "Vi ses vel i morgen?",
+                "Hej skat, hvordan går det?"
+            ],
+            "pitfall": "`vel` 不等于表示良好的 `godt`。这里要和普通疑问句区分：说话人已经带有某种预期。"
+        },
+        {
+            "id": "U01-C047",
+            "zh": "嗯。我能留下来一起吃晚饭吗？",
+            "grammar": "`Må jeg + 不定式` 是请求许可的标准结构。`blive til aftensmad` 中 `blive` 表示留下，`til` 表示留到参加晚餐这个活动。",
+            "vocabulary": [
+                {
+                    "da": "blive til aftensmad",
+                    "zh": "留下来吃晚饭",
+                    "note": "拜访朋友时常见的询问方式。"
+                },
+                {
+                    "da": "må jeg …?",
+                    "zh": "我可以……吗？",
+                    "note": "主要询问是否获准，而不是是否有能力。"
+                }
+            ],
+            "nuance": "孩子用简洁、直接而礼貌的许可问句，体现家庭熟人之间自然的沟通。没有额外客套并不意味着不礼貌。",
+            "transfer": [
+                "Må jeg blive til aftensmad?",
+                "Må børnene blive lidt længere?"
+            ],
+            "pitfall": "`blive til aftensmad` 不能按字面译为变成晚餐；这里的 `blive` 是停留、留下。"
+        },
+        {
+            "id": "U01-C048",
+            "zh": "今天不行。我大约十五分钟后就过去接你。",
+            "grammar": "`Ikke i dag` 是省略式否定回答。`kommer forbi` 是动词加小品词的口语表达，表示顺路过去、到访。`om et kvarter` 表示从现在起十五分钟后。",
+            "vocabulary": [
+                {
+                    "da": "komme forbi",
+                    "zh": "过来一趟、顺路到访",
+                    "note": "语境中可暗示过去接人。"
+                },
+                {
+                    "da": "om et kvarter",
+                    "zh": "十五分钟后",
+                    "note": "未来时间，区别于 `i et kvarter` 的持续十五分钟。"
+                }
+            ],
+            "nuance": "玛雅的回答直接但不严厉：先拒绝，再告知接送安排。`kommer forbi` 比正式的 `kommer for at hente dig` 更符合家长与孩子之间的自然口语。",
+            "transfer": [
+                "Jeg kommer forbi om et kvarter.",
+                "Ikke i dag, men måske i morgen.",
+                "Kan du komme forbi senere?"
+            ],
+            "pitfall": "`om et kvarter` 是十五分钟以后，`i et kvarter` 是持续十五分钟。"
+        },
+        {
+            "id": "U01-C049",
+            "zh": "唉，真扫兴。那弗蕾娅周四能来我们家玩吗？",
+            "grammar": "`Øv` 是独立感叹词。`Må Freja så komme hjem til os …?` 是情态动词引导的许可疑问句。`så` 承接刚才被拒绝的请求，引出替代安排。",
+            "vocabulary": [
+                {
+                    "da": "øv",
+                    "zh": "唉、真扫兴、讨厌",
+                    "note": "非正式口语感叹词。"
+                },
+                {
+                    "da": "komme hjem til os",
+                    "zh": "来我们家",
+                    "note": "`hjem til` 表示朝某人的家移动。"
+                },
+                {
+                    "da": "på torsdag",
+                    "zh": "这周四、下一个周四",
+                    "note": "指即将到来的具体星期四。"
+                }
+            ],
+            "nuance": "孩子马上提出替代方案。`så` 体现自然的协商逻辑：既然今天不能留宿吃饭，那换一天邀请朋友来家里。`Øv` 是日常对话里很地道的轻度失望表达。",
+            "transfer": [
+                "Øv, det var ærgerligt.",
+                "Må X så komme hjem til os?",
+                "Kan vi gøre det på torsdag i stedet?"
+            ],
+            "pitfall": "`på torsdag` 表示即将到来的星期四；`om torsdagen` 通常表示每周四。"
+        },
+        {
+            "id": "U01-C050",
+            "zh": "只要她爸妈同意，那当然可以。",
+            "grammar": "`Hvis det er i orden med hendes forældre` 是条件从句。`så må hun gerne` 中 `så` 引出主句，情态动词 `må` 后接主语 `hun`。`gerne` 与 `må` 合用，表示乐意给予许可。",
+            "vocabulary": [
+                {
+                    "da": "være i orden med nogen",
+                    "zh": "某人觉得可以、某人同意",
+                    "note": "常用于征求家长、同事或其他相关人的同意。"
+                },
+                {
+                    "da": "må gerne",
+                    "zh": "可以、获准",
+                    "note": "表达许可，语气通常友善。"
+                }
+            ],
+            "nuance": "这句话不是无限制承诺，而是明确尊重另一方家长的决定。`så må hun gerne` 比单说 `ja` 更完整地表达只要条件满足，就欢迎对方来。",
+            "transfer": [
+                "Hvis det er i orden med dig, så …",
+                "Hvis hendes forældre siger ja, må hun gerne komme.",
+                "Det er helt i orden med mig."
+            ],
+            "pitfall": "`må gerne` 是许可，不是必须。`hendes` 指 Freja 的父母，而不是 Ida 自己的父母。"
+        },
+        {
+            "id": "U01-C051",
+            "zh": "他们同意呀。她妈妈就站在我旁边点头呢。",
+            "grammar": "`Det er det` 中第二个 `det` 回指上一句的 `i orden` 所描述的情况。`står lige her og nikker` 用两个并列现在时动词描述同时发生的动作。",
+            "vocabulary": [
+                {
+                    "da": "nikke",
+                    "zh": "点头",
+                    "note": "过去式 `nikkede`。"
+                },
+                {
+                    "da": "lige her",
+                    "zh": "就在这里、就在身旁",
+                    "note": "`lige` 强调位置非常近。"
+                }
+            ],
+            "nuance": "孩子立即用现场证据解除母亲的顾虑，语气颇有机灵感。`Det er det` 是非常实用的简短肯定回答，避免重复整段条件内容。",
+            "transfer": [
+                "Det er det.",
+                "Hun står lige her.",
+                "Han står ved siden af mig og nikker."
+            ],
+            "pitfall": "不要把 `Det er det` 误当成没有意义的重复。第一个 `det` 指前述条件是否成立，第二个在表语位置确认成立。"
+        },
+        {
+            "id": "U01-C052",
+            "zh": "等他们回到家，约纳斯也才刚刚进门。",
+            "grammar": "`Da de kommer hjem` 是时间从句，采用生动叙事现在时。主句 `er Jonas lige kommet ind ad døren` 使用完成时，表示在他们到家的参照时刻，进门这一动作刚刚完成。",
+            "vocabulary": [
+                {
+                    "da": "komme hjem",
+                    "zh": "回家",
+                    "note": "`hjem` 是方向副词。"
+                },
+                {
+                    "da": "komme ind ad døren",
+                    "zh": "进门、刚到家",
+                    "note": "`ad` 用于通过门等通道。"
+                },
+                {
+                    "da": "lige",
+                    "zh": "刚刚、恰好",
+                    "note": "此处表示动作不久前完成。"
+                }
+            ],
+            "nuance": "`lige kommet ind ad døren` 不只是表达人在家，还强调几乎同步到达，让读者看到一家人重新聚集的瞬间。用现在时与完成时配合，使整个家庭画面具有即时感。",
+            "transfer": [
+                "Jeg er lige kommet hjem.",
+                "Han er lige kommet ind ad døren.",
+                "Da vi kommer hjem, er maden klar."
+            ],
+            "pitfall": "`lige` 可表示刚刚、正好或程度上的恰好，必须结合语境判断。`ind ad døren` 表示从门进入，不能随意用 `ind af døren` 替换。"
+        },
+        {
+            "id": "U01-C053",
+            "zh": "这时，一天中最占时间、却最不容易被人记住的部分开始了：做晚饭、洗碗、洗衣服和辅导功课。",
+            "grammar": "`Nu begynder` 是时间副词前置后的 V2 语序。`den del af dagen, der fylder mest og huskes mindst` 中关系从句有两个并列谓语：主动 `fylder` 和 s-被动 `huskes`，形成对照。",
+            "vocabulary": [
+                {
+                    "da": "fylde meget",
+                    "zh": "占用很多时间或空间",
+                    "note": "也可指情绪、事务占据生活。"
+                },
+                {
+                    "da": "blive husket",
+                    "zh": "被记住",
+                    "note": "原文采用 `huskes` 的 s-被动形式。"
+                },
+                {
+                    "da": "opvask",
+                    "zh": "洗碗、待洗的餐具",
+                    "note": "通常说 `tage opvasken`。"
+                },
+                {
+                    "da": "vasketøj",
+                    "zh": "待洗或洗好的衣物",
+                    "note": "集合名词；`vaske tøj` 是洗衣服。"
+                },
+                {
+                    "da": "lektier",
+                    "zh": "家庭作业、课后功课",
+                    "note": "常用复数，`lave lektier`。"
+                }
+            ],
+            "nuance": "`fylder mest og huskes mindst` 是富有表现力的对偶：最耗时间的事情却最不留下记忆。作者借此引出日常照护劳动容易被忽视这一主题。这种平行结构很值得用于高级写作。",
+            "transfer": [
+                "Det fylder meget i hverdagen.",
+                "Det er den del, der fylder mest.",
+                "Vi skal tage opvasken og lave lektier."
+            ],
+            "pitfall": "`fylde` 不一定指容器装满；抽象地说 `det fylder` 可以指事情耗费时间、占据注意力。`opvask` 与 `vasketøj` 是两类不同家务。"
+        },
+        {
+            "id": "U01-C054",
+            "zh": "周二由约纳斯做饭，周四轮到玛雅，其余几天他们根据实际需要轮流来。",
+            "grammar": "第二部分 `Maja om torsdagen` 省略重复的 `laver mad`，属于并列句中的省略结构。最后 `resten af ugen skiftes de efter behov` 以时间状语前置，`skiftes` 是表示轮流的 s-形式动词。",
+            "vocabulary": [
+                {
+                    "da": "om tirsdagen",
+                    "zh": "每周二",
+                    "note": "表示习惯性的星期几。"
+                },
+                {
+                    "da": "skiftes",
+                    "zh": "轮流、交替",
+                    "note": "常接 `til at + 不定式`。"
+                },
+                {
+                    "da": "efter behov",
+                    "zh": "根据需要",
+                    "note": "常见于家庭、行政和工作制度。"
+                },
+                {
+                    "da": "resten af ugen",
+                    "zh": "这周其余的时间",
+                    "note": "也可以泛指一周剩下的日子。"
+                }
+            ],
+            "nuance": "短句以高度压缩的方式展示双方的家务分工：部分固定、部分灵活。`efter behov` 体现现代家庭实际调配工作的方式，不意味着完全平均或严格各占一半。",
+            "transfer": [
+                "Vi skiftes til at lave mad.",
+                "Vi fordeler opgaverne efter behov.",
+                "Om torsdagen laver jeg mad."
+            ],
+            "pitfall": "`skiftes` 本身就是动词形式，不要误认为普通被动。`om tirsdagen` 表示习惯性周二，不同于 `på tirsdag` 的即将到来的周二。"
+        },
+        {
+            "id": "U01-C055",
+            "zh": "过去几十年里，家庭劳动的分配已经变得更加均衡，但总体平均而言，女性花在家务上的时间仍然多于男性。",
+            "grammar": "`er … blevet mere ligeligt fordelt` 使用完成时加被动结构，强调长期变化形成的结果。`gennem de sidste årtier` 是时间范围。`bruger … mere tid på … end …` 是表达时间投入比较的高频结构。",
+            "vocabulary": [
+                {
+                    "da": "ligeligt fordelt",
+                    "zh": "均衡分配的",
+                    "note": "`ligeligt` 强调份额分配的公平或均匀。"
+                },
+                {
+                    "da": "gennem de sidste årtier",
+                    "zh": "过去几十年间",
+                    "note": "正式说明文常见时间表达。"
+                },
+                {
+                    "da": "i gennemsnit",
+                    "zh": "平均而言",
+                    "note": "统计表述，不代表所有个体情况。"
+                },
+                {
+                    "da": "bruge tid på",
+                    "zh": "花时间在……上",
+                    "note": "后接名词或 `at + 不定式`。"
+                },
+                {
+                    "da": "husarbejde",
+                    "zh": "家务劳动",
+                    "note": "抽象集合名词。"
+                }
+            ],
+            "nuance": "这一句具有社会分析的平衡性：首先指出进步，再承认仍存在的平均差距。`i gennemsnit` 非常重要，它防止读者把统计趋势误认为每一个家庭都如此。`stadig` 则突出了现状与预期之间的差距。",
+            "transfer": [
+                "Arbejdet er blevet mere ligeligt fordelt.",
+                "Kvinder bruger i gennemsnit mere tid på X end mænd.",
+                "Der er sket store ændringer gennem de sidste årtier."
+            ],
+            "pitfall": "`ligeligt` 与 `lovligt` 不同，前者是均匀、公平地分配，后者是合法地。`bruge tid på` 不要误用介词 `til` 来机械替换。"
+        },
+        {
+            "id": "U01-C056",
+            "zh": "即便夫妻双方轮流洗碗，那些看不见的计划和安排工作仍可能分配得很不均衡：总得有人记得牙医预约、生日礼物，以及要带到托婴所的那只红色奶嘴。",
+            "grammar": "`selv i par, der deler opvasken` 用 `selv` 构成让步性强调。`kan … være skævt fordelt` 表达可能存在的分配不平衡。冒号后以泛指主语 `Nogen` 引出具体例子，说明抽象概念。",
+            "vocabulary": [
+                {
+                    "da": "usynligt planlægningsarbejde",
+                    "zh": "看不见的计划协调劳动",
+                    "note": "可联系家庭中的 mental load。"
+                },
+                {
+                    "da": "skævt fordelt",
+                    "zh": "分配不均衡",
+                    "note": "`skæv` 字面有倾斜、不正之意。"
+                },
+                {
+                    "da": "dele opvasken",
+                    "zh": "共同分担洗碗",
+                    "note": "体现具体家务分工。"
+                },
+                {
+                    "da": "en tandlægetid",
+                    "zh": "牙医预约时间",
+                    "note": "复数 `tandlægetider`。"
+                },
+                {
+                    "da": "en sut",
+                    "zh": "安抚奶嘴",
+                    "note": "复数 `sutter`。"
+                }
+            ],
+            "nuance": "本句区分可见的家务执行和隐形的记忆、规划、协调责任。`selv` 使论证更有力度：即使具体家务看起来已经共同承担，心理负担也未必公平。作者用奶嘴颜色等琐碎细节让抽象社会概念容易理解。",
+            "transfer": [
+                "Arbejdet kan være skævt fordelt.",
+                "Selv om vi deler husarbejdet, …",
+                "Nogen skal huske alle aftalerne."
+            ],
+            "pitfall": "`skævt` 在此不是真的歪斜，而是分配不平衡。`planlægningsarbejde` 不能缩减成仅仅做家务，它还包括安排、记忆和决策。"
+        },
+        {
+            "id": "U01-C057",
+            "zh": "埃米尔，你今天没吃点水果吗？",
+            "grammar": "`Har du ikke fået …?` 是带否定的完成时疑问句。`noget frugt` 中 `noget` 与集合性的不可数用法 `frugt` 搭配。",
+            "vocabulary": [
+                {
+                    "da": "få noget frugt",
+                    "zh": "吃到一些水果",
+                    "note": "`få` 在饮食语境中可表示获得或吃到。"
+                }
+            ],
+            "nuance": "否定问句在这里表达家长本以为孩子应该吃过水果，或想确认是否遗漏了水果。它并非单纯的否定指责。",
+            "transfer": [
+                "Har du ikke fået noget at spise?",
+                "Har du fået noget frugt i dag?"
+            ],
+            "pitfall": "带否定的问题若事实是肯定的，丹麦语通常用 `jo` 回答，而不是普通的 `ja`。"
+        },
+        {
+            "id": "U01-C058",
+            "zh": "吃了！香蕉。",
+            "grammar": "`Jo` 用于反驳前一句否定问句中的否定预设。`Banan` 是省略式回答，补充水果的具体种类。",
+            "vocabulary": [
+                {
+                    "da": "jo",
+                    "zh": "不，我其实有……",
+                    "note": "作为回答词，可专门纠正否定疑问或否定陈述。"
+                }
+            ],
+            "nuance": "两岁孩子用极简短的词语作答，符合人物年龄。这里的 `Jo` 不是语气小品词，而是具有明确回答功能的肯定词。",
+            "transfer": [
+                "Har du ikke spist? – Jo.",
+                "Du har ikke ringet. – Jo, det har jeg."
+            ],
+            "pitfall": "必须分清回答用的 `jo` 和陈述句中表示共同知识的语气小品词 `jo`。"
+        },
+        {
+            "id": "U01-C059",
+            "zh": "伊达，你记得读你的书了吗？",
+            "grammar": "`har husket at læse` 是完成时，`huske at + 不定式` 表示记得完成某项预定任务。`læse i din bog` 表示阅读书中的内容，不要求把整本书读完。",
+            "vocabulary": [
+                {
+                    "da": "huske at gøre noget",
+                    "zh": "记得做某事",
+                    "note": "用于提醒未来或尚待完成的任务。"
+                },
+                {
+                    "da": "læse i en bog",
+                    "zh": "读书中的一些内容",
+                    "note": "区别于 `læse en bog` 的读一本书。"
+                }
+            ],
+            "nuance": "这是丹麦家庭检查孩子日常阅读作业的自然问法。母亲关注的是当天是否完成了阅读任务，而不是阅读兴趣本身。",
+            "transfer": [
+                "Har du husket at lave lektier?",
+                "Husk at læse i din bog.",
+                "Jeg har læst i bogen i en halv time."
+            ],
+            "pitfall": "`huske at gøre` 是记得要做，`huske at have gjort` 和 `huske at man har gjort` 涉及回忆已做过的事，功能不能混淆。"
+        },
+        {
+            "id": "U01-C060",
+            "zh": "我早就读过啦！",
+            "grammar": "`Det har jeg allerede gjort` 用 `det` 回指前面的阅读任务，`har gjort` 表示已经完成。`allerede` 放在完成时结构中，强调动作早于预期完成。",
+            "vocabulary": [
+                {
+                    "da": "allerede",
+                    "zh": "已经、早就",
+                    "note": "强调比预想时间更早。"
+                },
+                {
+                    "da": "gøre det",
+                    "zh": "做这件事",
+                    "note": "替代上文已知的动作，避免重复。"
+                }
+            ],
+            "nuance": "孩子带感叹地强调自己已经做完，可能有一点不耐烦被反复提醒。`allerede` 比单纯的完成时更突出早已完成的意思。",
+            "transfer": [
+                "Det har jeg allerede gjort.",
+                "Jeg har allerede svaret.",
+                "Har du gjort det? – Ja, det har jeg."
+            ],
+            "pitfall": "`allerede` 是已经、早就；`endnu` 在否定句中常表示尚未，二者不能随意互换。"
+        },
+        {
+            "id": "U01-C061",
+            "zh": "那太好了呀。",
+            "grammar": "`Det er …` 是简单评价结构。`da` 是语气小品词，表示对刚才得到的信息作出积极回应。",
+            "vocabulary": [
+                {
+                    "da": "det er da dejligt",
+                    "zh": "那真不错呀",
+                    "note": "口语中可表示温和赞许或欣慰。"
+                }
+            ],
+            "nuance": "`da` 让回应听起来更加自然和亲切。视语调不同也可能带轻微意外，但这里主要是对孩子完成阅读的肯定。",
+            "transfer": [
+                "Det er da dejligt at høre.",
+                "Det var da godt."
+            ],
+            "pitfall": "`da` 在此不是时间连词，不必译成当……时。"
+        },
+        {
+            "id": "U01-C062",
+            "zh": "明天是外婆来接孩子，对吧？",
+            "grammar": "`Det er mormor, der henter i morgen` 是强调句，突出负责接孩子的人。`henter` 在家庭语境中可省略孩子这一宾语。末尾 `ikke?` 作为确认性附加问句。",
+            "vocabulary": [
+                {
+                    "da": "mormor",
+                    "zh": "外婆、母亲的母亲",
+                    "note": "与 `farmor` 的父亲的母亲严格区分。"
+                },
+                {
+                    "da": "hente",
+                    "zh": "接、取、去接人",
+                    "note": "常见于学校、托育机构和车站。"
+                }
+            ],
+            "nuance": "夫妻之间通过简短确认维持接送分工。强调句使被确认的人选成为焦点，比 `Henter mormor i morgen?` 更像重复确认已有计划。",
+            "transfer": [
+                "Det er mormor, der henter i morgen.",
+                "Hvem henter børnene?",
+                "Du henter i morgen, ikke?"
+            ],
+            "pitfall": "`mormor` 与 `farmor` 不能混用。`hente` 表示去接回来，与 `aflevere` 的送去构成常用对照。"
+        },
+        {
+            "id": "U01-C063",
+            "zh": "对。周三就是她固定来接孩子的日子。",
+            "grammar": "`Onsdag` 作主语，`er hendes faste dag` 表达固定安排。`hendes` 在此指 Majas 母亲，即 mormor。",
+            "vocabulary": [
+                {
+                    "da": "en fast dag",
+                    "zh": "固定的一天、固定安排的日子",
+                    "note": "`fast` 在这里表示不变动，而不是速度快。"
+                }
+            ],
+            "nuance": "非常简洁的家庭日程表达，说明祖辈接送已成为一项稳定安排，不需要每周重新协商。",
+            "transfer": [
+                "Onsdag er min faste hjemmearbejdsdag.",
+                "Vi har en fast aftale hver uge."
+            ],
+            "pitfall": "`fast` 有固定、牢固等含义，在 `en fast dag` 中不表示速度。"
+        },
+        {
+            "id": "U01-C064",
+            "zh": "太棒了！那我们又能吃到煎饼了。",
+            "grammar": "`Så får vi …` 用 `så` 表示根据上一条消息推导出的结果。`får` 在饮食语境中表示得到、吃到。",
+            "vocabulary": [
+                {
+                    "da": "fedt",
+                    "zh": "太棒了、酷",
+                    "note": "非正式口语赞叹；另可表示脂肪或油腻。"
+                },
+                {
+                    "da": "pandekager",
+                    "zh": "煎饼、可丽饼式薄饼",
+                    "note": "单数 `en pandekage`。"
+                }
+            ],
+            "nuance": "孩子第一反应不是接送本身，而是外婆会做的美食，给家庭关系增加了轻松温暖的细节。`Fedt!` 是自然的兴奋口语。",
+            "transfer": [
+                "Fedt! Så ses vi i morgen.",
+                "Så får vi pandekager."
+            ],
+            "pitfall": "`fedt` 在这里不是字面上的肥胖或油脂；感叹用法属于非正式语体。"
+        },
+        {
+            "id": "U01-C065",
+            "zh": "在丹麦，一份通常意义上的全职工作每周为三十七小时。",
+            "grammar": "`En almindelig fuldtidsstilling` 是主语。`er på 37 timer om ugen` 中 `være på + 数量` 表示某项标准或额度为多少。",
+            "vocabulary": [
+                {
+                    "da": "en fuldtidsstilling",
+                    "zh": "全职职位",
+                    "note": "与 `en deltidsstilling` 的兼职职位相对。"
+                },
+                {
+                    "da": "være på 37 timer",
+                    "zh": "为三十七小时",
+                    "note": "工作时间、预算、金额等都可使用 `være på`。"
+                },
+                {
+                    "da": "om ugen",
+                    "zh": "每周",
+                    "note": "表示周期性频率。"
+                }
+            ],
+            "nuance": "`almindelig` 避免将三十七小时说成任何行业、职业都必须遵守的绝对标准。它描述丹麦常见的全职工作时数，并为后文的时间压力提供背景。",
+            "transfer": [
+                "Jeg har en fuldtidsstilling på 37 timer om ugen.",
+                "Stillingen er på 30 timer om ugen.",
+                "Hvor mange timer arbejder du om ugen?"
+            ],
+            "pitfall": "`en stilling på 37 timer` 表示合同工作时数，不必等同于所有岗位的实际总投入，包括加班。"
+        },
+        {
+            "id": "U01-C066",
+            "zh": "当夫妻双方都全职工作，而托婴所五点就关门时，日程表里实在没有多少腾挪空间。",
+            "grammar": "`Når begge arbejder fuld tid, og vuggestuen lukker klokken fem` 是复合时间条件从句。整个从句前置后，主句采用 `er der` 的 V2 存在句语序。`ikke meget luft i kalenderen` 是比喻性表达。",
+            "vocabulary": [
+                {
+                    "da": "arbejde fuld tid",
+                    "zh": "全职工作",
+                    "note": "与 `arbejde deltid` 相对。"
+                },
+                {
+                    "da": "luft i kalenderen",
+                    "zh": "日程上的余地、空余时间",
+                    "note": "非常自然的比喻表达。"
+                },
+                {
+                    "da": "lukke klokken fem",
+                    "zh": "五点关门",
+                    "note": "也可用于机构结束营业或服务时间。"
+                }
+            ],
+            "nuance": "`luft i kalenderen` 比 `ledig tid` 更形象：不只是有没有时间，而是日程是否留有余地应付变化。`Når` 把这句话呈现为一般性、经常出现的家庭处境。",
+            "transfer": [
+                "Der er ikke meget luft i kalenderen.",
+                "Når begge arbejder fuld tid, bliver det svært.",
+                "Jeg har lidt luft i kalenderen på fredag."
+            ],
+            "pitfall": "`luft` 字面是空气，这里是时间和空间上的余地。`når` 引导的前置从句之后，主句必须是 `er der`，不是 `der er`。"
+        },
+        {
+            "id": "U01-C067",
+            "zh": "在公共讨论中，这种状况被称为时间夹缝：总觉得时间怎么都不够，无法同时兼顾工作、孩子、伴侣关系和睡眠。",
+            "grammar": "`kaldes` 是 s-被动，表示被称作。冒号后 `følelsen af, at …` 解释术语，`at der aldrig er tid nok til …` 是补充该感受内容的从句。`på én gang` 表示同时兼顾。",
+            "vocabulary": [
+                {
+                    "da": "den offentlige debat",
+                    "zh": "公共讨论、公共舆论辩论",
+                    "note": "政策和社会议题写作常用表达。"
+                },
+                {
+                    "da": "tidsklemmen",
+                    "zh": "时间挤压困境、时间夹缝",
+                    "note": "尤其用于工作与家庭责任之间的时间冲突。"
+                },
+                {
+                    "da": "tid nok til",
+                    "zh": "有足够时间做……",
+                    "note": "`nok` 置于名词 `tid` 后。"
+                },
+                {
+                    "da": "på én gang",
+                    "zh": "同时、一下子",
+                    "note": "重音符号强调数字一。"
+                }
+            ],
+            "nuance": "`tidsklemmen` 不单指生活忙碌，而是不同责任和制度时间相互挤压造成的长期压力。作者先引入公共讨论的术语，再用家庭生活内容解释，对正式写作很有借鉴价值。",
+            "transfer": [
+                "I den offentlige debat kaldes det X.",
+                "Der er aldrig tid nok til det hele.",
+                "Det er svært at nå alt på én gang."
+            ],
+            "pitfall": "`tidsklemmen` 不能简单译作时间管理差，它描述的是客观和主观双重时间压力。`tid nok` 的词序是名词在前。"
+        },
+        {
+            "id": "U01-C068",
+            "zh": "有些家庭的解决办法是，让其中一方减少工作时数。",
+            "grammar": "`løser det ved, at …` 使用 `ved, at` 引出解决问题所采取的方式。`den ene` 指双方中的一人。`går ned i tid` 是减少工作时数的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "gå ned i tid",
+                    "zh": "减少工时、转为较短工作时间",
+                    "note": "通常用于从全职减少为兼职或降低合同工时。"
+                },
+                {
+                    "da": "løse noget ved at",
+                    "zh": "通过……解决问题",
+                    "note": "可接不定式；主语变化时可用 `ved, at` 从句。"
+                }
+            ],
+            "nuance": "作者没有将减少工时描述成适合所有人的方法，只说一些家庭这样处理。`den ene` 避免预设一定由母亲还是父亲减少工作时间。",
+            "transfer": [
+                "Nogle løser problemet ved at gå ned i tid.",
+                "Vi overvejer at gå ned i tid.",
+                "Det kan løses ved, at vi fordeler opgaverne bedre."
+            ],
+            "pitfall": "`gå ned i tid` 是减少工作时数，不是工作效率下降，也不等同于辞职。"
+        },
+        {
+            "id": "U01-C069",
+            "zh": "另一些家庭则得到祖父母或外祖父母的帮助。",
+            "grammar": "`Andre` 独立作代词，指另外一些家庭，避免重复 `familier`。`få hjælp af nogen` 表示获得某人的帮助。",
+            "vocabulary": [
+                {
+                    "da": "få hjælp af",
+                    "zh": "得到……的帮助",
+                    "note": "帮助的提供者用 `af` 引出。"
+                },
+                {
+                    "da": "bedsteforældrene",
+                    "zh": "祖父母、外祖父母们",
+                    "note": "合称双方的祖辈。"
+                }
+            ],
+            "nuance": "与上一句形成解决方式的平行对照：一些家庭减少工作时间，另一些家庭依靠亲属支持。表达简洁，不重复解释背景。",
+            "transfer": [
+                "Andre får hjælp af familien.",
+                "Vi får meget hjælp af bedsteforældrene."
+            ],
+            "pitfall": "`få hjælp af nogen` 中 `af` 指帮助来源；`hjælpe nogen med noget` 则采用另一套结构。"
+        },
+        {
+            "id": "U01-C070",
+            "zh": "玛雅的母亲已经退休，每周三都来接孩子。即便一周只有这么一个下午的帮忙，也能带来很大的改变。",
+            "grammar": "`der er gået på pension` 是补充说明 Majas 母亲的关系从句。`er gået` 用现在完成时表示已经进入退休状态。`selv en enkelt eftermiddag om ugen` 作为强调性主语，`gør en stor forskel` 是惯用结果表达。",
+            "vocabulary": [
+                {
+                    "da": "gå på pension",
+                    "zh": "退休",
+                    "note": "状态可说 `være på pension`。"
+                },
+                {
+                    "da": "hver onsdag",
+                    "zh": "每周三",
+                    "note": "明确表示固定周期。"
+                },
+                {
+                    "da": "gøre en stor forskel",
+                    "zh": "产生很大影响、帮上大忙",
+                    "note": "适用于工作、政策和人际支持。"
+                },
+                {
+                    "da": "en enkelt eftermiddag",
+                    "zh": "仅仅一个下午",
+                    "note": "`enkelt` 突出数量少。"
+                }
+            ],
+            "nuance": "`selv` 突出看似微小的支持也很有价值。作者借固定周三的接送安排，将宏观时间压力与具体家庭解决方案结合起来。",
+            "transfer": [
+                "Selv en enkelt time gør en forskel.",
+                "Min mor er gået på pension.",
+                "Hun henter børnene hver onsdag."
+            ],
+            "pitfall": "`gøre en forskel` 在这里不是做出差别，而是产生实际影响。`gå på pension` 与 `være pensionist` 的动作和身份侧重点不同。"
+        },
+        {
+            "id": "U01-C071",
+            "zh": "随着孩子逐渐长大，家庭日程安排的性质也发生了变化：接下来需要协调进日程的，就是足球训练、童子军活动和孩子们的玩伴约会。",
+            "grammar": "`Efterhånden som …` 是表示渐进变化的时间从句。`ændrer logistikken karakter` 描述事物性质变化。冒号后的 `Så er det X, der skal passes ind` 是强调句，`passes ind` 是被动结构。",
+            "vocabulary": [
+                {
+                    "da": "efterhånden som",
+                    "zh": "随着……逐渐……",
+                    "note": "高级说明文非常有用的时间关联词。"
+                },
+                {
+                    "da": "ændre karakter",
+                    "zh": "改变性质、呈现不同面貌",
+                    "note": "多用于社会变化和长期过程。"
+                },
+                {
+                    "da": "passe noget ind",
+                    "zh": "把某件事安排进去、挤进日程",
+                    "note": "也常说 `passe ind i kalenderen`。"
+                },
+                {
+                    "da": "spejder",
+                    "zh": "童子军活动、参加童子军",
+                    "note": "丹麦儿童常见课外活动。"
+                },
+                {
+                    "da": "en legeaftale",
+                    "zh": "儿童约好一起玩的安排",
+                    "note": "父母之间也会协调时间、地点。"
+                }
+            ],
+            "nuance": "作者强调家庭压力并不会简单地随孩子长大而消失，而是由基础照护转变成课外活动和社交协调。`ændrer karakter` 比 `bliver anderledes` 更适合成熟说明文。",
+            "transfer": [
+                "Efterhånden som børnene bliver større, …",
+                "Problemet ændrer karakter.",
+                "Det kan være svært at passe alle aftalerne ind."
+            ],
+            "pitfall": "`passe ind` 在这里不是合适的衣服尺寸，而是安排得下、时间上容纳得下。`efterhånden som` 不能简单按两个独立词翻译。"
+        },
+        {
+            "id": "U01-C072",
+            "zh": "伊达还想再听一个故事，虽然严格说来，她已经大到不太需要别人给她朗读了。",
+            "grammar": "`vil have en historie til` 表示还想要一个故事。`selvom` 引导让步从句。`for stor til at blive læst højt for` 是程度结构 `for + 形容词 + til at`，其中 `blive læst højt for` 使用被动，并保留受益者介词 `for`。",
+            "vocabulary": [
+                {
+                    "da": "en historie til",
+                    "zh": "再一个故事",
+                    "note": "后置 `til` 表示额外增加一个。"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "其实、严格说来",
+                    "note": "常用于表达事实与愿望之间的差异。"
+                },
+                {
+                    "da": "læse højt for nogen",
+                    "zh": "给某人朗读",
+                    "note": "固定结构，强调出声读给听众。"
+                },
+                {
+                    "da": "være for stor til",
+                    "zh": "年龄太大而不适合或不需要……",
+                    "note": "此处 `stor` 指年龄阶段，不是体型。"
+                }
+            ],
+            "nuance": "`egentlig` 表示从年龄或常规来看，伊达似乎已经长大了，但她仍珍惜睡前故事。语气并非严厉批评她幼稚，而是温柔地指出成长与依恋并存的状态。",
+            "transfer": [
+                "Jeg vil gerne have en historie til.",
+                "Hun er egentlig for stor til det.",
+                "Jeg læser højt for børnene."
+            ],
+            "pitfall": "`til` 后置在 `en historie til` 中表示再一个。`læse højt for nogen` 的介词 `for` 在被动结构里依然保留。"
+        },
+        {
+            "id": "U01-C073",
+            "zh": "就再读一章，好不好？",
+            "grammar": "省略式请求句，以名词短语代替完整的 `Kan vi ikke læse …?`。`bare` 表示只要、就好，`ét` 用重音符号强调数量恰好为一。",
+            "vocabulary": [
+                {
+                    "da": "bare ét … mere",
+                    "zh": "就再一个……",
+                    "note": "亲切、轻度恳求的口语结构。"
+                },
+                {
+                    "da": "et kapitel",
+                    "zh": "章节",
+                    "note": "复数 `kapitler`。"
+                }
+            ],
+            "nuance": "非常自然的亲子请求。`bare` 使要求显得小而容易接受，`ét` 强调真的只再增加一章。",
+            "transfer": [
+                "Bare fem minutter mere?",
+                "Bare én gang til?",
+                "Et kapitel mere, tak?"
+            ],
+            "pitfall": "`ét` 用于强调中性名词数量一，如 `ét kapitel`；`én` 与通性名词或独立用法相配。"
+        },
+        {
+            "id": "U01-C074",
+            "zh": "好吧。不过读完这一章，就真的该睡觉了。",
+            "grammar": "`Men så er det også godnat` 采用时间或结果副词 `så` 前置后的 V2 语序。`det er godnat` 是口语中宣布睡觉时间到了的固定说法。",
+            "vocabulary": [
+                {
+                    "da": "så er det også godnat",
+                    "zh": "那之后就真的得睡了",
+                    "note": "`også` 在此加强最后界限的意味。"
+                }
+            ],
+            "nuance": "母亲同意再读一章，同时用 `så` 明确结束条件。`også` 使话语带有家长温和但坚定设定边界的语气。",
+            "transfer": [
+                "Okay, men så er det også slut.",
+                "Bare fem minutter mere, og så er det sengetid."
+            ],
+            "pitfall": "`godnat` 不一定只能作为睡前告别，也能在 `så er det godnat` 中表示现在要睡觉了。"
+        },
+        {
+            "id": "U01-C075",
+            "zh": "妈妈？今天最开心、最美好的一件事是什么？",
+            "grammar": "`det bedste` 是形容词最高级名词化。`ved i dag` 表示今天值得欣赏、最好的方面。疑问句采用 `Hvad var …?` 的动词与主语结构。",
+            "vocabulary": [
+                {
+                    "da": "det bedste ved",
+                    "zh": "……最好的地方",
+                    "note": "适合评价一天、工作、旅行和经历。"
+                }
+            ],
+            "nuance": "孩子不问今天完成了多少事情，而是问最美好的一刻，为文章从时间压力转向情感价值的结尾作铺垫。",
+            "transfer": [
+                "Hvad var det bedste ved din dag?",
+                "Det bedste ved jobbet er kollegerne."
+            ],
+            "pitfall": "`det bedste ved` 中使用 `ved`，不必照搬英语的 `about` 而用不自然的介词。"
+        },
+        {
+            "id": "U01-C076",
+            "zh": "我想，就是现在这一刻吧。",
+            "grammar": "`Det her` 是指示性名词短语，指当前共同经历的时刻。`tror jeg` 是后置的插入式表达，用来柔化判断。",
+            "vocabulary": [
+                {
+                    "da": "det her",
+                    "zh": "这个、眼前这一刻",
+                    "note": "具体指代由语境确定。"
+                },
+                {
+                    "da": "tror jeg",
+                    "zh": "我想、我觉得",
+                    "note": "可以后置成插入语。"
+                }
+            ],
+            "nuance": "玛雅用极简的回答承认睡前亲密时刻是当天最美好的部分。`tror jeg` 增加温柔、随意和真实感，而不是对事实严重不确定。",
+            "transfer": [
+                "Det her, tror jeg.",
+                "Det bliver godt, tror jeg.",
+                "Det var nok dagens bedste øjeblik."
+            ],
+            "pitfall": "后置 `tror jeg` 不需要再增加 `at`；若改成前置形式，可以说 `Jeg tror, det er det her`。"
+        },
+        {
+            "id": "U01-C077",
+            "zh": "后来，玛雅和约纳斯坐在沙发上，各自面前一台电脑，手边各有一杯喝了一半的茶。",
+            "grammar": "`Bagefter` 作前置时间副词。`hver sin computer og hver sin halvdrukne kop te` 是分配性结构，表示每个人各有一件。`halvdrukne` 是由过去分词构成的定语，修饰 `kop te`。",
+            "vocabulary": [
+                {
+                    "da": "bagefter",
+                    "zh": "之后、后来",
+                    "note": "用于承接前一个场景。"
+                },
+                {
+                    "da": "hver sin",
+                    "zh": "各自的一件",
+                    "note": "与 `hver sit`、`hver sine` 按名词性别和数变化。"
+                },
+                {
+                    "da": "halvdrukken",
+                    "zh": "喝到一半的",
+                    "note": "此处 `halvdrukne` 形容茶杯中饮品已喝掉一部分。"
+                }
+            ],
+            "nuance": "同样的电脑、同样半杯茶，形成视觉上的对称。`hver sin` 暗示两个人虽然坐在一起，却各自忙着自己的事情，为后面继续协调家庭安排提供现实背景。",
+            "transfer": [
+                "Vi har hver sin computer.",
+                "De sidder med hver sin kop kaffe.",
+                "Bagefter sætter vi os i sofaen."
+            ],
+            "pitfall": "`hver sin` 不能机械替代所有名词：`hver sit barn` 对应 et 词，`hver sine bøger` 对应复数。`halvdrukne` 不能理解为两个人喝醉了一半。"
+        },
+        {
+            "id": "U01-C078",
+            "zh": "你给我姐姐或妹妹回复过夏日度假屋那件事了吗？",
+            "grammar": "`Har du svaret …?` 使用完成时询问任务是否完成。`svare nogen på noget` 表示就某件事回复某人。`det med sommerhuset` 是口语中回指双方已知议题的简便表达。",
+            "vocabulary": [
+                {
+                    "da": "svare nogen på noget",
+                    "zh": "就某件事回复某人",
+                    "note": "如 `svare min søster på spørgsmålet`。"
+                },
+                {
+                    "da": "det med",
+                    "zh": "关于……的那件事",
+                    "note": "很自然的口语指代。"
+                },
+                {
+                    "da": "et sommerhus",
+                    "zh": "度假小屋、夏季度假屋",
+                    "note": "丹麦常见的休闲居住形式。"
+                }
+            ],
+            "nuance": "`det med sommerhuset` 暗示夫妻双方早已讨论过这个计划，因此无需重新介绍。这样的省略式回指很适合自然对话，也反映家庭日常经常在处理尚未完成的小事项。",
+            "transfer": [
+                "Har du svaret hende på det?",
+                "Hvad med det med sommerhuset?",
+                "Vi skal lige tale om det med ferien."
+            ],
+            "pitfall": "`svare nogen på noget` 中接受回复的人可以直接作宾语；不一定要使用 `til`。`min søster` 无法单凭丹麦语区分姐姐和妹妹。"
+        },
+        {
+            "id": "U01-C079",
+            "zh": "还没，不过不着急呀。反正要到七月份才去。",
+            "grammar": "`det haster ikke` 是无人称结构，表示事情不紧急。`Det er først i juli` 中 `først` 强调时间还晚、尚有距离，并非表示顺序中的第一。",
+            "vocabulary": [
+                {
+                    "da": "det haster ikke",
+                    "zh": "不着急、不紧迫",
+                    "note": "常用于工作和家庭安排。"
+                },
+                {
+                    "da": "først i juli",
+                    "zh": "要到七月份才……",
+                    "note": "`først` 带有时间尚早、不必急的含义。"
+                }
+            ],
+            "nuance": "玛雅认为出行距离现在还远，所以没有必要立即回复。`først` 的作用并非纯粹告知日期，而是在为不着急这一判断提供理由。",
+            "transfer": [
+                "Det haster ikke.",
+                "Vi skal først af sted i juli.",
+                "Det er først i næste måned."
+            ],
+            "pitfall": "`først` 不是所有时候都表示第一个。`det haster` 是固定结构，不需要像汉语那样补出一个明确主语。"
+        },
+        {
+            "id": "U01-C080",
+            "zh": "不，还是有一点急的。她最迟周五就得知道答复。",
+            "grammar": "`Jo, lidt` 用于反驳上一句 `det haster ikke` 的否定判断。`Hun skal vide det` 使用情态动词 `skal` 表示实际要求或期限。`senest på fredag` 明确最后时限。",
+            "vocabulary": [
+                {
+                    "da": "jo, lidt",
+                    "zh": "不，还是有一点的",
+                    "note": "用于纠正否定陈述，同时缓和反驳力度。"
+                },
+                {
+                    "da": "senest på fredag",
+                    "zh": "最迟周五",
+                    "note": "包含周五这一天作为最后期限。"
+                }
+            ],
+            "nuance": "Jonas 没有激烈争论，而是用 `Jo, lidt` 温和纠正配偶对紧迫性的判断，然后给出客观截止日期。这样的结构很适合既要表达不同意见又不想显得强硬的工作交流。",
+            "transfer": [
+                "Jo, det haster faktisk lidt.",
+                "Jeg skal vide det senest på fredag.",
+                "Vi skal have svar senest i morgen."
+            ],
+            "pitfall": "`senest på fredag` 是最迟周五，而 `tidligst på fredag` 才是最早周五。注意反驳否定陈述时的 `jo`。"
+        },
+        {
+            "id": "U01-C081",
+            "zh": "哦，原来如此。那我明天给她写消息。我们之前说的是七月第一周，对吧？",
+            "grammar": "`Så skriver jeg` 是结果副词前置后的 V2 语序。`Det var den første uge i juli, vi sagde, ikke?` 属于口语中的强调及省略式回顾，突出之前商定的时间，末尾 `ikke?` 请求确认。",
+            "vocabulary": [
+                {
+                    "da": "nå",
+                    "zh": "哦、原来如此",
+                    "note": "表示接收到新信息或修正原有判断。"
+                },
+                {
+                    "da": "skrive til nogen",
+                    "zh": "给某人写信或发消息",
+                    "note": "通常使用 `til` 引出收件人。"
+                },
+                {
+                    "da": "den første uge i juli",
+                    "zh": "七月第一周",
+                    "note": "可用于假期、项目计划和时间安排。"
+                }
+            ],
+            "nuance": "`Nå` 表示玛雅现在明白为什么事情有一点急。`Så` 体现接受信息后作出下一步决定。末尾的确认问句说明即使是共同制定的家庭计划，也需要反复核实细节。",
+            "transfer": [
+                "Nå, så skriver jeg til hende i morgen.",
+                "Det var den første uge i juli, ikke?",
+                "Det var torsdag, vi aftalte, ikke?"
+            ],
+            "pitfall": "`skrive til nogen` 是写给某人，通常不要说 `skrive nogen` 来表达发消息。`nå` 在这里是话语标记，不是赶上时间的动词 `nå`。"
+        },
+        {
+            "id": "U01-C082",
+            "zh": "对，不过还得看我能不能请到假。",
+            "grammar": "`Det kommer an på, om …` 是常用依赖条件结构。`om jeg kan få fri` 为间接是非问句，使用主语 `jeg` 加情态动词 `kan` 的从句语序。`få fri` 表示获准休息或请假。",
+            "vocabulary": [
+                {
+                    "da": "komme an på",
+                    "zh": "取决于",
+                    "note": "固定表达 `det kommer an på, om/hvad/hvordan …`。"
+                },
+                {
+                    "da": "få fri",
+                    "zh": "获准休假、得到休息时间",
+                    "note": "不一定专指带薪年假。"
+                }
+            ],
+            "nuance": "Jonas 并不否认七月第一周是原来的计划，但提醒这还受工作许可约束。`Det kommer an på` 是丹麦语表达有条件承诺时非常实用的句型。",
+            "transfer": [
+                "Det kommer an på, om jeg kan få fri.",
+                "Det kommer an på prisen.",
+                "Jeg ved ikke, om jeg kan få fri."
+            ],
+            "pitfall": "`komme an på` 中的 `på` 必须保留。`om` 在这里表示是否，不是关于。"
+        },
+        {
+            "id": "U01-C083",
+            "zh": "那你肯定能请到呀。你明明还剩好多天年假呢。",
+            "grammar": "`Det kan du da sagtens` 中 `det` 指前面提到的请假，`kan` 表示可行性，`sagtens` 加强毫无困难的判断。第二句 `Du har jo … tilbage` 中 `jo` 强调双方都知道或应当知道的依据。",
+            "vocabulary": [
+                {
+                    "da": "sagtens",
+                    "zh": "轻而易举地、完全没问题",
+                    "note": "常与 `kan` 搭配。"
+                },
+                {
+                    "da": "masser af",
+                    "zh": "大量、很多",
+                    "note": "非正式而自然。"
+                },
+                {
+                    "da": "feriedage tilbage",
+                    "zh": "剩余的年假天数",
+                    "note": "`tilbage` 表示尚未用完。"
+                }
+            ],
+            "nuance": "`da` 与 `jo` 分工不同：前者加强玛雅的确信，后者指出她认为双方都知道的证据。`sagtens` 使回答显得乐观，但这毕竟是个人判断，并不意味着雇主已经批准。",
+            "transfer": [
+                "Det kan du da sagtens.",
+                "Du har jo masser af tid.",
+                "Jeg har stadig ti feriedage tilbage."
+            ],
+            "pitfall": "`sagtens` 不能拆解成单纯的说。`feriedage tilbage` 指尚有假期余额，不等于一定已获得该日期的休假批准。"
+        },
+        {
+            "id": "U01-C084",
+            "zh": "对了，还有周四的学校戏剧演出呢。",
+            "grammar": "`Og så er der …` 是常见的补充事项结构。`der er` 为存在句，`så` 表示在前面事项之外接着还有另一件事。",
+            "vocabulary": [
+                {
+                    "da": "en skolekomedie",
+                    "zh": "学校戏剧表演、校园舞台剧",
+                    "note": "不一定严格属于喜剧类型。"
+                },
+                {
+                    "da": "og så er der",
+                    "zh": "另外还有……；接下来还有……",
+                    "note": "适合逐项列出提醒事项。"
+                }
+            ],
+            "nuance": "一家人虽然已经进入晚上休息时间，脑中仍然不断冒出未处理的日程。`Og så er der` 比正式的 `Desuden skal vi huske` 更具自然口语节奏。",
+            "transfer": [
+                "Og så er der mødet på torsdag.",
+                "Og så er der lige én ting mere."
+            ],
+            "pitfall": "`skolekomedie` 不是指学校里发生的滑稽事件，而是学校组织的戏剧表演。"
+        },
+        {
+            "id": "U01-C085",
+            "zh": "那个我来负责。我可以早点下班。",
+            "grammar": "`Den tager jeg` 把宾语 `den` 前置，形成 `Den + tager + jeg` 的 V2 语序，强调由自己承担。`kan godt` 表示可以、能够或愿意。`gå tidligt fra arbejde` 表示提前离开工作岗位。",
+            "vocabulary": [
+                {
+                    "da": "den tager jeg",
+                    "zh": "这件事交给我",
+                    "note": "非常口语化的主动承担责任表达。"
+                },
+                {
+                    "da": "gå tidligt fra arbejde",
+                    "zh": "提早下班",
+                    "note": "强调离开工作的时间。"
+                },
+                {
+                    "da": "kan godt",
+                    "zh": "可以、没问题",
+                    "note": "根据语境可表达能力、许可或意愿。"
+                }
+            ],
+            "nuance": "`Den tager jeg` 比正式说 `Jeg påtager mig ansvaret for det` 自然得多，也很适合日常工作分工。玛雅随即说明自己能提前下班，为承担任务提供实际依据。",
+            "transfer": [
+                "Den tager jeg.",
+                "Det klarer jeg.",
+                "Jeg kan godt gå tidligt fra arbejde på torsdag."
+            ],
+            "pitfall": "`tage` 在这里并不是物理拿取，而是承担某项安排。宾语前置后必须是 `tager jeg`，不能说 `Den jeg tager` 作为独立主句。"
+        },
+        {
+            "id": "U01-C086",
+            "zh": "还有别忘了，我们这周末得去我兄弟家参加生日聚会。",
+            "grammar": "`husk, at …` 使用祈使动词加内容从句。`skal til fødselsdag hos nogen` 是固定活动表达，强调去某人那里参加生日庆祝。",
+            "vocabulary": [
+                {
+                    "da": "skal til fødselsdag",
+                    "zh": "要去参加生日聚会",
+                    "note": "`til` 用于参加活动或前往聚会。"
+                },
+                {
+                    "da": "hos min bror",
+                    "zh": "在我兄弟那里、去我兄弟家",
+                    "note": "不区分哥哥和弟弟。"
+                },
+                {
+                    "da": "i weekenden",
+                    "zh": "这个周末",
+                    "note": "具体指代依说话时间而定。"
+                }
+            ],
+            "nuance": "Jonas 再次补充家庭社交义务，延续了夫妻晚上不断核对日程的叙事。`Og husk` 是自然的提醒，不一定带责备。",
+            "transfer": [
+                "Husk, at vi skal til fødselsdag i weekenden.",
+                "Vi skal til fødselsdag hos min bror.",
+                "Husk lige vores aftale på lørdag."
+            ],
+            "pitfall": "`til fødselsdag` 不要简单替换为 `på fødselsdag`。`bror` 在丹麦语里不区分哥哥和弟弟。"
+        },
+        {
+            "id": "U01-C087",
+            "zh": "呃，不是下个周末吗？",
+            "grammar": "`var det ikke …?` 是带否定预期的疑问句。`var` 使用过去时，回指说话人记忆中此前商定的日期，而非单纯判断现在时间。",
+            "vocabulary": [
+                {
+                    "da": "øh",
+                    "zh": "呃、嗯",
+                    "note": "思考、迟疑或不确定时的口语填充词。"
+                },
+                {
+                    "da": "næste weekend",
+                    "zh": "下个周末",
+                    "note": "与 `i weekenden` 形成时间对照。"
+                }
+            ],
+            "nuance": "`Øh` 暗示玛雅突然发现自己的记忆可能与丈夫不同。否定疑问句表现她原本以为活动安排在下一个周末，希望对方确认或纠正。",
+            "transfer": [
+                "Øh, var det ikke i næste uge?",
+                "Var det ikke på fredag?",
+                "Jeg troede, det var næste weekend."
+            ],
+            "pitfall": "`næste weekend` 和 `i weekenden` 所指可能相差一周；涉及重要约定时，最好再确认具体日期。"
+        },
+        {
+            "id": "U01-C088",
+            "zh": "不是，就是这周六。",
+            "grammar": "`det er på lørdag` 用 `det` 回指生日聚会，`på lørdag` 指即将到来的星期六。`Nej` 直接否定玛雅刚才的猜测。",
+            "vocabulary": [
+                {
+                    "da": "på lørdag",
+                    "zh": "这周六、即将到来的周六",
+                    "note": "与经常性的 `om lørdagen` 不同。"
+                }
+            ],
+            "nuance": "回答非常直接，也呼应了全文反复出现的时间安排和日程核对。最后一个小小的日期误会，让家庭生活的琐碎显得真实。",
+            "transfer": [
+                "Nej, det er på lørdag.",
+                "Vi ses på lørdag."
+            ],
+            "pitfall": "`på lørdag` 表示下一次到来的星期六；`om lørdagen` 常指每周六或通常周六。"
+        },
+        {
+            "id": "U01-C089",
+            "zh": "然而，恰恰是在这些不起眼的小约定中，一个家庭的生活才逐渐成形。",
+            "grammar": "`Alligevel` 表示承认前文琐碎忙乱后作出转折。`det er i de små aftaler, at …` 是强调结构，突出形成家庭生活的关键所在。`bliver til` 表示形成、逐渐产生。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此、然而、终究",
+                    "note": "可表示逆转、让步后的结论。"
+                },
+                {
+                    "da": "en lille aftale",
+                    "zh": "日常的小约定、小安排",
+                    "note": "不一定是正式协议。"
+                },
+                {
+                    "da": "blive til",
+                    "zh": "形成、产生、成为",
+                    "note": "这里强调家庭生活由日常互动构成。"
+                }
+            ],
+            "nuance": "这是全文最重要的主题提升之一。此前所有接送、晚饭、约会和日期提醒，看似无足轻重，作者却通过 `Alligevel` 重新赋予它们意义。强调句把细小安排放在核心位置，而不是浪漫化某个重大事件。",
+            "transfer": [
+                "Alligevel er det de små ting, der betyder noget.",
+                "Det er gennem de små handlinger, at tillid bliver til.",
+                "Et fællesskab bliver til gennem hverdagen."
+            ],
+            "pitfall": "`blive til` 不应在这里译为变成某一种具体物品，而是强调一个整体如何在过程中逐渐形成。`Alligevel` 的转折必须结合前文才能读出力度。"
+        },
+        {
+            "id": "U01-C090",
+            "zh": "孩子们很少会记得，当年的午餐便当是不是有机食品做的，或者家里的地板有没有吸过尘。",
+            "grammar": "`husker sjældent` 说明记忆的低频性。后面两个由 `om` 引导的间接是非问句并列：`om madpakken var økologisk` 与 `om gulvet var støvsuget`。`støvsuget` 是动词 `støvsuge` 的过去分词，用于表示已完成的清洁状态。",
+            "vocabulary": [
+                {
+                    "da": "sjældent",
+                    "zh": "很少、难得",
+                    "note": "频率副词。"
+                },
+                {
+                    "da": "økologisk",
+                    "zh": "有机的",
+                    "note": "食品语境中指有机生产。"
+                },
+                {
+                    "da": "støvsuge",
+                    "zh": "用吸尘器清洁",
+                    "note": "过去式 `støvsugede`，过去分词 `støvsuget`。"
+                },
+                {
+                    "da": "huske, om",
+                    "zh": "记得是否……",
+                    "note": "后接间接是非问句。"
+                }
+            ],
+            "nuance": "作者选取有机午餐和清洁地板作为精细照护的象征，并非说健康饮食或卫生完全不重要，而是把家长容易执着的执行细节与孩子真正留存的情感记忆作对比。两组 `om` 形成整齐的排比。",
+            "transfer": [
+                "Jeg kan ikke huske, om det var økologisk.",
+                "Det betyder mindre, om huset er perfekt.",
+                "Børn husker sjældent alle detaljerne."
+            ],
+            "pitfall": "`om` 在这里引导是否从句，不是表示关于的介词。间接问句采用陈述语序。`støvsuget` 描述地板已被吸尘清洁的状态，而不是地板主动吸尘。"
+        },
+        {
+            "id": "U01-C091",
+            "zh": "他们记得的，是不是曾经有一位大人愿意抽出时间，认真倾听他们说话。",
+            "grammar": "`De husker, om …` 与上一句形成直接平行。`der var en voksen` 是存在结构。后一个 `der havde tid til at lytte` 是修饰 `en voksen` 的关系从句。`have tid til at + 不定式` 表示有时间做某事。",
+            "vocabulary": [
+                {
+                    "da": "en voksen",
+                    "zh": "一位成年人、大人",
+                    "note": "形容词名词化后作名词使用。"
+                },
+                {
+                    "da": "have tid til at",
+                    "zh": "有时间做某事",
+                    "note": "后接动词原形。"
+                },
+                {
+                    "da": "lytte",
+                    "zh": "认真倾听",
+                    "note": "`lytte til nogen` 表示听某人说话；比 `høre` 更强调主动倾听。"
+                }
+            ],
+            "nuance": "这句是整篇文章的情感落点。作者没有否认家务、时间安排和制度的重要性，而是提醒读者：这些努力最终服务于人与人之间的陪伴和关注。`en voksen, der havde tid til at lytte` 的价值在于可获得的关注，而不只是物质条件或完美的日程。结尾再次呼应父亲在育儿假中领悟的日常照护意义。",
+            "transfer": [
+                "Det vigtigste er, at nogen har tid til at lytte.",
+                "Børn har brug for voksne, der lytter til dem.",
+                "Jeg husker, at hun altid havde tid til mig."
+            ],
+            "pitfall": "`lytte` 与 `høre` 不完全相同：`høre` 可以指听见声音，`lytte` 强调主动倾听。`have tid til at lytte` 比简单说有空更强调愿意投入时间和注意力。"
+        }
+    ]
+}

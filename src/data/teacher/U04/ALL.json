@@ -1,0 +1,2710 @@
+{
+    "schema_version": 1,
+    "unit": "U04",
+    "part": "ALL",
+    "source_fingerprint": "U04-ALL-55c135407bb7",
+    "sentences": [
+        {
+            "id": "U04-C001",
+            "zh": "嗨。你等很久了吗？",
+            "grammar": "`Har du ventet længe?` 使用现在完成时 `har ventet`，询问从较早时候开始、持续到现在或刚刚结束的等待。疑问句采用限定动词 `har` 在主语 `du` 前的语序。",
+            "vocabulary": [
+                {
+                    "da": "vente",
+                    "zh": "等待",
+                    "note": "常接 `på nogen/noget` 表示等待某人或某物；`vente længe` 表示等很久。"
+                },
+                {
+                    "da": "Har du ventet længe?",
+                    "zh": "你等很久了吗？",
+                    "note": "与人约见时自然的开场关心。"
+                }
+            ],
+            "nuance": "这是见面时带有体贴意味的开场白，尤其适合一方比另一方晚到的情况。Kasper 先问等待时间，而不是马上进入真正想谈的话题，也为之后略显尴尬的寒暄开场。",
+            "transfer": [
+                "Har du ventet længe?",
+                "Undskyld, hvis du har ventet på mig."
+            ],
+            "pitfall": "`vente på nogen` 表示等某人，不能省略介词 `på`。但在 `Har du ventet længe?` 中没有说等待对象，因此不需要介词。"
+        },
+        {
+            "id": "U04-C002",
+            "zh": "没有没有，我也刚到。",
+            "grammar": "`Jeg er lige kommet` 使用助动词 `er` 加过去分词 `kommet` 构成完成时，表示移动动作已经完成。`lige` 在这里表示刚刚、不久前。",
+            "vocabulary": [
+                {
+                    "da": "lige",
+                    "zh": "刚刚、正好",
+                    "note": "此处表示到达时间不久。"
+                },
+                {
+                    "da": "komme",
+                    "zh": "来、到达",
+                    "note": "不规则变化：`kommer – kom – er kommet`。"
+                }
+            ],
+            "nuance": "重复的 `Nej, nej` 加强安抚效果，意思是不用担心，我没等很久。即使实际上已经等了一会儿，也可以用类似说法避免让刚到的人感到歉疚；但原文没有明确说明 Mathilde 是否真的等待过。",
+            "transfer": [
+                "Nej, nej, jeg er lige kommet.",
+                "Jeg er først lige kommet."
+            ],
+            "pitfall": "`Jeg er kommet` 的完成时通常使用 `er`，不是 `har`。`lige` 在此不是刚好相等或笔直。"
+        },
+        {
+            "id": "U04-C003",
+            "zh": "要不要我帮你去拿杯咖啡？",
+            "grammar": "`Skal jeg + 不定式` 是主动提出帮助或征求对方意愿的常见结构。`hente noget til nogen` 表示为某人去取某物。",
+            "vocabulary": [
+                {
+                    "da": "Skal jeg …?",
+                    "zh": "要不要我……？",
+                    "note": "主动提供帮助时非常自然。"
+                },
+                {
+                    "da": "hente",
+                    "zh": "去拿、取来、接回来",
+                    "note": "强调从别处取回某物。"
+                },
+                {
+                    "da": "hente noget til nogen",
+                    "zh": "帮某人拿某物",
+                    "note": "受益人用 `til` 引出。"
+                }
+            ],
+            "nuance": "这是一个低压力的友好提议，也为 Kasper 提供继续寒暄的机会。`Skal jeg …?` 比直接说自己要去拿咖啡更关注对方是否需要。",
+            "transfer": [
+                "Skal jeg hente noget at drikke til dig?",
+                "Skal jeg hjælpe dig med det?"
+            ],
+            "pitfall": "`hente` 与 `tage` 不完全相同：`hente` 通常强调去某处把东西取回来。"
+        },
+        {
+            "id": "U04-C004",
+            "zh": "我已经点好了。",
+            "grammar": "`har allerede bestilt` 是现在完成时，表示点单动作已经完成，结果与当下有关。`allerede` 位于助动词和过去分词之间。",
+            "vocabulary": [
+                {
+                    "da": "bestille",
+                    "zh": "点单、预订、订购",
+                    "note": "可用于咖啡、餐厅、票务及商品。"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经、早就",
+                    "note": "强调动作早于询问时刻。"
+                }
+            ],
+            "nuance": "Mathilde 的回答直接而中性，不一定表示冷淡。但结合两人接下来不太自然的寒暄，简短回答也帮助营造了尚未进入正题的气氛。",
+            "transfer": [
+                "Jeg har allerede bestilt.",
+                "Tak, men jeg har allerede fået kaffe."
+            ],
+            "pitfall": "`bestille` 不仅表示预订，也可表示现场点饮料或食物。"
+        },
+        {
+            "id": "U04-C005",
+            "zh": "哦……那你最近其他方面怎么样？",
+            "grammar": "`Hvordan går det?` 是询问近况的固定句型。`ellers` 用于从刚才的话题转向其他情况，或进一步询问对方整体近况。`Nå` 是接受新信息的话语标记。",
+            "vocabulary": [
+                {
+                    "da": "Nå",
+                    "zh": "哦、原来这样",
+                    "note": "根据语调可表达领会、惊讶或转换话题。"
+                },
+                {
+                    "da": "Hvordan går det ellers?",
+                    "zh": "其他方面怎么样？最近还好吗？",
+                    "note": "熟人之间自然的寒暄或话题转换。"
+                },
+                {
+                    "da": "ellers",
+                    "zh": "除此之外、其他方面",
+                    "note": "此处不是否则。"
+                }
+            ],
+            "nuance": "省略号显示 Kasper 的短暂停顿。他没能继续咖啡的话题，于是转向普通近况。`ellers` 是关键，它既让转换显得自然，也暗示两人尚未触及真正需要讨论的事情。",
+            "transfer": [
+                "Hvordan går det ellers?",
+                "Nå, hvordan har du det ellers?"
+            ],
+            "pitfall": "`ellers` 不一定表示否则，在问候中经常表示其他方面、除此之外。"
+        },
+        {
+            "id": "U04-C006",
+            "zh": "还行吧。就是忙。",
+            "grammar": "两个省略式回答。`Fint nok` 省略了 `Det går`，`Travlt` 则省略类似 `Jeg har det travlt` 的句子成分。熟人对话中语境明确时可以这样简短回答。",
+            "vocabulary": [
+                {
+                    "da": "fint nok",
+                    "zh": "还可以、还行吧",
+                    "note": "比 `rigtig godt` 更克制。"
+                },
+                {
+                    "da": "have det travlt",
+                    "zh": "很忙",
+                    "note": "固定搭配；`travlt` 是中性形式。"
+                }
+            ],
+            "nuance": "`Fint nok` 既可能是真实的平稳评价，也可能是不想深入谈论的礼貌回答。紧接着单独的 `Travlt` 给出了一个安全、无需解释太多的近况描述，符合两人此刻的拘谨。",
+            "transfer": [
+                "Fint nok. Lidt travlt.",
+                "Jeg har haft det ret travlt på det sidste."
+            ],
+            "pitfall": "表示自己忙通常说 `Jeg har det travlt`，不是 `Jeg er travlt`。"
+        },
+        {
+            "id": "U04-C007",
+            "zh": "你好像换了新上司，是吧？",
+            "grammar": "`Du har vist fået …?` 保留陈述句语序，靠语调构成确认式问句。`vist` 是表示推测的信息性副词，相当于似乎、好像、我记得是这样。",
+            "vocabulary": [
+                {
+                    "da": "vist",
+                    "zh": "好像、似乎、据我所知",
+                    "note": "此处是表示不完全确定的副词。"
+                },
+                {
+                    "da": "få ny chef",
+                    "zh": "换了新上司",
+                    "note": "`en chef` 是主管、经理或上司。"
+                }
+            ],
+            "nuance": "`vist` 让 Kasper 不需要假装完全掌握 Mathilde 的工作近况。他只是提出自己听说或记得的信息，给对方补充解释的机会。",
+            "transfer": [
+                "Du har vist fået nyt job?",
+                "I har vist fået en ny chef?"
+            ],
+            "pitfall": "`vist` 在这里不是动词 `vise` 的过去分词含义，而是表示推测的语气副词。"
+        },
+        {
+            "id": "U04-C008",
+            "zh": "是啊。而且我还升成团队负责人了。",
+            "grammar": "`Og så` 在这里补充更重要的新信息。`er blevet teamleder` 使用 `blive` 的完成时表示身份变化已经发生。",
+            "vocabulary": [
+                {
+                    "da": "en teamleder",
+                    "zh": "团队负责人、团队主管",
+                    "note": "职场职位名称。"
+                },
+                {
+                    "da": "blive teamleder",
+                    "zh": "成为团队负责人",
+                    "note": "强调职位或身份发生变化。"
+                }
+            ],
+            "nuance": "Mathilde 补充的不只是换上司，而是自己获得了管理职位。这原本可以成为值得庆祝的消息，但她接下来的回答说明晋升也带来了压力。",
+            "transfer": [
+                "Jeg er blevet teamleder.",
+                "Og så har jeg fået mere ansvar."
+            ],
+            "pitfall": "`blive` 在这里表示成为、变成，不是留下来。`er blevet` 是这一变化的完成时。"
+        },
+        {
+            "id": "U04-C009",
+            "zh": "哇，那听起来很有意思啊！",
+            "grammar": "`Det var da spændende!` 使用过去式 `var` 作即时评价，在口语中可自然回应刚得知的消息。`da` 是语气小品词，加强积极反应或略带惊讶的语气。",
+            "vocabulary": [
+                {
+                    "da": "spændende",
+                    "zh": "有意思的、令人期待的、令人兴奋的",
+                    "note": "可形容工作机会、故事或经历。"
+                },
+                {
+                    "da": "Det var da spændende!",
+                    "zh": "那可真令人期待！",
+                    "note": "听到消息后常见的反应。"
+                }
+            ],
+            "nuance": "`da` 让回应显得更加生动和有人情味。这里的 `spændende` 也不只意味着开心，还可以包含富有挑战、充满未知的意味。",
+            "transfer": [
+                "Det var da spændende!",
+                "Det lyder virkelig spændende."
+            ],
+            "pitfall": "`Det var …` 出现在即时反应中并不一定表示那件事已经结束。"
+        },
+        {
+            "id": "U04-C010",
+            "zh": "确实挺有意思的。大多数时候是这样吧。",
+            "grammar": "`Det er det` 用第二个 `det` 替代前面提到的 `spændende` 这一性质。`Det meste af tiden` 是省略式时间限定，限制前一句判断的适用范围。",
+            "vocabulary": [
+                {
+                    "da": "det meste af tiden",
+                    "zh": "大部分时间",
+                    "note": "强调并非始终如此。"
+                }
+            ],
+            "nuance": "Mathilde 先肯定 Kasper 的评价，再加一个轻描淡写的限定，暗示新职位并非一直令人兴奋。这种带保留的回答比直接诉苦更符合当前尚未放松的谈话氛围。",
+            "transfer": [
+                "Det er det. Det meste af tiden.",
+                "Jeg er glad for jobbet det meste af tiden."
+            ],
+            "pitfall": "`det meste af tiden` 表示大部分时间，不等于绝大多数事情。"
+        },
+        {
+            "id": "U04-C011",
+            "zh": "聊了五分钟，两人就快找不到可以继续寒暄的话题了。",
+            "grammar": "`Efter fem minutter` 前置后，主句采用 `er de` 的 V2 语序。`være ved at + 不定式` 表示某种变化即将发生或正在形成。`løbe tør for` 是固定搭配，表示某种资源快耗尽。",
+            "vocabulary": [
+                {
+                    "da": "løbe tør for",
+                    "zh": "耗尽、用光",
+                    "note": "可用于钱、时间、精力、话题和物资。"
+                },
+                {
+                    "da": "småsnak",
+                    "zh": "寒暄、闲聊",
+                    "note": "类似英语 small talk。"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正要、快要、正在逐渐",
+                    "note": "强调进行中的变化。"
+                }
+            ],
+            "nuance": "前十句看似普通的咖啡馆寒暄，到这里才揭示了紧张：两人不是没有话可说，而是在回避真正重要的事。`løbe tør for småsnak` 将话题耗尽比作资源用完，带有轻微幽默和尴尬。",
+            "transfer": [
+                "Vi er ved at løbe tør for tid.",
+                "Samtalen gik i stå, da vi løb tør for småsnak.",
+                "Jeg er ved at løbe tør for idéer."
+            ],
+            "pitfall": "`løbe tør for` 不是跑到干燥的地方，而是耗尽。`være ved at` 不等于已经完成。"
+        },
+        {
+            "id": "U04-C012",
+            "zh": "距离玛蒂尔德三十岁的生日已经过去三个星期了。那天卡斯珀本来答应要发表一段致辞。",
+            "grammar": "`Det er tre uger siden …` 是以现在为参照的时间距离结构。`hvor` 引导关系从句，指生日庆祝这一事件。`skulle have holdt tale` 使用情态动词过去式与完成不定式，表达原本预定或应该完成、却未实现的行为。",
+            "vocabulary": [
+                {
+                    "da": "det er X siden",
+                    "zh": "距离……已经过了 X 时间",
+                    "note": "常用于回顾事件。"
+                },
+                {
+                    "da": "holde tale",
+                    "zh": "发表讲话、致辞",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "skulle have gjort noget",
+                    "zh": "本来应该或原定做某事",
+                    "note": "常用于未完成的计划或责任。"
+                },
+                {
+                    "da": "en 30-års fødselsdag",
+                    "zh": "三十岁生日",
+                    "note": "整十岁生日在丹麦通常具有特别的庆祝意义。"
+                }
+            ],
+            "nuance": "这一句终于交代双方尴尬的真正原因。`skulle have holdt tale` 比单纯的 `ville holde tale` 更能突出此前已经存在的安排或期待。对三十岁生日来说，一段由老朋友发表的致辞往往具有特殊情感意义。",
+            "transfer": [
+                "Det er tre uger siden festen.",
+                "Jeg skulle have holdt tale til fødselsdagen.",
+                "Han skulle have været der."
+            ],
+            "pitfall": "`skulle have holdt` 不是单纯表示过去将来，而是原定要做却没有完成。`holde tale` 中不用 `en tale` 也十分自然。"
+        },
+        {
+            "id": "U04-C013",
+            "zh": "就在客人到来前一小时，他发消息说自己很遗憾无法出席。从那以后，两人谁都没再提起这件事。",
+            "grammar": "`En time før gæsterne kom` 是时间状语与从句的组合。`skrev han, at …` 后接宾语从句，其中 `ikke` 位于限定动词 `kunne` 之前。后半句以 `siden` 前置，使用现在完成时 `har … rørt ved` 表示从那时至今一直没有触及该话题。",
+            "vocabulary": [
+                {
+                    "da": "desværre",
+                    "zh": "很遗憾、可惜",
+                    "note": "常用于委婉告知坏消息。"
+                },
+                {
+                    "da": "røre ved et emne",
+                    "zh": "触及、提起某个话题",
+                    "note": "比喻性表达。"
+                },
+                {
+                    "da": "siden",
+                    "zh": "从那时起、此后",
+                    "note": "此处作时间副词。"
+                },
+                {
+                    "da": "ingen af dem",
+                    "zh": "他们两人谁都没有",
+                    "note": "指特定群体中的所有人都不。"
+                }
+            ],
+            "nuance": "临时取消出席是第一层问题，此后三周的沉默则使问题加重。`røre ved emnet` 生动地暗示双方都在刻意避开敏感话题。这里的完成时突出沉默一直延续到咖啡馆见面时。",
+            "transfer": [
+                "Han skrev, at han desværre ikke kunne komme.",
+                "Ingen af os har rørt ved emnet siden.",
+                "Vi har ikke talt om det siden."
+            ],
+            "pitfall": "`røre ved` 除了触摸，也能表示触及敏感问题。时间副词 `siden` 与原因连词 `siden` 需要区分。"
+        },
+        {
+            "id": "U04-C014",
+            "zh": "他们从高中时代起就认识彼此了。",
+            "grammar": "`har kendt hinanden siden …` 使用现在完成时加起点状语，表达从过去某一阶段开始并持续至今的关系。`hinanden` 是相互代词。",
+            "vocabulary": [
+                {
+                    "da": "kende hinanden",
+                    "zh": "彼此认识",
+                    "note": "`hinanden` 表示相互关系。"
+                },
+                {
+                    "da": "et gymnasium",
+                    "zh": "丹麦高中、普通高中",
+                    "note": "通常指通往高等教育的高中阶段。"
+                },
+                {
+                    "da": "siden gymnasiet",
+                    "zh": "从高中时代起",
+                    "note": "强调关系持续的起点。"
+                }
+            ],
+            "nuance": "简短的一句交代友谊的深度。认识多年并不自动说明关系永远不会受伤，恰恰为下一句解释沉默为何格外难受提供依据。",
+            "transfer": [
+                "Vi har kendt hinanden siden gymnasiet.",
+                "Vi har været venner i mange år."
+            ],
+            "pitfall": "持续至今的关系用 `har kendt … siden`，不要用普通过去式来表达仍然持续的事实。"
+        },
+        {
+            "id": "U04-C015",
+            "zh": "也正因为如此，这份沉默才格外令人难受。",
+            "grammar": "`Netop derfor` 是强调性的因果状语，置于句首后形成 `gør tavsheden` 的 V2 语序。`gøre ondt` 表示疼痛或令人心痛。",
+            "vocabulary": [
+                {
+                    "da": "netop derfor",
+                    "zh": "正因为如此、恰恰因此",
+                    "note": "比普通的 `derfor` 更强调原因。"
+                },
+                {
+                    "da": "tavshed",
+                    "zh": "沉默、不说话",
+                    "note": "`en tavshed`；也可指长期缺乏沟通。"
+                },
+                {
+                    "da": "gøre ondt",
+                    "zh": "疼痛、令人心痛",
+                    "note": "既可表示身体疼，也可表达情感伤害。"
+                }
+            ],
+            "nuance": "通常长久的友谊意味着更深的信任，作者却用 `Netop derfor` 指出亲密关系反而让失望更加痛苦。这是文章对情感复杂性的第一次直接揭示。",
+            "transfer": [
+                "Netop derfor gør det så ondt.",
+                "Tavsheden gjorde mere ondt end kritikken.",
+                "Det gør ondt at blive svigtet."
+            ],
+            "pitfall": "`gøre ondt` 不能只用于身体疼痛，也能自然形容情感伤害。"
+        },
+        {
+            "id": "U04-C016",
+            "zh": "卡斯珀确实发过一条短信，可一条短信毕竟不算是一个交代。",
+            "grammar": "`godt nok … men …` 构成让步转折，先承认事实再指出不足。`havde sendt` 是过去完成时，回顾更早发生的发送短信动作。后半句采用现在时提出一般性判断。",
+            "vocabulary": [
+                {
+                    "da": "godt nok",
+                    "zh": "确实、倒是……没错",
+                    "note": "经常与 `men` 搭配，引出保留意见。"
+                },
+                {
+                    "da": "en forklaring",
+                    "zh": "解释、交代",
+                    "note": "也可表示说明原因。"
+                },
+                {
+                    "da": "sende en sms",
+                    "zh": "发短信",
+                    "note": "非常自然的日常表达。"
+                }
+            ],
+            "nuance": "作者承认 Kasper 并非完全没有联系，却强调最低限度的通知和真正解释之间存在差别。`godt nok` 是表达这种有保留承认的高价值连接方式。",
+            "transfer": [
+                "Han havde godt nok skrevet, men …",
+                "Det er godt nok en forklaring, men ikke en undskyldning.",
+                "En besked er ikke det samme som en samtale."
+            ],
+            "pitfall": "`godt nok` 在这里不是足够好，而是确实如此、虽然如此。"
+        },
+        {
+            "id": "U04-C017",
+            "zh": "玛蒂尔德一直告诉自己，她并没有生气。",
+            "grammar": "`har sagt til sig selv` 是现在完成时加反身介词搭配，表示反复或此前已经对自己作出的心理表述。`at hun ikke er vred` 是宾语从句，否定词 `ikke` 位于限定动词 `er` 前。",
+            "vocabulary": [
+                {
+                    "da": "sige til sig selv",
+                    "zh": "告诉自己、在心里劝自己",
+                    "note": "可用于自我安慰或自我说服。"
+                },
+                {
+                    "da": "vred",
+                    "zh": "愤怒的、生气的",
+                    "note": "常说 `vred på nogen`、`vred over noget`。"
+                }
+            ],
+            "nuance": "`sagt til sig selv` 并不等同于她已经真正不生气。作者借这个表达暗示她试图控制或解释自己的情绪，而下一句会揭示更准确的感受。",
+            "transfer": [
+                "Jeg siger til mig selv, at det nok skal gå.",
+                "Hun har sagt til sig selv, at hun ikke er vred."
+            ],
+            "pitfall": "`sige til sig selv` 不一定是实际大声说话，也可以表示内心的自我对话。"
+        },
+        {
+            "id": "U04-C018",
+            "zh": "她真正感到的是失望——既失望于他，也有点失望于自己，因为自己始终没有把心里的话说出来。",
+            "grammar": "`være skuffet over nogen/noget` 是固定形容词介词搭配。破折号后省略重复的 `skuffet`，形成并列对象 `over ham og … over sig selv`。`fordi` 引导原因从句，解释她为什么也对自己失望。",
+            "vocabulary": [
+                {
+                    "da": "være skuffet over",
+                    "zh": "对……感到失望",
+                    "note": "固定介词 `over`。"
+                },
+                {
+                    "da": "sige noget",
+                    "zh": "说出来、表达意见",
+                    "note": "此处特指对关系中的问题发声。"
+                },
+                {
+                    "da": "lidt over sig selv",
+                    "zh": "也有一点对自己失望",
+                    "note": "省略重复的形容词 `skuffet`。"
+                }
+            ],
+            "nuance": "失望与愤怒的区别在这里变得具体：她对朋友有期待，因此觉得被辜负，同时又责怪自己没有沟通。作者没有简单把她描写成受害者，而是展示关系冲突中可能同时存在的复杂情绪。",
+            "transfer": [
+                "Jeg er skuffet over ham.",
+                "Jeg er mest skuffet over mig selv.",
+                "Jeg er skuffet over, at vi ikke fik talt sammen."
+            ],
+            "pitfall": "`skuffet over` 不能机械替换成 `skuffet på`。对某人生气常说 `vred på nogen`，但对某人失望通常说 `skuffet over nogen`。"
+        },
+        {
+            "id": "U04-C019",
+            "zh": "丹麦语有很多表达个人感受的词，这些词之间的区别虽然细微，却绝不是无关紧要的。",
+            "grammar": "`ord for, hvordan man har det` 使用介词 `for` 引出词语描述的内容，后接间接疑问从句。`små, men ikke ligegyldige` 以形容词对比表示差别小不等于没有意义。",
+            "vocabulary": [
+                {
+                    "da": "hvordan man har det",
+                    "zh": "一个人感觉如何、身心状态如何",
+                    "note": "情绪表达中的核心句型。"
+                },
+                {
+                    "da": "en forskel",
+                    "zh": "差别、区别",
+                    "note": "常说 `forskellen mellem X og Y`。"
+                },
+                {
+                    "da": "ligegyldig",
+                    "zh": "无关紧要的、不重要的",
+                    "note": "与 `vigtig` 相对。"
+                }
+            ],
+            "nuance": "这是第二章的语言学习核心论点。作者强调情绪词不是简单的同义替换，尤其在解释误会、表达失望或处理亲密关系时，选择准确的词会影响对方如何理解你。",
+            "transfer": [
+                "Der er en vigtig forskel mellem de to ord.",
+                "Forskellen er lille, men ikke ligegyldig.",
+                "Det er svært at beskrive, hvordan man har det."
+            ],
+            "pitfall": "`have det` 在这里指身心状态，不是拥有某个物体。`ligegyldig` 与 `ligeglad` 有联系，但前者通常评价事物是否重要，后者描述人是否在乎。"
+        },
+        {
+            "id": "U04-C020",
+            "zh": "有人忘了约定，你可能会觉得不爽；如果遭到信任上的背叛，那就是更深一层的愤怒了。",
+            "grammar": "`Sur bliver man …; vred bliver man …` 是平行的表语前置结构。形容词分别占据主句首位，限定动词 `bliver` 紧随其后，再接泛指主语 `man`，体现 V2 语序。`over` 引出引发情绪的事件。",
+            "vocabulary": [
+                {
+                    "da": "sur",
+                    "zh": "不高兴的、闹情绪的、恼火的",
+                    "note": "常说 `sur på nogen` 或 `sur over noget`。"
+                },
+                {
+                    "da": "vred",
+                    "zh": "愤怒的、生气的",
+                    "note": "通常比 `sur` 更强烈、更严肃。"
+                },
+                {
+                    "da": "et svigt",
+                    "zh": "辜负、失信、背弃",
+                    "note": "涉及信任或责任未被履行。"
+                },
+                {
+                    "da": "en glemt aftale",
+                    "zh": "被忘记的约定",
+                    "note": "`glemt` 是动词 `glemme` 的过去分词。"
+                }
+            ],
+            "nuance": "作者借两个例子划出常见语感区别：`sur` 可以是日常小事引起的不快，`vred` 通常更严肃、更强烈。但这不是绝对分级，同一个事件也可能让不同人产生不同程度的愤怒。两组平行结构非常适合背诵和写作。",
+            "transfer": [
+                "Jeg er sur over, at du kom for sent.",
+                "Hun blev vred over den måde, hun blev behandlet på.",
+                "Sur bliver man over X; vred bliver man over Y."
+            ],
+            "pitfall": "`sur` 还可形容酸味，但谈情绪时是生气、不高兴。`et svigt` 比单纯忘记某事更强调信任或责任被辜负。"
+        },
+        {
+            "id": "U04-C021",
+            "zh": "失望的前提是曾经有所期待，因此往往正是那些与我们最亲近的人，才最有可能让我们深深失望。",
+            "grammar": "`Skuffelse forudsætter forventninger` 是抽象主语加及物动词的论述句。后半句 `det er ofte dem, der står os nærmest, der kan skuffe os mest` 是强调结构，焦点是 `dem`，内部关系从句 `der står os nærmest` 限定被强调的人群。",
+            "vocabulary": [
+                {
+                    "da": "forudsætte",
+                    "zh": "以……为前提、预设",
+                    "note": "适用于逻辑、政策与人际关系分析。"
+                },
+                {
+                    "da": "en forventning",
+                    "zh": "期待、预期",
+                    "note": "复数 `forventninger`。"
+                },
+                {
+                    "da": "stå nogen nær",
+                    "zh": "与某人关系亲近",
+                    "note": "比较级 `nærmere`，最高级 `nærmest`。"
+                },
+                {
+                    "da": "skuffe nogen",
+                    "zh": "让某人失望",
+                    "note": "及物动词；`blive skuffet` 表示感到失望。"
+                }
+            ],
+            "nuance": "这是本文的重要情感洞察。陌生人通常不会承载很高期待，因此也不容易带来同等深度的失望。`dem, der står os nærmest` 比 `vores nærmeste venner` 更广泛，可以涵盖伴侣、家人和挚友。强调句把情感上的悖论放到核心位置。",
+            "transfer": [
+                "Skuffelse forudsætter forventninger.",
+                "Det er ofte dem, der står os nærmest, der kan såre os mest.",
+                "Jeg havde forventet mere af ham."
+            ],
+            "pitfall": "`stå nogen nær` 不一定表示物理距离近，而是情感上亲近。`skuffe nogen` 与 `være skuffet over nogen` 的主语和介词结构不同。"
+        },
+        {
+            "id": "U04-C022",
+            "zh": "感到 `ked af det` 的人，是因某件具体的事情而伤心；而处于 `nedtrykt` 状态的人，则可能在更长一段时间里持续感到情绪低落、心情沉重。",
+            "grammar": "两组 `Den, der …` 构成平行的泛指人物结构。`mens` 引出对比。`være ked af det` 和 `være nedtrykt` 是两种情绪状态表达。`have det tungt` 用 `det` 描述整体身心状态。",
+            "vocabulary": [
+                {
+                    "da": "være ked af det",
+                    "zh": "伤心、难过",
+                    "note": "也可在其他语境中表达抱歉。"
+                },
+                {
+                    "da": "trist",
+                    "zh": "悲伤的、忧伤的",
+                    "note": "可描述暂时或较持久的低落情绪。"
+                },
+                {
+                    "da": "nedtrykt",
+                    "zh": "情绪低落的、消沉的",
+                    "note": "常表示较沉重的心理状态。"
+                },
+                {
+                    "da": "have det tungt",
+                    "zh": "心情沉重、日子过得艰难",
+                    "note": "抽象表达，非字面的重量。"
+                }
+            ],
+            "nuance": "作者试图建立一个有用的语义对照：前者常用于具体事件引发的难过，后者更容易让人联想到较持续的情绪低落。但这不是严格的医学诊断划分，也不能只根据持续时间判断一个词是否适用。",
+            "transfer": [
+                "Jeg er ked af det over det, der skete.",
+                "Jeg har været lidt nedtrykt på det sidste.",
+                "Hun har haft det tungt i længere tid."
+            ],
+            "pitfall": "`ked af det` 不应逐词译成对那个感到厌倦。`nedtrykt` 是日常情绪描述，不能自动等同临床抑郁症。"
+        },
+        {
+            "id": "U04-C023",
+            "zh": "做了某件让自己难为情的事，我们会觉得羞愧或不好意思；而一个场面本身也可能让所有在场的人都感到尴尬。",
+            "grammar": "前半句通过情绪形容词前置突出 `flov`，后半句由 `mens` 对比 `pinlig`。`noget, vi selv har gjort` 是省略关系代词的关系从句。`alle, der er til stede` 用关系从句限定在场者。",
+            "vocabulary": [
+                {
+                    "da": "flov",
+                    "zh": "难为情的、羞愧的、丢脸的",
+                    "note": "通常描述人的感受。"
+                },
+                {
+                    "da": "pinlig",
+                    "zh": "尴尬的、难堪的",
+                    "note": "通常描述事情、场景或行为。"
+                },
+                {
+                    "da": "være til stede",
+                    "zh": "在场、出席",
+                    "note": "适用于会议和事件。"
+                },
+                {
+                    "da": "være flov over",
+                    "zh": "因……而感到羞愧",
+                    "note": "固定介词 `over`。"
+                }
+            ],
+            "nuance": "这是中国学习者特别值得掌握的情绪词区别：`Jeg er flov` 强调我的感受，`Det er pinligt` 强调情境的尴尬性质。两者在真实使用中有交叉，并非彼此完全排斥。文章后面 Kasper 因没有解释而觉得 `flov`，正体现了个人自我评价。",
+            "transfer": [
+                "Jeg er flov over det, jeg sagde.",
+                "Det var en pinlig situation.",
+                "Det blev pinligt for alle."
+            ],
+            "pitfall": "不要简单说 `Jeg er pinlig` 来表达我现在觉得尴尬，因为这更可能意味着我是个令人尴尬的人。通常应说 `Jeg er flov` 或 `Jeg synes, det er pinligt`。"
+        },
+        {
+            "id": "U04-C024",
+            "zh": "羡慕或嫉羡，往往源于别人拥有而自己也想得到的东西；嫉妒则常常源于害怕失去自己已经拥有的人或事物。",
+            "grammar": "两个平行分句使用 `handle om` 解释抽象情绪。`noget, andre har, og som vi selv gerne ville have` 由两个并列关系从句修饰同一先行词。`frygten for at miste` 中不定式短语说明害怕发生的事情。",
+            "vocabulary": [
+                {
+                    "da": "misundelse",
+                    "zh": "羡慕、嫉羡",
+                    "note": "通常涉及他人拥有自己希望得到的东西。"
+                },
+                {
+                    "da": "jalousi",
+                    "zh": "嫉妒、吃醋",
+                    "note": "常与关系中的排他性、失去或竞争有关。"
+                },
+                {
+                    "da": "frygten for at",
+                    "zh": "对……发生的恐惧",
+                    "note": "后接不定式。"
+                },
+                {
+                    "da": "miste",
+                    "zh": "失去",
+                    "note": "不规则变化：`mister – mistede – har mistet`。"
+                },
+                {
+                    "da": "gerne ville have",
+                    "zh": "很想拥有",
+                    "note": "`ville` 在这里表达愿望。"
+                }
+            ],
+            "nuance": "这一对概念非常适合用来分析人际关系：`misundelse` 主要指向别人拥有的东西，`jalousi` 常围绕已有关系或地位受到威胁。但日常丹麦语的两个词也可能存在语义重叠，文章给出的是有助于学习的典型对照，而非不可逾越的词典边界。",
+            "transfer": [
+                "Jeg er misundelig på hendes succes.",
+                "Han blev jaloux, fordi han var bange for at miste hende.",
+                "Det handler om frygten for at miste noget vigtigt."
+            ],
+            "pitfall": "形容词分别是 `misundelig` 和 `jaloux`。不要把 `misundelse` 与 `jalousi` 一律翻译成同一个没有区别的嫉妒。"
+        },
+        {
+            "id": "U04-C025",
+            "zh": "一个人完全可以独处而不觉得孤独；反过来，即使身处坐满人的食堂，也可能感到孤独。",
+            "grammar": "`kan sagtens` 表达完全可能。`uden at + 不定式` 表示没有同时发生另一种状态。破折号后用省略的并列结构构成反差。`føle sig ensom` 使用反身代词表达主观感受。",
+            "vocabulary": [
+                {
+                    "da": "være alene",
+                    "zh": "独自一人、一个人待着",
+                    "note": "客观的社交或空间状态。"
+                },
+                {
+                    "da": "være ensom",
+                    "zh": "感到孤独、缺少所期待的联系",
+                    "note": "强调主观情感体验。"
+                },
+                {
+                    "da": "føle sig ensom",
+                    "zh": "觉得孤独",
+                    "note": "固定反身结构。"
+                },
+                {
+                    "da": "midt i",
+                    "zh": "在……正中央、身处……之中",
+                    "note": "也可用于抽象情境。"
+                },
+                {
+                    "da": "sagtens",
+                    "zh": "完全可以、毫无矛盾地",
+                    "note": "加强可能性。"
+                }
+            ],
+            "nuance": "本句明确区别客观独处与主观孤独。两者没有必然对应关系，因此不能通过一个人身边有多少人来直接判断他是否孤独。食堂这个具体场景使抽象区别非常有画面感。",
+            "transfer": [
+                "Man kan være alene uden at være ensom.",
+                "Jeg føler mig ensom, selvom jeg er omgivet af mennesker.",
+                "Jeg nyder at være alene."
+            ],
+            "pitfall": "`alene` 与 `ensom` 不是同义词。独处不一定负面，孤独也不要求物理上独自一人。"
+        },
+        {
+            "id": "U04-C026",
+            "zh": "积极情绪的表达同样需要准确区分，而在这些表达中，介词的选择尤其重要。",
+            "grammar": "`lige så …` 表示同等程度，呼应前面负面情绪词的精确差别。`her` 指接下来讨论的积极情绪表达领域。`betyder meget` 表示非常重要。",
+            "vocabulary": [
+                {
+                    "da": "positive følelser",
+                    "zh": "积极情绪、正面感受",
+                    "note": "与负面情绪形成对照。"
+                },
+                {
+                    "da": "lige så",
+                    "zh": "同样地、程度相同地",
+                    "note": "经常用于 `lige så … som …` 结构。"
+                },
+                {
+                    "da": "en præposition",
+                    "zh": "介词",
+                    "note": "复数 `præpositioner`。"
+                },
+                {
+                    "da": "betyde meget",
+                    "zh": "非常重要、很有分量",
+                    "note": "也可表示对个人意义重大。"
+                }
+            ],
+            "nuance": "作者提醒学习者，情绪表达准确性不仅依靠选择形容词，还取决于介词。尤其是 `glad for`、`glad over`、`stolt af` 等结构，适合整组记忆。",
+            "transfer": [
+                "Her betyder præpositionerne meget.",
+                "Små sproglige forskelle kan betyde meget.",
+                "De positive følelser kræver også præcision."
+            ],
+            "pitfall": "丹麦语情绪形容词的介词往往不能直接从中文或英语逐词推导，应该连同例句记忆。"
+        },
+        {
+            "id": "U04-C027",
+            "zh": "我们会因为拥有自己的自行车而感到高兴，也会为听到一个好消息而欣喜；我们为自己的孩子感到骄傲，对别人的帮助心怀感激，还会为考试感到紧张。",
+            "grammar": "多个并列分句使用相似的 `være + 形容词 + 介词` 结构。`glad for` 与 `glad over` 形成对比。后半句三个形容词短语共享 `vi er`，后两项省略重复的主语和系动词。",
+            "vocabulary": [
+                {
+                    "da": "glad for",
+                    "zh": "喜欢、珍惜、对……感到高兴",
+                    "note": "常用于人、物、关系和已有情况。"
+                },
+                {
+                    "da": "glad over",
+                    "zh": "因某事发生而高兴",
+                    "note": "常用于消息、结果和事件。"
+                },
+                {
+                    "da": "stolt af",
+                    "zh": "为……感到骄傲",
+                    "note": "固定介词 `af`。"
+                },
+                {
+                    "da": "taknemmelig for",
+                    "zh": "对……心怀感激",
+                    "note": "可接帮助、支持或机会。"
+                },
+                {
+                    "da": "nervøs for",
+                    "zh": "为……紧张、担心……",
+                    "note": "常见于考试、面试及未来事件。"
+                }
+            ],
+            "nuance": "`glad for` 往往强调对某个对象或已有情况的喜爱和满意，`glad over` 则常突出对事件或消息的积极反应。不过两者在部分语境中可以重叠。真正需要训练的是把介词与形容词的典型使用环境一起记住，而不是建立僵硬的绝对规则。",
+            "transfer": [
+                "Jeg er glad for mit nye job, men især glad over nyheden om forfremmelsen.",
+                "Jeg er stolt af mine børn og taknemmelig for hjælpen.",
+                "Jeg er nervøs for eksamen i morgen."
+            ],
+            "pitfall": "`stolt af`、`taknemmelig for` 和 `nervøs for` 的介词不能互换。`glad over` 与 `glad for` 的区别属于典型用法倾向，而非完全互斥。"
+        },
+        {
+            "id": "U04-C028",
+            "zh": "别人问最近怎么样，往往只是一句寒暄；你回答挺好的，也不算说了多大的谎。",
+            "grammar": "`en hilsen, som man kan svare … på` 是关系从句，其中介词 `på` 留在句末。`uden at + 不定式` 表示没有同时发生某种行为。`ret meget` 限定说谎的程度。",
+            "vocabulary": [
+                {
+                    "da": "en hilsen",
+                    "zh": "问候、招呼",
+                    "note": "不一定是在认真询问具体情况。"
+                },
+                {
+                    "da": "svare på",
+                    "zh": "回答、回应",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "lyve",
+                    "zh": "说谎",
+                    "note": "过去式 `løj`，过去分词 `løjet`。"
+                },
+                {
+                    "da": "ret meget",
+                    "zh": "很多、相当多",
+                    "note": "这里与否定结合，表示不算多么严重。"
+                }
+            ],
+            "nuance": "这句话带有轻微幽默：日常问候往往不是要求完整汇报真实情绪，因此回答 `fint` 可以视为符合寒暄规则。作者也没有鼓励真正隐瞒重要事实，而是在区分社交礼貌和深度关心。",
+            "transfer": [
+                "Det er ofte bare en hilsen.",
+                "Man kan svare fint uden at fortælle hele historien.",
+                "Det kommer an på, hvor godt man kender hinanden."
+            ],
+            "pitfall": "句末 `på` 属于 `svare på` 的搭配，不能因为宾语被关系代词替代就省略。"
+        },
+        {
+            "id": "U04-C029",
+            "zh": "相比之下，你真正问一个人现在感觉怎么样，往往是在邀请对方认真回答——尤其当你在问题里轻轻加上一个其实的时候。",
+            "grammar": "`inviterer til` 表示引导或邀请某种回应。`derimod` 标记与上一句寒暄功能的对比。`især hvis` 引导强调性的条件从句，`tilføjer` 表示添加一个词。",
+            "vocabulary": [
+                {
+                    "da": "Hvordan har du det?",
+                    "zh": "你现在感觉怎么样？",
+                    "note": "相比一般寒暄，常更关注对方状态。"
+                },
+                {
+                    "da": "derimod",
+                    "zh": "相比之下、反过来",
+                    "note": "用于明确对比。"
+                },
+                {
+                    "da": "invitere til",
+                    "zh": "邀请、引导产生",
+                    "note": "可用于对话、讨论和互动。"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "其实、说真的、究竟",
+                    "note": "在关心对方时可加强真实询问的意味。"
+                }
+            ],
+            "nuance": "加入 `egentlig` 往往让问题从礼貌性寒暄转向更真诚的关切，类似中文的你其实怎么样、你到底还好吗。但它也可能让对方感到需要认真回应，因此适合有一定信任基础的关系。",
+            "transfer": [
+                "Hvordan har du det egentlig?",
+                "Hvordan går det med dig sådan helt ærligt?",
+                "Jeg vil gerne høre, hvordan du egentlig har det."
+            ],
+            "pitfall": "`egentlig` 不只是实际上的，也能作为语气词，表示希望超越表面回答。"
+        },
+        {
+            "id": "U04-C030",
+            "zh": "一个让不少外国人注意到的丹麦语表达是：我真心为你高兴，你值得拥有这一切。它表达的是替别人感到高兴，并且认为对方理应得到这样的好事。",
+            "grammar": "`Et udtryk, mange udlændinge lægger mærke til` 是带关系从句的主语，省略了作宾语的关系代词。`unde nogen noget` 是双宾语动词结构。冒号后两个并列动词 `glæder sig` 和 `signalerer` 解释表达的语用意义。",
+            "vocabulary": [
+                {
+                    "da": "unde nogen noget",
+                    "zh": "真心希望某人拥有某种好事，认为对方值得",
+                    "note": "例如 `Jeg under dig det`。"
+                },
+                {
+                    "da": "lægge mærke til",
+                    "zh": "注意到、留意",
+                    "note": "固定小品词和介词搭配。"
+                },
+                {
+                    "da": "glæde sig på nogens vegne",
+                    "zh": "替某人高兴",
+                    "note": "强调为他人的好消息感到快乐。"
+                },
+                {
+                    "da": "have fortjent noget",
+                    "zh": "值得得到某事、应得某物",
+                    "note": "动词 `fortjene` 的完成式。"
+                }
+            ],
+            "nuance": "`Jeg under dig det` 比单纯的 `Tillykke` 多一层情感：不仅祝贺，还明确表示我认为你值得获得这个机会。这与 `misundelse` 形成有意义的对照：看到别人得到好事时，不是嫉妒，而是真诚祝福。",
+            "transfer": [
+                "Jeg under dig det virkelig.",
+                "Det har du virkelig fortjent.",
+                "Jeg glæder mig på dine vegne."
+            ],
+            "pitfall": "`unde` 不能按英语的 under 理解成在下面。它是独立动词，常用双宾语结构，如 `Jeg under dig det`。"
+        },
+        {
+            "id": "U04-C031",
+            "zh": "你听说了吗？我拿到奥胡斯那个职位了！",
+            "grammar": "`Har du hørt det?` 使用现在完成时询问消息是否已知。`har fået jobbet` 表示已经成功获得职位，强调结果。",
+            "vocabulary": [
+                {
+                    "da": "Har du hørt det?",
+                    "zh": "你听说了吗？",
+                    "note": "分享新消息的自然开场。"
+                },
+                {
+                    "da": "få et job",
+                    "zh": "获得工作职位、被录用",
+                    "note": "不同于 `søge et job` 申请职位。"
+                }
+            ],
+            "nuance": "Mathilde 使用感叹号突出兴奋和期待被祝贺的心情。`jobbet i Aarhus` 表示双方知道或可以识别的那个职位。",
+            "transfer": [
+                "Har du hørt det? Jeg har fået jobbet!",
+                "Jeg har endelig fået tilbudt stillingen."
+            ],
+            "pitfall": "`få jobbet` 表示获得职位，而非已经开始上班。"
+        },
+        {
+            "id": "U04-C032",
+            "zh": "真的吗！恭喜你！我真的特别为你高兴，这机会你完全值得！",
+            "grammar": "`Nej!` 在此是表示惊讶的感叹词，并非否认事实。`Tillykke!` 是祝贺表达。`unde` 采用 `unde nogen noget` 的双宾语结构，`virkelig` 加强真诚程度。",
+            "vocabulary": [
+                {
+                    "da": "Tillykke!",
+                    "zh": "恭喜！",
+                    "note": "可用于生日、毕业、升职和其他好事。"
+                },
+                {
+                    "da": "Jeg under dig det",
+                    "zh": "我真心为你高兴，你值得",
+                    "note": "带有认可对方应得好结果的情感。"
+                },
+                {
+                    "da": "virkelig",
+                    "zh": "真的、非常",
+                    "note": "在此加强祝福的真诚性。"
+                }
+            ],
+            "nuance": "开头的 `Nej!` 是得知好消息后的惊喜反应。随后从祝贺升级为对朋友努力与资格的认可。`Jeg under dig det virkelig` 尤其适合对方长期努力终于获得成果的情境。",
+            "transfer": [
+                "Nej, hvor fantastisk! Tillykke!",
+                "Jeg under dig det virkelig.",
+                "Det har du fortjent."
+            ],
+            "pitfall": "`Nej!` 在兴奋语境中不一定是否定；它也能表示不会吧、真的啊。"
+        },
+        {
+            "id": "U04-C033",
+            "zh": "丹麦语里有很多描写这类情绪和身体感受的固定表达。",
+            "grammar": "`faste udtryk for` 表示表达某类事物的惯用说法。`den slags` 回指前面讨论的感受与情绪。",
+            "vocabulary": [
+                {
+                    "da": "et fast udtryk",
+                    "zh": "固定表达、惯用语",
+                    "note": "复数 `faste udtryk`。"
+                },
+                {
+                    "da": "den slags",
+                    "zh": "这种、这一类",
+                    "note": "常用于回指已提及的类别。"
+                }
+            ],
+            "nuance": "这句话是从情绪词汇转向情绪隐喻的过渡。丹麦语和汉语都常借身体感觉描述心理状态，但具体固定搭配未必一一对应。",
+            "transfer": [
+                "Der findes mange faste udtryk for følelser.",
+                "Den slags udtryk er gode at lære udenad."
+            ],
+            "pitfall": "`fast` 在这里是固定的，不是速度快。"
+        },
+        {
+            "id": "U04-C034",
+            "zh": "约会前，人可能紧张得心里小鹿乱撞；参加婚礼时，也可能感动得喉头哽咽；而愤怒到了极点时，甚至会气得爆发出来。",
+            "grammar": "泛指主语 `man` 后连接三个并列动词结构：`have`、`få`、`koge over`。三个身体隐喻分别配以 `før`、`ved` 和 `af` 引出情绪情境或原因。",
+            "vocabulary": [
+                {
+                    "da": "have sommerfugle i maven",
+                    "zh": "心里小鹿乱撞、既紧张又期待",
+                    "note": "可用于约会、演讲和新挑战。"
+                },
+                {
+                    "da": "få en klump i halsen",
+                    "zh": "喉头哽咽、感动得说不出话",
+                    "note": "常由强烈情感引起。"
+                },
+                {
+                    "da": "koge over af raseri",
+                    "zh": "气到爆发、怒不可遏",
+                    "note": "`raseri` 表示强烈愤怒。"
+                },
+                {
+                    "da": "en date",
+                    "zh": "约会",
+                    "note": "英语借词，在现代丹麦口语中使用。"
+                }
+            ],
+            "nuance": "三个隐喻形成强度和情感方向各异的画面：期待、感动和暴怒。`sommerfugle i maven` 可以同时包含快乐和紧张，不能只翻译成害怕。`koge over` 借液体沸腾溢出来表达情绪失控。",
+            "transfer": [
+                "Jeg har sommerfugle i maven før samtalen.",
+                "Jeg fik en klump i halsen, da hun holdt talen.",
+                "Han var lige ved at koge over af raseri."
+            ],
+            "pitfall": "这些表达必须整体记忆，不能把 `sommerfugle`、`klump` 或 `koge` 的字面含义直接当成实际生理状况。"
+        },
+        {
+            "id": "U04-C035",
+            "zh": "眼泪也并不只是悲伤的象征：人们也会喜极而泣、如释重负地落泪，甚至只是因为疲惫到了极点而哭出来。",
+            "grammar": "`heller ikke kun` 表示也不只是。冒号后列举多个原因结构 `græde af + 名词`。`ren og skær` 是加强程度的固定形容词组合。",
+            "vocabulary": [
+                {
+                    "da": "tårer",
+                    "zh": "眼泪",
+                    "note": "单数 `en tåre`。"
+                },
+                {
+                    "da": "græde af glæde",
+                    "zh": "喜极而泣",
+                    "note": "`af` 引出哭泣的原因。"
+                },
+                {
+                    "da": "lettelse",
+                    "zh": "宽慰、如释重负",
+                    "note": "常见搭配 `føle lettelse`。"
+                },
+                {
+                    "da": "ren og skær",
+                    "zh": "纯粹的、十足的",
+                    "note": "固定加强表达。"
+                },
+                {
+                    "da": "træthed",
+                    "zh": "疲惫、疲劳",
+                    "note": "抽象名词。"
+                }
+            ],
+            "nuance": "作者指出相同的外在行为未必对应相同情绪。`af ren og skær træthed` 比单纯 `fordi man er træt` 更有表现力，强调完全因为疲惫而哭。",
+            "transfer": [
+                "Hun græd af glæde.",
+                "Jeg følte en enorm lettelse.",
+                "Han begyndte at græde af ren og skær træthed."
+            ],
+            "pitfall": "`græde af` 后接情绪原因，不能在所有情境下直接替换为 `græde over`，后者常指因为某件具体事情而难过。"
+        },
+        {
+            "id": "U04-C036",
+            "zh": "搬到丹麦来的人经常说，想交到丹麦朋友需要花些时间。",
+            "grammar": "`Tilflyttere fortæller tit, at …` 以一般人群作主语，后接宾语从句。`det tager tid at + 不定式` 是耗时表达。`få venner` 表示交到朋友。",
+            "vocabulary": [
+                {
+                    "da": "en tilflytter",
+                    "zh": "迁入者、新搬来的人",
+                    "note": "既可指国际移民，也可指丹麦国内跨地区迁居者。"
+                },
+                {
+                    "da": "få venner",
+                    "zh": "结交朋友",
+                    "note": "强调从没有到建立友谊。"
+                },
+                {
+                    "da": "det tager tid at",
+                    "zh": "做某事需要时间",
+                    "note": "适用于学习、适应、信任建立。"
+                }
+            ],
+            "nuance": "作者将交友困难描述为许多迁入者报告的体验，而非绝对断言所有丹麦人都难以接近。这种转述方式避免把个体经历直接等同于普遍规律。",
+            "transfer": [
+                "Det tager tid at få nye venner.",
+                "Mange tilflyttere oplever, at det tager tid at falde til.",
+                "Det tager tid at opbygge tillid."
+            ],
+            "pitfall": "`en tilflytter` 不只指外国人，也包括从丹麦其他城市搬来的人。"
+        },
+        {
+            "id": "U04-C037",
+            "zh": "许多丹麦人早在童年、高中或大学时代就建立了自己的朋友圈。等人到了三十岁左右，外人想融入这样的朋友圈，往往会觉得不太容易。",
+            "grammar": "`har en vennekreds fra …` 描述朋友关系的来源。`når man er omkring de tredive` 是泛指时间从句。`den kan virke svær at komme ind i` 中 `den` 回指朋友圈，句末 `i` 保留了 `komme ind i` 的介词。",
+            "vocabulary": [
+                {
+                    "da": "en vennekreds",
+                    "zh": "朋友圈、朋友群体",
+                    "note": "强调一组长期往来的朋友。"
+                },
+                {
+                    "da": "omkring de tredive",
+                    "zh": "三十岁左右",
+                    "note": "年龄表达。"
+                },
+                {
+                    "da": "komme ind i",
+                    "zh": "进入、融入",
+                    "note": "可用于社交群体和行业。"
+                },
+                {
+                    "da": "virke svær",
+                    "zh": "显得困难",
+                    "note": "`virke` 表示给人的印象。"
+                }
+            ],
+            "nuance": "这句话解释了成熟朋友圈的结构性特点：已有关系可能长达十几年，新朋友需要时间进入。`kan virke` 也很重要，它说的是融入可能显得困难，并非断言完全不可能。",
+            "transfer": [
+                "Det kan være svært at komme ind i en etableret vennekreds.",
+                "Jeg har mange venner fra gymnasiet.",
+                "Når man bliver ældre, kan det tage længere tid at få nye venner."
+            ],
+            "pitfall": "`komme ind i` 在这里是融入群体，不是走进一间房间。句末的 `i` 不应省略。"
+        },
+        {
+            "id": "U04-C038",
+            "zh": "刚认识的人通常不会第一次见面后就被邀请到家里，而即使在火车上聊得很愉快，也不一定会发展出进一步的联系。",
+            "grammar": "`bliver sjældent inviteret hjem` 使用 `blive` 被动，强调接受邀请者。`en hyggelig samtale … fører ikke nødvendigvis til mere` 以抽象事件为主语，`føre til` 表示引起某种后续结果。",
+            "vocabulary": [
+                {
+                    "da": "et nyt bekendtskab",
+                    "zh": "新认识的人、新结识的关系",
+                    "note": "区别于已经深入的友谊。"
+                },
+                {
+                    "da": "invitere nogen hjem",
+                    "zh": "邀请某人到家里",
+                    "note": "`hjem` 是方向副词。"
+                },
+                {
+                    "da": "føre til",
+                    "zh": "导致、带来、发展成",
+                    "note": "适用于因果结果和关系发展。"
+                },
+                {
+                    "da": "ikke nødvendigvis",
+                    "zh": "不一定、未必",
+                    "note": "保留可能性，不是绝对否定。"
+                }
+            ],
+            "nuance": "`hyggelig` 的谈话可以是真诚愉快的，却不意味着双方已经形成持续联系。作者提醒读者区分一次友好的社交互动和稳定的私人友谊，避免将没有后续邀请直接理解为拒绝或不喜欢。",
+            "transfer": [
+                "En hyggelig samtale fører ikke nødvendigvis til venskab.",
+                "Vi inviterer sjældent nye bekendtskaber hjem med det samme.",
+                "Det førte til et tæt venskab."
+            ],
+            "pitfall": "`ikke nødvendigvis` 是未必，而不是一定不会。`et bekendtskab` 可以指认识的人，也可以指认识这件事或熟人关系。"
+        },
+        {
+            "id": "U04-C039",
+            "zh": "因此，建立丹麦朋友圈的有效途径，往往是先加入那些能够定期见面的团体，例如合唱团、运动队或志愿服务活动。",
+            "grammar": "`Derfor` 前置引出结论。`den bedste vej ind` 是比喻性名词短语。`hvor man ses regelmæssigt` 是关系从句，修饰 `fællesskaber`。冒号后列举三种具体形式。",
+            "vocabulary": [
+                {
+                    "da": "et fællesskab",
+                    "zh": "共同体、社群、共同活动团体",
+                    "note": "丹麦社会生活中的重要概念。"
+                },
+                {
+                    "da": "regelmæssigt",
+                    "zh": "定期地、有规律地",
+                    "note": "与偶尔一次性见面相对。"
+                },
+                {
+                    "da": "et kor",
+                    "zh": "合唱团",
+                    "note": "中性名词。"
+                },
+                {
+                    "da": "en frivillig opgave",
+                    "zh": "志愿任务、志愿服务工作",
+                    "note": "`frivillig` 表示自愿参与。"
+                },
+                {
+                    "da": "vejen ind",
+                    "zh": "进入某个群体的途径",
+                    "note": "抽象比喻，不是实际道路。"
+                }
+            ],
+            "nuance": "作者的重点并不只是多参加活动，而是 `ses regelmæssigt`：重复见面更有机会积累熟悉感和信任。`fællesskab` 比简单的活动组织更强调成员之间的归属和联系。",
+            "transfer": [
+                "Den bedste vej ind går ofte gennem fællesskaber.",
+                "Det hjælper at ses regelmæssigt.",
+                "Jeg er begyndt i et kor for at lære nye mennesker at kende."
+            ],
+            "pitfall": "`et hold` 可以是运动队、课程班或团队，需按语境理解。`fællesskab` 不一定是正式注册的协会。"
+        },
+        {
+            "id": "U04-C040",
+            "zh": "迷恋上一个人，与真正爱着这个人，是两种不同的情感状态。",
+            "grammar": "两个并列不定式短语 `At være forelsket i nogen` 和 `at elske dem` 分别充当比较对象。`være noget andet end` 表示与……不同。",
+            "vocabulary": [
+                {
+                    "da": "være forelsket i",
+                    "zh": "爱上、迷恋某人",
+                    "note": "固定介词 `i`。"
+                },
+                {
+                    "da": "elske nogen",
+                    "zh": "爱某人",
+                    "note": "直接接宾语，不使用 `i`。"
+                },
+                {
+                    "da": "noget andet end",
+                    "zh": "与……不同的事物",
+                    "note": "常用于区分相似概念。"
+                }
+            ],
+            "nuance": "作者区分恋爱初期的强烈吸引与可能更稳定、持久的爱。两者在现实中可以并存，这句话并不是说热恋就不是真爱，而是为下一段的情感描述建立概念区分。",
+            "transfer": [
+                "Jeg er forelsket i hende.",
+                "Jeg elsker ham.",
+                "At være forelsket er noget andet end at elske."
+            ],
+            "pitfall": "`forelsket i nogen` 需要介词 `i`，而 `elske nogen` 通常直接接宾语。"
+        },
+        {
+            "id": "U04-C041",
+            "zh": "热恋就像一种打破日常秩序的特殊状态：早晨醒来就想着对方，连吃饭都忘了，还会一直盯着手机，盼望收到对方的消息。",
+            "grammar": "`Forelskelsen er en undtagelsestilstand` 是定义式主句。冒号后以泛指主语 `man` 连续连接四个现在时动词，营造持续被对方占据注意力的画面。`i håb om` 引出期待的结果。",
+            "vocabulary": [
+                {
+                    "da": "en undtagelsestilstand",
+                    "zh": "例外状态、非常状态",
+                    "note": "原本可用于社会或政治语境，这里是情感比喻。"
+                },
+                {
+                    "da": "vågne op",
+                    "zh": "醒来",
+                    "note": "固定动词小品词搭配。"
+                },
+                {
+                    "da": "stirre på",
+                    "zh": "盯着看",
+                    "note": "比 `kigge på` 更强调持续注视。"
+                },
+                {
+                    "da": "i håb om",
+                    "zh": "怀着……的希望、盼望",
+                    "note": "可接名词或 `at` 从句。"
+                },
+                {
+                    "da": "glemme at spise",
+                    "zh": "忘记吃饭",
+                    "note": "`glemme at` 表示忘记去完成动作。"
+                }
+            ],
+            "nuance": "`undtagelsestilstand` 是很有表现力的比喻：热恋仿佛暂时改变了一个人的正常生活规则。作者通过忘记吃饭和反复查看手机等行为描绘强烈关注，而不是给热恋作医学定义。",
+            "transfer": [
+                "Jeg vågner op og tænker straks på dig.",
+                "Jeg stirrede på telefonen i håb om en besked.",
+                "Det føltes som en undtagelsestilstand."
+            ],
+            "pitfall": "`i håb om` 是怀着某种希望，不能写成 `med håb på`。`stirre på` 的注视强度通常高于普通的 `se på`。"
+        },
+        {
+            "id": "U04-C042",
+            "zh": "而爱往往更加安静、踏实，体现在日常的小事里：比如谁会在对方自行车爆胎时去接他，或者谁还记得对方喜欢咖啡怎么喝。",
+            "grammar": "`Kærligheden er … og viser sig …` 用并列谓语描述性质及表现。破折号后用两个 `hvem` 引导的间接疑问从句举例。`når cyklen er punkteret` 是时间条件从句。`hvordan den anden kan lide sin kaffe` 为嵌套间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "stilfærdig",
+                    "zh": "安静的、不张扬的、平和的",
+                    "note": "可形容性格、行为或生活方式。"
+                },
+                {
+                    "da": "vise sig i",
+                    "zh": "体现在……之中",
+                    "note": "适用于抽象品质与日常行为。"
+                },
+                {
+                    "da": "punkteret",
+                    "zh": "轮胎漏气或爆胎的",
+                    "note": "常说 `cyklen er punkteret`。"
+                },
+                {
+                    "da": "kan lide",
+                    "zh": "喜欢",
+                    "note": "固定结构。"
+                },
+                {
+                    "da": "den anden",
+                    "zh": "另一方、伴侣",
+                    "note": "用于双方关系中的另一个人。"
+                }
+            ],
+            "nuance": "与上一句强烈而戏剧化的热恋相比，这里用具体而平凡的行为定义长期的爱。`hvem der henter hvem` 突出关系中的实际照顾，而 `hvordan den anden kan lide sin kaffe` 强调长期相处积累的细微了解。",
+            "transfer": [
+                "Kærlighed viser sig ofte i de små ting.",
+                "Jeg ved, hvordan hun kan lide sin kaffe.",
+                "Han hentede mig, da min cykel var punkteret."
+            ],
+            "pitfall": "`vise sig` 在这里是显现、体现，不是把自己展示出来。`kan lide` 要整体记忆。"
+        },
+        {
+            "id": "U04-C043",
+            "zh": "提出分手的那个人通常已经考虑了很长时间，而另一方却可能完全措手不及。",
+            "grammar": "`Den, der slår op` 用关系从句界定一类人。`har … tænkt over det i lang tid` 使用现在完成时表示此前持续思考。`blive taget på sengen` 是被动结构中的固定习语，表示被突发情况弄得措手不及。",
+            "vocabulary": [
+                {
+                    "da": "slå op med nogen",
+                    "zh": "与某人分手",
+                    "note": "固定介词 `med`。"
+                },
+                {
+                    "da": "tænke over",
+                    "zh": "认真考虑、思考",
+                    "note": "与 `tænke på` 的想到、挂念侧重点不同。"
+                },
+                {
+                    "da": "blive taget på sengen",
+                    "zh": "措手不及、完全没料到",
+                    "note": "固定习语。"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常、一般来说",
+                    "note": "避免绝对化。"
+                }
+            ],
+            "nuance": "作者指出分手双方可能处于不同的心理时间线：一方早已酝酿决定，另一方却是刚刚得知。`som regel` 和 `kan` 保留了概括的弹性，没有说所有分手都遵循这种模式。",
+            "transfer": [
+                "Hun slog op med ham.",
+                "Jeg havde tænkt over det i lang tid.",
+                "Beskeden tog mig fuldstændig på sengen."
+            ],
+            "pitfall": "`slå op med` 是分手，不能只说 `slå nogen`。`tage på sengen` 是措手不及，不是字面的在床上抓住人。"
+        },
+        {
+            "id": "U04-C044",
+            "zh": "失恋的痛苦有时几乎能在身体上感觉到，就像肚子里堵着一团怎么也消不掉的东西。",
+            "grammar": "`kan føles næsten fysisk` 表示主观体验几乎具有身体层面的性质。`som en klump i maven` 是比喻性比较。`der ikke vil gå væk` 是关系从句，描述这种感觉持续不消失。",
+            "vocabulary": [
+                {
+                    "da": "hjertesorg",
+                    "zh": "失恋之痛、心碎般的悲伤",
+                    "note": "通常与爱情失去相关。"
+                },
+                {
+                    "da": "føles",
+                    "zh": "感觉起来、被体验为",
+                    "note": "常用于描述主观身体或心理感受。"
+                },
+                {
+                    "da": "en klump i maven",
+                    "zh": "胃里堵着一团东西般的难受",
+                    "note": "表示焦虑、伤痛或情绪郁结的隐喻。"
+                },
+                {
+                    "da": "gå væk",
+                    "zh": "消失、离开",
+                    "note": "也可用于疼痛和症状。"
+                }
+            ],
+            "nuance": "作者把抽象的心痛转化成具体的身体感受。`ikke vil gå væk` 为不舒服的感觉赋予了仿佛有自己意志的性质，使失恋之痛显得持续且难以控制。",
+            "transfer": [
+                "Hjertesorg kan føles næsten fysisk.",
+                "Jeg havde en klump i maven hele dagen.",
+                "Følelsen ville ikke gå væk."
+            ],
+            "pitfall": "`føles` 与主动的 `føle` 用法不同。`en klump i maven` 常是比喻，不应默认真的有腹部肿块。"
+        },
+        {
+            "id": "U04-C045",
+            "zh": "冲突是任何亲密关系中都不可避免的一部分。",
+            "grammar": "`en del af` 是整体与部分的名词搭配。`ethvert nært forhold` 使用泛指限定词 `ethvert`，强调各种亲密关系。",
+            "vocabulary": [
+                {
+                    "da": "en konflikt",
+                    "zh": "冲突、矛盾",
+                    "note": "可用于私人关系、工作和政治。"
+                },
+                {
+                    "da": "et nært forhold",
+                    "zh": "亲密关系、关系密切的联系",
+                    "note": "`nært` 修饰中性名词 `forhold`。"
+                },
+                {
+                    "da": "en del af",
+                    "zh": "……的一部分",
+                    "note": "高频固定搭配。"
+                }
+            ],
+            "nuance": "作者将冲突正常化，而不是把争执本身视为关系失败。真正重要的是后面讨论的处理方式。这里的 `forhold` 不仅限于恋爱关系，也可以涵盖家人和朋友。",
+            "transfer": [
+                "Konflikter er en del af ethvert nært forhold.",
+                "Uenighed er en naturlig del af samarbejdet."
+            ],
+            "pitfall": "`ethvert` 用于中性名词，通性形式是 `enhver`。`et forhold` 不只表示爱情关系。"
+        },
+        {
+            "id": "U04-C046",
+            "zh": "许多丹麦人会形容自己不喜欢正面冲突：比起进行一场不愉快的谈话，他们宁愿先把问题搁置不谈。",
+            "grammar": "`beskrive sig selv som` 表示将自己描述为某种类型的人。冒号后 `vil hellere X end Y` 比较两种选择。`lade tingene ligge` 是固定搭配，表示暂时不处理问题。",
+            "vocabulary": [
+                {
+                    "da": "konfliktsky",
+                    "zh": "回避冲突的、怕起冲突的",
+                    "note": "复合词 `konflikt` + `sky`；这里的 `sky` 是回避，不是天空。"
+                },
+                {
+                    "da": "beskrive sig selv som",
+                    "zh": "把自己描述成……",
+                    "note": "适用于性格和身份介绍。"
+                },
+                {
+                    "da": "lade tingene ligge",
+                    "zh": "暂且不处理、把事情搁置",
+                    "note": "常指不再追究某个问题。"
+                },
+                {
+                    "da": "hellere … end …",
+                    "zh": "宁愿……而不愿……",
+                    "note": "偏好比较结构。"
+                }
+            ],
+            "nuance": "作者转述一种常见的自我形容，而不是断言所有丹麦人都逃避冲突。`lade tingene ligge` 可能是避免无谓争执的成熟选择，也可能让真实问题迟迟得不到解决，需结合情境判断。",
+            "transfer": [
+                "Jeg er nok lidt konfliktsky.",
+                "Jeg vil hellere tale om det end lade det ligge.",
+                "Han beskriver sig selv som konfliktsky."
+            ],
+            "pitfall": "`konfliktsky` 中的 `sky` 表示畏避，与名词 `en sky` 云朵同形。`tage en samtale` 在这里是进行谈话，不是拿走谈话。"
+        },
+        {
+            "id": "U04-C047",
+            "zh": "但没有说出口的矛盾很少会自行消失，而工作上的压力又常常会转嫁到最亲近的人身上。",
+            "grammar": "两个并列主句分别使用 `forsvinde af sig selv` 和 `gå ud over`。`dem, man står nærmest` 是省略关系代词的关系结构。`man står nærmest` 中 `nærmest` 表示关系最亲近。",
+            "vocabulary": [
+                {
+                    "da": "uudtalt",
+                    "zh": "未说出口的、没有明说的",
+                    "note": "常用于冲突、期待和感受。"
+                },
+                {
+                    "da": "forsvinde af sig selv",
+                    "zh": "自行消失",
+                    "note": "强调无须外力便消失。"
+                },
+                {
+                    "da": "gå ud over",
+                    "zh": "殃及、对……造成不利影响",
+                    "note": "高价值固定搭配。"
+                },
+                {
+                    "da": "stå nogen nær",
+                    "zh": "与某人关系亲近",
+                    "note": "可用于朋友、家人和伴侣。"
+                }
+            ],
+            "nuance": "句子指出情绪回避的两个风险：问题不会自动解决，外部压力又可能伤害亲近的人。`gå ud over` 比普通的 `påvirke` 更明确地表达负面影响。",
+            "transfer": [
+                "Stress på arbejdet går ud over familien.",
+                "Problemet forsvinder ikke af sig selv.",
+                "Det går ofte ud over dem, man står nærmest."
+            ],
+            "pitfall": "`gå ud over` 不是简单地走出某个地方，而是产生负面影响。`af sig selv` 表示自行，不要误认为来自自己。"
+        },
+        {
+            "id": "U04-C048",
+            "zh": "他给我发消息了。他想周五见一面。",
+            "grammar": "`Han har skrevet` 用现在完成时表示消息已经到达、现在可以回应。`vil gerne mødes` 表示见面的愿望。`på fredag` 表示即将到来的周五。",
+            "vocabulary": [
+                {
+                    "da": "skrive",
+                    "zh": "写信、发消息",
+                    "note": "没有宾语时可泛指给人发了消息。"
+                },
+                {
+                    "da": "mødes",
+                    "zh": "见面、会面",
+                    "note": "具有相互意义的 s-形式动词。"
+                },
+                {
+                    "da": "på fredag",
+                    "zh": "这周五、即将到来的周五",
+                    "note": "区别于习惯性的 `om fredagen`。"
+                }
+            ],
+            "nuance": "这句话把故事从被动沉默推进到可能的和解：Kasper 已主动联系。Mathilde 只是报告事实，还没有说明自己愿不愿意见他。",
+            "transfer": [
+                "Han har skrevet til mig.",
+                "Han vil gerne mødes på fredag.",
+                "Skal vi mødes og tale om det?"
+            ],
+            "pitfall": "`mødes` 表示双方见面，不能把 -s 一律理解成被动。"
+        },
+        {
+            "id": "U04-C049",
+            "zh": "那不是挺好的吗！你怎么回复他的？",
+            "grammar": "`Det var da godt` 是带即时评价意味的口语表达，`da` 加强积极反应。`Hvad svarede du?` 使用一般过去时询问已经采取的回复行动。",
+            "vocabulary": [
+                {
+                    "da": "Det var da godt",
+                    "zh": "那挺好的呀",
+                    "note": "可用于听到正面进展时。"
+                },
+                {
+                    "da": "svare",
+                    "zh": "回答、回复",
+                    "note": "可说 `svare nogen` 或 `svare på noget`。"
+                }
+            ],
+            "nuance": "Hanne 首先把朋友主动联系视为好事，然后询问 Mathilde 的行动。她的态度偏积极，但并没有替 Mathilde 决定必须赴约。",
+            "transfer": [
+                "Det var da godt at høre.",
+                "Hvad svarede du ham?"
+            ],
+            "pitfall": "`da` 这里不是过去时间连词，而是语气词。"
+        },
+        {
+            "id": "U04-C050",
+            "zh": "还没回。我不知道自己想不想见他。",
+            "grammar": "`Ingenting endnu` 是省略式回答。`Jeg ved ikke, om jeg har lyst` 后接间接是非问句，`om` 表示是否。`have lyst` 的具体行为由上一句见面的话题补出。",
+            "vocabulary": [
+                {
+                    "da": "ingenting endnu",
+                    "zh": "目前还什么都没有、还没做",
+                    "note": "结合语境可指还没回复。"
+                },
+                {
+                    "da": "have lyst",
+                    "zh": "想要、有意愿",
+                    "note": "完整搭配 `have lyst til at gøre noget`。"
+                },
+                {
+                    "da": "endnu",
+                    "zh": "还、尚且",
+                    "note": "否定语境中常表示尚未。"
+                }
+            ],
+            "nuance": "Mathilde 没有说不能见，也没有说一定拒绝，而是诚实表达自己尚未准备好。`have lyst` 侧重个人主观意愿，与是否有时间或客观能力不同。",
+            "transfer": [
+                "Jeg har ikke svaret endnu.",
+                "Jeg ved ikke, om jeg har lyst til at mødes.",
+                "Jeg har ikke rigtig lyst til at tale om det."
+            ],
+            "pitfall": "`have lyst til at` 的介词 `til` 不可省略。间接问句 `om jeg har lyst` 不能写成直接疑问语序。"
+        },
+        {
+            "id": "U04-C051",
+            "zh": "你现在还在生他的气吗？",
+            "grammar": "`Er du stadig …?` 是系动词引导的疑问句。`vred på nogen` 表示对某人生气。`stadig` 强调情绪是否从过去一直持续到现在。",
+            "vocabulary": [
+                {
+                    "da": "vred på nogen",
+                    "zh": "生某人的气",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、还",
+                    "note": "强调状态延续。"
+                }
+            ],
+            "nuance": "Hanne 试图确认阻止 Mathilde 见面的究竟是什么情绪。`stadig` 说明她知道这份不快已经持续了一段时间。",
+            "transfer": [
+                "Er du stadig vred på ham?",
+                "Er du stadig ked af det?"
+            ],
+            "pitfall": "`vred på nogen` 与 `vred over noget` 分别常用于人的对象和引发愤怒的事情。"
+        },
+        {
+            "id": "U04-C052",
+            "zh": "没有……或者说，有一点吧。更多的是失望，我想。",
+            "grammar": "`Eller jo` 是自我修正：先否定，随即部分承认。`Mest skuffet` 省略了 `Jeg er`。`tror jeg` 是后置插入语，缓和对自身情绪分类的确定性。",
+            "vocabulary": [
+                {
+                    "da": "eller jo",
+                    "zh": "或者说，其实也有",
+                    "note": "用于纠正刚才的否定回答。"
+                },
+                {
+                    "da": "mest",
+                    "zh": "主要是、更多地",
+                    "note": "这里表示情绪成分中的主导部分。"
+                },
+                {
+                    "da": "tror jeg",
+                    "zh": "我想、我觉得",
+                    "note": "口语中可后置。"
+                }
+            ],
+            "nuance": "这一句非常真实地展示了情绪识别的过程：Mathilde 并不能立即用一个词准确概括自己。`Nej. Eller jo, lidt` 不是逻辑混乱，而是思考时的自我修正。`Mest skuffet` 呼应第二章对失望与愤怒的区别。",
+            "transfer": [
+                "Nej, eller jo, lidt.",
+                "Jeg er mest skuffet, tror jeg.",
+                "Det er nok mere skuffelse end vrede."
+            ],
+            "pitfall": "回答中的 `jo` 用于推翻前面的否定判断，不是表达共同知识的语气小品词。"
+        },
+        {
+            "id": "U04-C053",
+            "zh": "你不妨先听听他想说什么嘛。说不定他有什么苦衷或解释呢。",
+            "grammar": "`Du kunne jo + 不定式` 使用情态动词过去式提出温和建议。`høre, hvad han har at sige` 后接间接疑问从句。`Måske er der …` 是可能性副词前置后的 V2 存在句。",
+            "vocabulary": [
+                {
+                    "da": "Du kunne jo …",
+                    "zh": "你不妨……、其实可以……",
+                    "note": "比直接命令更柔和。"
+                },
+                {
+                    "da": "have noget at sige",
+                    "zh": "有话要说、有意见表达",
+                    "note": "此处指对事件有所解释。"
+                },
+                {
+                    "da": "måske",
+                    "zh": "也许、说不定",
+                    "note": "表达不确定的可能性。"
+                }
+            ],
+            "nuance": "Hanne 的建议很有分寸：没有要求原谅 Kasper，也没有预设他的理由一定充分，只是建议先听听。`jo` 使建议听起来像一个可考虑的合理选项，而不是强行干预。",
+            "transfer": [
+                "Du kunne jo høre, hvad han har at sige.",
+                "Måske er der en forklaring.",
+                "Du kunne jo give ham en chance for at forklare sig."
+            ],
+            "pitfall": "`kunne` 在这里不是单纯的过去能力，而是表达较委婉的建议。`hvad han har at sige` 是间接疑问从句，不倒装。"
+        },
+        {
+            "id": "U04-C054",
+            "zh": "那如果根本没有解释呢？",
+            "grammar": "`Og hvis der ikke er?` 是省略式条件问句，省略了前面已经出现的 `en forklaring`，也省略了后续可能发生的结果。",
+            "vocabulary": [
+                {
+                    "da": "og hvis …?",
+                    "zh": "那如果……呢？",
+                    "note": "用于质疑建议在不利情况下是否仍然可行。"
+                }
+            ],
+            "nuance": "Mathilde 不是单纯讨论逻辑，而是在担心见面后依然得不到满意的答案。省略形式使这句反问显得简短而有情绪重量。",
+            "transfer": [
+                "Og hvis der ikke er nogen forklaring?",
+                "Hvad nu hvis han ikke kommer?"
+            ],
+            "pitfall": "`hvis` 后是条件从句，不要误认为所有从句都需要独立出现完整的主句；口语中可省略双方已知的结果。"
+        },
+        {
+            "id": "U04-C055",
+            "zh": "那至少你就知道了呀。总比一直在那里猜来猜去好。",
+            "grammar": "`Så ved du det` 中 `så` 表示条件成立后的结果。`Det er bedre end at + 不定式` 是比较结构。`gå og gætte` 采用 `gå og + 动词`，表示某种行为持续或反复发生，不要求真的边走路边猜。",
+            "vocabulary": [
+                {
+                    "da": "gå og gætte",
+                    "zh": "一直猜来猜去、反复猜测",
+                    "note": "口语中表示持续的心理活动。"
+                },
+                {
+                    "da": "bedre end at",
+                    "zh": "比做……更好",
+                    "note": "比较结构。"
+                },
+                {
+                    "da": "så ved du det",
+                    "zh": "那你至少就知道了",
+                    "note": "强调获得确定信息。"
+                }
+            ],
+            "nuance": "Hanne 将目标从必须获得令人满意的解释，降低为至少获得事实上的确定性。`gå og gætte` 把反复揣测描述成一种消耗精力的持续活动，这也回应了两人已经沉默三周的背景。",
+            "transfer": [
+                "Det er bedre end at gå og gætte.",
+                "Så ved du i det mindste, hvor du står.",
+                "Det er bedre at spørge end at gætte."
+            ],
+            "pitfall": "`gå og + 动词` 在口语里常表示持续做某事，不一定真的在行走。"
+        },
+        {
+            "id": "U04-C056",
+            "zh": "你说得对。我今晚就给他发消息。",
+            "grammar": "`Du har ret` 是固定赞同表达。`skrive til nogen` 使用介词 `til` 引出收件人。现在时 `skriver` 可以表示已经决定的近期安排。",
+            "vocabulary": [
+                {
+                    "da": "have ret",
+                    "zh": "说得对",
+                    "note": "常用于接受对方观点。"
+                },
+                {
+                    "da": "skrive til",
+                    "zh": "给……写信、发消息",
+                    "note": "固定介词 `til`。"
+                },
+                {
+                    "da": "i aften",
+                    "zh": "今晚",
+                    "note": "区别于 `om aftenen` 的经常在晚上。"
+                }
+            ],
+            "nuance": "Mathilde 从犹豫转向行动，但并不意味着她已经决定原谅对方。她只是准备重新开启沟通，这也是本章修复关系主题的关键一步。",
+            "transfer": [
+                "Du har ret.",
+                "Jeg skriver til ham i aften.",
+                "Jeg tror, jeg tager kontakt til ham."
+            ],
+            "pitfall": "`have ret` 表示观点正确，`have ret til` 则表示拥有某项权利，两者不要混淆。"
+        },
+        {
+            "id": "U04-C057",
+            "zh": "关于道歉的研究表明，道歉中最重要的一环是承担责任：清楚说出自己做了什么，而不是试图用解释把责任推掉。",
+            "grammar": "`Forskning i … peger på, at …` 是引述研究结论的正式结构。`det vigtigste element er at tage ansvar` 用不定式短语作表语。冒号后继续使用两个不定式结构：`at sige klart …` 与 `uden at forklare det væk`，说明什么是承担责任。",
+            "vocabulary": [
+                {
+                    "da": "forskning i",
+                    "zh": "关于……的研究",
+                    "note": "学术说明文常用搭配。"
+                },
+                {
+                    "da": "pege på",
+                    "zh": "指出、表明、提示",
+                    "note": "比 `bevise` 证明更审慎。"
+                },
+                {
+                    "da": "tage ansvar",
+                    "zh": "承担责任",
+                    "note": "工作和关系修复中的核心表达。"
+                },
+                {
+                    "da": "forklare noget væk",
+                    "zh": "通过解释淡化、推脱某事",
+                    "note": "区别于中性的 `forklare noget`。"
+                }
+            ],
+            "nuance": "这里的关键是区分解释原因和用解释逃避责任。真正的道歉可以包含背景说明，但不能借此否认行为造成的伤害。`peger på` 也体现较审慎的学术语气：文章概括一种研究结论，没有提供具体研究的出处。",
+            "transfer": [
+                "Det vigtigste er at tage ansvar.",
+                "Forskningen peger på, at …",
+                "Jeg vil gerne forklare, hvad der skete, uden at bortforklare min fejl."
+            ],
+            "pitfall": "`forklare væk` 不等于普通解释，而是试图把问题说得不再是问题。`tage ansvar` 不需要额外的介词。"
+        },
+        {
+            "id": "U04-C058",
+            "zh": "好的道歉还要让对方知道，你理解自己的行为对他造成了什么影响，并且以后遇到类似情况会采取不同的做法。",
+            "grammar": "`En god undskyldning viser, at … og at …` 后接两个并列宾语从句。第一个包含间接疑问从句 `hvad det har betydet for den anden`。`gøre det anderledes næste gang` 表示未来改变行为。",
+            "vocabulary": [
+                {
+                    "da": "en undskyldning",
+                    "zh": "道歉、歉意",
+                    "note": "也可指借口，依语境区分。"
+                },
+                {
+                    "da": "betyde for nogen",
+                    "zh": "对某人产生影响或具有意义",
+                    "note": "可用于情感后果。"
+                },
+                {
+                    "da": "gøre det anderledes",
+                    "zh": "换一种做法、采取不同的行动",
+                    "note": "强调行为改变。"
+                },
+                {
+                    "da": "næste gang",
+                    "zh": "下次、以后遇到同类情况时",
+                    "note": "自然的时间表达。"
+                }
+            ],
+            "nuance": "作者把道歉从一句对不起扩展为两个维度：理解影响，以及表达改变行为的意愿。`hvad det har betydet for den anden` 强调从对方视角理解后果，而不只解释自己的动机。",
+            "transfer": [
+                "Jeg forstår, hvad det har betydet for dig.",
+                "Jeg vil gøre det anderledes næste gang.",
+                "En god undskyldning kræver mere end ord."
+            ],
+            "pitfall": "`undskyldning` 在不同语境里既可表示道歉，也可表示借口。`gøre det anderledes` 是改变做法，不等于 `gøre noget andet` 的去做另一件事。"
+        },
+        {
+            "id": "U04-C059",
+            "zh": "而且，说到的事情就必须做到。",
+            "grammar": "`holde, hvad man lover` 是由动词和名词性关系从句组成的固定表达。`hvad man lover` 整体充当 `holde` 的宾语。`Og så` 用于补充最后一个关键条件。",
+            "vocabulary": [
+                {
+                    "da": "holde, hvad man lover",
+                    "zh": "信守承诺、说到做到",
+                    "note": "非常实用的完整表达。"
+                },
+                {
+                    "da": "love",
+                    "zh": "承诺、答应",
+                    "note": "过去式 `lovede`，过去分词 `lovet`。"
+                }
+            ],
+            "nuance": "这句把道歉与后续行为联系起来。光说会改变还不够，真正修复信任需要承诺得到兑现。简短独立成句，使这一原则显得格外重要。",
+            "transfer": [
+                "Man skal holde, hvad man lover.",
+                "Jeg lover kun det, jeg kan holde.",
+                "Det er vigtigt at holde sine løfter."
+            ],
+            "pitfall": "`holde` 有许多含义，在这里不是拿着或举办，而是遵守承诺。"
+        },
+        {
+            "id": "U04-C060",
+            "zh": "一种不太好的道歉方式是这样说：如果你受伤了，那对不起。",
+            "grammar": "`Den dårlige undskyldning lyder …` 用 `lyde` 引出某种说法的内容。引语中的 `hvis` 是条件连词，形式上把对方受到伤害描述为一个需要满足的条件。",
+            "vocabulary": [
+                {
+                    "da": "en dårlig undskyldning",
+                    "zh": "不充分、不恰当的道歉",
+                    "note": "这里评价道歉方式，而非单纯语言是否礼貌。"
+                },
+                {
+                    "da": "lyde",
+                    "zh": "听起来是、措辞是",
+                    "note": "可引出说法或评价。"
+                },
+                {
+                    "da": "blive såret",
+                    "zh": "受到伤害、感到受伤",
+                    "note": "既可指身体，也可指情感。"
+                }
+            ],
+            "nuance": "问题不在于 `hvis` 这个词永远不能用于道歉，而在于当伤害已经明确存在时，这样说可能暗示伤害是否发生仍有争议，并弱化说话人的责任。具体效果还取决于上下文和语调。",
+            "transfer": [
+                "En dårlig undskyldning kan lyde sådan.",
+                "Undskyld, at jeg sårede dig.",
+                "Jeg er ked af, at mine ord gjorde dig ondt."
+            ],
+            "pitfall": "当已经知道对方受到伤害时，`Undskyld, at …` 往往比 `Undskyld, hvis …` 更明确地承认事实。"
+        },
+        {
+            "id": "U04-C061",
+            "zh": "这种说法把责任推给了对方，仿佛真正的问题不是自己的行为，而是对方产生了那样的反应。",
+            "grammar": "`flytte ansvaret over på` 是动词加方向性介词搭配，表示转移责任。`gøre X til Y` 是使役式结构，表示把 X 变成或定义成 Y。`selve problemet` 强调问题本身。",
+            "vocabulary": [
+                {
+                    "da": "flytte ansvaret over på",
+                    "zh": "把责任转嫁给……",
+                    "note": "常用于批评推责行为。"
+                },
+                {
+                    "da": "en reaktion",
+                    "zh": "反应",
+                    "note": "情绪反应和行为反应都适用。"
+                },
+                {
+                    "da": "gøre noget til et problem",
+                    "zh": "把某事变成问题、将某事定义为问题",
+                    "note": "固定使役结构。"
+                },
+                {
+                    "da": "selve",
+                    "zh": "……本身、恰恰是……",
+                    "note": "加强焦点。"
+                }
+            ],
+            "nuance": "作者指出这种道歉的责任转移机制：不讨论自己做了什么，而是把对方为什么难过放到审视中心。这很适合训练识别关系沟通中的责任归属。",
+            "transfer": [
+                "Han flytter ansvaret over på den anden.",
+                "Det gør hendes reaktion til selve problemet.",
+                "Jeg vil ikke lægge skylden over på dig."
+            ],
+            "pitfall": "`flytte ansvaret over på` 中的 `over på` 表示责任方向发生转移，不能简单改成 `flytte ansvaret til`。"
+        },
+        {
+            "id": "U04-C062",
+            "zh": "原谅一个人，并不意味着认可当初发生的事情；它只意味着不再愿意让那件事继续主导彼此的关系。",
+            "grammar": "`At tilgive` 是不定式短语作主语。`betyder ikke, at … – kun at …` 使用否定与限定性的对比。`det, der skete` 是由代词和关系从句组成的名词性结构。`lade det styre forholdet` 使用使役结构 `lade + 宾语 + 不定式`。",
+            "vocabulary": [
+                {
+                    "da": "tilgive",
+                    "zh": "原谅、宽恕",
+                    "note": "可说 `tilgive nogen for noget`。"
+                },
+                {
+                    "da": "være i orden",
+                    "zh": "可以接受、没问题",
+                    "note": "评价行为是否妥当。"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "强调状态发生变化。"
+                },
+                {
+                    "da": "lade noget styre",
+                    "zh": "让某事主导、控制",
+                    "note": "抽象使役结构。"
+                }
+            ],
+            "nuance": "这句话区分原谅与认可过错。原谅可以意味着决定不再让伤害支配今后的关系，但不必否认已经发生的事情，也不必自动恢复原有的信任或关系。作者使用 `ikke … kun …` 来明确划定概念边界。",
+            "transfer": [
+                "At tilgive betyder ikke, at man glemmer.",
+                "Jeg vil ikke længere lade det styre mit liv.",
+                "Jeg kan tilgive dig uden at acceptere det, du gjorde."
+            ],
+            "pitfall": "`tilgive` 不等于 `glemme` 忘记，也不等于 `acceptere` 认可。`lade det styre` 中不定式前没有 `at`。"
+        },
+        {
+            "id": "U04-C063",
+            "zh": "悲伤是最令人难以靠近、也最让旁人不知如何面对的情绪之一。",
+            "grammar": "`en af de sværeste følelser` 是最高级与部分集合结构。`at være i nærheden af` 是修饰 `følelser` 的不定式表达，说明面对这种情绪的困难所在。",
+            "vocabulary": [
+                {
+                    "da": "sorg",
+                    "zh": "悲痛、哀伤、丧失之痛",
+                    "note": "常用于失去亲人或重要关系之后的悲伤。"
+                },
+                {
+                    "da": "en af de sværeste",
+                    "zh": "最困难的……之一",
+                    "note": "最高级结构。"
+                },
+                {
+                    "da": "være i nærheden af",
+                    "zh": "靠近、处于……身边",
+                    "note": "也可用于抽象的情感接触。"
+                }
+            ],
+            "nuance": "这里的难，不是悲伤者不值得接近，而是旁人常感到无力，不知道该如何陪伴。`være i nærheden af` 把面对别人悲痛的心理困难写成一种距离上的困难。",
+            "transfer": [
+                "Sorg er svær at være i nærheden af.",
+                "Det kan være svært at vide, hvad man skal sige.",
+                "Jeg vil gerne være der for hende."
+            ],
+            "pitfall": "`sorg` 通常比普通的 `tristhed` 更强调丧失、深切哀痛。"
+        },
+        {
+            "id": "U04-C064",
+            "zh": "很多人害怕对失去亲人的人说错话，结果最后干脆什么都没说。",
+            "grammar": "`være bange for at + 不定式` 表示担心做某事。`en, der har mistet` 是关系结构，`mistet` 后省略了语境中可推断的失去对象。`ende med at + 不定式` 表示最终导致的结果。",
+            "vocabulary": [
+                {
+                    "da": "være bange for at",
+                    "zh": "害怕做某事、担心会……",
+                    "note": "固定结构。"
+                },
+                {
+                    "da": "have mistet",
+                    "zh": "经历失去、失去亲近的人",
+                    "note": "丧亲语境中可以省略具体对象。"
+                },
+                {
+                    "da": "ende med at",
+                    "zh": "最终却……、结果变成……",
+                    "note": "表示经过某过程产生的结果。"
+                },
+                {
+                    "da": "ikke noget som helst",
+                    "zh": "什么都没有、完全没有",
+                    "note": "加强否定。"
+                }
+            ],
+            "nuance": "作者指出善意可能因为害怕犯错而转化成沉默。这种沉默可能让悲伤中的人更加孤立，即使旁人原本只是想避免打扰。`ender med` 强调结果可能与初衷相反。",
+            "transfer": [
+                "Jeg var bange for at sige noget forkert.",
+                "Jeg endte med slet ikke at sige noget.",
+                "Nogle gange ved man ikke, hvad man skal sige."
+            ],
+            "pitfall": "`ende med at` 不是结束某一项活动，而是最终导致某种结果。`ikke noget som helst` 是加强否定，不是仅仅有一点。"
+        },
+        {
+            "id": "U04-C065",
+            "zh": "其实，一句简单的话往往就够了，比如：发生这样的事，我真的很难过。或者：我一直惦记着你。",
+            "grammar": "`en enkel sætning er nok` 中 `nok` 是形容词性程度补语，表示足够。冒号后引用两种可直接用于慰问的表达。`det, der er sket` 是名词性关系结构，表示已经发生的事情。",
+            "vocabulary": [
+                {
+                    "da": "være nok",
+                    "zh": "已经足够",
+                    "note": "这里的 `nok` 不表示大概。"
+                },
+                {
+                    "da": "Jeg er ked af det, der er sket",
+                    "zh": "发生这样的事，我很难过",
+                    "note": "表达同情和悲伤。"
+                },
+                {
+                    "da": "Jeg tænker på dig",
+                    "zh": "我惦记着你、我心里想着你",
+                    "note": "可用于慰问与关心。"
+                },
+                {
+                    "da": "en enkel sætning",
+                    "zh": "一句简单的话",
+                    "note": "`enkel` 强调简单、不复杂。"
+                }
+            ],
+            "nuance": "作者强调慰问的真诚与存在感，而不是辞藻是否华丽。`Jeg tænker på dig` 在丹麦语中可以是一句温和、有分寸的支持，不一定暗示恋爱感情。",
+            "transfer": [
+                "Jeg er så ked af det, der er sket.",
+                "Jeg tænker på dig.",
+                "Du behøver ikke svare, men jeg tænker på dig."
+            ],
+            "pitfall": "`Jeg er ked af det` 在这个语境表达难过和同情，不一定是在承认自己造成了伤害。"
+        },
+        {
+            "id": "U04-C066",
+            "zh": "安慰别人很少需要什么华丽的话语；最重要的是陪在对方身边——甚至在葬礼已经结束、其他人都回家以后，仍然如此。",
+            "grammar": "`At trøste` 是不定式短语作主语。`kræver sjældent` 表示很少需要。`det vigtigste er at være der` 用不定式作表语。破折号后以 `også efter …` 补充强调真正需要陪伴的时间。",
+            "vocabulary": [
+                {
+                    "da": "trøste",
+                    "zh": "安慰、慰藉",
+                    "note": "直接接人作宾语。"
+                },
+                {
+                    "da": "store ord",
+                    "zh": "华丽或郑重的话语",
+                    "note": "在这里强调语言不必复杂。"
+                },
+                {
+                    "da": "være der",
+                    "zh": "在身边、给予陪伴",
+                    "note": "上下文中具有情感支持含义。"
+                },
+                {
+                    "da": "en begravelse",
+                    "zh": "葬礼",
+                    "note": "复数 `begravelser`。"
+                }
+            ],
+            "nuance": "`være der` 是本句最重要的关系表达：支持不是必须说出正确答案，而是让对方感受到有人可以依靠。作者特别强调葬礼之后，因为正式仪式结束后，失去亲人的人仍可能长期需要陪伴。",
+            "transfer": [
+                "Det vigtigste er bare at være der.",
+                "Du behøver ikke finde de rigtige ord.",
+                "Jeg er her, hvis du har brug for mig."
+            ],
+            "pitfall": "`være der` 在情感语境中不是仅仅站在某个地点，而是表示持续的支持和陪伴。"
+        },
+        {
+            "id": "U04-C067",
+            "zh": "思念往往是一阵一阵涌上来的，例如广播里突然响起某一首熟悉的歌，或者圣诞节餐桌旁看见一张空着的椅子时。",
+            "grammar": "`Savnet kommer ofte i bølger` 使用抽象名词作主语和波浪隐喻。`for eksempel ved …` 引出触发思念的具体情境。两个由 `ved` 引出的介词短语形成并列。",
+            "vocabulary": [
+                {
+                    "da": "et savn",
+                    "zh": "思念、失去后的想念",
+                    "note": "动词为 `savne`。"
+                },
+                {
+                    "da": "komme i bølger",
+                    "zh": "一阵阵袭来、此起彼伏",
+                    "note": "用于情绪、疼痛和回忆。"
+                },
+                {
+                    "da": "en bestemt sang",
+                    "zh": "某一首特定的歌",
+                    "note": "`bestemt` 强调具体关联。"
+                },
+                {
+                    "da": "en tom stol",
+                    "zh": "一张空椅子",
+                    "note": "这里象征缺席的人。"
+                }
+            ],
+            "nuance": "作者通过声音和视觉两个具体触发因素描写哀伤。`en tom stol til jul` 是非常有力量的意象：本来应该坐着某人的地方如今空了。`kommer i bølger` 强调思念不是每天同样强烈，而可能在普通细节中突然重新出现。",
+            "transfer": [
+                "Savnet kommer i bølger.",
+                "En bestemt sang minder mig om ham.",
+                "Det rammer mig især ved højtiderne."
+            ],
+            "pitfall": "`savn` 是思念或缺失感，`savne nogen` 是想念某人。`bølger` 在这里是情绪波动的隐喻。"
+        },
+        {
+            "id": "U04-C068",
+            "zh": "孤独感产生于这样一种落差：一个人实际拥有的人际关系，与自己希望拥有的关系并不相符。",
+            "grammar": "`Ensomhed er den følelse, der opstår …` 是定义式结构。`når de relationer, man har, ikke svarer til dem, man ønsker sig` 中包含两个省略宾语关系代词的关系从句。`svare til` 表示对应、符合。",
+            "vocabulary": [
+                {
+                    "da": "ensomhed",
+                    "zh": "孤独感、孤独状态",
+                    "note": "抽象名词，形容词为 `ensom`。"
+                },
+                {
+                    "da": "opstå",
+                    "zh": "产生、出现",
+                    "note": "不规则变化：`opstår – opstod – er opstået`。"
+                },
+                {
+                    "da": "svare til",
+                    "zh": "符合、对应、相当于",
+                    "note": "固定介词 `til`。"
+                },
+                {
+                    "da": "ønske sig",
+                    "zh": "希望自己拥有、想得到",
+                    "note": "反身结构。"
+                },
+                {
+                    "da": "en relation",
+                    "zh": "关系、联系",
+                    "note": "常用于社会心理学和人际关系。"
+                }
+            ],
+            "nuance": "作者从主观期待与实际联系之间的差距定义孤独，而不是从一个人是否独居出发。即使关系数量很多，如果缺少自己真正需要的亲密感、理解或归属，也可能感到孤独。这是理解前面 `alene` 与 `ensom` 区别的关键。",
+            "transfer": [
+                "Ensomhed opstår, når relationerne ikke svarer til ens behov.",
+                "Virkeligheden svarer ikke til mine forventninger.",
+                "Jeg ønsker mig tættere relationer."
+            ],
+            "pitfall": "`svare til` 表示相符，不是回答某人；回答问题是 `svare på`。`ønske sig` 中的反身代词不能随意省略。"
+        },
+        {
+            "id": "U04-C069",
+            "zh": "所以，孤独感不能简单通过数一个人有多少朋友来衡量。",
+            "grammar": "`Derfor` 引出前面定义的逻辑结论。`kan den ikke måles` 使用情态动词加 s-被动。`ved at tælle venner` 表示通过数朋友数量这种方式。",
+            "vocabulary": [
+                {
+                    "da": "måle",
+                    "zh": "测量、衡量",
+                    "note": "可用于物理量和抽象社会指标。"
+                },
+                {
+                    "da": "ved at",
+                    "zh": "通过……的方式",
+                    "note": "后接不定式。"
+                },
+                {
+                    "da": "tælle",
+                    "zh": "计数、数数",
+                    "note": "可用于人数、数量和统计。"
+                }
+            ],
+            "nuance": "这是上一定义的直接推论：朋友数量不等于关系质量。`kan ikke måles ved` 也并非说孤独完全不能被研究或测量，而是说单靠朋友数量不足以反映这种主观体验。",
+            "transfer": [
+                "Det kan ikke måles ved at tælle venner.",
+                "Kvalitet kan ikke altid måles i tal.",
+                "Derfor må vi også se på relationernes kvalitet."
+            ],
+            "pitfall": "`måle ved at` 与 `måle i` 不同：前者描述测量方法，后者常表示计量单位。"
+        },
+        {
+            "id": "U04-C070",
+            "zh": "长期的孤独感与更高的患病风险以及过早死亡风险存在关联。",
+            "grammar": "`hænge sammen med` 表示两个现象之间存在联系。`en højere risiko for` 是比较级名词短语，`sygdom og tidlig død` 为风险所指向的结果。",
+            "vocabulary": [
+                {
+                    "da": "langvarig",
+                    "zh": "长期的、持续很久的",
+                    "note": "可修饰压力、疾病和社会问题。"
+                },
+                {
+                    "da": "hænge sammen med",
+                    "zh": "与……有关联",
+                    "note": "学术写作中非常重要。"
+                },
+                {
+                    "da": "en risiko for",
+                    "zh": "……的风险",
+                    "note": "固定介词 `for`。"
+                },
+                {
+                    "da": "tidlig død",
+                    "zh": "过早死亡",
+                    "note": "公共卫生研究中的常见概念。"
+                }
+            ],
+            "nuance": "`hænger sammen med` 是审慎的科学表述，说明研究中可能观察到相关性，但单凭这一句不能确定因果方向或排除其他因素。作者用这一健康后果强调长期孤独不只是令人不舒服的情绪。",
+            "transfer": [
+                "Langvarig stress hænger sammen med øget sygdomsrisiko.",
+                "Der er en sammenhæng mellem X og Y.",
+                "Det betyder ikke nødvendigvis, at X forårsager Y."
+            ],
+            "pitfall": "`hænge sammen med` 表示关联，不自动等于 `forårsage` 的造成。`risiko for` 中不要使用 `risiko af`。"
+        },
+        {
+            "id": "U04-C071",
+            "zh": "卡斯珀，你其实过得怎么样？",
+            "grammar": "`Hvordan har du det?` 询问对方当前身心状态。`egentlig` 放在句末，使问题从普通寒暄转向更深入、真诚的关心。",
+            "vocabulary": [
+                {
+                    "da": "Hvordan har du det egentlig?",
+                    "zh": "你其实还好吗？你真正感觉怎么样？",
+                    "note": "适合私下认真关心熟人。"
+                },
+                {
+                    "da": "egentlig",
+                    "zh": "其实、说真的",
+                    "note": "强调希望得到真实而非公式化的回答。"
+                }
+            ],
+            "nuance": "本句直接呼应第二章讲解的 `Hvordan har du det?` 与 `Hvordan går det?` 的语用差别。Mathilde 在经历之前的犹豫后，终于越过寒暄，主动询问 Kasper 真正的状态。这是故事关系修复的转折点。",
+            "transfer": [
+                "Hvordan har du det egentlig?",
+                "Jeg vil gerne høre, hvordan du virkelig har det."
+            ],
+            "pitfall": "`egentlig` 不必每次都译为真正地，它也可以传达轻柔但认真的关心。"
+        },
+        {
+            "id": "U04-C072",
+            "zh": "……不太好。说实话，最近过得不怎么样。",
+            "grammar": "`Ikke så godt` 是省略式回答，完整形式可以是 `Jeg har det ikke så godt`。`hvis jeg skal være ærlig` 是条件从句形式的固定话语表达，表示坦白说。",
+            "vocabulary": [
+                {
+                    "da": "ikke så godt",
+                    "zh": "不太好、不怎么样",
+                    "note": "较克制的负面回答。"
+                },
+                {
+                    "da": "hvis jeg skal være ærlig",
+                    "zh": "说实话、坦白讲",
+                    "note": "可用于解释真实感受或意见。"
+                }
+            ],
+            "nuance": "Kasper 的回答仍然克制，没有立即讲出全部原因。省略号与 `hvis jeg skal være ærlig` 表明他犹豫后决定不再继续用表面的 `fint` 回避真实情绪。",
+            "transfer": [
+                "Ikke så godt, hvis jeg skal være ærlig.",
+                "Hvis jeg skal være ærlig, har jeg haft det svært."
+            ],
+            "pitfall": "`hvis jeg skal være ærlig` 是常见话语表达，并不意味着说话人平时都在说谎。"
+        },
+        {
+            "id": "U04-C073",
+            "zh": "出什么事了？",
+            "grammar": "`Hvad er der sket?` 是现在完成时疑问句，使用 `der` 引出发生的事件，重点询问导致当前情况的原因。",
+            "vocabulary": [
+                {
+                    "da": "Hvad er der sket?",
+                    "zh": "发生什么事了？",
+                    "note": "询问意外情况或他人不佳状态的原因。"
+                }
+            ],
+            "nuance": "Mathilde 没有马上追问他为什么爽约，而是先关心发生了什么，让对方按自己的方式说明。这比立刻提出指责更有助于打开谈话。",
+            "transfer": [
+                "Hvad er der sket?",
+                "Vil du fortælle mig, hvad der er sket?"
+            ],
+            "pitfall": "`Hvad er der sket?` 与 `Hvad sker der?` 不同：前者常询问已经发生的事，后者可询问当前正在发生什么或有什么事。"
+        },
+        {
+            "id": "U04-C074",
+            "zh": "卡罗琳跟我分手了。就在你生日那天。",
+            "grammar": "`slå op med nogen` 是分手的固定搭配。`slog` 是 `slå` 的过去式。`Samme dag som …` 是省略式时间补充，明确两件事件发生在同一天。",
+            "vocabulary": [
+                {
+                    "da": "slå op med",
+                    "zh": "与……分手",
+                    "note": "不规则变化：`slår – slog – har slået`。"
+                },
+                {
+                    "da": "samme dag som",
+                    "zh": "与……同一天",
+                    "note": "说明两个事件时间相同。"
+                }
+            ],
+            "nuance": "这一句话重新解释了 Kasper 在生日当天突然缺席的背景。第二句独立出现，使时间上的巧合具有特别强的冲击力，也让 Mathilde 开始理解自己先前不知道的处境。",
+            "transfer": [
+                "Hun slog op med mig.",
+                "Det skete samme dag som festen."
+            ],
+            "pitfall": "`slå op` 在恋爱语境中是结束关系，不能按字面理解为向上打。"
+        },
+        {
+            "id": "U04-C075",
+            "zh": "什么？这我完全不知道。",
+            "grammar": "`Det anede jeg ikke` 将宾语 `det` 前置，形成 `anede jeg` 的 V2 倒装。`ane` 表示隐约知道、察觉，否定时可强调完全没有意识到。",
+            "vocabulary": [
+                {
+                    "da": "ane",
+                    "zh": "隐约知道、察觉、猜到",
+                    "note": "过去式 `anede`。"
+                },
+                {
+                    "da": "ikke ane",
+                    "zh": "完全不知道、毫无察觉",
+                    "note": "比普通的 `ikke vide` 更突出意外。"
+                }
+            ],
+            "nuance": "Mathilde 的惊讶是真实的。`Det anede jeg ikke` 表明她不仅不知道具体细节，甚至没有察觉 Kasper 正在经历这样的打击。这为她重新评价之前的失望打开了空间。",
+            "transfer": [
+                "Det anede jeg ikke.",
+                "Jeg anede ikke, at du havde det så svært."
+            ],
+            "pitfall": "`ane` 和 `anelse` 属于同一词族，如 `Jeg har ingen anelse`。`ane` 不等于确定地知道。"
+        },
+        {
+            "id": "U04-C076",
+            "zh": "嗯。我一直没跟任何人说过。",
+            "grammar": "`har ikke sagt det til nogen` 使用现在完成时，强调直到现在仍未向任何人透露。`nogen` 位于否定语境中，表示任何人。",
+            "vocabulary": [
+                {
+                    "da": "sige noget til nogen",
+                    "zh": "把某事告诉某人",
+                    "note": "受话人用 `til` 引出。"
+                },
+                {
+                    "da": "ikke … til nogen",
+                    "zh": "没有告诉任何人",
+                    "note": "否定与不定代词搭配。"
+                }
+            ],
+            "nuance": "Kasper 说明沉默并非只针对 Mathilde，而是他没有向任何人公开这件事。这不能自动免除他的责任，却帮助解释他为什么迟迟没有说明缺席原因。",
+            "transfer": [
+                "Jeg har ikke sagt det til nogen.",
+                "Jeg har ikke været klar til at fortælle det."
+            ],
+            "pitfall": "否定句中的 `nogen` 相当于任何人，不是肯定句中明确的某个人。"
+        },
+        {
+            "id": "U04-C077",
+            "zh": "可是你当时哪怕只是告诉我一声，我也一定会理解的呀。",
+            "grammar": "`hvis du … havde sagt det, så havde jeg forstået det` 是与过去事实相反的条件句，两部分都使用过去完成时。`nu` 和 `bare` 是语气成分，在这里加强其实只要做了这件小事就好的意味。",
+            "vocabulary": [
+                {
+                    "da": "hvis … havde …",
+                    "zh": "如果当时已经……",
+                    "note": "用于过去未发生的假设。"
+                },
+                {
+                    "da": "have forstået",
+                    "zh": "本来就会理解",
+                    "note": "在过去反事实条件结构中使用。"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只要、哪怕只是",
+                    "note": "这里强调要求其实并不高。"
+                }
+            ],
+            "nuance": "Mathilde 不是在否认 Kasper 的痛苦，而是在表达自己真正的失望来源：他没有给予她任何理解情况的机会。`nu bare` 带有一种如果你当时至少说一声就好了的遗憾和轻微责备。",
+            "transfer": [
+                "Hvis du havde sagt det, havde jeg forstået det.",
+                "Hvis jeg havde vidst det, ville jeg have hjulpet dig.",
+                "Du kunne bare have ringet."
+            ],
+            "pitfall": "过去反事实条件通常使用 `havde + 过去分词`，不能直接用普通现在时来表达当时没有发生的事情。"
+        },
+        {
+            "id": "U04-C078",
+            "zh": "我知道。我那时候就是没办法把这件事说出口。而且我还得站在一百个人面前发表生日致辞……",
+            "grammar": "`ikke være i stand til at + 不定式` 表示没有能力或当时做不到。`ligesom` 是口语语气词，用于近似描述、寻找说法或缓和表达。`skulle stå og holde tale` 中 `skulle` 表示当时预定的任务，`stå og + 动词` 强调所处的实际场景。",
+            "vocabulary": [
+                {
+                    "da": "være i stand til at",
+                    "zh": "能够、有能力做某事",
+                    "note": "否定形式常用于心理或实际能力受到限制。"
+                },
+                {
+                    "da": "sige noget højt",
+                    "zh": "把事情说出口、大声说出",
+                    "note": "可指将内心想法公开表达。"
+                },
+                {
+                    "da": "ligesom",
+                    "zh": "有点、就是、仿佛",
+                    "note": "口语中可作填充或缓和语气词。"
+                },
+                {
+                    "da": "stå og holde tale",
+                    "zh": "站在众人面前致辞",
+                    "note": "`stå og` 强调实际参与某个活动的场景。"
+                }
+            ],
+            "nuance": "Kasper 开始解释当时的心理困难。`ligesom` 表现他难以清楚描述自己的状态；`sige det højt` 则强调把刚刚发生的分手公开说出来，对他而言是额外的情绪负担。最后提到一百人的致辞，使 Mathilde 意识到他的缺席不仅涉及参加聚会，还涉及必须在众人面前演讲。",
+            "transfer": [
+                "Jeg var ikke i stand til at tale om det.",
+                "Jeg kunne ikke få mig selv til at sige det højt.",
+                "Jeg skulle stå og holde tale foran hundrede mennesker."
+            ],
+            "pitfall": "`i stand til` 是整体固定表达，不是站立的状态。`ligesom` 在此不是严格比较的像，而是口语缓和词。"
+        },
+        {
+            "id": "U04-C079",
+            "zh": "哎呀，对，还有致辞这件事。我之前完全没有想到这一层。",
+            "grammar": "`Det havde jeg slet ikke tænkt på` 使用过去完成时，表示在当前谈话揭示情况之前，她一直没有考虑到这一点。`slet ikke` 加强否定。`tænke på` 是固定介词搭配。",
+            "vocabulary": [
+                {
+                    "da": "Åh nej",
+                    "zh": "哎呀、糟了、天哪",
+                    "note": "可表示震惊、同情或突然意识到问题。"
+                },
+                {
+                    "da": "slet ikke",
+                    "zh": "完全没有、根本没有",
+                    "note": "加强否定程度。"
+                },
+                {
+                    "da": "tænke på",
+                    "zh": "想到、考虑到",
+                    "note": "固定介词 `på`。"
+                }
+            ],
+            "nuance": "Mathilde 此刻开始真正换位思考。她之前关注的是朋友没有出席并让自己失望，现在意识到对方在遭受分手打击后，还需要面对公开讲话的压力。",
+            "transfer": [
+                "Det havde jeg slet ikke tænkt på.",
+                "Åh nej, det havde jeg helt glemt.",
+                "Jeg havde ikke tænkt over, hvor svært det måtte være."
+            ],
+            "pitfall": "`tænke på` 和 `tænke over` 可以交叉使用，但前者常强调想到某事，后者更容易强调认真思考。"
+        },
+        {
+            "id": "U04-C080",
+            "zh": "就是说，我不是不想去。只是后来实在太难为情了，连电话都不敢打。而且拖得越久，就越难开口。",
+            "grammar": "`det var ikke, fordi …` 用于澄清或纠正对方可能产生的误解。`så flov, at jeg ikke turde ringe` 是程度结果结构。`jo længere tid der gik, jo sværere blev det` 是成比例比较结构，表示随着时间延长，困难程度不断增加。",
+            "vocabulary": [
+                {
+                    "da": "Det var ikke, fordi …",
+                    "zh": "并不是因为……",
+                    "note": "常用于解释动机、消除误会。"
+                },
+                {
+                    "da": "turde",
+                    "zh": "敢于",
+                    "note": "来自 `turde`，常说 `ikke turde gøre noget`。"
+                },
+                {
+                    "da": "være flov",
+                    "zh": "感到羞愧、难为情",
+                    "note": "在这里指对自己的行为感到羞愧。"
+                },
+                {
+                    "da": "jo længere … jo sværere …",
+                    "zh": "越……就越……",
+                    "note": "可迁移到大量比较性叙述。"
+                },
+                {
+                    "da": "altså",
+                    "zh": "就是说、其实",
+                    "note": "用于组织解释和强调立场。"
+                }
+            ],
+            "nuance": "这是故事中最关键的心理解释之一。Kasper 区分了最初没有出席的原因和此后迟迟不解释的原因。`jo længere … jo sværere …` 精确描述回避行为形成的恶性循环：越觉得羞愧越不敢联系，越不联系又越难开口。",
+            "transfer": [
+                "Det var ikke, fordi jeg ikke ville.",
+                "Jeg var så flov, at jeg ikke turde ringe.",
+                "Jo længere tid der gik, jo sværere blev det."
+            ],
+            "pitfall": "比例结构使用两次 `jo`，不同于作为语气词的 `jo`。`turde` 表示敢不敢，不是会不会。"
+        },
+        {
+            "id": "U04-C081",
+            "zh": "我当时以为你根本不在乎。",
+            "grammar": "`Jeg troede, …` 引导从过去视角形成的判断。`være ligeglad` 表示无所谓、不在乎。宾语从句中的 `du var` 使用从句陈述语序。",
+            "vocabulary": [
+                {
+                    "da": "tro",
+                    "zh": "以为、认为、相信",
+                    "note": "过去式 `troede`。"
+                },
+                {
+                    "da": "være ligeglad",
+                    "zh": "不在乎、无所谓",
+                    "note": "可接 `med noget`。"
+                }
+            ],
+            "nuance": "Mathilde 终于说出了自己的核心误解：Kasper 的沉默被她理解为不在乎。这与前面作者强调沉默为何伤人的主题直接呼应。",
+            "transfer": [
+                "Jeg troede, du var ligeglad.",
+                "Jeg er ikke ligeglad med dig."
+            ],
+            "pitfall": "`ligeglad` 不是高兴、快乐，而是不在乎。`troede` 常表示当时以为某事是真的，但现在可能已经修正看法。"
+        },
+        {
+            "id": "U04-C082",
+            "zh": "我绝对不是不在乎。",
+            "grammar": "`Det er jeg … ikke` 是省略式回应，其中 `det` 回指前句的 `ligeglad` 这一评价。`overhovedet ikke` 是强烈否定结构。",
+            "vocabulary": [
+                {
+                    "da": "overhovedet ikke",
+                    "zh": "完全不、绝对不",
+                    "note": "加强否定程度。"
+                }
+            ],
+            "nuance": "Kasper 立即而坚定地否认自己漠不关心。相比此前充满犹豫的解释，这句话明显更直接，突出他对友谊的重视。",
+            "transfer": [
+                "Det er jeg overhovedet ikke.",
+                "Jeg er overhovedet ikke ligeglad."
+            ],
+            "pitfall": "`overhovedet ikke` 是完整加强否定表达，不能简单把 `overhovedet` 单独译为头顶上。"
+        },
+        {
+            "id": "U04-C083",
+            "zh": "听你这么说，我心里好受些了。因为之前给我的感觉确实就是那样。",
+            "grammar": "`Det er rart at vide` 使用形容词加不定式结构。`For` 位于第二句句首，是表示原因的并列连词。`sådan føltes det` 中 `sådan` 前置，形成 V2 倒装，`føles` 表示主观体验。",
+            "vocabulary": [
+                {
+                    "da": "rart at vide",
+                    "zh": "知道这一点让人安心",
+                    "note": "`rar` 可表示令人舒服、亲切、愉快。"
+                },
+                {
+                    "da": "føles sådan",
+                    "zh": "感觉就是那样",
+                    "note": "强调主观体验。"
+                },
+                {
+                    "da": "for",
+                    "zh": "因为",
+                    "note": "此处为解释前一句的并列连词。"
+                }
+            ],
+            "nuance": "Mathilde 同时表达两件事：她愿意接受 Kasper 的澄清，但她过去受到的伤害也是真实的。`sådan føltes det` 很适合关系修复，因为它描述自己的感受，而不是继续断言对方的真实动机。",
+            "transfer": [
+                "Det er rart at vide.",
+                "Det var sådan, det føltes for mig.",
+                "Jeg ved godt, hvad du mener, men sådan oplevede jeg det."
+            ],
+            "pitfall": "`føles` 描述主观感受，不等于证明客观事实。`For` 在这里不是介词为了，而是因为。"
+        },
+        {
+            "id": "U04-C084",
+            "zh": "对不起，玛蒂尔德。我辜负了你，而且还让你整整等了三个星期才得到一个解释，我真的很难过。",
+            "grammar": "`Jeg er ked af, at … og at …` 使用形容词加两个并列内容从句，明确指出道歉对象。`svigte nogen` 表示辜负某人。`lade nogen vente` 是使役结构，`i tre uger` 表示等待持续时间，`på en forklaring` 表示所等待的对象。",
+            "vocabulary": [
+                {
+                    "da": "svigte nogen",
+                    "zh": "辜负、失信于某人",
+                    "note": "通常涉及重要关系或责任。"
+                },
+                {
+                    "da": "være ked af, at",
+                    "zh": "对……感到抱歉、难过",
+                    "note": "明确承认自己做过的事情时可用于道歉。"
+                },
+                {
+                    "da": "lade nogen vente",
+                    "zh": "让某人等待",
+                    "note": "使役结构，后接不带 `at` 的不定式。"
+                },
+                {
+                    "da": "vente på en forklaring",
+                    "zh": "等待一个解释",
+                    "note": "固定介词 `på`。"
+                }
+            ],
+            "nuance": "这句与前面不恰当的条件式道歉形成鲜明对比。Kasper 没有说如果你受伤了，而是明确说出自己辜负她、让她等待解释的两个行为。他承认行为和影响，而没有用失恋经历完全抵消自己的责任。",
+            "transfer": [
+                "Jeg er ked af, at jeg svigtede dig.",
+                "Undskyld, at jeg lod dig vente så længe.",
+                "Jeg burde have forklaret det tidligere."
+            ],
+            "pitfall": "`Jeg er ked af, at …` 在这里表达歉意，不只是自己心情难过。`lade nogen vente` 后没有 `at`。"
+        },
+        {
+            "id": "U04-C085",
+            "zh": "谢谢你。你愿意把这些话说出来，对我真的很重要。",
+            "grammar": "`Det betyder meget, at …` 使用形式主语 `det`，真正的内容由后面的 `at` 从句说明。`betyde meget` 是评价情感重要性的固定表达。",
+            "vocabulary": [
+                {
+                    "da": "betyde meget",
+                    "zh": "意义重大、很重要",
+                    "note": "常用于表达感激和情感价值。"
+                },
+                {
+                    "da": "at du siger det",
+                    "zh": "你把这件事说出来",
+                    "note": "强调对方主动表达。"
+                }
+            ],
+            "nuance": "Mathilde 没有立即说一切都恢复正常，而是明确认可 Kasper 的道歉。`Det betyder meget` 是温暖而不过度夸张的情感回应，适合在亲密关系中表达某句话对自己的分量。",
+            "transfer": [
+                "Det betyder meget, at du siger det.",
+                "Det betyder virkelig meget for mig.",
+                "Tak, fordi du fortæller mig det."
+            ],
+            "pitfall": "`betyde meget` 在这里不是词义很多，而是情感意义重大。"
+        },
+        {
+            "id": "U04-C086",
+            "zh": "要是我当时马上打了电话就好了。这段时间，我真的每天都在为这件事内疚。",
+            "grammar": "`Bare jeg havde ringet …` 是表示过去遗憾的愿望式结构，过去完成时指没有实现的行为。`have dårlig samvittighed` 是固定搭配。`hver eneste dag` 比普通的 `hver dag` 更加强调每天无一例外。",
+            "vocabulary": [
+                {
+                    "da": "Bare jeg havde …",
+                    "zh": "要是我当时……就好了",
+                    "note": "表达对过去无法改变的事情的遗憾。"
+                },
+                {
+                    "da": "med det samme",
+                    "zh": "立刻、马上",
+                    "note": "常用于及时回应或行动。"
+                },
+                {
+                    "da": "have dårlig samvittighed",
+                    "zh": "内疚、良心不安",
+                    "note": "固定情绪搭配。"
+                },
+                {
+                    "da": "hver eneste dag",
+                    "zh": "每一天、天天如此",
+                    "note": "`eneste` 加强频率的完整性。"
+                }
+            ],
+            "nuance": "`Bare jeg havde …` 表现强烈的反事实遗憾：如果当时能采取那个简单行动就好了。`dårlig samvittighed` 强调他知道自己的处理方式不妥，而不仅仅是担心失去朋友。",
+            "transfer": [
+                "Bare jeg havde ringet med det samme.",
+                "Jeg har haft dårlig samvittighed over det.",
+                "Bare jeg havde sagt det tidligere."
+            ],
+            "pitfall": "`Bare jeg havde …` 是过去遗憾的愿望结构，不是普通的条件句。`samvittighed` 指良心，`dårlig samvittighed` 是内疚。"
+        },
+        {
+            "id": "U04-C087",
+            "zh": "其实我也本来可以主动打电话的。只是我不愿意做先低头、先联系的那个人。",
+            "grammar": "`Jeg kunne også have ringet` 使用情态动词过去式加完成不定式，表示过去本来有能力或机会采取但未采取的行动。`gad ikke` 表示不愿意、不想费心。`den, der ringede først` 是关系结构，强调首先主动联系的人。",
+            "vocabulary": [
+                {
+                    "da": "kunne have gjort noget",
+                    "zh": "本来可以做某事",
+                    "note": "描述过去未采取的可能行动。"
+                },
+                {
+                    "da": "gide",
+                    "zh": "愿意费心、有意愿去做",
+                    "note": "过去式 `gad`，否定式很常见。"
+                },
+                {
+                    "da": "ringe først",
+                    "zh": "先打电话、先主动联系",
+                    "note": "`først` 表示行动顺序。"
+                }
+            ],
+            "nuance": "Mathilde 在 Kasper 承担责任后，也开始承认自己有可以采取却没有采取的行动。`gad ikke` 带一点直接、略显坦率的自我批评，不只是没有时间或客观上做不到。",
+            "transfer": [
+                "Jeg kunne også have ringet.",
+                "Jeg gad ikke være den, der tog kontakt først.",
+                "Jeg kunne have gjort mere for at løse problemet."
+            ],
+            "pitfall": "`gide` 不等于 `kunne`：前者与意愿或是否愿意费心有关，后者表示能力或可能性。`kunne have` 表示过去未实现的可能性。"
+        },
+        {
+            "id": "U04-C088",
+            "zh": "你现在还在生我的气吗？",
+            "grammar": "`Er du stadig sur?` 是系动词引导的疑问句。`stadig` 强调此前的情绪是否延续到现在。",
+            "vocabulary": [
+                {
+                    "da": "være sur",
+                    "zh": "不高兴、闹情绪、生气",
+                    "note": "与更严肃的 `vred` 相比，常带日常不快意味。"
+                }
+            ],
+            "nuance": "Kasper 想知道误会解释清楚后，Mathilde 的情绪是否缓和。他选用 `sur`，而非更强烈的 `vred`，也为下一句 Mathilde 的词义纠正留下空间。",
+            "transfer": [
+                "Er du stadig sur på mig?",
+                "Er du stadig ked af det?"
+            ],
+            "pitfall": "`sur` 和 `skuffet` 不能简单互换：前者强调不高兴，后者强调期待落空。"
+        },
+        {
+            "id": "U04-C089",
+            "zh": "我从来没有生气过。只是失望。不过这份失望会慢慢过去的。……那你呢？你现在还难过吗？",
+            "grammar": "`Sur var jeg aldrig` 将表语 `Sur` 前置，强调她否认的具体情绪类别，主句仍遵守 V2 语序。`Skuffet` 是省略式自我修正。`gå over` 表示某种状态逐渐消失。后半句 `Og du?` 把关注对象转向 Kasper。",
+            "vocabulary": [
+                {
+                    "da": "gå over",
+                    "zh": "逐渐过去、消退",
+                    "note": "可用于情绪、疼痛、疾病症状。"
+                },
+                {
+                    "da": "aldrig",
+                    "zh": "从来没有、永不",
+                    "note": "这里回顾过去整个事件。"
+                },
+                {
+                    "da": "være skuffet",
+                    "zh": "感到失望",
+                    "note": "通常接 `over` 引出对象。"
+                }
+            ],
+            "nuance": "这是整篇文章对情绪词精确区分的一次完整应用。Mathilde 坚持自己从来不是 `sur`，而是 `skuffet`。`det går over` 表示失望有望随着理解和沟通慢慢减轻。随后她立即反问 Kasper 是否难过，标志着双方从相互防备重新转向彼此关心。",
+            "transfer": [
+                "Sur var jeg aldrig. Jeg var skuffet.",
+                "Det går over med tiden.",
+                "Og du? Hvordan har du det nu?"
+            ],
+            "pitfall": "`gå over` 在这里是情绪消退，不是横穿某物。`Sur var jeg aldrig` 是强调性表语前置，不是从句语序。"
+        },
+        {
+            "id": "U04-C090",
+            "zh": "嗯，还是难过。不过能坐在这里和你聊聊，感觉挺好的。……对了，那篇生日致辞我其实还留着呢。",
+            "grammar": "`det er rart at sidde her` 是形式主语加不定式结构。`Talen, den har jeg …` 是口语中的话题先行结构：先提出 `Talen`，再用代词 `den` 回指，形成信息焦点。`har … liggende` 表示某物仍处于存放状态，`forresten` 标记顺便补充的话题。",
+            "vocabulary": [
+                {
+                    "da": "rart at",
+                    "zh": "做某事让人感到舒服、愉快",
+                    "note": "可描述有安全感或放松的体验。"
+                },
+                {
+                    "da": "forresten",
+                    "zh": "对了、顺便说一下",
+                    "note": "自然的话题转换标记。"
+                },
+                {
+                    "da": "have noget liggende",
+                    "zh": "某物还留着、存放着",
+                    "note": "强调东西仍然在手边或某处。"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、还",
+                    "note": "表示状态延续。"
+                }
+            ],
+            "nuance": "Kasper 没有假装失恋的伤痛已经结束，而是同时承认难过和眼下重新联系带来的安慰。最后突然提到尚未发表的致辞，意味着他仍然珍惜与 Mathilde 的友谊，也给故事留下重新弥补的机会。",
+            "transfer": [
+                "Det er rart at sidde her og tale sammen.",
+                "Den bog, den har jeg stadig liggende.",
+                "Forresten har jeg stadig talen."
+            ],
+            "pitfall": "`have noget liggende` 表示东西仍然放着或留着，不是自己躺着。`Talen, den …` 是常见口语话题结构，正式写作中可简化为 `Jeg har stadig talen liggende`。"
+        },
+        {
+            "id": "U04-C091",
+            "zh": "那你明年再给我讲这篇致辞吧。",
+            "grammar": "`Så kan du …` 中 `så` 表示根据前面消息提出的后续可能安排。`kan` 体现允许、提议或可行性，而非强制要求。`holde en tale` 是发表致辞的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "holde en tale",
+                    "zh": "发表致辞、讲话",
+                    "note": "生日、婚礼及正式活动都适用。"
+                },
+                {
+                    "da": "næste år",
+                    "zh": "明年",
+                    "note": "不需要介词。"
+                },
+                {
+                    "da": "så kan du …",
+                    "zh": "那你就可以……",
+                    "note": "用于友好的建议和后续安排。"
+                }
+            ],
+            "nuance": "这是非常温暖而克制的结尾。Mathilde 没有发表一段正式的原谅宣言，而是自然地邀请 Kasper 明年再完成那篇致辞。这个提议隐含着友谊仍有未来，也让之前未能兑现的承诺获得新的机会。它既保留了过去的不完美，又表达了继续相处的意愿。",
+            "transfer": [
+                "Så kan du holde talen næste år.",
+                "Så gør vi det næste gang.",
+                "Der kommer heldigvis en ny chance."
+            ],
+            "pitfall": "`holde en tale` 是发表讲话，不是拿着演讲稿。`næste år` 直接作时间状语，通常不加 `i`。"
+        }
+    ]
+}

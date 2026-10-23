@@ -1,0 +1,1582 @@
+{
+    "schema_version": 1,
+    "unit": "U05",
+    "part": "ALL",
+    "source_fingerprint": "U05-ALL-f77e5c75f599",
+    "sentences": [
+        {
+            "id": "U05-C001",
+            "zh": "我当初其实只是来看看女儿打手球的。结果现在，我都已经在俱乐部理事会干了十一年了。",
+            "grammar": "第一句的骨架是 `Jeg kom … for at se …`，其中 `for at + 不定式` 表示目的。`se min datter spille` 使用感知动词 `se` 加宾语和不带 `at` 的不定式，表示看见女儿打球。第二句 `har siddet i bestyrelsen i elleve år` 使用现在完成时加持续时间，表示从过去开始、一直延续到现在的任职经历。",
+            "vocabulary": [
+                {
+                    "da": "egentlig bare",
+                    "zh": "其实只是、原本不过是",
+                    "note": "`egentlig` 与 `bare` 共同强调最初的目的很简单。"
+                },
+                {
+                    "da": "spille håndbold",
+                    "zh": "打手球",
+                    "note": "`håndbold` 是丹麦重要的团队运动。"
+                },
+                {
+                    "da": "sidde i bestyrelsen",
+                    "zh": "担任理事会成员、在委员会任职",
+                    "note": "`en bestyrelse` 是协会、公司等组织的管理或治理机构。"
+                },
+                {
+                    "da": "i elleve år",
+                    "zh": "长达十一年",
+                    "note": "与现在完成时搭配，可以表达延续至今的经历。"
+                }
+            ],
+            "nuance": "开篇通过 Birgitte 的自述制造轻微幽默：她原本只是来陪女儿参加体育活动，却逐渐成为长期承担组织责任的人。`egentlig bare` 突出最初目的与最终结果之间的反差。`Nu har jeg …` 强调直到现在仍在任职，也为文章后面的志愿者招募故事埋下伏笔。",
+            "transfer": [
+                "Jeg kom egentlig bare for at kigge.",
+                "Jeg har siddet i bestyrelsen i fem år.",
+                "Det begyndte som en hobby, men endte med at blive en stor del af mit liv."
+            ],
+            "pitfall": "`sidde i bestyrelsen` 不是单纯坐在会议室里，而是担任理事会成员。`se nogen gøre noget` 中的第二个动词不加 `at`。"
+        },
+        {
+            "id": "U05-C002",
+            "zh": "比吉特一边在西兰岛中部一座小镇的体育馆旁打开俱乐部会所的门，一边说出了这番话。",
+            "grammar": "主句采用宾语前置结构 `Det siger Birgitte`，其中 `det` 回指上一句引语，限定动词 `siger` 占第二位置。`mens hun låser … op` 是表示同时发生的时间从句。`låse op` 为动词小品词搭配，`ved hallen` 与 `på Midtsjælland` 分别说明建筑位置和地区。",
+            "vocabulary": [
+                {
+                    "da": "låse op",
+                    "zh": "开锁、打开上锁的门",
+                    "note": "与 `låse af` 锁门形成对比。"
+                },
+                {
+                    "da": "et klubhus",
+                    "zh": "俱乐部会所、社团活动用房",
+                    "note": "体育俱乐部及其他协会常用。"
+                },
+                {
+                    "da": "en hal",
+                    "zh": "体育馆、大型室内场馆",
+                    "note": "此处指体育活动场馆。"
+                },
+                {
+                    "da": "en mindre by",
+                    "zh": "一座较小的城镇",
+                    "note": "`mindre` 是 `lille` 的比较级。"
+                },
+                {
+                    "da": "på Midtsjælland",
+                    "zh": "在西兰岛中部",
+                    "note": "丹麦岛屿及岛内地区名称常与 `på` 搭配。"
+                }
+            ],
+            "nuance": "作者把人物讲话与开门动作放在同一句中，让 Birgitte 不是抽象的受访者，而是正在为俱乐部日常活动忙碌的志愿者。`mens` 使两件事同时展开，叙事画面更加自然。",
+            "transfer": [
+                "Det siger hun, mens hun låser døren op.",
+                "Klubhuset ligger ved hallen.",
+                "Foreningen holder til i en mindre by."
+            ],
+            "pitfall": "`låse op` 是开锁，不能与 `låse` 或 `låse af` 的上锁混淆。`på Midtsjælland` 中的 `på` 是地理习惯，不应机械替换成 `i`。"
+        },
+        {
+            "id": "U05-C003",
+            "zh": "除了由市政府雇用的场馆管理员以外，体育馆里其他人都不领取工资。",
+            "grammar": "`Bortset fra pedellen` 是置于句首的例外状语，因此主句采用 `får ingen … løn` 的 V2 语序。`der er ansat af kommunen` 是修饰 `pedellen` 的关系从句，`er ansat` 表示雇佣状态，`af kommunen` 说明雇主。`ingen` 直接表示没有任何人。",
+            "vocabulary": [
+                {
+                    "da": "bortset fra",
+                    "zh": "除了……以外",
+                    "note": "用于提出一般情况中的例外。"
+                },
+                {
+                    "da": "en pedel",
+                    "zh": "校工、场馆管理员、设施维护人员",
+                    "note": "具体职责依机构而异。"
+                },
+                {
+                    "da": "være ansat af",
+                    "zh": "受雇于……",
+                    "note": "可用于说明雇佣关系中的雇主。"
+                },
+                {
+                    "da": "få løn",
+                    "zh": "领取工资、获得报酬",
+                    "note": "`løn` 在这里作为工资的概念使用。"
+                }
+            ],
+            "nuance": "这一句通过例外说明俱乐部的运作依赖无偿参与。作者并不是说体育馆没有任何专业工作人员，而是明确指出只有由市政府雇用的场馆管理员领工资。`bortset fra` 很适合在说明制度或组织结构时界定例外。",
+            "transfer": [
+                "Bortset fra lederen arbejder alle frivilligt.",
+                "Hun er ansat af kommunen.",
+                "De frivillige får ikke løn."
+            ],
+            "pitfall": "`ingen` 本身已包含否定意义，不要再机械添加 `ikke`。`pedel` 是场所的设施管理人员，不一定是俱乐部雇用的员工。"
+        },
+        {
+            "id": "U05-C004",
+            "zh": "这个俱乐部有大约四百名会员，日常运作主要靠志愿者承担。",
+            "grammar": "主语 `Klubben` 后接两个并列谓语：主动式 `har omkring 400 medlemmer` 和 s-被动式 `drives af frivillige`。被动式将组织本身作为叙述中心，`af frivillige` 表明运营者。",
+            "vocabulary": [
+                {
+                    "da": "et medlem",
+                    "zh": "会员、成员",
+                    "note": "复数 `medlemmer`，定指复数 `medlemmerne`。"
+                },
+                {
+                    "da": "omkring",
+                    "zh": "大约、左右",
+                    "note": "用于近似数量。"
+                },
+                {
+                    "da": "drive en klub",
+                    "zh": "运营一家俱乐部",
+                    "note": "不规则变化：`driver – drev – har drevet`。"
+                },
+                {
+                    "da": "en frivillig",
+                    "zh": "志愿者",
+                    "note": "形容词 `frivillig` 也表示自愿的；复数 `frivillige`。"
+                }
+            ],
+            "nuance": "会员规模与志愿运营形成对照：四百名会员意味着一定的组织工作量，但承担这些事务的人并非全部是领取工资的专业员工。`drives af` 是介绍组织运营模式时非常值得掌握的正式表达。",
+            "transfer": [
+                "Klubben har omkring 400 medlemmer.",
+                "Foreningen drives af frivillige.",
+                "Projektet drives af en gruppe engagerede borgere."
+            ],
+            "pitfall": "`drive` 在这里是经营、运营，不是驾驶。`drives` 是被动形式，不是复数动词词尾。"
+        },
+        {
+            "id": "U05-C005",
+            "zh": "有人负责训练，有人担任理事会成员，还有人会在周末比赛时守着小卖部，出售咖啡和烤三明治。",
+            "grammar": "`Nogle … andre … atter andre …` 是平行列举结构，分别介绍不同人的职责。`står i boden og sælger` 使用两个并列动词描述同时进行的工作。`når der er kamp i weekenden` 是表示反复出现情境的时间从句。",
+            "vocabulary": [
+                {
+                    "da": "nogle … andre … atter andre …",
+                    "zh": "一些人……另一些人……还有一些人……",
+                    "note": "非常适合写作中系统列举人员分工。"
+                },
+                {
+                    "da": "træne",
+                    "zh": "训练、指导训练",
+                    "note": "可指自己训练，也可指担任教练；这里根据志愿工作语境理解为承担训练工作。"
+                },
+                {
+                    "da": "sidde i bestyrelsen",
+                    "zh": "担任理事会成员",
+                    "note": "固定组织治理表达。"
+                },
+                {
+                    "da": "en bod",
+                    "zh": "摊位、小卖部",
+                    "note": "复数 `boder`；此处是场馆里的售卖点。"
+                },
+                {
+                    "da": "når der er kamp",
+                    "zh": "有比赛的时候",
+                    "note": "描述重复发生的场景。"
+                }
+            ],
+            "nuance": "`atter andre` 比单纯重复 `andre` 更有层次，适合说明同一个组织中多种不同贡献。句子通过训练、管理和售卖食物三个例子，展示志愿工作并不只是执教，还包括大量不那么显眼的日常支持。",
+            "transfer": [
+                "Nogle står for undervisningen, andre tager sig af økonomien, og atter andre arrangerer aktiviteter.",
+                "Jeg sidder i bestyrelsen for en lokal forening.",
+                "Vi hjælper i boden, når der er kamp."
+            ],
+            "pitfall": "`træne` 既可表示自己锻炼，也可表示指导别人训练，必须依语境判断。`en bod` 在这里是摊位，不是赎罪或处罚。"
+        },
+        {
+            "id": "U05-C006",
+            "zh": "体育运动其实只是一个由头，比吉特说。",
+            "grammar": "引语的骨架是 `Sporten er … anledningen`。`bare` 限定运动在整个活动中的地位，暗示真正重要的东西另有所指。引语后的 `siger Birgitte` 采用报道话语的常见语序。",
+            "vocabulary": [
+                {
+                    "da": "en anledning",
+                    "zh": "契机、由头、场合、理由",
+                    "note": "可用于聚会、谈话和庆祝活动。"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只是、不过是",
+                    "note": "这里不是命令别人简单处理。"
+                }
+            ],
+            "nuance": "这句话有意颠倒读者对体育俱乐部的直觉：比赛和训练看似是中心，但 Birgitte 认为更大的价值来自人与人建立联系。`bare` 在此不是贬低体育，而是强调运动还有超越竞技本身的作用。",
+            "transfer": [
+                "Sporten er bare anledningen.",
+                "Mødet var en anledning til at lære hinanden at kende.",
+                "Det vigtigste er ikke aktiviteten i sig selv."
+            ],
+            "pitfall": "`anledning` 可以是契机，也可以是某事发生的原因；不能在所有语境中都译成借口，因为它通常不含不诚实的意思。"
+        },
+        {
+            "id": "U05-C007",
+            "zh": "最重要的事情其实发生在球场之外：孩子们找到了一个有归属感的地方，家长们也渐渐认识了彼此。",
+            "grammar": "`Det vigtigste` 是形容词最高级名词化，作主语。`foregår ved siden af banen` 在字面地点之外也有隐喻意义。冒号后两个并列分句解释所谓最重要的事情：`Børnene får …` 和 `forældrene lærer …`。`lære hinanden at kende` 是固定结构。",
+            "vocabulary": [
+                {
+                    "da": "det vigtigste",
+                    "zh": "最重要的事情",
+                    "note": "形容词最高级名词化。"
+                },
+                {
+                    "da": "foregå",
+                    "zh": "发生、进行",
+                    "note": "不规则变化：`foregår – foregik – er foregået`。"
+                },
+                {
+                    "da": "høre til",
+                    "zh": "属于某个群体、有归属感",
+                    "note": "这里是社会归属，而不是听见。"
+                },
+                {
+                    "da": "lære hinanden at kende",
+                    "zh": "逐渐认识彼此",
+                    "note": "强调由陌生到熟悉的过程。"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在……旁边；在……之外",
+                    "note": "此处兼具具体空间和比喻意义。"
+                }
+            ],
+            "nuance": "这是本篇的核心主题句。球场是具体的活动地点，但作者强调真正持久的价值是孩子的归属感和家长之间的社会联系。`høre til` 比单纯的 `være medlem` 更有情感深度：成为会员是制度身份，感到自己属于这里则是心理体验。",
+            "transfer": [
+                "Det vigtigste foregår ofte uden for undervisningen.",
+                "Alle børn har brug for et sted at høre til.",
+                "Gennem foreningen lærer forældrene hinanden at kende."
+            ],
+            "pitfall": "`høre til` 不是听到某物，而是属于、融入。`kende hinanden` 表示已经彼此认识，`lære hinanden at kende` 更强调建立熟悉关系的过程。"
+        },
+        {
+            "id": "U05-C008",
+            "zh": "家长们站在边线旁，一边捧着保温杯里的咖啡为孩子们加油；几个年纪小的弟弟妹妹则在球门后面玩着一个球。",
+            "grammar": "`Ved sidelinjen` 前置引出 `står forældrene` 的 V2 倒装。`står … og hepper` 将站立状态与加油动作结合。`mens de små søskende leger …` 是时间从句，描述同时发生的另一幅场景。",
+            "vocabulary": [
+                {
+                    "da": "en sidelinje",
+                    "zh": "球场边线",
+                    "note": "体育比赛场景中的位置词。"
+                },
+                {
+                    "da": "et termokrus",
+                    "zh": "保温杯、随行保温咖啡杯",
+                    "note": "复数 `termokrus`，中性名词。"
+                },
+                {
+                    "da": "hepper på",
+                    "zh": "为……加油、支持",
+                    "note": "通常说 `hepper på holdet`。"
+                },
+                {
+                    "da": "et mål",
+                    "zh": "球门；进球",
+                    "note": "本句 `bag målet` 指球门后方。"
+                },
+                {
+                    "da": "søskende",
+                    "zh": "兄弟姐妹",
+                    "note": "一般使用复数形式；`de små søskende` 指年纪较小的兄弟姐妹。"
+                }
+            ],
+            "nuance": "这是一幅典型的业余体育比赛家庭场景。作者不仅描写比赛，也写咖啡、家长和弟弟妹妹，强化体育馆作为家庭社交空间的特点。`mens` 将加油与玩耍两个活动自然地并置。",
+            "transfer": [
+                "Forældrene står ved sidelinjen og hepper på holdet.",
+                "Børnene leger med en bold bag målet.",
+                "Jeg har kaffe med i et termokrus."
+            ],
+            "pitfall": "`hepper på` 是为某人或某队加油，不能简单使用 `hepper til`。`mål` 可指目标、球门或进球，要结合上下文。"
+        },
+        {
+            "id": "U05-C009",
+            "zh": "中场休息时，主队还领先两球；但到了下半场，客队反超了比分。直到比赛只剩一分钟时，索菲才靠一记七米罚球将比分扳平。",
+            "grammar": "三个并列主句呈现比分变化。`Ved pausen`、`i anden halvleg` 和 `først med et minut tilbage` 分别作前置时间状语，引发 V2 语序。`føre med to mål` 表示领先两球；`tage føringen` 表示取得领先。`først` 强调扳平发生得很晚。",
+            "vocabulary": [
+                {
+                    "da": "føre med to mål",
+                    "zh": "领先两球",
+                    "note": "比赛比分表达。"
+                },
+                {
+                    "da": "hjemmeholdet",
+                    "zh": "主队",
+                    "note": "与 `gæsterne` 客队相对。"
+                },
+                {
+                    "da": "tage føringen",
+                    "zh": "取得领先、反超",
+                    "note": "体育比赛及竞争场景都适用。"
+                },
+                {
+                    "da": "udligne",
+                    "zh": "扳平比分、使相等",
+                    "note": "也可用于抽象差额或差距。"
+                },
+                {
+                    "da": "et straffekast",
+                    "zh": "罚球、七米罚球",
+                    "note": "手球比赛中的处罚性投球。"
+                }
+            ],
+            "nuance": "这句话用时间推进制造比赛悬念：中场领先、下半场反超、最后一分钟扳平。`først med et minut tilbage` 是叙事重点，强调直到比赛接近结束才发生关键变化。",
+            "transfer": [
+                "Hjemmeholdet førte med to mål ved pausen.",
+                "Gæsterne tog føringen i anden halvleg.",
+                "Med et minut tilbage lykkedes det holdet at udligne."
+            ],
+            "pitfall": "`føre` 与 `tage føringen` 不同：前者表示处于领先状态，后者强调取得领先的变化。`udligne` 是扳平，不是最终赢得比赛。"
+        },
+        {
+            "id": "U05-C010",
+            "zh": "比赛最终以平局结束。赛后双方队员列队站好，互相鼓掌致意。",
+            "grammar": "`ende uafgjort` 表示以平局收场。`bagefter` 前置后采用 `stiller begge hold op` 的 V2 语序。`klappe af hinanden` 中介词 `af` 引出掌声献给的对象，`hinanden` 表示相互。",
+            "vocabulary": [
+                {
+                    "da": "ende uafgjort",
+                    "zh": "以平局结束",
+                    "note": "体育比赛固定表达。"
+                },
+                {
+                    "da": "stille op",
+                    "zh": "列队、排好队形",
+                    "note": "也可表示参选或参加比赛，含义随语境变化。"
+                },
+                {
+                    "da": "klappe af nogen",
+                    "zh": "为某人鼓掌",
+                    "note": "固定介词 `af`。"
+                },
+                {
+                    "da": "hinanden",
+                    "zh": "彼此、互相",
+                    "note": "相互代词。"
+                }
+            ],
+            "nuance": "比分没有分出胜负，但赛后双方仍相互鼓掌，突出体育中的尊重和共同参与。这里的 `klappe af hinanden` 不只是庆祝自己球队的成绩，而是对彼此努力的认可。",
+            "transfer": [
+                "Kampen endte uafgjort.",
+                "Efter kampen stillede spillerne op.",
+                "Begge hold klappede af hinanden."
+            ],
+            "pitfall": "`klappe af` 表示为……鼓掌，`klappe på` 通常表示拍打或轻拍某物。`stille op` 在本句是列队，不是参加选举。"
+        },
+        {
+            "id": "U05-C011",
+            "zh": "不过，比赛过程中气氛一度还是有点过于激动了。",
+            "grammar": "`Undervejs` 前置引出 `blev stemningen` 的倒装。`blive + 形容词` 表示状态发生变化。`dog` 标记与前面友好赛后气氛的转折。`lidt for ophedet` 中 `for` 表示超过合适程度。",
+            "vocabulary": [
+                {
+                    "da": "undervejs",
+                    "zh": "在过程中、期间",
+                    "note": "可用于比赛、旅程和工作流程。"
+                },
+                {
+                    "da": "en stemning",
+                    "zh": "气氛、情绪氛围",
+                    "note": "如 `god stemning`、`dårlig stemning`。"
+                },
+                {
+                    "da": "ophedet",
+                    "zh": "情绪激烈的、气氛紧张的",
+                    "note": "可形容争论或比赛现场。"
+                },
+                {
+                    "da": "lidt for",
+                    "zh": "有点过于……",
+                    "note": "既表达负面评价，也稍微缓和语气。"
+                }
+            ],
+            "nuance": "`dog` 将友好的赛后互动与比赛中出现的不愉快并置。`lidt for ophedet` 是一种克制的批评：没有把事件描述成严重冲突，但清楚指出情绪已经越过适当界限。",
+            "transfer": [
+                "Stemningen blev lidt for ophedet.",
+                "Undervejs opstod der en mindre konflikt.",
+                "Debatten blev dog mere intens end forventet."
+            ],
+            "pitfall": "`for ophedet` 中的 `for` 表示太、过于，不是因为。`ophedet` 形容争论或气氛时通常是情绪上的激烈，而非实际温度。"
+        },
+        {
+            "id": "U05-C012",
+            "zh": "裁判！这明明是走步违例啊！",
+            "grammar": "`Det var jo skridt!` 使用过去式 `var` 判断刚才的比赛动作。`jo` 是语气小品词，表示说话人认为这项判断显而易见、裁判理应看出来。",
+            "vocabulary": [
+                {
+                    "da": "en dommer",
+                    "zh": "裁判",
+                    "note": "体育比赛及司法语境都可使用。"
+                },
+                {
+                    "da": "skridt",
+                    "zh": "走步违例；步子",
+                    "note": "手球比赛中可指持球时违反步数限制。"
+                },
+                {
+                    "da": "jo",
+                    "zh": "明明、你也该知道",
+                    "note": "这里强调说话人的确信。"
+                }
+            ],
+            "nuance": "Lars 不是平静询问规则，而是在冲裁判喊话。`jo` 加强责备意味，仿佛错误明显到不应该漏判。理解这句话需要知道手球里的 `skridt` 是技术性违例术语。",
+            "transfer": [
+                "Dommer, det var skridt!",
+                "Det var jo en klar fejl!"
+            ],
+            "pitfall": "`skridt` 普通意义是步子，在手球语境中可以表示走步违例。不能把这里的 `jo` 当作回答否定问句的肯定词。"
+        },
+        {
+            "id": "U05-C013",
+            "zh": "拉尔斯，她才十四岁。而且她还是免费来当裁判的。",
+            "grammar": "两个简短陈述句用 `Og` 连接，形成递进提醒。`hun dømmer gratis` 中 `dømme` 表示执裁，`gratis` 作方式状语，表示不领取报酬。",
+            "vocabulary": [
+                {
+                    "da": "dømme",
+                    "zh": "担任裁判、执裁；作出判决",
+                    "note": "此处为体育比赛意义。"
+                },
+                {
+                    "da": "gratis",
+                    "zh": "免费的、无偿地",
+                    "note": "可修饰服务或动作。"
+                },
+                {
+                    "da": "fjorten",
+                    "zh": "十四",
+                    "note": "年龄表达中直接接 `år` 或由上下文省略。"
+                }
+            ],
+            "nuance": "Birgitte 没有立即争论判罚是否正确，而是提醒 Lars 注意裁判的年龄和志愿服务身份。这是一种重新设定讨论重点的方式：即使不同意判罚，也应尊重一位年仅十四岁的无偿裁判。",
+            "transfer": [
+                "Hun er kun fjorten år.",
+                "Hun dømmer gratis i sin fritid.",
+                "Husk, at dommeren også er frivillig."
+            ],
+            "pitfall": "`dømme` 在体育语境中是执裁，不只是法院里判案。`gratis` 指无偿，并不说明工作不重要。"
+        },
+        {
+            "id": "U05-C014",
+            "zh": "好好好，我知道。但那确实就是走步嘛。",
+            "grammar": "`Ja ja` 是重复式应答，常表示不耐烦地接受对方提醒或试图结束争论。`altså` 在这里加强判断的坚持程度，突出说话人仍然认为自己说得对。",
+            "vocabulary": [
+                {
+                    "da": "Ja ja",
+                    "zh": "好好好、知道啦",
+                    "note": "语气可能带有敷衍或不耐烦。"
+                },
+                {
+                    "da": "altså",
+                    "zh": "确实、我说、就是",
+                    "note": "这里是口语强调小品词。"
+                }
+            ],
+            "nuance": "Lars 表面上接受提醒，却继续坚持自己的判罚判断。`Ja ja` 并非热情赞同，`altså` 又把话题拉回所谓的明显违例，显示他尚未真正调整态度。",
+            "transfer": [
+                "Ja ja, det ved jeg godt.",
+                "Men det var altså en fejl.",
+                "Jeg synes altså stadig, at dommeren tog fejl."
+            ],
+            "pitfall": "`Ja ja` 与单个 `Ja` 的语气不同，重复可能传达不耐烦。`altså` 不总表示因此，在口语中也可以强调立场。"
+        },
+        {
+            "id": "U05-C015",
+            "zh": "很多俱乐部本来就很难找到愿意执裁的人，而家长在场边大喊大叫，更不会让这份工作变得有吸引力。",
+            "grammar": "`have svært ved at + 不定式` 表示做某事存在困难。第二分句以 `tilråb fra forældre` 为主语。`gøre ikke opgaven mere attraktiv` 是否定的使役结果结构，表示这些叫喊不会提升工作的吸引力。",
+            "vocabulary": [
+                {
+                    "da": "have svært ved at",
+                    "zh": "难以做某事",
+                    "note": "固定介词 `ved`。"
+                },
+                {
+                    "da": "skaffe",
+                    "zh": "找到、弄到、招募到",
+                    "note": "强调获得所需要的人或资源。"
+                },
+                {
+                    "da": "et tilråb",
+                    "zh": "场边喊话、叫喊",
+                    "note": "可用于喝彩，也可用于批评或起哄；本句是负面语境。"
+                },
+                {
+                    "da": "gøre noget mere attraktivt",
+                    "zh": "使某事更有吸引力",
+                    "note": "典型使役评价结构。"
+                }
+            ],
+            "nuance": "作者把 Lars 的个人言行与更广泛的志愿者招募困难联系起来。负面的场边叫喊不仅影响当场裁判，也可能影响未来是否有人愿意继续承担这类任务。`gør ikke … mere attraktiv` 是比较克制的批评方式。",
+            "transfer": [
+                "Mange foreninger har svært ved at skaffe frivillige.",
+                "Negative kommentarer gør ikke opgaven mere attraktiv.",
+                "Det er svært at rekruttere nye dommere."
+            ],
+            "pitfall": "`skaffe` 与 `finde` 接近，但更突出为了满足需要而找到或获得资源。`tilråb` 不必然都是辱骂，必须根据语境判断。"
+        },
+        {
+            "id": "U05-C016",
+            "zh": "因此，不少体育馆里都挂着提醒观众的标语：没有裁判，就没有比赛。",
+            "grammar": "`I flere haller` 前置后出现 `hænger der derfor skilte` 的 V2 存在结构。`som minder tilskuerne om, at …` 是修饰标语的关系从句。`uden dommere er der ingen kamp` 以条件性的介词短语开头，强调缺少裁判的后果。",
+            "vocabulary": [
+                {
+                    "da": "et skilt",
+                    "zh": "标牌、告示牌",
+                    "note": "复数 `skilte`。"
+                },
+                {
+                    "da": "minde nogen om noget",
+                    "zh": "提醒某人某事",
+                    "note": "固定介词 `om`。"
+                },
+                {
+                    "da": "en tilskuer",
+                    "zh": "观众",
+                    "note": "体育比赛中常见。"
+                },
+                {
+                    "da": "uden",
+                    "zh": "没有、缺少",
+                    "note": "可直接引出某种必要条件的缺失。"
+                }
+            ],
+            "nuance": "标语使用非常简洁的因果逻辑：没有裁判，比赛就无法正常开展。这比单纯要求观众安静更能解释尊重裁判的理由。`minde … om` 也暗示这些观众本来就应该理解这项原则。",
+            "transfer": [
+                "Skiltet minder tilskuerne om reglerne.",
+                "Uden frivillige er der ingen forening.",
+                "Uden samarbejde kan projektet ikke gennemføres."
+            ],
+            "pitfall": "`minde nogen om` 是提醒，`minde om` 也可表示使人想起或与某物相似，注意宾语结构。`uden dommere` 不需要再添加否定词。"
+        },
+        {
+            "id": "U05-C017",
+            "zh": "如果协会面向所有人开放，并且采用民主的组织结构，就可能获得市政府提供的补助和活动场地。",
+            "grammar": "主句骨架为 `Foreninger kan få tilskud og lokaler fra kommunen`。`kan` 表示可能或有资格，并不保证必然获得。`hvis de er åbne for alle og har en demokratisk opbygning` 是条件从句，包含两个并列条件。",
+            "vocabulary": [
+                {
+                    "da": "et tilskud",
+                    "zh": "补助、补贴、资助",
+                    "note": "如 `få tilskud fra kommunen`。"
+                },
+                {
+                    "da": "et lokale",
+                    "zh": "活动室、房间、场地",
+                    "note": "复数 `lokaler`，在此泛指协会活动空间。"
+                },
+                {
+                    "da": "være åben for alle",
+                    "zh": "向所有人开放",
+                    "note": "用于描述参与资格与开放性。"
+                },
+                {
+                    "da": "en demokratisk opbygning",
+                    "zh": "民主的组织结构",
+                    "note": "强调成员参与组织治理的制度安排。"
+                }
+            ],
+            "nuance": "本句将丹麦协会生活与公共支持联系起来。作者强调公共资源并非完全无条件提供，而可能与组织开放性和民主治理有关。`kan få` 保留了资格、实际申请和具体规则之间的区别。",
+            "transfer": [
+                "Foreningen kan søge tilskud fra kommunen.",
+                "Vi har en demokratisk opbygning.",
+                "Alle medlemmer skal have mulighed for at deltage."
+            ],
+            "pitfall": "`et lokale` 是室内空间，不一定等于整栋建筑。`kan få` 表示可能获得，不能直接理解为具有自动领取补助的权利。"
+        },
+        {
+            "id": "U05-C018",
+            "zh": "这也是丹麦体育协会的会费往往比健身房或私人舞蹈学校收费低的原因之一。",
+            "grammar": "`Det er en af grundene til, at …` 是解释原因的固定结构。`kontingentet … er lavt` 为从句核心。`sammenlignet med` 是过去分词构成的比较短语，说明参照对象。",
+            "vocabulary": [
+                {
+                    "da": "en af grundene til, at",
+                    "zh": "……的原因之一",
+                    "note": "论证和说明文中非常实用。"
+                },
+                {
+                    "da": "et kontingent",
+                    "zh": "会员费、会费",
+                    "note": "通常按一定周期缴纳。"
+                },
+                {
+                    "da": "en idrætsforening",
+                    "zh": "体育协会、体育俱乐部",
+                    "note": "`idræt` 指体育运动。"
+                },
+                {
+                    "da": "sammenlignet med",
+                    "zh": "与……相比",
+                    "note": "可用于费用、质量、规模等比较。"
+                }
+            ],
+            "nuance": "作者将前面提到的公共补助和志愿服务与较低会费联系起来。`en af grundene` 明确保留多种可能因素，而不是宣称低会费完全由政府补助决定。不同俱乐部、健身房及课程之间的实际价格仍可能差异很大。",
+            "transfer": [
+                "Det er en af grundene til, at prisen er lav.",
+                "Kontingentet er lavt sammenlignet med private tilbud.",
+                "Hvad koster det i kontingent om året?"
+            ],
+            "pitfall": "`kontingent` 不是公司财务上的偶然费用，而是组织会员定期缴纳的会费。`sammenlignet med` 后接比较对象。"
+        },
+        {
+            "id": "U05-C019",
+            "zh": "还有一些合唱团，业余歌唱爱好者每周都会排练，为圣诞音乐会作准备。",
+            "grammar": "`Der er kor` 是存在句。`hvor amatører øver sig …` 是地点或组织意义上的关系从句。`frem mod en julekoncert` 表示活动朝着未来目标推进的时间过程。",
+            "vocabulary": [
+                {
+                    "da": "et kor",
+                    "zh": "合唱团",
+                    "note": "复数 `kor`，单复数同形。"
+                },
+                {
+                    "da": "en amatør",
+                    "zh": "业余爱好者、非职业参与者",
+                    "note": "不一定意味着能力差。"
+                },
+                {
+                    "da": "øve sig",
+                    "zh": "练习、排练",
+                    "note": "反身结构；也常说 `øve sig på noget`。"
+                },
+                {
+                    "da": "frem mod",
+                    "zh": "朝着……、在……临近期间",
+                    "note": "常用于准备某场比赛、考试或活动。"
+                },
+                {
+                    "da": "en julekoncert",
+                    "zh": "圣诞音乐会",
+                    "note": "丹麦文化生活中的节庆活动形式。"
+                }
+            ],
+            "nuance": "这里的重点不仅是合唱团，而是持续性的集体练习和共同目标。`frem mod` 将每周排练组织成一个有方向的过程：大家为未来的圣诞演出共同努力。",
+            "transfer": [
+                "Vi øver os hver uge frem mod koncerten.",
+                "Jeg synger i et amatørkor.",
+                "Der findes mange kor for voksne."
+            ],
+            "pitfall": "`amatør` 不等于水平很差，而是非职业参与者。`øve sig` 常需要反身代词，不应简单写成 `jeg øver` 来表达所有练习情境。"
+        },
+        {
+            "id": "U05-C020",
+            "zh": "还有童军团体，孩子们在那里学习搭帐篷、不用引火液生篝火，以及借助地图和指南针辨认方向。",
+            "grammar": "`Der er spejdergrupper` 是存在句，后接关系从句 `hvor børn lærer at …`。`lære at` 后面并列三个不定式动作：`slå … op`、`tænde …` 和 `finde vej`。`med kort og kompas` 是工具状语。",
+            "vocabulary": [
+                {
+                    "da": "en spejdergruppe",
+                    "zh": "童军团体、童子军组织",
+                    "note": "`spejder` 也可指参加童军活动的成员。"
+                },
+                {
+                    "da": "slå et telt op",
+                    "zh": "搭帐篷",
+                    "note": "固定动词小品词搭配。"
+                },
+                {
+                    "da": "tænde bål",
+                    "zh": "生篝火、点营火",
+                    "note": "户外活动表达。"
+                },
+                {
+                    "da": "tændvæske",
+                    "zh": "引火液、助燃液",
+                    "note": "复合词，常用于烧烤或引火。"
+                },
+                {
+                    "da": "finde vej",
+                    "zh": "辨认方向、找到路线",
+                    "note": "可搭配 `med kort og kompas`。"
+                }
+            ],
+            "nuance": "这句话展示丹麦协会活动中重视实践能力的一面。合唱团培养集体艺术活动，童军则提供户外技能、合作和自主解决问题的机会。作者通过三个具体动作，使童军活动不再只是抽象的社团名称。",
+            "transfer": [
+                "Børnene lærer at slå et telt op.",
+                "Vi finder vej med kort og kompas.",
+                "Spejderne lærer praktiske færdigheder."
+            ],
+            "pitfall": "`slå op` 有多个意思，在 `slå et telt op` 中是搭起帐篷，不是查词典或分手。`tænde bål` 涉及真实火源，实际操作应遵守户外防火和安全要求。"
+        },
+        {
+            "id": "U05-C021",
+            "zh": "而在乡村的社区活动馆里，人们至今仍会举办集体聚餐、宾果游戏和会员大会；有些地方甚至还在一百年前使用过的同一批房间里开展这些活动。",
+            "grammar": "`i forsamlingshusene på landet` 前置地点状语，后面 `er der stadig …` 使用 V2 存在结构。破折号后 `nogle steder i de samme lokaler som …` 是省略式补充，突出场所的历史延续性。",
+            "vocabulary": [
+                {
+                    "da": "et forsamlingshus",
+                    "zh": "乡村社区活动馆、集会所",
+                    "note": "常用于聚餐、会议和公共活动。"
+                },
+                {
+                    "da": "på landet",
+                    "zh": "在乡村、农村地区",
+                    "note": "固定地点表达。"
+                },
+                {
+                    "da": "fællesspisning",
+                    "zh": "集体聚餐、社区共餐",
+                    "note": "强调共同用餐及社交。"
+                },
+                {
+                    "da": "banko",
+                    "zh": "宾果游戏、数字抽奖游戏",
+                    "note": "丹麦社区活动中可见的娱乐形式。"
+                },
+                {
+                    "da": "en generalforsamling",
+                    "zh": "会员大会、全体大会",
+                    "note": "协会治理的重要会议形式。"
+                }
+            ],
+            "nuance": "`stadig` 和 `de samme lokaler som for hundrede år siden` 一起强调乡村共同体传统的持续性。作者并不只是列举娱乐活动，还通过建筑空间的延续描绘协会生活如何承载地方历史。",
+            "transfer": [
+                "Der er fællesspisning i forsamlingshuset.",
+                "Foreningen holder generalforsamling hvert år.",
+                "Lokalerne bruges stadig til fælles aktiviteter."
+            ],
+            "pitfall": "`forsamlingshus` 不等于私人住宅。`på landet` 表示在乡村，不能按字面理解成在国家上面。"
+        },
+        {
+            "id": "U05-C022",
+            "zh": "协会通常有自己的章程、理事会和每年一次的会员大会；会员在大会上审核批准财务报表，并选举理事会成员。",
+            "grammar": "主句 `Foreninger har typisk …` 列举组织治理要素。`hvor medlemmerne …` 是修饰 `generalforsamling` 的关系从句。关系从句内的 `godkender` 和 `vælger` 是两个并列谓语，描述会员大会的重要职能。",
+            "vocabulary": [
+                {
+                    "da": "vedtægter",
+                    "zh": "章程、组织规约",
+                    "note": "通常使用复数，单数 `en vedtægt`。"
+                },
+                {
+                    "da": "en bestyrelse",
+                    "zh": "理事会、董事会",
+                    "note": "具体译名依协会或公司性质而定。"
+                },
+                {
+                    "da": "en årlig generalforsamling",
+                    "zh": "年度会员大会",
+                    "note": "组织治理中的常见会议。"
+                },
+                {
+                    "da": "godkende regnskabet",
+                    "zh": "批准财务报表或年度账目",
+                    "note": "`godkende` 是正式认可、批准。"
+                },
+                {
+                    "da": "vælge bestyrelsen",
+                    "zh": "选举理事会",
+                    "note": "通过会员投票或章程规定的程序产生治理成员。"
+                }
+            ],
+            "nuance": "这是理解丹麦协会民主运作的重要一句。协会不只是一起参加兴趣活动的群体，还可以有明确的章程、财务责任和会员决策程序。`godkende regnskabet` 与 `vælge bestyrelsen` 体现会员对组织治理的参与。",
+            "transfer": [
+                "Foreningen har vedtægter og en valgt bestyrelse.",
+                "Medlemmerne godkender regnskabet på generalforsamlingen.",
+                "Vi holder ordinær generalforsamling én gang om året."
+            ],
+            "pitfall": "`vedtægter` 是组织章程，不是一般会议纪要。`regnskab` 是财务账目或报表，不等同于预算 `budget`。"
+        },
+        {
+            "id": "U05-C023",
+            "zh": "参加会员大会的人很少超过三十个，但一旦谈到会费，或者谁能分到最理想的训练时段，讨论就可能变得相当热烈。",
+            "grammar": "`Der kommer sjældent mere end tredive medlemmer` 是存在句，描述参会人数。`men` 引出转折。`når det handler om kontingentet` 是时间条件从句；`eller om hvem der skal have …` 则在第二个 `om` 后使用间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "sjældent mere end",
+                    "zh": "很少超过",
+                    "note": "用于人数或数量的概括。"
+                },
+                {
+                    "da": "en debat",
+                    "zh": "讨论、辩论",
+                    "note": "可用于日常、协会和政治场景。"
+                },
+                {
+                    "da": "livlig",
+                    "zh": "热烈的、活跃的",
+                    "note": "不一定表示争吵。"
+                },
+                {
+                    "da": "handle om",
+                    "zh": "涉及、讨论的是",
+                    "note": "可用于定义议题核心。"
+                },
+                {
+                    "da": "en træningstid",
+                    "zh": "训练时段",
+                    "note": "复数 `træningstider`。"
+                }
+            ],
+            "nuance": "这里的幽默来自规模与热情的反差：参会人数不多，讨论却可以非常激烈。会费和训练时段都直接影响会员利益，因此即使是小型志愿协会，也会面临真实的资源分配问题。`livlig` 不必然是负面，可以表示讨论积极热烈。",
+            "transfer": [
+                "Debatten blev livlig, da vi talte om kontingentet.",
+                "Det handler om, hvem der skal have de bedste tider.",
+                "Der kommer sjældent mere end tredive mennesker."
+            ],
+            "pitfall": "`tredive medlemmer` 在本句指到场开会的会员，不是协会总共只有三十人。`om hvem der …` 是间接问句，不能使用主句疑问倒装。"
+        },
+        {
+            "id": "U05-C024",
+            "zh": "因此，丹麦的协会生活经常被称为民主的学校：人们在这里学习如何提出论点、接受自己的提案在投票中落败，以及即使意见不同，也继续一起合作。",
+            "grammar": "`Derfor` 前置引出结论。`bliver foreningslivet … kaldt` 使用 `blive` 被动，强调外界对协会生活的称呼。冒号后以泛指主语 `man` 连续列出三个学习内容：`argumentere`、`blive stemt ned` 和 `arbejde videre sammen`。`alligevel` 表示即使经历挫败仍继续合作。",
+            "vocabulary": [
+                {
+                    "da": "foreningslivet",
+                    "zh": "协会生活、社团参与",
+                    "note": "泛指围绕会员组织形成的活动与社会关系。"
+                },
+                {
+                    "da": "demokratiets skole",
+                    "zh": "民主的学校",
+                    "note": "比喻协会是实践民主程序的场所。"
+                },
+                {
+                    "da": "argumentere",
+                    "zh": "提出论据、论证、辩论",
+                    "note": "常接 `for` 或 `imod` 某项主张。"
+                },
+                {
+                    "da": "blive stemt ned",
+                    "zh": "在表决中落败、提议被否决",
+                    "note": "被动结构；与 `stemme for`、`stemme imod` 联系记忆。"
+                },
+                {
+                    "da": "arbejde videre sammen",
+                    "zh": "继续共同合作",
+                    "note": "强调意见分歧之后仍维持合作。"
+                }
+            ],
+            "nuance": "这是全文具有社会政治意义的核心句。作者强调民主不仅是投票选出赢家，还包括表达意见、接受失败和继续共同工作。`blive stemt ned` 与 `alligevel arbejde videre sammen` 的组合尤其值得记忆，因为它准确描述了组织民主中的妥协与程序认同。",
+            "transfer": [
+                "Foreningslivet bliver ofte kaldt demokratiets skole.",
+                "Man skal kunne acceptere at blive stemt ned.",
+                "Selvom vi er uenige, skal vi kunne arbejde videre sammen."
+            ],
+            "pitfall": "`blive stemt ned` 表示提案或立场没有获得多数支持，不是被人投票逐出组织。`alligevel` 强调尽管如此仍然继续。"
+        },
+        {
+            "id": "U05-C025",
+            "zh": "越来越多的人选择自己安排运动，什么时候日程合适，就什么时候锻炼。",
+            "grammar": "`Flere og flere` 是递增数量结构，表示越来越多。`dyrke motion` 为固定动宾搭配。`på egen hånd` 表示自主进行。`når det passer ind i kalenderen` 是时间条件从句，表示在日程允许的时候。",
+            "vocabulary": [
+                {
+                    "da": "flere og flere",
+                    "zh": "越来越多的人或事物",
+                    "note": "递增比较结构。"
+                },
+                {
+                    "da": "dyrke motion",
+                    "zh": "锻炼身体、进行体育活动",
+                    "note": "非常常见的生活表达。"
+                },
+                {
+                    "da": "på egen hånd",
+                    "zh": "独立地、自行",
+                    "note": "不一定意味着完全没有其他人在场。"
+                },
+                {
+                    "da": "passe ind i kalenderen",
+                    "zh": "适合自己的日程安排",
+                    "note": "也可用于会议和社交活动。"
+                }
+            ],
+            "nuance": "本句介绍个人自主锻炼与有固定训练时间的协会体育之间的张力。`på egen hånd` 强调自行决定时间和方式，而不一定意味着完全独处。`passer ind i kalenderen` 是现代职场生活中特别实用的表达。",
+            "transfer": [
+                "Flere og flere dyrker motion på egen hånd.",
+                "Jeg træner, når det passer ind i kalenderen.",
+                "Det passer desværre ikke ind i min kalender."
+            ],
+            "pitfall": "`dyrke motion` 是固定搭配，不能按字面译成种植运动。`passe ind i` 不只用于物理尺寸，也用于时间和安排上的适配。"
+        },
+        {
+            "id": "U05-C026",
+            "zh": "对于协会来说，这种趋势确实是个挑战，因为一个真正的共同体需要大家持续到场——哪怕下雨，哪怕球队已经连续输了五场，也得来。",
+            "grammar": "第一个 `For foreningerne` 是视角状语，主句采用 `er udviklingen` 的 V2 语序。第二个 `for` 是表示原因的并列连词。`et fællesskab kræver, at folk møder op` 后接宾语从句。两个 `også når` 构成重复强调，说明坚持参与的困难情形。",
+            "vocabulary": [
+                {
+                    "da": "en udfordring",
+                    "zh": "挑战、难题",
+                    "note": "可以是困难，也可能包含需要适应的变化。"
+                },
+                {
+                    "da": "møde op",
+                    "zh": "到场、按约定出席",
+                    "note": "协会活动和会议中的高频搭配。"
+                },
+                {
+                    "da": "et fællesskab",
+                    "zh": "共同体、社群",
+                    "note": "强调持续参与和相互联系。"
+                },
+                {
+                    "da": "tabe",
+                    "zh": "输掉比赛、失去",
+                    "note": "不规则变化：`taber – tabte – har tabt`。"
+                },
+                {
+                    "da": "fem gange i træk",
+                    "zh": "连续五次",
+                    "note": "`i træk` 表示连续发生。"
+                }
+            ],
+            "nuance": "这句话指出个人便利与集体承诺之间的矛盾。独立锻炼可以完全服从个人日程，但团队活动需要成员在不方便、天气不好、比赛失利时仍然参与。`også når` 的重复使这种共同承担责任的要求更加突出。",
+            "transfer": [
+                "Et fællesskab kræver, at folk møder op.",
+                "Vi møder op, også når det regner.",
+                "Holdet har tabt fem kampe i træk."
+            ],
+            "pitfall": "两个 `for` 的作用完全不同：`For foreningerne` 表示对协会而言，后面的 `for` 表示因为。`i træk` 不是拖拽，而是连续。"
+        },
+        {
+            "id": "U05-C027",
+            "zh": "相当一部分丹麦人是某个协会的会员，也有许多人参与志愿工作——比如在本地足球俱乐部当教练、在课业辅导活动中帮忙，或者担任理事会成员。",
+            "grammar": "两个并列主句分别说明会员身份与志愿参与。破折号后用 `som …` 引出角色例子，后续并列介词短语通过省略避免重复完整谓语。`arbejde frivilligt` 中 `frivilligt` 作副词。",
+            "vocabulary": [
+                {
+                    "da": "en stor del af",
+                    "zh": "相当一部分、大量",
+                    "note": "不指定具体百分比。"
+                },
+                {
+                    "da": "være medlem af",
+                    "zh": "是……的会员",
+                    "note": "固定介词 `af`。"
+                },
+                {
+                    "da": "arbejde frivilligt",
+                    "zh": "从事志愿工作",
+                    "note": "强调非强制性参与，常为无偿服务。"
+                },
+                {
+                    "da": "en lektiecafé",
+                    "zh": "课业辅导活动、作业辅导点",
+                    "note": "常由志愿者帮助学生完成或理解作业。"
+                },
+                {
+                    "da": "den lokale fodboldklub",
+                    "zh": "本地足球俱乐部",
+                    "note": "`lokal` 表示当地的。"
+                }
+            ],
+            "nuance": "本句将志愿工作从体育俱乐部拓展到教育和协会治理。作者使用 `en stor del` 和 `mange`，没有给出具体比例，因此不应由此推断精确的全国参与率。",
+            "transfer": [
+                "Jeg er medlem af en lokal forening.",
+                "Jeg arbejder frivilligt i en lektiecafé.",
+                "Hun er frivillig træner i en fodboldklub."
+            ],
+            "pitfall": "`medlem af` 中的介词是 `af`。`lektiecafé` 不一定是普通咖啡馆，而是具有学习辅导功能的活动或场所。"
+        },
+        {
+            "id": "U05-C028",
+            "zh": "当研究人员问大家为什么愿意做志愿工作时，得到的回答往往相当朴实。",
+            "grammar": "`Når forskere spørger, hvorfor folk gør det` 是时间从句，其中嵌套了间接疑问从句 `hvorfor folk gør det`。整个时间从句前置后，主句采用 `er svarene` 的 V2 语序。`ret` 作程度副词修饰 `jordnære`。",
+            "vocabulary": [
+                {
+                    "da": "en forsker",
+                    "zh": "研究人员",
+                    "note": "复数 `forskere`。"
+                },
+                {
+                    "da": "jordnær",
+                    "zh": "朴实的、务实的、接地气的",
+                    "note": "可形容人、想法和解释。"
+                },
+                {
+                    "da": "ret",
+                    "zh": "相当、挺",
+                    "note": "这里是程度副词。"
+                },
+                {
+                    "da": "et svar",
+                    "zh": "回答、答案",
+                    "note": "复数 `svar`，定指 `svarene`。"
+                }
+            ],
+            "nuance": "`jordnære` 是本句值得主动学习的词。它不仅表示简单，还含有务实、不夸张、贴近日常经验的积极意味。作者由此预告，志愿者的动机可能并不像抽象公共政策讨论中那样复杂。",
+            "transfer": [
+                "Svarene var overraskende jordnære.",
+                "Når man spørger folk, hvorfor de deltager, får man forskellige svar.",
+                "Det er en meget jordnær forklaring."
+            ],
+            "pitfall": "`jordnær` 不是字面上靠近地面，而是描述务实、朴素。`hvorfor folk gør det` 是间接疑问从句，不使用 `hvorfor gør folk det` 的直接问句语序。"
+        },
+        {
+            "id": "U05-C029",
+            "zh": "大多数人会提到社群归属感、想做点有意义的事情，以及活动本身很好玩。但其中一个最重要的原因却出奇地简单：有人开口邀请了他们。",
+            "grammar": "`De fleste nævner …` 后并列了名词短语 `fællesskabet`、`lysten til …` 和内容从句 `at det er sjovt`。破折号后出现另一完整主句。`en af de vigtigste forklaringer` 使用最高级与部分集合结构，冒号后的短句说明原因。",
+            "vocabulary": [
+                {
+                    "da": "nævne",
+                    "zh": "提到、列举",
+                    "note": "报告调查结果时常用。"
+                },
+                {
+                    "da": "lysten til at",
+                    "zh": "做某事的意愿、兴趣",
+                    "note": "固定介词 `til`。"
+                },
+                {
+                    "da": "gøre noget nyttigt",
+                    "zh": "做有用的事、做有意义的贡献",
+                    "note": "`nyttigt` 为中性形式。"
+                },
+                {
+                    "da": "overraskende enkel",
+                    "zh": "出人意料地简单",
+                    "note": "常用于揭示看似复杂问题的简单解释。"
+                },
+                {
+                    "da": "spørge nogen",
+                    "zh": "询问某人、邀请某人",
+                    "note": "这里根据志愿者招募语境理解为有人主动邀请。"
+                }
+            ],
+            "nuance": "本句的转折很有力量：人们参与志愿活动当然可能出于利他、兴趣和归属感，但一个具体的外部触发因素可能只是有人亲自来问。`Nogen spurgte dem` 不是普通问候，而是有人邀请他们参与。作者借此说明主动邀请在建立共同体中的作用。",
+            "transfer": [
+                "Jeg har lyst til at gøre noget nyttigt.",
+                "En af de vigtigste forklaringer er overraskende enkel.",
+                "Mange blev frivillige, fordi nogen spurgte dem."
+            ],
+            "pitfall": "`lyst til at` 后接动词不定式。`spørge nogen` 在本句不是单纯调查问题，而是在语境中具有邀请参与的含义。"
+        },
+        {
+            "id": "U05-C030",
+            "zh": "拉斯穆斯的经历也是这样。他的儿子就在九岁以下年龄组的球队踢球。",
+            "grammar": "`Sådan gik det også for Rasmus` 中 `sådan` 前置，引出 `gik det` 的 V2 语序。`hvis søn spiller …` 是所有格关系从句，`hvis` 表示他的，而不是条件连词如果。",
+            "vocabulary": [
+                {
+                    "da": "Sådan gik det også for",
+                    "zh": "某人的经历也是这样",
+                    "note": "用于将一般现象转入具体案例。"
+                },
+                {
+                    "da": "hvis",
+                    "zh": "其……的、某人的",
+                    "note": "作为关系所有格代词时，相当于 whose。"
+                },
+                {
+                    "da": "et U9-hold",
+                    "zh": "U9 年龄组球队",
+                    "note": "`U` 表示 under；具体年龄组按照项目规则划分。"
+                }
+            ],
+            "nuance": "作者从调查中的一般结论转向 Rasmus 的个人故事。`Sådan gik det også for …` 是很好的叙事连接句型，可以自然地用实例支持前文观点。",
+            "transfer": [
+                "Sådan gik det også for mig.",
+                "Jeg kender en familie, hvis søn spiller fodbold.",
+                "Hans barn spiller på U9-holdet."
+            ],
+            "pitfall": "`hvis` 在本句是所有格关系代词，不是表示如果的条件连词。`U9` 是体育年龄组，不是球衣号码。"
+        },
+        {
+            "id": "U05-C031",
+            "zh": "每年八月，比吉特都会忙着为各支球队寻找教练。两年前的一次训练结束后，她就在出口处逮住了拉斯穆斯，想跟他聊聊。",
+            "grammar": "`Hvert år i august` 前置后，主句采用 `har Birgitte` 的 V2 语序。`have travlt med at + 不定式` 表示忙于某项任务。第二分句以 `for to år siden` 前置，形成 `fangede hun` 倒装。`fange nogen` 在这里是口语化的拦住、逮到机会和某人说话。",
+            "vocabulary": [
+                {
+                    "da": "have travlt med at",
+                    "zh": "忙着做某事",
+                    "note": "常用于周期性或集中性的工作。"
+                },
+                {
+                    "da": "finde trænere",
+                    "zh": "寻找、招募教练",
+                    "note": "与志愿者招募场景有关。"
+                },
+                {
+                    "da": "fange nogen",
+                    "zh": "逮到某人、抓住机会和某人说话",
+                    "note": "口语中不一定表示实际抓捕。"
+                },
+                {
+                    "da": "ved udgangen",
+                    "zh": "在出口处",
+                    "note": "`en udgang` 是出口。"
+                },
+                {
+                    "da": "efter en træning",
+                    "zh": "一次训练结束后",
+                    "note": "`en træning` 指一次训练活动。"
+                }
+            ],
+            "nuance": "`fangede hun Rasmus` 带一点轻松的幽默：Birgitte 像是在物色合适人选时终于逮到了一个机会。这里没有强迫或真正抓人的意思，而是描述她主动在训练结束后接触一位家长。",
+            "transfer": [
+                "Jeg har travlt med at finde nye frivillige.",
+                "Kan jeg lige fange dig efter mødet?",
+                "Hun fangede ham ved udgangen efter træningen."
+            ],
+            "pitfall": "`have travlt med at` 的 `med at` 不可省略。`fange` 在职场口语中可以表示找人短暂谈话，不应一律翻译为抓捕。"
+        },
+        {
+            "id": "U05-C032",
+            "zh": "拉斯穆斯，我能稍微问你件事吗？",
+            "grammar": "`Må jeg + 不定式` 是请求许可的疑问句。`spørge nogen om noget` 使用人作直接宾语、问题内容由 `om` 引出。`lige` 是语气小品词，使请求显得简短、不过分打扰。",
+            "vocabulary": [
+                {
+                    "da": "Må jeg lige …?",
+                    "zh": "我能稍微……一下吗？",
+                    "note": "自然的礼貌开场。"
+                },
+                {
+                    "da": "spørge nogen om noget",
+                    "zh": "问某人某件事",
+                    "note": "完整固定搭配。"
+                },
+                {
+                    "da": "lige",
+                    "zh": "一下、稍微",
+                    "note": "这里软化请求，而非表示刚刚。"
+                }
+            ],
+            "nuance": "Birgitte 没有立刻提出志愿岗位，而是先请求对方给予一点注意力。`lige` 降低了开场的压力，让接下来的招募对话更自然。",
+            "transfer": [
+                "Må jeg lige spørge dig om noget?",
+                "Har du lige et øjeblik?",
+                "Må jeg stille dig et spørgsmål?"
+            ],
+            "pitfall": "`spørge nogen om noget` 与 `spørge efter nogen` 不同；前者是问某人一件事，后者可能表示寻找或询问某人的下落。"
+        },
+        {
+            "id": "U05-C033",
+            "zh": "当然可以。怎么啦，我做错什么事了吗？",
+            "grammar": "`Ja da` 是带积极或安抚语气的肯定回答。`Har jeg gjort noget?` 使用现在完成时询问是否做过什么事，具体的做错事含义来自突然被叫住的情境。",
+            "vocabulary": [
+                {
+                    "da": "Ja da",
+                    "zh": "当然可以、当然啦",
+                    "note": "`da` 加强肯定和亲切语气。"
+                },
+                {
+                    "da": "Har jeg gjort noget?",
+                    "zh": "我做什么了吗？",
+                    "note": "在突然被找谈话时可带玩笑式紧张。"
+                }
+            ],
+            "nuance": "Rasmus 的第二句话是轻微自嘲：有人特意把他叫住，他第一反应是自己是不是惹了什么麻烦。这样的回答让招募场景显得轻松，也为 Birgitte 的解释创造机会。",
+            "transfer": [
+                "Ja da, hvad drejer det sig om?",
+                "Har jeg gjort noget galt?"
+            ],
+            "pitfall": "`Har jeg gjort noget?` 字面只是我做了什么吗，是否意味着做错事需要根据场景和语调判断。"
+        },
+        {
+            "id": "U05-C034",
+            "zh": "没有没有。我们九岁以下年龄组的球队缺一位周四来帮忙的助理教练。你有没有兴趣试试？",
+            "grammar": "`Vi mangler en hjælpetræner` 使用及物动词 `mangle` 直接接所缺少的人。`om torsdagen` 表示每逢周四。`Kunne det være noget for dig?` 使用情态动词过去式 `kunne` 提出委婉邀请，`det` 回指助理教练这项工作。",
+            "vocabulary": [
+                {
+                    "da": "mangle",
+                    "zh": "缺少、需要",
+                    "note": "直接接宾语，如 `Vi mangler frivillige`。"
+                },
+                {
+                    "da": "en hjælpetræner",
+                    "zh": "助理教练、辅助训练员",
+                    "note": "协助主要教练开展训练。"
+                },
+                {
+                    "da": "om torsdagen",
+                    "zh": "每逢星期四",
+                    "note": "区别于 `på torsdag`，后者指即将到来的周四。"
+                },
+                {
+                    "da": "Kunne det være noget for dig?",
+                    "zh": "你会不会有兴趣？这适合你吗？",
+                    "note": "委婉邀请或推荐机会的高频句型。"
+                }
+            ],
+            "nuance": "Birgitte 使用两个技巧降低招募压力：首先明确只是助理教练而非独自承担整个球队，其次通过 `Kunne det være noget for dig?` 询问意愿，而不是直接要求他接受。",
+            "transfer": [
+                "Vi mangler en hjælpetræner om torsdagen.",
+                "Kunne det være noget for dig?",
+                "Vi søger en frivillig, der kan hjælpe en gang om ugen."
+            ],
+            "pitfall": "`om torsdagen` 是规律性的每周四，`på torsdag` 是下一个周四。`mangle` 是及物动词，通常不需要额外介词。"
+        },
+        {
+            "id": "U05-C035",
+            "zh": "你想到我，真是太好心了。不过我可从来没有教过任何人任何运动项目啊。",
+            "grammar": "`Det er sødt, at du spørger` 是形式主语结构，后面的 `at` 从句说明值得感谢的行为。`har aldrig trænet nogen i noget` 使用现在完成时与否定频率副词 `aldrig`，`træne nogen i noget` 表示指导某人学习或练习某项目。",
+            "vocabulary": [
+                {
+                    "da": "Det er sødt, at …",
+                    "zh": "你……真贴心、真好心",
+                    "note": "可用于感谢对方的体贴或邀请。"
+                },
+                {
+                    "da": "træne nogen i noget",
+                    "zh": "训练、指导某人学习某项技能",
+                    "note": "这里指担任教练的经验。"
+                },
+                {
+                    "da": "aldrig",
+                    "zh": "从来没有",
+                    "note": "用于否定整个经历范围。"
+                }
+            ],
+            "nuance": "Rasmus 先肯定对方的好意，再提出自己缺乏经验的顾虑。这是一种礼貌而保留余地的回应，并不意味着他已经明确拒绝。`Det er sødt, at du spørger` 比机械地说谢谢邀请更具人际温度。",
+            "transfer": [
+                "Det er sødt af dig at spørge.",
+                "Jeg har aldrig været træner før.",
+                "Tak, fordi du tænkte på mig, men jeg har ingen erfaring."
+            ],
+            "pitfall": "`sød` 在这里形容人的体贴，不是甜味。`træne nogen i noget` 表示指导别人，与自己锻炼的 `træne` 用法不同。"
+        },
+        {
+            "id": "U05-C036",
+            "zh": "那也不需要你有这种经验。刚开始你只要协助米克尔带大家做训练就行了。",
+            "grammar": "`Det behøver du heller ikke` 使用 `behøve` 表示没有必要，`det` 回指前句所担忧的训练经验。`heller ikke` 衔接前面的否定。`I første omgang` 前置后采用 `skal du` 的 V2 语序。`bare` 限定最初的任务范围。",
+            "vocabulary": [
+                {
+                    "da": "behøve",
+                    "zh": "需要、有必要",
+                    "note": "否定句中常说 `Det behøver du ikke`。"
+                },
+                {
+                    "da": "i første omgang",
+                    "zh": "第一阶段、刚开始、暂时",
+                    "note": "暗示以后可能进一步发展。"
+                },
+                {
+                    "da": "bare",
+                    "zh": "只要、不过是",
+                    "note": "用于降低任务的心理负担。"
+                },
+                {
+                    "da": "en øvelse",
+                    "zh": "练习、训练项目",
+                    "note": "复数 `øvelser`。"
+                }
+            ],
+            "nuance": "Birgitte 并没有否认 Rasmus 缺乏经验，而是明确降低初始门槛。`i første omgang` 非常关键：她不是保证他永远只做简单工作，而是说明入门阶段可以先从协助开始。",
+            "transfer": [
+                "Det behøver du heller ikke.",
+                "I første omgang skal du bare hjælpe til.",
+                "Du behøver ikke have erfaring fra starten."
+            ],
+            "pitfall": "`i første omgang` 不是第一轮比赛，而是事情开展的初始阶段。`behøver ikke` 表示不必，不等于不允许。"
+        },
+        {
+            "id": "U05-C037",
+            "zh": "所以说，我只需要到场就行？",
+            "grammar": "`Så` 根据上一句推导出自己的理解。`jeg skal bare være der` 是保留陈述语序、通过语调表达确认的问句。`bare` 将任务概括为最基本的到场陪同。",
+            "vocabulary": [
+                {
+                    "da": "være der",
+                    "zh": "在场、到场、参与",
+                    "note": "此处是实际参与现场活动，不只是抽象情感支持。"
+                },
+                {
+                    "da": "så",
+                    "zh": "那么、所以说",
+                    "note": "用于根据已有信息作出推断。"
+                }
+            ],
+            "nuance": "Rasmus 用一句简短的确认表达惊讶：他原本以为必须具有执教经验，现在发现最初只需要稳定到场并协助。这也呼应了前文强调志愿组织需要有人按时出现的主题。",
+            "transfer": [
+                "Så jeg skal bare møde op?",
+                "Er det nok, at jeg er der?",
+                "Du skal bare være der og hjælpe til."
+            ],
+            "pitfall": "`bare være der` 不一定意味着什么都不做；在本句中，已经知道具体任务是协助练习。"
+        },
+        {
+            "id": "U05-C038",
+            "zh": "没错，正是这样。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "nemlig",
+                    "zh": "正是如此、没错",
+                    "note": "口语中可用于确认对方理解正确，也可用于引出说明。"
+                }
+            ],
+            "nuance": "Birgitte 简短确认 Rasmus 的理解，不增加新的要求，使邀请继续保持简单可行。",
+            "transfer": [
+                "Ja, det er lige præcis det, jeg mener."
+            ],
+            "pitfall": "`nemlig` 在这里是确认，不应一律译为因为。"
+        },
+        {
+            "id": "U05-C039",
+            "zh": "我能问一下，这大概需要花多少时间吗？",
+            "grammar": "`Må jeg spørge` 是请求许可的主句，后面接间接疑问从句 `hvor lang tid det tager`。从句内部使用陈述语序，主语 `det` 位于限定动词 `tager` 前。",
+            "vocabulary": [
+                {
+                    "da": "hvor lang tid",
+                    "zh": "多长时间",
+                    "note": "用于询问持续时间或耗时。"
+                },
+                {
+                    "da": "tage tid",
+                    "zh": "花费时间",
+                    "note": "如 `Det tager en time`。"
+                },
+                {
+                    "da": "Må jeg spørge …?",
+                    "zh": "我可以问一下……吗？",
+                    "note": "比直接抛出问题稍微更礼貌。"
+                }
+            ],
+            "nuance": "Rasmus 现在关注的已经不是能不能胜任，而是具体的时间投入。这表明他开始认真评估参与的可行性。`Må jeg spørge` 让问题听起来是合理了解责任，而不是急于拒绝。",
+            "transfer": [
+                "Må jeg spørge, hvor lang tid det tager?",
+                "Hvor meget tid skal jeg sætte af om ugen?",
+                "Det afhænger af, hvor mange kampe der er."
+            ],
+            "pitfall": "间接疑问句应写 `hvor lang tid det tager`，不是 `hvor lang tid tager det`。`lang` 与 `længe` 的搭配也需区分：`hvor lang tid`、`hvor længe`。"
+        },
+        {
+            "id": "U05-C040",
+            "zh": "大概每周一小时十五分钟吧。另外偶尔还要参加一场比赛。",
+            "grammar": "这是省略主语和谓语的数量回答。`Sådan cirka` 是口语化的近似表达。`en time og et kvarter` 表示一小时加一刻钟。`om ugen` 表示每周；`en gang imellem` 表示偶尔。",
+            "vocabulary": [
+                {
+                    "da": "sådan cirka",
+                    "zh": "大概、差不多",
+                    "note": "口语中带有估算意味。"
+                },
+                {
+                    "da": "en time og et kvarter",
+                    "zh": "一小时十五分钟",
+                    "note": "`et kvarter` 是十五分钟。"
+                },
+                {
+                    "da": "om ugen",
+                    "zh": "每周",
+                    "note": "用于表达频率。"
+                },
+                {
+                    "da": "en gang imellem",
+                    "zh": "偶尔、时不时",
+                    "note": "不表示固定的每隔一次。"
+                }
+            ],
+            "nuance": "Birgitte 通过相对具体的时间投入帮助 Rasmus 判断是否能够加入。`sådan cirka` 保留灵活性，表明一小时十五分钟是近似估算，而不是正式保证。后面的比赛是另外需要考虑的时间投入。",
+            "transfer": [
+                "Det tager cirka en time og et kvarter om ugen.",
+                "Der er også en kamp en gang imellem.",
+                "Jeg bruger omtrent to timer om ugen på det."
+            ],
+            "pitfall": "`et kvarter` 是十五分钟，不是四十五分钟。`om ugen` 是每周，`i en uge` 表示持续一周。"
+        },
+        {
+            "id": "U05-C041",
+            "zh": "听起来还挺容易安排的。不过让我先和妻子商量一下吧。",
+            "grammar": "`Det lyder overskueligt` 使用感官动词 `lyde` 加形容词表语。`lad mig + 不定式` 是祈使形式表达请求或建议。`lige` 缓和语气，`først` 强调商量应先于最终答复。",
+            "vocabulary": [
+                {
+                    "da": "overskuelig",
+                    "zh": "可掌控的、容易安排的、负担不大的",
+                    "note": "也可形容任务、费用或信息量。"
+                },
+                {
+                    "da": "Det lyder …",
+                    "zh": "听起来……",
+                    "note": "常用于回应提议。"
+                },
+                {
+                    "da": "lad mig lige",
+                    "zh": "让我先……一下",
+                    "note": "自然、礼貌的口语表达。"
+                },
+                {
+                    "da": "snakke med",
+                    "zh": "与……谈谈、商量",
+                    "note": "口语程度高于 `drøfte`。"
+                }
+            ],
+            "nuance": "`overskueligt` 是本篇非常值得主动掌握的形容词，表示一件事的规模、复杂度或时间要求尚在自己可处理的范围内。Rasmus 的回应总体积极，但明确需要先与妻子商量，说明他没有立即作出最终承诺。",
+            "transfer": [
+                "Det lyder overskueligt.",
+                "Lad mig lige snakke med min partner først.",
+                "Opgaven virker mere overskuelig, end jeg havde troet."
+            ],
+            "pitfall": "`overskuelig` 不只是容易，还包含能够看清全貌、能够管理的意味。`lad mig` 后接不带 `at` 的不定式。"
+        },
+        {
+            "id": "U05-C042",
+            "zh": "当然可以。对了，你知道吗，我们这里有一半的教练，当初也只是队员的家长。",
+            "grammar": "`Vidste du …, at …?` 使用过去式 `vidste` 构成自然的信息引入问句，不必真的询问过去某个时间点的知识。`forresten` 是插入的话题转换副词。`halvdelen af vores trænere` 作从句主语，`startede som forældre` 表示最初以家长身份进入俱乐部。",
+            "vocabulary": [
+                {
+                    "da": "selvfølgelig",
+                    "zh": "当然、没问题",
+                    "note": "用于接受请求或同意安排。"
+                },
+                {
+                    "da": "forresten",
+                    "zh": "对了、顺便说一下",
+                    "note": "口语话题转换标记。"
+                },
+                {
+                    "da": "halvdelen af",
+                    "zh": "……的一半",
+                    "note": "数量结构。"
+                },
+                {
+                    "da": "starte som",
+                    "zh": "最初以某种身份开始",
+                    "note": "可用于职业、社团和志愿经历。"
+                }
+            ],
+            "nuance": "Birgitte 先尊重 Rasmus 需要和妻子商量的安排，然后看似顺便地提供一个具有说服力的事实：很多现有教练原来也是普通家长。这既缓解他缺乏经验的顾虑，也让他感到自己属于一个正常、可进入的成长路径。",
+            "transfer": [
+                "Vidste du forresten, at mange begyndte som frivillige?",
+                "Halvdelen af vores trænere startede som forældre.",
+                "Jeg startede som hjælper og blev senere træner."
+            ],
+            "pitfall": "`startede som forældre` 不是说这些人在那时才成为父母，而是指他们最初以球员家长的身份参与。`Vidste du …?` 可以自然引出新信息。"
+        },
+        {
+            "id": "U05-C043",
+            "zh": "哦，那看来我几乎都不好意思说不了呀。",
+            "grammar": "`Nå` 表示接受新信息后的反应。`så` 引出根据前一句形成的结论。`jo` 把判断表现为双方已经能够理解的结果。`nærmest` 是程度副词，表示几乎、差不多。`være nødt til at` 表示必须做某事。",
+            "vocabulary": [
+                {
+                    "da": "nærmest",
+                    "zh": "几乎、简直可以说",
+                    "note": "这里不是空间意义的最近。"
+                },
+                {
+                    "da": "være nødt til at",
+                    "zh": "不得不、必须",
+                    "note": "完整固定搭配。"
+                },
+                {
+                    "da": "sige ja",
+                    "zh": "答应、接受",
+                    "note": "可用于邀请、提议和职位。"
+                },
+                {
+                    "da": "jo",
+                    "zh": "看来、你也知道",
+                    "note": "强调结论与共同理解。"
+                }
+            ],
+            "nuance": "Rasmus 的回应带有明显的玩笑意味。他并非真的受到强制，而是在听到其他家长也成为教练后，幽默地承认自己已经很难再拿经验不足当理由。`jo nærmest nødt til` 将强制语气弱化为轻松的自我调侃。",
+            "transfer": [
+                "Så er jeg jo nærmest nødt til at sige ja.",
+                "Nu har jeg næsten ingen undskyldninger tilbage.",
+                "Det lyder, som om jeg burde prøve."
+            ],
+            "pitfall": "`være nødt til at` 可以表达真正的义务，但加上 `jo nærmest` 后，在此语境中主要是幽默夸张。`nærmest` 不是必须与空间距离有关。"
+        },
+        {
+            "id": "U05-C044",
+            "zh": "志愿者还会陪孩子们做功课，在海滩上捡垃圾，或者成为探访陪伴志愿者，定期去看望那些没有人可以聊天的老人。",
+            "grammar": "泛指主语 `Folk` 后面并列三个谓语：`læser`、`samler` 和 `er`，列举不同志愿活动。`ældre, der ikke har nogen at tale med` 中关系从句修饰老年人。`nogen at tale med` 是不定代词加不定式结构，介词 `med` 留在末尾。",
+            "vocabulary": [
+                {
+                    "da": "læse lektier med nogen",
+                    "zh": "陪某人做功课、辅导作业",
+                    "note": "重点是共同完成学习任务。"
+                },
+                {
+                    "da": "samle affald",
+                    "zh": "捡拾垃圾、收集废弃物",
+                    "note": "可用于环保志愿活动。"
+                },
+                {
+                    "da": "en besøgsven",
+                    "zh": "探访陪伴志愿者、定期探访的朋友",
+                    "note": "通常为需要社交陪伴的人提供探访和交流。"
+                },
+                {
+                    "da": "ældre",
+                    "zh": "老年人",
+                    "note": "形容词名词化的复数用法。"
+                },
+                {
+                    "da": "have nogen at tale med",
+                    "zh": "有人可以聊天、有人可以倾诉",
+                    "note": "反向形式 `ikke have nogen at tale med` 表示缺少交谈对象。"
+                }
+            ],
+            "nuance": "作者将志愿服务扩展到教育、环境和老年陪伴三种领域。`besøgsven` 是富有人情味的丹麦社会词汇，强调人际陪伴，而不只是完成一项行政任务。没有人可以聊天不一定意味着完全没有亲属，而是缺少实际可交流的人。",
+            "transfer": [
+                "Jeg er frivillig i en lektiecafé.",
+                "Vi samler affald på stranden hver måned.",
+                "Nogle ældre har brug for en besøgsven."
+            ],
+            "pitfall": "`læse lektier med børn` 不是单纯给孩子朗读课本，而是陪伴或辅导完成学校作业。`besøgsven` 不是普通来访客人，而是提供社交陪伴的人。"
+        },
+        {
+            "id": "U05-C045",
+            "zh": "如今，拉斯穆斯已经成了这支球队的主教练，而且他自己也主动邀请了另外三位家长来帮忙。",
+            "grammar": "`I dag` 前置后，主句采用 `er Rasmus` 的 V2 语序。第二分句 `han har selv spurgt tre andre forældre` 使用现在完成时，强调他已经采取了邀请行动。`selv` 突出他从被邀请者转变为主动邀请者。",
+            "vocabulary": [
+                {
+                    "da": "en cheftræner",
+                    "zh": "主教练",
+                    "note": "区别于 `en hjælpetræner` 助理教练。"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己、亲自",
+                    "note": "这里强调行动主体的变化。"
+                },
+                {
+                    "da": "spørge andre forældre",
+                    "zh": "邀请或询问其他家长",
+                    "note": "根据上下文指邀请家长参与志愿工作。"
+                }
+            ],
+            "nuance": "这是 Rasmus 故事的关键发展：他从完全没有执教经验的家长成长为主教练，而且开始主动招募新人。`selv` 很重要，它展示了志愿参与如何形成自我延续的循环——曾经被邀请的人，后来又去邀请别人。",
+            "transfer": [
+                "I dag er han cheftræner for holdet.",
+                "Han har selv spurgt tre andre forældre.",
+                "Jeg begyndte som hjælper, men fik efterhånden mere ansvar."
+            ],
+            "pitfall": "`cheftræner` 指主教练，不等于公司里的 `chef`。`spørge` 在当前招募语境中可以意味着邀请参与，而不只是一般提问。"
+        },
+        {
+            "id": "U05-C046",
+            "zh": "我原以为，做志愿者就是把自己的一部分时间白白送出去，他说。",
+            "grammar": "`Jeg troede, …` 引出过去持有的想法。`gav noget af min tid væk` 使用过去式及动词小品词 `give væk`。`noget af min tid` 是部分量结构，表示自己时间中的一部分。引语后的 `siger han` 是常规叙述结构。",
+            "vocabulary": [
+                {
+                    "da": "tro",
+                    "zh": "以为、原先认为",
+                    "note": "过去式 `troede` 常暗示现在已经改变看法。"
+                },
+                {
+                    "da": "give noget væk",
+                    "zh": "把某物赠送出去、无偿交出",
+                    "note": "也可抽象用于时间和资源。"
+                },
+                {
+                    "da": "noget af min tid",
+                    "zh": "我的一部分时间",
+                    "note": "`noget af` 表示整体中的一部分。"
+                }
+            ],
+            "nuance": "这句话刻意采用付出的视角：参与志愿活动意味着从个人时间中拿出一部分，而且没有直接经济回报。`Jeg troede` 预示下一句将修正这种看法。`give væk` 不一定带有负面含义，但在这里强调时间仿佛是单向付出的。",
+            "transfer": [
+                "Jeg troede, det bare ville koste mig tid.",
+                "Jeg giver gerne noget af min fritid til foreningen.",
+                "Han troede, at frivilligt arbejde kun handlede om at give."
+            ],
+            "pitfall": "`give væk` 是赠送出去，不等于 `spilde` 浪费。`noget af min tid` 不是我的全部时间，而是其中一部分。"
+        },
+        {
+            "id": "U05-C047",
+            "zh": "后来我才发现，自己收获的其实是一个真正有归属感的社群。",
+            "grammar": "`Det viste sig, at …` 是表示事情最终显露真实结果的固定结构。`fik et fællesskab tilbage` 中 `få tilbage` 与上一句的 `give væk` 形成呼应，构成付出与获得的对比。过去时 `viste sig` 回顾认识发生变化的过程。",
+            "vocabulary": [
+                {
+                    "da": "Det viste sig, at",
+                    "zh": "结果发现、后来证明",
+                    "note": "常用于结果出乎预料或修正最初判断。"
+                },
+                {
+                    "da": "få noget tilbage",
+                    "zh": "得到回报、重新获得某物",
+                    "note": "可用于具体物品，也可用于抽象收获。"
+                },
+                {
+                    "da": "et fællesskab",
+                    "zh": "共同体、社群、归属感",
+                    "note": "强调人与人之间持续的联系和参与。"
+                }
+            ],
+            "nuance": "这是全文的主题收束。第一句让读者以为志愿工作只是牺牲个人时间，最后一句却揭示他得到了新的社会联系、身份认同和归属感。`give væk` 与 `få tilbage` 构成精巧的修辞对照。这里的回报不是工资，也不能简单用金钱衡量，而是参与共同体所带来的关系价值。它还呼应开篇 Birgitte 原本只想看女儿比赛、却在理事会任职多年的经历。",
+            "transfer": [
+                "Det viste sig, at jeg fik meget mere tilbage, end jeg havde forventet.",
+                "Frivilligt arbejde giver mig en følelse af fællesskab.",
+                "Jeg troede, jeg skulle give noget, men endte med selv at få meget igen."
+            ],
+            "pitfall": "`vise sig` 在这里表示结果证明、后来发现，不是展示自己。`få tilbage` 可以是抽象回报，不能只理解为拿回原先属于自己的物品。"
+        }
+    ]
+}

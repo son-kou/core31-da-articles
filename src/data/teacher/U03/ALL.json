@@ -1,0 +1,2413 @@
+{
+    "schema_version": 1,
+    "unit": "U03",
+    "part": "ALL",
+    "source_fingerprint": "U03-ALL-3131c869a5de",
+    "sentences": [
+        {
+            "id": "U03-C001",
+            "zh": "对一年前从布加勒斯特搬到奥胡斯求学的娜迪娅来说，刚开始最重要的事情无非就是找到一个能睡觉的地方。",
+            "grammar": "句首 `For Nadia` 引出个人视角，后接关系从句 `der for et år siden flyttede …` 补充人物背景。主句骨架为 `det handlede … om at finde …`。`handle om` 表示事情的核心在于什么，`for at læse` 是目的状语。`i begyndelsen` 限定这一需求只属于初到丹麦的阶段。",
+            "vocabulary": [
+                {
+                    "da": "handle om",
+                    "zh": "关乎、关键在于、以……为主题",
+                    "note": "固定介词 `om`；可用于生活需求、争论和文章主题。"
+                },
+                {
+                    "da": "i begyndelsen",
+                    "zh": "起初、最开始",
+                    "note": "强调某段经历的初期。"
+                },
+                {
+                    "da": "et sted at sove",
+                    "zh": "睡觉的地方、落脚处",
+                    "note": "`et sted at + 不定式` 是实用名词结构。"
+                },
+                {
+                    "da": "flytte fra X til Y",
+                    "zh": "从 X 搬到 Y",
+                    "note": "两个地点介词分别表示起点和终点。"
+                }
+            ],
+            "nuance": "作者没有说娜迪娅一开始想找到理想的家，而是用 `kun … et sted at sove` 强调她最初的住房要求非常基本。`handlede det … om` 把复杂的找房经历概括为一个最迫切的目标。文章最后的 `falde til` 将与这里形成呼应：住房逐渐从单纯的落脚处变成真正的家。",
+            "transfer": [
+                "For mig handler det først og fremmest om at finde ro.",
+                "I begyndelsen handlede det kun om at få erfaring.",
+                "Hun flyttede til Aarhus for at studere."
+            ],
+            "pitfall": "`handle om` 在这里不是购物或交易，而是关乎什么。`læse` 除了阅读，也可在大学语境中表示攻读某个专业。"
+        },
+        {
+            "id": "U03-C002",
+            "zh": "丹麦的大城市普遍缺少价格实惠的住房，娜迪娅也花了整整三个月才找到一套公寓。",
+            "grammar": "`I de store byer` 是前置地点状语，后面采用 `er der` 的 V2 存在句语序。`der er mangel på` 表示某种资源短缺。第二个分句使用 `det tog Nadia tre måneder at finde …`，其中 `det` 为形式主语，真正的动作是后面的不定式短语。",
+            "vocabulary": [
+                {
+                    "da": "mangel på",
+                    "zh": "缺少、短缺",
+                    "note": "`en mangel`；固定搭配 `der er mangel på noget`。"
+                },
+                {
+                    "da": "en bolig",
+                    "zh": "住宅、住房",
+                    "note": "可泛指租房、产权房等居住单位。"
+                },
+                {
+                    "da": "en lejlighed",
+                    "zh": "公寓、住宅单元",
+                    "note": "也有机会、场合的意思，具体依语境判断。"
+                },
+                {
+                    "da": "det tager nogen tid at",
+                    "zh": "做某事需要花费时间",
+                    "note": "完整形式如 `Det tog mig tre måneder at finde en bolig`。"
+                }
+            ],
+            "nuance": "前半句给出结构性的住房问题，后半句用娜迪娅的实际经历把抽象的住房紧缺具体化。`billige boliger` 是相对于住房市场价格而言的便宜住房，不自动表示低质量住房。",
+            "transfer": [
+                "Der er mangel på billige boliger i storbyerne.",
+                "Det tog mig tre måneder at finde en lejlighed.",
+                "Det tager tid at finde noget, man har råd til."
+            ],
+            "pitfall": "`mangel` 必须与 `på` 搭配。`Det tog Nadia tre måneder` 中的 `Nadia` 是经历耗时的人，不能简单按汉语顺序写成 `Nadia tog tre måneder`。"
+        },
+        {
+            "id": "U03-C003",
+            "zh": "她最终找到的那套公寓位于一栋建于二十世纪三十年代的楼房三层。",
+            "grammar": "`Lejligheden, hun endte med` 中省略了作宾语的关系代词 `som`，关系从句修饰前面的公寓。`ende med` 表示经过某个过程后最终得到的结果。主句谓语 `ligger` 描述房产位置；`på tredje sal` 和 `i en ejendom fra 1930'erne` 是两个地点及年代说明。",
+            "vocabulary": [
+                {
+                    "da": "ende med",
+                    "zh": "最终得到、最后以……告终",
+                    "note": "可接名词或 `at + 不定式`。"
+                },
+                {
+                    "da": "på tredje sal",
+                    "zh": "在三层",
+                    "note": "按丹麦楼层习惯，地面层通常称 `stuen`。"
+                },
+                {
+                    "da": "en ejendom",
+                    "zh": "不动产、楼房、物业",
+                    "note": "租赁语境中常指整栋住宅楼。"
+                },
+                {
+                    "da": "1930'erne",
+                    "zh": "二十世纪三十年代",
+                    "note": "年代复数形式。"
+                }
+            ],
+            "nuance": "`hun endte med` 暗示她经过三个月的寻找和比较，最后接受了这套公寓，而不一定意味着这是她最初梦想的住处。`ejendom` 在丹麦租赁和物业管理语言中很常见。",
+            "transfer": [
+                "Lejligheden, jeg endte med, ligger tæt på stationen.",
+                "Vi endte med at vælge den billigste løsning.",
+                "Hun bor på tredje sal i en ældre ejendom."
+            ],
+            "pitfall": "`ende med` 与 `slutte med` 不完全相同，前者常强调经过过程后形成的最终结果。丹麦的 `tredje sal` 通常位于地面层以上第三层，不能忽视当地楼层编号习惯。"
+        },
+        {
+            "id": "U03-C004",
+            "zh": "公寓里有两个房间、一个小厨房、一间带淋浴设施的浴室，还有一个勉强放得下两把椅子的阳台。",
+            "grammar": "`Der er` 是存在句，依次列举房屋设施。最后 `en altan, der lige akkurat er stor nok til to stole` 使用关系从句修饰阳台。`stor nok til` 是程度结构，表示空间足以容纳某物。",
+            "vocabulary": [
+                {
+                    "da": "et værelse",
+                    "zh": "房间、居室",
+                    "note": "租房广告中的 `to værelser` 通常涉及客厅和卧室等居室，不包括厨房、浴室。"
+                },
+                {
+                    "da": "en bruser",
+                    "zh": "淋浴喷头、淋浴设施",
+                    "note": "`et badeværelse med bruser` 表示带淋浴的浴室。"
+                },
+                {
+                    "da": "en altan",
+                    "zh": "阳台",
+                    "note": "与地面上的 `en terrasse` 不同。"
+                },
+                {
+                    "da": "lige akkurat",
+                    "zh": "刚刚好、勉勉强强",
+                    "note": "强调只达到最低限度。"
+                },
+                {
+                    "da": "stor nok til",
+                    "zh": "大到足以容纳……",
+                    "note": "形容词加 `nok til` 的程度结构。"
+                }
+            ],
+            "nuance": "`lige akkurat` 让阳台显得非常小，却也暗示它仍然有用。作者通过这种具体的空间细节，让读者看到一套并不宽敞但设施完整的小公寓。",
+            "transfer": [
+                "Lejligheden har to værelser og en altan.",
+                "Altanen er lige akkurat stor nok til to stole.",
+                "Der er plads nok til et lille bord."
+            ],
+            "pitfall": "丹麦房屋广告的 `to værelser` 不是两间卧室的绝对同义词。`nok` 放在形容词后，如 `stor nok`，而非 `nok stor`。"
+        },
+        {
+            "id": "U03-C005",
+            "zh": "租房合同足足有十一页，她拿着一本词典放在旁边，逐页仔细读完了。",
+            "grammar": "`Kontrakten var på elleve sider` 中 `være på + 数量` 表示篇幅。第二分句 `hun læste den grundigt` 用代词 `den` 回指合同。破折号后的 `med en ordbog ved siden af` 是补充性的方式和伴随状语。",
+            "vocabulary": [
+                {
+                    "da": "en kontrakt",
+                    "zh": "合同",
+                    "note": "可说 `underskrive en kontrakt`、`gennemgå en kontrakt`。"
+                },
+                {
+                    "da": "være på elleve sider",
+                    "zh": "长达十一页",
+                    "note": "用于文章、合同和报告篇幅。"
+                },
+                {
+                    "da": "grundigt",
+                    "zh": "仔细地、彻底地",
+                    "note": "形容词 `grundig` 的副词形式。"
+                },
+                {
+                    "da": "en ordbog",
+                    "zh": "词典",
+                    "note": "复合词 `ord` + `bog`。"
+                },
+                {
+                    "da": "ved siden af",
+                    "zh": "在旁边",
+                    "note": "可以不带后续名词独立使用。"
+                }
+            ],
+            "nuance": "词典这一细节暗示娜迪娅作为国际学生，不仅面临住房市场压力，还要克服法律和生活用语方面的语言障碍。`grundigt` 强调认真阅读，而不只是浏览。",
+            "transfer": [
+                "Kontrakten er på elleve sider.",
+                "Jeg læste den grundigt igennem.",
+                "Jeg havde en ordbog liggende ved siden af."
+            ],
+            "pitfall": "`på elleve sider` 表示文件篇幅，不是合同写在某一个页面上。`grundigt` 与 `grundlæggende` 不同，后者表示基础性的。"
+        },
+        {
+            "id": "U03-C006",
+            "zh": "在拿到钥匙之前，她必须先支付相当于三个月房租的押金。",
+            "grammar": "`Inden hun fik nøglerne` 是时间从句，置于句首后主句采用 `skulle hun betale` 的 V2 倒装。`et depositum på tre måneders husleje` 使用 `på + 金额或数量` 说明押金数额，`tre måneders` 是数量所有格。",
+            "vocabulary": [
+                {
+                    "da": "et depositum",
+                    "zh": "租房押金",
+                    "note": "用于担保租赁义务，与预付租金不同。"
+                },
+                {
+                    "da": "en husleje",
+                    "zh": "房租",
+                    "note": "常说 `betale husleje`。"
+                },
+                {
+                    "da": "tre måneders husleje",
+                    "zh": "三个月的房租金额",
+                    "note": "`måneders` 为复数所有格。"
+                },
+                {
+                    "da": "inden",
+                    "zh": "在……之前",
+                    "note": "引导时间从句或连接时间名词。"
+                }
+            ],
+            "nuance": "句子说明丹麦租房时常见的前期现金支出。`skulle` 表示当时必须满足的付款要求，不是娜迪娅单纯想付钱。押金与 `forudbetalt leje` 预付房租在法律和结算功能上不同。",
+            "transfer": [
+                "Jeg skulle betale et depositum på tre måneders husleje.",
+                "Inden jeg fik nøglerne, betalte jeg depositum.",
+                "Hvor stort er depositummet?"
+            ],
+            "pitfall": "`depositum` 不等于首月房租，也不等于预付租金。法律上允许的金额及条款取决于租赁类型和适用规定，不能仅凭这一句判断所有合同。"
+        },
+        {
+            "id": "U03-C007",
+            "zh": "这笔钱要等她搬走时才会退还给她，而且还得扣除房屋需要修缮整备的费用。",
+            "grammar": "`Det beløb` 是前一句押金的回指。`får hun først tilbage` 因宾语前置采用 V2 语序。`først … når hun flytter` 表示直到搬离时才。`minus det, der skal sættes i stand` 用 `det` 名词性代词和关系从句说明可能扣除的维修项目。",
+            "vocabulary": [
+                {
+                    "da": "få noget tilbage",
+                    "zh": "拿回某物、获得退款",
+                    "note": "押金、借款、物品返还都适用。"
+                },
+                {
+                    "da": "sætte i stand",
+                    "zh": "修缮、整备、恢复良好状态",
+                    "note": "租赁语境中的重要搭配。"
+                },
+                {
+                    "da": "minus",
+                    "zh": "减去、扣除",
+                    "note": "可用于金额和数量。"
+                },
+                {
+                    "da": "først når",
+                    "zh": "只有到……时候才",
+                    "note": "强调付款或事件的时间条件。"
+                }
+            ],
+            "nuance": "作者通过押金的返还机制，说明入住前的付款与搬出时的房屋状态相互关联。`sættes i stand` 不应理解为房东可以任意扣费；实际可扣除的项目需要依据合同、房屋状态和适用法律。",
+            "transfer": [
+                "Du får depositummet tilbage, når du flytter.",
+                "Beløbet bliver tilbagebetalt minus eventuelle udgifter.",
+                "Lejligheden skal sættes i stand."
+            ],
+            "pitfall": "`få tilbage` 表示拿回来，不是回到某个地点。`sætte i stand` 应整体记忆，不能逐词理解为把东西放到站立状态。"
+        },
+        {
+            "id": "U03-C008",
+            "zh": "入住第一天，她和房东一起在公寓里四处查看，并把发现的损坏和问题逐一记录下来。",
+            "grammar": "`Den første dag` 前置，引出 `gik hun` 的 V2 语序。`gik rundt` 与 `noterede` 是两个并列过去时动作。`fejl og mangler` 是经常成对出现的名词组合。",
+            "vocabulary": [
+                {
+                    "da": "gå rundt",
+                    "zh": "四处走动、逐处查看",
+                    "note": "在房屋检查时可指逐房间查看。"
+                },
+                {
+                    "da": "en udlejer",
+                    "zh": "房东、出租人",
+                    "note": "与 `en lejer` 租客相对。"
+                },
+                {
+                    "da": "fejl og mangler",
+                    "zh": "缺陷和瑕疵、损坏与不足",
+                    "note": "合同、物业检查和消费投诉中的常见固定组合。"
+                },
+                {
+                    "da": "notere",
+                    "zh": "记录、记下",
+                    "note": "可说 `notere noget ned`。"
+                }
+            ],
+            "nuance": "这是丹麦租房入住检查的典型场景。`fejl og mangler` 具有一定法律和行政色彩，比普通的 `problemer` 更具体，强调需要记录的房屋现有缺陷。",
+            "transfer": [
+                "Vi gik rundt og noterede fejl og mangler.",
+                "Jeg gennemgik lejligheden sammen med udlejeren.",
+                "Husk at notere alle fejl ved indflytningen."
+            ],
+            "pitfall": "`en udlejer` 是出租方，`en lejer` 是承租方，不能混淆。`mangler` 在这里是名词复数，不是动词缺少的现在时。"
+        },
+        {
+            "id": "U03-C009",
+            "zh": "洗手池上有一道裂缝，一只抽屉关不上，还有一扇窗户漏风。",
+            "grammar": "存在句 `Der var` 引出三个并列名词短语。后两项分别由关系从句 `der ikke kunne lukkes` 和 `der trak` 修饰。`kunne lukkes` 是情态动词加 s-被动，表示抽屉无法被关上。",
+            "vocabulary": [
+                {
+                    "da": "en revne",
+                    "zh": "裂缝、裂纹",
+                    "note": "常用于墙壁、玻璃和洗手池。"
+                },
+                {
+                    "da": "en vask",
+                    "zh": "水槽、洗手池",
+                    "note": "可指厨房或浴室的水池。"
+                },
+                {
+                    "da": "en skuffe",
+                    "zh": "抽屉",
+                    "note": "复数 `skuffer`。"
+                },
+                {
+                    "da": "et vindue, der trækker",
+                    "zh": "漏风的窗户",
+                    "note": "`trække` 在房屋语境中可表示有穿堂风或冷风渗入。"
+                }
+            ],
+            "nuance": "三个缺陷代表不同类型的问题：表面损坏、功能故障和隔热密封问题。`vinduet trækker` 非常值得掌握，租房报修时比单纯说 `vinduet er dårligt` 精确得多。",
+            "transfer": [
+                "Der er en revne i vasken.",
+                "Skuffen kan ikke lukkes.",
+                "Det trækker fra vinduet."
+            ],
+            "pitfall": "`trække` 通常有拉的意思，但 `det trækker` 或 `vinduet trækker` 在居住语境中指漏风，不是窗户在拉什么东西。"
+        },
+        {
+            "id": "U03-C010",
+            "zh": "如果租客想保留日后就入住时已有缺陷提出异议或主张权利的资格，就应当最迟在租赁关系开始后的两周内将这些问题告知房东。",
+            "grammar": "主句骨架为 `Fejl og mangler … skal meddeles udlejeren`，采用情态动词加 s-被动。`senest to uger efter …` 限定期限。`hvis lejeren vil bevare retten til at gøre dem gældende` 是条件从句，`dem` 回指入住时存在的缺陷。",
+            "vocabulary": [
+                {
+                    "da": "ved indflytningen",
+                    "zh": "入住时",
+                    "note": "可用于交接、房屋检查和现有状况记录。"
+                },
+                {
+                    "da": "meddele nogen noget",
+                    "zh": "通知某人某事",
+                    "note": "较正式；原句使用被动形式 `meddeles udlejeren`。"
+                },
+                {
+                    "da": "senest",
+                    "zh": "最迟、不晚于",
+                    "note": "与 `tidligst` 最早相对。"
+                },
+                {
+                    "da": "et lejeforhold",
+                    "zh": "租赁关系",
+                    "note": "法律和合同语体。"
+                },
+                {
+                    "da": "gøre noget gældende",
+                    "zh": "主张某项权利、提出某种依据",
+                    "note": "C1 法律及行政丹麦语的重要固定搭配。"
+                }
+            ],
+            "nuance": "这是全文法律语体最浓的一句。`gøre dem gældende` 不是简单报告问题，而是保留日后依据这些问题提出主张的可能性。文章概括的是通常的通知规则，实际租赁法律可能涉及特定例外和不同的责任安排，不应把这一句当作完整法律意见。",
+            "transfer": [
+                "Fejl og mangler skal meddeles udlejeren hurtigst muligt.",
+                "Fristen er senest to uger efter indflytningen.",
+                "Jeg ønsker at gøre mine rettigheder gældende."
+            ],
+            "pitfall": "`meddele` 的语体比 `fortælle` 正式。`gøre gældende` 是整体法律搭配，不能按字面译为使某物有效。"
+        },
+        {
+            "id": "U03-C011",
+            "zh": "娜迪娅还给所有房间拍了照片。",
+            "grammar": "`tage billeder af` 是拍摄某物的固定搭配。`også` 补充上一句记录缺陷之外的另一项行动。",
+            "vocabulary": [
+                {
+                    "da": "tage billeder af",
+                    "zh": "给……拍照",
+                    "note": "通常使用介词 `af`。"
+                },
+                {
+                    "da": "et rum",
+                    "zh": "房间、空间",
+                    "note": "复数 `rum`，单复数同形。"
+                }
+            ],
+            "nuance": "短句突出她做了额外的证据保存工作。`også` 暗示除了书面记录之外，还进行了拍照。",
+            "transfer": [
+                "Jeg tog billeder af alle rum.",
+                "Husk at tage billeder af skaderne."
+            ],
+            "pitfall": "`tage billeder af noget` 中使用 `af`，不要按英语直译成 `tage billeder på noget`。"
+        },
+        {
+            "id": "U03-C012",
+            "zh": "这是一位女性朋友给她的建议：如果我是你，我会把所有东西都拍下来——连床底下的地板也不放过。",
+            "grammar": "`Det havde en veninde rådet hende til` 使用过去完成时，表示建议发生在娜迪娅拍照之前。`råde nogen til noget` 中介词 `til` 留在句末。引语使用假设结构 `Hvis jeg var dig, ville jeg …`，现在的非现实假设配合 `ville + 不定式` 给出建议。",
+            "vocabulary": [
+                {
+                    "da": "råde nogen til",
+                    "zh": "建议某人做某事",
+                    "note": "不规则变化：`råder – rådede – har rådet`。"
+                },
+                {
+                    "da": "Hvis jeg var dig",
+                    "zh": "如果我是你",
+                    "note": "常用温和建议句型。"
+                },
+                {
+                    "da": "tage billeder af alt",
+                    "zh": "把所有东西拍照留证",
+                    "note": "强调拍摄范围完整。"
+                },
+                {
+                    "da": "gulvet under sengen",
+                    "zh": "床底下的地板",
+                    "note": "强调容易遗漏的角落。"
+                }
+            ],
+            "nuance": "`Hvis jeg var dig` 比直接命令对方必须拍照更柔和，却仍能给出非常明确的建议。床底地板这个细节带一点幽默，也强调搬入时要保存隐蔽部位的现状证据。",
+            "transfer": [
+                "Hvis jeg var dig, ville jeg læse kontrakten grundigt.",
+                "En ven rådede mig til at tage billeder.",
+                "Det havde min kollega allerede rådet mig til."
+            ],
+            "pitfall": "`råde nogen til at gøre noget` 与 `give nogen et råd` 是两种不同结构。假设句应使用 `Hvis jeg var dig, ville jeg …`，不能照搬英语的 `would` 到条件从句中。"
+        },
+        {
+            "id": "U03-C013",
+            "zh": "至于搬家本身，她靠两位朋友、一辆借来的拖车和一箱啤酒就搞定了。",
+            "grammar": "`Selve flytningen` 是前置宾语，强调搬家这件事本身，因此主句采用 `klarede hun` 的 V2 语序。`med` 引出完成任务所借助的人力和物品。`en lånt trailer` 中 `lånt` 是过去分词作定语。",
+            "vocabulary": [
+                {
+                    "da": "selve",
+                    "zh": "……本身、正是……",
+                    "note": "用于强调所讨论的核心事物。"
+                },
+                {
+                    "da": "klare noget",
+                    "zh": "完成、应付、搞定某事",
+                    "note": "日常口语和职场都很实用。"
+                },
+                {
+                    "da": "en trailer",
+                    "zh": "拖车、汽车挂车",
+                    "note": "丹麦搬家和运输家具时常见。"
+                },
+                {
+                    "da": "lånt",
+                    "zh": "借来的",
+                    "note": "来自动词 `låne`。"
+                }
+            ],
+            "nuance": "作者用 `en kasse øl` 轻松暗示朋友可能通过啤酒获得感谢，但没有明确说这是一种正式报酬。`klarede hun` 强调娜迪娅依靠简单的资源完成了搬家，表现出一种务实的生活方式。",
+            "transfer": [
+                "Selve flytningen klarede vi på én dag.",
+                "Jeg klarede det med hjælp fra to venner.",
+                "Vi lånte en trailer til flytningen."
+            ],
+            "pitfall": "`klare` 不只是清楚的意思；作为动词可以表示处理或完成。`selve` 通常与定指名词搭配，如 `selve flytningen`。"
+        },
+        {
+            "id": "U03-C014",
+            "zh": "之后，她还需要向市政府申报地址变更；按照这里介绍的规定，必须最迟在实际搬入后五天内完成登记。",
+            "grammar": "`Bagefter` 前置后采用 `skulle hun` 的倒装语序。`melde flytning til kommunen` 是行政固定搭配。后半句 `det skal ske …` 中 `det` 回指搬家登记。`efter, at man er flyttet ind` 使用时间从句和完成时，强调搬入已经完成。",
+            "vocabulary": [
+                {
+                    "da": "melde flytning",
+                    "zh": "申报搬家、登记地址变更",
+                    "note": "丹麦公共行政常用表达。"
+                },
+                {
+                    "da": "en kommune",
+                    "zh": "市镇、市政府",
+                    "note": "负责居民登记等地方公共事务。"
+                },
+                {
+                    "da": "senest fem dage efter",
+                    "zh": "最迟在……后的五天内",
+                    "note": "用于行政期限。"
+                },
+                {
+                    "da": "flytte ind",
+                    "zh": "搬入、入住",
+                    "note": "与 `flytte ud` 搬出相对。"
+                }
+            ],
+            "nuance": "这一句从实际搬运家具转向行政手续，说明在丹麦生活，完成物理搬家不等于所有迁居事项已经完成。`melde flytning` 是办理住址变更时非常值得主动掌握的表达。",
+            "transfer": [
+                "Jeg skal melde flytning til kommunen.",
+                "Det skal ske senest fem dage efter indflytningen.",
+                "Jeg er lige flyttet ind i en ny lejlighed."
+            ],
+            "pitfall": "`melde flytning` 与 `flytte` 不同：前者是向相关机构申报，后者是实际搬迁。具体登记期限以适用的现行行政规定为准。"
+        },
+        {
+            "id": "U03-C015",
+            "zh": "不过书桌是另一回事：它送来时是一包扁平包装的零件，还附了一小袋工具，娜迪娅整整花了一个星期天才把它组装起来。",
+            "grammar": "`derimod` 与前面相对顺利的搬家形成对比。`det tog en hel søndag at skrue det sammen` 使用耗时句型。`skrue sammen` 是动词小品词结构，表示通过螺丝固定把物件组装起来。",
+            "vocabulary": [
+                {
+                    "da": "derimod",
+                    "zh": "相比之下、却",
+                    "note": "用于鲜明对比。"
+                },
+                {
+                    "da": "en flad pakke",
+                    "zh": "扁平包装",
+                    "note": "常见于需要自行组装的家具。"
+                },
+                {
+                    "da": "værktøj",
+                    "zh": "工具",
+                    "note": "集合性用法常见；`et stykke værktøj` 可指一件工具。"
+                },
+                {
+                    "da": "skrue sammen",
+                    "zh": "用螺丝组装",
+                    "note": "适用于桌子、书架和其他家具。"
+                },
+                {
+                    "da": "en hel søndag",
+                    "zh": "整整一个星期天",
+                    "note": "`hel` 强调耗费整段时间。"
+                }
+            ],
+            "nuance": "作者制造反差：看似庞大的搬家在朋友帮助下完成了，一张书桌反而耗掉整天。`derimod` 很适合这种出乎意料的对比。`flad pakke` 让读者自然联想到北欧常见的自组装家具。",
+            "transfer": [
+                "Skrivebordet kom i en flad pakke.",
+                "Det tog mig en hel dag at skrue det sammen.",
+                "Flytningen gik hurtigt. Samlingen tog derimod lang tid."
+            ],
+            "pitfall": "`skrue sammen` 不是把螺丝简单放在一起，而是完成组装。`derimod` 与 `derfor` 不同，前者表达对比，后者表示因果。"
+        },
+        {
+            "id": "U03-C016",
+            "zh": "你能把螺丝刀递给我吗？",
+            "grammar": "`Kan du + 不定式` 是自然的请求结构。`lange nogen noget` 可以接两个宾语：接受者 `mig` 和物品 `skruetrækkeren`。",
+            "vocabulary": [
+                {
+                    "da": "lange nogen noget",
+                    "zh": "把某物递给某人",
+                    "note": "常用于两个人在近距离工作或吃饭时递东西。"
+                },
+                {
+                    "da": "en skruetrækker",
+                    "zh": "螺丝刀",
+                    "note": "复合词 `skrue` 螺丝 + `trækker`。"
+                }
+            ],
+            "nuance": "`lange` 比一般的 `give` 更强调伸手把附近的东西递过去，很适合两个人一起组装家具的情境。",
+            "transfer": [
+                "Kan du lange mig skruetrækkeren?",
+                "Vil du lige lange mig saltet?"
+            ],
+            "pitfall": "`lange` 作为动词表示递过来，不要与形容词 `lang` 的长混淆。"
+        },
+        {
+            "id": "U03-C017",
+            "zh": "小的那把，还是大的那把？",
+            "grammar": "`Den lille eller den store?` 使用指示代词 `den` 加形容词定指形式，省略名词 `skruetrækker`。两个形容词都带 -e 结尾。",
+            "vocabulary": [
+                {
+                    "da": "den lille",
+                    "zh": "小的那个",
+                    "note": "代替上文已知的通性名词。"
+                },
+                {
+                    "da": "den store",
+                    "zh": "大的那个",
+                    "note": "日常物品选择中常见。"
+                }
+            ],
+            "nuance": "口语中只需说两种选项，无须重复螺丝刀这个词。这是一种自然的省略式澄清问句。",
+            "transfer": [
+                "Den lille eller den store?",
+                "Vil du have den røde eller den blå?"
+            ],
+            "pitfall": "如果指代中性名词，通常需要 `det`，如 `det lille`。形容词定指形式必须保留 -e。"
+        },
+        {
+            "id": "U03-C018",
+            "zh": "十字头的那把。……哎呀，怎么还剩下两颗螺丝？",
+            "grammar": "`Den med stjerne` 使用指示代词和介词短语识别工具。`Der er to skruer tilovers` 是存在句，`tilovers` 表示某项操作完成后还剩下。",
+            "vocabulary": [
+                {
+                    "da": "en stjerneskruetrækker",
+                    "zh": "十字螺丝刀",
+                    "note": "口语 `den med stjerne` 指带星形或十字形刀头的那把。"
+                },
+                {
+                    "da": "hov",
+                    "zh": "哎呀、咦",
+                    "note": "突然发现意外情况时使用。"
+                },
+                {
+                    "da": "en skrue",
+                    "zh": "螺丝",
+                    "note": "复数 `skruer`。"
+                },
+                {
+                    "da": "tilovers",
+                    "zh": "剩下、多出来",
+                    "note": "常见结构 `der er noget tilovers`。"
+                }
+            ],
+            "nuance": "`Hov` 表现娜迪娅突然发现组装结果有问题。`to skruer tilovers` 让故事从普通家具组装转入轻微喜剧场景：家具虽然装好了，却不确定是否完全正确。",
+            "transfer": [
+                "Den med stjerne, tak.",
+                "Hov, der er to skruer tilovers.",
+                "Der er stadig lidt mad tilovers."
+            ],
+            "pitfall": "`tilovers` 是一个词，常用于做完某事后有多余部分。`stjerne` 字面是星星，在工具口语里可描述十字头或星形头，实际工具型号仍需辨认。"
+        },
+        {
+            "id": "U03-C019",
+            "zh": "这种事经常发生啦。估计没什么关系。",
+            "grammar": "`Det plejer der at være` 是回指前句多余螺丝的省略式表达，`pleje at` 表示通常会发生。`Det er sikkert lige meget` 中 `sikkert` 表示推测的可能性，`lige meget` 表示无关紧要。",
+            "vocabulary": [
+                {
+                    "da": "pleje at",
+                    "zh": "通常会、习惯于",
+                    "note": "例如 `Det plejer at gå godt`。"
+                },
+                {
+                    "da": "sikkert",
+                    "zh": "大概、很可能",
+                    "note": "这里是推测，不是安全的。"
+                },
+                {
+                    "da": "være lige meget",
+                    "zh": "没关系、无所谓",
+                    "note": "可用于影响不大的事情。"
+                }
+            ],
+            "nuance": "萨拉的回答显得非常轻松，甚至可能过于随意。`sikkert` 不是有证据证明安全，而是她凭直觉认为不要紧。后文书架的例子马上质疑了这种乐观态度。",
+            "transfer": [
+                "Det plejer der at være.",
+                "Det er sikkert lige meget.",
+                "Det plejer at gå fint."
+            ],
+            "pitfall": "`sikkert` 既可能表示安全、可靠，也可作副词表示大概。`lige meget` 不是数量完全相等，而是某事无关紧要。"
+        },
+        {
+            "id": "U03-C020",
+            "zh": "你上次装书架时也是这么说的。那书架现在简直一碰就要倒，光看它一眼都像会倒下来。",
+            "grammar": "`Det sagde du også om reolen` 将宾语 `det` 前置，形成 `sagde du` 的倒装。`Den vælter, hvis man kigger på den` 使用条件从句，表面上描述只要看一眼就会倒，实际构成夸张。",
+            "vocabulary": [
+                {
+                    "da": "en reol",
+                    "zh": "书架、置物架",
+                    "note": "复数 `reoler`。"
+                },
+                {
+                    "da": "vælte",
+                    "zh": "倒下、倾倒",
+                    "note": "也可表示把某物弄倒。"
+                },
+                {
+                    "da": "kigge på",
+                    "zh": "看着、看一眼",
+                    "note": "固定介词 `på`。"
+                }
+            ],
+            "nuance": "娜迪娅用夸张的方式反驳萨拉的轻率判断。`hvis man kigger på den` 显然不是字面上的因果，而是强调书架极不稳固。两个人熟悉的互动使这种调侃显得自然。",
+            "transfer": [
+                "Det sagde du også sidste gang.",
+                "Reolen vælter næsten, hvis man rører ved den.",
+                "Det holder jo slet ikke."
+            ],
+            "pitfall": "`vælte` 是倒下或倾倒，与 `falde` 的一般掉落不同。不要将夸张句误认为书架真的会因目光而倒下。"
+        },
+        {
+            "id": "U03-C021",
+            "zh": "好吧，这点你说得对。不过它毕竟还立在那儿嘛。",
+            "grammar": "`det har du ret i` 是固定赞同结构，其中 `i` 保留在句末。`den står jo stadig` 中 `jo` 提醒双方都知道的事实，`stadig` 表示状态仍然持续。",
+            "vocabulary": [
+                {
+                    "da": "have ret i noget",
+                    "zh": "在某件事上说得对",
+                    "note": "固定介词 `i`。"
+                },
+                {
+                    "da": "stå stadig",
+                    "zh": "仍然站着、仍然立着",
+                    "note": "这里强调书架没有真正倒下。"
+                },
+                {
+                    "da": "jo",
+                    "zh": "毕竟、你也知道",
+                    "note": "通过共同事实支持说话人的观点。"
+                }
+            ],
+            "nuance": "萨拉先承认娜迪娅的批评，再用 `jo stadig` 轻松地为自己辩护。她的逻辑并不特别有力，幽默就在于把书架尚未倒下当作足够的成功证据。",
+            "transfer": [
+                "Det har du ret i.",
+                "Men det virker jo stadig.",
+                "Det har du ret i, men …"
+            ],
+            "pitfall": "`have ret i` 中的 `ret` 表示正确，不是法律上的一项权利 `en ret`。句末介词 `i` 不能遗漏。"
+        },
+        {
+            "id": "U03-C022",
+            "zh": "从经济角度来看，买房、租房和购买合作住房份额，这三种居住方式有很大的区别。",
+            "grammar": "`Økonomisk` 作句首视角状语，后面的主句采用 `er der` 倒装。`stor forskel på` 引出比较对象，三个并列的 `at + 不定式` 结构充当名词性成分。",
+            "vocabulary": [
+                {
+                    "da": "økonomisk",
+                    "zh": "从经济角度、经济上的",
+                    "note": "句首可作评价整个句子的副词。"
+                },
+                {
+                    "da": "stor forskel på",
+                    "zh": "……之间有很大区别",
+                    "note": "常用比较结构。"
+                },
+                {
+                    "da": "eje",
+                    "zh": "拥有所有权",
+                    "note": "与 `leje` 租用形成对比。"
+                },
+                {
+                    "da": "bo i andel",
+                    "zh": "居住在合作住房中",
+                    "note": "指通过持有住房合作社份额取得居住权的模式。"
+                }
+            ],
+            "nuance": "作者用 `Økonomisk` 精确限定讨论角度，提醒读者接下来比较的是财务和权利责任，而不是居住舒适程度。`andel` 是理解丹麦住房市场的关键词。",
+            "transfer": [
+                "Økonomisk er der stor forskel på de to løsninger.",
+                "Der er stor forskel på at eje og at leje.",
+                "Vi overvejer at købe en andelsbolig."
+            ],
+            "pitfall": "`andel` 的普通意思是份额，不是普通产权房。`bo i andel` 的法律与经济结构不同于直接拥有一套 `ejerlejlighed`。"
+        },
+        {
+            "id": "U03-C023",
+            "zh": "大多数买房者会通过住房抵押贷款机构借入最高可达房价百分之八十的资金，其余部分则需要来自个人储蓄和银行贷款。",
+            "grammar": "`De fleste, der køber` 是由名词化数量表达和关系从句构成的主语。`låner op til 80 procent … i et realkreditinstitut` 说明贷款比例和机构。`mens` 引出对照，`resten` 指剩余购房资金。`skal komme fra` 表示资金来源必须满足要求。",
+            "vocabulary": [
+                {
+                    "da": "op til",
+                    "zh": "最高可达、不超过",
+                    "note": "表示上限，不代表人人都能获得最高额度。"
+                },
+                {
+                    "da": "et realkreditinstitut",
+                    "zh": "抵押贷款机构",
+                    "note": "丹麦住房融资体系中的专门机构。"
+                },
+                {
+                    "da": "en opsparing",
+                    "zh": "储蓄、积蓄",
+                    "note": "可指个人存款或储蓄资金。"
+                },
+                {
+                    "da": "et banklån",
+                    "zh": "银行贷款",
+                    "note": "与 `realkreditlån` 抵押贷款区分。"
+                },
+                {
+                    "da": "resten",
+                    "zh": "剩余部分",
+                    "note": "回指前面数量之外的部分。"
+                }
+            ],
+            "nuance": "这句话介绍丹麦常见的房屋融资结构。关键是 `op til`：它说明一个可能的融资上限，而不是所有借款人的保证额度。作者将资金来源拆成抵押贷款、储蓄和银行贷款，方便理解购房时需要准备的不同资金部分。",
+            "transfer": [
+                "Man kan låne op til 80 procent af prisen.",
+                "Resten skal komme fra egen opsparing.",
+                "Vi finansierer boligen med realkreditlån og banklån."
+            ],
+            "pitfall": "`realkreditinstitut` 不是普通银行的同义词。80% 是文章描述的常见融资比例，实际贷款资格取决于房产类型、信用评估及适用规则。"
+        },
+        {
+            "id": "U03-C024",
+            "zh": "自有产权的住房原则上想卖的时候就可以卖，但相应地，如果屋顶需要更换，费用也得由业主自己承担。",
+            "grammar": "`En ejerbolig kan man sælge` 将宾语前置，随后采用 `kan man` 的 V2 语序。`når man vil` 表示自己希望出售的时候。`til gengæld` 引出相应代价，`når taget skal skiftes` 使用情态动词加 s-被动。",
+            "vocabulary": [
+                {
+                    "da": "en ejerbolig",
+                    "zh": "产权住房、自有住房",
+                    "note": "业主拥有相应房地产所有权。"
+                },
+                {
+                    "da": "til gengæld",
+                    "zh": "作为交换、另一方面、但相应地",
+                    "note": "经常用于权利与成本的对比。"
+                },
+                {
+                    "da": "skifte taget",
+                    "zh": "更换屋顶",
+                    "note": "`skifte` 表示更换。"
+                },
+                {
+                    "da": "betale selv",
+                    "zh": "自己承担费用",
+                    "note": "`selv` 强调责任归属。"
+                }
+            ],
+            "nuance": "作者通过 `til gengæld` 强调产权住房的核心交换关系：拥有更大的处分自由，也承担维护责任。这里讨论的是一般原则；具体交易限制及共有建筑维修费用分摊仍可能受到法律和业主协会制度约束。",
+            "transfer": [
+                "En ejerbolig kan man sælge, når man vil.",
+                "Til gengæld skal man selv betale for vedligeholdelsen.",
+                "Det giver mere frihed, men også mere ansvar."
+            ],
+            "pitfall": "`til gengæld` 不是简单表示相反，而是强调某种优势伴随着相应成本或补偿。`skiftes` 是被动形式，不是 `skiftes til` 的轮流。"
+        },
+        {
+            "id": "U03-C025",
+            "zh": "合作住房在哥本哈根尤其普遍。",
+            "grammar": "`er udbredt` 是形容词性过去分词表语，表示某种现象分布广泛。`især` 用于突出哥本哈根。",
+            "vocabulary": [
+                {
+                    "da": "en andelsbolig",
+                    "zh": "合作住房、住房合作社份额住房",
+                    "note": "丹麦特有的常见住房形式之一。"
+                },
+                {
+                    "da": "udbredt",
+                    "zh": "普遍的、分布广泛的",
+                    "note": "可用于习惯、技术和社会现象。"
+                },
+                {
+                    "da": "især",
+                    "zh": "尤其、特别是",
+                    "note": "强调某个对象或范围。"
+                }
+            ],
+            "nuance": "非常简洁的市场分布描述。`især` 表示相较于其他地区，哥本哈根在这个话题中更突出，并不意味着其他城市不存在合作住房。",
+            "transfer": [
+                "Andelsboliger er især udbredt i København.",
+                "Denne boligtype er meget udbredt i storbyerne."
+            ],
+            "pitfall": "`udbredt` 不是具体房屋面积大，而是这种住房类型普遍。"
+        },
+        {
+            "id": "U03-C026",
+            "zh": "购买合作住房时，买下的并不是公寓本身的独立产权，而是拥有整栋物业的合作社中的一份份额；而且这份份额也不能按完全自由的市场价格出售。",
+            "grammar": "`I en andelsbolig` 前置后采用 `køber man` 的 V2 语序。`ikke … men …` 对比真正购买的对象。`der ejer hele ejendommen` 是修饰 `forening` 的关系从句。`andelen kan ikke sælges` 使用情态动词加 s-被动，说明转让价格受限制。",
+            "vocabulary": [
+                {
+                    "da": "selve lejligheden",
+                    "zh": "公寓本身",
+                    "note": "`selve` 强调直接所有权对象。"
+                },
+                {
+                    "da": "en andel i en forening",
+                    "zh": "协会或合作社中的份额",
+                    "note": "与通过份额取得的居住权相关。"
+                },
+                {
+                    "da": "en forening",
+                    "zh": "协会、社团、合作组织",
+                    "note": "此处指 `andelsboligforening`。"
+                },
+                {
+                    "da": "en fri pris",
+                    "zh": "自由市场定价",
+                    "note": "这里强调合作住房交易价格可能受到制度约束。"
+                },
+                {
+                    "da": "sælge",
+                    "zh": "出售",
+                    "note": "不规则变化：`sælger – solgte – har solgt`。"
+                }
+            ],
+            "nuance": "这是理解合作住房最核心的一句。`ikke selve lejligheden, men en andel` 强调法律对象的不同：购买的是组织份额以及附带的居住权，而不是与普通产权公寓完全相同的所有权。价格限制也构成这种制度与自由市场住宅的重要差异。",
+            "transfer": [
+                "Man køber ikke selve lejligheden, men en andel.",
+                "Foreningen ejer hele ejendommen.",
+                "Andelen kan ikke sælges til en helt fri pris."
+            ],
+            "pitfall": "`andelsbolig` 不是便宜版的 `ejerbolig`。购买前需要理解合作社负债、章程、定价规则及每月住房费用，不能只比较表面购买价格。"
+        },
+        {
+            "id": "U03-C027",
+            "zh": "最后，还有丹麦的非营利性公共住宅体系：这类住房收取的租金用于覆盖相关支出，而不是为某位房产所有者创造利润。",
+            "grammar": "`Endelig` 作为篇章连接副词，表示列举的最后一类。`der er` 是存在句。`hvor huslejen skal dække …` 是修饰 `almene boliger` 的关系从句。`men ikke give overskud` 省略第二次出现的 `skal`，形成对称对比。",
+            "vocabulary": [
+                {
+                    "da": "en almen bolig",
+                    "zh": "非营利性公共住宅、社会住房",
+                    "note": "丹麦 `almen bolig` 有特定制度含义，不只是普通住房。"
+                },
+                {
+                    "da": "dække udgifterne",
+                    "zh": "覆盖支出、支付成本",
+                    "note": "常用于预算和财务。"
+                },
+                {
+                    "da": "give overskud",
+                    "zh": "产生盈余或利润",
+                    "note": "`et overskud` 与亏损 `et underskud` 相对。"
+                },
+                {
+                    "da": "endelig",
+                    "zh": "最后、最终",
+                    "note": "这里用于结束分类列举。"
+                }
+            ],
+            "nuance": "`almene boliger` 体现丹麦住房体系中与私人出租不同的一种组织原则。作者将核心逻辑概括为覆盖成本而非让私人业主获利。这里是制度层面的说明，并不意味着每一年的具体租金、成本或账目都完全不变。",
+            "transfer": [
+                "Endelig er der de almene boliger.",
+                "Huslejen skal dække udgifterne.",
+                "Formålet er ikke at give overskud til en privat ejer."
+            ],
+            "pitfall": "`almen` 不是英语 `alms` 的慈善施舍，也不能简单理解为只向最低收入者开放的住房。`overskud` 在财务中是盈余，不是多余空间。"
+        },
+        {
+            "id": "U03-C028",
+            "zh": "这类住房由公益性的住房组织运营，丹麦人大约每六个人中就有一个住在这样的住宅里。",
+            "grammar": "`De drives af …` 是 s-被动，`De` 回指前句的公共住宅。`omkring hver sjette dansker` 使用序数词 `sjette` 表达比例，相当于大约六分之一。两个分句由 `og` 连接。",
+            "vocabulary": [
+                {
+                    "da": "drive",
+                    "zh": "经营、运营",
+                    "note": "不规则变化：`driver – drev – har drevet`。"
+                },
+                {
+                    "da": "almennyttig",
+                    "zh": "公益性的、以公共利益为目的的",
+                    "note": "用于住房组织及非营利事业。"
+                },
+                {
+                    "da": "en boligforening",
+                    "zh": "住房协会、住房组织",
+                    "note": "具体组织形式需要结合制度背景。"
+                },
+                {
+                    "da": "hver sjette",
+                    "zh": "每六个中的一个",
+                    "note": "常用于人口比例统计。"
+                }
+            ],
+            "nuance": "`hver sjette dansker` 比抽象的百分数更直观，适合公众传播。这里的比例是文章给出的概括，不应在未经核实的情况下视作最新官方统计。",
+            "transfer": [
+                "Boligerne drives af almennyttige boligforeninger.",
+                "Omkring hver sjette bor i denne boligtype.",
+                "Organisationen drives uden privat profitformål."
+            ],
+            "pitfall": "`hver sjette` 不是第六个人这个特定个体，而是统计上大约每六人有一人。`drive` 在这里是运营，不是驾驶。"
+        },
+        {
+            "id": "U03-C029",
+            "zh": "作为私人房东的租客，娜迪娅受到相当充分的法律保护：房东不能仅仅因为更想换一个租客，就随随便便解除她的租约。",
+            "grammar": "`Som privat lejer` 引出身份状语。`er Nadia godt beskyttet` 表示处于受保护的状态。冒号后 `Udlejeren kan ikke bare opsige hende` 使用情态动词和否定；`fordi han hellere vil have en ny lejer` 是原因从句，`hellere` 表示更愿意。",
+            "vocabulary": [
+                {
+                    "da": "en privat lejer",
+                    "zh": "私人租赁市场中的租客",
+                    "note": "与某些其他租赁类别区分。"
+                },
+                {
+                    "da": "være godt beskyttet",
+                    "zh": "受到较充分的保护",
+                    "note": "常用于法律、消费者和雇员权益。"
+                },
+                {
+                    "da": "opsige",
+                    "zh": "终止、解除合同或通知解约",
+                    "note": "可用于租约和雇佣关系。"
+                },
+                {
+                    "da": "ikke bare",
+                    "zh": "不能随随便便、不能仅仅",
+                    "note": "带有对任意行为的限制。"
+                },
+                {
+                    "da": "hellere ville",
+                    "zh": "宁愿、更想要",
+                    "note": "比较性的个人偏好表达。"
+                }
+            ],
+            "nuance": "`ikke bare` 是本句重点。作者没有说房东永远不能终止租约，而是强调房东没有毫无限制的自由。`hellere vil have en ny lejer` 被作为单纯个人偏好，说明这样的偏好不能直接等同于合法解约理由。",
+            "transfer": [
+                "Udlejeren kan ikke bare opsige lejemålet.",
+                "Som lejer er man beskyttet af lovgivningen.",
+                "Han vil hellere have en anden løsning."
+            ],
+            "pitfall": "`opsige` 不是简单地说再见，而是具有合同效力的通知终止。租客受到保护不意味着绝不存在合法的解约或终止情形。"
+        },
+        {
+            "id": "U03-C030",
+            "zh": "至于谁负责粉刷墙壁、打磨地板，要看租赁合同如何规定；但屋顶、外墙和管道则属于房东的责任范围。",
+            "grammar": "`Hvem der skal male og slibe gulve` 是充当主语的间接疑问从句，内部使用 `hvem der` 的从句结构。`afhænger af kontrakten` 说明决定因素。`men` 后以 `tag, facade og rør` 为并列主语，`udlejerens ansvar` 为所有格名词性表语。",
+            "vocabulary": [
+                {
+                    "da": "afhænge af",
+                    "zh": "取决于",
+                    "note": "固定介词 `af`。"
+                },
+                {
+                    "da": "male",
+                    "zh": "刷漆、粉刷",
+                    "note": "房屋语境中常指涂刷墙面。"
+                },
+                {
+                    "da": "slibe gulve",
+                    "zh": "打磨地板",
+                    "note": "尤其涉及木地板修整。"
+                },
+                {
+                    "da": "en facade",
+                    "zh": "建筑外立面",
+                    "note": "常见物业维护词汇。"
+                },
+                {
+                    "da": "være nogens ansvar",
+                    "zh": "属于某人的责任",
+                    "note": "如 `Det er udlejerens ansvar`。"
+                }
+            ],
+            "nuance": "本句将租赁维护责任分成合同可能规定的室内维护和建筑结构设施维护。`afhænger af` 是准确表达法律条件差异的高价值结构。实际责任仍需结合租赁类型、合同有效条款及适用法律判断。",
+            "transfer": [
+                "Hvem der skal betale, afhænger af kontrakten.",
+                "Det er udlejerens ansvar at vedligeholde taget.",
+                "Det afhænger af, hvad der står i lejekontrakten."
+            ],
+            "pitfall": "间接问句 `Hvem der skal …` 不能误写为直接疑问句 `Hvem skal …?` 后直接充当主语。`slibe gulve` 是打磨地板，不是清洗地板。"
+        },
+        {
+            "id": "U03-C031",
+            "zh": "搬出时会安排一次退租房屋检查，房东检查公寓时，租客有权在场。",
+            "grammar": "`Ved fraflytning` 前置说明时间。`holdes der et flyttesyn` 为带形式主语 `der` 的 s-被动存在结构。`have ret til at + 不定式` 表示享有某项权利。`når udlejeren gennemgår lejligheden` 是时间从句。",
+            "vocabulary": [
+                {
+                    "da": "ved fraflytning",
+                    "zh": "退租搬出时",
+                    "note": "与 `ved indflytning` 相对。"
+                },
+                {
+                    "da": "et flyttesyn",
+                    "zh": "搬出检查、退租验房",
+                    "note": "租赁交接中的专业词汇。"
+                },
+                {
+                    "da": "have ret til at",
+                    "zh": "有权做某事",
+                    "note": "法律、行政和日常权益表达中常见。"
+                },
+                {
+                    "da": "være til stede",
+                    "zh": "在场、出席",
+                    "note": "相对正式的表达。"
+                },
+                {
+                    "da": "gennemgå",
+                    "zh": "逐项检查、审阅",
+                    "note": "适用于房屋、报告、合同。"
+                }
+            ],
+            "nuance": "这一句既教会租客相关的租赁词汇，也突出参与验房的重要性。`gennemgå` 表示逐项查看和检查，比普通的 `se på` 更系统。",
+            "transfer": [
+                "Der holdes et flyttesyn ved fraflytning.",
+                "Lejeren har ret til at være til stede.",
+                "Vi gennemgår lejligheden sammen."
+            ],
+            "pitfall": "`flyttesyn` 不是视力检查，而是住房搬迁时的验房程序。实际验房程序和房东义务可能因租赁类别及法律条件而有所不同。"
+        },
+        {
+            "id": "U03-C032",
+            "zh": "住在公寓楼里，也意味着要与邻居共用楼梯、庭院，而且往往还要共用地下洗衣房。",
+            "grammar": "`At bo i en lejlighed` 是不定式短语作主语。`betyder også, at …` 引出这一居住形式的结果。`dele X med Y` 是与某人共享某物的固定结构。",
+            "vocabulary": [
+                {
+                    "da": "dele med",
+                    "zh": "与……共享",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "en trappe",
+                    "zh": "楼梯",
+                    "note": "在公寓楼里常指公共楼梯。"
+                },
+                {
+                    "da": "en gård",
+                    "zh": "庭院、内院",
+                    "note": "城市住宅楼中常指公共庭院。"
+                },
+                {
+                    "da": "en vaskekælder",
+                    "zh": "地下公共洗衣房",
+                    "note": "复合词 `vaske` 洗衣 + `kælder` 地下室。"
+                }
+            ],
+            "nuance": "作者从个人住房权利转向公共空间责任。`betyder også` 暗示住在公寓并不只关乎私人室内空间，公共生活也属于日常居住的一部分。",
+            "transfer": [
+                "At bo i lejlighed betyder, at man deler faciliteter med naboerne.",
+                "Vi deler vaskekælder med de andre beboere.",
+                "Der er en fælles gård."
+            ],
+            "pitfall": "`dele` 是共享，不一定是数学上的分割。`en kælder` 是地下室，`en vaskekælder` 是通常配备洗衣设备的公共洗衣区域。"
+        },
+        {
+            "id": "U03-C033",
+            "zh": "这就要求你顾及那些并不是自己选择来做邻居的人的感受。",
+            "grammar": "`Det kræver hensyn over for …` 以 `det` 回指共同居住这一情况。`mennesker, man ikke selv har valgt` 中省略了作宾语的关系代词 `som`。`selv` 强调这些人并非由自己亲自选择。",
+            "vocabulary": [
+                {
+                    "da": "kræve hensyn",
+                    "zh": "需要体谅、要求顾及他人",
+                    "note": "描述共同生活中的社会要求。"
+                },
+                {
+                    "da": "hensyn over for",
+                    "zh": "对……的体谅和顾及",
+                    "note": "也常说 `tage hensyn til nogen`。"
+                },
+                {
+                    "da": "vælge",
+                    "zh": "选择",
+                    "note": "不规则变化：`vælger – valgte – har valgt`。"
+                }
+            ],
+            "nuance": "这是一句富有社会观察意味的概括。朋友和伴侣通常由自己选择，邻居却不一定，因此共同居住尤其需要对彼此生活方式保持适度尊重。",
+            "transfer": [
+                "Det kræver hensyn over for andre.",
+                "Man skal tage hensyn til sine naboer.",
+                "Vi har ikke selv valgt, hvem vi bor ved siden af."
+            ],
+            "pitfall": "`tage hensyn til` 与 `vise hensyn over for` 是两个自然搭配，介词不能机械混用。"
+        },
+        {
+            "id": "U03-C034",
+            "zh": "因此，当娜迪娅打算举办搬家暖房派对时，她提前一周就在楼道里贴了一张通知。",
+            "grammar": "`Da Nadia ville holde indflytterfest` 是时间从句，`ville` 表示当时的计划或意图。主句因时间从句前置而采用 `hængte hun` 的 V2 语序。`derfor` 连接前面邻里体谅的原则与这一实际行动。`en uge i forvejen` 说明提前量。",
+            "vocabulary": [
+                {
+                    "da": "en indflytterfest",
+                    "zh": "搬家暖房聚会、乔迁派对",
+                    "note": "搬入新居后举办的聚会。"
+                },
+                {
+                    "da": "hænge en seddel op",
+                    "zh": "张贴一张通知",
+                    "note": "`hænge op` 为动词小品词搭配。"
+                },
+                {
+                    "da": "en opgang",
+                    "zh": "住宅楼公共楼梯间、一个楼梯单元",
+                    "note": "丹麦公寓建筑中的重要生活词汇。"
+                },
+                {
+                    "da": "i forvejen",
+                    "zh": "提前、事先",
+                    "note": "与时间长度组合，如 `en uge i forvejen`。"
+                }
+            ],
+            "nuance": "贴通知体现的是提前沟通，而不是假定所有邻居都会喜欢派对。`derfor` 表明娜迪娅已开始理解当地公寓居住的社交规范，并主动顾及其他人。",
+            "transfer": [
+                "Jeg hængte en seddel op i opgangen.",
+                "Vi gav naboerne besked en uge i forvejen.",
+                "Vi holder indflytterfest på lørdag."
+            ],
+            "pitfall": "`en opgang` 在这里不是向上的动作，而是住宅楼的公共楼梯间或入口单元。`i forvejen` 不一定表示以前，还常表示提前做好准备。"
+        },
+        {
+            "id": "U03-C035",
+            "zh": "两天后，有人敲响了她的房门。",
+            "grammar": "`To dage senere` 前置时间状语，引出 `bankede det` 的倒装。`det bankede på døren` 使用非人称 `det` 描述敲门声，没有立即揭示敲门者的身份。",
+            "vocabulary": [
+                {
+                    "da": "banke på døren",
+                    "zh": "敲门",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "to dage senere",
+                    "zh": "两天后",
+                    "note": "相对于叙事中的先前事件。"
+                }
+            ],
+            "nuance": "作者先写敲门声，再揭示人物身份，制造自然的叙事悬念。`det bankede på døren` 是讲故事时很有用的表达。",
+            "transfer": [
+                "Pludselig bankede det på døren.",
+                "To dage senere fik hun besøg."
+            ],
+            "pitfall": "`banke på døren` 是敲门，不是到银行 `en bank` 办事。`senere` 表示比参考时间更晚，`siden` 通常有其他时间关系。"
+        },
+        {
+            "id": "U03-C036",
+            "zh": "来人是住在一楼地面层的埃里克，他已经在这栋楼里住了四十多年。",
+            "grammar": "`Det var Erik fra stuen, der …` 是强调结构，突出敲门者的身份。`har boet … i over fyrre år` 使用现在完成时表示从过去持续到现在的居住经历。",
+            "vocabulary": [
+                {
+                    "da": "stuen",
+                    "zh": "地面层、一楼",
+                    "note": "在楼层说明中不是客厅的意思。"
+                },
+                {
+                    "da": "i over fyrre år",
+                    "zh": "超过四十年",
+                    "note": "`over` 表示超过。"
+                },
+                {
+                    "da": "bo i en ejendom",
+                    "zh": "住在一栋楼里",
+                    "note": "区别于拥有整栋楼的意思。"
+                }
+            ],
+            "nuance": "埃里克在楼里住了四十多年，代表经验丰富的老住户。这个信息使后面的对话带有新住户与老邻居互相了解的意味。",
+            "transfer": [
+                "Han bor i stuen.",
+                "Hun har boet i ejendommen i over fyrre år.",
+                "Det var naboen fra stuen, der bankede på."
+            ],
+            "pitfall": "`stuen` 在住房广告或楼层位置中可指地面层；在 `i stuen` 的其他语境里也可能表示客厅，需结合前后文区分。"
+        },
+        {
+            "id": "U03-C037",
+            "zh": "你好，楼道里那张关于周六派对的通知，是你贴的吗？",
+            "grammar": "`er det dig, der …?` 是疑问形式的强调句，重点确认做这件事的人。`har hængt sedlen op` 使用完成时，询问某动作是否已经完成。`på lørdag` 指即将到来的星期六。",
+            "vocabulary": [
+                {
+                    "da": "er det dig, der …?",
+                    "zh": "是不是你……？",
+                    "note": "突出行为执行者。"
+                },
+                {
+                    "da": "hænge noget op",
+                    "zh": "把某物挂起、张贴",
+                    "note": "完成时 `har hængt op`。"
+                },
+                {
+                    "da": "en seddel om festen",
+                    "zh": "关于聚会的通知",
+                    "note": "`om` 引出通知主题。"
+                }
+            ],
+            "nuance": "埃里克先确认通知是谁贴的，而不是直接抱怨噪音。这样的开场为友好邻里交流保留了空间。强调句使问题自然聚焦在娜迪娅身上。",
+            "transfer": [
+                "Er det dig, der har hængt sedlen op?",
+                "Er det dig, der holder fest på lørdag?",
+                "Jeg så din seddel i opgangen."
+            ],
+            "pitfall": "`det er dig, der …` 中的 `der` 引导强调从句，不能省略。"
+        },
+        {
+            "id": "U03-C038",
+            "zh": "是我。不好意思，这有什么问题吗？",
+            "grammar": "`Er det et problem?` 是直接是非疑问句，动词 `er` 位于主语 `det` 前面。`det` 回指聚会或所贴通知。",
+            "vocabulary": [
+                {
+                    "da": "Undskyld",
+                    "zh": "不好意思、抱歉",
+                    "note": "可用于道歉、打断或缓和询问。"
+                },
+                {
+                    "da": "Er det et problem?",
+                    "zh": "这有问题吗？",
+                    "note": "根据语调可以是询问，也可能显得质问。"
+                }
+            ],
+            "nuance": "娜迪娅可能担心自己即将违反邻里规范，因此先道歉，再试探对方是否反对。`Undskyld` 在这里有缓和紧张的作用。",
+            "transfer": [
+                "Undskyld, er det et problem?",
+                "Er der noget, jeg skal være opmærksom på?"
+            ],
+            "pitfall": "`Undskyld` 不总意味着承认已经犯错，也能用于礼貌地开启或缓和对话。"
+        },
+        {
+            "id": "U03-C039",
+            "zh": "哪会啊！谢谢你提前这么久告诉大家。我们也曾经年轻过嘛。",
+            "grammar": "`Nej da` 是带安抚意味的否定回应。`Tak, fordi du …` 使用原因从句解释感谢的缘由。`i god tid` 表示有充足提前量。`Vi har også været unge engang` 使用现在完成时表达过去的人生经历。",
+            "vocabulary": [
+                {
+                    "da": "Nej da",
+                    "zh": "没有啦、哪会呢",
+                    "note": "常用于温和否认、安慰对方。"
+                },
+                {
+                    "da": "i god tid",
+                    "zh": "提前充分时间、及时地",
+                    "note": "比 `på forhånd` 更强调提前量足够。"
+                },
+                {
+                    "da": "engang",
+                    "zh": "曾经、从前",
+                    "note": "这里表示过去某个不确定的时期。"
+                },
+                {
+                    "da": "Tak, fordi …",
+                    "zh": "谢谢你……",
+                    "note": "后接感谢的具体原因。"
+                }
+            ],
+            "nuance": "埃里克使用 `Nej da` 立即消除娜迪娅的担忧。`Vi har også været unge engang` 带着幽默和理解：他知道年轻人会想聚会，因此不打算苛责。这里的 `også` 使老人与年轻人之间建立共同经历。",
+            "transfer": [
+                "Nej da, det er ikke noget problem.",
+                "Tak, fordi du siger det i god tid.",
+                "Vi har jo også været unge engang."
+            ],
+            "pitfall": "`i god tid` 不是在一段很好的时间里，而是提前得足够早。`engang` 在这里是曾经，不是未来某一天。"
+        },
+        {
+            "id": "U03-C040",
+            "zh": "我们一定会在午夜左右把音乐音量调小的。",
+            "grammar": "`skal nok` 是承诺和保证结构，表示说话人愿意确保事情发生。`skrue ned for` 是动词小品词加介词搭配，表示调低音量或强度。`ved midnat` 表示午夜时分。",
+            "vocabulary": [
+                {
+                    "da": "skal nok",
+                    "zh": "一定会、放心吧会……",
+                    "note": "常用于主动保证。"
+                },
+                {
+                    "da": "skrue ned for",
+                    "zh": "调低、减少",
+                    "note": "可用于音乐、暖气、消费等。"
+                },
+                {
+                    "da": "ved midnat",
+                    "zh": "午夜时分",
+                    "note": "时间介词 `ved` 可表示大约那个时点。"
+                }
+            ],
+            "nuance": "`Vi skal nok` 是这句话的核心礼貌策略：娜迪娅主动承诺控制噪音，让邻居安心。`nok` 不是说她大概会做到，而是与 `skal` 一起形成有保证意味的表达。",
+            "transfer": [
+                "Vi skal nok skrue ned for musikken.",
+                "Jeg skal nok give dig besked.",
+                "Kan du skrue lidt ned for lyden?"
+            ],
+            "pitfall": "`skrue ned for` 必须整体掌握，不能漏掉 `for`。`skal nok` 与单独的 `nok` 表示大概不同。"
+        },
+        {
+            "id": "U03-C041",
+            "zh": "听起来挺合理的。要是聚会闹得太厉害，我就直接来敲门好了。",
+            "grammar": "`Det lyder fornuftigt` 是感官动词加形容词表语。`bliver det for vildt` 是省略 `hvis` 的条件倒装，相当于 `Hvis det bliver for vildt`。后面 `så banker jeg bare på` 用 `så` 引出结果，采用 V2 语序。",
+            "vocabulary": [
+                {
+                    "da": "lyde fornuftigt",
+                    "zh": "听起来合理",
+                    "note": "`lyde` 在此用于评价提议。"
+                },
+                {
+                    "da": "for vildt",
+                    "zh": "太疯狂、太吵闹、太过火",
+                    "note": "具体含义依语境而定。"
+                },
+                {
+                    "da": "banke på",
+                    "zh": "敲门",
+                    "note": "也可以不带 `døren`。"
+                },
+                {
+                    "da": "bare",
+                    "zh": "直接、尽管、就",
+                    "note": "在这里降低行动的正式程度。"
+                }
+            ],
+            "nuance": "埃里克没有威胁要投诉，而是提出最直接的邻里沟通方式。`bare` 传达不必把事情弄得复杂的态度。`Bliver det …, så …` 是高级阶段很值得主动掌握的条件倒装。",
+            "transfer": [
+                "Bliver det for højt, så banker jeg på.",
+                "Er der problemer, så sig endelig til.",
+                "Det lyder fornuftigt."
+            ],
+            "pitfall": "句首 `Bliver det …` 是条件倒装，不是普通疑问句。使用这种结构时不能再直接把 `hvis` 放在前面而保留倒装语序。"
+        },
+        {
+            "id": "U03-C042",
+            "zh": "你也非常欢迎过来坐坐。",
+            "grammar": "`være velkommen til at + 不定式` 表示欢迎某人做某事。`kigge forbi` 是动词小品词搭配，表示顺路来访。",
+            "vocabulary": [
+                {
+                    "da": "være velkommen til at",
+                    "zh": "欢迎……做某事",
+                    "note": "邀请与许可场景都很常见。"
+                },
+                {
+                    "da": "kigge forbi",
+                    "zh": "过来坐坐、顺路拜访",
+                    "note": "比 `besøge` 更随意、口语化。"
+                }
+            ],
+            "nuance": "娜迪娅从防御性的解释转向主动邀请，表示她希望建立良好的邻里关系。`kigge forbi` 不一定要求正式预约，语气轻松。",
+            "transfer": [
+                "Du er meget velkommen til at kigge forbi.",
+                "Kig endelig forbi en dag.",
+                "Du er altid velkommen."
+            ],
+            "pitfall": "`kigge forbi` 不是只从旁边看一眼，而是短暂到访。`velkommen til at` 后接动词原形。"
+        },
+        {
+            "id": "U03-C043",
+            "zh": "谢谢，不过我十点就上床睡觉了。也许你会觉得我老派，但我就是这样的生活习惯。",
+            "grammar": "`Det kan godt være, jeg er gammeldags` 是让步性表达，相当于承认某种评价可能成立。`men sådan har jeg det` 表示这就是个人的感受或偏好。`gå i seng` 是上床睡觉的固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "gå i seng",
+                    "zh": "上床睡觉",
+                    "note": "区别于 `sove` 的睡眠状态。"
+                },
+                {
+                    "da": "det kan godt være, at",
+                    "zh": "可能确实……、也许……",
+                    "note": "可省略 `at`。"
+                },
+                {
+                    "da": "gammeldags",
+                    "zh": "老派的、传统的",
+                    "note": "可中性，也可能略带自嘲。"
+                },
+                {
+                    "da": "sådan har jeg det",
+                    "zh": "我就是这么想的、我就是这种感受",
+                    "note": "强调个人体验或偏好。"
+                }
+            ],
+            "nuance": "埃里克婉拒邀请，却不指责娜迪娅的生活方式。`Det kan godt være … men …` 先接受可能的评价，再温和坚持自己的习惯。`sådan har jeg det` 比强硬宣布这就是规矩更尊重个人差异。",
+            "transfer": [
+                "Det kan godt være, jeg er gammeldags, men …",
+                "Sådan har jeg det bare.",
+                "Jeg går normalt i seng klokken ti."
+            ],
+            "pitfall": "`have det` 在这里不是拥有某物，而是表达感受或状态。`gammeldags` 不一定是贬义，也可以自嘲。"
+        },
+        {
+            "id": "U03-C044",
+            "zh": "提前在楼道里贴通知，是丹麦一种很普遍的邻里相处办法：准备举办聚会的人事先告知邻居，好让大家能够相应调整自己的安排。",
+            "grammar": "冒号前是概括性判断。冒号后 `Den, der skal holde fest` 用关系从句泛指举办聚会的人。`sige til` 表示提前通知。`så naboerne kan indrette sig` 是目的或结果从句，`indrette sig` 在此表示根据新情况调整安排。",
+            "vocabulary": [
+                {
+                    "da": "en udbredt løsning",
+                    "zh": "普遍采用的解决办法",
+                    "note": "适用于社会实践和工作流程。"
+                },
+                {
+                    "da": "sige til",
+                    "zh": "告知、打招呼、通知",
+                    "note": "非常高频的口语搭配。"
+                },
+                {
+                    "da": "på forhånd",
+                    "zh": "事先、提前",
+                    "note": "强调行动发生前已完成通知。"
+                },
+                {
+                    "da": "indrette sig",
+                    "zh": "调整自己的安排、适应情况",
+                    "note": "反身结构，常搭配 `efter noget`。"
+                }
+            ],
+            "nuance": "这里的 `indrette sig` 与本单元题目中的家具布置 `indrette` 形成有趣联系：同一个动词也能抽象表示调整自己的生活方式。贴通知不是保证邻居赞成聚会，而是让大家有机会提前应对。",
+            "transfer": [
+                "Vi siger til naboerne på forhånd.",
+                "Så kan alle indrette sig efter det.",
+                "Det er en udbredt løsning i Danmark."
+            ],
+            "pitfall": "`indrette sig` 不是只指装修布置房间，而是适应新情况。`sige til` 在这里是通知，不是命令某人闭嘴。"
+        },
+        {
+            "id": "U03-C045",
+            "zh": "地下公共洗衣房是邻里矛盾的一个经典来源：有人把洗好的衣服忘在洗衣机里，还有人占用了本不属于自己的洗衣时段。",
+            "grammar": "`en klassisk kilde til konflikter` 是抽象名词结构。冒号后用 `Nogen … og andre …` 对比两种常见的不当行为。`en tid, der ikke er deres` 中关系从句说明预约时段不属于相关住户。",
+            "vocabulary": [
+                {
+                    "da": "en kilde til konflikter",
+                    "zh": "冲突的来源",
+                    "note": "可用于工作、社会和家庭问题。"
+                },
+                {
+                    "da": "glemme sit tøj i maskinen",
+                    "zh": "把衣服忘在洗衣机里",
+                    "note": "常见公共洗衣房问题。"
+                },
+                {
+                    "da": "tage en tid",
+                    "zh": "占用、预约一个时段",
+                    "note": "这里涉及洗衣机的预约时间。"
+                },
+                {
+                    "da": "ikke være ens",
+                    "zh": "不属于某人",
+                    "note": "原文 `deres` 是复数第三人称所有代词。"
+                }
+            ],
+            "nuance": "作者用两种琐碎却容易引起不满的行为来说明公共资源管理中的冲突。`Nogen … andre …` 是平衡列举不同人的做法时很有用的结构。",
+            "transfer": [
+                "Det er en klassisk kilde til konflikter.",
+                "Nogen glemmer deres tøj, og andre tager den forkerte tid.",
+                "Det er ikke min vasketid."
+            ],
+            "pitfall": "`en tid` 在这里不是抽象的时间，而是已分配或预约的时间段。`deres` 可表示他们的，也可回指泛指的复数主体。"
+        },
+        {
+            "id": "U03-C046",
+            "zh": "而当楼里有什么设施坏了，住户就会打电话给物业管理员。",
+            "grammar": "`når noget ikke virker` 是泛指经常发生的情形。时间从句前置后，主句采用 `ringer beboerne` 的 V2 倒装。",
+            "vocabulary": [
+                {
+                    "da": "virke",
+                    "zh": "正常工作、运转、起作用",
+                    "note": "机器、设备和方案都适用。"
+                },
+                {
+                    "da": "en beboer",
+                    "zh": "住户、居民",
+                    "note": "复数 `beboere`。"
+                },
+                {
+                    "da": "en vicevært",
+                    "zh": "物业管理员、楼宇维修管理员",
+                    "note": "通常处理公共设施和日常维护事务。"
+                },
+                {
+                    "da": "ringe til",
+                    "zh": "给……打电话",
+                    "note": "固定介词 `til`。"
+                }
+            ],
+            "nuance": "`vicevært` 是在丹麦租房生活中非常有用的职位词。作者将日常设施维修放在邻里生活之后，说明公寓生活既需要住户间协作，也依赖物业管理。",
+            "transfer": [
+                "Når noget ikke virker, ringer jeg til viceværten.",
+                "Vaskemaskinen virker ikke.",
+                "Jeg kontakter viceværten."
+            ],
+            "pitfall": "`vicevært` 不是一定拥有房屋的房东，而是负责物业照护或维修的人。`virke` 不只是工作这个职业动作。"
+        },
+        {
+            "id": "U03-C047",
+            "zh": "你好，我是十四号的娜迪娅。我家浴室的下水道堵住了。",
+            "grammar": "`det er Nadia fra nummer 14` 是电话中表明身份的固定句型。`Afløbet … er stoppet` 使用形容词性过去分词描述当前堵塞状态。",
+            "vocabulary": [
+                {
+                    "da": "det er X fra nummer Y",
+                    "zh": "我是某门牌号的某人",
+                    "note": "电话报修时很实用。"
+                },
+                {
+                    "da": "et afløb",
+                    "zh": "排水口、下水管道",
+                    "note": "定指 `afløbet`。"
+                },
+                {
+                    "da": "være stoppet",
+                    "zh": "堵住、排水不通",
+                    "note": "管道语境中的常见表达。"
+                }
+            ],
+            "nuance": "娜迪娅没有长篇解释，而是先说明身份和地址，再明确指出故障位置。这是向物业报修时高效而自然的沟通方式。",
+            "transfer": [
+                "Hej, det er Nadia fra nummer 14.",
+                "Afløbet i badeværelset er stoppet.",
+                "Jeg ringer, fordi afløbet er tilstoppet."
+            ],
+            "pitfall": "`stoppet` 可表示停止，也可用于管道堵塞。不要把它与单纯的暂停工作混为一谈。"
+        },
+        {
+            "id": "U03-C048",
+            "zh": "好的。你试过用皮搋子疏通吗？",
+            "grammar": "`Har du prøvet med …?` 使用现在完成时询问过去是否尝试某种工具或方法。`prøve med` 后接尝试使用的工具。",
+            "vocabulary": [
+                {
+                    "da": "prøve med",
+                    "zh": "试着用某物处理",
+                    "note": "常用于解决实际问题。"
+                },
+                {
+                    "da": "en svupper",
+                    "zh": "皮搋子、管道疏通吸盘",
+                    "note": "厕所和洗手池堵塞时使用的工具。"
+                }
+            ],
+            "nuance": "物业管理员先确认住户是否尝试过简单的处理方法，而不是立即上门。`Har du prøvet med …?` 是各种技术支持和维修场景都能迁移使用的问法。",
+            "transfer": [
+                "Har du prøvet med en svupper?",
+                "Har du prøvet at genstarte maskinen?"
+            ],
+            "pitfall": "`prøve med` 后接工具，`prøve at` 后接动作。两种结构不能机械互换。"
+        },
+        {
+            "id": "U03-C049",
+            "zh": "试过了，还试过用开水冲。但完全没有效果。",
+            "grammar": "`Ja, og med kogende vand` 是省略式回答，省略了已经出现的 `jeg har prøvet`。`Det hjælper slet ikke` 中 `slet ikke` 是加强否定的副词组合。",
+            "vocabulary": [
+                {
+                    "da": "kogende vand",
+                    "zh": "沸水、滚烫的水",
+                    "note": "`kogende` 是现在分词作形容词。"
+                },
+                {
+                    "da": "hjælpe",
+                    "zh": "有帮助、有效果",
+                    "note": "可以直接说 `Det hjælper ikke`。"
+                },
+                {
+                    "da": "slet ikke",
+                    "zh": "完全不、根本不",
+                    "note": "比单独的 `ikke` 更强烈。"
+                }
+            ],
+            "nuance": "`slet ikke` 清楚表达尝试完全没有改善问题。娜迪娅的简短回应也适合技术支持场景：说明已经尝试的步骤和结果。",
+            "transfer": [
+                "Jeg har også prøvet med varmt vand.",
+                "Det hjælper slet ikke.",
+                "Jeg har prøvet flere ting uden held."
+            ],
+            "pitfall": "`slet ikke` 不是稍微没有效果，而是完全没有效果。真实维修时使用沸水可能造成烫伤或损伤某些管道材料，不应把人物尝试自动视为安全建议。"
+        },
+        {
+            "id": "U03-C050",
+            "zh": "那估计是管道更深处被一团头发堵住了。我上午可以过去一趟。",
+            "grammar": "`Så sidder der nok en hårprop …` 中 `så` 引出推断，`nok` 表示很可能。`sidder der` 使用存在句描写堵塞物所在位置。`i løbet af formiddagen` 表示上午这一时间段内的某个时刻。",
+            "vocabulary": [
+                {
+                    "da": "en hårprop",
+                    "zh": "头发形成的堵塞物",
+                    "note": "复合词 `hår` 头发 + `prop` 塞子。"
+                },
+                {
+                    "da": "længere nede",
+                    "zh": "更下面、更深处",
+                    "note": "常用于管道、楼层和空间位置。"
+                },
+                {
+                    "da": "i løbet af formiddagen",
+                    "zh": "上午某个时候、上午期间",
+                    "note": "表示宽泛时间窗口。"
+                },
+                {
+                    "da": "nok",
+                    "zh": "很可能、大概",
+                    "note": "这里表示推断。"
+                }
+            ],
+            "nuance": "物业管理员根据症状推测原因，没有声称已经确诊堵塞物是什么。`nok` 体现不完全确定的专业判断。`i løbet af formiddagen` 提供一个可行但不精确的上门时间段。",
+            "transfer": [
+                "Der sidder nok noget længere nede i røret.",
+                "Jeg kan komme i løbet af formiddagen.",
+                "Det er nok afløbet, der er stoppet."
+            ],
+            "pitfall": "`nok` 在这里表示推测，不是足够。`i løbet af formiddagen` 不是上午某个固定钟点。"
+        },
+        {
+            "id": "U03-C051",
+            "zh": "那我需要在家等你吗？",
+            "grammar": "`Skal jeg …?` 使用情态动词 `skal` 表达是否有必要或是否应当这样安排。`være hjemme` 表示人在家中。",
+            "vocabulary": [
+                {
+                    "da": "være hjemme",
+                    "zh": "在家",
+                    "note": "强调人处于家中。"
+                }
+            ],
+            "nuance": "这是安排维修上门时非常自然的确认问题，重点是住户是否必须留在家里配合，而不是问她是否想待在家。",
+            "transfer": [
+                "Skal jeg være hjemme?",
+                "Er det nødvendigt, at jeg er hjemme?"
+            ],
+            "pitfall": "`skal` 在这里表示必要性，而不是对未来的单纯预测。"
+        },
+        {
+            "id": "U03-C052",
+            "zh": "不用。只要你同意我自己开门进去，就不需要在家。",
+            "grammar": "`Det behøver du ikke` 将不必做的事用 `det` 回指。`hvis det er i orden, at …` 是条件结构。`låse mig ind` 是反身代词加动词小品词，表示自己开锁进入。",
+            "vocabulary": [
+                {
+                    "da": "behøve",
+                    "zh": "需要、有必要",
+                    "note": "否定句中常说 `Det behøver du ikke`。"
+                },
+                {
+                    "da": "være i orden",
+                    "zh": "可以、没问题、得到同意",
+                    "note": "常用于请求许可。"
+                },
+                {
+                    "da": "låse sig ind",
+                    "zh": "自己开锁进入",
+                    "note": "反身结构：`jeg låser mig ind`。"
+                }
+            ],
+            "nuance": "物业管理员明确把自行进入住房建立在住户同意的条件上。`hvis det er i orden` 是尊重对方许可权的自然表达，也比直接说我自己进去更礼貌。",
+            "transfer": [
+                "Det behøver du ikke.",
+                "Hvis det er i orden med dig, kan jeg låse mig ind.",
+                "Er det i orden, at jeg kommer ind?"
+            ],
+            "pitfall": "`låse sig ind` 不是把自己锁在里面，而是用钥匙或门锁进入。实际入户权限还需要遵守相关法律及具体授权。"
+        },
+        {
+            "id": "U03-C053",
+            "zh": "完全没问题。谢谢你的帮助。",
+            "grammar": "`Det er helt i orden` 是完整的肯定许可表达。`Tak for hjælpen` 使用 `for` 引出感谢的对象。",
+            "vocabulary": [
+                {
+                    "da": "helt i orden",
+                    "zh": "完全可以、完全没问题",
+                    "note": "比 `i orden` 更强调明确同意。"
+                },
+                {
+                    "da": "Tak for hjælpen",
+                    "zh": "谢谢帮忙",
+                    "note": "自然的感谢表达。"
+                }
+            ],
+            "nuance": "娜迪娅明确同意并表示感谢，完成了一次简洁而有效的维修沟通。",
+            "transfer": [
+                "Det er helt i orden.",
+                "Tak for hjælpen!"
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U03-C054",
+            "zh": "第一个冬天，物业管理员教会了娜迪娅怎样正确地给房间通风。",
+            "grammar": "`Den første vinter` 是时间状语。`lære nogen at + 不定式` 在这里表示教会某人做某事。`lufte ud` 是动词小品词搭配，`ordentligt` 说明通风方式需要恰当。",
+            "vocabulary": [
+                {
+                    "da": "lufte ud",
+                    "zh": "开窗通风、给房间换气",
+                    "note": "住房维护高频词组。"
+                },
+                {
+                    "da": "ordentligt",
+                    "zh": "正确地、充分地、好好地",
+                    "note": "副词；形容词为 `ordentlig`。"
+                },
+                {
+                    "da": "lære nogen at",
+                    "zh": "教某人做某事",
+                    "note": "`lære` 既可表示学习，也可表示教会。"
+                }
+            ],
+            "nuance": "这句话体现国际学生逐步学习丹麦住房维护常识的过程。寒冷季节的通风管理具有实际生活价值，`lufte ud` 是租房时必须熟悉的表达。",
+            "transfer": [
+                "Viceværten lærte mig at lufte ud.",
+                "Husk at lufte ordentligt ud.",
+                "Jeg har lært at vedligeholde lejligheden."
+            ],
+            "pitfall": "`lære` 可表示学也可表示教，需根据宾语和句型判断。`lufte ud` 不等于给衣服晒太阳，而是室内换气。"
+        },
+        {
+            "id": "U03-C055",
+            "zh": "每天应当把窗户完全打开几次，让做饭、洗澡和晾晒衣物产生的湿气能够排出去。",
+            "grammar": "`Vinduerne skal lukkes helt op` 是情态动词加 s-被动。这里 `lukke op` 是打开，与单独的 `lukke` 关闭方向相反。`så fugten … kan komme ud` 是目的或结果从句。`et par gange om dagen` 表示每日数次。",
+            "vocabulary": [
+                {
+                    "da": "lukke op",
+                    "zh": "打开",
+                    "note": "固定动词小品词搭配，常用于门窗。"
+                },
+                {
+                    "da": "helt op",
+                    "zh": "完全打开",
+                    "note": "强调开启幅度。"
+                },
+                {
+                    "da": "et par gange om dagen",
+                    "zh": "每天几次",
+                    "note": "通常指大约两次。"
+                },
+                {
+                    "da": "fugt",
+                    "zh": "湿气、潮气",
+                    "note": "`en fugt` 较少用于日常数量表达，通常直接说 `fugt`。"
+                },
+                {
+                    "da": "komme ud",
+                    "zh": "出去、排出",
+                    "note": "这里指湿气通过通风排出。"
+                }
+            ],
+            "nuance": "本句强调短时间充分通风，让生活产生的湿气排出。`så … kan komme ud` 清楚解释为什么要这样做。真实生活中的通风频率还需要结合房屋类型、机械通风系统和天气状况。",
+            "transfer": [
+                "Husk at lufte ud et par gange om dagen.",
+                "Vinduerne skal lukkes helt op.",
+                "Så kan fugten komme ud."
+            ],
+            "pitfall": "`lukke op` 是打开，而 `lukke` 单独使用通常表示关闭，这是很容易让中国学习者混淆的反义小品词结构。"
+        },
+        {
+            "id": "U03-C056",
+            "zh": "否则墙角就可能长霉，而霉菌一旦出现，往往很难彻底清除。",
+            "grammar": "`Ellers` 前置表示不采取前述措施的后果。`kan der komme skimmelsvamp` 使用情态动词和存在句，表达可能出现霉菌。`den er svær at slippe af med igen` 中 `den` 回指霉菌，`slippe af med` 是完整固定搭配。",
+            "vocabulary": [
+                {
+                    "da": "skimmelsvamp",
+                    "zh": "霉菌、霉变",
+                    "note": "建筑潮湿与室内环境问题中的高频词。"
+                },
+                {
+                    "da": "slippe af med",
+                    "zh": "摆脱、清除",
+                    "note": "可用于问题、疾病症状和不需要的物品。"
+                },
+                {
+                    "da": "ellers",
+                    "zh": "否则、不然",
+                    "note": "引出潜在后果。"
+                },
+                {
+                    "da": "i hjørnerne",
+                    "zh": "在角落里",
+                    "note": "复数定指形式。"
+                }
+            ],
+            "nuance": "`Ellers` 将通风建议与霉菌风险形成清晰因果。`svær at slippe af med` 很自然地说明问题一旦形成不容易消除，但没有断言所有霉菌都无法处理。",
+            "transfer": [
+                "Ellers kan der komme skimmelsvamp.",
+                "Det er svært at slippe af med fugten.",
+                "Vi skal løse problemet, før det bliver værre."
+            ],
+            "pitfall": "`slippe af med` 三个部分构成固定表达，不能只使用 `slippe med`。霉菌处理可能需要专业检查，不能把开窗当作所有霉菌问题的充分解决办法。"
+        },
+        {
+            "id": "U03-C057",
+            "zh": "她还学会了总水阀在哪里，以及怎样给一盏挂得太高的灯更换灯泡。",
+            "grammar": "`har lært` 后接两个并列间接疑问从句：`hvor hovedhanen sidder` 与 `hvordan man skifter en pære …`。间接问句采用陈述语序。最后 `der hænger for højt` 是修饰 `lampe` 的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "en hovedhane",
+                    "zh": "总水阀、主阀门",
+                    "note": "发生漏水时需要知道位置。"
+                },
+                {
+                    "da": "skifte en pære",
+                    "zh": "更换灯泡",
+                    "note": "`en pære` 在其他语境中也表示梨。"
+                },
+                {
+                    "da": "en lampe",
+                    "zh": "灯具",
+                    "note": "可指吊灯、台灯等。"
+                },
+                {
+                    "da": "hænge for højt",
+                    "zh": "挂得太高",
+                    "note": "`for + 形容词` 表示超出适当程度。"
+                }
+            ],
+            "nuance": "作者用总水阀和灯泡这两个具体细节，展示娜迪娅开始具备独立维护住所的能力。间接问句结构很适合在工作交接和操作指导中使用。",
+            "transfer": [
+                "Jeg ved, hvor hovedhanen sidder.",
+                "Kan du vise mig, hvordan man skifter en pære?",
+                "Jeg har lært, hvordan systemet fungerer."
+            ],
+            "pitfall": "`hvor hovedhanen sidder` 是间接问句，不能写成 `hvor sidder hovedhanen`。`pære` 既是梨也可以是灯泡，必须结合语境。"
+        },
+        {
+            "id": "U03-C058",
+            "zh": "而且，在不知道墙内电线具体走向的情况下，千万不要随便往墙上钻孔。",
+            "grammar": "`man borer ikke …` 使用泛指主语和现在时，表达一般性的行为规范。`uden at vide` 是否定条件性的方式结构。`hvor ledningerne går` 是间接疑问从句。",
+            "vocabulary": [
+                {
+                    "da": "bore i en væg",
+                    "zh": "在墙上钻孔",
+                    "note": "固定搭配。"
+                },
+                {
+                    "da": "en ledning",
+                    "zh": "电线、导线",
+                    "note": "复数 `ledninger`。"
+                },
+                {
+                    "da": "uden at vide",
+                    "zh": "在不知道……的情况下",
+                    "note": "常用于警告和操作规范。"
+                },
+                {
+                    "da": "hvor noget går",
+                    "zh": "某物从哪里经过、沿什么路径延伸",
+                    "note": "这里描述墙内电线走向。"
+                }
+            ],
+            "nuance": "这是一条实际安全提醒。作者没有使用祈使句，而是通过泛指 `man` 表达普遍适用的注意事项，语气更像生活经验总结。",
+            "transfer": [
+                "Man borer ikke i væggen uden at tjekke ledningerne.",
+                "Jeg ved ikke, hvor ledningerne går.",
+                "Du bør undersøge væggen, før du borer."
+            ],
+            "pitfall": "`ledning` 在这里是电线，不是领导或管理。墙内还可能存在水管，实际钻孔前应确认隐蔽设施位置。"
+        },
+        {
+            "id": "U03-C059",
+            "zh": "每个暖气片上都装有一个小计量器，其读数会成为年度暖气费用结算的依据。",
+            "grammar": "`På hver radiator` 前置地点状语，后面 `sidder der en lille måler` 是描述某物安装位置的存在结构。`som danner grundlag for …` 是关系从句，修饰计量器。",
+            "vocabulary": [
+                {
+                    "da": "en radiator",
+                    "zh": "暖气片、散热器",
+                    "note": "丹麦住宅采暖设施中常见。"
+                },
+                {
+                    "da": "en måler",
+                    "zh": "计量器、仪表",
+                    "note": "如水表、电表和热量分配计。"
+                },
+                {
+                    "da": "danne grundlag for",
+                    "zh": "构成……的依据",
+                    "note": "C1 说明文和行政语言中的高价值表达。"
+                },
+                {
+                    "da": "et varmeregnskab",
+                    "zh": "暖气费用结算单、供暖费用账目",
+                    "note": "通常涉及按周期分摊或结算供暖费用。"
+                },
+                {
+                    "da": "årlig",
+                    "zh": "年度的、每年的",
+                    "note": "如 `et årligt regnskab`。"
+                }
+            ],
+            "nuance": "本句把物理设施与财务结算联系起来。`danner grundlag for` 比简单的 `bruges til` 更正式，强调计量数据是计算费用的重要依据之一。具体计费方法还可能涉及面积、固定费用和分摊规则。",
+            "transfer": [
+                "Måleren danner grundlag for varmeregnskabet.",
+                "Tallene danner grundlag for den endelige beregning.",
+                "Der sidder en måler på radiatoren."
+            ],
+            "pitfall": "`varmeregnskab` 不是暖气设备本身，而是供暖费用的结算。`måler` 既可指测量者也可指测量仪器。"
+        },
+        {
+            "id": "U03-C060",
+            "zh": "如果她实际消耗的暖气费用超过了此前预缴的金额，就必须再补交差额。",
+            "grammar": "`Har hun brugt mere …` 是省略 `hvis` 的条件倒装，相当于 `Hvis hun har brugt mere …`。`end hun har betalt a conto` 是比较从句。主句 `må hun betale efter` 使用情态动词 `må` 表达必须补付。",
+            "vocabulary": [
+                {
+                    "da": "a conto",
+                    "zh": "预缴、按估算分期支付",
+                    "note": "常用于暖气、水费等费用。"
+                },
+                {
+                    "da": "betale efter",
+                    "zh": "补交差额、事后追加支付",
+                    "note": "与预缴费用的结算有关。"
+                },
+                {
+                    "da": "bruge mere end",
+                    "zh": "使用或消耗超过……",
+                    "note": "此处涉及计费后的消耗量或费用。"
+                },
+                {
+                    "da": "må",
+                    "zh": "必须、不得不",
+                    "note": "这里表示实际义务，不是得到许可。"
+                }
+            ],
+            "nuance": "本句是学习丹麦住房财务语言的重要材料。`a conto` 指先按预计费用支付，最后根据实际结算调整。`Har hun …, må hun …` 是典型的正式条件倒装结构，适合迁移到合同和政策解释。",
+            "transfer": [
+                "Har du brugt mere end forventet, må du betale efter.",
+                "Vi betaler varme a conto hver måned.",
+                "Den endelige regning afhænger af forbruget."
+            ],
+            "pitfall": "`a conto` 不是最终结算金额。条件倒装句开头的 `Har hun` 不是疑问句；这里表示如果她已经……。"
+        },
+        {
+            "id": "U03-C061",
+            "zh": "她收到暖气账单时才明白这一点：整个冬天，她竟然一直把暖气开到最大，同时还让窗户留着一道缝。",
+            "grammar": "`Det fandt hun ud af` 中宾语 `det` 前置，`fandt … ud af` 是分离式动词搭配。`da regningen kom` 是时间从句。冒号后的 `havde skruet … op` 与 `ladet vinduerne stå` 使用过去完成时，表示账单到来前持续或反复发生的行为。`lade + 宾语 + 不定式` 表示让某物维持某种状态。",
+            "vocabulary": [
+                {
+                    "da": "finde ud af",
+                    "zh": "弄明白、发现",
+                    "note": "不规则变化：`finder – fandt – har fundet`。"
+                },
+                {
+                    "da": "skrue helt op for",
+                    "zh": "把……开到最大",
+                    "note": "常用于暖气、音量和设备强度。"
+                },
+                {
+                    "da": "lade vinduet stå på klem",
+                    "zh": "让窗户保持虚掩或留一条缝",
+                    "note": "`på klem` 是固定状态表达。"
+                },
+                {
+                    "da": "simpelthen",
+                    "zh": "简直、竟然、说到底",
+                    "note": "这里加强发现原因时的惊讶感。"
+                },
+                {
+                    "da": "hele vinteren",
+                    "zh": "整个冬天",
+                    "note": "表示持续的时间范围。"
+                }
+            ],
+            "nuance": "作者通过极具画面感的矛盾行为解释了额外费用：暖气开到最大，窗户却整冬留缝。`simpelthen` 使叙述带着一点无奈和自嘲，强调问题原因原来如此简单。这里也和前面的正确通风建议形成对照。",
+            "transfer": [
+                "Det fandt jeg først ud af, da regningen kom.",
+                "Jeg havde skruet helt op for varmen.",
+                "Hun lod vinduet stå på klem."
+            ],
+            "pitfall": "`skrue op for` 是调高，`skrue ned for` 是调低。`på klem` 不是完全打开，而是虚掩或留缝。`finde ud af` 必须整体掌握。"
+        },
+        {
+            "id": "U03-C062",
+            "zh": "对独栋住宅的业主来说，需要操心维护的事情就更多了。",
+            "grammar": "`For husejere` 引出讨论对象，主句 `er listen længere` 使用 V2 倒装。`listen` 回指前面列举的住房维护事项。",
+            "vocabulary": [
+                {
+                    "da": "en husejer",
+                    "zh": "房屋所有者、独栋房屋业主",
+                    "note": "复数 `husejere`。"
+                },
+                {
+                    "da": "listen er længere",
+                    "zh": "要做的事情更多",
+                    "note": "比喻责任或任务清单更长。"
+                }
+            ],
+            "nuance": "这是从租房日常维护转向业主责任的过渡句。`listen er længere` 简洁地暗示业主面对的维护范围更加广泛。",
+            "transfer": [
+                "For husejere er listen længere.",
+                "Som boligejer har man flere opgaver."
+            ],
+            "pitfall": "`listen` 这里不是实际已经写好的清单，而是对维护任务的概括。"
+        },
+        {
+            "id": "U03-C063",
+            "zh": "排水檐槽得清理，树篱得修剪，而浴室迟早也会老旧到需要翻修。",
+            "grammar": "`Tagrenderne skal renses` 与 `hækken skal klippes` 平行使用情态动词加 s-被动。`før eller siden` 是固定时间副词短语。`trænge til at blive renoveret` 表示某物迫切或明显需要翻新。",
+            "vocabulary": [
+                {
+                    "da": "en tagrende",
+                    "zh": "屋檐排水槽、天沟",
+                    "note": "复数 `tagrender`。"
+                },
+                {
+                    "da": "rense",
+                    "zh": "清理、清洁",
+                    "note": "可用于水槽、过滤器和其他设施。"
+                },
+                {
+                    "da": "en hæk",
+                    "zh": "树篱、绿篱",
+                    "note": "复数 `hække`。"
+                },
+                {
+                    "da": "før eller siden",
+                    "zh": "迟早、早晚有一天",
+                    "note": "不强调具体时间。"
+                },
+                {
+                    "da": "trænge til",
+                    "zh": "需要、亟须",
+                    "note": "固定搭配，如 `trænge til en pause`。"
+                }
+            ],
+            "nuance": "一连串具体维护事项体现拥有房屋的长期责任。`før eller siden` 表示即使现在没有问题，将来也难免面对较大的装修或维修需求。",
+            "transfer": [
+                "Tagrenderne skal renses.",
+                "Hækken skal klippes hvert år.",
+                "Badeværelset trænger til at blive renoveret."
+            ],
+            "pitfall": "`trænge til` 不只是迫切渴望，也能用于建筑物需要维修。`renovere` 是翻修，不等于日常清洁。"
+        },
+        {
+            "id": "U03-C064",
+            "zh": "一家人准备搬家时，往往才会发现，阁楼和地下室里不知不觉已经积攒了多么多的东西。",
+            "grammar": "`Når en familie skal flytte` 是泛指时间从句，前置后主句采用 `opdager de fleste` 的 V2 语序。`hvor meget der har samlet sig` 是间接感叹或疑问从句，强调积累数量。`samle sig` 是反身结构，表示东西逐渐聚集或堆积。",
+            "vocabulary": [
+                {
+                    "da": "opdage",
+                    "zh": "发现、意识到",
+                    "note": "可用于新情况或原本忽视的事实。"
+                },
+                {
+                    "da": "samle sig",
+                    "zh": "积聚、堆积",
+                    "note": "反身结构，强调逐渐形成的结果。"
+                },
+                {
+                    "da": "et loft",
+                    "zh": "阁楼、天花板",
+                    "note": "这里 `på loftet` 指阁楼。"
+                },
+                {
+                    "da": "en kælder",
+                    "zh": "地下室",
+                    "note": "地点通常使用 `i kælderen`。"
+                }
+            ],
+            "nuance": "作者借搬家揭示平时难以意识到的物品积累。`hvor meget` 不只是询问数量，更传达发现东西竟如此之多的感叹。阁楼和地下室也是丹麦住宅储物场景中的典型地点。",
+            "transfer": [
+                "Når man flytter, opdager man, hvor mange ting man har.",
+                "Der har samlet sig meget på loftet.",
+                "Vi har alt for mange ting i kælderen."
+            ],
+            "pitfall": "`på loftet` 在这里是阁楼，不是站在天花板上。`samle sig` 表示东西自然逐渐积累，与主动 `samle noget` 收集某物不同。"
+        },
+        {
+            "id": "U03-C065",
+            "zh": "在兰讷斯的尼尔森一家，光是从阁楼沿着梯子往下搬那些搬家纸箱，就耗掉了整整一个周末。",
+            "grammar": "`Hos familien Nielsen i Randers` 前置说明家庭和地点。`går en hel weekend med at + 不定式` 表示整段时间被某项工作耗掉。`ned ad stigen fra loftet` 是方向和路径状语。",
+            "vocabulary": [
+                {
+                    "da": "gå med at",
+                    "zh": "耗费在做某事上",
+                    "note": "常见结构 `der går tid med at …`。"
+                },
+                {
+                    "da": "en flyttekasse",
+                    "zh": "搬家纸箱",
+                    "note": "复数 `flyttekasser`。"
+                },
+                {
+                    "da": "en stige",
+                    "zh": "梯子",
+                    "note": "定指 `stigen`。"
+                },
+                {
+                    "da": "ned ad",
+                    "zh": "沿着……向下",
+                    "note": "方向路径表达。"
+                },
+                {
+                    "da": "en hel weekend",
+                    "zh": "整个周末",
+                    "note": "强调持续时间长。"
+                }
+            ],
+            "nuance": "这里的幽默来自工作量与任务看起来的简单程度之间的反差：只是把箱子从阁楼搬下来，却花了整个周末。`går med at` 可以生动地描写时间在某项琐事中被耗尽。",
+            "transfer": [
+                "Der gik en hel weekend med at rydde op.",
+                "Vi bar flyttekasserne ned fra loftet.",
+                "Det meste af dagen gik med rengøring."
+            ],
+            "pitfall": "`gå med at` 在这里是花费时间，不是与某人同行。`ned ad` 强调沿着某条路径向下，与 `ned fra` 的从某处下来侧重点不同。"
+        },
+        {
+            "id": "U03-C066",
+            "zh": "那我们周日就把这些东西全拿去跳蚤市场卖掉。没人要的，就拉到垃圾回收站去处理。",
+            "grammar": "`Så sælger vi …` 中 `så` 表示决定下一步怎么做。第二句 `det, ingen vil have` 是宾语前置，省略了作宾语的关系代词 `som`，因此谓语 `kører` 在主语 `vi` 前。`køre noget på genbrugspladsen` 表示把物品开车运去回收站。",
+            "vocabulary": [
+                {
+                    "da": "et loppemarked",
+                    "zh": "跳蚤市场",
+                    "note": "复合词 `loppe` 跳蚤 + `marked` 市场。"
+                },
+                {
+                    "da": "sælge",
+                    "zh": "出售",
+                    "note": "不规则变化：`sælger – solgte – har solgt`。"
+                },
+                {
+                    "da": "en genbrugsplads",
+                    "zh": "垃圾分类回收站、资源回收站",
+                    "note": "居民可自行送去分类处理多种废弃物。"
+                },
+                {
+                    "da": "køre noget på genbrugspladsen",
+                    "zh": "把物品开车送到回收站",
+                    "note": "常见生活搭配。"
+                }
+            ],
+            "nuance": "托马斯提出了丹麦常见的旧物处理思路：能用的先卖掉，没有买主的再送去分类回收。`det, ingen vil have` 比完整的 `de ting, som ingen vil have` 更简洁。",
+            "transfer": [
+                "Vi sælger det hele på loppemarkedet.",
+                "Det, ingen vil have, kører vi på genbrugspladsen.",
+                "Vi prøver at sælge møblerne, før vi smider dem ud."
+            ],
+            "pitfall": "`genbrugsplads` 与 `genbrugsbutik` 不同：前者主要是分类回收站，后者是二手商店。`kører vi` 的倒装由宾语前置引起。"
+        },
+        {
+            "id": "U03-C067",
+            "zh": "这盏灯你打算卖多少钱？",
+            "grammar": "`Hvad skal du have for lampen?` 是询问卖家要价的固定句型。`have for` 在这里表示希望收取的金额。",
+            "vocabulary": [
+                {
+                    "da": "Hvad skal du have for …?",
+                    "zh": "……卖多少钱？你要价多少？",
+                    "note": "跳蚤市场、私人二手交易高频问法。"
+                },
+                {
+                    "da": "en lampe",
+                    "zh": "灯具",
+                    "note": "定指 `lampen`。"
+                }
+            ],
+            "nuance": "这是一句非常值得背诵的二手交易用语。它比 `Hvor meget koster den?` 更明确地向个人卖家询问希望收到的价格。",
+            "transfer": [
+                "Hvad skal du have for lampen?",
+                "Hvad skal du have for cyklen?"
+            ],
+            "pitfall": "`have for` 不能在这里翻译成拥有什么，而是索取多少价格。"
+        },
+        {
+            "id": "U03-C068",
+            "zh": "一百克朗。",
+            "grammar": "省略式报价，完整形式可理解为 `Jeg skal have hundrede kroner`。",
+            "vocabulary": [
+                {
+                    "da": "hundrede kroner",
+                    "zh": "一百丹麦克朗",
+                    "note": "`krone` 单数，`kroner` 复数。"
+                }
+            ],
+            "nuance": "二手交易中直接报价格即可，不需要冗长的完整句。",
+            "transfer": [
+                "Hundrede kroner.",
+                "Jeg skal have hundrede kroner for den."
+            ],
+            "pitfall": "`kroner` 是复数，金额为一克朗时说 `en krone`。"
+        },
+        {
+            "id": "U03-C069",
+            "zh": "我出五十。",
+            "grammar": "`Jeg giver halvtreds` 是买家提出报价的口语表达，省略货币单位 `kroner`。",
+            "vocabulary": [
+                {
+                    "da": "jeg giver",
+                    "zh": "我出价",
+                    "note": "用于议价时提出愿付金额。"
+                },
+                {
+                    "da": "halvtreds",
+                    "zh": "五十",
+                    "note": "丹麦数字系统中的五十。"
+                }
+            ],
+            "nuance": "简短直接，典型的跳蚤市场砍价语气。`Jeg giver` 是报出买家愿付的价格，并非已经完成付款。",
+            "transfer": [
+                "Jeg giver halvtreds.",
+                "Jeg kan give dig 80 kroner."
+            ],
+            "pitfall": "`halvtreds` 是五十，不是三十。丹麦五十、六十、七十等数词需要单独熟悉。"
+        },
+        {
+            "id": "U03-C070",
+            "zh": "那我们折中一下，七十五吧。",
+            "grammar": "`Lad os + 不定式` 是第一人称复数的建议结构。`sige 75` 表示把价格定为七十五，属于议价口语。",
+            "vocabulary": [
+                {
+                    "da": "Lad os sige",
+                    "zh": "那就定为……吧、我们折中说……",
+                    "note": "可用于议价、约时间和提出近似数值。"
+                },
+                {
+                    "da": "femoghalvfjerds",
+                    "zh": "七十五",
+                    "note": "数字 75 的丹麦语写法。"
+                }
+            ],
+            "nuance": "托马斯并未完全接受五十克朗，而是主动提出中间价。`Lad os sige` 语气友好，比直接命令对方支付七十五更适合协商。",
+            "transfer": [
+                "Lad os sige 75 kroner.",
+                "Lad os sige klokken tre.",
+                "Kan vi mødes på midten?"
+            ],
+            "pitfall": "`Lad os sige` 在此不是让我们说出几个字，而是提出一个可接受的数值。"
+        },
+        {
+            "id": "U03-C071",
+            "zh": "行。你能用 MobilePay 收款吗？",
+            "grammar": "`Fint` 表示接受前面的交易条件。`Har du MobilePay?` 用 `have` 询问对方是否拥有或使用这一支付服务。",
+            "vocabulary": [
+                {
+                    "da": "Fint",
+                    "zh": "行、好的、没问题",
+                    "note": "简短口语赞同。"
+                },
+                {
+                    "da": "MobilePay",
+                    "zh": "丹麦常用手机支付服务",
+                    "note": "在私人转账和二手交易中常见。"
+                }
+            ],
+            "nuance": "买家接受价格后立即转向付款方式，体现跳蚤市场交易的实际流程。`Har du MobilePay?` 比完整说能不能通过这款应用给你付款更简洁。",
+            "transfer": [
+                "Har du MobilePay?",
+                "Kan jeg betale med MobilePay?",
+                "Jeg sender pengene på MobilePay."
+            ],
+            "pitfall": "`have MobilePay` 表示可以使用该支付服务，不是拥有整个支付公司。"
+        },
+        {
+            "id": "U03-C072",
+            "zh": "当然可以。",
+            "grammar": "",
+            "vocabulary": [
+                {
+                    "da": "Selvfølgelig",
+                    "zh": "当然、没问题",
+                    "note": "可用于肯定回答或强调显而易见的事实。"
+                }
+            ],
+            "nuance": "托马斯非常干脆地接受手机支付。单独一个 `Selvfølgelig` 就足以结束付款方式的确认。",
+            "transfer": [
+                "Selvfølgelig!",
+                "Ja, selvfølgelig."
+            ],
+            "pitfall": ""
+        },
+        {
+            "id": "U03-C073",
+            "zh": "入住一年后，窗户前已经挂上了窗帘，自行车也不再停放在公共楼梯间里了。",
+            "grammar": "`Et år efter indflytningen` 是前置时间状语。`hænger der gardiner` 使用存在句描写当前室内状态。`ikke længere` 表示过去存在的状态如今已经结束。",
+            "vocabulary": [
+                {
+                    "da": "efter indflytningen",
+                    "zh": "入住之后",
+                    "note": "`en indflytning` 是搬入、入住。"
+                },
+                {
+                    "da": "gardiner for vinduerne",
+                    "zh": "窗户前的窗帘",
+                    "note": "`et gardin`，复数 `gardiner`。"
+                },
+                {
+                    "da": "ikke længere",
+                    "zh": "不再",
+                    "note": "强调时间上的变化。"
+                },
+                {
+                    "da": "stå i opgangen",
+                    "zh": "放在公共楼梯间里",
+                    "note": "这里指自行车的停放位置。"
+                }
+            ],
+            "nuance": "作者用窗帘和自行车停放位置两个小细节说明娜迪娅的生活已经更有秩序，也更符合当地的居住规范。她不再只是临时落脚，而是开始真正经营自己的生活空间。",
+            "transfer": [
+                "Et år efter indflytningen føles lejligheden som et hjem.",
+                "Cyklen står ikke længere i opgangen.",
+                "Der hænger gardiner for vinduerne."
+            ],
+            "pitfall": "`ikke længere` 是不再，不能理解为长度不够。`for vinduerne` 在这里表示窗户前或遮挡窗户的位置。"
+        },
+        {
+            "id": "U03-C074",
+            "zh": "娜迪娅已经叫得出邻居们的名字，埃里克还教会她，当地下室的洗衣机闹脾气、不肯启动时，该怎样让它重新运转起来。",
+            "grammar": "`kender naboernes navne` 表示已经熟悉邻居。`har vist hende, hvordan …` 使用完成时加间接疑问从句。`få vaskemaskinen til at starte` 是使役结构 `få noget til at + 不定式`。`når den driller` 是时间条件从句。",
+            "vocabulary": [
+                {
+                    "da": "kende nogens navn",
+                    "zh": "知道某人的名字、认识某人",
+                    "note": "反映基本社会熟悉程度。"
+                },
+                {
+                    "da": "vise nogen, hvordan",
+                    "zh": "教某人如何……、演示给某人看",
+                    "note": "后接间接疑问从句。"
+                },
+                {
+                    "da": "få noget til at starte",
+                    "zh": "使某物启动起来",
+                    "note": "常用于机器和程序。"
+                },
+                {
+                    "da": "drille",
+                    "zh": "捉弄、出毛病、不听使唤",
+                    "note": "用于机器时带拟人化意味。"
+                },
+                {
+                    "da": "en vaskemaskine",
+                    "zh": "洗衣机",
+                    "note": "复数 `vaskemaskiner`。"
+                }
+            ],
+            "nuance": "这是全文最温暖的生活细节之一：最初前来敲门的老邻居，如今已经成为会主动教她解决问题的人。`når den driller` 是非常自然的丹麦口语，把偶尔故障的机器说成会捉弄人的东西，比正式说 `når den ikke fungerer korrekt` 更亲切。",
+            "transfer": [
+                "Han viste mig, hvordan man får maskinen til at starte.",
+                "Vaskemaskinen driller igen.",
+                "Jeg kender efterhånden alle naboernes navne."
+            ],
+            "pitfall": "`drille` 不只用于人捉弄人，还可描述机器出小毛病。`få X til at starte` 的 `til at` 不能省略。"
+        },
+        {
+            "id": "U03-C075",
+            "zh": "窗台上还摆着三盆植物，而且居然都还活得好好的。",
+            "grammar": "`I vindueskarmen` 前置地点状语，引出 `står tre planter` 的 V2 语序。`som stadig er i live` 是修饰植物的关系从句，`stadig` 强调状态仍然持续。",
+            "vocabulary": [
+                {
+                    "da": "en vindueskarm",
+                    "zh": "窗台",
+                    "note": "复数 `vindueskarme`。"
+                },
+                {
+                    "da": "en plante",
+                    "zh": "植物、盆栽",
+                    "note": "复数 `planter`。"
+                },
+                {
+                    "da": "være i live",
+                    "zh": "还活着、仍然存活",
+                    "note": "可用于人、动物和植物。"
+                },
+                {
+                    "da": "stadig",
+                    "zh": "仍然、还",
+                    "note": "强调状态没有终止。"
+                }
+            ],
+            "nuance": "`som stadig er i live` 带着轻微的自嘲幽默：对一个刚开始独立生活的人来说，能把盆栽养活也值得庆祝。窗台上的植物与最初只求一个睡觉地方形成鲜明对照，象征住所逐渐成为真正的家。",
+            "transfer": [
+                "Der står tre planter i vindueskarmen.",
+                "Planterne er stadig i live.",
+                "Jeg har endelig lært at passe mine planter."
+            ],
+            "pitfall": "`i live` 是活着，不能写成 `i livet` 来替代这个固定结构。`vindueskarm` 是窗台，不是窗框 `vinduesramme`。"
+        },
+        {
+            "id": "U03-C076",
+            "zh": "她说：我觉得自己正在慢慢适应这里的生活，终于开始有家的感觉了。",
+            "grammar": "`være ved at + 不定式` 表示某一变化过程正在发生。`falde til` 是固定动词小品词搭配，表示适应新环境、逐渐安顿下来。`siger hun` 是直接引语后的叙述结构。",
+            "vocabulary": [
+                {
+                    "da": "falde til",
+                    "zh": "适应新环境、安顿下来、融入",
+                    "note": "用于搬家、移居、入学或进入新工作环境。"
+                },
+                {
+                    "da": "være ved at",
+                    "zh": "正在、正逐渐",
+                    "note": "强调正在发生的过程。"
+                },
+                {
+                    "da": "føle sig hjemme",
+                    "zh": "感觉像在家一样自在、有归属感",
+                    "note": "与本文结尾的心理状态相近。"
+                }
+            ],
+            "nuance": "这是整篇文章的主题收束。娜迪娅一开始只想找到睡觉的地方，现在已经学会理解合同、维护住房、与邻居相处，并建立起日常生活的秩序。她没有说 `Jeg er faldet til`，而是说 `Jeg er ved at falde til`，强调融入仍在进行，语气谦逊而真实。`falde til` 比单纯的 `vænne sig til` 更能表达对新环境建立熟悉感、稳定感和归属感。",
+            "transfer": [
+                "Jeg er ved at falde til i Danmark.",
+                "Det tager tid at falde til et nyt sted.",
+                "Efter et år begynder jeg virkelig at føle mig hjemme."
+            ],
+            "pitfall": "`falde til` 不是跌倒，而是逐渐适应新环境。`være ved at falde til` 与 `være faldet til` 不同：前者强调融入过程仍在进行，后者强调已经安顿下来。"
+        }
+    ]
+}
