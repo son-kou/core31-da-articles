@@ -1,0 +1,1969 @@
+{
+    "schema_version": 1,
+    "unit": "U29",
+    "part": "ALL",
+    "source_fingerprint": "U29-ALL-37c021b2c6e7",
+    "sentences": [
+        {
+            "id": "U29-C001",
+            "zh": "埃米尔今年23岁，刚找到人生第一份全职工作。此刻，他正坐在银行里的一位顾问对面，因为他想贷款买一辆二手车。",
+            "grammar": "三个并列谓语 `er`、`har fået` 和 `sidder` 共用主语 Emil，依次交代年龄、就业经历和当前场景。`har lige fået` 使用现在完成时，`lige` 强调刚刚发生。`sidde over for nogen` 表示坐在某人对面。`fordi han vil låne penge` 是原因从句，解释他来银行的目的；从句中的 `vil` 表示意愿。",
+            "vocabulary": [
+                {
+                    "da": "et fuldtidsjob",
+                    "zh": "全职工作",
+                    "note": "相对表达 `et deltidsjob` 兼职工作"
+                },
+                {
+                    "da": "sidde over for nogen",
+                    "zh": "坐在某人对面",
+                    "note": "`over for` 是固定的方位介词组合"
+                },
+                {
+                    "da": "en rådgiver",
+                    "zh": "顾问；咨询人员",
+                    "note": "`en bankrådgiver` 银行客户顾问"
+                },
+                {
+                    "da": "låne penge",
+                    "zh": "借钱；贷款",
+                    "note": "可说 `låne penge af banken` 从银行借钱"
+                },
+                {
+                    "da": "en brugt bil",
+                    "zh": "二手车",
+                    "note": "`brugt` 是 `bruge` 的过去分词作形容词"
+                }
+            ],
+            "nuance": "作者用23岁、第一份全职工作和二手车贷款，建立一个刚开始独立管理个人财务的年轻人形象。`har lige fået` 暗示埃米尔的稳定工资收入才刚刚开始，因此银行需要进一步了解他的实际支付能力，而不能只看他是否已经就业。",
+            "transfer": [
+                "Jeg har lige fået mit første fuldtidsjob.",
+                "Jeg vil gerne låne penge til en brugt bil.",
+                "Jeg har en aftale med min bankrådgiver."
+            ],
+            "pitfall": "`låne` 在丹麦语中既可表示借入，也可在特定结构中表示借出，必须结合介词和参与者判断。`over for` 不应混同于 `foran`；前者强调面对面的相对位置。"
+        },
+        {
+            "id": "U29-C002",
+            "zh": "银行顾问：每个月交完那些固定开支以后，你还剩多少钱？",
+            "grammar": "`Hvor meget har du tilbage` 是特殊疑问句，询问剩余金额。`have noget tilbage` 表示某物还剩多少。`når de faste udgifter er betalt` 是时间或条件从句，`er betalt` 使用 `være + 过去分词`，强调固定开支已经支付完毕的结果状态。`hver måned` 表示每月反复发生的情况。",
+            "vocabulary": [
+                {
+                    "da": "have noget tilbage",
+                    "zh": "还剩下某物；有剩余"
+                },
+                {
+                    "da": "faste udgifter",
+                    "zh": "固定支出",
+                    "note": "如房租、保险和定期账单"
+                },
+                {
+                    "da": "en udgift",
+                    "zh": "支出；费用",
+                    "note": "复数 `udgifter`"
+                },
+                {
+                    "da": "hver måned",
+                    "zh": "每个月"
+                }
+            ],
+            "nuance": "顾问没有首先追问工资总额，而是询问扣除固定支出之后的剩余金额。这体现个人信贷评估关注实际可支配能力。`når ... er betalt` 将问题限定在固定费用支付之后，避免埃米尔把全部工资都当作可以自由花费的钱。",
+            "transfer": [
+                "Hvor meget har du tilbage hver måned?",
+                "Når huslejen er betalt, har jeg omkring 5.000 kroner tilbage.",
+                "Mine faste udgifter er steget."
+            ],
+            "pitfall": "`have tilbage` 是还剩下，不是返回拥有。`er betalt` 描述已经付清的状态，区别于 `bliver betalt` 强调支付过程或一般被支付的情况。"
+        },
+        {
+            "id": "U29-C003",
+            "zh": "埃米尔：这个我还真说不太准。可能有两千来块吧？",
+            "grammar": "`Det ved jeg ... ikke helt` 将宾语 `Det` 前置，因此限定动词 `ved` 紧随其后，符合 V2 语序。`faktisk` 强化坦率承认，`ikke helt` 表示并非完全确定。`Måske et par tusind?` 是省略式估计，省略了金额单位和 `jeg har tilbage` 等已知内容。",
+            "vocabulary": [
+                {
+                    "da": "ikke helt",
+                    "zh": "不完全；不太确定"
+                },
+                {
+                    "da": "faktisk",
+                    "zh": "其实；说真的；事实上"
+                },
+                {
+                    "da": "måske",
+                    "zh": "也许；可能"
+                },
+                {
+                    "da": "et par tusind",
+                    "zh": "两千左右；两千来块",
+                    "note": "具体单位由语境决定，此处为丹麦克朗"
+                }
+            ],
+            "nuance": "埃米尔连续使用 `faktisk`、`ikke helt` 和 `måske`，显示他没有认真计算过每月剩余的钱，只能凭感觉估计。末尾的问号也不是在向顾问询问答案，而是反映自己对金额缺乏把握。",
+            "transfer": [
+                "Det ved jeg faktisk ikke helt.",
+                "Måske et par tusind kroner om måneden.",
+                "Jeg er ikke helt sikker på beløbet."
+            ],
+            "pitfall": "`et par` 核心意义是两个，口语中也可近似表示两三个或少量几个；不能无条件理解为很多。`Det ved jeg ikke` 的 `Det` 是前置宾语，不是主语。"
+        },
+        {
+            "id": "U29-C004",
+            "zh": "银行顾问：我们一起把它算出来，好吗？先从房租开始，然后再算电费、电话费和各种保险费。",
+            "grammar": "`Skal vi + 不定式?` 是用疑问句提出共同采取某项行动的自然方式。`regne det ud` 是动词小品词结构，表示算出结果。第二句的 `starter med` 表示从某项开始，`tager så ... bagefter` 使用 `så` 和 `bagefter` 安排后续步骤。",
+            "vocabulary": [
+                {
+                    "da": "regne noget ud",
+                    "zh": "计算出；算清楚",
+                    "note": "也可引申为想明白某个问题"
+                },
+                {
+                    "da": "starte med",
+                    "zh": "从……开始"
+                },
+                {
+                    "da": "en husleje",
+                    "zh": "房租",
+                    "note": "通常说 `betale husleje`"
+                },
+                {
+                    "da": "en forsikring",
+                    "zh": "保险",
+                    "note": "复数 `forsikringer` 可指多项保险"
+                },
+                {
+                    "da": "bagefter",
+                    "zh": "之后；随后"
+                }
+            ],
+            "nuance": "顾问用 `Skal vi ... sammen?` 而不是直接命令埃米尔交出财务清单，使谈话具有合作解决问题的语气。接着按照支出类别逐项核算，也把原本模糊的财务问题转化成能够执行的步骤。",
+            "transfer": [
+                "Skal vi regne det ud sammen?",
+                "Vi starter med huslejen og tager resten bagefter.",
+                "Lad os gennemgå de faste udgifter."
+            ],
+            "pitfall": "`regne ud` 是计算结果，`regne med` 是预计或指望，`regne på` 常指测算某个方案。`tage` 在这里是依次处理某个支出项目，不是实际拿走电费。"
+        },
+        {
+            "id": "U29-C005",
+            "zh": "埃米尔：还有各种流媒体订阅。我想我订了四个。",
+            "grammar": "`Og streamingtjenester` 是补充清单的省略表达，承接前一句的固定开支。`Jeg tror, jeg har fire` 是口语中省略从句连词 `at` 的常见结构，完整形式为 `Jeg tror, at jeg har fire`。`fire` 后省略了已知的 `streamingtjenester`。",
+            "vocabulary": [
+                {
+                    "da": "en streamingtjeneste",
+                    "zh": "流媒体服务；流媒体订阅平台"
+                },
+                {
+                    "da": "jeg tror, at ...",
+                    "zh": "我想；我认为……",
+                    "note": "日常口语中 `at` 经常省略"
+                },
+                {
+                    "da": "et abonnement",
+                    "zh": "订阅；订阅服务",
+                    "note": "此处相关的财务概念"
+                }
+            ],
+            "nuance": "埃米尔想到一项容易被忽略的重复性开支。`Jeg tror` 暗示他甚至不确定究竟订阅了几个服务，这也反映出自动续费可能弱化人们对小额支出的关注。",
+            "transfer": [
+                "Jeg har fire streamingtjenester.",
+                "Jeg tror, jeg betaler for for mange abonnementer.",
+                "Vi skal også huske streamingtjenesterne."
+            ],
+            "pitfall": "`streamingtjeneste` 是服务本身，`abonnement` 是订阅关系，两者在日常谈话中相关但并不完全相同。"
+        },
+        {
+            "id": "U29-C006",
+            "zh": "银行顾问：这四个你都在用吗？",
+            "grammar": "`Bruger du ...?` 是一般疑问句。`dem` 回指前面的四项流媒体服务，`alle sammen` 强调一个不漏、全部都在使用。",
+            "vocabulary": [
+                {
+                    "da": "alle sammen",
+                    "zh": "全部；一个不落",
+                    "note": "口语中常用来强调所有成员或物品"
+                },
+                {
+                    "da": "bruge en tjeneste",
+                    "zh": "使用某项服务"
+                }
+            ],
+            "nuance": "顾问没有立即要求取消订阅，而是先判断哪些服务具有实际使用价值。这种提问方式使对话从单纯减少支出转向识别不必要的支出。",
+            "transfer": [
+                "Bruger du dem alle sammen?",
+                "Betaler du stadig for alle abonnementerne?",
+                "Hvilke tjenester bruger du faktisk?"
+            ],
+            "pitfall": "`alle sammen` 是强调全部，不是大家在一起使用。`dem` 指前面提到的复数服务。"
+        },
+        {
+            "id": "U29-C007",
+            "zh": "埃米尔：说实话，没有。有两个我早就忘记取消订阅了。",
+            "grammar": "`Ærligt talt` 是表示坦诚的独立话语状语。`To af dem` 是宾语前置，后面采用 `har jeg glemt` 的 V2 语序。`glemme at + 不定式` 表示忘记做某项本应完成的行动。`opsige` 在这里表示终止订阅关系。",
+            "vocabulary": [
+                {
+                    "da": "ærligt talt",
+                    "zh": "说实话；坦白讲"
+                },
+                {
+                    "da": "glemme at",
+                    "zh": "忘记做某事"
+                },
+                {
+                    "da": "opsige et abonnement",
+                    "zh": "取消订阅；终止订阅合同",
+                    "note": "`opsige` 也可用于终止工作或租赁关系"
+                },
+                {
+                    "da": "to af dem",
+                    "zh": "其中两个"
+                }
+            ],
+            "nuance": "埃米尔承认这些支出并非真正有用，而是因为忘记取消而继续存在。`Ærligt talt` 体现一点不好意思，也为后面顾问提出节省开支的建议创造了机会。",
+            "transfer": [
+                "Ærligt talt bruger jeg dem ikke.",
+                "To af abonnementerne har jeg glemt at opsige.",
+                "Jeg skal huske at opsige mit abonnement."
+            ],
+            "pitfall": "`opsige` 是正式终止合同或订阅，不等于简单删除应用程序。`To af dem har jeg ...` 属于宾语前置，不能写成 `To af dem jeg har ...` 而保持主句意义。"
+        },
+        {
+            "id": "U29-C008",
+            "zh": "银行顾问：这就是一个很好的切入点。等我们算出你的每月可支配生活费，就能判断多大额度的贷款才算合理。",
+            "grammar": "`et godt sted at begynde` 是表示适合开始处理某事的固定结构。`Når vi har dit rådighedsbeløb` 是时间从句，前置后主句采用 `kan vi se` 的 V2 语序。`hvor stort et lån der giver mening` 是间接疑问结构，询问多大额度的贷款具有合理性。",
+            "vocabulary": [
+                {
+                    "da": "et godt sted at begynde",
+                    "zh": "一个很好的着手点"
+                },
+                {
+                    "da": "et rådighedsbeløb",
+                    "zh": "扣除固定支出后的可支配生活费",
+                    "note": "银行评估个人或家庭财务能力的重要概念"
+                },
+                {
+                    "da": "et lån",
+                    "zh": "贷款；借款"
+                },
+                {
+                    "da": "give mening",
+                    "zh": "合理；有意义；说得通"
+                }
+            ],
+            "nuance": "顾问把取消闲置订阅看作改善财务状况的第一步，但并不急着决定贷款额度。`giver mening` 比简单说 `kan få` 更审慎：问题不仅是银行能借多少钱，还有借这么多是否符合埃米尔的现实生活预算。",
+            "transfer": [
+                "Det er et godt sted at begynde.",
+                "Når vi kender rådighedsbeløbet, kan vi vurdere lånet.",
+                "Vi skal finde ud af, hvor stort et lån der giver mening."
+            ],
+            "pitfall": "`rådighedsbeløb` 不等于税前工资，也不是所有银行存款余额。`give mening` 不能直译为给予意义，它表示合乎情理。"
+        },
+        {
+            "id": "U29-C009",
+            "zh": "埃米尔：有道理。我原来还以为最重要的就是工资高低呢。",
+            "grammar": "`Fair nok` 是接受对方解释的口语表达。`Jeg troede` 使用过去时，表示之前持有、现在受到修正的看法。`det var lønnen, der var det vigtigste` 是强调句结构 `Det er/var X, der ...`，突出工资是原本被认为最重要的因素。`bare` 使这项先前认知听起来较为单纯。",
+            "vocabulary": [
+                {
+                    "da": "fair nok",
+                    "zh": "有道理；可以接受；好吧",
+                    "note": "常见口语回应"
+                },
+                {
+                    "da": "jeg troede, at ...",
+                    "zh": "我原以为……"
+                },
+                {
+                    "da": "det vigtigste",
+                    "zh": "最重要的事情或因素"
+                },
+                {
+                    "da": "en løn",
+                    "zh": "工资；薪酬"
+                }
+            ],
+            "nuance": "埃米尔开始意识到自己的原有财务理解过于简单。`Fair nok` 表示接受顾问的分析，不是完全兴奋地赞同。`Jeg troede bare` 体现一种重新学习的姿态：收入很重要，但并不是判断贷款承受能力的唯一标准。",
+            "transfer": [
+                "Fair nok. Det havde jeg ikke tænkt på.",
+                "Jeg troede bare, at lønnen var det vigtigste.",
+                "Det er ikke kun lønnen, der tæller."
+            ],
+            "pitfall": "`troede` 与 `tror` 的区别不仅在时间，还能表达原来的认识现在已被修正。强调句中 `der` 不能随意省略。"
+        },
+        {
+            "id": "U29-C010",
+            "zh": "银行顾问：工资告诉我们你挣了多少钱；可支配生活费才告诉我们你实际上负担得起什么。",
+            "grammar": "两个结构平行的主句分别以 `Lønnen` 和 `Rådighedsbeløbet` 为主语。`siger, hvad ...` 后接间接疑问从句。第二句中 `have råd til` 是固定搭配，表示经济上能够承担某项支出。",
+            "vocabulary": [
+                {
+                    "da": "tjene penge",
+                    "zh": "挣钱；赚取收入"
+                },
+                {
+                    "da": "have råd til noget",
+                    "zh": "负担得起某物",
+                    "note": "也可说 `have råd til at + 不定式`"
+                },
+                {
+                    "da": "et rådighedsbeløb",
+                    "zh": "扣除固定开支后的可支配生活费"
+                }
+            ],
+            "nuance": "这是第一章最值得背诵的核心对照句。顾问将收入与消费能力明确分开：工资反映收入水平，可支配生活费则更接近扣除固定义务后的实际生活空间。重复 `siger` 使观点清楚而有说服力。",
+            "transfer": [
+                "Lønnen viser, hvad du tjener.",
+                "Rådighedsbeløbet viser, hvad du har råd til.",
+                "Jeg har ikke råd til en dyrere lejlighed."
+            ],
+            "pitfall": "`have råd til` 是负担得起，不能缺少 `til`。`råd` 在这里表示财务能力，不是建议 `et råd` 的通常意义。"
+        },
+        {
+            "id": "U29-C011",
+            "zh": "所谓每月可支配生活费，就是支付全部固定开支后剩下的钱，也就是必须用来承担吃饭、买衣服、休闲活动以及各种意外账单的那笔钱。",
+            "grammar": "`Et rådighedsbeløb er det, der ...` 使用 `det, der` 名词化关系结构定义概念。`når alle de faste udgifter er betalt` 是时间或条件从句。破折号后用 `det, man skal leve af` 重新解释剩余资金的用途。`leve af` 表示依靠某种资源维持生活。",
+            "vocabulary": [
+                {
+                    "da": "et rådighedsbeløb",
+                    "zh": "可支配生活费；固定支出后剩余金额"
+                },
+                {
+                    "da": "leve af",
+                    "zh": "靠……生活；用……维持日常开支"
+                },
+                {
+                    "da": "fritid",
+                    "zh": "闲暇时间；休闲活动",
+                    "note": "在预算中指休闲相关消费"
+                },
+                {
+                    "da": "uforudsete regninger",
+                    "zh": "意料之外的账单",
+                    "note": "`uforudset` 表示未预料到的"
+                }
+            ],
+            "nuance": "作者通过定义强调，可支配生活费虽然是扣除固定支出后剩余的钱，却并不意味着可以全部用于享乐。饮食、衣物和突发开支仍要从中支付。这个概念是理解丹麦家庭预算和银行信贷评估的重要基础。",
+            "transfer": [
+                "Rådighedsbeløbet er det, vi har tilbage efter de faste udgifter.",
+                "Vi skal leve af pengene resten af måneden.",
+                "Budgettet skal også kunne dække uforudsete regninger."
+            ],
+            "pitfall": "`rådighedsbeløb` 不是纯粹可以随意消费的闲钱。`leve af` 表示依靠某笔钱生活，不能与 `leve med` 忍受或接受混淆。"
+        },
+        {
+            "id": "U29-C012",
+            "zh": "做一份简单的预算表，把收入列在一栏、支出列在另一栏，就能让财务状况一目了然；而且常常会发现，那些看似不起眼的小额订阅，累积起来竟是一笔不小的钱。",
+            "grammar": "`Et enkelt budget ... giver overblik` 是主句骨架。`med indtægter i den ene kolonne og udgifter i den anden` 使用平行结构，其中第二个 `kolonne` 被省略。`det afslører` 中 `det` 回指预算表。`der tilsammen bliver til store beløb` 是关系从句，`blive til` 表示逐渐构成或累积成某个结果。",
+            "vocabulary": [
+                {
+                    "da": "en indtægt",
+                    "zh": "收入",
+                    "note": "复数 `indtægter`"
+                },
+                {
+                    "da": "give overblik",
+                    "zh": "使情况清晰；帮助掌握全貌"
+                },
+                {
+                    "da": "afsløre",
+                    "zh": "揭示；暴露；使人发现"
+                },
+                {
+                    "da": "et abonnement",
+                    "zh": "订阅；定期付费服务"
+                },
+                {
+                    "da": "tilsammen",
+                    "zh": "合计；加在一起"
+                }
+            ],
+            "nuance": "作者没有把预算描述成复杂的金融模型，而是强调一张简单表格就能改善认知。`små abonnementer` 与 `store beløb` 形成鲜明对照，指出低金额、重复发生的支出容易被忽视。`afslører` 带有发现原本不明显问题的意味。",
+            "transfer": [
+                "Et simpelt budget giver et godt overblik.",
+                "Små udgifter bliver tilsammen til store beløb.",
+                "Jeg har skrevet indtægterne i den ene kolonne og udgifterne i den anden."
+            ],
+            "pitfall": "`en indtægt` 是收入，`en udgift` 是支出，不能混淆。`den anden` 在此省略已知的 `kolonne`。`blive til` 表示形成某结果，不是单纯移动到某处。"
+        },
+        {
+            "id": "U29-C013",
+            "zh": "顾问还建议预留一笔应急储备金，用来应对意外支出。这样，洗衣机突然坏了或者收到牙医账单时，就不必再靠高息贷款来支付。",
+            "grammar": "`Rådgivere anbefaler, at ...` 是建议加宾语从句。`have en buffer til` 表示为某种用途保留储备。`så ... ikke skal betales med et dyrt lån` 是目的或结果从句，使用情态动词 `skal` 与被动不定式 `betales`，突出避免依赖贷款支付突发费用。",
+            "vocabulary": [
+                {
+                    "da": "en buffer",
+                    "zh": "财务缓冲金；应急储备",
+                    "note": "经济语境中指应付意外情况的资金"
+                },
+                {
+                    "da": "uforudsete udgifter",
+                    "zh": "意外支出"
+                },
+                {
+                    "da": "lægge penge til side",
+                    "zh": "存下一笔钱；预留资金"
+                },
+                {
+                    "da": "en tandlægeregning",
+                    "zh": "牙医账单"
+                },
+                {
+                    "da": "et dyrt lån",
+                    "zh": "成本高昂的贷款",
+                    "note": "通常指利息及相关费用较高"
+                }
+            ],
+            "nuance": "作者用洗衣机损坏和牙医费用等生活化例子说明应急储备的用途，而不是单纯要求多储蓄。`buffer` 体现风险管理思想：让一次意外支出不至于转化为长期债务负担。",
+            "transfer": [
+                "Det er en god idé at have en buffer til uforudsete udgifter.",
+                "Jeg lægger penge til side hver måned.",
+                "Så behøver vi ikke at optage et dyrt lån."
+            ],
+            "pitfall": "`en buffer` 在这里不是计算机缓冲区，而是财务储备。`dyrt lån` 指融资成本高，不只是借款本金大。"
+        },
+        {
+            "id": "U29-C014",
+            "zh": "如今借钱比以往任何时候都方便，往往只需在手机上点几下就能申请。",
+            "grammar": "`Det er blevet nemmere end nogensinde at ...` 使用形式主语 `Det` 与现在完成时 `er blevet`，强调从过去到现在发生的变化。`nemmere end nogensinde` 是比较结构，表示比以往任何时候都容易。破折号后使用介词短语 `med et par klik på telefonen` 说明操作方式。",
+            "vocabulary": [
+                {
+                    "da": "nemmere end nogensinde",
+                    "zh": "比以往任何时候都更容易"
+                },
+                {
+                    "da": "låne penge",
+                    "zh": "借钱；贷款"
+                },
+                {
+                    "da": "et klik",
+                    "zh": "一次点击",
+                    "note": "复数 `klik`"
+                },
+                {
+                    "da": "et par klik",
+                    "zh": "点几下；少量点击操作"
+                }
+            ],
+            "nuance": "作者用 `et par klik` 形象地描写数字信贷的低操作门槛。句子本身不直接评价便利是好是坏，但紧接着讨论高成本贷款和失去财务控制的风险，因此这里具有明显的铺垫作用。",
+            "transfer": [
+                "Det er blevet nemmere end nogensinde at låne penge.",
+                "Man kan ansøge med et par klik.",
+                "Digitale tjenester har gjort processen lettere."
+            ],
+            "pitfall": "`er blevet nemmere` 强调已经变得更容易，与单纯的 `er nemt` 当前很容易不同。申请手续方便不等于贷款条件优惠。"
+        },
+        {
+            "id": "U29-C015",
+            "zh": "过去，有些所谓的快速贷款，仅利息和手续费加起来，甚至可能超过借款本金本身。",
+            "grammar": "`Tidligere` 置于句首，限定动词 `kunne` 紧随其后。`kunne koste mere ... end ...` 表示过去存在某种可能的费用情况。`mere i renter og gebyrer end selve det beløb` 是比较结构，`selve` 强调借款本金本身。`man lånte` 是省略关系代词的关系从句，修饰金额。",
+            "vocabulary": [
+                {
+                    "da": "et kviklån",
+                    "zh": "快速贷款；短期高成本消费贷款",
+                    "note": "通常强调申请和放款快捷"
+                },
+                {
+                    "da": "en rente",
+                    "zh": "利息；利率",
+                    "note": "复数 `renter` 在这里指利息费用"
+                },
+                {
+                    "da": "et gebyr",
+                    "zh": "手续费；行政收费"
+                },
+                {
+                    "da": "selve beløbet",
+                    "zh": "金额本身；本金本身"
+                },
+                {
+                    "da": "koste mere end",
+                    "zh": "成本超过……"
+                }
+            ],
+            "nuance": "这里对比的是借款本金与额外融资费用，而不是简单说还款总额超过本金。`kunne` 表示过去某些贷款可能出现这种极端成本，不代表所有快速贷款都如此。`såkaldte` 用于引入这一贷款类别。",
+            "transfer": [
+                "Lånet kan koste mere i renter og gebyrer end forventet.",
+                "Man skal se på de samlede omkostninger ved lånet.",
+                "Tidligere var nogle kviklån meget dyre."
+            ],
+            "pitfall": "`rente` 可表示利率，`renter` 也可表示实际支付的利息金额。`selve beløbet` 强调本金，不应把本金和融资费用加总后再与本金比较。"
+        },
+        {
+            "id": "U29-C016",
+            "zh": "因此，自2020年以来，法律对这类贷款的成本设立了明确上限。",
+            "grammar": "`Siden 2020` 是从过去延续至今的时间状语，前置后出现 `har der været` 的 V2 语序。`der har været` 是存在结构的现在完成时。`et lovbestemt loft over` 表示法律规定的上限。`hvor dyre den slags lån må være` 是间接疑问从句，说明上限限制贷款成本达到什么程度。",
+            "vocabulary": [
+                {
+                    "da": "lovbestemt",
+                    "zh": "法律规定的；法定的"
+                },
+                {
+                    "da": "et loft over",
+                    "zh": "对……设定的上限",
+                    "note": "经济和政策语境中常用"
+                },
+                {
+                    "da": "den slags",
+                    "zh": "那种；这一类"
+                },
+                {
+                    "da": "må være",
+                    "zh": "被允许达到；可以处于某种状态"
+                }
+            ],
+            "nuance": "`derfor` 把前文高额融资费用与后来的监管措施建立因果联系。`lovbestemt loft` 是制度层面的价格或成本限制，不能简单理解为政府直接禁止所有相关贷款。作者强调消费者保护中的监管作用。",
+            "transfer": [
+                "Der er et lovbestemt loft over låneomkostningerne.",
+                "Siden 2020 har reglerne begrænset, hvor dyre visse lån må være.",
+                "Der er indført et loft over gebyrerne."
+            ],
+            "pitfall": "`et loft` 字面意思是天花板，在经济政策中常表示上限。`siden 2020` 是自2020年以来，区别于 `i 2020` 单指2020年。"
+        },
+        {
+            "id": "U29-C017",
+            "zh": "而且，借钱越容易，人也就越容易失去对自己财务状况的掌控。",
+            "grammar": "`jo + 比较级 ..., desto + 比较级 ...` 是典型的关联比较结构，表示前一个变量增加时，后一个变量也随之变化。`jo lettere det er at låne` 是前半部分，`desto lettere er det også at miste overblikket` 是后半部分。后半句中限定动词 `er` 位于比较成分之后，符合主句 V2 语序。",
+            "vocabulary": [
+                {
+                    "da": "jo ... desto ...",
+                    "zh": "越……就越……",
+                    "note": "也可见 `jo ... jo ...`，但 `jo ... desto ...` 很适合正式论述"
+                },
+                {
+                    "da": "miste overblikket",
+                    "zh": "失去全局掌控；弄不清整体情况"
+                },
+                {
+                    "da": "lettere",
+                    "zh": "更容易的",
+                    "note": "`let – lettere – lettest`"
+                }
+            ],
+            "nuance": "作者通过对称的比较结构揭示便利性与风险之间的关系。`overblikket` 在这里不是丢失一张表格，而是无法全面掌握自己的债务、支出和偿还能力。这个句型特别适合 B2–C1 议论文中说明趋势和权衡。",
+            "transfer": [
+                "Jo lettere det er at låne, desto større kan risikoen blive.",
+                "Jo mere man bruger, desto mindre har man tilbage.",
+                "Jo flere abonnementer man har, desto sværere er det at bevare overblikket."
+            ],
+            "pitfall": "`jo ... desto ...` 后面通常使用比较级，不是最高级。`miste overblikket` 要整体理解为失去全局认知，不是丢失物品。"
+        },
+        {
+            "id": "U29-C018",
+            "zh": "一个人如果不按时支付账单，就可能被登记为信用不良的付款人。这样一来，在之后的很多年里，贷款、租房，甚至办理手机套餐都可能变得困难。",
+            "grammar": "`Den, der ikke betaler sine regninger` 是名词化关系结构，表示凡是符合此条件的人。`kan blive registreret som` 使用情态动词加 `blive` 被动态，表示可能被列入某种记录。`så` 引出后果，后半句采用形式主语 `det` 加 `blive svært at`，说明取得贷款、住房或手机订阅可能变得困难。",
+            "vocabulary": [
+                {
+                    "da": "betale sine regninger",
+                    "zh": "支付账单"
+                },
+                {
+                    "da": "blive registreret som",
+                    "zh": "被登记为……"
+                },
+                {
+                    "da": "en dårlig betaler",
+                    "zh": "信用不良的付款人；拖欠付款者"
+                },
+                {
+                    "da": "i årevis",
+                    "zh": "连续多年；长达数年"
+                },
+                {
+                    "da": "et mobilabonnement",
+                    "zh": "手机通信套餐；手机订阅合约"
+                }
+            ],
+            "nuance": "作者强调未履行付款义务可能产生长期、跨领域的后果。`kan` 表示可能性，不是每次迟付都必然立即被登记。`i årevis` 将视角从一次账单扩大到长期信用与生活机会。",
+            "transfer": [
+                "Den, der ikke betaler sine regninger, kan få økonomiske problemer.",
+                "Man kan blive registreret som dårlig betaler.",
+                "Det kan blive svært at få et lån i flere år."
+            ],
+            "pitfall": "`dårlig betaler` 不表示这个人整体品质不好，而是付款记录或履约情况不佳。`registreret` 不能理解为任何一次逾期都会自动永久登记。"
+        },
+        {
+            "id": "U29-C019",
+            "zh": "我们会在一月份买下健身房的全年会员，因为我们花钱买单的，其实是那个自己希望成为的人。",
+            "grammar": "`Vi køber ... fordi ...` 是主句加原因从句。`et årskort til fitnesscentret` 表示健身房年度会员资格。`den person, vi gerne vil være` 是省略关系代词的关系从句，修饰理想中的自我。`betale for` 在这里既有实际付款意义，也带有为理想身份付费的修辞意味。",
+            "vocabulary": [
+                {
+                    "da": "et årskort",
+                    "zh": "年卡；全年会员资格"
+                },
+                {
+                    "da": "et fitnesscenter",
+                    "zh": "健身房；健身中心"
+                },
+                {
+                    "da": "betale for",
+                    "zh": "为……付款；支付……的费用"
+                },
+                {
+                    "da": "gerne ville være",
+                    "zh": "希望成为；想成为"
+                }
+            ],
+            "nuance": "这是一句带有行为经济学意味的幽默观察。新年买健身卡并不只是购买使用健身设施的机会，也可能是在购买对未来自我的期待。`den person, vi gerne vil være` 把抽象的自我改善目标具体化，句子因此具有很强的表达力。",
+            "transfer": [
+                "Vi betaler nogle gange for den person, vi gerne vil være.",
+                "Jeg har købt et årskort til fitnesscentret.",
+                "Der er forskel på den person, vi er, og den person, vi gerne vil være."
+            ],
+            "pitfall": "`et årskort` 是一年有效的卡或资格，不是银行卡。`betale for den person` 在这里是修辞，不意味着真的购买一个人。"
+        },
+        {
+            "id": "U29-C020",
+            "zh": "可到了二月份一个下雨的星期二，真正需要走进健身房的，却是现实中那个普普通通的自己。",
+            "grammar": "`Det er X, der ...` 是强调句结构，焦点落在 `den person, vi faktisk er`。其中 `vi faktisk er` 是省略关系代词的关系从句，描述现实中的自己。`skal tage derhen` 表示必须亲自去那个地方，`derhen` 回指健身房。`en regnfuld tirsdag i februar` 是不带介词的时间状语。",
+            "vocabulary": [
+                {
+                    "da": "faktisk",
+                    "zh": "实际上；真实地"
+                },
+                {
+                    "da": "tage derhen",
+                    "zh": "去那里；前往那个地方"
+                },
+                {
+                    "da": "regnfuld",
+                    "zh": "多雨的；下雨的"
+                },
+                {
+                    "da": "en tirsdag",
+                    "zh": "一个星期二"
+                }
+            ],
+            "nuance": "这一句与上一句构成精彩的修辞对照：一月购买的是理想中的自己，二月真正行动的却是现实中的自己。`regnfuld tirsdag` 具有刻意选择的日常感，暗示当新年热情消退、天气又不理想时，坚持锻炼远比付款困难。",
+            "transfer": [
+                "Det er den person, vi faktisk er, der skal gøre arbejdet.",
+                "Det er let at planlægge, men sværere at handle.",
+                "Jeg skal stadig tage derhen, selv om det regner."
+            ],
+            "pitfall": "`derhen` 表示朝那里去，`der` 表示在那里。强调句中的 `der` 不要误认为地点副词。"
+        },
+        {
+            "id": "U29-C021",
+            "zh": "商家也会利用同样的消费心理：把糖果放在收银台旁，在促销价旁边标上一个更高的原价，或者推出买三付二的优惠。",
+            "grammar": "`Butikker bruger den samme psykologi` 是主句。`når de ...` 引出说明商家采取哪些做法的从句，其中三个并列谓语分别是 `placerer`、`skriver` 和 `tilbyder`。`ved siden af tilbuddet` 表示价格标注的位置。`tre for to` 是省略式促销表达。",
+            "vocabulary": [
+                {
+                    "da": "placere",
+                    "zh": "放置；摆放"
+                },
+                {
+                    "da": "ved kassen",
+                    "zh": "在收银台旁"
+                },
+                {
+                    "da": "et tilbud",
+                    "zh": "优惠；促销商品",
+                    "note": "也可表示提议或报价"
+                },
+                {
+                    "da": "førpris",
+                    "zh": "原价；促销前价格",
+                    "note": "相关常用词；原文使用标记 `før`"
+                },
+                {
+                    "da": "tre for to",
+                    "zh": "买三付二",
+                    "note": "购买三件，只支付两件的价格"
+                }
+            ],
+            "nuance": "作者通过收银台糖果、原价对照和多件优惠，说明商家如何利用冲动、价格锚定与占便宜心理。`den samme psykologi` 回指消费者经常不是只依据实际需要购物，而会受到期待、展示方式和情境影响。",
+            "transfer": [
+                "Butikker placerer ofte slik ved kassen.",
+                "Tilbuddet lyder på tre for to.",
+                "En høj førpris kan påvirke vores vurdering."
+            ],
+            "pitfall": "`før` 在价格标签中表示之前的价格，不是命令式。`tre for to` 指买三件按两件计价，不是三件一共两克朗。"
+        },
+        {
+            "id": "U29-C022",
+            "zh": "这些做法本身并不违法；但如果想自己掌控消费，而不是反过来受消费心理左右，了解这些营销手法就很有帮助。",
+            "grammar": "两个主句通过 `men` 对照。`det er nyttigt at kende de greb` 使用形式主语 `det` 和真正内容 `at kende ...`。`hvis man vil styre sit forbrug` 是条件从句。`i stedet for at blive styret af det` 使用被动不定式，与前面的主动 `styre` 形成修辞上的对应。",
+            "vocabulary": [
+                {
+                    "da": "ulovlig",
+                    "zh": "违法的"
+                },
+                {
+                    "da": "et greb",
+                    "zh": "手法；技巧；策略",
+                    "note": "此处指营销或心理影响技巧"
+                },
+                {
+                    "da": "styre sit forbrug",
+                    "zh": "控制自己的消费"
+                },
+                {
+                    "da": "i stedet for at",
+                    "zh": "而不是；代替做某事"
+                },
+                {
+                    "da": "blive styret af",
+                    "zh": "受到……控制；被……左右"
+                }
+            ],
+            "nuance": "作者没有把所有营销手法都描述为欺诈，而是强调消费者应理解这些影响机制。前后的 `styre` 构成主动与被动对照：自己管理消费，还是反过来被消费环境所操控。这一表达很适合用于数字平台、社交媒体或时间管理议题。",
+            "transfer": [
+                "Det er nyttigt at kende de psykologiske greb.",
+                "Jeg vil styre mit forbrug i stedet for at blive styret af det.",
+                "Man kan træffe bedre valg, hvis man forstår mekanismerne."
+            ],
+            "pitfall": "`et greb` 本义可指抓握方式，在这里是方法或手段。`ikke ulovligt` 只表示并非违法，不等于一定对消费者有利。"
+        },
+        {
+            "id": "U29-C023",
+            "zh": "如果在普通实体店买了东西后又改变主意，是否允许换货由商店自行决定；这是店家提供的一项服务，而不是消费者依法享有的权利。",
+            "grammar": "`Fortryder man et køb` 是省略 `hvis` 的条件倒装，相当于如果买后反悔。主句使用 `er det op til butikken`，表示决定权归商家。`om man må bytte varen` 是间接疑问从句。破折号后通过 `en service og ikke en rettighed` 明确区分自愿服务与法定权利。",
+            "vocabulary": [
+                {
+                    "da": "fortryde et køb",
+                    "zh": "对购买决定反悔"
+                },
+                {
+                    "da": "være op til nogen",
+                    "zh": "由某人决定；取决于某人"
+                },
+                {
+                    "da": "bytte en vare",
+                    "zh": "换货"
+                },
+                {
+                    "da": "en rettighed",
+                    "zh": "权利；法定权益"
+                },
+                {
+                    "da": "en almindelig butik",
+                    "zh": "普通实体商店",
+                    "note": "本句用于与网购的特殊规则形成区分"
+                }
+            ],
+            "nuance": "核心在于区分单纯改变主意与商品存在缺陷。实体商店愿意提供退换货服务，不代表消费者在所有情况下都拥有无条件退换权。`op til butikken` 是说明决定权归属的高频表达。",
+            "transfer": [
+                "Fortryder man et køb, afhænger det af butikkens regler.",
+                "Det er op til butikken, om varen kan byttes.",
+                "Bytteret er ikke altid en lovbestemt rettighed."
+            ],
+            "pitfall": "`fortrydelsesret` 与 `reklamationsret` 不是同一回事。实体店购物后的自愿换货政策，也不能简单等同于网购可能适用的法定撤销权。"
+        },
+        {
+            "id": "U29-C024",
+            "zh": "但如果商品本身存在问题，消费者则享有两年的瑕疵投诉权，无论是在实体店还是在网上购买都一样。",
+            "grammar": "`Har varen derimod en fejl` 是省略 `hvis` 的条件倒装，表示如果商品存在缺陷。`derimod` 强调与上一句买后反悔形成对照。主句 `har man to års reklamationsret` 使用属格时间表达 `to års` 修饰权利期限。`både ... og ...` 连接实体店与网上两个购买渠道。",
+            "vocabulary": [
+                {
+                    "da": "derimod",
+                    "zh": "相比之下；而；却",
+                    "note": "用于突出明确对照"
+                },
+                {
+                    "da": "en fejl",
+                    "zh": "错误；故障；瑕疵"
+                },
+                {
+                    "da": "reklamationsret",
+                    "zh": "商品瑕疵投诉权；质量问题救济权"
+                },
+                {
+                    "da": "på nettet",
+                    "zh": "在网上；通过网络"
+                },
+                {
+                    "da": "to års",
+                    "zh": "两年的",
+                    "note": "时间名词作属格修饰"
+                }
+            ],
+            "nuance": "作者用 `derimod` 清楚划分消费者权利的两个场景：不喜欢所购物品，与商品存在质量问题，法律后果不同。两年投诉期限并不表示商品在任何损坏情况下都能免费换新，仍须判断问题是否属于卖方应承担责任的瑕疵。",
+            "transfer": [
+                "Har varen en fejl, kan man reklamere.",
+                "Man har som udgangspunkt to års reklamationsret.",
+                "Reglerne gælder både i butikker og på nettet."
+            ],
+            "pitfall": "`reklamationsret` 不等于商业保修 `garanti`，更不是商品两年内无条件免费更换。`derimod` 表示对照，不能简单替换为时间上的然后。"
+        },
+        {
+            "id": "U29-C025",
+            "zh": "顾客：我三个月前买了这副耳机，可现在其中一边已经不出声了。",
+            "grammar": "`Jeg købte ... for tre måneder siden` 使用过去时描述具体购买事件。`nu virker den ene side ikke` 则使用现在时说明当前故障。`den ene side` 表示两个耳机单元中的一边，`virke` 在这里表示正常工作。",
+            "vocabulary": [
+                {
+                    "da": "høretelefoner",
+                    "zh": "耳机",
+                    "note": "通常以复数形式使用"
+                },
+                {
+                    "da": "for tre måneder siden",
+                    "zh": "三个月前"
+                },
+                {
+                    "da": "virke",
+                    "zh": "正常运行；起作用",
+                    "note": "常用于设备或功能是否正常"
+                },
+                {
+                    "da": "den ene side",
+                    "zh": "其中一边"
+                }
+            ],
+            "nuance": "顾客准确提供了购买时间和故障表现，符合有效售后沟通的基本要求。`virker ikke` 是日常描述电子产品故障的自然说法，不需要提前判断损坏的技术原因。",
+            "transfer": [
+                "Jeg købte dem for tre måneder siden.",
+                "Den ene side virker ikke længere.",
+                "Jeg vil gerne reklamere over et par høretelefoner."
+            ],
+            "pitfall": "`virke` 在这里不是工作就业，而是设备能否正常运行。`for tre måneder siden` 与 `i tre måneder` 的时间意义不同。"
+        },
+        {
+            "id": "U29-C026",
+            "zh": "店员：可以让我看一下购物凭证吗？",
+            "grammar": "`Kan jeg se ...?` 形式上是询问能力的一般疑问句，实际在服务场景中构成礼貌请求。`kvitteringen` 为定冠词形式，指与这次购买对应的凭证。",
+            "vocabulary": [
+                {
+                    "da": "en kvittering",
+                    "zh": "收据；购物凭证",
+                    "note": "定冠词 `kvitteringen`"
+                }
+            ],
+            "nuance": "店员先确认购买记录，而不是直接否定或接受顾客的主张。`Kan jeg se ...?` 是简洁、自然的服务用语。",
+            "transfer": [
+                "Kan jeg se kvitteringen?",
+                "Har du kvitteringen med?",
+                "Kan du finde købsbeviset?"
+            ],
+            "pitfall": "`en kvittering` 通常是付款凭证，`en faktura` 是发票或付款账单，两者有时都能证明交易，但并不完全等同。"
+        },
+        {
+            "id": "U29-C027",
+            "zh": "顾客：收据就在我的邮箱里。给，你看。",
+            "grammar": "`Den` 回指上一句的收据。`ligger i min mail` 使用 `ligge` 表示信息储存或存在于电子邮件中。`Her` 是省略式展示用语，可理解为就在这里或请看这里。",
+            "vocabulary": [
+                {
+                    "da": "ligge i min mail",
+                    "zh": "保存在我的电子邮件中"
+                },
+                {
+                    "da": "her",
+                    "zh": "这里；给你看"
+                }
+            ],
+            "nuance": "顾客使用手机或邮箱中的电子购物凭证回应店员，不需要特地解释为什么没有纸质收据。`Her` 在面对面出示物品或屏幕时非常自然。",
+            "transfer": [
+                "Kvitteringen ligger i min mail.",
+                "Jeg finder den lige.",
+                "Her er den."
+            ],
+            "pitfall": "`ligge` 可用于描述电子文件的所在位置，不必译成实体物品躺在邮箱中。"
+        },
+        {
+            "id": "U29-C028",
+            "zh": "店员：好的。我们会把耳机送去维修；如果修不好，就给你换一副新的。",
+            "grammar": "`Vi sender dem til reparation` 使用 `sende noget til` 表示把物品送去某个处理环节。`eller også` 引出另一种处理方案。`hvis de ikke kan laves` 是条件从句，其中 `kan laves` 使用情态动词加 s-被动，表示能否被修好。",
+            "vocabulary": [
+                {
+                    "da": "sende til reparation",
+                    "zh": "送去维修"
+                },
+                {
+                    "da": "en reparation",
+                    "zh": "维修；修理"
+                },
+                {
+                    "da": "eller også",
+                    "zh": "或者另一种情况是；否则就"
+                },
+                {
+                    "da": "et par nye",
+                    "zh": "一副新的",
+                    "note": "省略了 `høretelefoner`"
+                },
+                {
+                    "da": "kunne laves",
+                    "zh": "能够被修好",
+                    "note": "`lave` 在口语中可表示修理"
+                }
+            ],
+            "nuance": "店员给出清楚的售后处理顺序：先维修，如果无法修复，再提供新的耳机。`Fint` 表明购物凭证已经得到确认。原文描述的是这一具体商店提出的处理方案，并非规定所有质量投诉都必须采用相同顺序。",
+            "transfer": [
+                "Vi sender varen til reparation.",
+                "Hvis den ikke kan laves, får du en ny.",
+                "Det kan tage lidt tid at reparere den."
+            ],
+            "pitfall": "`lave` 不只表示制作，在设备故障语境中也可以表示修好。`et par nye` 是一副新的耳机，不是两个互不相关的产品。"
+        },
+        {
+            "id": "U29-C029",
+            "zh": "顾客：那大概要多久？",
+            "grammar": "`Hvor lang tid tager det?` 是询问某个过程所需时间的固定句型。`det` 回指维修或整个售后处理过程。",
+            "vocabulary": [
+                {
+                    "da": "hvor lang tid",
+                    "zh": "多长时间；多久"
+                },
+                {
+                    "da": "tage tid",
+                    "zh": "花费时间"
+                }
+            ],
+            "nuance": "顾客关心的是何时能够重新拿到可用的耳机，而不需要重复完整描述维修事项。简短问题符合售后对话节奏。",
+            "transfer": [
+                "Hvor lang tid tager det?",
+                "Hvor lang tid tager reparationen?",
+                "Kan det klares på en uge?"
+            ],
+            "pitfall": "`Hvor lang tid` 问时间长度，`Hvor langt` 问距离，不要混淆。"
+        },
+        {
+            "id": "U29-C030",
+            "zh": "店员：一般要一两个星期。处理好了我就给你打电话。",
+            "grammar": "`Normalt et par uger` 是省略式回答，省略了 `Det tager`。`Jeg ringer, når de er klar` 使用 `når` 时间从句，说明耳机准备好之后会通知。`klar` 在这里表示维修或更换流程已经完成、可以领取。",
+            "vocabulary": [
+                {
+                    "da": "normalt",
+                    "zh": "通常；一般情况下"
+                },
+                {
+                    "da": "et par uger",
+                    "zh": "一两个星期；大约两周"
+                },
+                {
+                    "da": "være klar",
+                    "zh": "准备好；可以领取或使用"
+                },
+                {
+                    "da": "ringe",
+                    "zh": "打电话"
+                }
+            ],
+            "nuance": "`normalt` 表示通常所需时间，不是明确的完成日期承诺。`når de er klar` 比 `hvis de er klar` 更自然，因为这里谈的是预计会完成后何时通知，而不是怀疑维修是否永远能够结束。",
+            "transfer": [
+                "Det tager normalt et par uger.",
+                "Jeg ringer, når varen er klar.",
+                "Vi kontakter dig, så snart reparationen er færdig."
+            ],
+            "pitfall": "`når` 在这里表示将来的时间条件，丹麦语直接使用现在时 `er`，不必另外构造将来时。"
+        },
+        {
+            "id": "U29-C031",
+            "zh": "如果与商家发生消费纠纷，可以向处理消费者投诉的委员会申诉；不过，很多争议在发展到需要正式申诉之前，就已经得到解决。",
+            "grammar": "`Er man uenig med en forretning` 是省略 `hvis` 的条件倒装，主句随后采用 `kan man klage` 的 V2 语序。`klage til` 表示向某机构申诉。`bliver løst` 使用 `blive` 被动态。`uden at det kommer så langt` 是固定化的从句表达，表示事情尚未发展到如此严重或正式的阶段。",
+            "vocabulary": [
+                {
+                    "da": "være uenig med",
+                    "zh": "与……意见不一致；发生争议"
+                },
+                {
+                    "da": "klage til",
+                    "zh": "向……投诉或申诉"
+                },
+                {
+                    "da": "et nævn",
+                    "zh": "委员会；审议或申诉机构"
+                },
+                {
+                    "da": "en forbrugerklage",
+                    "zh": "消费者投诉"
+                },
+                {
+                    "da": "en tvist",
+                    "zh": "争议；纠纷",
+                    "note": "正式法律和商业语境常见"
+                },
+                {
+                    "da": "komme så langt",
+                    "zh": "发展到那一步"
+                }
+            ],
+            "nuance": "作者提供了一个循序解决消费争议的思路：先与商家沟通，必要时再寻求正式投诉处理。`uden at det kommer så langt` 语气自然，强调许多问题可以在进入更正式的纠纷程序之前解决。",
+            "transfer": [
+                "Er man uenig med butikken, kan man klage.",
+                "Mange tvister bliver løst uden en formel klage.",
+                "Jeg håber, det kan løses, uden at det kommer så langt."
+            ],
+            "pitfall": "`uenig med` 表示与某人或机构意见不一致，`uenig i` 通常用于不赞同某个观点。`nævn` 是委员会性质的机构，不一定是法院。"
+        },
+        {
+            "id": "U29-C032",
+            "zh": "路易丝是一名平面设计师，过去三年一直在欧登塞的一处共享办公空间经营自己的公司。",
+            "grammar": "`er grafisk designer` 说明职业。`har drevet sin egen virksomhed ... i tre år` 使用现在完成时，表示经营活动从三年前开始并持续至今。`drive en virksomhed` 是固定搭配。`fra et kontorfællesskab` 表示以共享办公空间作为经营地点或工作基地。",
+            "vocabulary": [
+                {
+                    "da": "en grafisk designer",
+                    "zh": "平面设计师"
+                },
+                {
+                    "da": "drive en virksomhed",
+                    "zh": "经营企业；运营公司",
+                    "note": "`driver – drev – drevet`"
+                },
+                {
+                    "da": "selvstændig",
+                    "zh": "自雇的；自主经营的",
+                    "note": "也可作名词表示自雇人士"
+                },
+                {
+                    "da": "et kontorfællesskab",
+                    "zh": "共享办公空间；联合办公场所"
+                },
+                {
+                    "da": "i tre år",
+                    "zh": "持续三年"
+                }
+            ],
+            "nuance": "作者用自雇设计师引出企业财务与个人工资收入的区别。`har drevet` 说明路易丝并非刚刚创业，而是已有三年经营经验；但即使如此，她仍可能对现金流和税务义务感到困惑。",
+            "transfer": [
+                "Jeg har drevet min egen virksomhed i tre år.",
+                "Hun arbejder som selvstændig grafisk designer.",
+                "Virksomheden har kontor i et kontorfællesskab."
+            ],
+            "pitfall": "`drive` 在这里是经营企业，不是英语 drive 的开车。`i tre år` 与现在完成时搭配表示持续至今，`for tre år siden` 才是三年前某一时点。"
+        },
+        {
+            "id": "U29-C033",
+            "zh": "会计师：你的营业额比去年增长了20%。恭喜你。",
+            "grammar": "`er steget med 20 procent` 使用现在完成时，表示营业额已经增长。`med` 引出增长幅度，`i forhold til sidste år` 说明比较基准。`Tillykke` 是独立祝贺表达。",
+            "vocabulary": [
+                {
+                    "da": "en omsætning",
+                    "zh": "营业额；销售收入"
+                },
+                {
+                    "da": "stige med",
+                    "zh": "增长了某个幅度",
+                    "note": "`steg med 20 procent` 增长20%"
+                },
+                {
+                    "da": "i forhold til",
+                    "zh": "与……相比；相对于"
+                },
+                {
+                    "da": "tillykke",
+                    "zh": "恭喜；祝贺"
+                }
+            ],
+            "nuance": "会计师指出的是营业额增长，而不是企业利润或个人可花的钱同比增长。这个区别是后续财务对话的关键。`Tillykke` 表示增长值得肯定，但并不意味着路易丝的现金状况必然同步改善。",
+            "transfer": [
+                "Omsætningen er steget med 20 procent.",
+                "Indtægterne er steget i forhold til sidste år.",
+                "Tillykke med resultatet!"
+            ],
+            "pitfall": "`omsætning` 是营业收入，不等于 `overskud` 利润。`stige med` 表示增长幅度，`stige til` 表示增长后的最终水平。"
+        },
+        {
+            "id": "U29-C034",
+            "zh": "路易丝：谢谢。可为什么我一点也没感觉自己赚得更多呢？",
+            "grammar": "`hvorfor føles det ... ikke sådan?` 使用 `føles` 表示主观感受，`det` 回指营业额增长带来的整体财务状况。`så` 在这里承接前面会计师提到的增长事实，具有那么、既然如此的推论意味。`sådan` 表示像所说的那样。",
+            "vocabulary": [
+                {
+                    "da": "føles",
+                    "zh": "感觉起来；给人某种感受",
+                    "note": "可用于主观体验"
+                },
+                {
+                    "da": "sådan",
+                    "zh": "这样；那样"
+                },
+                {
+                    "da": "hvorfor ... så ikke?",
+                    "zh": "既然如此，那为什么不……？"
+                }
+            ],
+            "nuance": "路易丝并没有质疑会计师计算错误，而是指出账面增长与自己日常财务体验之间的不一致。`føles` 将客观财务数字与主观现金压力区分开，为解释增值税、所得税和应收账款作铺垫。",
+            "transfer": [
+                "Hvorfor føles det så ikke sådan?",
+                "Omsætningen er steget, men jeg kan ikke mærke det.",
+                "Det føles ikke, som om jeg tjener mere."
+            ],
+            "pitfall": "`føles` 是感觉起来，不等于主动触摸 `føle på`。`så` 此处不是过去时的看见，而是承接前文事实的语气成分。"
+        },
+        {
+            "id": "U29-C035",
+            "zh": "会计师：因为进账的钱有一部分根本不属于你。增值税必须计入增值税账目，并与丹麦税务局结算；你还得记得另外预留一笔钱缴税。",
+            "grammar": "第一部分 `Fordi ...` 是口语中独立使用的原因从句，直接回答上一句为什么的提问。`Momsen skal med i momsregnskabet` 是省略性表达，意思是增值税必须纳入相关税务核算。`afregnes med Skattestyrelsen` 使用 s-被动不定式，共用前面的 `skal`。`huske at lægge penge til side` 是提醒加不定式结构。",
+            "vocabulary": [
+                {
+                    "da": "moms",
+                    "zh": "增值税",
+                    "note": "丹麦经济生活中的常用税务术语"
+                },
+                {
+                    "da": "et momsregnskab",
+                    "zh": "增值税账目；增值税核算"
+                },
+                {
+                    "da": "afregne med",
+                    "zh": "与……结算；清算应付款项"
+                },
+                {
+                    "da": "Skattestyrelsen",
+                    "zh": "丹麦税务局"
+                },
+                {
+                    "da": "lægge penge til side",
+                    "zh": "预留资金；存下一笔钱"
+                }
+            ],
+            "nuance": "会计师指出自雇人士容易忽视的核心事实：客户支付的全部金额并不都能作为个人收入使用。销售款中可能包含需要上缴的增值税，同时还要为应缴税款留出资金。`ikke er dine` 是简单却很有力度的解释。",
+            "transfer": [
+                "En del af pengene er ikke mine.",
+                "Momsen skal afregnes med Skattestyrelsen.",
+                "Jeg lægger penge til side til skatten hver måned."
+            ],
+            "pitfall": "`moms` 是增值税，不是英语 mum 或 mother。营业额、增值税、利润和个人可支配收入必须区分。`afregne` 是结算，不等于简单记录到账。"
+        },
+        {
+            "id": "U29-C036",
+            "zh": "路易丝：我也有这么做啊。……差不多吧。",
+            "grammar": "`Det gør jeg også` 使用替代动词 `gøre`，回指前面预留税款的做法。`Næsten` 是单词独立成句的省略表达，表示事实上并没有完全做到。",
+            "vocabulary": [
+                {
+                    "da": "næsten",
+                    "zh": "几乎；差不多"
+                },
+                {
+                    "da": "det gør jeg også",
+                    "zh": "我也是这么做的"
+                }
+            ],
+            "nuance": "幽默效果来自前后两句的自我拆台。路易丝先声称自己有按要求存钱，随即用 `Næsten` 承认执行得并不彻底。语气带有一点尴尬与自嘲。",
+            "transfer": [
+                "Det gør jeg også. Næsten.",
+                "Jeg har næsten fået styr på det.",
+                "Jeg prøver i hvert fald."
+            ],
+            "pitfall": "`næsten` 不是完全做到，而是接近做到。单独使用时往往会弱化甚至推翻前面的肯定说法。"
+        },
+        {
+            "id": "U29-C037",
+            "zh": "会计师：另外，还有两位客户没有支付发票。其中一位已经拖欠三个月了。",
+            "grammar": "`Og så er der` 是添加新问题的存在结构，`og så` 表示此外还有。`der ikke har betalt deres fakturaer` 是修饰客户的关系从句。`Den ene` 指两位客户中的一位，`er tre måneder bagud` 使用时间长度加副词，表示付款进度落后三个月。",
+            "vocabulary": [
+                {
+                    "da": "en faktura",
+                    "zh": "发票；付款账单",
+                    "note": "复数 `fakturaer`"
+                },
+                {
+                    "da": "være bagud",
+                    "zh": "落后；拖延；逾期",
+                    "note": "可用于付款、工作进度和学习"
+                },
+                {
+                    "da": "den ene",
+                    "zh": "其中一个；两者中的一方"
+                },
+                {
+                    "da": "betale en faktura",
+                    "zh": "支付发票款项"
+                }
+            ],
+            "nuance": "会计师揭示了营业额增长但银行账户仍然吃紧的另一个原因：已开票收入不等于现金已经到账。`tre måneder bagud` 强调拖欠时间较长，体现企业经营中的现金流风险。",
+            "transfer": [
+                "To kunder har endnu ikke betalt deres fakturaer.",
+                "Den ene kunde er tre måneder bagud.",
+                "Vi er bagud med betalingerne."
+            ],
+            "pitfall": "`omsætning` 和已经收到的现金不是一回事。`bagud` 在此是付款逾期，不是地理位置处于后方。"
+        },
+        {
+            "id": "U29-C038",
+            "zh": "路易丝：我已经给他们写过两次邮件了。老是催别人付钱，真的太让人难为情了。",
+            "grammar": "`har skrevet til dem to gange` 使用现在完成时，说明已经采取过两次联系行动。`Det er så pinligt at ...` 是形式主语结构，真正被评价的是 `at rykke folk for penge`。`rykke nogen for penge` 是催收款项的固定表达。",
+            "vocabulary": [
+                {
+                    "da": "skrive til nogen",
+                    "zh": "给某人写信或发消息"
+                },
+                {
+                    "da": "pinlig",
+                    "zh": "尴尬的；令人难为情的"
+                },
+                {
+                    "da": "rykke nogen for penge",
+                    "zh": "催某人付款；催收欠款",
+                    "note": "商业账款管理中的常见搭配"
+                },
+                {
+                    "da": "to gange",
+                    "zh": "两次"
+                }
+            ],
+            "nuance": "路易丝的困难不只是客户拖欠款项，还包括她不愿意承担催款时可能产生的社交尴尬。`så pinligt` 直接表达了强烈的不自在，这为会计师下一句更直接的建议创造反差。",
+            "transfer": [
+                "Jeg har skrevet til kunden to gange.",
+                "Jeg synes, det er pinligt at rykke folk for penge.",
+                "Vi bliver nødt til at følge op på de ubetalte fakturaer."
+            ],
+            "pitfall": "`rykke` 可以表示移动，也可以在商业场景中表示催款。`pinligt` 是尴尬、难为情，不一定意味着行为本身不道德。"
+        },
+        {
+            "id": "U29-C039",
+            "zh": "会计师：比起催款，更丢脸的可是把公司经营到破产。今天就发一封催款通知。",
+            "grammar": "`mere pinligt` 是形容词比较级结构，将催款的尴尬与破产的后果进行比较。`at gå konkurs` 是不定式短语，表示破产。`Send` 是直接命令式，后接 `en rykker`，即正式催款提醒。",
+            "vocabulary": [
+                {
+                    "da": "gå konkurs",
+                    "zh": "破产；进入破产状态"
+                },
+                {
+                    "da": "en rykker",
+                    "zh": "催款通知；付款提醒"
+                },
+                {
+                    "da": "mere pinligt",
+                    "zh": "更加令人难堪的"
+                },
+                {
+                    "da": "sende en rykker",
+                    "zh": "发送催款通知"
+                }
+            ],
+            "nuance": "会计师用略带尖锐的幽默纠正路易丝的顾虑。他不再讨论催款是否令人不好意思，而是把注意力转向企业生存。`Send en rykker i dag` 简洁、明确，体现专业顾问面对实际财务风险时的直接态度。",
+            "transfer": [
+                "Det er vigtigere at få betaling end at undgå en pinlig samtale.",
+                "Virksomheden risikerer at gå konkurs.",
+                "Send en rykker i dag."
+            ],
+            "pitfall": "`gå konkurs` 是破产，不是简单的亏损。`en rykker` 在此是催款通知，不是催人加快脚步的人。"
+        },
+        {
+            "id": "U29-C040",
+            "zh": "自主决定一切的自由是有代价的：没有固定工资，没有带薪假期，也没有雇主替自己缴纳养老金。",
+            "grammar": "`Friheden til at bestemme selv` 是主语，`til at` 不定式说明自由的具体内容。`have en pris` 是习语，表示某种选择存在代价。冒号后连续重复 `ingen`，形成排比结构。`der betaler til pensionen` 是修饰雇主的关系从句。",
+            "vocabulary": [
+                {
+                    "da": "bestemme selv",
+                    "zh": "自己作决定；自主决定"
+                },
+                {
+                    "da": "have en pris",
+                    "zh": "有代价；需要付出成本"
+                },
+                {
+                    "da": "fast løn",
+                    "zh": "固定工资"
+                },
+                {
+                    "da": "betalt ferie",
+                    "zh": "带薪休假"
+                },
+                {
+                    "da": "betale til pensionen",
+                    "zh": "缴纳养老金；向养老金账户供款"
+                }
+            ],
+            "nuance": "本章通过 `frihed` 与 `pris` 的对照总结自主经营的权衡：自雇带来选择权，同时意味着需要自行管理收入波动、休假和养老储备。`har en pris` 可以用于很多社会、职业和个人决策话题。",
+            "transfer": [
+                "Friheden til at bestemme selv har en pris.",
+                "Som selvstændig har man ikke nødvendigvis en fast løn.",
+                "Man skal selv sørge for pension og ferie."
+            ],
+            "pitfall": "`have en pris` 在这里不一定是直接支付金钱，而是广义代价。没有雇主缴纳养老金，不代表自雇人士不能自行安排养老金。"
+        },
+        {
+            "id": "U29-C041",
+            "zh": "通货膨胀意味着整体物价普遍上涨，因此，同样一笔钱能够买到的东西变少了。",
+            "grammar": "`Inflation betyder, at ...` 是概念定义结构。`priserne generelt stiger` 是宾语从句，说明物价总体变化。`så man kan købe mindre` 是结果从句，表示购买能力下降。`for de samme penge` 表示在相同货币金额条件下进行比较。",
+            "vocabulary": [
+                {
+                    "da": "inflation",
+                    "zh": "通货膨胀"
+                },
+                {
+                    "da": "generelt",
+                    "zh": "总体上；普遍而言"
+                },
+                {
+                    "da": "stige",
+                    "zh": "上涨；增长",
+                    "note": "`stiger – steg – steget`"
+                },
+                {
+                    "da": "købekraft",
+                    "zh": "购买力",
+                    "note": "相关经济学概念"
+                },
+                {
+                    "da": "for de samme penge",
+                    "zh": "用同样多的钱"
+                }
+            ],
+            "nuance": "作者用生活化的购买力变化解释经济学概念，而不只是说物价上涨。`generelt` 很重要：通货膨胀指总体价格水平变化，并不要求所有商品同时、同幅度涨价。",
+            "transfer": [
+                "Inflation betyder, at priserne generelt stiger.",
+                "Man kan købe mindre for de samme penge.",
+                "Høj inflation reducerer købekraften."
+            ],
+            "pitfall": "`inflation` 不是所有商品都涨价。`stige` 是上升，`falde` 是下降；要区分价格上涨与货币购买力下降这两个相关但不同的表述。"
+        },
+        {
+            "id": "U29-C042",
+            "zh": "当利率上升时，贷款买房、买车的成本会增加，房价也往往有下降的趋势；而当利率下降时，则可能推动市场朝相反方向发展。",
+            "grammar": "两个 `når` 时间或条件从句形成对照。第一部分 `bliver det dyrere at låne` 使用形式主语结构，说明贷款成本增加。`huspriserne har det med at falde` 是固定习语 `have det med at + 不定式`，表示往往有某种倾向。分号后 `det kan trække i den modsatte retning` 中 `trække i en retning` 是经济影响方向的隐喻。",
+            "vocabulary": [
+                {
+                    "da": "en rente",
+                    "zh": "利率；利息"
+                },
+                {
+                    "da": "have det med at",
+                    "zh": "往往会；容易出现某种情况",
+                    "note": "表达倾向而非必然"
+                },
+                {
+                    "da": "en huspris",
+                    "zh": "房价"
+                },
+                {
+                    "da": "trække i den modsatte retning",
+                    "zh": "产生相反方向的影响"
+                },
+                {
+                    "da": "blive dyrere",
+                    "zh": "变得更贵；成本增加"
+                }
+            ],
+            "nuance": "这是对利率与房地产市场关系的简化解释。`har det med at` 和 `kan` 都避免把经济关系说成绝对规律。利率会影响贷款负担与购房需求，但实际房价还受收入、供给、人口及市场预期等因素影响。最值得学习的是如何用谨慎措辞描述经济趋势。",
+            "transfer": [
+                "Når renten stiger, bliver det dyrere at låne penge.",
+                "Huspriserne har det med at falde, når finansieringen bliver dyrere.",
+                "Lavere renter kan trække i den modsatte retning."
+            ],
+            "pitfall": "`have det med at` 不是拥有某物，而是表示某种习惯或倾向。`kan trække` 不能理解成一定导致。`rente` 是利率或利息，不是租金 `husleje`。"
+        },
+        {
+            "id": "U29-C043",
+            "zh": "对于背负大额房贷的家庭来说，即便利率只发生很小的变化，也可能给家庭预算带来相当大的影响。",
+            "grammar": "`For en familie med et stort boliglån` 是句首立场状语。主句采用 `kan selv små ændringer ... betyde meget`，其中 `selv` 强调连小幅变化也值得关注。`ændringer i renten` 使用介词 `i` 表示利率本身的变化，`betyde meget for` 表示对某事有重大影响。",
+            "vocabulary": [
+                {
+                    "da": "et boliglån",
+                    "zh": "住房贷款；房贷"
+                },
+                {
+                    "da": "en ændring i",
+                    "zh": "……方面的变化"
+                },
+                {
+                    "da": "selv",
+                    "zh": "即使；连……都",
+                    "note": "此处为强调性副词"
+                },
+                {
+                    "da": "betyde meget for",
+                    "zh": "对……影响很大"
+                }
+            ],
+            "nuance": "作者把抽象的利率政策转化为家庭每月现金流问题。`selv små ændringer` 突出贷款本金较大时，小幅利率变化也可能产生明显的还款影响。",
+            "transfer": [
+                "Selv små ændringer i renten kan betyde meget.",
+                "Familien har et stort boliglån.",
+                "Renteudgifterne har stor betydning for budgettet."
+            ],
+            "pitfall": "`selv` 这里不是自己，而是连……都。`boliglån` 是用于住房融资的贷款，不能与房租混淆。"
+        },
+        {
+            "id": "U29-C044",
+            "zh": "玛雅和艾哈迈德已经存了五年钱，现在想咨询银行，看看自己是否负担得起在奥胡斯买一套公寓。",
+            "grammar": "`har sparet op i fem år` 使用现在完成时，表示储蓄行为持续五年。`vil gerne høre, om ...` 是礼貌说明咨询目的的结构，`om` 引出间接的是非疑问从句。`have råd til at købe` 表示经济上负担得起购买行为。",
+            "vocabulary": [
+                {
+                    "da": "spare op",
+                    "zh": "存钱；积蓄",
+                    "note": "常说 `spare op til en bolig` 为买房储蓄"
+                },
+                {
+                    "da": "ville gerne høre, om ...",
+                    "zh": "想了解是否……；想咨询是否……"
+                },
+                {
+                    "da": "have råd til at",
+                    "zh": "有经济能力做某事"
+                },
+                {
+                    "da": "en lejlighed",
+                    "zh": "公寓；公寓住宅"
+                }
+            ],
+            "nuance": "两人不是直接要求银行批准贷款，而是先询问购房承受能力。`vil gerne høre, om` 比直接断言自己可以买得起更谨慎，符合正式财务咨询的语气。",
+            "transfer": [
+                "Vi har sparet op til en bolig i fem år.",
+                "Vi vil gerne høre, om vi har råd til en lejlighed.",
+                "Kan vi få vurderet vores lånemuligheder?"
+            ],
+            "pitfall": "`spare op` 表示积蓄，`spare på` 通常表示节省某项资源。`høre, om` 在这里是咨询或了解是否，不是单纯听见某个声音。"
+        },
+        {
+            "id": "U29-C045",
+            "zh": "银行顾问：这套公寓售价240万丹麦克朗。在丹麦买房时，购房者至少需要自己支付房价的5%作为首付款。",
+            "grammar": "`Lejligheden koster ...` 是直接说明价格。`Når man køber bolig i Danmark` 是泛指购房情境的时间或条件从句，前置后主句采用 `skal man` 的 V2 语序。`selv betale mindst fem procent i udbetaling` 中 `selv` 强调由购房者自己出资，`i udbetaling` 说明资金用途。",
+            "vocabulary": [
+                {
+                    "da": "en udbetaling",
+                    "zh": "首付款；首付金额",
+                    "note": "购房融资语境中指自有资金投入"
+                },
+                {
+                    "da": "mindst",
+                    "zh": "至少"
+                },
+                {
+                    "da": "betale selv",
+                    "zh": "自行支付；使用自己的资金支付"
+                },
+                {
+                    "da": "købe bolig",
+                    "zh": "购买住房"
+                }
+            ],
+            "nuance": "顾问先给出明确房价，再介绍通常的首付要求。`mindst` 是最低限度，不意味着只准备5%的现金就一定具备购房资格。贷款审批、交易费用和每月支付能力仍需要分别评估。",
+            "transfer": [
+                "Lejligheden koster 2,4 millioner kroner.",
+                "Man skal som udgangspunkt betale mindst fem procent i udbetaling.",
+                "Hvor meget skal vi selv lægge i udbetaling?"
+            ],
+            "pitfall": "`udbetaling` 在购房语境指首付款，但在其他语境也可表示款项发放。不能把首付与每月偿还本金和利息的 `ydelse` 混为一谈。"
+        },
+        {
+            "id": "U29-C046",
+            "zh": "玛雅：那就是12万克朗。这个钱我们已经准备好了。",
+            "grammar": "`Det er 120.000` 是对前述首付比例的心算结果。`Dem har vi` 将宾语 `Dem` 前置，后面使用 `har vi` 的 V2 语序。`Dem` 在语义上指这12万克朗，而不是回指房子。",
+            "vocabulary": [
+                {
+                    "da": "have pengene",
+                    "zh": "已经有这笔钱；资金已备好"
+                },
+                {
+                    "da": "en krone",
+                    "zh": "丹麦克朗",
+                    "note": "复数 `kroner`"
+                }
+            ],
+            "nuance": "玛雅的回答简洁、自信：她不仅理解银行要求，还明确表示所需首付资金已经筹齐。宾语前置 `Dem har vi` 将焦点落在资金是否到位上。",
+            "transfer": [
+                "Det bliver 120.000 kroner.",
+                "Dem har vi allerede sparet op.",
+                "Vi har pengene til udbetalingen."
+            ],
+            "pitfall": "`Dem` 在这里指复数的克朗金额。注意宾语前置后的语序是 `Dem har vi`，不是 `Dem vi har`。"
+        },
+        {
+            "id": "U29-C047",
+            "zh": "银行顾问：很好。剩下的房款可以通过贷款解决：最多可向住房抵押信贷机构借到房价的80%，其余部分则在我们这家银行申请贷款。",
+            "grammar": "`Resten kan I låne` 将宾语 `Resten` 前置，主句采用 `kan I` 的 V2 语序。冒号后用两个并列的融资来源解释剩余款项如何安排。`op til 80 procent af købesummen` 表示不超过购房价格80%的额度。`det sidste` 指扣除首付与抵押贷款后尚未覆盖的部分。",
+            "vocabulary": [
+                {
+                    "da": "resten",
+                    "zh": "剩余部分"
+                },
+                {
+                    "da": "op til",
+                    "zh": "最多；上限为"
+                },
+                {
+                    "da": "en købesum",
+                    "zh": "购买总价；成交价格"
+                },
+                {
+                    "da": "et realkreditinstitut",
+                    "zh": "丹麦住房抵押信贷机构"
+                },
+                {
+                    "da": "et banklån",
+                    "zh": "银行贷款"
+                }
+            ],
+            "nuance": "顾问介绍丹麦住房融资中常见的分层结构：自有资金、住房抵押信贷贷款，以及可能需要的银行贷款。对240万克朗的房产而言，80%对应192万克朗；若只出5%首付，剩余15%通常需要另行融资。但具体贷款额度仍取决于审批和财务条件。",
+            "transfer": [
+                "Resten kan finansieres med lån.",
+                "Man kan låne op til 80 procent af købesummen gennem realkredit.",
+                "Den sidste del kan finansieres med et banklån."
+            ],
+            "pitfall": "`op til` 表示最高额度，不是保证每个人都能借满。`realkreditinstitut` 与普通银行在丹麦住房融资体系中的角色不同。"
+        },
+        {
+            "id": "U29-C048",
+            "zh": "艾哈迈德：这两种贷款有什么区别？",
+            "grammar": "`Hvad er forskellen?` 是询问差异的固定句型。比较对象由上一句提供，即住房抵押信贷贷款和普通银行贷款。",
+            "vocabulary": [
+                {
+                    "da": "en forskel",
+                    "zh": "区别；差异",
+                    "note": "`forskellen mellem A og B` A与B之间的区别"
+                }
+            ],
+            "nuance": "这是财务咨询中非常自然的澄清问题。艾哈迈德没有假定自己已经理解两个贷款产品，而是要求顾问解释其实际区别。",
+            "transfer": [
+                "Hvad er forskellen på de to lån?",
+                "Hvad er forskellen mellem fast og variabel rente?",
+                "Kan du forklare forskellen?"
+            ],
+            "pitfall": "`forskel på` 与 `forskel mellem` 都可表达差异，但不要与表示提前或不同的其他近形词混淆。"
+        },
+        {
+            "id": "U29-C049",
+            "zh": "银行顾问：住房抵押信贷贷款通常成本更低，因为它以房产作为抵押。银行贷款的利率较高，所以优先偿还银行贷款通常更划算。",
+            "grammar": "`Realkreditlånet er billigere, fordi ...` 是主句加原因从句。`er sikret med pant i boligen` 使用 `være + 过去分词` 表示贷款以房产抵押作为担保。第二句用 `så` 引出结论。`give mening at + 不定式` 表示某种做法合理，`betale det af` 是偿还债务的动词小品词结构。",
+            "vocabulary": [
+                {
+                    "da": "et realkreditlån",
+                    "zh": "住房抵押信贷贷款"
+                },
+                {
+                    "da": "pant i boligen",
+                    "zh": "以房产作为抵押"
+                },
+                {
+                    "da": "en højere rente",
+                    "zh": "更高的利率"
+                },
+                {
+                    "da": "betale et lån af",
+                    "zh": "逐步还清贷款；偿还债务"
+                },
+                {
+                    "da": "give mening",
+                    "zh": "合理；值得这样做"
+                }
+            ],
+            "nuance": "顾问用担保结构解释两类贷款的成本差异，再提出优先偿还较高成本贷款的策略。原文是这个具体贷款场景中的一般性建议；实际还款安排仍可能受到提前还款条件、费用、税务影响及贷款合同限制。",
+            "transfer": [
+                "Realkreditlånet er sikret med pant i boligen.",
+                "Banklånet har typisk en højere rente.",
+                "Det giver mening at betale det dyreste lån af først."
+            ],
+            "pitfall": "`pant` 在这里是抵押担保，不是普通保证金。`betale af` 是偿还本金等债务，区别于 `betale for` 为商品或服务付款。"
+        },
+        {
+            "id": "U29-C050",
+            "zh": "玛雅：那我们应该选择固定利率，还是浮动利率呢？",
+            "grammar": "`Og` 承接上一项贷款区别的讨论。`skal vi vælge` 使用情态动词 `skal`，此处表示需要作出什么选择或哪种选择合适。`fast eller variabel rente` 是省略重复名词限定成分的二选一结构。",
+            "vocabulary": [
+                {
+                    "da": "fast rente",
+                    "zh": "固定利率"
+                },
+                {
+                    "da": "variabel rente",
+                    "zh": "浮动利率；可变利率"
+                },
+                {
+                    "da": "vælge",
+                    "zh": "选择",
+                    "note": "`vælger – valgte – valgt`"
+                }
+            ],
+            "nuance": "玛雅自然地把问题从贷款机构转向贷款的利率风险。这里不是询问哪种利率在所有情况下绝对最好，而是为家庭选择合适的风险结构。",
+            "transfer": [
+                "Skal vi vælge fast eller variabel rente?",
+                "Hvad er fordelene ved fast rente?",
+                "Vi overvejer et lån med variabel rente."
+            ],
+            "pitfall": "`fast` 是固定的，`variabel` 是可变化的。不能简单把浮动利率理解为利率一定会上升。"
+        },
+        {
+            "id": "U29-C051",
+            "zh": "银行顾问：选择固定利率，整个贷款期限内的利率就有确定性。浮动利率现在比较便宜，但没有人能保证它以后一直都这么便宜。",
+            "grammar": "`Med fast rente` 是句首条件或方式状语，后接 `kender I` 的 V2 语序。`i hele lånets løbetid` 表示在完整贷款期限内。`Den variable` 省略了 `rente`，通过形容词定冠词形式指浮动利率。`blive ved med at være det` 表示继续保持前面所说的状态，`det` 回指比较便宜。",
+            "vocabulary": [
+                {
+                    "da": "en løbetid",
+                    "zh": "贷款期限；合同存续期限"
+                },
+                {
+                    "da": "lige nu",
+                    "zh": "目前；此刻"
+                },
+                {
+                    "da": "en garanti for",
+                    "zh": "对……的保证"
+                },
+                {
+                    "da": "blive ved med at",
+                    "zh": "持续做某事；一直保持某状态"
+                },
+                {
+                    "da": "den variable",
+                    "zh": "浮动利率这一种",
+                    "note": "省略前文已经明确的 `rente`"
+                }
+            ],
+            "nuance": "顾问强调的是确定性与当前融资成本之间的权衡。固定利率让借款人更容易预测未来利息负担；浮动利率虽然在对话所设定的当下较低，却存在变化风险。`lige nu` 是情境中的时间限定，不能据此断言现实市场现在一定是浮动利率更便宜。",
+            "transfer": [
+                "Med fast rente kender man renten i hele lånets løbetid.",
+                "Variabel rente kan være billigere lige nu.",
+                "Der er ingen garanti for, at renten bliver ved med at være lav."
+            ],
+            "pitfall": "`løbetid` 是贷款期限，不是跑步时间。`blive ved med at` 是持续，不能省略 `med`。固定利率并不意味着所有费用项目都永远不变。"
+        },
+        {
+            "id": "U29-C052",
+            "zh": "艾哈迈德：如果是你自己，你会选哪一种？",
+            "grammar": "`Hvad ville du selv vælge?` 使用 `ville` 表示假设情境下的个人选择。`selv` 强调顾问本人，而不是银行规定或标准产品说明。与直接的 `Hvad vælger du?` 相比，这种问法更加委婉。",
+            "vocabulary": [
+                {
+                    "da": "ville vælge",
+                    "zh": "会选择；假如是自己会选"
+                },
+                {
+                    "da": "selv",
+                    "zh": "自己；本人"
+                }
+            ],
+            "nuance": "艾哈迈德希望从专业顾问那里获得更具体的个人判断。不过顾问的个人偏好并不一定适用于客户，所以接下来的回答重新回到家庭风险承受能力。",
+            "transfer": [
+                "Hvad ville du selv vælge?",
+                "Hvad ville du gøre i vores situation?",
+                "Hvis du var mig, hvad ville du så vælge?"
+            ],
+            "pitfall": "`ville` 在这里是条件或假设语气，不是简单的过去时愿望。`selv` 强调顾问自己的选择。"
+        },
+        {
+            "id": "U29-C053",
+            "zh": "银行顾问：这取决于你们能在多大程度上承受家庭预算的波动。我们把两种方案都测算一下吧。",
+            "grammar": "`Det kommer an på` 是表示取决于的固定结构。`hvor godt I kan tåle, at budgettet svinger` 是间接疑问从句，其中又包含 `at budgettet svinger` 宾语从句。`Lad os regne på begge dele` 使用 `Lad os + 不定式` 提出共同进行的行动，`regne på` 表示测算不同方案。",
+            "vocabulary": [
+                {
+                    "da": "komme an på",
+                    "zh": "取决于"
+                },
+                {
+                    "da": "kunne tåle",
+                    "zh": "能够承受；经得起"
+                },
+                {
+                    "da": "svinge",
+                    "zh": "波动；上下变化"
+                },
+                {
+                    "da": "regne på",
+                    "zh": "测算；对方案进行计算分析"
+                },
+                {
+                    "da": "begge dele",
+                    "zh": "两种方案；两个方面"
+                }
+            ],
+            "nuance": "顾问没有给出脱离个人情况的统一答案，而是把重点放在风险承受能力和现金流稳定性。`Lad os regne på begge dele` 体现专业咨询的实际方法：不仅讨论主观偏好，还应比较不同利率情景下的家庭预算。",
+            "transfer": [
+                "Det kommer an på, hvor stor en risiko I kan tåle.",
+                "Budgettet kan svinge fra måned til måned.",
+                "Lad os regne på begge dele."
+            ],
+            "pitfall": "`komme an på` 必须整体理解为取决于，不是来到某物上。`tåle` 在这里指财务承受能力，并非忍受疼痛。"
+        },
+        {
+            "id": "U29-C054",
+            "zh": "萨拉今年22岁，刚刚通过手机上的一个应用，买下了自己人生中的第一批股票。",
+            "grammar": "`er 22` 说明年龄，`har lige købt` 使用现在完成时说明刚刚完成的投资行为。`sine første aktier` 中 `sine` 是反身物主代词，回指萨拉。`gennem en app på telefonen` 说明购买股票的渠道。",
+            "vocabulary": [
+                {
+                    "da": "en aktie",
+                    "zh": "股票",
+                    "note": "复数 `aktier`"
+                },
+                {
+                    "da": "købe aktier",
+                    "zh": "购买股票"
+                },
+                {
+                    "da": "gennem en app",
+                    "zh": "通过手机应用"
+                },
+                {
+                    "da": "sine første aktier",
+                    "zh": "自己的第一批股票"
+                }
+            ],
+            "nuance": "作者选择一位刚开始投资的年轻人作为场景人物，突出数字投资平台降低了参与门槛。`lige` 表明她的经验还很有限，也为后面围绕热门股票的讨论作铺垫。",
+            "transfer": [
+                "Jeg har lige købt mine første aktier.",
+                "Hun investerer gennem en app.",
+                "Jeg er begyndt at interessere mig for aktier."
+            ],
+            "pitfall": "`sine` 必须回指句子主语萨拉。`aktier` 是股票，不是银行账户中的普通存款。"
+        },
+        {
+            "id": "U29-C055",
+            "zh": "萨拉：我投了5000克朗，买了一家美国电动车公司的股票。",
+            "grammar": "`har investeret ... i` 使用现在完成时，说明投资已经发生。`investere penge i noget` 是固定搭配。`der laver elbiler` 是关系从句，进一步说明该公司的业务。`lave` 在这里表示生产或制造。",
+            "vocabulary": [
+                {
+                    "da": "investere i",
+                    "zh": "投资于……",
+                    "note": "可用于股票、企业、项目和教育"
+                },
+                {
+                    "da": "et selskab",
+                    "zh": "公司；企业",
+                    "note": "经济和投资语境中常用"
+                },
+                {
+                    "da": "en elbil",
+                    "zh": "电动汽车"
+                },
+                {
+                    "da": "lave",
+                    "zh": "制作；生产；制造",
+                    "note": "此处指企业生产汽车"
+                }
+            ],
+            "nuance": "萨拉只说明投资金额与公司的行业，没有解释估值、财务表现或个人投资策略。这个信息缺口正是叔叔下一句追问投资理由的背景。",
+            "transfer": [
+                "Jeg har investeret 5.000 kroner i aktier.",
+                "Selskabet producerer elbiler.",
+                "Jeg overvejer at investere i en amerikansk virksomhed."
+            ],
+            "pitfall": "`investere i` 的介词是 `i`。买一家公司的股票不等于直接把5000克朗借给该公司，也不等于获得公司全部所有权。"
+        },
+        {
+            "id": "U29-C056",
+            "zh": "彼得叔叔：好啊。不过，为什么偏偏选这家公司？",
+            "grammar": "`Hvorfor lige ...?` 使用语气副词 `lige` 突出具体选择，意思是为什么恰好是这个、为什么偏偏选它。句子省略了完整的选择谓语，但上下文已经明确。",
+            "vocabulary": [
+                {
+                    "da": "lige",
+                    "zh": "恰好；偏偏；正是",
+                    "note": "这里不是时间意义上的刚刚"
+                },
+                {
+                    "da": "et selskab",
+                    "zh": "公司"
+                }
+            ],
+            "nuance": "叔叔没有直接评价萨拉买错了，而是先询问选择依据。`lige` 让问题具有针对性，促使萨拉说明为什么这家公司比其他公司更值得投资。",
+            "transfer": [
+                "Hvorfor lige det selskab?",
+                "Hvorfor valgte du netop den aktie?",
+                "Hvad bygger din beslutning på?"
+            ],
+            "pitfall": "`lige` 在这里表示恰好或偏偏，不是刚刚。"
+        },
+        {
+            "id": "U29-C057",
+            "zh": "萨拉：社交媒体上所有人都说股价还会涨。而且这只股票一个月里已经涨了30%。",
+            "grammar": "`Alle ... siger, at ...` 是主句加宾语从句。`kommer til at stige` 表示预期未来会发生的上涨。`er allerede steget 30 procent` 使用现在完成时，强调过去一个月已经出现的涨幅。`på en måned` 表示在一个月内完成这项变化。",
+            "vocabulary": [
+                {
+                    "da": "en kurs",
+                    "zh": "股价；证券价格",
+                    "note": "投资语境中的价格或行情"
+                },
+                {
+                    "da": "komme til at stige",
+                    "zh": "将会上涨；预计会涨"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经"
+                },
+                {
+                    "da": "stige 30 procent",
+                    "zh": "上涨30%"
+                },
+                {
+                    "da": "på en måned",
+                    "zh": "在一个月内"
+                }
+            ],
+            "nuance": "萨拉的理由主要来自社交媒体共识和近期涨幅，而不是企业基本面。`Alle` 是日常口语中的泛化说法，不一定真的表示每个人都如此认为。过去已经上涨30%也不能证明未来还会继续上涨。",
+            "transfer": [
+                "Alle på sociale medier taler om aktien.",
+                "Kursen er steget 30 procent på en måned.",
+                "Mange forventer, at kursen kommer til at stige."
+            ],
+            "pitfall": "`kurs` 在这里是股价，不是课程 `et kursus`。`er steget` 是已经上涨，不能推出必然继续上涨。`på en måned` 说明变化发生所经历的时间。"
+        },
+        {
+            "id": "U29-C058",
+            "zh": "彼得叔叔：我担心的恰恰就是这一点。等到人人都在谈论某样东西时，往往已经太晚了。",
+            "grammar": "`Det er netop det, der ...` 是强调句结构，`netop` 进一步突出恰恰是这一点。`bekymre nogen` 表示使某人担忧。`Når alle taler om noget` 是泛指时间或情境从句，前置后主句采用 `er det` 的 V2 语序。`for sent` 表示时机已经过晚。",
+            "vocabulary": [
+                {
+                    "da": "netop",
+                    "zh": "恰恰；正是"
+                },
+                {
+                    "da": "bekymre",
+                    "zh": "使担忧；使不安"
+                },
+                {
+                    "da": "tale om noget",
+                    "zh": "谈论某事"
+                },
+                {
+                    "da": "for sent",
+                    "zh": "太晚；为时已晚"
+                }
+            ],
+            "nuance": "叔叔把萨拉眼中的上涨理由转化为风险信号：当一只股票变成社交媒体热点时，市场可能已经反映了大量乐观预期。`ofte` 保留了谨慎性，并非宣称所有热门股票都必然下跌。`netop` 是这一句反转语气的关键。",
+            "transfer": [
+                "Det er netop det, der bekymrer mig.",
+                "Når alle taler om en aktie, kan den allerede være blevet dyr.",
+                "Det kan være for sent at følge trenden."
+            ],
+            "pitfall": "`bekymre mig` 是让我担忧，不能混同于 `jeg bekymrer mig om` 我担心某事的反身结构。`for sent` 表示时机太晚，不等于事情已经确定失败。"
+        },
+        {
+            "id": "U29-C059",
+            "zh": "萨拉：你说话的口气简直跟我妈一模一样。",
+            "grammar": "`lyde som` 是表示听起来像某人或某事的固定搭配。`Du lyder som min mor` 不是评价嗓音的音色，而是比较说话内容与态度。",
+            "vocabulary": [
+                {
+                    "da": "lyde som",
+                    "zh": "听起来像；说话口气像"
+                },
+                {
+                    "da": "min mor",
+                    "zh": "我妈妈"
+                }
+            ],
+            "nuance": "萨拉用轻微的调侃回应叔叔的风险提醒，暗示他的建议听起来像家长式唠叨。这句话可以带有亲昵、无奈或不耐烦，具体语气取决于说话方式。",
+            "transfer": [
+                "Du lyder som min mor.",
+                "Det lyder som et godt råd.",
+                "Du lyder lidt bekymret."
+            ],
+            "pitfall": "`lyde som` 可以表示声音、风格或说话方式像某人，不必理解为声线相同。"
+        },
+        {
+            "id": "U29-C060",
+            "zh": "彼得叔叔：我自己就曾经因为这么投资赔过钱。如果你想投资，就把资金分散投到很多不同的公司里，然后长期持有，放上好多年。",
+            "grammar": "`har selv tabt penge` 使用现在完成时，强调叔叔具有亲身亏损经验。`Hvis du vil investere` 是条件从句，后面通过 `så` 引出建议。`spred pengene ud på mange selskaber` 与 `lad dem stå i mange år` 是两个并列命令式。`lade nogen eller noget + 不定式` 表示让某物保持某种状态。",
+            "vocabulary": [
+                {
+                    "da": "tabe penge",
+                    "zh": "亏钱；投资遭受损失"
+                },
+                {
+                    "da": "på den måde",
+                    "zh": "以那种方式；那样做"
+                },
+                {
+                    "da": "sprede pengene ud på",
+                    "zh": "将资金分散配置到……",
+                    "note": "投资语境中表达分散风险"
+                },
+                {
+                    "da": "lade pengene stå",
+                    "zh": "让资金继续留在投资中；长期持有"
+                },
+                {
+                    "da": "i mange år",
+                    "zh": "持续很多年"
+                }
+            ],
+            "nuance": "叔叔先承认自己也犯过类似错误，使建议不显得完全居高临下。随后提供两项基本投资原则：分散投资和长期持有。`lad dem stå` 很形象，强调不要因为短期市场情绪频繁买卖。但分散投资与长期持有只能管理部分风险，并不能保证盈利。",
+            "transfer": [
+                "Jeg har selv tabt penge på den måde.",
+                "Spred investeringerne ud på flere selskaber.",
+                "Hvis du investerer langsigtet, så lad være med at reagere på hver eneste kursændring."
+            ],
+            "pitfall": "`tabe penge` 是亏损，不能按字面理解为把钞票弄丢。`lade dem stå` 在投资语境是保持投资状态，不是让钱站起来。分散到多家公司不代表风险完全消失。"
+        },
+        {
+            "id": "U29-C061",
+            "zh": "萨拉：听起来也太无聊了吧。",
+            "grammar": "`Det lyder + 形容词` 表示某个提议听起来给人什么印象。`kedeligt` 是中性形容词形式，与形式主语 `Det` 搭配。",
+            "vocabulary": [
+                {
+                    "da": "lyde kedeligt",
+                    "zh": "听起来无聊"
+                },
+                {
+                    "da": "kedelig",
+                    "zh": "无聊的；乏味的",
+                    "note": "中性 `kedeligt`"
+                }
+            ],
+            "nuance": "萨拉把投资理解为一件应当刺激、让人兴奋的事情，因此对分散投资和长期持有的建议感到失望。这为叔叔下一句带反讽的回答作铺垫。",
+            "transfer": [
+                "Det lyder kedeligt.",
+                "Det lyder ikke særlig spændende.",
+                "Jeg havde forestillet mig noget mere spændende."
+            ],
+            "pitfall": "`kedelig` 是无聊的，`kede sig` 是感到无聊。`Det lyder kedeligt` 表示听起来无聊，不等于已经亲身体验后觉得无聊。"
+        },
+        {
+            "id": "U29-C062",
+            "zh": "彼得叔叔：是啊，就是无聊。正因为无聊，这办法才管用。",
+            "grammar": "第一句直接重复 `kedeligt`，承认对方的评价。第二句使用 `Det er derfor, ...`，`derfor` 指向前面所说的无聊这一特点。`virke` 在这里表示方法起作用或有效，而不是显得如何。",
+            "vocabulary": [
+                {
+                    "da": "det er derfor, ...",
+                    "zh": "正因为如此；这就是为什么……"
+                },
+                {
+                    "da": "virke",
+                    "zh": "起作用；有效"
+                },
+                {
+                    "da": "kedeligt",
+                    "zh": "无聊的；乏味的"
+                }
+            ],
+            "nuance": "这是一个具有丹麦式干幽默效果的回答。叔叔没有试图把长期投资包装得刺激，而是把缺少刺激重新解释为它可能有助于避免冲动交易的原因。`Det er derfor` 构成出人意料的逻辑反转。不过这是一句人物观点和幽默表达，不是投资方法必然获利的证明。",
+            "transfer": [
+                "Det er kedeligt, men det kan være effektivt.",
+                "Det er netop derfor, det virker.",
+                "En enkel strategi behøver ikke at være spændende."
+            ],
+            "pitfall": "`virke` 这里是有效，与 `virke kedelig` 显得无聊属于不同用法。`Det er derfor` 表示原因关联，不能仅凭一句话推导出必然因果关系。"
+        },
+        {
+            "id": "U29-C063",
+            "zh": "埃米尔最终离开银行时，拿到的贷款额度比他原先希望的少了一些，但同时也取消了两项流媒体订阅。",
+            "grammar": "`gik fra banken med` 表示带着某种结果离开银行。`et lån, der var mindre, end han havde håbet` 包含关系从句和比较从句；`havde håbet` 使用过去完成时，表示此前的期望。`med to streamingtjenester mindre` 是与前一个 `med` 平行的结果描述，`mindre` 在这里表示数量减少了两项。",
+            "vocabulary": [
+                {
+                    "da": "gå fra banken med",
+                    "zh": "带着某种结果离开银行"
+                },
+                {
+                    "da": "mindre end forventet",
+                    "zh": "比预期更少；比原先希望的少"
+                },
+                {
+                    "da": "have håbet",
+                    "zh": "此前曾希望；原本期待"
+                },
+                {
+                    "da": "et abonnement mindre",
+                    "zh": "少一项订阅"
+                }
+            ],
+            "nuance": "这是首章故事的收束。埃米尔没有获得理想中的最高贷款额度，却通过整理预算减少了不必要的固定支出。作者把看似失望的贷款结果与更健康的个人财务选择并列，表达适度调整期望的价值。",
+            "transfer": [
+                "Jeg fik et mindre lån, end jeg havde håbet.",
+                "Jeg gik fra banken med et bedre overblik.",
+                "Nu har jeg to abonnementer mindre."
+            ],
+            "pitfall": "`mindre` 在这里出现两次：一次指贷款额度较小，一次指订阅数量更少。`havde håbet` 是过去完成时，说明期望早于最终贷款结果。"
+        },
+        {
+            "id": "U29-C064",
+            "zh": "最后买的车旧了一点，也小了一点，但至少能开，够用了。",
+            "grammar": "`blev lidt ældre og lidt mindre` 使用 `blive + 形容词比较级` 描写最终选择相对于原先设想发生的调整。`men den kører` 使用一般现在时，突出车依然可以正常行驶。`køre` 在这里描述汽车运转或能够开动。",
+            "vocabulary": [
+                {
+                    "da": "lidt ældre",
+                    "zh": "稍微旧一点；车龄大一些"
+                },
+                {
+                    "da": "lidt mindre",
+                    "zh": "稍微小一点"
+                },
+                {
+                    "da": "den kører",
+                    "zh": "它能开；车还能正常行驶",
+                    "note": "可用于强调车辆基本功能没有问题"
+                }
+            ],
+            "nuance": "结尾带有轻描淡写的幽默：埃米尔没有买到原先想象中的车，却买到了一辆能够满足基本需求、与预算更相称的车。`men den kører` 不夸耀配置或外观，只肯定汽车最重要的实际用途，与全文强调量入为出、区分需求和愿望的主题呼应。",
+            "transfer": [
+                "Bilen er lidt ældre, men den kører fint.",
+                "Det blev en mindre bil, end jeg havde forestillet mig.",
+                "Den er ikke perfekt, men den gør, hvad den skal."
+            ],
+            "pitfall": "`den kører` 在这里指汽车能够正常使用，并不意味着它此刻正在路上行驶。`blev` 在上下文中描述最终购车结果，不应误解为同一辆车突然变旧或缩小。"
+        }
+    ]
+}

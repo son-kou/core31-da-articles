@@ -1,0 +1,1366 @@
+{
+    "schema_version": 1,
+    "unit": "U07",
+    "part": "ALL",
+    "source_fingerprint": "U07-ALL-29b7376f4421",
+    "sentences": [
+        {
+            "id": "U07-C001",
+            "zh": "1899年，雇主与工会达成了《九月协议》，在这份协议中，劳资双方相互承认了对方的权利。",
+            "grammar": "句首时间状语 `I 1899` 占据主句第一位置，因此采用 `indgik arbejdsgivere og fagforeninger` 的 V2 倒装。`indgik` 是 `indgå` 的过去时。`Septemberforliget` 是直接宾语。`hvor de anerkendte hinandens rettigheder` 是关系从句，`hvor` 在这里指协议所构成的制度框架，而非实际地点。`hinandens` 是相互性所有格，表示双方彼此的。",
+            "vocabulary": [
+                {
+                    "da": "indgå en aftale",
+                    "zh": "达成协议；签订协议",
+                    "note": "`indgå – indgik – indgået`；常与 `aftale`、`overenskomst`、`forlig` 搭配"
+                },
+                {
+                    "da": "en arbejdsgiver",
+                    "zh": "雇主",
+                    "note": "与 `en lønmodtager` 受雇劳动者相对"
+                },
+                {
+                    "da": "en fagforening",
+                    "zh": "工会",
+                    "note": "复数 `fagforeninger`"
+                },
+                {
+                    "da": "et forlig",
+                    "zh": "和解协议；妥协协议",
+                    "note": "强调原本存在分歧的各方达成安排"
+                },
+                {
+                    "da": "anerkende hinandens rettigheder",
+                    "zh": "相互承认彼此的权利",
+                    "note": "`hinandens` 表示相互关系"
+                }
+            ],
+            "nuance": "作者从1899年的《九月协议》开始介绍丹麦劳动力市场模式，强调该制度的基础不是单方面制定规则，而是劳资双方相互承认权利。`indgå` 比普通的 `lave` 更具有正式、制度性的语体。`hinandens rettigheder` 是关键表达：它强调相互承认，而不是只有一方获得权利。",
+            "transfer": [
+                "Parterne indgik en aftale efter lange forhandlinger.",
+                "Arbejdsgiverne og medarbejderne skal respektere hinandens rettigheder.",
+                "Aftalen blev indgået i slutningen af året."
+            ],
+            "pitfall": "`indgå en aftale` 表示达成协议，不能把 `indgå` 机械理解成走进去。`hinandens` 表示彼此的，区别于 `deres` 他们的；前者明确具有相互性。"
+        },
+        {
+            "id": "U07-C002",
+            "zh": "这份协议被称为丹麦劳动力市场的“宪法”。尽管此后已经经过多次修订，其核心原则仍然延续至今。",
+            "grammar": "第一分句 `Forliget er blevet kaldt` 使用现在完成时的 `blive` 被动结构，表示长期以来获得某种称谓。第二分句以 `selvom` 引导让步从句，`det er blevet revideret` 同样使用现在完成时被动。`flere gange siden` 表示此后多次。主句 `lever hovedprincipperne videre` 使用 `leve videre` 的比喻意义，强调原则继续存在。",
+            "vocabulary": [
+                {
+                    "da": "blive kaldt",
+                    "zh": "被称为",
+                    "note": "常用于名称、称号与社会评价"
+                },
+                {
+                    "da": "arbejdsmarkedets grundlov",
+                    "zh": "劳动力市场的宪法",
+                    "note": "比喻性称谓，不是丹麦国家宪法"
+                },
+                {
+                    "da": "revidere",
+                    "zh": "修订；修改；重新审查",
+                    "note": "常用于协议、法规、计划和文件"
+                },
+                {
+                    "da": "et hovedprincip",
+                    "zh": "核心原则；基本原则",
+                    "note": "复数 `hovedprincipper`"
+                },
+                {
+                    "da": "leve videre",
+                    "zh": "继续存在；延续下去",
+                    "note": "可用于制度、传统、思想和记忆"
+                }
+            ],
+            "nuance": "`arbejdsmarkedets grundlov` 是非常形象的历史评价，突出了《九月协议》的奠基意义，但并不意味着它具有与国家宪法完全相同的法律地位。`selvom` 构成重要让步：协议的具体内容可以变化，核心原则却能保持连续性。`lever videre` 赋予制度一种生命延续的形象，适合历史和社会分析写作。",
+            "transfer": [
+                "Aftalen er blevet revideret flere gange gennem årene.",
+                "Selvom reglerne har ændret sig, lever hovedprincipperne videre.",
+                "Reformen bliver ofte kaldt et vendepunkt i dansk historie."
+            ],
+            "pitfall": "`grundlov` 通常是宪法，但本句是比喻。`revidere` 不一定意味着彻底废除，通常是修订现有内容。`leve videre` 不是字面意义上的继续活着。"
+        },
+        {
+            "id": "U07-C003",
+            "zh": "在丹麦劳动力市场上，大多数有关工资和工作时间的争议，是通过劳资谈判而不是通过立法解决的。",
+            "grammar": "句首 `På det danske arbejdsmarked` 是领域状语，因此主句采用 `bliver de fleste uenigheder … løst` 的 V2 结构。`bliver løst` 是 `blive + 过去分词` 被动结构，强调争议得到解决，而不突出具体行动者。`ved forhandling og ikke ved lov` 形成方式上的对照，说明采用哪种机制处理争议。",
+            "vocabulary": [
+                {
+                    "da": "arbejdsmarkedet",
+                    "zh": "劳动力市场；劳动关系领域",
+                    "note": "`et arbejdsmarked`"
+                },
+                {
+                    "da": "en uenighed",
+                    "zh": "分歧；意见不一致",
+                    "note": "复数 `uenigheder`"
+                },
+                {
+                    "da": "arbejdstid",
+                    "zh": "工作时间；工时",
+                    "note": "`en arbejdstid`"
+                },
+                {
+                    "da": "løse en uenighed",
+                    "zh": "解决分歧",
+                    "note": "被动形式 `uenigheden bliver løst`"
+                },
+                {
+                    "da": "ved forhandling",
+                    "zh": "通过谈判",
+                    "note": "`ved` 在这里引出解决问题的方式"
+                }
+            ],
+            "nuance": "这句话概括丹麦劳动关系模式的一个关键特点：工资和工时等许多问题，主要交由劳资双方协商，而不是全部由议会直接规定。`de fleste` 是重要限定，不能理解为所有劳动问题都完全排除法律。`ved forhandling og ikke ved lov` 是简洁有力的制度对比。",
+            "transfer": [
+                "På det danske arbejdsmarked bliver mange spørgsmål løst gennem forhandling.",
+                "Løn og arbejdstid bliver ofte reguleret gennem overenskomster.",
+                "Uenigheden blev løst ved forhandling."
+            ],
+            "pitfall": "`ved forhandling` 是通过谈判，`ved lov` 是通过法律规定；这里的 `ved` 不是空间上的在旁边。`arbejdsmarked` 指劳动就业体系，不是出售劳动力的实体市场。"
+        },
+        {
+            "id": "U07-C004",
+            "zh": "因此，丹麦没有法律统一规定的最低工资标准：具体工资水平由各行业的工会联合组织与雇主组织通过集体协议协商确定。",
+            "grammar": "句首 `Derfor` 是结果连接副词，后面采用 `har Danmark` 的 V2 倒装。`ingen lovbestemt mindsteløn` 表示不存在法定最低工资。冒号后的 `Lønnen bliver aftalt` 使用 `blive` 被动结构，说明工资通过协议确定。`mellem fagforbund og arbejdsgiverorganisationer` 交代协议双方。`branche for branche` 是重复结构，表示逐个行业分别处理。",
+            "vocabulary": [
+                {
+                    "da": "lovbestemt",
+                    "zh": "法律规定的；法定的",
+                    "note": "可修饰工资、期限和权利"
+                },
+                {
+                    "da": "mindsteløn",
+                    "zh": "最低工资",
+                    "note": "`en mindsteløn`；本句指法定最低工资"
+                },
+                {
+                    "da": "en overenskomst",
+                    "zh": "集体劳动协议；集体合同",
+                    "note": "丹麦劳动关系体系中的核心术语"
+                },
+                {
+                    "da": "et fagforbund",
+                    "zh": "行业工会；工会联合组织",
+                    "note": "通常代表某一职业或行业的劳动者"
+                },
+                {
+                    "da": "branche for branche",
+                    "zh": "逐个行业；按行业分别",
+                    "note": "重复结构强调分类处理"
+                }
+            ],
+            "nuance": "这句常用于解释丹麦模式与法定最低工资制度的区别。`ingen lovbestemt mindsteløn` 并不意味着丹麦没有最低工资安排，更不意味着雇主可以无视适用的集体协议。重点在于工资标准的形成机制：很多行业通过劳资协商确定。`branche for branche` 强调不同行业可能适用不同协议与工资条件。",
+            "transfer": [
+                "Danmark har ingen generel lovbestemt mindsteløn.",
+                "Lønnen bliver ofte fastsat gennem kollektive overenskomster.",
+                "Vilkårene varierer fra branche til branche."
+            ],
+            "pitfall": "不能把没有法定最低工资理解为没有任何最低工资保障。`en overenskomst` 是集体协议，区别于个人劳动合同 `en ansættelseskontrakt`。"
+        },
+        {
+            "id": "U07-C005",
+            "zh": "集体劳动协议会规定工资、工时、养老金、晚班和周末工作的额外津贴，以及解除雇佣关系的相关规则等内容。",
+            "grammar": "主语 `En overenskomst` 后接及物动词 `fastsætter`，表示协议正式规定具体条件。`blandt andet` 是插入式限定表达，表示所列项目只是协议内容的一部分。后面由多个名词短语构成并列宾语。`tillæg for aften- og weekendarbejde` 中，`aften-` 的连字符表示与后面的 `-arbejde` 共享构词部分。",
+            "vocabulary": [
+                {
+                    "da": "fastsætte",
+                    "zh": "规定；确定；正式设定",
+                    "note": "`fastsætte vilkår` 确定条件"
+                },
+                {
+                    "da": "blandt andet",
+                    "zh": "其中包括；除其他内容外",
+                    "note": "说明列举并不穷尽"
+                },
+                {
+                    "da": "et tillæg",
+                    "zh": "额外津贴；补贴；附加金额",
+                    "note": "劳动工资语境中常指特殊时段的额外报酬"
+                },
+                {
+                    "da": "weekendarbejde",
+                    "zh": "周末工作",
+                    "note": "`et weekendarbejde`"
+                },
+                {
+                    "da": "opsigelse",
+                    "zh": "终止雇佣关系；解约；辞职或解雇通知",
+                    "note": "具体含义取决于由哪一方提出"
+                }
+            ],
+            "nuance": "作者用具体项目说明集体劳动协议不仅涉及工资数字，还涉及完整的劳动条件。`blandt andet` 避免让人误以为清单包含所有可能条款。`opsigelse` 尤其值得注意，它是一个中性法律与劳动关系术语，可以涉及雇员辞职或雇主解雇，不能一律译成开除。",
+            "transfer": [
+                "Overenskomsten fastsætter regler for løn, pension og arbejdstid.",
+                "Aftalen omfatter blandt andet tillæg for weekendarbejde.",
+                "Det er vigtigt at kende reglerne for opsigelse."
+            ],
+            "pitfall": "`et tillæg` 在工资语境中是额外津贴，不是普通的补充文本。`opsigelse` 不一定表示雇主解雇，也可能由雇员主动提出。"
+        },
+        {
+            "id": "U07-C006",
+            "zh": "如果某个工作场所适用集体劳动协议，那么员工通常也会选出一名工会职工代表。",
+            "grammar": "句首 `Er arbejdspladsen omfattet af en overenskomst` 是省略 `hvis` 的条件倒装，完整形式相当于 `Hvis arbejdspladsen er omfattet af en overenskomst`。条件从句占据主句第一位置，因此后面采用 `har medarbejderne` 的 V2 语序。`har valgt` 是现在完成时，强调选举已经完成。`som regel` 表示通常情况。",
+            "vocabulary": [
+                {
+                    "da": "være omfattet af",
+                    "zh": "受……涵盖；适用……",
+                    "note": "法律、合同与政策中的高频表达"
+                },
+                {
+                    "da": "en arbejdsplads",
+                    "zh": "工作场所；单位",
+                    "note": "复数 `arbejdspladser`"
+                },
+                {
+                    "da": "som regel",
+                    "zh": "通常；一般情况下",
+                    "note": "表示惯常情况而非绝对规则"
+                },
+                {
+                    "da": "en tillidsrepræsentant",
+                    "zh": "工会职工代表；员工信任代表",
+                    "note": "在适用制度下代表员工处理劳动关系问题"
+                },
+                {
+                    "da": "vælge",
+                    "zh": "选举；选择",
+                    "note": "`vælge – valgte – valgt`"
+                }
+            ],
+            "nuance": "这一句引入丹麦工作场所非常重要的角色 `tillidsrepræsentant`。`som regel` 是必要限定：适用集体协议并不意味着每一个工作场所都必然已经选出了代表。`være omfattet af` 是劳动合同和法律文件中极常见的表达，值得直接掌握。",
+            "transfer": [
+                "Er arbejdspladsen omfattet af en overenskomst, gælder der særlige regler.",
+                "Medarbejderne har valgt en tillidsrepræsentant.",
+                "Jeg vil gerne vide, hvilken overenskomst jeg er omfattet af."
+            ],
+            "pitfall": "`omfattet af` 是被某项规则覆盖，不是身体被某物包围。条件倒装的 `Er arbejdspladsen …` 不是普通疑问句。"
+        },
+        {
+            "id": "U07-C007",
+            "zh": "这位代表是员工中的一名同事，负责代表员工与管理层谈判；如果员工对工资、工作条件或自己的权利有疑问，也可以找这位代表咨询。",
+            "grammar": "主句 `Det er en kollega` 后接两个由 `som` 引导的并列关系从句。第一个 `som forhandler med ledelsen` 说明代表的谈判职责；第二个 `som man kan gå til` 说明员工可以向其寻求帮助。`på medarbejdernes vegne` 表示代表员工行事。`hvis man er i tvivl om` 是条件从句，`sine rettigheder` 中的反身物主代词 `sine` 回指泛指主语 `man`。",
+            "vocabulary": [
+                {
+                    "da": "forhandle med",
+                    "zh": "与……谈判",
+                    "note": "固定介词 `med`"
+                },
+                {
+                    "da": "ledelsen",
+                    "zh": "管理层；领导层",
+                    "note": "`en ledelse`"
+                },
+                {
+                    "da": "på nogens vegne",
+                    "zh": "代表某人；以某人的名义",
+                    "note": "职场、法律和行政事务中的重要搭配"
+                },
+                {
+                    "da": "gå til nogen",
+                    "zh": "找某人咨询；向某人求助",
+                    "note": "在这里不是单纯走到某人身边"
+                },
+                {
+                    "da": "være i tvivl om",
+                    "zh": "对……有疑问；不确定",
+                    "note": "固定介词 `om`"
+                }
+            ],
+            "nuance": "这句从两方面定义职工代表：一方面代表员工与管理层谈判，另一方面为普通员工提供劳动权益方面的咨询。`en kollega` 强调代表来自员工群体，而不是外部的行政官员。`gå til` 是非常实用的职场表达，说明遇到问题应该找谁。",
+            "transfer": [
+                "Tillidsrepræsentanten forhandler med ledelsen på medarbejdernes vegne.",
+                "Du kan gå til din tillidsrepræsentant, hvis du er i tvivl om dine rettigheder.",
+                "Jeg er i tvivl om, hvilke regler der gælder for overarbejde."
+            ],
+            "pitfall": "`på nogens vegne` 是代表某人，不能逐词理解为在某人的道路上。`gå til nogen` 在本句是寻求咨询或帮助，不是单纯描述行走方向。"
+        },
+        {
+            "id": "U07-C008",
+            "zh": "不过，职工代表可能同时承受劳资双方的压力，因此他们在法律和相关制度下受到特别保护，以免因为履行代表职责而遭到解雇。",
+            "grammar": "第一分句 `Tillidsrepræsentanter kan dog blive udsat for pres` 使用情态动词 `kan` 加被动结构 `blive udsat for`。`fra begge sider` 说明压力来源于双方。第二分句以 `derfor` 引出结果，使用 `er de særligt beskyttet mod`，描述受到保护的状态。`at blive fyret` 是被动不定式，表示遭到解雇。",
+            "vocabulary": [
+                {
+                    "da": "blive udsat for",
+                    "zh": "遭受；受到某种压力或影响",
+                    "note": "可用于压力、批评和风险"
+                },
+                {
+                    "da": "pres",
+                    "zh": "压力",
+                    "note": "`et pres`；`være under pres` 承受压力"
+                },
+                {
+                    "da": "fra begge sider",
+                    "zh": "来自双方",
+                    "note": "可用于谈判和冲突"
+                },
+                {
+                    "da": "være beskyttet mod",
+                    "zh": "受到保护，免于……",
+                    "note": "固定介词 `mod`"
+                },
+                {
+                    "da": "fyre nogen",
+                    "zh": "解雇某人",
+                    "note": "口语常用；`blive fyret` 被解雇"
+                }
+            ],
+            "nuance": "作者指出职工代表处于一种特殊位置：他们需要维护员工利益，同时也必须与管理层保持有效沟通，因此可能面对双向压力。`dog` 承接上一句的积极介绍，补充现实中的困难。`særligt beskyttet` 并不等于绝对不能被解雇，而是强调适用更严格的保护要求。",
+            "transfer": [
+                "Tillidsrepræsentanter kan blive udsat for pres fra begge sider.",
+                "Medarbejderrepræsentanter er særligt beskyttet mod usaglig afskedigelse.",
+                "Det er vigtigt at beskytte dem, der repræsenterer kollegerne."
+            ],
+            "pitfall": "`blive udsat for` 是遭受，不是被安排到某个位置。`blive fyret` 是被解雇，通常比正式术语 `blive afskediget` 更口语。"
+        },
+        {
+            "id": "U07-C009",
+            "zh": "集体劳动协议一旦达成，劳资双方就负有和平义务：在协议有效期内，工会不得为了改变协议内容而罢工，雇主也不得为此发动停工锁厂。",
+            "grammar": "句首 `Når en overenskomst først er indgået` 是时间条件从句，`er indgået` 表示协议已经达成，`først` 强调一旦完成这一前提。主句 `har begge parter fredspligt` 说明相应义务。冒号后以 `I aftalens løbetid` 开头，采用 `må hverken … eller …` 的并列否定结构。`strejke` 与 `lockoute` 分别是劳方和资方可能采取的集体行动；`for at ændre den` 说明行动目的。",
+            "vocabulary": [
+                {
+                    "da": "fredspligt",
+                    "zh": "劳动和平义务；协议有效期内的争议行动限制",
+                    "note": "丹麦集体劳动关系中的核心术语"
+                },
+                {
+                    "da": "begge parter",
+                    "zh": "双方当事人；劳资双方",
+                    "note": "`en part` 一方；复数 `parter`"
+                },
+                {
+                    "da": "i aftalens løbetid",
+                    "zh": "在协议有效期内",
+                    "note": "`en løbetid` 期限"
+                },
+                {
+                    "da": "strejke",
+                    "zh": "罢工",
+                    "note": "主要指劳动者停止工作"
+                },
+                {
+                    "da": "lockoute",
+                    "zh": "停工锁厂；雇主实施的集体停工措施",
+                    "note": "与工会罢工不同"
+                }
+            ],
+            "nuance": "这一句解释丹麦模式中集体谈判与劳动和平之间的交换关系：协议达成后，双方原则上应遵守约定，在有效期内不能随意以争议行动要求修改协议。`fredspligt` 不应理解为劳动关系永远没有冲突，而是适用于特定协议与争议类型的制度义务。`hverken … eller …` 使双方承担的约束显得对称。",
+            "transfer": [
+                "Når overenskomsten er indgået, gælder der fredspligt.",
+                "I aftalens løbetid må parterne som udgangspunkt ikke iværksætte konflikt for at ændre vilkårene.",
+                "Både arbejdsgivere og fagforeninger skal overholde aftalen."
+            ],
+            "pitfall": "`fredspligt` 不是一般意义上的和平主义，而是劳动关系中的特定法律与协议义务。`lockout` 是雇主方面的集体行动，不是工人罢工的同义词。"
+        },
+        {
+            "id": "U07-C010",
+            "zh": "如果谈判破裂，劳资双方都可以预告采取集体争议行动；不过，在行动真正开始之前，国家调解员还会获得一次促成和解的机会。",
+            "grammar": "句首 `Bryder forhandlingerne sammen` 是省略 `hvis` 的条件倒装，完整形式相当于 `Hvis forhandlingerne bryder sammen`。主句 `kan begge sider varsle konflikt` 使用 V2 语序。`men inden den bryder ud` 是时间从句，`den` 回指争议行动。`får en statslig mægler et forsøg` 使用 `få et forsøg`，表示获得一次尝试解决问题的机会。",
+            "vocabulary": [
+                {
+                    "da": "bryde sammen",
+                    "zh": "破裂；崩溃；无法继续",
+                    "note": "谈判、系统和个人状态均可使用"
+                },
+                {
+                    "da": "varsle konflikt",
+                    "zh": "预告集体争议行动",
+                    "note": "`varsle` 表示提前正式通知"
+                },
+                {
+                    "da": "bryde ud",
+                    "zh": "爆发；开始发生",
+                    "note": "常用于冲突、火灾和疾病"
+                },
+                {
+                    "da": "en mægler",
+                    "zh": "调解员",
+                    "note": "`mægle` 调解"
+                },
+                {
+                    "da": "få et forsøg",
+                    "zh": "获得一次尝试的机会",
+                    "note": "这里指调解员有机会介入"
+                }
+            ],
+            "nuance": "作者强调丹麦劳动争议处理并不是谈判一失败就立即进入罢工或停工。`varsle` 表示提前发出正式通知，`inden den bryder ud` 则明确区分预告和实际行动。国家调解员的介入体现制度对避免重大劳动冲突的重视。",
+            "transfer": [
+                "Bryder forhandlingerne sammen, kan parterne varsle konflikt.",
+                "En mægler forsøger at finde en løsning, inden konflikten bryder ud.",
+                "Forhandlingerne brød sammen efter flere møder."
+            ],
+            "pitfall": "`bryde sammen` 是破裂或崩溃，`bryde ud` 是爆发，不能混用。`varsle konflikt` 是预告争议行动，不等于行动已经发生。"
+        },
+        {
+            "id": "U07-C011",
+            "zh": "国家调解官可以分两次、每次两周，推迟已经预告的集体争议行动，并提出一份调解方案，随后交由工会成员投票表决。",
+            "grammar": "主语 `Forligsmanden` 后接情态动词 `kan`，连接两个并列不定式 `udsætte` 和 `fremsætte`。`to gange to uger` 表示两次、每次两周的延长期限。`en varslet konflikt` 使用过去分词作定语。`et mæglingsforslag, som medlemmerne derefter stemmer om` 包含关系从句，`stemme om` 是固定搭配，关系代词 `som` 对应介词 `om` 的宾语。",
+            "vocabulary": [
+                {
+                    "da": "forligsmanden",
+                    "zh": "国家调解官；劳资争议调解负责人",
+                    "note": "与集体劳动争议调解制度有关"
+                },
+                {
+                    "da": "udsætte",
+                    "zh": "推迟；延期",
+                    "note": "`udsætte en konflikt` 推迟争议行动"
+                },
+                {
+                    "da": "varslet",
+                    "zh": "已经预告的；已经通知的",
+                    "note": "`varslet` 是过去分词"
+                },
+                {
+                    "da": "fremsætte et forslag",
+                    "zh": "提出方案或建议",
+                    "note": "正式会议、谈判和政策中的常用搭配"
+                },
+                {
+                    "da": "stemme om",
+                    "zh": "就……进行投票",
+                    "note": "固定介词 `om`"
+                }
+            ],
+            "nuance": "这一句介绍调解程序中的两个具体手段：延后争议行动，以及提出可供表决的妥协方案。`fremsætte` 比简单的 `komme med` 更正式，适合政策、会议和劳动关系语境。`stemme om` 说明调解方案并不是只要调解官提出就自动获得接受。",
+            "transfer": [
+                "Forligsmanden kan udsætte den varslede konflikt.",
+                "Parterne har fået fremsat et mæglingsforslag.",
+                "Medlemmerne skal stemme om forslaget."
+            ],
+            "pitfall": "`udsætte` 在这里是推迟，不能与 `blive udsat for` 遭受混为一谈。`stemme om` 是对方案进行表决；`stemme på` 通常指投票支持某位候选人或某个选项。"
+        },
+        {
+            "id": "U07-C012",
+            "zh": "十一月的一个星期一，在克厄的一座仓库里，员工代表 Mehmet 与仓库经理 Tina 碰面，商谈圣诞旺季的周末工作安排。",
+            "grammar": "句首 `På et lager i Køge` 是地点状语，随后采用 `mødes tillidsrepræsentanten Mehmet og lagerchefen Tina` 的 V2 语序。`mødes` 是表示相互见面的动词形式。`en mandag i november` 是时间状语。`for at tale om` 是目的不定式结构，说明两人会面的原因。",
+            "vocabulary": [
+                {
+                    "da": "et lager",
+                    "zh": "仓库；库存",
+                    "note": "本句指物流仓储场所"
+                },
+                {
+                    "da": "en lagerchef",
+                    "zh": "仓库经理",
+                    "note": "由 `lager` 与 `chef` 构成"
+                },
+                {
+                    "da": "mødes",
+                    "zh": "见面；会面",
+                    "note": "`mødes med nogen` 与某人会面"
+                },
+                {
+                    "da": "weekendarbejde",
+                    "zh": "周末工作",
+                    "note": "可涉及特殊津贴和排班安排"
+                },
+                {
+                    "da": "julesæsonen",
+                    "zh": "圣诞旺季",
+                    "note": "零售和物流行业常见的季节性高峰"
+                }
+            ],
+            "nuance": "作者从制度介绍切换到具体职场谈判。圣诞旺季对于物流仓库可能意味着订单增加，而员工也可能面临家庭时间安排问题。这一背景让劳资双方的利益冲突具有现实性。`mødes` 与 `for at tale om` 构成自然的工作会议叙事开场。",
+            "transfer": [
+                "Tillidsrepræsentanten mødes med ledelsen for at drøfte arbejdstiden.",
+                "Vi holder et møde på lageret på mandag.",
+                "Der er ekstra travlt i julesæsonen."
+            ],
+            "pitfall": "`et lager` 在此是仓库，不是营地。`mødes` 表示相互会面，与及物动词 `møde nogen` 遇见某人存在句法区别。"
+        },
+        {
+            "id": "U07-C013",
+            "zh": "我想你们应该都看过排班表了吧。十二月份我们需要每个人都上两个星期六的班。",
+            "grammar": "第一句使用固定结构 `gå ud fra, at …`，表示根据现有情况作出假设。`I har set planen` 是现在完成时内容从句。第二句 `Vi har brug for, at …` 表示需要某个条件得到满足，后面的 `at alle tager to lørdage i december` 是内容从句。`tage to lørdage` 在排班语境中表示承担两个星期六的班次。",
+            "vocabulary": [
+                {
+                    "da": "gå ud fra, at",
+                    "zh": "假定；认为应该是……",
+                    "note": "工作会议中很实用的表达"
+                },
+                {
+                    "da": "en plan",
+                    "zh": "计划；安排；排班表",
+                    "note": "本句根据仓库背景指工作安排"
+                },
+                {
+                    "da": "have brug for, at",
+                    "zh": "需要某种情况发生",
+                    "note": "后接内容从句"
+                },
+                {
+                    "da": "tage en lørdag",
+                    "zh": "承担一个星期六的工作班次",
+                    "note": "依赖排班语境，不是普通地拿走星期六"
+                }
+            ],
+            "nuance": "Tina 以管理者身份提出生产经营需求。`Jeg går ud fra` 表示她假设员工代表已经了解计划，而不是明确询问是否获得同意。`Vi har brug for` 将安排表述为业务需要，但她最初提出的具体方案仍然可以谈判。这里要区分真实业务需求与管理层选择的实施办法。",
+            "transfer": [
+                "Jeg går ud fra, at I har modtaget den nye vagtplan.",
+                "Vi har brug for, at alle hjælper til i december.",
+                "Ledelsen foreslår, at medarbejderne tager to lørdagsvagter."
+            ],
+            "pitfall": "`gå ud fra` 是假定或认为，不是从某个地方走出去。`tage to lørdage` 在这里指值两个星期六的班，不是获得两天周末休息。"
+        },
+        {
+            "id": "U07-C014",
+            "zh": "我们看过了。而且大家都不太高兴。很多人家里有年幼的孩子，整个十一月他们也已经一直在加班了。",
+            "grammar": "第一句 `Det har vi` 使用代动词式回应，`Det` 回指已经看过计划这件事，省略重复的 `set planen`。`folk er ikke begejstrede` 是否定性评价。最后一句 `de har allerede arbejdet over hele november` 使用现在完成时，`arbejde over` 是固定动词短语，表示加班；`hele november` 表示整个十一月期间。",
+            "vocabulary": [
+                {
+                    "da": "være begejstret",
+                    "zh": "感到兴奋；非常满意",
+                    "note": "`ikke begejstret` 表示并不高兴或不太赞同"
+                },
+                {
+                    "da": "arbejde over",
+                    "zh": "加班",
+                    "note": "与 `overarbejde` 加班工作相关"
+                },
+                {
+                    "da": "allerede",
+                    "zh": "已经；早就",
+                    "note": "强调额外负担此前已存在"
+                },
+                {
+                    "da": "hele november",
+                    "zh": "整个十一月",
+                    "note": "强调时间范围"
+                },
+                {
+                    "da": "små børn",
+                    "zh": "年幼的孩子",
+                    "note": "这里的 `små` 主要涉及年龄"
+                }
+            ],
+            "nuance": "Mehmet 没有直接说绝不接受加班，而是首先解释员工为什么不满意：家庭照顾责任以及已经持续一段时间的额外工作量。`ikke begejstrede` 是典型的委婉负面评价，比直接说大家非常愤怒更克制。这种回应既表达员工立场，也给后面的替代方案留下空间。",
+            "transfer": [
+                "Medarbejderne er ikke begejstrede for den nye plan.",
+                "Mange har små børn og har allerede arbejdet meget over.",
+                "Vi har arbejdet over næsten hele måneden."
+            ],
+            "pitfall": "`arbejde over` 是加班，不是工作结束。`ikke begejstret` 往往表示明显缺乏热情，不能机械理解为只是没有特别兴奋。"
+        },
+        {
+            "id": "U07-C015",
+            "zh": "我完全理解。但订单必须按时发出去，而我要亲自向客户对交货时间负责。",
+            "grammar": "第一句 `Det forstår jeg godt` 将宾语 `Det` 前置，因此采用 `forstår jeg` 的 V2 语序。`godt` 加强理解和认可。第二句 `ordrerne skal ud` 使用 `skal` 加方向副词 `ud`，省略了可由语境恢复的发货动作。`det er mig, der står på mål for` 是强调句，突出 Tina 承担责任。`over for kunderne` 表示面对客户这一责任对象。",
+            "vocabulary": [
+                {
+                    "da": "Det forstår jeg godt",
+                    "zh": "这一点我完全理解",
+                    "note": "建设性谈判中的自然让步"
+                },
+                {
+                    "da": "en ordre",
+                    "zh": "订单",
+                    "note": "复数 `ordrer`"
+                },
+                {
+                    "da": "stå på mål for",
+                    "zh": "为……承担责任；对……负责",
+                    "note": "职场与政治讨论中的重要比喻"
+                },
+                {
+                    "da": "en leveringstid",
+                    "zh": "交货时间；交付期限",
+                    "note": "复数 `leveringstider`"
+                },
+                {
+                    "da": "over for nogen",
+                    "zh": "面对某人；对某人承担责任",
+                    "note": "固定的双词介词结构"
+                }
+            ],
+            "nuance": "Tina 先承认员工的困难，再解释自己面临的客户交付压力。`Det forstår jeg godt. Men …` 是非常实用的谈判表达，既不否认对方感受，也不放弃自身责任。`stå på mål for` 带有个人承担后果的意味，比普通的 `have ansvar for` 更突出必须向外部对象交代。",
+            "transfer": [
+                "Jeg forstår godt medarbejdernes situation, men ordrerne skal leveres til tiden.",
+                "Det er mig, der står på mål for resultaterne over for kunderne.",
+                "Vi skal finde en løsning, der tager hensyn til begge sider."
+            ],
+            "pitfall": "`stå på mål for` 是承担责任，不是字面上站在足球球门前。`over for` 在这里是面对客户，不能与 `for` 混成一个单词。"
+        },
+        {
+            "id": "U07-C016",
+            "zh": "要不先问问哪些人愿意来上班？有些年轻员工比起周末休息，可能更看重那笔额外津贴。",
+            "grammar": "第一句 `Hvad hvis vi spørger` 是提出替代方案的口语句型，相当于要是我们这样做呢。`hvem der gerne vil arbejde` 是间接主语疑问从句。第二句使用比较结构 `mere interesserede i X end i Y`，固定介词 `i` 在两个比较对象前都出现。`at have fri` 表示休息、不上班。",
+            "vocabulary": [
+                {
+                    "da": "Hvad hvis …?",
+                    "zh": "如果……怎么样？；要不……？",
+                    "note": "提出建议或探索方案时很实用"
+                },
+                {
+                    "da": "være interesseret i",
+                    "zh": "对……感兴趣；看重……",
+                    "note": "固定介词 `i`"
+                },
+                {
+                    "da": "et tillæg",
+                    "zh": "额外津贴；加班津贴",
+                    "note": "本句指周末工作补贴"
+                },
+                {
+                    "da": "have fri",
+                    "zh": "休息；放假；不用工作",
+                    "note": "常见劳动生活表达"
+                },
+                {
+                    "da": "gerne ville arbejde",
+                    "zh": "愿意工作",
+                    "note": "`gerne` 表示意愿"
+                }
+            ],
+            "nuance": "Mehmet 提出的方案非常关键：不再假设所有员工对周末工作的态度一致，而是寻找自愿工作者。`Hvad hvis …?` 不是直接否定管理层，而是打开新的谈判空间。`mere interesserede i tillægget end i at have fri` 也说明不同员工的个人利益可能不同，为双方创造互利方案提供了条件。",
+            "transfer": [
+                "Hvad hvis vi først spørger, hvem der frivilligt vil tage vagterne?",
+                "Nogle medarbejdere er mere interesserede i ekstra løn end i at have fri.",
+                "Vi bør undersøge, om nogen gerne vil arbejde i weekenden."
+            ],
+            "pitfall": "`have fri` 是不用上班，不是拥有自由的抽象概念。`være interesseret i` 的介词是 `i`，不是 `for`。"
+        },
+        {
+            "id": "U07-C017",
+            "zh": "那如果自愿报名的人还是不够呢？",
+            "grammar": "`Og hvis der ikke er nok?` 是省略主句的条件问句。`der er` 使用存在结构，`nok` 表示数量足够。被省略的对象是前文提到的愿意承担周末班次的员工，具体含义由上下文恢复。",
+            "vocabulary": [
+                {
+                    "da": "hvis der ikke er nok",
+                    "zh": "如果数量不够",
+                    "note": "对象由语境补足"
+                },
+                {
+                    "da": "nok",
+                    "zh": "足够；充足",
+                    "note": "这里是数量程度意义"
+                }
+            ],
+            "nuance": "Tina 没有立即否定自愿报名方案，而是检验这个方案能否满足仓库业务需要。这个问题是建设性谈判的重要一步：不只关注方案的优点，还提前讨论失败或不足时该怎么办。",
+            "transfer": [
+                "Og hvad gør vi, hvis der ikke er nok frivillige?",
+                "Hvad hvis ingen melder sig?"
+            ],
+            "pitfall": "`nok` 在这里是足够，不是表示大概的语气副词。独立的 `Hvis …?` 适合口语追问，正式书面语通常需要补出完整主句。"
+        },
+        {
+            "id": "U07-C018",
+            "zh": "那我们就把剩余的班次轮流分配，确保每个人最多只需要上一个星期六的班。",
+            "grammar": "句首 `Så` 引出针对前述条件的解决办法，后面采用 `fordeler vi` 的 V2 语序。`resten` 指自愿员工无法覆盖的剩余班次。`på skift` 表示轮流。`så ingen tager mere end én lørdag` 是目的或预期结果从句，`ingen` 是否定主语，`mere end én` 表示超过一个；`én` 特别强调数量上限。",
+            "vocabulary": [
+                {
+                    "da": "fordele",
+                    "zh": "分配；分摊",
+                    "note": "`fordele arbejdet` 分配工作"
+                },
+                {
+                    "da": "resten",
+                    "zh": "剩余部分；其余的",
+                    "note": "根据上下文确定具体对象"
+                },
+                {
+                    "da": "på skift",
+                    "zh": "轮流；依次",
+                    "note": "固定表达"
+                },
+                {
+                    "da": "mere end",
+                    "zh": "超过；多于",
+                    "note": "用于比较数量和程度"
+                },
+                {
+                    "da": "én lørdag",
+                    "zh": "一个星期六",
+                    "note": "`én` 强调恰好一个的数量"
+                }
+            ],
+            "nuance": "Mehmet 不仅提出自愿报名，还进一步设计了人数不足时的备用方案。`på skift` 强调负担分配的公平性，`ingen tager mere end én lørdag` 则直接回应员工对工作量过大的担忧。这说明有效谈判不仅需要提出原则，还需要可执行的排班安排。",
+            "transfer": [
+                "Vi fordeler de resterende vagter på skift.",
+                "Ingen skal tage mere end én ekstra lørdagsvagt.",
+                "Hvis der mangler frivillige, fordeler vi arbejdet mellem medarbejderne."
+            ],
+            "pitfall": "`på skift` 是轮流，不是突然改变。`resten` 在这里指未被覆盖的工作安排，不是剩余员工本身。"
+        },
+        {
+            "id": "U07-C019",
+            "zh": "这个方案我可以接受。不过这样的话，周末津贴就必须和去年保持一致。",
+            "grammar": "第一句 `Det kan jeg godt gå med til` 将宾语 `Det` 前置，后面采用 `kan jeg` 的 V2 语序。`gå med til` 是固定搭配，表示同意或接受提案。第二句 `Men så skal tillægget være det samme som sidste år` 中，`så` 表示在接受前述方案的条件下，`skal` 表示必须满足的谈判条件。`det samme som` 表示与某一参照对象相同。",
+            "vocabulary": [
+                {
+                    "da": "gå med til noget",
+                    "zh": "同意；接受某项提案",
+                    "note": "谈判中的高价值表达"
+                },
+                {
+                    "da": "et tillæg",
+                    "zh": "额外津贴",
+                    "note": "这里指周末工作津贴"
+                },
+                {
+                    "da": "det samme som",
+                    "zh": "与……相同",
+                    "note": "固定比较结构"
+                },
+                {
+                    "da": "sidste år",
+                    "zh": "去年",
+                    "note": "时间表达"
+                }
+            ],
+            "nuance": "Tina 对员工代表的替代方案作出了积极回应，但同时提出津贴条件。`Det kan jeg godt gå med til` 比简单的 `Ja` 更明确地表示接受一项谈判方案。`Men så` 表示接受需要配套条件，体现谈判中的交换和相互让步。",
+            "transfer": [
+                "Det forslag kan jeg godt gå med til.",
+                "Men så skal vilkårene være de samme som sidste år.",
+                "Jeg kan acceptere løsningen, hvis tillægget ikke ændres."
+            ],
+            "pitfall": "`gå med til` 是接受、同意，不是跟着别人去某个地方。`det samme som` 表示相同，不能换成表示相似的 `minde om` 而不改变含义。"
+        },
+        {
+            "id": "U07-C020",
+            "zh": "这很公平。我会把方案转达给其他同事，明天再给你答复。",
+            "grammar": "第一句 `Det er fair` 是简短的评价。第二句包含两个并列现在时谓语 `sender` 和 `vender tilbage`。`sende noget videre til nogen` 表示向其他人转发或传达。`vende tilbage` 在工作沟通中可表示后续回复或重新联系。`i morgen` 明确给出答复时间。",
+            "vocabulary": [
+                {
+                    "da": "fair",
+                    "zh": "公平的；合理的；可以接受的",
+                    "note": "英语借词，在丹麦语口语中自然使用"
+                },
+                {
+                    "da": "sende noget videre",
+                    "zh": "转发；转交；转达",
+                    "note": "可用于文件、信息和提案"
+                },
+                {
+                    "da": "vende tilbage",
+                    "zh": "稍后回复；重新联系",
+                    "note": "职场邮件和会议中的高频表达"
+                },
+                {
+                    "da": "et forslag",
+                    "zh": "提议；方案",
+                    "note": "复数 `forslag`"
+                }
+            ],
+            "nuance": "Mehmet 并没有当场替所有员工最终接受协议，而是准备向其他同事传达方案，再给出答复。这符合他作为员工代表的角色。`vender tilbage i morgen` 是非常自然的职场承诺，表示后续会重新联系并反馈结果，而不是字面意义上返回某个地点。",
+            "transfer": [
+                "Det lyder fair. Jeg sender forslaget videre til kollegerne.",
+                "Jeg vender tilbage til dig i morgen.",
+                "Vi skal først drøfte forslaget med de andre."
+            ],
+            "pitfall": "`vende tilbage` 在商务语境经常是回复、跟进，不能只理解为身体返回。`fair` 表示公平合理，不一定意味着正式协议已经签署。"
+        },
+        {
+            "id": "U07-C021",
+            "zh": "谈判研究者会区分“立场”和“利益”：立场是一个人提出的具体要求，而利益则是他之所以提出这一要求的深层原因。",
+            "grammar": "主句 `Forhandlingsforskere skelner mellem positioner og interesser` 使用固定搭配 `skelne mellem X og Y`。冒号后通过两个平行的定义结构解释概念：`En position er det, man kræver` 与 `en interesse er grunden til, at man kræver det`。`mens` 在这里表示对照，而非单纯同时发生。`grunden til, at` 是表达原因的固定结构。",
+            "vocabulary": [
+                {
+                    "da": "skelne mellem",
+                    "zh": "区分……与……",
+                    "note": "学术分析和论证中的重要搭配"
+                },
+                {
+                    "da": "en position",
+                    "zh": "谈判立场；具体要求",
+                    "note": "这里不是物理位置"
+                },
+                {
+                    "da": "en interesse",
+                    "zh": "利益；实际需求；关切",
+                    "note": "谈判语境中不等于兴趣爱好"
+                },
+                {
+                    "da": "kræve",
+                    "zh": "要求；主张必须得到",
+                    "note": "`kræve – krævede – krævet`"
+                },
+                {
+                    "da": "grunden til, at",
+                    "zh": "……的原因",
+                    "note": "正式论述中非常实用"
+                }
+            ],
+            "nuance": "这是整篇文章最重要的谈判理论概念。`position` 是表面提出的方案或要求，`interesse` 则是该要求背后的实际需要。双方立场相反，并不意味着其核心利益必然无法同时满足。作者借前面的仓库谈判说明：先弄清楚彼此为什么提出要求，才能发现新的解决方案。",
+            "transfer": [
+                "I forhandlinger er det vigtigt at skelne mellem positioner og interesser.",
+                "En position er det, man kræver, mens interessen forklarer hvorfor.",
+                "Vi bør undersøge de bagvedliggende interesser."
+            ],
+            "pitfall": "`interesse` 在这里主要是利益或实际关切，不是业余兴趣。`position` 在谈判中是立场，不是工作职位。"
+        },
+        {
+            "id": "U07-C022",
+            "zh": "Tina 的谈判立场是让所有人都上两个星期六的班；而她真正关心的是确保订单能够按时发出去。",
+            "grammar": "句子使用两个平行判断结构：`Tinas position var …` 和 `hendes interesse var, at …`。分号连接两项相关但不同的内容。`at ordrerne kom ud` 是内容从句，使用过去时 `kom`，与主句过去时 `var` 保持叙事时间一致。`komme ud` 在物流语境中表示订单完成发出或货物发送出去。",
+            "vocabulary": [
+                {
+                    "da": "en position",
+                    "zh": "谈判立场",
+                    "note": "具体提出的方案或要求"
+                },
+                {
+                    "da": "en interesse",
+                    "zh": "实际利益；深层需求",
+                    "note": "说明提出要求的原因"
+                },
+                {
+                    "da": "ordrerne kommer ud",
+                    "zh": "订单能够发出去；完成发货",
+                    "note": "物流语境中的自然表达"
+                },
+                {
+                    "da": "to lørdage til alle",
+                    "zh": "每个人两个星期六的工作班次",
+                    "note": "省略式排班表达"
+                }
+            ],
+            "nuance": "这一句明确揭示管理层最初提出的具体方案并不等于其最终目标。Tina 真正需要的是及时交付订单，而不是为了让所有员工都必须上两个星期六的班。只要交付目标能够达成，就有空间采用其他排班方式。作者由此说明按利益谈判为什么比坚持立场更有成效。",
+            "transfer": [
+                "Ledelsens position var obligatorisk weekendarbejde.",
+                "Den bagvedliggende interesse var at sikre leverancerne.",
+                "Vi skal skelne mellem den foreslåede løsning og det egentlige behov."
+            ],
+            "pitfall": "`komme ud` 在这里指货物或订单发出，不是员工从仓库走出去。`interesse` 不能只译成 Tina 对某件事感兴趣。"
+        },
+        {
+            "id": "U07-C023",
+            "zh": "Mehmet 最初的立场是拒绝这项安排；但他真正想保护的是员工，避免他们在圣诞节前就因为过度工作而精疲力尽。",
+            "grammar": "句子延续上一句的平行结构：`Mehmets position var et nej` 与 `hans interesse var, at …`。`et nej` 将否定回应名词化，表示明确的拒绝立场。`at ingen blev slidt ned før jul` 是内容从句，`blive slidt ned` 使用 `blive + 过去分词`，表示经历某个逐渐消耗的过程。",
+            "vocabulary": [
+                {
+                    "da": "et nej",
+                    "zh": "拒绝；否定答复",
+                    "note": "将 `nej` 作为名词使用"
+                },
+                {
+                    "da": "blive slidt ned",
+                    "zh": "被长期消耗；累得精疲力尽",
+                    "note": "可用于工作压力和身心健康"
+                },
+                {
+                    "da": "før jul",
+                    "zh": "圣诞节之前",
+                    "note": "丹麦语节日时间表达"
+                },
+                {
+                    "da": "en interesse",
+                    "zh": "需要保护的利益；核心关切",
+                    "note": "在此强调员工的工作负担"
+                }
+            ],
+            "nuance": "Mehmet 的表面立场是拒绝加班要求，但真实目标不是阻止所有周末工作，而是避免员工因持续加班而身心耗竭。`slidt ned` 比普通的 `træt` 疲惫更强，暗示长期压力造成的累积性消耗。这也解释为什么他愿意接受自愿报名和轮流排班的替代方案。",
+            "transfer": [
+                "Medarbejdernes vigtigste interesse var at undgå overbelastning.",
+                "Ingen skal blive slidt ned af konstant overarbejde.",
+                "Mehmet sagde nej til forslaget, men ikke til enhver form for weekendarbejde."
+            ],
+            "pitfall": "`slidt ned` 不只描述物品磨损，也可以指人因长期压力而被消耗。`et nej` 是名词化的拒绝，不是普通句子里的否定副词 `ikke`。"
+        },
+        {
+            "id": "U07-C024",
+            "zh": "两个人都没有在自己最看重的事情上让步，却仍然找到了一个双方进会议室时都没有想到的解决方案。",
+            "grammar": "主句由两个并列谓语构成：`Ingen af dem gav sig` 和 `fandt de en løsning`。`give sig på noget` 在这里表示在某个问题上让步。`det, der betød mest for dem` 是嵌套关系结构，说明他们最重视的利益。`alligevel` 表示尽管如此。`en løsning, som ingen af dem havde haft med ind i lokalet` 包含关系从句，使用过去完成时 `havde haft`，强调在找到方案之前，双方都没有带着这个具体方案进入谈判。",
+            "vocabulary": [
+                {
+                    "da": "give sig",
+                    "zh": "让步；妥协",
+                    "note": "谈判语境中的固定表达"
+                },
+                {
+                    "da": "betyde mest for nogen",
+                    "zh": "对某人最重要",
+                    "note": "用于描述核心利益和价值"
+                },
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；仍然",
+                    "note": "构成让步与结果之间的对照"
+                },
+                {
+                    "da": "finde en løsning",
+                    "zh": "找到解决方案",
+                    "note": "高频职场表达"
+                },
+                {
+                    "da": "have noget med ind",
+                    "zh": "事先带着某种东西或想法进入",
+                    "note": "本句抽象地指谈判前已形成的方案"
+                }
+            ],
+            "nuance": "这是仓库谈判故事的核心结论。双方确实调整了最初提出的具体立场，却没有牺牲最重要的利益：Tina 确保订单交付，Mehmet 避免员工承担过重班次。`alligevel` 突出看似矛盾的结果。这个例子说明成功谈判不一定是双方各退一步，也可以创造一个原先都未想到的新方案。",
+            "transfer": [
+                "Ingen af parterne gav sig på deres vigtigste interesser.",
+                "Alligevel fandt de en løsning, som begge kunne acceptere.",
+                "Den bedste løsning var ikke blevet foreslået før mødet."
+            ],
+            "pitfall": "`give sig` 在谈判中是让步，不是把自己交出去。`havde haft med ind` 使用过去完成时，强调该方案在进入会议之前并不存在于双方的预设中。"
+        },
+        {
+            "id": "U07-C025",
+            "zh": "丹麦企业相对容易招聘和解雇员工；但对于那些失去工作的人，社会也提供了一定的保障网络。",
+            "grammar": "第一分句 `Danske virksomheder kan forholdsvis let ansætte og afskedige folk` 使用情态动词 `kan` 连接两个并列不定式。`forholdsvis let` 是程度限定，表示相对容易。第二分句的主语 `den, der mister sit arbejde` 是泛指人的关系结构，`sit` 回指失业的那个人。`har et sikkerhedsnet` 使用比喻表达，表示有相应保障机制。",
+            "vocabulary": [
+                {
+                    "da": "forholdsvis",
+                    "zh": "相对而言；比较",
+                    "note": "用于避免绝对化判断"
+                },
+                {
+                    "da": "ansætte",
+                    "zh": "雇用；招聘",
+                    "note": "与 `afskedige` 解雇相对"
+                },
+                {
+                    "da": "afskedige",
+                    "zh": "解雇；解除雇佣关系",
+                    "note": "比口语 `fyre` 更正式"
+                },
+                {
+                    "da": "miste sit arbejde",
+                    "zh": "失去工作；失业",
+                    "note": "反身物主代词 `sit` 回指主语"
+                },
+                {
+                    "da": "et sikkerhedsnet",
+                    "zh": "安全网；社会保障网络",
+                    "note": "可用于失业保障与社会政策"
+                }
+            ],
+            "nuance": "作者用 `men` 概括丹麦劳动力市场的两面性：企业在用工方面具有一定灵活性，而劳动者在失业时可以依靠相应保障机制。`forholdsvis` 特别重要，表示与其他制度相比相对容易，而不是雇主可以无条件解雇任何人。`sikkerhedsnet` 是社会政策中的常见比喻。",
+            "transfer": [
+                "Danske virksomheder har forholdsvis fleksible regler for ansættelse og afskedigelse.",
+                "Den, der mister sit arbejde, kan have adgang til et socialt sikkerhedsnet.",
+                "Systemet forsøger at kombinere fleksibilitet med tryghed."
+            ],
+            "pitfall": "`afskedige` 是解雇，不是普通地向某人告别。`sikkerhedsnet` 在这里是社会保障安排，不是实际防止坠落的网。"
+        },
+        {
+            "id": "U07-C026",
+            "zh": "这种组合被称为 flexicurity，即“灵活保障模式”——这个词由英语中表示灵活性与安全保障的两个词融合而成。",
+            "grammar": "主句 `Kombinationen kaldes flexicurity` 使用 s-被动 `kaldes`，表示这种制度组合被称为某个名称。破折号后的 `en sammentrækning af …` 是同位解释，说明词语的构成。`de engelske ord for fleksibilitet og sikkerhed` 表示英语中分别对应这两个概念的词。",
+            "vocabulary": [
+                {
+                    "da": "en kombination",
+                    "zh": "组合；结合",
+                    "note": "用于说明不同机制的共同作用"
+                },
+                {
+                    "da": "flexicurity",
+                    "zh": "灵活保障模式；灵活性与安全保障相结合的制度",
+                    "note": "由英语 flexibility 与 security 融合而成"
+                },
+                {
+                    "da": "en sammentrækning",
+                    "zh": "缩合形式；融合构词",
+                    "note": "语言学中可指多个词或词素组合成一个形式"
+                },
+                {
+                    "da": "fleksibilitet",
+                    "zh": "灵活性",
+                    "note": "en fleksibilitet"
+                },
+                {
+                    "da": "sikkerhed",
+                    "zh": "安全；保障；安全性",
+                    "note": "这里与劳动者的保障有关"
+                }
+            ],
+            "nuance": "这一句给丹麦劳动力市场模式命名。`flexicurity` 不单是灵活就业，也不单是福利保障，而是试图将企业调整用工的灵活性与劳动者失业后的收入保障和就业支持结合起来。作者用词源构成帮助读者记忆制度的两个组成方向。",
+            "transfer": [
+                "Den danske model forbindes ofte med flexicurity.",
+                "Flexicurity kombinerer fleksibilitet og social tryghed.",
+                "Begrebet er dannet ved at kombinere to engelske ord."
+            ],
+            "pitfall": "`sikkerhed` 在这个语境中不只指人身安全，还涉及就业和收入保障。`flexicurity` 不是所有灵活用工制度的通用同义词。"
+        },
+        {
+            "id": "U07-C027",
+            "zh": "失业保险金由失业保险基金提供，而个人必须自行申请加入相应的失业保险基金。",
+            "grammar": "主句 `Dagpengene kommer fra en a-kasse` 使用 `komme fra` 表示资金或待遇来源。`som man selv skal melde sig ind i` 是关系从句，修饰 `a-kasse`。`melde sig ind i` 是反身动词结构，表示加入组织；介词 `i` 留在关系从句末尾。`selv` 强调个人必须主动办理加入手续。",
+            "vocabulary": [
+                {
+                    "da": "dagpenge",
+                    "zh": "失业保险金；失业期间的日津贴",
+                    "note": "本句指失业保险体系中的待遇"
+                },
+                {
+                    "da": "en a-kasse",
+                    "zh": "失业保险基金；失业保险机构",
+                    "note": "`a` 是 `arbejdsløshed` 失业的缩写来源"
+                },
+                {
+                    "da": "melde sig ind i",
+                    "zh": "申请加入；成为……的成员",
+                    "note": "反身结构，固定介词 `i`"
+                },
+                {
+                    "da": "komme fra",
+                    "zh": "来自；由……提供",
+                    "note": "可以用于资金来源和制度来源"
+                }
+            ],
+            "nuance": "这句强调丹麦失业保险体系中的一个重要实际区别：`a-kasse` 会员身份需要主动加入，不能因为在丹麦工作就假定自己自动获得相应保险待遇。`selv` 明确突出个人行动的重要性。领取 `dagpenge` 还需要满足相关资格条件，不能将参加会员简单等同于立即获得给付资格。",
+            "transfer": [
+                "Man skal selv melde sig ind i en a-kasse.",
+                "Dagpenge forudsætter, at man opfylder de relevante betingelser.",
+                "Jeg vil gerne undersøge, hvilken a-kasse der passer til mit arbejde."
+            ],
+            "pitfall": "`a-kasse` 是失业保险机构，不是银行储蓄账户。`melde sig ind i` 是加入，`melde sig ud af` 是退出，介词方向不同。"
+        },
+        {
+            "id": "U07-C028",
+            "zh": "加入失业保险基金和加入工会是两回事，尽管很多人同时参加了这两类组织。",
+            "grammar": "主句 `Medlemskab af en a-kasse er noget andet end medlemskab af en fagforening` 使用 `være noget andet end`，表示两个概念并不相同。`medlemskab af` 表示某个组织的会员身份。`selvom mange er medlem af begge` 是让步从句，`begge` 回指失业保险基金和工会这两类组织。",
+            "vocabulary": [
+                {
+                    "da": "et medlemskab",
+                    "zh": "会员身份；会籍",
+                    "note": "`medlemskab af` 某组织的会员身份"
+                },
+                {
+                    "da": "noget andet end",
+                    "zh": "不同于；是另一回事",
+                    "note": "高频概念区别表达"
+                },
+                {
+                    "da": "være medlem af",
+                    "zh": "是……的成员",
+                    "note": "固定介词 `af`"
+                },
+                {
+                    "da": "begge",
+                    "zh": "两者都",
+                    "note": "严格对应两个对象"
+                },
+                {
+                    "da": "en fagforening",
+                    "zh": "工会",
+                    "note": "提供劳动权益代表、咨询等相关服务"
+                }
+            ],
+            "nuance": "作者特意纠正一种常见混淆：`a-kasse` 与 `fagforening` 不是同一制度。前者主要涉及失业保险，后者主要涉及劳动关系与会员权益。`selvom` 表明两种会员身份经常同时存在，但不能因此认为它们具有相同功能或自动互相包含。",
+            "transfer": [
+                "Medlemskab af en a-kasse er noget andet end medlemskab af en fagforening.",
+                "Mange vælger at være medlem af begge organisationer.",
+                "Det er vigtigt at undersøge, hvilke ydelser medlemskabet omfatter."
+            ],
+            "pitfall": "`medlemskab af` 是组织会员身份，`medlem af` 是成为组织成员。加入工会并不自动等于加入失业保险基金，反过来也一样。"
+        },
+        {
+            "id": "U07-C029",
+            "zh": "这种制度背后的理念是：如果一个人知道自己万一失业也有人托底，那么他在劳动力市场上就更容易敢于冒险、尝试新的机会。",
+            "grammar": "主句 `Tanken er, at …` 引出制度理念。内容从句内部采用形式主语结构 `det er lettere at tage chancer`。`når man ved` 是时间或条件从句，后接 `at man bliver grebet` 内容从句。`hvis man falder` 又是嵌套条件从句。`bliver grebet` 是被动结构，`falder` 与 `grebet` 构成跌倒后被接住的连续比喻。",
+            "vocabulary": [
+                {
+                    "da": "Tanken er, at",
+                    "zh": "理念是……；背后的思路是……",
+                    "note": "政策和制度解释中很实用"
+                },
+                {
+                    "da": "tage chancer",
+                    "zh": "承担风险；大胆尝试",
+                    "note": "既可用于职业，也可用于其他人生选择"
+                },
+                {
+                    "da": "blive grebet",
+                    "zh": "被接住；得到支持",
+                    "note": "此处是社会保障的比喻"
+                },
+                {
+                    "da": "falde",
+                    "zh": "跌倒；下降；遭遇失败",
+                    "note": "`falde – faldt – faldet`"
+                },
+                {
+                    "da": "på arbejdsmarkedet",
+                    "zh": "在劳动力市场上",
+                    "note": "用于职业流动和就业机会"
+                }
+            ],
+            "nuance": "这是 `flexicurity` 最生动的解释。社会保障被比喻成一个人在跌倒时会接住他的安全网，因此人们可能更愿意转换工作、尝试新岗位或承担职业风险。`Tanken er` 明确表示制度设计理念，而不是声称所有人都会因此更愿意冒险。`bliver grebet` 具有情感上的安全感，而不只是金钱补偿。",
+            "transfer": [
+                "Tanken er, at tryghed kan gøre det lettere at tage chancer.",
+                "Det er lettere at skifte job, når man har et økonomisk sikkerhedsnet.",
+                "Hvis man mister sit arbejde, er det vigtigt at kunne få hjælp."
+            ],
+            "pitfall": "`tage chancer` 是冒险尝试，不是拿走机会。`blive grebet, hvis man falder` 是社会保障的比喻，不表示失业者一定无条件获得某项待遇。"
+        },
+        {
+            "id": "U07-C030",
+            "zh": "员工入职时，雇主必须提供一份书面说明，列明最重要的雇佣条件。",
+            "grammar": "句首 `Når man bliver ansat` 是时间从句，`bliver ansat` 使用 `blive` 被动，表示被雇用。主句 `skal arbejdsgiveren give` 遵循 V2 语序，`skal` 表示义务。`en skriftlig oversigt over de vigtigste vilkår` 是宾语名词短语，其中 `oversigt over` 表示关于某些条件的概览。",
+            "vocabulary": [
+                {
+                    "da": "blive ansat",
+                    "zh": "入职；被雇用",
+                    "note": "被动结构"
+                },
+                {
+                    "da": "en arbejdsgiver",
+                    "zh": "雇主",
+                    "note": "与 `en medarbejder` 员工相对"
+                },
+                {
+                    "da": "skriftlig",
+                    "zh": "书面的",
+                    "note": "与 `mundtlig` 口头的相对"
+                },
+                {
+                    "da": "en oversigt over",
+                    "zh": "……的概览；……的汇总说明",
+                    "note": "固定介词 `over`"
+                },
+                {
+                    "da": "ansættelsesvilkår",
+                    "zh": "雇佣条件；劳动合同条件",
+                    "note": "可涉及薪酬、工时和其他重要事项"
+                }
+            ],
+            "nuance": "作者将宏观劳动市场模式转向个人入职时应获得的基本信息。`skriftlig oversigt` 强调重要雇佣条件应明确记录，避免仅依赖口头沟通。`skal` 表达义务，而不是雇主可以选择是否提供。具体文件形式和交付期限还需依据适用规则判断。",
+            "transfer": [
+                "Når man bliver ansat, skal man have oplysninger om sine ansættelsesvilkår.",
+                "Arbejdsgiveren skal give medarbejderen en skriftlig oversigt.",
+                "Jeg vil gerne have vilkårene bekræftet skriftligt."
+            ],
+            "pitfall": "`blive ansat` 是被雇用，`ansætte nogen` 是雇用某人。`en oversigt over` 是概览，不必然等于一份包含所有细节的完整合同。"
+        },
+        {
+            "id": "U07-C031",
+            "zh": "尽管如此，女性的平均收入仍然低于男性，原因之一是女性更常从事薪酬较低的职业，例如护理和照护工作。",
+            "grammar": "句首 `Alligevel` 表示尽管如此，随后采用 `tjener kvinder` 的 V2 倒装。`i gennemsnit mindre end mænd` 是比较结构，表示女性平均收入低于男性。`blandt andet fordi` 引导原因从句，表示所列原因只是多种因素之一。`de oftere arbejder i fag med lavere løn` 中，`oftere` 是频率比较级，`som pleje og omsorg` 提供职业领域的例子。",
+            "vocabulary": [
+                {
+                    "da": "alligevel",
+                    "zh": "尽管如此；然而仍然",
+                    "note": "用于引出与前文预期相反的事实"
+                },
+                {
+                    "da": "i gennemsnit",
+                    "zh": "平均而言",
+                    "note": "统计描述中的常见表达"
+                },
+                {
+                    "da": "tjene mindre end",
+                    "zh": "收入低于……；挣得比……少",
+                    "note": "比较结构"
+                },
+                {
+                    "da": "blandt andet fordi",
+                    "zh": "原因之一是；部分由于",
+                    "note": "明确表示并非唯一原因"
+                },
+                {
+                    "da": "pleje og omsorg",
+                    "zh": "护理与照护",
+                    "note": "用于医疗、社会服务和福利劳动领域"
+                }
+            ],
+            "nuance": "作者指出劳动市场即使具有较成熟的制度安排，也不意味着所有群体的平均收入完全相同。`blandt andet fordi` 是最重要的限定：职业分布是其中一个解释因素，而不是对全部男女收入差异的最终证明。`i gennemsnit` 也强调这是群体统计差异，不能据此直接判断每一位女性与每一位男性的收入关系。",
+            "transfer": [
+                "Kvinder tjener i gennemsnit mindre end mænd.",
+                "Forskellen skyldes blandt andet, at kvinder og mænd arbejder i forskellige brancher.",
+                "Det er vigtigt at undersøge flere mulige forklaringer på lønforskelle."
+            ],
+            "pitfall": "`i gennemsnit` 是平均而言，不适用于断言每个个体都如此。`blandt andet fordi` 意味着只列出部分原因，不能理解为已经排除了所有其他因素。"
+        },
+        {
+            "id": "U07-C032",
+            "zh": "这种差异究竟源于不公平的薪酬待遇，还是个人自由作出的选择，是一个足以让原本平静的讨论突然变得激烈的问题。",
+            "grammar": "整个 `Hvorvidt det skyldes uretfærdige lønninger eller frie valg` 是位于句首的间接是否疑问从句，并作为主句的主语。`hvorvidt` 表示是否、究竟是哪一种情况。`skyldes` 表示由某种原因造成。主句 `er et af de spørgsmål` 使用部分结构。关系从句 `der kan få en ellers rolig debat til at blive ophedet` 使用使役结构 `få noget til at + 不定式`，`ellers` 表示原本在其他情况下会保持平静。",
+            "vocabulary": [
+                {
+                    "da": "hvorvidt",
+                    "zh": "是否；究竟是否",
+                    "note": "较正式，适合书面分析和间接疑问"
+                },
+                {
+                    "da": "skyldes",
+                    "zh": "由……造成；归因于",
+                    "note": "直接接原因"
+                },
+                {
+                    "da": "uretfærdig",
+                    "zh": "不公平的；不公正的",
+                    "note": "与 `retfærdig` 公平的相对"
+                },
+                {
+                    "da": "frie valg",
+                    "zh": "自由选择；自主作出的决定",
+                    "note": "在本句中属于争论的一种解释"
+                },
+                {
+                    "da": "blive ophedet",
+                    "zh": "变得激烈；争论升温",
+                    "note": "可用于公共辩论和会议"
+                }
+            ],
+            "nuance": "作者描述的是一种容易激起强烈立场的公共争论，而不是替任何一方作出结论。`Hvorvidt … eller …` 把两种常见解释并置，但现实中的收入差异也可能涉及多种因素相互作用，不能据此认定只有两个互斥答案。`en ellers rolig debat` 与 `blive ophedet` 形成反差，突出议题的争议性。",
+            "transfer": [
+                "Hvorvidt forskellen skyldes strukturelle forhold eller individuelle valg, er stadig til debat.",
+                "Spørgsmålet kan hurtigt få diskussionen til at blive ophedet.",
+                "Vi bør skelne mellem dokumenterede lønforskelle og forklaringerne på dem."
+            ],
+            "pitfall": "`hvorvidt` 是是否，不是程度上的多高。`skyldes` 表示归因于，不能与 `skylde nogen penge` 欠某人钱混淆。`ophedet` 在这里是争论激烈，不是实际温度升高。"
+        },
+        {
+            "id": "U07-C033",
+            "zh": "参加传统工会的受雇劳动者比例已经下降，而越来越多的人选择加入会费更便宜的其他类型工会。",
+            "grammar": "第一分句主语 `Andelen af lønmodtagere i de traditionelle fagforeninger` 是较长的名词短语，谓语 `er faldet` 使用现在完成时，说明比例已下降。第二分句 `flere har valgt` 同样使用现在完成时，强调选择变化。`billigere alternative fagforeninger` 中，比较级 `billigere` 修饰其他类型工会。`flere` 在这里表示更多人。",
+            "vocabulary": [
+                {
+                    "da": "andelen af",
+                    "zh": "……的比例；占比",
+                    "note": "`en andel` 份额、比例"
+                },
+                {
+                    "da": "en lønmodtager",
+                    "zh": "受雇劳动者；工资收入者",
+                    "note": "区别于自主经营的自雇者"
+                },
+                {
+                    "da": "falde",
+                    "zh": "下降；减少",
+                    "note": "`falde – faldt – faldet`"
+                },
+                {
+                    "da": "traditionel",
+                    "zh": "传统的",
+                    "note": "可用于组织、制度和惯例"
+                },
+                {
+                    "da": "alternativ",
+                    "zh": "替代性的；另一种类型的",
+                    "note": "这里用于区分不同工会组织"
+                }
+            ],
+            "nuance": "本句指出传统工会面临的组织成员变化。`andelen` 表示比例下降，不必然等于某一时期绝对会员人数也按相同比例下降。`billigere alternative fagforeninger` 强调费用差异，但没有详细说明各类工会在集体谈判和会员服务方面的区别。作者借此引出传统劳资协商制度未来可能面临的挑战。",
+            "transfer": [
+                "Andelen af medlemmer i de traditionelle fagforeninger er faldet.",
+                "Flere lønmodtagere vælger alternative organisationer.",
+                "Pris og medlemsfordele kan påvirke valget af fagforening."
+            ],
+            "pitfall": "`andel` 是比例或份额，不能直接等同于绝对人数。`alternativ` 不表示一定更好或更差，只表示不同类型的选择。"
+        },
+        {
+            "id": "U07-C034",
+            "zh": "通过手机应用接单的外卖骑手、保洁人员和自由职业者，在合同或身份认定上往往被视为自雇者，因此也可能不受任何集体劳动协议的保障。",
+            "grammar": "主语由三个并列职业名词组成：`Madbude, rengøringshjælpere og freelancere`。`der får deres opgaver gennem en app` 是关系从句，限定这些劳动者的接单方式。主句 `er ofte selvstændige på papiret` 使用 `på papiret` 表示形式上的身份。`og dermed ikke omfattet af nogen overenskomst` 省略重复的系动词 `er`，`dermed` 引出随之产生的制度后果。",
+            "vocabulary": [
+                {
+                    "da": "et madbud",
+                    "zh": "外卖配送员；送餐员",
+                    "note": "复数 `madbude`"
+                },
+                {
+                    "da": "en rengøringshjælper",
+                    "zh": "保洁人员；清洁服务人员",
+                    "note": "劳动服务职业"
+                },
+                {
+                    "da": "en freelancer",
+                    "zh": "自由职业者",
+                    "note": "复数 `freelancere`"
+                },
+                {
+                    "da": "selvstændig på papiret",
+                    "zh": "名义上是自雇者；形式上被认定为独立经营者",
+                    "note": "`på papiret` 强调书面或形式身份"
+                },
+                {
+                    "da": "dermed",
+                    "zh": "因此；由此",
+                    "note": "用于引出前述事实的结果"
+                }
+            ],
+            "nuance": "这是文章对平台经济的核心观察。`på papiret` 带有批判性的距离感：劳动者虽然在合同形式上可能是自雇者，但实际工作安排、收入依赖和平台控制程度未必与传统独立经营者相同。`ofte` 是重要限定，不能由此断言所有平台工作者都具有相同法律身份或完全不受保护。句子关注的是传统集体协议制度面对新型劳动安排时可能存在的覆盖缺口。",
+            "transfer": [
+                "Mange platformarbejdere får deres opgaver gennem en app.",
+                "Nogle er selvstændige på papiret, men arbejder under forhold, der minder om almindelig ansættelse.",
+                "Det er vigtigt at undersøge, hvilke overenskomster og regler der omfatter arbejdet."
+            ],
+            "pitfall": "`selvstændig` 在这里是自雇者、独立经营者，不是性格独立。`på papiret` 表示名义上，不是单纯写在一张纸上的地点说明。`dermed` 表示由此产生的结果。"
+        },
+        {
+            "id": "U07-C035",
+            "zh": "丹麦模式的支持者强调，这套制度使丹麦的劳资冲突相对较少、就业水平较高，同时也形成了能够兼顾企业竞争力的工资水平。",
+            "grammar": "主语 `Tilhængerne af modellen` 后接 `fremhæver`，引出支持者重点强调的观点。`at den har givet Danmark …` 是内容从句，`give nogen noget` 在这里表示制度带来某些结果。后面并列三个名词性结果：较少的劳动争议、较高的就业水平，以及特定性质的工资。`lønninger, der tager hensyn til virksomhedernes konkurrenceevne` 包含关系从句，`tage hensyn til` 表示考虑或兼顾。",
+            "vocabulary": [
+                {
+                    "da": "en tilhænger af",
+                    "zh": "……的支持者",
+                    "note": "用于政治、政策和制度争论"
+                },
+                {
+                    "da": "fremhæve",
+                    "zh": "强调；特别指出",
+                    "note": "`fremhæve – fremhævede – fremhævet`"
+                },
+                {
+                    "da": "en arbejdskonflikt",
+                    "zh": "劳资冲突；劳动争议",
+                    "note": "可能涉及罢工和其他集体行动"
+                },
+                {
+                    "da": "beskæftigelse",
+                    "zh": "就业；就业水平",
+                    "note": "`høj beskæftigelse` 高就业水平"
+                },
+                {
+                    "da": "tage hensyn til",
+                    "zh": "考虑；顾及；兼顾",
+                    "note": "非常重要的丹麦语固定搭配"
+                }
+            ],
+            "nuance": "作者明确把这些积极评价归属于 `Tilhængerne af modellen`，也就是支持者，而不是将全部制度效果作为已经在文中证明的事实。`forholdsvis få` 再次体现相对性。`tage hensyn til virksomhedernes konkurrenceevne` 说明支持者认为工资形成机制不仅关注劳动者待遇，也考虑企业在市场上的竞争条件。",
+            "transfer": [
+                "Tilhængerne fremhæver modellens betydning for beskæftigelsen.",
+                "Overenskomsterne skal tage hensyn til både medarbejdere og virksomheder.",
+                "Modellen bliver ofte fremhævet som en styrke ved det danske arbejdsmarked."
+            ],
+            "pitfall": "`tage hensyn til` 是考虑或兼顾，不能理解为接受某人全部要求。`beskæftigelse` 指就业或从事工作，不等于 `arbejdsløshed` 失业。"
+        },
+        {
+            "id": "U07-C036",
+            "zh": "问题是：一份诞生于1899年的劳资协议，究竟能否适应一个连老板都变成了手机应用程序的新时代劳动力市场？",
+            "grammar": "主句 `Spørgsmålet er` 后接由 `om` 引导的间接是否疑问从句。`en aftale fra 1899` 是从句主语，`kan rumme` 表示能够容纳、涵盖或适应。`et arbejdsmarked, hvor chefen er en app` 包含地点或领域性质的关系从句，`hvor` 在这里指某种劳动力市场环境。`chefen er en app` 是高度浓缩的比喻，表示管理、派单或控制功能由平台系统承担。",
+            "vocabulary": [
+                {
+                    "da": "Spørgsmålet er, om",
+                    "zh": "问题在于是否……",
+                    "note": "高级议论文和政策分析中的高价值开头"
+                },
+                {
+                    "da": "rumme",
+                    "zh": "容纳；涵盖；有能力适应",
+                    "note": "抽象语境中可指制度适应新的情况"
+                },
+                {
+                    "da": "et arbejdsmarked",
+                    "zh": "劳动力市场",
+                    "note": "可讨论就业结构和劳动关系制度"
+                },
+                {
+                    "da": "en chef",
+                    "zh": "老板；主管；负责人",
+                    "note": "本句用于平台管理的比喻"
+                },
+                {
+                    "da": "en app",
+                    "zh": "手机应用程序",
+                    "note": "此处代表平台化的组织与管理方式"
+                }
+            ],
+            "nuance": "这是全文极具力量的开放式结尾。作者从1899年的劳资协议出发，最终提出传统劳动关系制度能否适应平台经济的问题。`rumme` 是关键词：问题不只是旧协议是否仍存在，而是其制度框架是否有能力处理新型用工关系。`chefen er en app` 用生动的拟人化比喻指出，平台算法和软件可能承担传统管理者的部分功能。作者没有直接回答这个问题，而是邀请读者思考丹麦模式面临的未来挑战。",
+            "transfer": [
+                "Spørgsmålet er, om den danske model kan rumme nye former for arbejde.",
+                "Kan de eksisterende regler følge med udviklingen på arbejdsmarkedet?",
+                "Platformøkonomien udfordrer den traditionelle forståelse af forholdet mellem arbejdsgiver og arbejdstager."
+            ],
+            "pitfall": "`rumme` 在这里是制度上能够涵盖或适应，不是物理空间里装得下。`chefen er en app` 是比喻，不意味着法律意义上的雇主真的必然是一款软件。"
+        }
+    ]
+}
